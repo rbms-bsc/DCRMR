@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://ladylazarus3.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/Test2"
 repository               : # GitHub username/repo-name e.g. "ladylazarus3/Test2"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
