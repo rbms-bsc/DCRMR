@@ -2,11 +2,39 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Title"
+    url: /docs/Title/
+        
+# example navigation
+docs:
+  - title: "Title"
+    url: /docs/Title/
+    children:
+      - title: "Title proper"
+        url: /docs/Title/Title-proper/
+      - title: "Note on title"
+        url: /docs/Title/Note-on-title/
+  - title: "Edition"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /docs/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /docs/Edition/Note-on-edition-statement/
+        
+pages:
+  - title: "Title"
+    url: /pages/Title/
+    children:
+      - title: "Title proper"
+        url: /pages/Title/Title-proper/
+      - title: "Note on title"
+        url: /pages/Title/Note-on-title/
+  - title: "Edition"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /pages/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /pages/Edition/Note-on-edition-statement/
+
