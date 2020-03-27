@@ -7,14 +7,75 @@ main:
         
 # example navigation
 docs:
-  - title: "Title"
+
+  - title: "Preface"
+    url: /docs/Preface/
+    children:
+      - title: "Background"
+        url: /docs/Preface/Background/
+      - title: "Changes from DCRB"
+        url: /docs/Preface/Changes-from-DCRB/
+      - title: "Acknowledgements"
+  - title: "Introduction"
+    url: /docs/Introduction/
+    children:
+      - title: "Scope and purpose"
+        url: /docs/Introduction/Scope-and-purpose/
+      - title: "Relationship to other standards"
+        url: /docs/Introduction/Relationship-to-other-standards/
+      - title: "Objectives and principles"
+        url: /docs/Introduction/Objectives-and-principles/
+      - title: "Options"
+        url: /docs/Introduction/Options/
+      - title: "Language preferences"
+        url: /docs/Introduction/Language-preferences/
+      - title: "Spelling and style"
+        url: /docs/Spelling-and-style/
+      - title: "Acronyms"
+        url: /docs/Introduction/Acronyms
+      - title: "Examples and notes"
+        url: /docs/Introduction/Examples-and-notes/
+      - title: "Integrity of the copy"
+        url: /docs/Introduction/Integrity-of-the-copy/
+  - title: "General Rules"
+    url: /docs/General-Rules/
+    children:
+      - title: "Scope"
+        url: /docs/General-Rules/Scope
+      - title: "Required elements"
+        url: /docs/General-Rules/Required-elements/
+      - title: "Data provenance"
+        url: /docs/General-Rules/Data-provenance/
+      - title: "Punctuation"
+        url: /docs/General-Rules/Punctuation/
+      - title: "Language and script of the description"
+        url: /docs/General-Rules/Language-and-script-of-the-description/
+      - title: "Transcription"
+        url: /docs/General-Rules/Transcription/
+  - title: "Chapter 1. Title"
     url: /docs/Title/
     children:
+      - title: "Title of manifestation"
+        url: /docs/Title/Title-of-manifestation/
       - title: "Title proper"
         url: /docs/Title/Title-proper/
+      - title: "Parallel title proper"
+        url: /docs/Title/Parallel-title-proper/
+      - title: "Other title information"
+        url: /docs/Title/Other-title-information/
       - title: "Note on title"
-        url: /docs/Title/Note-on-title/
-  - title: "Edition"
+        url: /docs/Title/Note-on-title/        
+  - title: "Chapter 2. Statement of Responsibility"
+    url: /docs/Statement-of-Responsibility/
+    children:
+      - title: "Statement of responsibility"
+        url: /docs/Statement-of-Responsibility/statement of responsibility/
+      - title: "Parallel statement of responsibility relating to title proper"
+        url: /docs/Statement-of-Responsibility/Parallel-statement-of-responsibility-relating-to-title-proper
+      - title: "Note on statement of responsibility"
+        url: /docs/Statement-of-Responsibility/Note-on-statement-of-responsibility/
+        
+  - title: "Chapter 3. Edition"
     url: /docs/Edition/
     children:
       - title: "Edition statement"
@@ -22,19 +83,50 @@ docs:
       - title: "Note on edition statement"
         url: /docs/Edition/Note-on-edition-statement/
         
-pages:
-  - title: "Title"
-    url: /pages/Title/
-    children:
-      - title: "Title proper"
-        url: /pages/Title/Title-proper/
-      - title: "Note on title"
-        url: /pages/Title/Note-on-title/
-  - title: "Edition"
+  - title: "Chapter 4. Production Publication Distribution Manufacture"
     url: /docs/Edition/
     children:
       - title: "Edition statement"
-        url: /pages/Edition/Edition-statement/
+        url: /docs/Edition/Edition-statement/
       - title: "Note on edition statement"
-        url: /pages/Edition/Note-on-edition-statement/
+        url: /docs/Edition/Note-on-edition-statement/
+        
+  - title: "Chapter 5. Physical Description"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /docs/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /docs/Edition/Note-on-edition-statement/
+        
+  - title: "Chapter 6. Series"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /docs/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /docs/Edition/Note-on-edition-statement/
+        
+  - title: "Chapter 7. Other Notes"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /docs/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /docs/Edition/Note-on-edition-statement/
+        
+  - title: "Chapter 8. Item Notes"
+    url: /docs/Edition/
+    children:
+      - title: "Edition statement"
+        url: /docs/Edition/Edition-statement/
+      - title: "Note on edition statement"
+        url: /docs/Edition/Note-on-edition-statement/
+        
+  - title: "Appendicies"
+    url: /docs/Appendicies/
+  - title: "Glossary"
+    url: /docs/Glossary/
+        
+
 
