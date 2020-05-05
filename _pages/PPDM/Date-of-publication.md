@@ -26,7 +26,7 @@ sidebar:
 
 ## 4.5C General rule
 
-<a name="4.18C.1">4.5C.1</a> Transcribe dates of publication as part of this element. Include the day and month, if present.
+<a name="4.5C.1">4.5C.1</a> Transcribe dates of publication as part of this element. Include the day and month, if present.
 
 ```7th July 1766```
 
@@ -34,7 +34,7 @@ sidebar:
 
 ```MDCCXXXIII [1733]```
 
-<a name="4.18C.2">4.5C.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
+<a name="4.5C.2">4.5C.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
 
 ```Im Jahr Christi 1705```
 
@@ -42,7 +42,7 @@ sidebar:
 
 ```anno 1593```
 
-<a name="4.18C.3">4.5C.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.
+<a name="4.5C.3">4.5C.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.
 
 ```[August 12, 1804]```
 
