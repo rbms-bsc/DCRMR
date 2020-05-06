@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parallel place of publication
-parent: Production Publication Distribution Manufacture
+parent: PPDM
 nav_order: 3
 ---
 

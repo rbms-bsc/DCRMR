@@ -155,39 +155,39 @@ docs:
     url: /docs/Physical-Description/
     children:
       - title: "Extent of manifestation"
-        url: /docs/Physical-description/Extent-of-manifestation/
+        url: /docs/Physical-Description/Extent-of-manifestation/
       - title: "Note on extent of manifestation"
-        url: /docs/Physical-description/Note-on-extent-of-manifestation/
+        url: /docs/Physical-Description/Note-on-extent-of-manifestation/
       - title: "Illustrative content"
         url: /docs/Physical-description/Illustrative-content/
       - title: "Details of illustrative content"
-        url: /docs/Physical-description/Details-of-illustrative-content/
+        url: /docs/Physical-Description/Details-of-illustrative-content/
       - title: "Color content"
-        url: /docs/Physical-description/Color-content/
+        url: /docs/Physical-Description/Color-content/
       - title: "Details of color content"
-        url: /docs/Physical-description/Details-of-color-content/
+        url: /docs/Physical-Description/Details-of-color-content/
       - title: "Dimensions"
-        url: /docs/Physical-description/Dimensions/
+        url: /docs/Physical-Description/Dimensions/
       - title: "Details of base material"
-        url: /docs/Physical-description/Details-of-base-material/
+        url: /docs/Physical-Description/Details-of-base-material/
       - title: "Production method"
-        url: /docs/Physical-description/Production-method/
+        url: /docs/Physical-Description/Production-method/
       - title: "Details of layout"
-        url: /docs/Physical-description/Details-of-layout/
+        url: /docs/Physical-Description/Details-of-layout/
       - title: "Bibliographic format"
-        url: /docs/Physical-description/Bibliographic-format/
+        url: /docs/Physical-Description/Bibliographic-format/
       - title: "Font size"
-        url: /docs/Physical-description/Font-size/
+        url: /docs/Physical-Description/Font-size/
       - title: "Type of binding"
-        url: /docs/Physical-description/Type-of-binding/
+        url: /docs/Physical-Description/Type-of-binding/
       - title: "Content type"
-        url: /docs/Physical-description/Content-type/
+        url: /docs/Physical-Description/Content-type/
       - title: "Media type"
-        url: /docs/Physical-description/Media-type/
+        url: /docs/Physical-Description/Media-type/
       - title: "Carrier type"
-        url: /docs/Physical-description/Carrier-type/
+        url: /docs/Physical-Description/Carrier-type/
       - title: "Note on carrier"
-        url: /docs/Physical-description/Note-on-carrier/
+        url: /docs/Physical-Description/Note-on-carrier/
         
   - title: "Chapter 6. Series"
     url: /docs/Series/
@@ -253,7 +253,7 @@ docs:
       - title: "Note on extent of item"
         url: /docs/Item-Notes/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
-        url: /docs/Edition/Note-on-dimensions-of-item/
+        url: /docs/Item-Notes/Note-on-dimensions-of-item/
       - title: "Bound with"
         url: /docs/Item-Notes/Bound-with/
         
