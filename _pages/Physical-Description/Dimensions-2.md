@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Dimensions (Option 1)
+title: Dimensions (Option 2)
 permalink: docs/Physical-Description/Dimensions-2
 sidebar:
   nav: "docs"
