@@ -28,6 +28,8 @@ sidebar:
 
 <a name="8.5C.1">8.5C.1</a> Make any notes on the dimension of an item, if considered important. For general instructions on constructing item specific notes, see [note on item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-item).
 
+<a name="8.5C.2">8.5C.2</a> 
+
 ## 8.5D Differing sizes
 <a name="8.5D.1">8.5D.1</a> Record the height (and width, if applicable) of the item(s) if different from the measurements recorded in dimensions and considered important.  For guidance on recording dimensions when more than one exemplar of the manifestation is known, and the heights of the different items vary, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#56f-differing-sizes).
 

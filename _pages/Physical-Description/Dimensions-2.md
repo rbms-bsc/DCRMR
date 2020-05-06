@@ -47,7 +47,7 @@ If one of the measurements would normally be given in millimeters and one in cen
 
 ```95 x 120 mm```
 
-If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in note on dimensions of item.
+If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#85c-general-rule)
 
 ## 5.6E Volumes
 
@@ -58,6 +58,8 @@ If more than one exemplar of the manifestation is known, and the dimensions of t
 When the height of the text block differs by 3 centimeters or more from the height of the binding, specify both.
 
 ```text block 12 cm, in binding 20 cm```
+
+If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, make a note on the dimensions of manifestation or a note on dimensions of item [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#85c-general-rule)
 
 <a name="5.6E.2">5.6E.2</a> **Width.**  If the width of a volume is greater than the height, or less than half the height, record give the height x width. 
 
