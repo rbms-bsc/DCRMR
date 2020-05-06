@@ -28,8 +28,6 @@ sidebar:
 
 <a name="8.5C.1">8.5C.1</a> Make any notes on the dimension of an item, if considered important. For general instructions on constructing item specific notes, see [note on item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-item).
 
-<a name="8.5C.2">8.5C.2</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#56d-general-rule) for full instuctions. Optionally, record the dimensions of the other exemplars in a note.
-
 ## 8.5D Differing sizes
 <a name="8.5D.1">8.5D.1</a> Record the height (and width, if applicable) of the item(s) if different from the measurements recorded in dimensions and considered important.  For guidance on recording dimensions when more than one exemplar of the manifestation is known, and the heights of the different items vary, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#56f-differing-sizes).
 
@@ -38,6 +36,10 @@ sidebar:
 ```Library of Congress copy folded to 19 x 13 cm. Top edge trimmed to 19 cm with some loss of text```
 
 ```Library copy: Sheet trimmed to within thread margin of plate mark on two sides```
+
+<a name="8.5D.2">8.5D.2</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record this information in note, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#56f-differing-sizes).
+
+<a name="8.5D.3">8.5D.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in note, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#56f-differing-sizes).
 
 ## 8.5E Single-sheet publications
 
