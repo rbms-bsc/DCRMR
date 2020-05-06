@@ -29,7 +29,7 @@ sidebar:
 <a name="8.5C.1">8.5C.1</a> Make any notes on the dimension of an item, if considered important. For general instructions on constructing item specific notes, see [note on item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-item).
 
 ## 8.5D Differing sizes
-<a name="8.5D.1">8.5D.1</a> Record the height (and width, if applicable) of the item(s) if different from the measurements recorded in dimensions and considered important.  For guidance on recording dimensions when more than one exemplar of the manifestation is known, and the heights of the different items vary, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#5.6F.2).
+<a name="8.5D.1">8.5D.1</a> Record the height (and width, if applicable) of the item(s) if different from the measurements recorded in dimensions and considered important.  For guidance on recording dimensions when more than one exemplar of the manifestation is known, and the heights of the different items vary, see [dimensions](http://localhost:4000/Test2/docs/Physical-Description/Dimensions-2#56f-differing-sizes).
 
 ```Library copy leaf size: 209 x 143 mm```
 
@@ -39,7 +39,7 @@ sidebar:
 
 ## 8.5E Single-sheet publications
 
-<a name="8.5E.1">8.5E.1</a> If the sheet is not folded as issued and if the folded dimensions are important, describe the details in a note, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#5.6G.1).
+<a name="8.5E.1">8.5E.1</a> If the sheet is not folded as issued and if the folded dimensions are important, describe the details in a note, see [dimensions](http://localhost:4000/Test2/docs/Physical-Description/Dimensions-2#56g-single-sheet-publications).
 
 ```24 x 38 cm```
 
@@ -47,4 +47,4 @@ sidebar:
 
 ## 8.5F Containers
 
-<a name="8.5F.1">8.5F.1</a> If the container was not issued with the resource or where it is uncertain if a container was issued with a resource and the information is considered important, record the dimensions of the container in a note, see [dimensions](https://ladylazarus3.github.io/Test2/docs/Physical-Description/Dimensions-2#5.6H.1).
+<a name="8.5F.1">8.5F.1</a> If the container was not issued with the resource or where it is uncertain if a container was issued with a resource and the information is considered important, record the dimensions of the container in a note, see [dimensions](http://localhost:4000/Test2/docs/Physical-Description/Dimensions-2#56h-containers).

@@ -71,7 +71,7 @@ When the height of the text block differs by 3 centimeters or more from the heig
 
 ```24-28 cm```
 
-<a name="5.6F.2">5.6F.2</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record this information in note on the dimensions of manifestation or [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#8.5D ).
+<a name="5.6F.2">5.6F.2</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record this information in note on the dimensions of manifestation or [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#85d-differing-sizes).
 
 ## 5.6G Single-sheet publications
 
@@ -83,7 +83,7 @@ If a sheet is issued in folded form, but is designed to be used unfolded (e.g., 
 
 ```1 sheet ([1] page) ; 22 x 28 cm, folded to 22 x 10 cm```
 
-If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. If the folded dimensions are important, record this information in [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#8.5E ).
+If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. If the folded dimensions are important, record this information in [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#85e-single-sheet-publications).
 
 ```24 x 38 cm```
 
@@ -99,7 +99,7 @@ If the sheet is not folded as issued, or in cases of uncertainty, do not record 
 
 ```33 cm, in box 34 x 25 x 6 cm```
 
-<a name="5.6H.2">5.6H.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#8.5F), if considered important.
+<a name="5.6H.2">5.6H.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](https://ladylazarus3.github.io/Test2/docs/Notes-on-Items/Note-on-dimensions-of-item-2#85f-containers), if considered important.
 
 
 
