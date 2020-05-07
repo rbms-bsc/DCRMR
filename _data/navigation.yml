@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Title"
-    url: /docs/Title/
+  - title: "DCRM(R)"
+    url: /docs/DCRMR/
+  - title: "About"
+    url: /docs/About/
+  - title: "Search"
+    url: /docs/Search/
+  - title: "RBMS/BSC Homepage"
+    url: http://rbms.info/committees/bibliographic_standards/
         
 # example navigation
 docs:
