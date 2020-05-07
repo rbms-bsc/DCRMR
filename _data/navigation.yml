@@ -4,6 +4,8 @@ main:
     url: /docs/DCRMR/
   - title: "About"
     url: /docs/About/
+  - title: "DCRM Suite"
+    url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
     url: http://rbms.info/committees/bibliographic_standards/
         
