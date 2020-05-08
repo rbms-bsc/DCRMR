@@ -1,9 +1,9 @@
 # main links
 main:
+  - title: "Search"
+    url: /docs/search
   - title: "DCRM(R)"
     url: /docs/DCRMR/
-  - title: "About"
-    url: /docs/About/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
