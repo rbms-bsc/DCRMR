@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Search"
-    url: /docs/search
+    url: /docs/Search
   - title: "DCRM(R)"
     url: /docs/DCRMR/
   - title: "DCRM Suite"
