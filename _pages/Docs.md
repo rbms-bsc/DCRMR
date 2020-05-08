@@ -1,11 +1,13 @@
 ---
 layout: home
-type: docs
-title: Search
-permalink: docs/Search/
+type: collection
+title: Docs
+permalink: docs/
 sidebar:
   nav: "docs"
 ---
+
+## Recent Revision History.
 
 
 {: .no_toc }
