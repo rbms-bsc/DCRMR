@@ -11,4 +11,4 @@ sidebar:
 
 
 Inline-style: 
-![ye]( assets\pictures\transcription\ye.png "ye")
+![ye](https://ladylazarus3.github.io/Test2/assets/pictures/transcription/ye.png "ye")
