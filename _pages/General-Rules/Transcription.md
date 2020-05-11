@@ -8,3 +8,7 @@ sidebar:
 ---
 
 ## Table of Contents
+
+
+Inline-style: 
+![ye]( assets\pictures\transcription\ye.png "ye")
