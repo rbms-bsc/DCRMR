@@ -2,7 +2,7 @@
 main:
   - title: "Search"
     url: /docs/Search
-  - title: "DCRM(R)"
+  - title: "DCRMR"
     url: /docs/DCRMR/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
