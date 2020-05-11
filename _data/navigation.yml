@@ -57,27 +57,27 @@ docs:
       - title: "Transcription"
         url: /docs/General-Rules/Transcription/
   - title: "Chapter 1. Title"
-    url: /docs/Title/
+    url: /docs/title/
     children:
       - title: "Title of manifestation"
-        url: /docs/Title/Title-of-manifestation/
+        url: /docs/title/Title-of-manifestation/
       - title: "Title proper"
-        url: /docs/Title/Title-proper/
+        url: /docs/title/Title-proper/
       - title: "Parallel title proper"
-        url: /docs/Title/Parallel-title-proper/
+        url: /docs/title/Parallel-title-proper/
       - title: "Other title information"
-        url: /docs/Title/Other-title-information/
+        url: /docs/title/Other-title-information/
       - title: "Note on title"
-        url: /docs/Title/Note-on-title/        
+        url: /docs/title/Note-on-title/        
   - title: "Chapter 2. Statement of Responsibility"
-    url: /docs/Statement-of-Responsibility/
+    url: /docs/SOR/
     children:
       - title: "Statement of responsibility"
-        url: /docs/Statement-of-Responsibility/statement of responsibility/
+        url: /docs/SOR/statement-of-responsibility/
       - title: "Parallel statement of responsibility relating to title proper"
-        url: /docs/Statement-of-Responsibility/Parallel-statement-of-responsibility-relating-to-title-proper
+        url: /docs/SOR/Parallel-statement-of-responsibility-relating-to-title-proper
       - title: "Note on statement of responsibility"
-        url: /docs/Statement-of-Responsibility/Note-on-statement-of-responsibility/
+        url: /docs/SOR/Note-on-statement-of-responsibility/
         
   - title: "Chapter 3. Edition"
     url: /docs/Edition/
