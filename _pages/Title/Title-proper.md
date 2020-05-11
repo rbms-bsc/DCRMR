@@ -29,9 +29,9 @@ sidebar:
 
 ## 1.1A3 Sources of information
 
-<a name="1.1A3.1">1A3.1</a> The preferred source of information for the title proper is the title page. For special provisions relating to single-sheet manifestations, [1.1A4.3](#1.1A4.3)
+<a name="1.1A3.1">1.1A3.1</a> The preferred source of information for the title proper is the title page. For special provisions relating to single-sheet manifestations, [1.1A4.3](#1.1A4.3)
 
-<a name="1.1A3.2">1A3.2</a> Multipart monographs. If the volume is part of a multipart monograph, and the title page gives a statement of the volume or part number within the larger work, omit this statement without using the mark of omission, unless it is a grammatically inseparable part of the information being transcribed. Do transcribe statements such as “in two volumes,” however CITATION.
+<a name="1.1A3.2">1.1A3.2</a> Multipart monographs. If the volume is part of a multipart monograph, and the title page gives a statement of the volume or part number within the larger work, omit this statement without using the mark of omission, unless it is a grammatically inseparable part of the information being transcribed. Do transcribe statements such as “in two volumes,” however CITATION.
 
 ```Thomas Masterson his first[-second]... booke of arithmeticke```
 
@@ -48,9 +48,9 @@ ESTC: S112438
 
 ## 1.1A4 Form and order of information
 
-<a name="1.1A4.1">1A4.1</a> Transcribe title information in the form and order in which it is presented in the source, unless instructed otherwise by specific guidelines CITATION.
+<a name="1.1A4.1">1.1A4.1</a> Transcribe title information in the form and order in which it is presented in the source, unless instructed otherwise by specific guidelines CITATION.
 
-<a name="1.1A4.2">1A4.2</a> If parts of the title are scattered by layout or typography, compose the title proper based on those parts distinguished by position, typography, or size of lettering. If the text could reasonably be assembled in a different order, provide additional title access if considered important. [1A3.1](#1.1A3.1)
+<a name="1.1A4.2">1.1A4.2</a> If parts of the title are scattered by layout or typography, compose the title proper based on those parts distinguished by position, typography, or size of lettering. If the text could reasonably be assembled in a different order, provide additional title access if considered important. [1.1A3.1](#1.1A3.1)
 
 ```Our choice, Grover Cleveland, A.G. Thurman. Democratic nominees, for president, for vice president```
 
