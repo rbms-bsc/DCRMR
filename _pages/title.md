@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Chapter 1. Title
+title: Title
 permalink: docs/title/
 sidebar:
   nav: "docs"
