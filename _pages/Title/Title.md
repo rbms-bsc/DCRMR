@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Chapter 1. Title
-permalink: docs/title/
+title: Transcription
+permalink: docs/General-Rules/Transcription/
 sidebar:
   nav: "docs"
 ---

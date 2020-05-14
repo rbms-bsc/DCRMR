@@ -7,5 +7,5 @@ sidebar:
   nav: "docs"
 ---
 
-# Note on statement of responsibility
+## Table of Contents
 
