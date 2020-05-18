@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+## Link to Google Document with comments
+[Link to Google Document](https://docs.google.com/document/d/1RMRdCQzvZDeh3ODtHnVKGildfELwbXvJcPlP9RhKftE/edit)
 
 ## Table of contents
 {: .no_toc .text-delta }
