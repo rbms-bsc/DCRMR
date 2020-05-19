@@ -20,7 +20,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 1. TOC
 {:toc}
 
-## 4.21A.1 Element information
+## 4.21.1 Element information
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-452cb3af-3c8e-3c20-8d59-2362ad325a09)
 
