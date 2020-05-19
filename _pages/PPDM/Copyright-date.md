@@ -10,7 +10,7 @@ sidebar:
 ## Process for Gathering Public Review Comments.
 Please use the Google Document linked below to leave anonymous feedback and/or comments for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process or have any technical difficulties in accessing the Google Document, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards and blessings from teh DCRMR editorial team.
 
-[Link to Google Document](https://docs.google.com/document/d/1RMRdCQzvZDeh3ODtHnVKGildfELwbXvJcPlP9RhKftE/edit)
+[Link to Google Document](https://docs.google.com/document/d/1RMRdCQzvZDeh3ODtHnVKGildfELwbXvJcPlP9RhKftE/edit){:target="_blank"}
 
 ## Table of contents
 {: .no_toc .text-delta }

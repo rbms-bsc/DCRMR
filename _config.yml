@@ -22,7 +22,7 @@ subtitle                 : "DCRMR: Descriptive Cataloging of Rare Materials (RDA
 name                     : "Rare Book and Manuscript Section Bibliographic Standards Committee"
 description              : "This website contains the official DCRMR standard for cataloging rare materials in RDA"
 url                      : "https://rbms-bsc.github.io"
-baseurl                  : "/DCRMR"
+baseurl                  : #
 repository               : "rbms-bsc/DCRMR"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
