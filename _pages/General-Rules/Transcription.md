@@ -9,6 +9,6 @@ sidebar:
 
 ## Table of Contents
 
+A typoe a typoe!
 
-Inline-style: 
-![ye](https://ladylazarus3.github.io/Test2/assets/pictures/transcription/ye.png "ye")
+![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png "ye")
