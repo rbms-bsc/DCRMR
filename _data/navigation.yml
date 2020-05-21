@@ -57,7 +57,7 @@ docs:
       - title: "Transcription"
         url: /docs/General-Rules/Transcription/
   - title: "Chapter 1. Title"
-    url: /docs/title/
+    url: /docs/Title/
     children:
       - title: "Title of manifestation"
         url: /docs/title/Title-of-manifestation/
