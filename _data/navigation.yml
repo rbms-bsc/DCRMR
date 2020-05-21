@@ -57,7 +57,7 @@ docs:
       - title: "Transcription"
         url: /docs/General-Rules/Transcription/
   - title: "Chapter 1. Title"
-    url: /docs/title/
+    url: /docs/Title/
     children:
       - title: "Title of manifestation"
         url: /docs/title/Title-of-manifestation/
@@ -100,7 +100,7 @@ docs:
         url: /docs/Edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "Parallel statement of responsibility relating to named revision of edition"
         url: /docs/Edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
-      - title: "Note on Edition Statment"
+      - title: "Note on Edition Statement"
         url: /docs/Edition/Note-on-edition-statement/
         
   - title: "Chapter 4. Production Publication Distribution Manufacture"
