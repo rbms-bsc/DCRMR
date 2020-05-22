@@ -57,7 +57,7 @@ docs:
       - title: "Transcription"
         url: /docs/General-Rules/Transcription/
   - title: "Chapter 1. Title"
-    url: /docs/Title/Title/
+    url: /docs/Title/
     children:
       - title: "Title of manifestation"
         url: /docs/title/Title-of-manifestation/
@@ -80,7 +80,7 @@ docs:
         url: /docs/SOR/Note-on-statement-of-responsibility/
         
   - title: "Chapter 3. Edition"
-    url: /docs/Edition/Edition/
+    url: /docs/Edition/
     children:
       - title: "Edition statement"
         url: /docs/Edition/Edition-statement/

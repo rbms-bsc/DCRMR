@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Physical Description
-permalink: docs/Physical-Description
+permalink: docs/Physical-Description/
 sidebar:
   nav: "docs"
 ---
