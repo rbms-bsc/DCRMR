@@ -1,12 +1,13 @@
 ---
-layout: default
+layout: single
+type: docs
 title: Preface
-nav_order: 1
-has_children: true
 permalink: docs/Preface/
+sidebar:
+  nav: "docs"
 ---
 
-# Preface
+# Table of Contents
 {: .no_toc }
 
 
