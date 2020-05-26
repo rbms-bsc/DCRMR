@@ -10,20 +10,14 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Scope and purpose](Scope-and-purpose/)
+[Scope](Scope/)
 
-[Relationship to other standards](Relationship-to-other-standards/)
+[Required elements](Required elements/)
 
-[Objectives and principles](Objectives-and-principles/)
+[Data provenance](Data provenance/)
 
-[Options](Options/)
+[Punctuation](Punctuation/)
 
-[Language preferences](Language-preferences/)
+[Language and script of the description](Language and script of the description/)
 
-[Spelling and style](Spelling-and-style/)
-
-[Acronyms](Acronyms/)
-
-[Examples and notes](Examples-and-notes/)
-
-[Integrity of the copy](Integrity-of-the-copy/)
+[Transcription](Transcription/)
