@@ -10,4 +10,8 @@ sidebar:
 # Table of Contents
 {: .no_toc }
 
+[Background](Background/)
 
+[Changes from DCRB](Changes-from-DCRB/)
+
+[Acknowledgements](Acknowledgements/)
