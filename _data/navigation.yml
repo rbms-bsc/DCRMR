@@ -110,7 +110,7 @@ docs:
         url: /docs/PPDM/Publication-statement/
       - title: "Place of publication"
         url: /docs/PPDM/Place-of-publication/
-      - title: "Parallel-place-of-publication"
+      - title: "Parallel place of publication"
         url: /docs/PPDM/Parallel-place-of-publication/
       - title: "Name of publisher"
         url: /docs/PPDM/Name-of-publisher/
@@ -120,8 +120,6 @@ docs:
         url: /docs/PPDM/Date-of-publication/
       - title: "Note on publication statement"
         url: /docs/PPDM/Note-on-publication-statement/
-        
-        
       - title: "Distribution statement"
         url: /docs/PPDM/Distribution-statement/
       - title: "Place of distribution"
@@ -136,8 +134,6 @@ docs:
         url: /docs/PPDM/Date-of-distribution/
       - title: "Note on distribution statement"
         url: /docs/PPDM/Note-on-distribution-statement/
-        
-        
       - title: "Manufacture statement"
         url: /docs/PPDM/Manufacture-statement/
       - title: "Place of manufacture"
