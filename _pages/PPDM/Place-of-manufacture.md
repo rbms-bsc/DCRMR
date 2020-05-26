@@ -115,7 +115,7 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 ## 4.25.8 Place names that are grammatically inseparable parts of other areas, etc.
 
-<a name="4.25.8.1">4.25.8.1</a> If the place of manufacture appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the manufacturer, distributor, etc., statement and is transcribed there, supply in square brackets the place of manufacture as the first element of the publication statement [see Publication statement](Publication-statement/). Use a modern English form of the name, if there is one.
+<a name="4.25.8.1">4.25.8.1</a> If the place of manufacture appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the manufacturer, distributor, etc., statement and is transcribed there, supply in square brackets the place of manufacture as the first element of the publication statement ([see Publication statement](Publication-statement/)). Use a modern English form of the name, if there is one.
 
 ```[Munich] : Durch Peter Clement, Kunstführer zu München```
 

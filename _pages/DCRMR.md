@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: DCRMR
+title: Welcome
 permalink: docs/DCRMR/
 sidebar:
   nav: "docs"
