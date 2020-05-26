@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Table of Contents
+## Table of Contents
 {: .no_toc }
 
 [Variations requiring a new record](Variations-requiring-a-new-record/)

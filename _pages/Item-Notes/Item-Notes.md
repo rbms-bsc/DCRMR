@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Notes on Items
-permalink: docs/Notes-on-Items/
+title: Item Notes
+permalink: docs/Item-Notes/
 sidebar:
   nav: "docs"
 ---

@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Table of Contents
+## Table of Contents
 {: .no_toc }
 
 [Scope and purpose](Scope-and-purpose/)
