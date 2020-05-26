@@ -14,4 +14,4 @@ sidebar:
 
 [Chapter 2.1. Parallel statement of responsibility relating to title proper](Parallel-statement-of-responsibility-relating-to-title-proper/)
 
-[Chapter 2.2. Note on statement of responsibility](Note-on-statement-of-responsibility/)
+[Chapter 2.12. Note on statement of responsibility](Note-on-statement-of-responsibility/)
