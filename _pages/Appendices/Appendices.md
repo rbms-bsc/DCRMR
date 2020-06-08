@@ -10,4 +10,6 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Variations requiring a new record](Variations-requiring-a-new-record/)
+[Appendix A. Variations requiring a new record](Appendix-A/)
+
+[Appendix J. Abbreviations for Creators, Publishers, Printers, etc.](Appendix-J/)
