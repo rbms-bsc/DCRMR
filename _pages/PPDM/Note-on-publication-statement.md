@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on publication statement
-permalink: docs/PPDM/Note-on-publication-statement
+permalink: docs/PPDM/Note-on-publication-statement/
 sidebar:
   nav: "docs"
 ---
