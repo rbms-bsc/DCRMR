@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on manufacture statement
-permalink: docs/PPDM/Note-on-manufacture-statement/
+permalink: docs/Ppdm/Note-on-manufacture-statement/
 parent: docs/PPDM/
 sidebar:
   nav: "docs"

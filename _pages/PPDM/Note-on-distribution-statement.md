@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on distribution statement
-permalink: docs/PPDM/Note-on-distribution-statement/
+permalink: docs/Ppdm/Note-on-distribution-statement/
 sidebar:
   nav: "docs"
 ---

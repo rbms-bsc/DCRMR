@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel name of distributor
-permalink: /docs/PPDM/Parallel-name-of-distributor/
+permalink: /docs/Ppdm/Parallel-name-of-distributor/
 sidebar:
   nav: "docs"
 ---
