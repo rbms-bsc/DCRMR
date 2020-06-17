@@ -49,10 +49,10 @@ sidebar:
 
 [Chapter 4.28. Parallel name of manufacturer](/DCRMR/docs/ppdm/Parallel-name-of-manufacturer/)
 
-[Chapter 4.29. Date of manufacture](/docs/ppdm/Date-of-manufacture/)
+[Chapter 4.29. Date of manufacture](/DCRMR/docs/ppdm/Date-of-manufacture/)
 
-[Chapter 4.3. Note on manufacture statement](/docs/ppdm/Note-on-manufacture-statement/)
+[Chapter 4.3. Note on manufacture statement](/DCRMR/docs/ppdm/Note-on-manufacture-statement/)
 
-[Chapter 4.31. Copyright date](/docs/ppdm/Copyright-date/)
+[Chapter 4.31. Copyright date](/DCRMR/docs/ppdm/Copyright-date/)
 
-[Chapter 4.32. Note on copyright date](/docs/ppdm/Note-on-copyright-date/)
+[Chapter 4.32. Note on copyright date](/DCRMR/docs/ppdm/Note-on-copyright-date/)
