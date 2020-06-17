@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel place of publication
-permalink: docs/Ppdm/Parallel-place-of-publication/
+permalink: docs/ppdm/Parallel-place-of-publication/
 sidebar:
   nav: "docs"
 ---

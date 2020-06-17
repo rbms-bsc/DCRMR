@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Place of manufacture
-permalink: docs/Ppdm/Place-of-manufacture/
+permalink: docs/ppdm/Place-of-manufacture/
 sidebar:
   nav: "docs"
 ---

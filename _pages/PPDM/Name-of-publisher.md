@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Name of publisher
-permalink: docs/Ppdm/Name-of-publisher/
+permalink: docs/ppdm/Name-of-publisher/
 sidebar:
   nav: "docs"
 ---

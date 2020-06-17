@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Place of publication
-permalink: docs/Ppdm/Place-of-publication/
+permalink: docs/ppdm/Place-of-publication/
 sidebar:
   nav: "docs"
 ---

@@ -2,8 +2,8 @@
 layout: single
 type: docs
 title: Production Publication Distribution Manufacture
-permalink: docs/Ppdm/
-permalink: Ppdm/
+permalink: docs/ppdm/
+permalink: ppdm/
 sidebar:
   nav: "docs"
 ---
