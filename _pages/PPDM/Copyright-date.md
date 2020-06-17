@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Copyright date
-permalink: docs/PPDM/Copyright-date/
+permalink: docs/Ppdm/Copyright-date/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Date of publication
-permalink: docs/PPDM/Date-of-publication
+permalink: docs/Ppdm/Date-of-publication
 sidebar:
   nav: "docs"
 ---

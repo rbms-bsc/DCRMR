@@ -104,52 +104,52 @@ docs:
         url: /docs/Edition/Note-on-edition-statement/
         
   - title: "Chapter 4. Production Publication Distribution Manufacture"
-    url: /PPDM/
+    url: /ppdm/
     children:
       - title: "Publication statement"
-        url: /docs/PPDM/Publication-statement/
+        url: /docs/ppdm/Publication-statement/
       - title: "Place of publication"
-        url: /docs/PPDM/Place-of-publication/
+        url: /docs/ppdm/Place-of-publication/
       - title: "Parallel place of publication"
-        url: /docs/PPDM/Parallel-place-of-publication/
+        url: /docs/ppdm/Parallel-place-of-publication/
       - title: "Name of publisher"
-        url: /docs/PPDM/Name-of-publisher/
+        url: /docs/ppdm/Name-of-publisher/
       - title: "Parallel name of publisher"
-        url: /docs/PPDM/Parallel-name-of-publisher/
+        url: /docs/ppdm/Parallel-name-of-publisher/
       - title: "Date of publication"
-        url: /docs/PPDM/Date-of-publication/
+        url: /docs/ppdm/Date-of-publication/
       - title: "Note on publication statement"
-        url: /docs/PPDM/Note-on-publication-statement/
+        url: /docs/ppdm/Note-on-publication-statement/
       - title: "Distribution statement"
-        url: /docs/PPDM/Distribution-statement/
+        url: /docs/ppdm/Distribution-statement/
       - title: "Place of distribution"
-        url: /docs/PPDM/Place-of-distribution/
+        url: /docs/ppdm/Place-of-distribution/
       - title: "Parallel place of distribution"
-        url: /docs/PPDM/Parallel-place-of-distribution/
+        url: /docs/ppdm/Parallel-place-of-distribution/
       - title: "Name of distributor"
-        url: /docs/PPDM/Name-of-distributor/
+        url: /docs/ppdm/Name-of-distributor/
       - title: "Parallel name of distributor"
-        url: /docs/PPDM/Parallel-name-of-distributor/
+        url: /docs/ppdm/Parallel-name-of-distributor/
       - title: "Date of distribution"
-        url: /docs/PPDM/Date-of-distribution/
+        url: /docs/ppdm/Date-of-distribution/
       - title: "Note on distribution statement"
-        url: /docs/PPDM/Note-on-distribution-statement/
+        url: /docs/ppdm/Note-on-distribution-statement/
       - title: "Manufacture statement"
-        url: /docs/PPDM/Manufacture-statement/
+        url: /docs/ppdm/Manufacture-statement/
       - title: "Place of manufacture"
-        url: /docs/PPDM/Place-of-manufacture/
+        url: /docs/ppdm/Place-of-manufacture/
       - title: "Parallel place of manufacture"
-        url: /docs/PPDM/Parallel-place-of-manufacture/
+        url: /docs/ppdm/Parallel-place-of-manufacture/
       - title: "Name of manufacturer"
-        url: /docs/PPDM/Name-of-manufacturer/
+        url: /docs/ppdm/Name-of-manufacturer/
       - title: "Parallel name of manufacturer"
-        url: /docs/PPDM/Parallel-name-of-manufacturer/
+        url: /docs/ppdm/Parallel-name-of-manufacturer/
       - title: "Date of manufacture"
-        url: /docs/PPDM/Date-of-manufacture/
+        url: /docs/ppdm/Date-of-manufacture/
       - title: "Note on manufacture statement"
-        url: /docs/PPDM/Note-on-manufacture-statement/
+        url: /docs/ppdm/Note-on-manufacture-statement/
       - title: "Copyright date"
-        url: /docs/PPDM/Copyright-date/
+        url: /docs/ppdm/Copyright-date/
         
   - title: "Chapter 5. Physical Description"
     url: /docs/Physical-Description/

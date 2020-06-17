@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel name of publisher
-permalink: /docs/PPDM/Parallel-name-of-publisher/
+permalink: /docs/Ppdm/Parallel-name-of-publisher/
 sidebar:
   nav: "docs"
 ---
