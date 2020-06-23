@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Transcription
-permalink: docs/general-rules/Transcription
+permalink: docs/general-rules/Transcription/
 sidebar:
   nav: "docs"
 ---
