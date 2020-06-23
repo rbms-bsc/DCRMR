@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Series
-permalink: docs/Series/
+permalink: /series/
 sidebar:
   nav: "docs"
 ---
@@ -10,20 +10,20 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Chapter 6.0. Series statement](Series-statement/)
+[Chapter 6.20 Series statement](/DCRMR/docs/series/Series-statement/)
 
-[Chapter 6.1. Title of series](Title-of-series/)
+[Chapter 6.21 Title of series](/DCRMR/docs/series/Title-of-series/)
 
-[Chapter 6.12. Parallel title of series](Parallel-title-of-series/)
+[Chapter 6.22 Parallel title of series](/DCRMR/docs/series/Parallel-title-of-series/)
 
-[Chapter 6.13. Other title information of series](Other-title-information-of-series/)
+[Chapter 6.23 Other title information of series](/DCRMR/docs/series/Other-title-information-of-series/)
 
-[Chapter 6.14. Parallel other title information of series](Parallel-other-title-information-of-series/)
+[Chapter 6.24 Parallel other title information of series](/DCRMR/docs/series/Parallel-other-title-information-of-series/)
 
-[Chapter 6.15. Statement of responsibility relating to series](Statement-of-responsibility-relating-to-seriest/)
+[Chapter 6.25 Statement of responsibility relating to series](/DCRMR/docs/series/Statement-of-responsibility-relating-to-seriest/)
 
-[Chapter 6.16. Parallel statement of responsibility relating to series](Parallel-statement-of-responsibility-relating-to-series/)
+[Chapter 6.26. Parallel statement of responsibility relating to series](/DCRMR/docs/series/Parallel-statement-of-responsibility-relating-to-series/)
 
-[Chapter 6.17. Numbering within sequence](Numbering-within-sequence/)
+[Chapter 6.27 Numbering within sequence](/DCRMR/docs/series/Numbering-within-sequence/)
 
-[Chapter 6.18. Note on series statement](Note-on-series-statement/)
+[Chapter 6.28 Note on series statement](/DCRMR/docs/series/Note-on-series-statement/)

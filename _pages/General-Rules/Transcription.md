@@ -2,13 +2,13 @@
 layout: single
 type: docs
 title: Transcription
-permalink: docs/General-Rules/Transcription/
+permalink: docs/general-rules/Transcription
 sidebar:
   nav: "docs"
 ---
 
-## Table of Contents
+## GR.5 Table of Contents
 
-A typoe a typoe!
+<a name="GR.5">GR.5</a> A typoe a typoe!
 
 ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png "ye")

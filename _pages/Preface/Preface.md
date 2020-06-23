@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Preface
-permalink: docs/Preface/
+permalink: /preface/
 sidebar:
   nav: "docs"
 ---
@@ -10,8 +10,10 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Background](Background/)
+[Background](/DCRMR/docs/preface/Background/)
 
-[Changes from DCRB](Changes-from-DCRB/)
+[Changes from DCRM(B)](/DCRMR/docs/preface/Changes-from-DCRB/)
 
-[Acknowledgements](Acknowledgements/)
+[Future work)](/DCRMR/docs/preface/Future-work/)
+
+[Acknowledgements](/DCRMR/docs/preface/Acknowledgements/)

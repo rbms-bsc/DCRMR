@@ -10,10 +10,10 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Chapter 9.0. Identifier for manifestation](Identifier-for-manifestation/)
+[Chapter 9.20 Identifier for manifestation](/DCRMR/docs/Identifiers/Identifier-for-manifestation/)
 
-[Chapter 9.1. Fingerprint](Fingerprint/)
+[Chapter 9.21 Fingerprint](/DCRMR/docs/Identifiers/Fingerprint/)
 
-[Chapter 9.12. Term of availability](Term-of-availability/)
+[Chapter 9.22 Term of availability](/DCRMR/docs/Identifiers/Term-of-availability/)
 
-[Chapter 9.13. Note on identifier for manifestation](Note-on-identifier-for-manifestation/)
+[Chapter 9.23 Note on identifier for manifestation](/DCRMR/docs/Identifiers/Note-on-identifier-for-manifestation/)

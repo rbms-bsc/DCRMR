@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: General Rules
-permalink: docs/General-Rules/
+permalink: /general-rules/
 sidebar:
   nav: "docs"
 ---
@@ -10,14 +10,14 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Scope](Scope/)
+[Scope](/DCRMR/docs/general-rules/Scope/)
 
-[Required elements](Required elements/)
+[Data provenance](/DCRMR/docs/general-rules/Data-provenance/)
 
-[Data provenance](Data provenance/)
+[Prescribed punctuation](/DCRMR/docs/general-rules/Prescribed-punctuation/)
 
-[Punctuation](Punctuation/)
+[Language and script of the description](/DCRMR/docs/general-rules/Language-and-script-of-the-description/)
 
-[Language and script of the description](Language and script of the description/)
+[Required elements](/DCRMR/docs/general-rules/Required elements/)
 
-[Transcription](Transcription/)
+[Transcription](/DCRMR/docs/general-rules/Transcription/)

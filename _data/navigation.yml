@@ -18,8 +18,11 @@ docs:
       - title: "Background"
         url: /docs/preface/Background/
       - title: "Changes from DCRB"
-        url: /docs/preface/Changes-from-DCRB/
+        url: /docs/preface/Changes-from-DCRM(B)/
+      - title: "Future work"
+        url: /docs/preface/Future-work/
       - title: "Acknowledgements"
+	url: /docs/preface/Acknowledgements/
   - title: "Introduction"
     url: /introduction/
     children:
@@ -29,29 +32,31 @@ docs:
         url: /docs/introduction/Relationship-to-other-standards/
       - title: "Objectives and principles"
         url: /docs/introduction/Objectives-and-principles/
+      - title: "Principles of DCRMR construction"
+        url: /docs/introduction/Principles-of-DCRMR-construction/
       - title: "Options"
-        url: /docs/introduction/Options/
+	url: /docs/introduction/Options/
       - title: "Language preferences"
         url: /docs/introduction/Language-preferences/
       - title: "Spelling and style"
         url: /docs/introduction/Spelling-and-style/
       - title: "Acronyms"
-        url: /docs/introduction/Acronyms
+        url: /docs/introduction/Acronyms/
       - title: "Examples and notes"
         url: /docs/introduction/Examples-and-notes/
       - title: "Integrity of the copy"
         url: /docs/introduction/Integrity-of-the-copy/
+      - title: "Precataloging decsisions"
+	url: /docs/introduction/Precataloging-descisions/
   - title: "General rules"
     url: /general-rules/
     children:
       - title: "Scope"
-        url: /docs/general-rules/Scope
-      - title: "Required elements"
-        url: /docs/general-rules/Required-elements/
+        url: /docs/general-rules/Scope/
       - title: "Data provenance"
         url: /docs/general-rules/Data-provenance/
-      - title: "Punctuation"
-        url: /docs/general-rules/Punctuation/
+      - title: "Prescribed Punctuation"
+        url: /docs/general-rules/Prescribed-punctuation/
       - title: "Language and script of the description"
         url: /docs/general-rules/Language-and-script-of-the-description/
       - title: "Transcription"
@@ -75,7 +80,7 @@ docs:
       - title: "Statement of responsibility"
         url: /docs/sor/Statement-of-responsibility/
       - title: "Parallel statement of responsibility relating to title proper"
-        url: /docs/sor/Parallel-statement-of-responsibility-relating-to-title-proper
+        url: /docs/sor/Parallel-statement-of-responsibility-relating-to-title-proper/
       - title: "Note on statement of responsibility"
         url: /docs/sor/Note-on-statement-of-responsibility/
         
@@ -150,6 +155,8 @@ docs:
         url: /docs/ppdm/Note-on-manufacture-statement/
       - title: "Copyright date"
         url: /docs/ppdm/Copyright-date/
+      - title: "Note on copyright date"
+        url: /docs/ppdm/Note-on-copyright-date/
         
   - title: "Chapter 5. Physical Description"
     url: /physical-description/
@@ -172,12 +179,18 @@ docs:
         url: /docs/physical-description/Details-of-base-material/
       - title: "Production method"
         url: /docs/physical-description/Production-method/
+      - title: "Details of production method"
+        url: /docs/physical-description/Details-of-production-method/
       - title: "Details of layout"
         url: /docs/physical-description/Details-of-layout/
       - title: "Bibliographic format"
         url: /docs/physical-description/Bibliographic-format/
+      - title: "Details of bibliographic format
+        url: /docs/physical-description/Details-of-bibliographic-format/
       - title: "Font size"
         url: /docs/physical-description/Font-size/
+      - title: "Details of font size"
+        url: /docs/physical-description/Details-of-font-size/
       - title: "Type of binding"
         url: /docs/physical-description/Type-of-binding/
       - title: "Content type"
@@ -240,22 +253,22 @@ docs:
         url: /docs/other-notes/Issued-with/
         
   - title: "Chapter 8. Item Notes"
-    url: /item-notes/
+    url: /notes-on-items/
     children:
       - title: "Note on item"
-        url: /docs/item-notes/Note-on-item/
+        url: /docs/notes-on-items/Note-on-item/
       - title: "Modification of item"
-        url: /docs/item-notes/Modification-of-item/
+        url: /docs/notes-on-items/Modification-of-item/
       - title: "Custodial history of item"
-        url: /docs/item-notes/Custodial-history-of-item/
+        url: /docs/notes-on-items/Custodial-history-of-item/
       - title: "Item described in"
-        url: /docs/item-notes/Item-described-in/
+        url: /docs/notes-on-items/Item-described-in/
       - title: "Note on extent of item"
-        url: /docs/item-notes/Note-on-extent-of-item/
+        url: /docs/notes-on-items/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
-        url: /docs/item-notes/Note-on-dimensions-of-item/
+        url: /docs/notes-on-items/Note-on-dimensions-of-item/
       - title: "Bound with"
-        url: /docs/item-notes/Bound-with/
+        url: /docs/notes-on-items/Bound-with/
         
   - title: "Chapter 9. Identifiers"
     url: /identifiers/
@@ -271,6 +284,28 @@ docs:
        
   - title: "Appendices"
     url: /appendices/
+    children:
+      - title: "MARC 21 Descriptive Conventions Code"
+        url: /docs/identifers/Appendix-a/
+      - title: "Collection-level records"
+        url: /docs/identifers/Appendix-b/
+      - title: "Core-level records"
+	url: /docs/identifers/Appendix-c/
+      - title: "Minimal-level records"
+	url: /docs/identifers/Appendix-d/
+      - title: "Variations requiring a new record"
+	url: /docs/identifers/Appendix-e/
+      - title: "Title access points"
+	url: /docs/identifers/Appendix-f/
+      - title: "Early letterforms and symbols"
+	url: /docs/identifers/Appendix-g/
+      - title: "Individual and special issues of serials"
+	url: /docs/identifers/Appendix-h/
+      - title: "Introduction"
+	url: /introduction/
+      - title: "Abbreviations for Creators, Publishers, Printers, etc."
+	url: /docs/identifers/Appendix-j/
+
   - title: "Glossary"
     url: /glossary/
         

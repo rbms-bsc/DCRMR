@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Dimensions (Option 1)
-permalink: docs/Physical-Description/Dimensions-1
+permalink: docs/physical-Description/dimensions
 sidebar:
   nav: "docs"
 ---

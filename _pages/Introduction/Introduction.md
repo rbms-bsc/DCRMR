@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Introduction
-permalink: docs/Introduction/
+permalink: /introduction/
 sidebar:
   nav: "docs"
 ---
@@ -10,20 +10,24 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Scope and purpose](Scope and purpose/)
+[Scope and purpose](/DCRMR/docs/introduction/Scope and purpose/)
 
-[Relationship to other standards](Relationship-to-other-standards/)
+[Relationship to other standards](/DCRMR/docs/introduction/Relationship-to-other-standards/)
 
-[Objectives and principles](Objectives and principles/)
+[Objectives and principles](/DCRMR/docs/introduction/Objectives and principles/)
 
-[Options](Options/)
+[Principles to DCRMR construction](/DCRMR/docs/introduction/Principles-of-DCRMR-construction/)
 
-[Language preferences](Language preferences/)
+[Options](/DCRMR/docs/introduction/Options/)
 
-[Spelling and style](Spelling and style/)
+[Language preferences](/DCRMR/docs/introduction/Language preferences/)
 
-[Acronyms](Acronyms/)
+[Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
 
-[Examples and notes](Examples and notes/)
+[Acronyms](/DCRMR/docs/introduction/Acronyms/)
 
-[Integrity of the copy](Integrity of the copy/)
+[Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
+
+[Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
+
+[Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)
