@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Title
-permalink: docs/Title/
+permalink: title/
 sidebar:
   nav: "docs"
 ---
@@ -10,12 +10,14 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Chapter 1.0. Title of manifestation](Title-of-manifestation/)
+[Chapter 1.20 Title of manifestation](/DCRMR/docs/title/Title-of-manifestation/)
 
-[Chapter 1.1. Title proper](Title-proper/)
+[Chapter 1.21 Title proper](/DCRMR/docs/title/Title-proper/)
 
-[Chapter 1.12. Parallel title proper](Parallel-title-proper/)
+[Chapter 1.22 Parallel title proper](/DCRMR/docs/title/Parallel-title-proper/)
 
-[Chapter 1.13. Other title information](Other-title-information/)
+[Chapter 1.23 Variant title](/DCRMR/docs/title/Variant-title/)
 
-[Chapter 1.14. Note on title](Note-on-title/)
+[Chapter 1.24 Other title information](/DCRMR/docs/title/Other-title-information/)
+
+[Chapter 1.25. Note on title](/DCRMR/docs/title/Note-on-title/)

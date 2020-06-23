@@ -13,51 +13,51 @@ main:
 docs:
 
   - title: "Preface"
-    url: /docs/Preface/
+    url: /preface/
     children:
       - title: "Background"
-        url: /docs/Preface/Background/
+        url: /docs/preface/Background/
       - title: "Changes from DCRB"
-        url: /docs/Preface/Changes-from-DCRB/
+        url: /docs/preface/Changes-from-DCRB/
       - title: "Acknowledgements"
   - title: "Introduction"
-    url: /docs/Introduction/
+    url: /introduction/
     children:
       - title: "Scope and purpose"
-        url: /docs/Introduction/Scope-and-purpose/
+        url: /docs/introduction/Scope-and-purpose/
       - title: "Relationship to other standards"
-        url: /docs/Introduction/Relationship-to-other-standards/
+        url: /docs/introduction/Relationship-to-other-standards/
       - title: "Objectives and principles"
-        url: /docs/Introduction/Objectives-and-principles/
+        url: /docs/introduction/Objectives-and-principles/
       - title: "Options"
-        url: /docs/Introduction/Options/
+        url: /docs/introduction/Options/
       - title: "Language preferences"
-        url: /docs/Introduction/Language-preferences/
+        url: /docs/introduction/Language-preferences/
       - title: "Spelling and style"
-        url: /docs/Spelling-and-style/
+        url: /docs/introduction/Spelling-and-style/
       - title: "Acronyms"
-        url: /docs/Introduction/Acronyms
+        url: /docs/introduction/Acronyms
       - title: "Examples and notes"
-        url: /docs/Introduction/Examples-and-notes/
+        url: /docs/introduction/Examples-and-notes/
       - title: "Integrity of the copy"
-        url: /docs/Introduction/Integrity-of-the-copy/
-  - title: "General Rules"
-    url: /docs/General-Rules/
+        url: /docs/introduction/Integrity-of-the-copy/
+  - title: "General rules"
+    url: /general-rules/
     children:
       - title: "Scope"
-        url: /docs/General-Rules/Scope
+        url: /docs/general-rules/Scope
       - title: "Required elements"
-        url: /docs/General-Rules/Required-elements/
+        url: /docs/general-rules/Required-elements/
       - title: "Data provenance"
-        url: /docs/General-Rules/Data-provenance/
+        url: /docs/general-rules/Data-provenance/
       - title: "Punctuation"
-        url: /docs/General-Rules/Punctuation/
+        url: /docs/general-rules/Punctuation/
       - title: "Language and script of the description"
-        url: /docs/General-Rules/Language-and-script-of-the-description/
+        url: /docs/general-rules/Language-and-script-of-the-description/
       - title: "Transcription"
-        url: /docs/General-Rules/Transcription/
+        url: /docs/general-rules/Transcription/
   - title: "Chapter 1. Title"
-    url: /docs/Title/
+    url: /title/
     children:
       - title: "Title of manifestation"
         url: /docs/title/Title-of-manifestation/
@@ -70,38 +70,38 @@ docs:
       - title: "Note on title"
         url: /docs/title/Note-on-title/        
   - title: "Chapter 2. Statement of Responsibility"
-    url: /docs/SOR/
+    url: /sor/
     children:
       - title: "Statement of responsibility"
-        url: /docs/SOR/statement-of-responsibility/
+        url: /docs/sor/statement-of-responsibility/
       - title: "Parallel statement of responsibility relating to title proper"
-        url: /docs/SOR/Parallel-statement-of-responsibility-relating-to-title-proper
+        url: /docs/sor/Parallel-statement-of-responsibility-relating-to-title-proper
       - title: "Note on statement of responsibility"
-        url: /docs/SOR/Note-on-statement-of-responsibility/
+        url: /docs/sor/Note-on-statement-of-responsibility/
         
   - title: "Chapter 3. Edition"
-    url: /docs/Edition/
+    url: /edition/
     children:
       - title: "Edition statement"
-        url: /docs/Edition/Edition-statement/
+        url: /docs/edition/Edition-statement/
       - title: "Designation of edition"
-        url: /docs/Edition/Designation-of-edition/
+        url: /docs/edition/Designation-of-edition/
       - title: "Parallel designation of edition"
-        url: /docs/Edition/Parallel-designation-of-edition/
+        url: /docs/edition/Parallel-designation-of-edition/
       - title: "Statement of responsibility relating to edition"
-        url: /docs/Edition/Statement-of-responsibility-relating-to-edition/
+        url: /docs/edition/Statement-of-responsibility-relating-to-edition/
       - title: "Parallel statement of responsibility relating to edition"
-        url: /docs/Edition/Parallel-statement-of-responsibility-relating-to-edition/
+        url: /docs/edition/Parallel-statement-of-responsibility-relating-to-edition/
       - title: "Designation of named revision of edition"
-        url: /docs/Edition/Designation-of named-revision of-edition/
+        url: /docs/edition/Designation-of named-revision of-edition/
       - title: "Parallel designation of named revision of edition"
-        url: /docs/Edition/Parallel-designation-of-named-revision-of-edition/
+        url: /docs/edition/Parallel-designation-of-named-revision-of-edition/
       - title: "Statement of responsibility relating to named revision of edition"
-        url: /docs/Edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
+        url: /docs/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "Parallel statement of responsibility relating to named revision of edition"
-        url: /docs/Edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
-      - title: "Note on Edition Statement"
-        url: /docs/Edition/Note-on-edition-statement/
+        url: /docs/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+      - title: "Note on edition statement"
+        url: /docs/edition/Note-on-edition-statement/
         
   - title: "Chapter 4. Production Publication Distribution Manufacture"
     url: /ppdm/
@@ -152,127 +152,127 @@ docs:
         url: /docs/ppdm/Copyright-date/
         
   - title: "Chapter 5. Physical Description"
-    url: /docs/Physical-Description/
+    url: /physical-description/
     children:
       - title: "Extent of manifestation"
-        url: /docs/Physical-Description/Extent-of-manifestation/
+        url: /docs/physical-description/Extent-of-manifestation/
       - title: "Note on extent of manifestation"
-        url: /docs/Physical-Description/Note-on-extent-of-manifestation/
+        url: /docs/physical-description/Note-on-extent-of-manifestation/
       - title: "Illustrative content"
-        url: /docs/Physical-description/Illustrative-content/
+        url: /docs/physical-description/Illustrative-content/
       - title: "Details of illustrative content"
-        url: /docs/Physical-Description/Details-of-illustrative-content/
+        url: /docs/physical-description/Details-of-illustrative-content/
       - title: "Color content"
-        url: /docs/Physical-Description/Color-content/
+        url: /docs/physical-description/Color-content/
       - title: "Details of color content"
-        url: /docs/Physical-Description/Details-of-color-content/
+        url: /docs/physical-description/Details-of-color-content/
       - title: "Dimensions"
-        url: /docs/Physical-Description/Dimensions/
+        url: /docs/physical-description/Dimensions/
       - title: "Details of base material"
-        url: /docs/Physical-Description/Details-of-base-material/
+        url: /docs/physical-description/Details-of-base-material/
       - title: "Production method"
-        url: /docs/Physical-Description/Production-method/
+        url: /docs/physical-description/Production-method/
       - title: "Details of layout"
-        url: /docs/Physical-Description/Details-of-layout/
+        url: /docs/physical-description/Details-of-layout/
       - title: "Bibliographic format"
-        url: /docs/Physical-Description/Bibliographic-format/
+        url: /docs/physical-description/Bibliographic-format/
       - title: "Font size"
-        url: /docs/Physical-Description/Font-size/
+        url: /docs/physical-description/Font-size/
       - title: "Type of binding"
-        url: /docs/Physical-Description/Type-of-binding/
+        url: /docs/physical-description/Type-of-binding/
       - title: "Content type"
-        url: /docs/Physical-Description/Content-type/
+        url: /docs/physical-description/Content-type/
       - title: "Media type"
-        url: /docs/Physical-Description/Media-type/
+        url: /docs/physical-description/Media-type/
       - title: "Carrier type"
-        url: /docs/Physical-Description/Carrier-type/
+        url: /docs/physical-description/Carrier-type/
       - title: "Note on carrier"
-        url: /docs/Physical-Description/Note-on-carrier/
+        url: /docs/physical-description/Note-on-carrier/
         
   - title: "Chapter 6. Series"
-    url: /docs/Series/
+    url: /series/
     children:
       - title: "Series statement"
-        url: /docs/Series/Series-statement/
+        url: /docs/series/Series-statement/
       - title: "Title of series"
-        url: /docs/Series/Title-of-series/
+        url: /docs/series/Title-of-series/
       - title: "Parallel title of series"
-        url: /docs/Series/Parallel-title-of-series/
+        url: /docs/series/Parallel-title-of-series/
       - title: "Other title information of series"
-        url: /docs/Series/Other-title-information-of-series/
+        url: /docs/series/Other-title-information-of-series/
       - title: "Parallel other title information of series"
-        url: /docs/Series/Parallel-other-title-information-of-series/
+        url: /docs/series/Parallel-other-title-information-of-series/
       - title: "Statement of responsibility relating to series"
-        url: /docs/Series/Statement-of-responsibility-relating-to-series/
+        url: /docs/series/Statement-of-responsibility-relating-to-series/
       - title: "Parallel statement of responsibility relating to series"
-        url: /docs/Series/Parallel-statement-of-responsibility-relating-to-series/
+        url: /docs/series/Parallel-statement-of-responsibility-relating-to-series/
       - title: "Numbering within sequence"
-        url: /docs/Series/Numbering-within-sequence/
+        url: /docs/series/Numbering-within-sequence/
       - title: "Note on series statement"
-        url: /docs/Series/Note-on-series-statement/
+        url: /docs/series/Note-on-series-statement/
        
   - title: "Chapter 7. Other Notes"
-    url: /docs/Other-Notes/
+    url: /other-notes/
     children:
       - title: "Note on manifestation"
-        url: /docs/Other-Notes/Note-on-manifestation/
+        url: /docs/other-notes/Note-on-manifestation/
       - title: "Related manifestation of RDA entity"
-        url: /docs/Other-Notes/Related-manifestation-of-RDA-entity/
+        url: /docs/other-notes/Related-manifestation-of-RDA-entity/
       - title: "Manifestation dissertation statement"
-        url: /docs/Other-Notes/Manifestation-dissertation-statement/
+        url: /docs/other-notes/Manifestation-dissertation-statement/
       - title: "Dissertation or thesis information"
-        url: /docs/Other-Notes/Dissertation-or-thesis-information/
+        url: /docs/other-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
-        url: /docs/Other-Notes/Academic-degree/
+        url: /docs/other-notes/Academic-degree/
       - title: "Degree granting institution"
-        url: /docs/Other-Notes/Degree-granting-institution/      
+        url: /docs/other-notes/Degree-granting-institution/      
       - title: "Year degree granted"
-        url: /docs/Other-Notes/Year-degree-granted/
+        url: /docs/other-notes/Year-degree-granted/
       - title: "Manifestation described in"
-        url: /docs/Other-Notes/Manifestation-described-in/
+        url: /docs/other-notes/Manifestation-described-in/
       - title: "Note on RDA entity"
-        url: /docs/Other-Notes/Note-on-RDA-entity/
+        url: /docs/other-notes/Note-on-RDA-entity/
       - title: "Summarization of content"
-        url: /docs/Other-Notes/Summarization-of-content/    
+        url: /docs/other-notes/Summarization-of-content/    
       - title: "Supplementary content"
-        url: /docs/Other-Notes/Supplementary-content/
+        url: /docs/other-notes/Supplementary-content/
       - title: "Issued with"
-        url: /docs/Other-Notes/Issued-with/
+        url: /docs/other-notes/Issued-with/
         
   - title: "Chapter 8. Item Notes"
-    url: /docs/Item-Notes/
+    url: /item-notes/
     children:
       - title: "Note on item"
-        url: /docs/Item-Notes/Note-on-item/
+        url: /docs/item-notes/Note-on-item/
       - title: "Modification of item"
-        url: /docs/Item-Notes/Modification-of-item/
+        url: /docs/item-notes/Modification-of-item/
       - title: "Custodial history of item"
-        url: /docs/Item-Notes/Custodial-history-of-item/
+        url: /docs/item-notes/Custodial-history-of-item/
       - title: "Item described in"
-        url: /docs/Item-Notes/Item-described-in/
+        url: /docs/item-notes/Item-described-in/
       - title: "Note on extent of item"
-        url: /docs/Item-Notes/Note-on-extent-of-item/
+        url: /docs/item-notes/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
-        url: /docs/Item-Notes/Note-on-dimensions-of-item/
+        url: /docs/item-notes/Note-on-dimensions-of-item/
       - title: "Bound with"
-        url: /docs/Item-Notes/Bound-with/
+        url: /docs/item-notes/Bound-with/
         
   - title: "Chapter 9. Identifiers"
-    url: /docs/Identifiers/
+    url: /identifiers/
     children:
       - title: "Identifier for manifestation"
-        url: /docs/Identifers/Identifier-for-manifestation/
+        url: /docs/identifers/Identifier-for-manifestation/
       - title: "Fingerprint"
-        url: /docs/Identifers/Fingerprint/
+        url: /docs/identifers/Fingerprint/
       - title: "Term of availability"
-        url: /docs/Identifers/Term-of-availability/
+        url: /docs/identifers/Term-of-availability/
       - title: "Note on identifier for manifestation"
-        url: /docs/Identifers/Note-on-identifier-for-manifestation/
+        url: /docs/identifers/Note-on-identifier-for-manifestation/
        
   - title: "Appendices"
-    url: /docs/Appendices/
+    url: /appendices/
   - title: "Glossary"
-    url: /docs/Glossary/
+    url: /glossary/
         
 
 
