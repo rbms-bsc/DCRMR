@@ -22,7 +22,8 @@ docs:
       - title: "Future work"
         url: /docs/preface/Future-work/
       - title: "Acknowledgements"
-	url: /docs/preface/Acknowledgements/
+        url: /docs/preface/Acknowledgements/
+
   - title: "Introduction"
     url: /introduction/
     children:
@@ -35,7 +36,7 @@ docs:
       - title: "Principles of DCRMR construction"
         url: /docs/introduction/Principles-of-DCRMR-construction/
       - title: "Options"
-	url: /docs/introduction/Options/
+        url: /docs/introduction/Options/
       - title: "Language preferences"
         url: /docs/introduction/Language-preferences/
       - title: "Spelling and style"
@@ -46,8 +47,8 @@ docs:
         url: /docs/introduction/Examples-and-notes/
       - title: "Integrity of the copy"
         url: /docs/introduction/Integrity-of-the-copy/
-      - title: "Precataloging decsisions"
-	url: /docs/introduction/Precataloging-descisions/
+      - title: "Precataloging decisions"
+        url: /docs/introduction/Precataloging-decisions/
   - title: "General rules"
     url: /general-rules/
     children:
@@ -185,7 +186,7 @@ docs:
         url: /docs/physical-description/Details-of-layout/
       - title: "Bibliographic format"
         url: /docs/physical-description/Bibliographic-format/
-      - title: "Details of bibliographic format
+      - title: "Details of bibliographic format"
         url: /docs/physical-description/Details-of-bibliographic-format/
       - title: "Font size"
         url: /docs/physical-description/Font-size/
@@ -290,21 +291,21 @@ docs:
       - title: "Collection-level records"
         url: /docs/identifers/Appendix-b/
       - title: "Core-level records"
-	url: /docs/identifers/Appendix-c/
+        url: /docs/identifers/Appendix-c/
       - title: "Minimal-level records"
-	url: /docs/identifers/Appendix-d/
+        url: /docs/identifers/Appendix-d/
       - title: "Variations requiring a new record"
-	url: /docs/identifers/Appendix-e/
+        url: /docs/identifers/Appendix-e/
       - title: "Title access points"
-	url: /docs/identifers/Appendix-f/
+        url: /docs/identifers/Appendix-f/
       - title: "Early letterforms and symbols"
-	url: /docs/identifers/Appendix-g/
+        url: /docs/identifers/Appendix-g/
       - title: "Individual and special issues of serials"
-	url: /docs/identifers/Appendix-h/
+        url: /docs/identifers/Appendix-h/
       - title: "Introduction"
-	url: /introduction/
+        url: /introduction/
       - title: "Abbreviations for Creators, Publishers, Printers, etc."
-	url: /docs/identifers/Appendix-j/
+        url: /docs/identifers/Appendix-j/
 
   - title: "Glossary"
     url: /glossary/
