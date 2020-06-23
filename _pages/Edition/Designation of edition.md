@@ -1,19 +1,22 @@
 ---
-layout: default
+layout: single
+type: docs
 title: Designation of edition
-parent: Edition
-nav_order: 2
+permalink: docs/edition/Designation-of-edition/
+sidebar:
+  nav: "docs"
 ---
 
-# Designation of edition
 
-Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes.
+## Process for Gathering Public Review Comments.
+Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
 
-| Modifier  | Screen size                          |
-|:----------|:-------------------------------------|
-| (none)    | All screens until the next modifier  |
-| `xs`      | 320px (20rem) and up                 |
-| `sm`      | 500px (31.25rem) and up              |
-| `md`      | 740px (46.25rem) and up              |
-| `lg`      | 1120px (70rem) and up                |
-| `xl`      | 1400px (87.5rem) and up              |
+[Link to Google Document](https://docs.google.com/document/){:target="_blank"}
+
+[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}

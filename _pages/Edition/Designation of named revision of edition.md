@@ -1,147 +1,22 @@
 ---
-layout: default
+layout: single
+type: docs
 title: Designation of named revision of edition
-parent: Utilities
-nav_order: 4
+permalink: docs/edition/Designation-of-named-revision-of-edition/
+sidebar:
+  nav: "docs"
 ---
 
-# Typography Utilities
-{: .no_toc }
+
+## Process for Gathering Public Review Comments.
+Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
+
+[Link to Google Document](https://docs.google.com/document/){:target="_blank"}
+
+[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
----
-
-## Font size
-
-Use the `.fs-1` - `.fs-10` to set an explicit font-size.
-
-| Class   | Small screen size `font-size`  | Large screen size `font-size` |
-|:--------|:-------------------------------|:------------------------------|
-| `.fs-1` | 9px                            | 10px                          |
-| `.fs-2` | 11px                           | 12px                          |
-| `.fs-3` | 12px                           | 14px                          |
-| `.fs-4` | 14px                           | 16px                          |
-| `.fs-5` | 16px                           | 18px                          |
-| `.fs-6` | 18px                           | 24px                          |
-| `.fs-7` | 24px                           | 32px                          |
-| `.fs-8` | 32px                           | 38px                          |
-| `.fs-9` | 38px                           | 42px                          |
-| `.fs-10`| 42px                           | 48px                          |
-
-<div class="code-example" markdown="1">
-Font size 1
-{: .fs-1 }
-Font size 2
-{: .fs-2 }
-Font size 3
-{: .fs-3 }
-Font size 4
-{: .fs-4 }
-Font size 5
-{: .fs-5 }
-Font size 6
-{: .fs-6 }
-Font size 7
-{: .fs-7 }
-Font size 8
-{: .fs-8 }
-Font size 9
-{: .fs-9 }
-Font size 10
-{: .fs-10 }
-</div>
-```markdown
-In Markdown, use the `{: }` wrapper to apply custom classes:
-
-Font size 1
-{: .fs-1 }
-Font size 2
-{: .fs-2 }
-Font size 3
-{: .fs-3 }
-Font size 4
-{: .fs-4 }
-Font size 5
-{: .fs-5 }
-Font size 6
-{: .fs-6 }
-Font size 7
-{: .fs-7 }
-Font size 8
-{: .fs-8 }
-Font size 9
-{: .fs-9 }
-Font size 10
-{: .fs-10 }
-```
-
-## Font weight
-
-Use the `.fw-300` - `.fw-700` to set an explicit font-size.
-
-<div class="code-example" markdown="1">
-Font weight 300
-{: .fw-300 }
-Font weight 400
-{: .fw-400 }
-Font weight 500
-{: .fw-500 }
-Font weight 700
-{: .fw-700 }
-</div>
-```markdown
-In Markdown, use the `{: }` wrapper to apply custom classes:
-
-Font weight 300
-{: .fw-300 }
-Font weight 400
-{: .fw-400 }
-Font weight 500
-{: .fw-500 }
-Font weight 700
-{: .fw-700 }
-```
-
-## Line height
-
-Use the `lh-` classes to explicitly apply line height to text.
-
-| Class         | `line-height` value  | Notes                         |
-|:--------------|:---------------------|:------------------------------|
-| `.lh-0`       | 0                    |                               |
-| `.lh-tight`   | 1.1                  | Default for headings          |
-| `.lh-default` | 1.4                  | Default for body (paragraphs) |
-
-<div class="code-example" markdown="1">
-No Line height
-No Line height
-{: .lh-0 }
-
-Tight line height
-Tight line height
-{: .lh-tight }
-
-Default line height
-Default line height
-{: .fh-default }
-</div>
-```markdown
-In Markdown, use the `{: }` wrapper to apply custom classes:
-
-No Line height
-No Line height
-{: .lh-0 }
-
-Tight line height
-Tight line height
-{: .lh-tight }
-
-Default line height
-Default line height
-{: .fh-default }
-```
