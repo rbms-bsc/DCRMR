@@ -9,33 +9,33 @@ sidebar:
 
 ## Table of Contents
 
-[Preface](/preface/)
+[Preface](/DCRMR/preface/)
 
-[Introduction](/introduction/)
+[Introduction](/DCRMR/introduction/)
 
-[General Rules](/general-rules/)
+[General Rules](/DCRMR/general-rules/)
 
-[Chapter 1. Title](/title/)
+[Chapter 1. Title](/DCRMR/title/)
 
-[Chapter 2. Statement of Responsibility](/sor/)
+[Chapter 2. Statement of Responsibility](/DCRMR/sor/)
 
-[Chapter 3. Edition](/edition/)
+[Chapter 3. Edition](/DCRMR/edition/)
 
-[Chapter 4. Production Publication Distribution Manufacture](/ppdm/)
+[Chapter 4. Production Publication Distribution Manufacture](/DCRMR/ppdm/)
 
-[Chapter 5. Physical Description](/physical-description/)
+[Chapter 5. Physical Description](/DCRMR/physical-description/)
 
-[Chapter 6. Series](/series/)
+[Chapter 6. Series](/DCRMR/series/)
 
-[Chapter 7. Notes-on-items](/notes-on-items/)
+[Chapter 7. Notes-on-items](/DCRMR/notes-on-items/)
 
-[Chapter 8. Item Notes](/item-notes/)
+[Chapter 8. Item Notes](/DCRMR/item-notes/)
 
-[Chapter 9. Identifiers](/identifiers/)
+[Chapter 9. Identifiers](/DCRMR/identifiers/)
 
-[Appendices](/appendices/)
+[Appendices](/DCRMR/appendices/)
 
-[Glossary](/glossary/)
+[Glossary](/DCRMR/glossary/)
 ## Recent Revision History.
 
 
