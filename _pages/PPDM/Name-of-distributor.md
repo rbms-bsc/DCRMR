@@ -48,7 +48,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.203.4 Distributor statements containing grammatically inseparable place names or dates
 
-<a name="4.203-4.1">4.203-4.1</a> If the [distributor statement](/DCRM/docs/ppdm/Distributor-statement/) contains grammatically inseparable statements relating to [place of distribution](/DCRM/docs/ppdm/Place-of-distribution/) or [date of distribution](/DCRM/docs/ppdm/Date-of-distribution/), transcribe the information as part of the name of the distributor element. Supply the [place of distribution](/DCRM/docs/ppdm/Place-of-distribution/)or [date of distribution](/DCRM/docs/ppdm/Date-of-distribution/), in square brackets in the appropriate element.
+<a name="4.203-4.1">4.203-4.1</a> If the [distributor statement](/DCRM/docs/ppdm/Distributor-statement/) contains grammatically inseparable statements relating to [place of distribution](/DCRM/docs/ppdm/Place-of-distribution/) or [date of distribution](/DCRM/docs/ppdm/Date-of-distribution/), transcribe the information as part of the name of the distributor element. Supply the [place of distribution](/DCRM/docs/ppdm/Place-of-distribution/) or [date of distribution](/DCRM/docs/ppdm/Date-of-distribution/), in square brackets in the appropriate element.
 
 ```[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts.```
 
