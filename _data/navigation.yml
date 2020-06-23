@@ -73,7 +73,7 @@ docs:
     url: /sor/
     children:
       - title: "Statement of responsibility"
-        url: /docs/sor/statement-of-responsibility/
+        url: /docs/sor/Statement-of-responsibility/
       - title: "Parallel statement of responsibility relating to title proper"
         url: /docs/sor/Parallel-statement-of-responsibility-relating-to-title-proper
       - title: "Note on statement of responsibility"

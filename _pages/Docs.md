@@ -9,33 +9,33 @@ sidebar:
 
 ## Table of Contents
 
-[Preface](/docs/Preface/)
+[Preface](/preface/)
 
-[Introduction](/docs/Introduction/)
+[Introduction](/introduction/)
 
-[General Rules](/docs/General-Rules/)
+[General Rules](/general-rules/)
 
-[Chapter 1. Title](/docs/Title/)
+[Chapter 1. Title](/title/)
 
-[Chapter 2. Statement of Responsibility](/docs/SOR)
+[Chapter 2. Statement of Responsibility](/sor/)
 
-[Chapter 3. Edition](/docs/Edition)
+[Chapter 3. Edition](/edition/)
 
-[Chapter 4. Production Publication Distribution Manufacture](/docs/PPDM)
+[Chapter 4. Production Publication Distribution Manufacture](/ppdm/)
 
-[Chapter 5. Physical Description](/docs/Physical-Description)
+[Chapter 5. Physical Description](/physical-description/)
 
-[Chapter 6. Series](/docs/Series)
+[Chapter 6. Series](/series/)
 
-[Chapter 7. Other Notes](/docs/Other-Notes)
+[Chapter 7. Other Notes](/other-notes/)
 
-[Chapter 8. Item Notes](/docs/Item-Notes)
+[Chapter 8. Item Notes](/item-notes/)
 
-[Chapter 9. Identifiers](/docs/Identifiers)
+[Chapter 9. Identifiers](/identifiers/)
 
-[Appendices](/docs/Appendices)
+[Appendices](/appendices/)
 
-[Glossary](/docs/Glossary)
+[Glossary](/glossary/)
 ## Recent Revision History.
 
 

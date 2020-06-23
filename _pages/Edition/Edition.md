@@ -16,7 +16,7 @@ sidebar:
 
 [Chapter 3.22 Parallel designation of edition](/DCRMR/docs/edition/Parallel-designation-of-edition/)
 
-[Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/docs/edition/Statement-of-responsibility-relating to-edition/)
+[Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/docs/edition/Statement-of-responsibility-relating-to-edition/)
 
 [Chapter 3.24 Parallel statement of responsibility relating to edition](/DCRMR/docs/edition/Parallel-statement-of-responsibility-relating-to-edition/)
 
