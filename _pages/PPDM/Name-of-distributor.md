@@ -34,8 +34,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.203-3.2">4.203-3.2</a> Transcribe the name of the distributor, together with any associated words or phrases, as it appears on the manifestation.
 
-```sold for the editor, by Messrs. Dulau & Co. 
-No. 107, Wardour-Street; De Boffe, No. 7, Gerrard-Street, Soho; and T. Boosey, Broad-Street, behind the Royal Exchange```
+```sold for the editor, by Messrs. Dulau & Co.```
+
+```No. 107, Wardour-Street; De Boffe, No. 7, Gerrard-Street, Soho; and T. Boosey, Broad-Street, behind the Royal Exchange```
 
 ```sold at wholesale by Horace Partridge, importer, wholesale and retail dealer in fancy goods, toys, watches, jewelry, Yankee notions, beads, &c. No. 27 Hanover Street Boston```
 
