@@ -252,7 +252,7 @@ docs:
       - title: "Issued with"
         url: /docs/other-notes/Issued-with/
         
-  - title: "Chapter 8. Item Notes"
+  - title: "Chapter 8. Notes on items"
     url: /notes-on-items/
     children:
       - title: "Note on item"

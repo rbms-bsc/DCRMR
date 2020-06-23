@@ -27,7 +27,7 @@ sidebar:
 
 [Chapter 6. Series](/series/)
 
-[Chapter 7. Other Notes](/other-notes/)
+[Chapter 7. Notes-on-items](/notes-on-items/)
 
 [Chapter 8. Item Notes](/item-notes/)
 
