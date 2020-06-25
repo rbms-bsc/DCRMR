@@ -175,7 +175,9 @@ Date of Publication: ```[July 1, 1790]```
 *Example*:
 ```[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet.]```
 
-(*Comment*: Title reads ```“Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”)```
+[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet.]
+
+*Comment*: Title reads ```“Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”```
 
 ## 4.203.97 Publisher name in more than one language or script
 
