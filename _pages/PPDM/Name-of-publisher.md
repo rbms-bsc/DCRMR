@@ -172,13 +172,14 @@ Date of Publication: ```[July 1, 1790]```
 
 <a name="4.203.96.1">4.203.96.1</a> If no formal publisher’s name statement appears on the manifestation, and the name of the publisher has already been transcribed as part of another element, supply it within square brackets.
 
-```[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet.]```
+Example:
+```[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet]```
 
 (*Comment*: Title reads ```“Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”)```
 
 ## 4.203.97 Publisher name in more than one language or script
 
-<a name="4.203.95.1">4.203.95.1</a>  If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of publisher](/DCRMR/docs/ppdm/Parallel-name-of-publisher/).  Make a note to indicate the original position on the source of any transposed statements, See [note on publication statement](DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.97.1">4.203.97.1</a>  If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of publisher](/DCRMR/docs/ppdm/Parallel-name-of-publisher/).  Make a note to indicate the original position on the source of any transposed statements, See [note on publication statement](DCRMR/docs/ppdm/Note-on-publication-statement/).
 
 
 
