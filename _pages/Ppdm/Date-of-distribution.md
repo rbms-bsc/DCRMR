@@ -59,6 +59,7 @@ Alternately, substitute for it the date in arabic numerals in square brackets. I
 <a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). Alternately, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information. See note on distribution statement.
 
 Example: 1689 [i.e.1690]
+
 **Note on Distribution Statement:** "Given at our Court at Dublin-Castle the 28th day of March 1690"
 
 <a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates.** If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note to indicate the basis for the supplied year. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
@@ -78,11 +79,13 @@ Example: 1691/2 [i.e. 1692]
 <a name="4.215.4.6">4.215.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of distribution is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
 Example: An III [1794 or 1795]
+
 (*Comment:* Date of imprint follows French Revolutionary calendar)
 
 *Optionally*, if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 Example: die visitationis Beatae Virginis Mariae [July 2] 1497
+
 (*Comment:* Day and month follow ecclesiastical calendar)
 
 <a name="4.215.4.7">4.215.4.7</a> **Multiple adjustments or additions.** If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.
@@ -92,8 +95,8 @@ Example: die visitationis Beatae Virginis Mariae [July 2] 1497
 <a name="4.215.5.1">4.215.5.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
 
 Example: MDLII [1552 i.e. 1652]
-**Note on Distribution Statement:** Corrected date from Corpus librorum emblematum, Jesuit series.
 
+**Note on Distribution Statement:** Corrected date from Corpus librorum emblematum, Jesuit series.
 
 ## 4.215.6 Conjectural date of distribution
 
@@ -129,23 +132,3 @@ Example: MDLII [1552 i.e. 1652]
 ## 4.215.9 Date of distribution on part pages
 
 <a name="4.215.9.1">4.215.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.4](#4.215.4.4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
