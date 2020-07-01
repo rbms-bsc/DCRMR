@@ -121,7 +121,7 @@ Example: 1690/1 [i.e. 1691]
 
 Example: 1690/1691 [i.e. 1691]
 
-<a name="4.205.4.6">4.205.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of publication is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For publications issued before 1582, supply the equivalent Julian date(s). For later publications, supply the equivalent Gregorian date(s).
+<a name="4.205.4.6">4.205.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of publication is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
 Example: 627 [1866 or 1867]
 
