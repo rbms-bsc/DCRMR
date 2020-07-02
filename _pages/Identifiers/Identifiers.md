@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Identifiers
-permalink: docs/Identifiers/
+permalink: /identifiers/
 sidebar:
   nav: "docs"
 ---
