@@ -10,56 +10,56 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Num](Num/)
+[Num](/docs/glossary/Num/)
 
-[A](A/)
+[A](/docs/glossary/Glossary-A/)
 
-[B](B/)
+[B](/docs/glossary/Glossary-B/)
 
-[C](C/)
+[C](/docs/glossary/Glossary-C/)
 
-[D](D/)
+[D](/docs/glossary/Glossary-D/)
 
-[E](E/)
+[E](/docs/glossary/Glossary-E/)
 
-[F](F/)
+[F](/docs/glossary/Glossary-F/)
 
-[G](G/)
+[G](/docs/glossary/Glossary-G/)
 
-[H](H/)
+[H](/docs/glossary/Glossary-H/)
 
-[I](I/)
+[I](/docs/glossary/Glossary-I/)
 
-[J](J/)
+[J](/docs/glossary/Glossary-J/)
 
-[K](K/)
+[K](/docs/glossary/Glossary-K/)
 
-[L](L/)
+[L](/docs/glossary/Glossary-L/)
 
-[M](M/)
+[M](/docs/glossary/Glossary-M/)
 
-[N](N/)
+[N](/docs/glossary/Glossary-N/)
 
-[O](O/)
+[O](/docs/glossary/Glossary-O/)
 
-[P](P/)
+[P](/docs/glossary/Glossary-P/)
 
-[Q](Q/)
+[Q](/docs/glossary/Glossary-Q/)
 
-[R](R/)
+[R](/docs/glossary/Glossary-R/)
 
-[S](S/)
+[S](/docs/glossary/Glossary-S/)
 
-[T](T/)
+[T](/docs/glossary/Glossary-T/)
 
-[U](U/)
+[U](/docs/glossary/Glossary-U/)
 
-[V](V/)
+[V](/docs/glossary/Glossary-V/)
 
-[W](W/)
+[W](/docs/glossary/Glossary-W/)
 
-[X](X/)
+[X](/docs/glossary/Glossary-X/)
 
-[Y](Y/)
+[Y](/docs/glossary/Glossary-Y/)
 
-[Z](Z/)
+[Z](/docs/glossary/Glossary-Z/)
