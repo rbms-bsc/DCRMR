@@ -10,56 +10,56 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Num](/docs/glossary/Num/)
+[Num](/DCRMR/docs/glossary/Num/)
 
-[A](/docs/glossary/Glossary-A/)
+[A](/DCRMR/docs/glossary/Glossary-A/)
 
-[B](/docs/glossary/Glossary-B/)
+[B](/DCRMR/docs/glossary/Glossary-B/)
 
-[C](/docs/glossary/Glossary-C/)
+[C](/DCRMR/docs/glossary/Glossary-C/)
 
-[D](/docs/glossary/Glossary-D/)
+[D](/DCRMR/docs/glossary/Glossary-D/)
 
-[E](/docs/glossary/Glossary-E/)
+[E](/DCRMR/docs/glossary/Glossary-E/)
 
-[F](/docs/glossary/Glossary-F/)
+[F](/DCRMR/docs/glossary/Glossary-F/)
 
-[G](/docs/glossary/Glossary-G/)
+[G](/DCRMR/docs/glossary/Glossary-G/)
 
-[H](/docs/glossary/Glossary-H/)
+[H](/DCRMR/docs/glossary/Glossary-H/)
 
-[I](/docs/glossary/Glossary-I/)
+[I](/DCRMR/docs/glossary/Glossary-I/)
 
-[J](/docs/glossary/Glossary-J/)
+[J](/DCRMR/docs/glossary/Glossary-J/)
 
-[K](/docs/glossary/Glossary-K/)
+[K](/DCRMR/docs/glossary/Glossary-K/)
 
-[L](/docs/glossary/Glossary-L/)
+[L](/DCRMR/docs/glossary/Glossary-L/)
 
-[M](/docs/glossary/Glossary-M/)
+[M](/DCRMR/docs/glossary/Glossary-M/)
 
-[N](/docs/glossary/Glossary-N/)
+[N](/DCRMR/docs/glossary/Glossary-N/)
 
-[O](/docs/glossary/Glossary-O/)
+[O](/DCRMR/docs/glossary/Glossary-O/)
 
-[P](/docs/glossary/Glossary-P/)
+[P](/DCRMR/docs/glossary/Glossary-P/)
 
-[Q](/docs/glossary/Glossary-Q/)
+[Q](/DCRMR/docs/glossary/Glossary-Q/)
 
-[R](/docs/glossary/Glossary-R/)
+[R](/DCRMR/docs/glossary/Glossary-R/)
 
-[S](/docs/glossary/Glossary-S/)
+[S](/DCRMR/docs/glossary/Glossary-S/)
 
-[T](/docs/glossary/Glossary-T/)
+[T](/DCRMR/docs/glossary/Glossary-T/)
 
-[U](/docs/glossary/Glossary-U/)
+[U](/DCRMR/docs/glossary/Glossary-U/)
 
-[V](/docs/glossary/Glossary-V/)
+[V](/DCRMR/docs/glossary/Glossary-V/)
 
-[W](/docs/glossary/Glossary-W/)
+[W](/DCRMR/docs/glossary/Glossary-W/)
 
-[X](/docs/glossary/Glossary-X/)
+[X](/DCRMR/docs/glossary/Glossary-X/)
 
-[Y](/docs/glossary/Glossary-Y/)
+[Y](/DCRMR/docs/glossary/Glossary-Y/)
 
-[Z](/docs/glossary/Glossary-Z/)
+[Z](/DCRMR/docs/glossary/Glossary-Z/)
