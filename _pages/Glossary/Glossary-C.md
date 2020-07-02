@@ -17,4 +17,4 @@ sidebar:
 The distinguishing word or sequence of words that names a publication, as given on the title page (or substitute).  This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. *See also* **[Title proper](/DCRMR/docs/glossary/Glossary-T/#title-proper).**
 
 ## **Term-in-bold.** 
-[Definition of term].  *See also in italics* **[Bolded-link-to-see-also-term](Bolded-link-to-see-also-term).**
+[Definition of term].  *See also in italics* **[bolded see also term](/DCRMR/docs/glossary/Glossary-Letter/#bolded-see-also-term).**
