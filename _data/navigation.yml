@@ -287,25 +287,25 @@ docs:
     url: /appendices/
     children:
       - title: "MARC 21 Descriptive Conventions Code"
-        url: /docs/identifers/Appendix-a/
+        url: /docs/appendices/Appendix-a/
       - title: "Collection-level records"
-        url: /docs/identifers/Appendix-b/
+        url: /docs/appendices/Appendix-b/
       - title: "Core-level records"
-        url: /docs/identifers/Appendix-c/
+        url: /docs/appendices/Appendix-c/
       - title: "Minimal-level records"
-        url: /docs/identifers/Appendix-d/
+        url: /docs/appendices/Appendix-d/
       - title: "Variations requiring a new record"
-        url: /docs/identifers/Appendix-e/
+        url: /docs/appendices/Appendix-e/
       - title: "Title access points"
-        url: /docs/identifers/Appendix-f/
+        url: /docs/appendices/Appendix-f/
       - title: "Early letterforms and symbols"
-        url: /docs/identifers/Appendix-g/
+        url: /docs/appendices/Appendix-g/
       - title: "Individual and special issues of serials"
-        url: /docs/identifers/Appendix-h/
+        url: /docs/appendices/Appendix-h/
       - title: "Introduction"
         url: /introduction/
       - title: "Abbreviations for Creators, Publishers, Printers, etc."
-        url: /docs/identifers/Appendix-j/
+        url: /docs/appendices/Appendix-j/
 
   - title: "Glossary"
     url: /glossary/
