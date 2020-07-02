@@ -14,7 +14,7 @@ sidebar:
 {:toc}
 
 ## **Title proper.**
-The chief title of a publication, together with any title information preceding the chief title and any alternative title.  This definition excludes parallel titles and any other title information following the chief title.  *See also* **[Chief title](https://rbms-bsc.github.io/DCRMR/docs/glossary/Glossary-C/#chief-title).**
+The chief title of a publication, together with any title information preceding the chief title and any alternative title.  This definition excludes parallel titles and any other title information following the chief title.  *See also* **[Chief title](/DCRMR/docs/glossary/Glossary-C/#chief-title).**
 
 ## **Term-in-bold.** 
 [Definition of term].  *See also in italics* **[Bolded-link-to-see-also-term](Bolded-link-to-see-also-term).**
