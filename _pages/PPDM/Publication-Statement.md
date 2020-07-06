@@ -89,7 +89,7 @@ Example: `Geneuae : Sumptibus Petri Chouët, M.DC.LI`
 
 Example: `[Paris] : Published by Corbeau at Paris and by Robinde at London, [1787]`
 
-## 4.20.9 Statements relating to manufacture only
+## 4.20.9 Statements relating to manufacture or distributor only
 
 <a name="4.20.9.1">4.20.9.1</a> If the resource bears only a statement relating to manufacture, or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a publication statement. 
 
@@ -104,6 +104,8 @@ Example: `Edmonton : in typographeio Ioannis Albini, anno 1602`
 Example: `Imprinted at London : by Wynkyn de Worde dwellynge in Fletestrete at the Sygne of the Sonne agaynst the condyth, the VI. Day of Janiuer in the yere of our Lorde God M.V.C. and XXXIIII`
 
 Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657`
+
+<a name="4.20.9.1">4.20.9.1</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
 ## 4.20.91 Statements relating to publication, distribution, etc. and to manufacture
 

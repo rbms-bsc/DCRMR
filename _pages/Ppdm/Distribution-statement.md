@@ -64,7 +64,7 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 ## 4.21.8 Statements relating to distribution only
 
-<a name="4.21.8.1">4.21.8.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
+<a name="4.21.8.1">4.21.8.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
 
 ## 4.21.9 Statements relating to publication, distribution, etc. and to manufacture
 

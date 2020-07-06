@@ -1,0 +1,77 @@
+---
+layout: single
+type: docs
+title: Manufacture statement
+permalink: docs/ppdm/Manufacture-statement/
+sidebar:
+  nav: "docs"
+---
+
+## Process for Gathering Public Review Comments.
+Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
+
+[Link to Google Document](https://docs.google.com/document/d/17KP-MOwuIg7a7krjtzh0ir3-EonwtCHB59u5xhjSNcQ/edit){:target="_blank"}
+
+[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## 4.22.1 Element information
+
+[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-426f9771-5684-39eb-bbeb-82a4a9a8e336){:target="_blank"}
+
+## 4.22.2 Definition and scope
+
+<a name="4.22.2.1">4.22.2.1</a> A statement that identifies a place of manufacture, a manufacturer, and a date of manufacture of a published manifestation.
+
+## 4.22.3 Sources of information
+
+<a name="4.22.3.1">4.22.3.1</a> The prescribed sources of information for the manufacture statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](https://rbms-bsc.github.io/DCRMR/docs/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution, and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the manufacture statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
+
+<a name="4.22.3.2">4.22.3.2</a> If any part of the manufacture statement is taken from a source other than the title page, make a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/). Make a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/) about information not transcribed in the manufacture statement if considered important.
+
+## 4.22.4 Form and order of information
+
+<a name="4.22.4.1">4.22.4.1</a> Transcribe the manufacture statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+
+<a name="4.22.4.2">4.22.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/) indicating the original position of the transposed elements. 
+
+<a name="4.22.4.3">4.22.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)).
+
+## 4.22.5 Fictitious or incorrect information
+
+<a name="4.22.5.1">4.22.5.1</a>  If all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/). 
+
+## 4.22.6 Information covered by labels, etc.
+
+<a name="4.22.6.1">4.22.6.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+
+<a name="4.22.6.2">4.22.6.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is a [note on item](https://rbms-bsc.github.io/DCRMR/docs/notes-on-items/Note-on-item/).
+
+## 4.22.7 Elements relating to publication, distribution vs. elements relating to manufacture
+
+<a name="4.22.7.1">4.22.7.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+
+## 4.22.8 Statements relating to manufacture only
+
+<a name="4.22.8.1">4.22.8.1</a> If the resource bears only a statement relating to manufacture or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
+
+## 4.22.9 Statements relating to publication, distribution, etc. and to manufacture
+
+<a name="4.22.9.1">4.22.9.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
+
+<a name="4.22.9.2">4.22.9.2</a> If a manufacture statement is grammatically separable, treat the statement as a manufacture statement. 
+
+<a name="4.22.9.3">4.22.9.3</a> If grammatically inseparable, transcribe them as a publication statement. 
+
+Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
+
+Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
+
+Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
+
+<a name="4.22.9.4">4.22.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the manufacture statement or as a statement of responsibility. Often the layout of the source will suggest the appropriate treatment.
