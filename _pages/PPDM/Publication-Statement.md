@@ -109,14 +109,23 @@ Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-
 
 <a name="4.20.91.1">4.20.91.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.91.2">4.20.91.2</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
+<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a distribution or manufacture statement. See Manufacture statement.
+
+<a name="4.20.91.3">4.20.91.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX
 
 Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
 
 Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
 
-X.X. If a distribution or manufacture statement is grammatically separable, treat the statement as a distribution or manufacture statement. See Manufacture statement.
+<a name="4.20.91.4">4.20.91.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a statement of responsibility. Often the layout of the source will suggest the appropriate treatment.
+
+Example: `A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832] (Comment: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)`
+
+but
+
+Example: `The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783`
+(*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement.)
 
 ## 4.20.92 No publication statement
 
@@ -136,17 +145,6 @@ Example: `London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richa
 
 Example: `London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792`
 
+## 4.20.93 Transcribing dates of publication as part of the Publication statement
 
-
-
-
-
-
-
-
-
-
-
-
-
-`example text example text example text blah blah blah`
+<a name="4.20.93.1">4.20.93.1</a> Transcribe dates of publication as they appear on the source of information. Apply the guidelines for transcription of [words](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/) and [numbers](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/).
