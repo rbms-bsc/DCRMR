@@ -66,7 +66,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.22.9.2">4.22.9.2</a> If a manufacture statement is grammatically separable, treat the statement as a manufacture statement. 
 
-<a name="4.22.9.3">4.22.9.3</a> If grammatically inseparable, transcribe them as a publication statement. 
+<a name="4.22.9.3">4.22.9.3</a> If grammatically inseparable, transcribe them as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
 
 Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
 
@@ -74,4 +74,4 @@ Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-St
 
 Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
 
-<a name="4.22.9.4">4.22.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the manufacture statement or as a statement of responsibility. Often the layout of the source will suggest the appropriate treatment.
+<a name="4.22.9.4">4.22.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the manufacture statement or as a [statement of responsibility](https://rbms-bsc.github.io/DCRMR/docs/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.

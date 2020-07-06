@@ -72,7 +72,7 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 <a name="4.21.9.2">4.21.9.2</a> If a distribution statement is grammatically separable, treat the statement as a distribution statement. 
 
-<a name="4.21.9.3">4.21.9.3</a>  If grammatically inseparable, transcribe them as a publication statement. 
+<a name="4.21.9.3">4.21.9.3</a>  If grammatically inseparable, transcribe them as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
 
 Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
 
