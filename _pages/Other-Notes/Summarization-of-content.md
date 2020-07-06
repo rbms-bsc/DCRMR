@@ -35,4 +35,5 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ## 7.231.4 General Rule
 
 <a name="7.231.4.1">7.231.4.1</a> Give a brief abstract, summary, synopsis, etc. of the content of an expression if considered important.
-`Promotional brochure for the 1916 Panama California International Exposition, which opened in Balboa Park in San Diego, California on March 18, 1916. $b Although both San Francisco (the official site) and San Diego had hosted expositions during 1915 in honor of the completion of the Panama Canal, Southern Californians decided to continue the celebration in 1916, expanding the San Diego exposition with exhibits contributed by the San Francisco fair and by many foreign countries`
+
+Example: `Promotional brochure for the 1916 Panama California International Exposition, which opened in Balboa Park in San Diego, California on March 18, 1916. $b Although both San Francisco (the official site) and San Diego had hosted expositions during 1915 in honor of the completion of the Panama Canal, Southern Californians decided to continue the celebration in 1916, expanding the San Diego exposition with exhibits contributed by the San Francisco fair and by many foreign countries`
