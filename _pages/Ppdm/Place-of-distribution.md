@@ -93,7 +93,7 @@ Example: `London ; York`
 
 Example: `A Lausanne & se trouve à Paris`
 
-<a name="4.211.8.2">4.211.8.2</a> *Optionally,* if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution statement may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+<a name="4.211.8.2">4.211.8.2</a> *Optionally,* if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
 
 Example: `London ; Reading ; Bath ... [and 6 other cities in England]`
 
@@ -112,6 +112,87 @@ Example: `Philadelphia printed, London reprinted`
 <a name="4.211.8.6">4.211.8.6</a> If both the place and distributor associated with an earlier manifestation appear together with the place and distributor of the manifestation being described, transcribe each place with the distributor to which it corresponds.
 
 Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by him at his bookstore, also by West & Richardson, Cummings, Hilliard & Co., Boston, and Wilder & Campbell, New-York`
+
+## 4.211.9 Places of distribution in multipart monographs
+
+<a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/)
+
+Example: `Stuttgart ; Tübingen`
+
+Example: `Note: Place of distribution in v. 33-40: Stuttgart ; Augsburg`
+
+## 4.211.95 Place names that are grammatically inseparable parts of other elements 
+
+<a name="4.211.95.1">4.211.95.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets.  ([reference to instruction in distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Distribution-statement/)). Use a modern English form of the name, if there is one.
+
+Example: `[Munich] : Durch Peter Clement, Kunstführer zu München`
+
+## 4.211.96 Fictitious or incorrect places of distribution
+
+<a name="4.211.96.1">4.211.96.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/)
+
+Example: `Londres [i.e. Paris]
+
+**Note on distribution statement:** Actual place of publication from: Weller, E.O.  Falsche Druckorte
+
+## 4.211.97 No place of distribution
+<a name="4.211.97.1">4.211.97.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) if neccesary.
+
+Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
+
+**Note: Samuel Green was located in Cambridge, Mass., from 1660 to 1672
+
+<a name="4.211.97.2">4.211.97.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the date of distribution if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
+
+Example: `[Christiania i.e. Oslo]`
+
+Example: `[Leona Vicario i.e. Saltillo, Coahuila, Mexico]`
+
+## 4.211.98 Place of distribution supplied based on address or sign
+
+<a name="4.211.98.1">4.211.98.1</a> Supply in square brackets the name of the place of distribution using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the name of distributor element ; see X.X) When supplying the place, give a justification in a note on distribution if necessary.
+
+Example: `[Paris]`
+(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+
+Example: `[London]`
+(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
+
+## 4.211.99 Place of distribution uncertain or unknown
+
+<a name="4.211.99.1">4.211.99.1</a> If the place of distribution is uncertain, supply the name of the probable place of distribution with a question mark, using a modern English form of the name, if there is one, all in square brackets.
+
+Example: `[Amsterdam?]`
+
+Example: `[Newport, R.I.?]`
+
+Example: `[Saint Petersburg?]`
+
+<a name="4.211.99.2">4.211.99.2</a>  If no city of distribution can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern English form of the name, if there is one, all in square brackets.
+
+Example: `[Canada]`
+
+Example: `[Surrey?]`
+
+Example: `[Prussia?]`
+
+Example: `[South America?]`
+
+<a name="4.211.99.3">4.211.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) to indicate the source of the information.
+Example: `Place of publication suggested by Alden`
+
+<a name="4.211.99.4">4.211.99.4</a> If no place of distribution can be conjectured, record “Place of distribution not identified” in square brackets.
+Example: `[Place of distribution not identified]`
+
+## 4.211.995 Place names in more than one language or script
+
+<a name="4.211.995.1">4.211.995.1</a>  If the name of the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Parallel-place-of-distribution/)) Make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements. 
+
+
+
+
+
+
 
 
 
