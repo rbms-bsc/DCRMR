@@ -10,24 +10,24 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Scope and purpose](/DCRMR/docs/introduction/Scope and purpose/)
+[I. Scope and purpose](/DCRMR/docs/introduction/Scope and purpose/)
 
-[Relationship to other standards](/DCRMR/docs/introduction/Relationship-to-other-standards/)
+[II. Relationship to other standards](/DCRMR/docs/introduction/Relationship-to-other-standards/)
 
-[Objectives and principles](/DCRMR/docs/introduction/Objectives and principles/)
+[III. Objectives and principles](/DCRMR/docs/introduction/Objectives and principles/)
 
-[Principles to DCRMR construction](/DCRMR/docs/introduction/Principles-of-DCRMR-construction/)
+[IV. Principles to DCRMR construction](/DCRMR/docs/introduction/Principles-of-DCRMR-construction/)
 
-[Options](/DCRMR/docs/introduction/Options/)
+[V. Options](/DCRMR/docs/introduction/Options/)
 
-[Language preferences](/DCRMR/docs/introduction/Language preferences/)
+[VI. Language preferences](/DCRMR/docs/introduction/Language preferences/)
 
-[Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
+[VII. Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
 
-[Acronyms](/DCRMR/docs/introduction/Acronyms/)
+[VIII. Acronyms](/DCRMR/docs/introduction/Acronyms/)
 
-[Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
+[IX. Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
 
-[Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
+[X. Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
 
-[Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)
+[XI. Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)
