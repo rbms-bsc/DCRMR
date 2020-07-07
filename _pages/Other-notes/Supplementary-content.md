@@ -52,18 +52,18 @@ Example: `Prospectus and bookseller's advertisements on pages 77-[80]`
 
 Example: `Publisher's advertisements on [2] pages at end`
 
-(*Comment:* advertisements integral to manifestation)  `
+(*Comment:* advertisements integral to manifestation)
 
-Example: `Final unnumbered sequence contains: 'An abstract of the penal-laws'
+Example: `Final unnumbered sequence contains: 'An abstract of the penal-laws`
 
 ## 7.232.5 Errata leaves and slips
 
 <a name="7.232.5.1">7.232.5.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the publication if considered important.
 
-Example: `Errata on last leaf'
+Example: `Errata on last leaf`
 
-Example: `With an errata slip'
+Example: `With an errata slip`
 
-Example: `With an errata slip pasted onto a blank leaf after the title page'
+Example: `With an errata slip pasted onto a blank leaf after the title page`
 
-Example: `Errata on page [47]'
+Example: `Errata on page [47]`
