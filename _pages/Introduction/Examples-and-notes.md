@@ -27,35 +27,3 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ## I.2 Notes
 
 <a name="I.2.1">I.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](https://rbms-bsc.github.io/DCRMR/other-notes/) and [Notes on items](https://rbms-bsc.github.io/DCRMR/notes-on-items/).
-
-
-
-
-
-[Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
-
-## [chapter#].[entity#].2 Definition and scope
-
-<a name="[chapter#].[entity#].2.1">[chapter#].[entity#].2.1</a> [Definition from RDA Registry]
-
-## [chapter#].[entity#].3 [General rule?  Name of Entity?  Start of instructions]
-
-<a name="[chapter#].[entity#].3.1">[chapter#].[entity#].3.1</a> 
-
-## Example of examples, RDA entities/references in examples, and accompanying comments (very meta)
-
-Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657`
-
-***
-
-Example: `Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]`
-
-**Note on publication statement:** `Corrected imprint from: Pia, P. Livres de l'Enfer`
-
-***
-
-Example: `London : publish’d Feby. 27th. 1799 by J. Harris, Sweetings Alley, Cornhill, [February 27, 1799]`
-
-(*Comment:* The date of publication has not been transposed because it is a grammatically inseparable element)
-
-***
