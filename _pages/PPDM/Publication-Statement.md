@@ -34,7 +34,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.20.3.1">4.20.3.1</a> The prescribed sources of information for the publication statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](https://rbms-bsc.github.io/DCRMR/docs/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the publication statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.20.3.2">4.20.3.2</a>  If any part of the publication statement is taken from a source other than the title page, make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) to indicate the source. Make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) about information not transcribed in the publication statement if considered important.
+<a name="4.20.3.2">4.20.3.2</a>  If any part of the publication statement is taken from a source other than the title page, make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) to indicate the source. 
+
+<a name="4.20.3.3">4.20.3.3</a>Make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) about information not transcribed in the publication statement if considered important.
 
 ## 4.20.4 Form and order of information
 
@@ -111,7 +113,7 @@ Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-
 
 <a name="4.20.91.1">4.20.91.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a distribution or manufacture statement. See Manufacture statement.
+<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Distribution-statement/) or [manufacture statement]((https://rbms-bsc.github.io/DCRMR/docs/ppdm/Manufacture-statement/).
 
 <a name="4.20.91.3">4.20.91.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX
@@ -127,6 +129,7 @@ Example: `A geological map of the United States / engraved & printed by Fenner, 
 but
 
 Example: `The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783`
+
 (*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement.)
 
 ## 4.20.92 No publication statement

@@ -118,7 +118,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.201.9 Places of publication in multipart monographs
 
-<a name="4.201.9.1">4.201.9.1</a> If the publication is issued in more than one physical part, and the place of publication changes in the course of publication, give the place of publication of the later part(s) in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.201.9.1">4.201.9.1</a> If the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication, give the place of publication of the later part(s) in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/#4.206.4.1).
 
 Example: `Stuttgart ; Tübingen`
 
@@ -126,20 +126,20 @@ Example: `Stuttgart ; Tübingen`
 
 ## 4.201.95 Place names that are grammatically inseparable parts of other areas, etc.
 
-<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the publisher statement and is transcribed there, supply in square brackets the place of publication as the first element of the publication statement  ([reference to instruction in publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/)). Use a modern English form of the name, if there is one.
+<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the publisher statement and is transcribed there, supply in square brackets the place of publication as the first element of the [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/)). Use a modern English form of the name, if there is one.
 
 Example: `[Munich] : Durch Peter Clement, Kunstführer zu München`
 
 ## 4.201.96 Fictitious or incorrect places of publication
 
-<a name="4.201.96.1">4.201.96.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.201.96.1">4.201.96.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/#4.206.4.2).
 
 Example: `Londres [i.e. Paris]`
 
 **Note on distribution statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
 
 ## 4.201.97 No place of publication
-<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed publisher statement if one is present. Provide a justification for the supplied place in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/) if necessary.
+<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed publisher statement if one is present. Provide a justification for the supplied place in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/#4.206.4.3) if necessary.
 
 Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
@@ -153,7 +153,7 @@ Example: `[Leona Vicario i.e. Saltillo, Coahuila, Mexico]`
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a>  Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the publisher statement; see X.X.) When supplying a place of publication, give a justification in a note if necessary.
+<a name="4.201.98.1">4.201.98.1</a>  Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/)) When supplying a place of publication, give a justification in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/#4.206.4.4) if necessary.
 
 Example: `[Paris]`
 
@@ -182,32 +182,15 @@ Example: `[Prussia?]`
 
 Example: `[South America?]`
 
-<a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/) to indicate the source of the information.
+<a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/#4.206.4.5) to indicate the source of the information.
 
 Example: **Note on publication statement:** `Place of publication suggested by Alden`
 
-<a name="4.201.99.3=4">4.201.99.4</a>  If no place of publication can be conjectured, record "Place of publication not identified" in square brackets.
+<a name="4.201.99.4">4.201.99.4</a>  If no place of publication can be conjectured, record "Place of publication not identified" in square brackets.
 
 Example: `[Place of publication not identified]`
 
 ## 4.201.995 Place names in more than one language or script
 <a name="4.201.995.1">4.201.995.1</a>  If the name of the place of publication appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel place of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Parallel-place-of-publication/)Make a note to indicate the original position on the source of any transposed statements. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`example text example text example text blah blah blah`
-
 
 
