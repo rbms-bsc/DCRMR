@@ -81,7 +81,7 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 ## 4.206.5 Notes from Name of publisher
 
-<a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [name of publisher](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Name-of-publisher).
+<a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [name of publisher](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Name-of-publisher/#4.203.5.1).
 
 <a name="4.206.5.2">4.206.5.2</a>
 
