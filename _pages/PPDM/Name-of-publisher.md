@@ -79,8 +79,14 @@ Date of Publication: ```[July 1, 1790]```
 
 <a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name, transcribe the statement containing the address, sign, or initials as the [publication statement](/DCRMR/docs/ppdm/Publication-statement/). If the publisher’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a note. See [note on publication statement](/DCRMR/docs/ppdm/Name-of-publisher/).
 
+<<<<<<< Updated upstream
 ```Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square```
 **Note on Publication Statement:** ```Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square```
+=======
+Example: `Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
+
+**Note on Publication Statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
+>>>>>>> Stashed changes
 
 ```Printed for M.W. [that is, Matthew Walbancke]```
 
@@ -88,7 +94,7 @@ Date of Publication: ```[July 1, 1790]```
 
 **Note on Publication Statement:** ```Printed by Thomas Harper for John Parker according to STC```
 
-(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
 
 <a name="4.203.5.2">4.203.5.2</a> If the identification of the publisher is based on a device, supply the [name of the publisher](/DCRMR/docs/ppdm/Name-of-publisher/) in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
 
@@ -98,7 +104,7 @@ Date of Publication: ```[July 1, 1790]```
 
 ## 4.203.6 Fictitious or incorrect publisher statements 
 
-<a name="4.203.6.1">4.203.6.1</a> If the [publication statement](/DCRMR/docs/ppdm/Publication-statement/) is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
 
 ```Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]```
 
@@ -172,7 +178,11 @@ Date of Publication: ```[July 1, 1790]```
 
 <a name="4.203.96.1">4.203.96.1</a> If no formal publisher’s name statement appears on the manifestation, and the name of the publisher has already been transcribed as part of another element, supply it within square brackets.
 
+<<<<<<< Updated upstream
 Example:
+=======
+Example: `[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet]
+>>>>>>> Stashed changes
 
 [Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet.]
 
@@ -181,7 +191,3 @@ Example:
 ## 4.203.97 Publisher name in more than one language or script
 
 <a name="4.203.97.1">4.203.97.1</a>  If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of publisher](/DCRMR/docs/ppdm/Parallel-name-of-publisher/).  Make a note to indicate the original position on the source of any transposed statements, See [note on publication statement](DCRMR/docs/ppdm/Note-on-publication-statement/).
-
-
-
-

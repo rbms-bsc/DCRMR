@@ -81,9 +81,50 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 ## 4.206.5 Notes from Name of publisher
 
+<<<<<<< Updated upstream
 <a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [name of publisher](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Name-of-publisher).
+=======
+<a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as name of publisher (see [4.203.5.1](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Name-of-publisher/#4.203.5.1).
+>>>>>>> Stashed changes
 
-<a name="4.206.5.2">4.206.5.2</a>
+<a name="4.206.5.2">4.206.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc/ when the identification of the name of publisher is based on a device, See [4.203.5.2](/DCRMR/docs/ppdm/Name-of-Publisher/#4.203.5.2
+
+Example: `[Richard Pynson]`
+
+**Note on publication statement:** `Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913`
+
+<a name="4.206.5.3">4.206.5.3</a> Make a note if the [name of publisher](/DCRMR/docs/ppdm/Name-of-publisher/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note. See [4.203.6.1](/DCRMR/docs/ppdm/Name-of-publisher/#4.203.6.1)
+
+Example: `Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]`
+
+**Note on publication statement**:  `Corrected publisher from Koeman`
+
+(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+
+Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
+
+**Note on publication statement**: Example: `The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf` 
+
+(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+
+<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/docs/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/docs/ppdm/Publication-statement/) of the later part(s) in a note. See [4.230.8.1](/docs/ppdm/Name-of-publisher/#4.203.8.1).
+
+<a name="4.206.5.5">4.206.5.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied publisher give supporting evidence in a note. See [4.203.9.1](/DCRMR/docs/ppdm/Name-of-publisher/#4.203.9.1)
+
+Example: `[Anton Koberger]`
+
+**Note on Publication Statement**: `Imprint from Goff.`
+
+(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
+
+## 4.206.6 Notes from Parallel name of publisher
+
+<a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publishers’ names  found on a different source as the [name of publisher](/docs/PPDM/Name-of-publisher) if considered important for identification. See [4.204.3.1](DCRMR/docs/ppdm/Parallel-name-of-publisher/#4.204.3.1
+
+<a name="4.206.6.1">4.206.6.1</a> Make a note if the name of the publisher appears in more than one language or script and the original position of elements was transposed. (See [4.203.97.1](DCRMR/docs/ppdm/Note-on-publication-statement/#4.203.97.1) and [4.204.3.2](DCRMR/docs/ppdm/Parallel-name-of-publisher/#4.204.3.2)
+
+
+
 
 
 

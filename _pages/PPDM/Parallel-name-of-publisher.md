@@ -26,7 +26,7 @@ sidebar:
 
 ## 4.204.3 Publisher statements in more than one language or script
 
-<a name="4.204.3.1">4.204.3.1</a> Take parallel publishers’ names from the same source as the [name of publisher](.../docs/PPDM/Name-of-publisher). Make a note on parallel publishers’ names found elsewhere if considered important for identification. See [Note on publisher statement](.../docs/PPDM/Note-on-publisher-statement).
+<a name="4.204.3.1">4.204.3.1</a> Take parallel publishers’ names from the same source as the [name of publisher](/docs/PPDM/Name-of-publisher). Make a note on parallel publishers’ names found elsewhere if considered important for identification. See [Note on publisher statement](.../docs/PPDM/Note-on-publisher-statement).
 
 <a name="4.204.3.2">4.204.3.2</a> Make a note to indicate the original position on the source of any transposed statements. See [Note on publisher statement](.../docs/PPDM/Note-on-publisher-statement). 
 
