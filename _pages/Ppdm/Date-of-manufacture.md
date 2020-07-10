@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Date of manufacture
-permalink: docs/ppdm/Date-of-manufacture/
+permalink: DCRMR/books/ppdm/Date-of-manufacture/
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +30,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.225.3 General rule
 
-<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/) or [date of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [note on item](https://rbms-bsc.github.io/DCRMR/docs/notes-on-items/Note-on-item/) if considered important.
+<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [date of publication](/DCRMR/books/ppdm/Date-of-publication/) or [date of distribution](/DCRMR/books/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [note on item](/DCRMR/books/ppdm/notes-on-items/Note-on-item/) if considered important.
 
 ## 4.225.4 Alternative rule
 
-<a name="4.225.4.1">4.225.4.1</a> *Alternately,* if a decision has been made to create a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see Precataloging decisions](https://rbms-bsc.github.io/DCRMR/docs/introduction/Precataloging-decisions/), transcribe a date of impression or other manufacture associated with a substantially unchanged impression as part of the date of manufacture element.  See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.225.4.1">4.225.4.1</a> *Alternately,* if a decision has been made to create a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see Precataloging decisions](/DCRMR/books/introduction/Precataloging-decisions/), transcribe a date of impression or other manufacture associated with a substantially unchanged impression as part of the date of manufacture element.  See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
 
 Example: 1990 printing
 
@@ -42,7 +42,7 @@ Example: 1990 printing
 
 **Note on manufacture statement:** Date of impression from title page verso.
 
-<a name="4.225.4.2">4.225.4.2</a> Transcribe the date as it appears, together with any associated words or phrases. If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a [note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/). 
+<a name="4.225.4.2">4.225.4.2</a> Transcribe the date as it appears, together with any associated words or phrases. If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/). 
 
 Example: June 17, 1799
 
@@ -50,6 +50,6 @@ Example: June 17, 1799
 
 Example: , 1956 (1959 [impression])
 
-<a name="4.225.4.4">4.225.4.4</a> If the date of impression is known from a source outside the manifestation, supply it in square brackets. Give the source of the date of manufacture in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.225.4.4">4.225.4.4</a> If the date of impression is known from a source outside the manifestation, supply it in square brackets. Give the source of the date of manufacture in a note. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
 
-<a name="4.225.4.5">4.225.4.5</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, supply it as a correction within square brackets. Give the source of the date of manufacture in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.225.4.5">4.225.4.5</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, supply it as a correction within square brackets. Give the source of the date of manufacture in a note. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).

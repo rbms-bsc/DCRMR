@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel place of publication
-permalink: docs/ppdm/Parallel-place-of-publication/
+permalink: DCRMR/books/ppdm/Parallel-place-of-publication/
 sidebar:
   nav: "docs"
 ---
@@ -30,9 +30,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.202.3 Publication place names in more than one language or script
 
-<a name="4.202.3.1">4.202.3.1</a> If the [place of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-publication/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [place of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-publication/) element.  If this criterion does not apply, transcribe the [place of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-publication/) that appears first.
+<a name="4.202.3.1">4.202.3.1</a> If the [place of publication](/DCRMR/books/ppdm/Place-of-publication/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [place of publication](/DCRMR/books/ppdm/Place-of-publication/) element.  If this criterion does not apply, transcribe the [place of publication](/DCRMR/books/ppdm/Place-of-publication/) that appears first.
 
-<a name="4.202.3.2">4.202.3.2</a> Transcribe remaining places of publication as parallel places of publication.  If a parallel place of publication is from a different source than the [place of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-publication/), make a note if considered important for identification.  See [Note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.202.3.2">4.202.3.2</a> Transcribe remaining places of publication as parallel places of publication.  If a parallel place of publication is from a different source than the [place of publication](/DCRMR/books/ppdm/Place-of-publication/), make a note if considered important for identification.  See [Note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/).
 
 <a name="4.202.3.3">4.202.3.3</a> *Optionally,* If the parallel places of publication are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of publication after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
 

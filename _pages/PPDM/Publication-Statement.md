@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Publication statement
-permalink: docs/ppdm/Publication-statement/
+permalink: DCRMR/books/ppdm/Publication-statement/
 sidebar:
   nav: "docs"
 ---
@@ -32,27 +32,27 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.20.3 Sources of information
 
-<a name="4.20.3.1">4.20.3.1</a> The prescribed sources of information for the publication statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](https://rbms-bsc.github.io/DCRMR/docs/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the publication statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
+<a name="4.20.3.1">4.20.3.1</a> The prescribed sources of information for the publication statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/books/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/books/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the publication statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.20.3.2">4.20.3.2</a>  If any part of the publication statement is taken from a source other than the title page, make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) to indicate the source. 
+<a name="4.20.3.2">4.20.3.2</a>  If any part of the publication statement is taken from a source other than the title page, make a [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/)) to indicate the source. 
 
-<a name="4.20.3.3">4.20.3.3</a>Make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)) about information not transcribed in the publication statement if considered important.
+<a name="4.20.3.3">4.20.3.3</a>Make a [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/)) about information not transcribed in the publication statement if considered important.
 
 ## 4.20.4 Form and order of information
 
-<a name="4.20.4.1">4.20.4.1</a> Transcribe publication information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)].
+<a name="4.20.4.1">4.20.4.1</a> Transcribe publication information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules (see [Transcription](/DCRMR/books/general-rules/Transcription/)].
 
-<a name="4.20.4.2">4.20.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/) indicating the original position of the transposed elements.
+<a name="4.20.4.2">4.20.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/) indicating the original position of the transposed elements.
 
 Example: `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
 
-**Note on publication statement:** Date follows place of publication in imprint.`
+**Note on publication statement:** `Date follows place of publication in imprint.`
 
 Example: `Lugduni : Apud Seb. Gryphium, 1538`
 
 **Note on Publication Statement:** `Place of publication follows publisher’s name on title page.`
 
-<a name="4.20.4.3">4.20.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)].
+<a name="4.20.4.3">4.20.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)].
 
 Example: `London : publish’d Feby. 27th. 1799 by J. Harris, Sweetings Alley, Cornhill, [February 27, 1799]`
 
@@ -64,20 +64,20 @@ Example: `[London] : The Search Publishing Company Ltd., 6 Old Gloucester Street
 
 ## 4.20.5 Fictitious or incorrect information
 
-<a name="4.20.5.1">4.20.5.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in aquare brackets.  Include the source of this information in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/).  
+<a name="4.20.5.1">4.20.5.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in aquare brackets.  Include the source of this information in a [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/).  
 
 Example: `Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]`
 **Note on publication statement:** `Corrected imprint from: Pia, P. Livres de l'Enfer`
 
 ## 4.20.6 Information covered by labels, etc.
 
-<a name="4.20.6.1">4.20.6.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/). 
+<a name="4.20.6.1">4.20.6.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/). 
 
 Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]`
 
 **Note on publication statement:**  `Imprint from printed label affixed to top right corner of title page`
 
-<a name="4.20.6.2">4.20.6.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](https://rbms-bsc.github.io/DCRMR/docs/notes-on-items/Note-on-item/).
+<a name="4.20.6.2">4.20.6.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/books/notes-on-items/Note-on-item/).
 
 ## 4.20.7 Elements relating to publication, distribution, etc. vs. elements relating to manufacture
 
@@ -97,7 +97,7 @@ Example: `[Paris] : Published by Corbeau at Paris and by Robinde at London, [178
 
 Example: `Edmonton : Jas. E. Richards, government printer, 1907`
 
-Example: `A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764
+Example: `A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764`
 
 Example: `Basileae : in Officina Frobeniana, ann. M.D.XXIII`
 
@@ -113,7 +113,7 @@ Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-
 
 <a name="4.20.91.1">4.20.91.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Distribution-statement/) or [manufacture statement]((https://rbms-bsc.github.io/DCRMR/docs/ppdm/Manufacture-statement/).
+<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) or [manufacture statement]((/DCRMR/books/ppdm/Manufacture-statement/).
 
 <a name="4.20.91.3">4.20.91.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX
@@ -122,7 +122,7 @@ Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-St
 
 Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
 
-<a name="4.20.91.4">4.20.91.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [statement of responsibility](https://rbms-bsc.github.io/DCRMR/docs/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.
+<a name="4.20.91.4">4.20.91.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [statement of responsibility](/DCRMR/books/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.
 
 Example: `A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832] (Comment: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)`
 
@@ -152,4 +152,4 @@ Example: `London : printed by G. Paramore, North-Green, Worship-Street, and sold
 
 ## 4.20.93 Transcribing dates of publication as part of the Publication statement
 
-<a name="4.20.93.1">4.20.93.1</a> Transcribe dates of publication as they appear on the source of information. Apply the guidelines for transcription of [words](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/) and [numbers](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/).
+<a name="4.20.93.1">4.20.93.1</a> Transcribe dates of publication as they appear on the source of information. Apply the guidelines for transcription of [words](/DCRMR/books/general-rules/Transcription/) and [numbers](/DCRMR/books/general-rules/Transcription/).

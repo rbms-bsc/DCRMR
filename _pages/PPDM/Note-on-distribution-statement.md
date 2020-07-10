@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on distribution statement
-permalink: docs/ppdm/Note-on-distribution-statement/
+permalink: DCRMR/books/ppdm/Note-on-distribution-statement/
 sidebar:
   nav: "docs"
 ---
@@ -36,20 +36,16 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.216.3.1">4.216.3.1</a> Make a note on distribution details that are not included in the distribution elements if considered important. If elements of the distribution have been taken from a source other than the preferred source of information, make a note specifying the source.
 
-**Date of distribution:** ```[1864]```
+**Date of distribution:** `[1864]`
 
-**Note on distribution statement:** ```Distribution date from LC Civil War maps (2nd ed.)```
+**Note on distribution statement:** `Distribution date from LC Civil War maps (2nd ed.)`
 
-*Comment:* A note on distribution statement is used to provide a full citation for the reference to the published description.
+(*Comment:* A note on distribution statement is used to provide a full citation for the reference to the published description.)
 
----
+**Distribution statement:** `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
 
-**Distribution statement:** ```Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828```
+**Note on distribution statement:** `Date follows place of distribution in imprint`
 
-**Note on distribution statement:** ```Date follows place of distribution in imprint```
+**Distribution statement:** `Lugduni : Apud Seb. Gryphium, 1538`
 
----
-
-**Distribution statement:** ```Lugduni : Apud Seb. Gryphium, 1538```
-
-**Note on distribution statement:** ```Place of distribution follows publisher’s name on title page.```
+**Note on distribution statement:** `Place of distribution follows publisher’s name on title page.`

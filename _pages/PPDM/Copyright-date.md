@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Copyright date
-permalink: docs/ppdm/Copyright-date/
+permalink: DCRMR/books/ppdm/Copyright-date/
 sidebar:
   nav: "docs"
 ---
@@ -37,8 +37,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.23.3.1">4.23.3.1</a> Transcribe a copyright date or a date of deposit as part of the copyright date element.
 
-<a name="4.23.3.2">4.23.3.2</a> If a [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), [date of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), etc., does not appear on the manifestation and it is likely that the date of copyright or deposit represents the [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), supply the date in square brackets as the [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/). Include a question mark if the supplied date is conjectural and record the copyright date in the copyright date element. Make a note to indicate that the basis for the supplied date is the date of copyright or deposit. Include in the note as much information as is deemed important to the cataloging agency. See [note on copyright date](hhttps://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-copyright-date/). 
+<a name="4.23.3.2">4.23.3.2</a> If a [date of publication](/DCRMR/books/ppdm/Date-of-publication/), [date of distribution](/DCRMR/books/ppdm/Date-of-publication/), etc., does not appear on the manifestation and it is likely that the date of copyright or deposit represents the [date of publication](/DCRMR/books/ppdm/Date-of-publication/), supply the date in square brackets as the [date of publication](/DCRMR/books/ppdm/Date-of-publication/). Include a question mark if the supplied date is conjectural and record the copyright date in the copyright date element. Make a note to indicate that the basis for the supplied date is the date of copyright or deposit. Include in the note as much information as is deemed important to the cataloging agency. See [note on copyright date](/DCRMR/books/ppdm/Note-on-copyright-date/). 
 
-<a name="4.23.3.3">4.23.3.3</a> If a date of [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), [date of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), does not appear on the manifestation, and the date of copyright or deposit does not represent the probable date of publication, record it nonetheless in the copyright date element, and supply a more accurate date of publication in square brackets. Provide an explanation for the supplied date in a note. See [note on publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-publication-statement/)
+<a name="4.23.3.3">4.23.3.3</a> If a date of [date of publication](/DCRMR/books/ppdm/Date-of-publication/), [date of distribution](/DCRMR/books/ppdm/Date-of-publication/), does not appear on the manifestation, and the date of copyright or deposit does not represent the probable date of publication, record it nonetheless in the copyright date element, and supply a more accurate date of publication in square brackets. Provide an explanation for the supplied date in a note. See [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/)
 
-<a name="4.23.3.4">4.23.3.4</a> If the publication bears both a [date of publication](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), [date of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Date-of-publication/), etc., and a date of copyright or deposit, the latter information may be recorded in the copyright date element if considered important.
+<a name="4.23.3.4">4.23.3.4</a> If the publication bears both a [date of publication](/DCRMR/books/ppdm/Date-of-publication/), [date of distribution](/DCRMR/books/ppdm/Date-of-publication/), etc., and a date of copyright or deposit, the latter information may be recorded in the copyright date element if considered important.

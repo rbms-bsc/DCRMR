@@ -1,8 +1,9 @@
 ---
 layout: home
 type: collection
-title: Contents
-permalink: docs/
+title: Books
+permalink: DCRMR/books/
+permalink: /books/
 sidebar:
   nav: "docs"
 ---

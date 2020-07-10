@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Date of distribution
-permalink: docs/ppdm/Date-of-distribution/
+permalink: DCRMR/books/ppdm/Date-of-distribution/
 sidebar:
   nav: "docs"
 ---
@@ -32,59 +32,59 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.215.3.1">4.215.3.1</a> Transcribe dates of distribution as part of this element. Include the day and month, if present.
 
-Example: Octr. 22, 1796
+Example: `Octr. 22, 1796`
 
 <a name="4.215.3.2">4.215.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
 
-Example: in the year of God 1638
+Example: `in the year of God 1638`
 
-Example: anno Dom. 1660
+Example: `anno Dom. 1660`
 
 <a name="4.215.3.3">4.215.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of distribution.
 
 ## 4.215.4 Transcription involving adjustments or additions
 
-<a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/). Supply the year in arabic numerals in square brackets.
+<a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/). Supply the year in arabic numerals in square brackets.
 
-Example: in the year M.DCC.LXXV [1775]
+Example: `in the year M.DCC.LXXV [1775]`
 
-Example: anno MDCLXXXVII [1687]
+Example: `anno MDCLXXXVII [1687]`
 
 <a name="4.215.4.2">4.215.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. Optionally, include the date in Roman numerals in square brackets.
 
-Alternately, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+Alternately, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
-<a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note concerning the source and the original form of the statement. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note concerning the source and the original form of the statement. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
-<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). Alternately, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information. See note on distribution statement.
+<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/). Alternately, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information. See note on distribution statement.
 
-Example: 1689 [i.e.1690]
+Example: `1689 [i.e.1690]`
 
-**Note on Distribution Statement:** "Given at our Court at Dublin-Castle the 28th day of March 1690"
+**Note on Distribution Statement:** `"Given at our Court at Dublin-Castle the 28th day of March 1690"`
 
-<a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates.** If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note to indicate the basis for the supplied year. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates.** If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note to indicate the basis for the supplied year. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
-Example: 1661 [i.e. 1662]
+Example: `1661 [i.e. 1662]`
 
-**Note on Distribution Statement:** The year is given according to Lady Day dating
+**Note on Distribution Statement:** `The year is given according to Lady Day dating`
 
 (*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 
-Example: 1691/2 [i.e. 1692]
+Example: `1691/2 [i.e. 1692]`
 
 <a name="4.215.4.6">4.215.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of distribution is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
-Example: An III [1794 or 1795]
+Example: `An III [1794 or 1795]`
 
 (*Comment:* Date of imprint follows French Revolutionary calendar)
 
 *Optionally*, if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
-Example: die visitationis Beatae Virginis Mariae [July 2] 1497
+Example: `die visitationis Beatae Virginis Mariae [July 2] 1497`
 
 (*Comment:* Day and month follow ecclesiastical calendar)
 
@@ -92,21 +92,21 @@ Example: die visitationis Beatae Virginis Mariae [July 2] 1497
 
 ## 4.215.5 Date of distribution supplied from reference sources
 
-<a name="4.215.5.1">4.215.5.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.215.5.1">4.215.5.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a note. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
-Example: MDLII [1552 i.e. 1652]
+Example: `MDLII [1552 i.e. 1652]`
 
-**Note on Distribution Statement:** Corrected date from Corpus librorum emblematum, Jesuit series.
+**Note on Distribution Statement:** `Corrected date from Corpus librorum emblematum, Jesuit series.`
 
 ## 4.215.6 Conjectural date of distribution
 
-<a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a note. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
-<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the title or the statement of responsibility elements or give it in a note. See [note on manifestation](https://rbms-bsc.github.io/DCRMR/docs/other-notes/Note-on-manifestation/).
+<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the title or the statement of responsibility elements or give it in a note. See [note on manifestation](/DCRMR/books/other-notes/Note-on-manifestation/).
 
 ## 4.215.7 Patterns for supplying a conjectural date
 
-<a name="4.215.7.1">4.215.7.1</a> Give a probable date or period of distribution according to one of the patterns shown in the examples below. Indicate the basis for the conjecture in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.215.7.1">4.215.7.1</a> Give a probable date or period of distribution according to one of the patterns shown in the examples below. Indicate the basis for the conjecture in a note. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
 | Conjectural date | Pattern |
 | --- | ---| --- |
@@ -127,8 +127,8 @@ Example: MDLII [1552 i.e. 1652]
 
 <a name="4.215.8.1">4.215.8.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 
-<a name="4.215.8.2">4.215.8.2</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.215.8.2">4.215.8.2</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
 ## 4.215.9 Date of distribution on part pages
 
-<a name="4.215.9.1">4.215.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/). If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.4](#4.215.4.4)
+<a name="4.215.9.1">4.215.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/). If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.4](#4.215.4.4)

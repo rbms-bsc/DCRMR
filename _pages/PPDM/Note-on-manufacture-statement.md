@@ -2,8 +2,7 @@
 layout: single
 type: docs
 title: Note on manufacture statement
-permalink: docs/ppdm/Note-on-manufacture-statement/
-parent: docs/PPDM/
+permalink: DCRMR/books/ppdm/Note-on-manufacture-statement/
 sidebar:
   nav: "docs"
 ---
@@ -37,20 +36,20 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.3.1">4.226.3.1</a> Make a note on manufacture details that are not included in the manufacture elements if considered important. If elements of the manufacture have been taken from a source other than the preferred source of information, make a note specifying the source.
 
-**Example:** ```[1864]```
+Example: `[1864]`
 
-**Note on manufacture statement:** ```Manufacture date from LC Civil War maps (2nd ed.)```
+**Note on manufacture statement:** `Manufacture date from LC Civil War maps (2nd ed.)`
 
 (*Comment:* A note on manufacture statement is used to provide a full citation for the reference to the published description.)
 
 ---
 
-**Example:** ```Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828```
+Example: `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
 
-**Note on manufacture statement:** ```Date follows place of manufacture in imprint```
+**Note on manufacture statement:** `Date follows place of manufacture in imprint`
 
 ---
 
-**Example:** ```Lugduni : Apud Seb. Gryphium, 1538```
+Example: `Lugduni : Apud Seb. Gryphium, 1538`
 
-**Note on manufacture statement:** ```Place of manufacture follows publisher’s name on title page.```
+**Note on manufacture statement:** `Place of manufacture follows publisher’s name on title page.`

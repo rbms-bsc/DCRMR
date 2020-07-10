@@ -2,7 +2,7 @@
 layout: search
 type: docs
 title: Search
-permalink: docs/Search/
+permalink: /Search/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Distribution statement
-permalink: docs/ppdm/Distribution-statement/
+permalink: DCRMR/books/ppdm/Distribution-statement/
 sidebar:
   nav: "docs"
 ---
@@ -30,15 +30,15 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.21.3 Sources of information
 
-<a name="4.21.3.1">4.21.3.1</a> The prescribed sources of information for the distribution statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](https://rbms-bsc.github.io/DCRMR/docs/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the distribution statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
+<a name="4.21.3.1">4.21.3.1</a> The prescribed sources of information for the distribution statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/books/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/books/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the distribution statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.21.3.2">4.21.3.2</a>  If any part of the distribution statement is taken from a source other than the title page, make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) to indicate the source. Make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) about information not transcribed in the distribution statement if considered important.
+<a name="4.21.3.2">4.21.3.2</a>  If any part of the distribution statement is taken from a source other than the title page, make a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/) to indicate the source. Make a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/) about information not transcribed in the distribution statement if considered important.
 
 ## 4.21.4 Form and order of information
 
 <a name="4.21.4.1">4.21.4.1</a> Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
 
-<a name="4.21.4.2">4.21.4.2</a>If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note indicating the original position of the transposed elements. See [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.21.4.2">4.21.4.2</a>If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note indicating the original position of the transposed elements. See [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
 Example: `Huddersfield [England] : Printed and sold by Brook and Lancashire`
 
@@ -46,17 +46,17 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 **Note on distribution statement:** Place of distribution, "London," is printed below distributor’s name on title page.
 
-<a name="4.21.4.3">4.21.4.3</a>If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](https://rbms-bsc.github.io/DCRMR/docs/general-rules/Transcription/)).
+<a name="4.21.4.3">4.21.4.3</a>If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
 ## 4.21.5 Fictitious or incorrect information
 
-<a name="4.21.5.1">4.21.5.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).  
+<a name="4.21.5.1">4.21.5.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).  
 
 ## 4.21.6 Information covered by labels, etc.
 
-<a name="4.21.6.1">4.21.6.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.21.6.1">4.21.6.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
-<a name="4.21.6.2">4.21.6.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is as a [note on item](https://rbms-bsc.github.io/DCRMR/docs/notes-on-items/Note-on-item/).
+<a name="4.21.6.2">4.21.6.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is as a [note on item](/DCRMR/books/notes-on-items/Note-on-item/).
 
 ## 4.21.7 Elements relating to publication, distribution vs. elements relating to manufacture
 
@@ -64,7 +64,7 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 ## 4.21.8 Statements relating to distribution only
 
-<a name="4.21.8.1">4.21.8.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
+<a name="4.21.8.1">4.21.8.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [publication statement](/DCRMR/books/ppdm/Publication-statement/). 
 
 ## 4.21.9 Statements relating to publication, distribution, etc. and to manufacture
 
@@ -72,7 +72,7 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 <a name="4.21.9.2">4.21.9.2</a> If a distribution statement is grammatically separable, treat the statement as a distribution statement. 
 
-<a name="4.21.9.3">4.21.9.3</a>  If grammatically inseparable, transcribe them as a [publication statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Publication-statement/). 
+<a name="4.21.9.3">4.21.9.3</a>  If grammatically inseparable, transcribe them as a [publication statement](/DCRMR/books/ppdm/Publication-statement/). 
 
 Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
 
@@ -80,4 +80,4 @@ Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-St
 
 Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
 
-<a name="4.21.9.4">4.21.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [statement of responsibility](https://rbms-bsc.github.io/DCRMR/docs/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.
+<a name="4.21.9.4">4.21.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [statement of responsibility](/DCRMR/books/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.

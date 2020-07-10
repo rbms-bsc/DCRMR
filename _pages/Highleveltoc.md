@@ -1,27 +1,27 @@
-[Preface](/docs/Preface/)
+[Preface](/books/Preface/)
 
-[Introduction](/docs/Introduction/)
+[Introduction](/books/Introduction/)
 
-[General Rules](/docs/General Rules/)
+[General Rules](/books/General Rules/)
 
-[Chapter 1. Title](/docs/Title/)
+[Chapter 1. Title](/books/Title/)
 
-[Chapter 2. Statement of Responsibility](/docs/Statement-of-Responsibility)
+[Chapter 2. Statement of Responsibility](/books/Statement-of-Responsibility)
 
-[Chapter 3. Edition](/docs/Edition)
+[Chapter 3. Edition](/books/Edition)
 
-[Chapter 4. Production Publication Distribution Manufacture](/docs/PPDM)
+[Chapter 4. Production Publication Distribution Manufacture](/books/PPDM)
 
-[Chapter 5. Physical Description](/docs/Physical-Description)
+[Chapter 5. Physical Description](/books/Physical-Description)
 
-[Chapter 6. Series](/docs/Series)
+[Chapter 6. Series](/books/Series)
 
-[Chapter 7. Other Notes](/docs/Other-Notes)
+[Chapter 7. Other Notes](/books/Other-Notes)
 
-[Chapter 8. Item Notes](/docs/Item-Notes)
+[Chapter 8. Item Notes](/books/Item-Notes)
 
-[Chapter 9. Identifiers](/docs/Identifiers)
+[Chapter 9. Identifiers](/books/Identifiers)
 
-[Appendicies](/docs/Appendicies)
+[Appendicies](/books/Appendicies)
 
-[Glossary](/docs/Glossary)
+[Glossary](/books/Glossary)

@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Welcome
-permalink: docs/DCRMR/
+title: DCRMR
+permalink: /DCRMR/
 sidebar:
   nav: "docs"
 ---

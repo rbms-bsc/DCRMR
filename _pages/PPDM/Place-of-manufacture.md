@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Place of manufacture
-permalink: docs/ppdm/Place-of-manufacture/
+permalink: DCRMR/books/ppdm/Place-of-manufacture/
 sidebar:
   nav: "docs"
 ---
@@ -28,37 +28,37 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 <a name="4.221.1.1">4.221.1.1</a> Transcribe names of places associated with printers and other manufacturers as part of this element when appropriate. Transcribe any preposition appearing before the place of manufacture, as well as any accompanying words or phrases associated with the place name.
 
-Example: A Philadelphie
+Example: `A Philadelphie`
 
-Example: In Venetia
+Example: `In Venetia`
 
-<a name="4.221.1.2">4.221.2.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Name-of-manufacturer/).
+<a name="4.221.1.2">4.221.2.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](/DCRMR/books/ppdm/Name-of-manufacturer/).
 
 <a name="4.221.1.3">4.221.2.4</a> Optionally, omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 ## 4.221.2 Supplied place of manufacture
 
-<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note if necessary. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/)
+<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note if necessary. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/)
 
-Example: [Ashbourn] : printed at the Office of M. Hoon, Ashbourn
+Example: `[Ashbourn] : printed at the Office of M. Hoon, Ashbourn`
 
-Example: [Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in New-England
+Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in New-England`
 
 ## 4.221.3 Fictitious or incorrect places of manufacture
 
-<a name="4.221.3.1">4.221.3.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a note giving the actual place name. Include the source of the actual place name. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.221.3.1">4.221.3.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a note giving the actual place name. Include the source of the actual place name. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
 
-<a name="4.221.2.6">4.221.2.6</a>  Alternatively, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.221.2.6">4.221.2.6</a>  Alternatively, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
 
-Example: Cosmopoli [i.e. London]
+Example: `Cosmopoli [i.e. London]`
 
-**Note on manufacture statement:** The imprint is fictitious; printed in London by Richard Field (cf. STC).
+**Note on manufacture statement:** `The imprint is fictitious; printed in London by Richard Field (cf. STC).`
 
 (*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
 <a name="4.221.2.7">4.221.2.7</a> Optionally, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 
-Example: Lugduni [Lyon]
+Example: `Lugduni [Lyon]`
 
 ## 4.221.4 Two or more places of manufacture
 
@@ -66,23 +66,23 @@ Example: Lugduni [Lyon]
 
 <a name="4.221.4.2">4.221.4.2</a> *Optional omission:* If it is considered that the places are too numerous to record exhaustively and some may be omitted without significant loss of identification then all places of manufacture after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places in the supplied phrase.
 
-<a name="4.221.4.3">4.221.4.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a note to indicate the original position on the source of any transposed statements. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.221.4.3">4.221.4.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a note to indicate the original position on the source of any transposed statements. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
 
 Example: Manchester : printed for a Society of gentlemen ; North Shields : re-printed at the Stanhope Press by J.K. Pollock
 
 <a name="4.221.4.4">4.221.4.4 </a> Do not, however, transcribe a subsequent place as a place of manufacture if it is recorded as a grammatically inseparable part of another element. 
 
-Example: Printed at the Theater in Oxford, and in London
+Example: `Printed at the Theater in Oxford, and in London`
 
-Example: Glasgow
+Example: `Glasgow`
 
 **Manufacturer’s name:** printed by David Niven for R. & P. Walker, Cockermouth, and sold by G. Robinson & Co., Pater-Noster Row, London
 
 <a name="4.221.4.4">4.221.4.4 </a> If a place of manufacture associated with an earlier edition appears together with the actual place of manufacture of the edition being described, transcribe the places as a single element in the order in which they appear.
 
-Example: London printed, and re-printed at Edinburgh
+Example: `London printed, and re-printed at Edinburgh`
 
-Example: Printed at London, and re-printed at Edinburgh
+Example: `Printed at London, and re-printed at Edinburgh`
 
 <a name="4.221.4.5">4.221.4.5 </a> If both the place and manufacturer associated with an earlier edition appear together with the place and manufacturer of the edition being described, transcribe each place with the manufacturer to which it corresponds.
 

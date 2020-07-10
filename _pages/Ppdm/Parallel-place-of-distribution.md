@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel place of distribution
-permalink: docs/ppdm/Parallel-place-of-distribution/
+permalink: DCRMR/books/ppdm/Parallel-place-of-distribution/
 sidebar:
   nav: "docs"
 ---
@@ -30,9 +30,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.212.3 Distribution place names in more than one language or script
 
-<a name="4.212.3.1">4.212.3.1</a> If the [place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-distribution/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-distribution/) element.  If this criterion does not apply, transcribe the [place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-distribution/) that appears first.
+<a name="4.212.3.1">4.212.3.1</a> If the [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/) element.  If this criterion does not apply, transcribe the [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/) that appears first.
 
-<a name="4.212.3.2">4.212.3.2</a> Transcribe remaining places of distribution as parallel places of distribution. If a parallel place of distribution is from a different source than the [place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Place-of-distribution/), make a note if considered important for identification.  See [Note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.212.3.2">4.212.3.2</a> Transcribe remaining places of distribution as parallel places of distribution. If a parallel place of distribution is from a different source than the [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/), make a note if considered important for identification.  See [Note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/).
 
 <a name="4.212.3.3">4.212.3.3</a> *Optionally,* If the parallel places of distribution are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of distribution after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
 

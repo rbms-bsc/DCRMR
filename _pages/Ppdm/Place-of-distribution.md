@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Place of distribution
-permalink: docs/ppdm/Place-of-distribution/
+permalink: DCRMR/books/ppdm/Place-of-distribution/
 sidebar:
   nav: "docs"
 ---
@@ -30,7 +30,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.211.3 General rule
 
-<a name="4.211.3.1">4.211.3.1</a> Transcribe the names of places associated with the distribution of a published manifestation as part of this element. X.X. Transcribe the place of distribution as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
+<a name="4.211.3.1">4.211.3.1</a> Transcribe the names of places associated with the distribution of a published manifestation as part of this element. Transcribe the place of distribution as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
 Example: `Elizabeth-Town`
 
@@ -51,6 +51,7 @@ Example: `A Lyon`
 Example: `In London`
 
 Example: `In Boston, printed`
+
 (*Comment:* Title page reads: “In Boston, printed. 1705.” Following provisions of 4D3, “printed” is here transcribed with the place)
 
 Example: `Printed at Bennington`
@@ -115,7 +116,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.211.9 Places of distribution in multipart monographs
 
-<a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/)
+<a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/)
 
 Example: `Stuttgart ; Tübingen`
 
@@ -123,20 +124,20 @@ Example: `Note: Place of distribution in v. 33-40: Stuttgart ; Augsburg`
 
 ## 4.211.95 Place names that are grammatically inseparable parts of other elements 
 
-<a name="4.211.95.1">4.211.95.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets.  ([reference to instruction in distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Distribution-statement/)). Use a modern English form of the name, if there is one.
+<a name="4.211.95.1">4.211.95.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets.  ([reference to instruction in distribution statement](/DCRMR/books/ppdm/Distribution-statement/)). Use a modern English form of the name, if there is one.
 
 Example: `[Munich] : Durch Peter Clement, Kunstführer zu München`
 
 ## 4.211.96 Fictitious or incorrect places of distribution
 
-<a name="4.211.96.1">4.211.96.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/)
+<a name="4.211.96.1">4.211.96.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/)
 
-Example: `Londres [i.e. Paris]
+Example: `Londres [i.e. Paris]`
 
-**Note on distribution statement:** Actual place of publication from: Weller, E.O.  Falsche Druckorte
+**Note on distribution statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
 
 ## 4.211.97 No place of distribution
-<a name="4.211.97.1">4.211.97.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) if neccesary.
+<a name="4.211.97.1">4.211.97.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/) if neccesary.
 
 Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
@@ -178,7 +179,7 @@ Example: `[Prussia?]`
 
 Example: `[South America?]`
 
-<a name="4.211.99.3">4.211.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) to indicate the source of the information.
+<a name="4.211.99.3">4.211.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/) to indicate the source of the information.
 Example: `Place of publication suggested by Alden`
 
 <a name="4.211.99.4">4.211.99.4</a> If no place of distribution can be conjectured, record “Place of distribution not identified” in square brackets.
@@ -186,7 +187,7 @@ Example: `[Place of distribution not identified]`
 
 ## 4.211.995 Place names in more than one language or script
 
-<a name="4.211.995.1">4.211.995.1</a>  If the name of the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel place of distribution](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Parallel-place-of-distribution/)) Make a [note on distribution statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements. 
+<a name="4.211.995.1">4.211.995.1</a>  If the name of the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel place of distribution](/DCRMR/books/ppdm/Parallel-place-of-distribution/)) Make a [note on distribution statement](/DCRMR/books/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements. 
 
 
 
