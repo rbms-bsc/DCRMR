@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: DCRMR
-permalink: /DCRMR/
+title: Preface
+permalink: /preface/
 sidebar:
   nav: "docs"
 ---
@@ -13,8 +13,7 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 
 ## RBMS RDA Editorial Group
 
-# Co-Editors
-Michelle Mascaro, Special Collections Cataloging & Metadata Unit Head, UC San Diego
+# Editor
 
 Elizabeth Hobart, Special Collections Cataloging Librarian, PennState Univeristy Libraries
 
@@ -26,6 +25,8 @@ Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 Francis Lapka, Senior Catalogue Librarian, Yale Center for British Art
 
 Deborah J. Leslie, Senior Cataloger, Folger Shakespeare Library
+
+Michelle Mascaro, Special Collections Cataloging & Metadata Unit Head, UC San Diego
 
 Iris O’Brien, Early Printed Collections Cataloguing and Processing Manager, British Library
 
@@ -61,3 +62,14 @@ Key recommendations
 {: .no_toc }
 
 
+
+## Table of Contents
+{: .no_toc }
+
+[Background](/DCRMR/docs/preface/Background/)
+
+[Changes from DCRM(B)](/DCRMR/docs/preface/Changes-from-DCRB/)
+
+[Future work)](/DCRMR/docs/preface/Future-work/)
+
+[Acknowledgements](/DCRMR/docs/preface/Acknowledgements/)

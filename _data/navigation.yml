@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "DCRMR"
-    url: /DCRMR/
+    url: preface/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
