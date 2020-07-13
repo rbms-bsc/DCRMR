@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "DCRMR"
-    url: /preface/
+    url: /books/preface/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
@@ -13,42 +13,42 @@ main:
 docs:
 
   - title: "Preface"
-    url: /preface/
+    url: /books/preface/
     children:
       - title: "Background"
-        url: /docs/preface/Background/
+        url: /books/preface/Background/
       - title: "Changes from DCRB"
-        url: /docs/preface/Changes-from-DCRM(B)/
+        url: /books/preface/Changes-from-DCRM(B)/
       - title: "Future work"
-        url: /docs/preface/Future-work/
+        url: /books/preface/Future-work/
       - title: "Acknowledgements"
-        url: /docs/preface/Acknowledgements/
+        url: /books/preface/Acknowledgements/
 
   - title: "Introduction"
     url: /introduction/
     children:
       - title: "Scope and purpose"
-        url: /docs/introduction/Scope-and-purpose/
+        url: /books/introduction/Scope-and-purpose/
       - title: "Relationship to other standards"
-        url: /docs/introduction/Relationship-to-other-standards/
+        url: /books/introduction/Relationship-to-other-standards/
       - title: "Objectives and principles"
-        url: /docs/introduction/Objectives-and-principles/
+        url: /books/introduction/Objectives-and-principles/
       - title: "Principles of DCRMR construction"
-        url: /docs/introduction/Principles-of-DCRMR-construction/
+        url: /books/introduction/Principles-of-DCRMR-construction/
       - title: "Options"
-        url: /docs/introduction/Options/
+        url: /books/introduction/Options/
       - title: "Language preferences"
-        url: /docs/introduction/Language-preferences/
+        url: /books/introduction/Language-preferences/
       - title: "Spelling and style"
-        url: /docs/introduction/Spelling-and-style/
+        url: /books/introduction/Spelling-and-style/
       - title: "Acronyms"
-        url: /docs/introduction/Acronyms/
+        url: /books/introduction/Acronyms/
       - title: "Examples and notes"
-        url: /docs/introduction/Examples-and-notes/
+        url: /books/introduction/Examples-and-notes/
       - title: "Integrity of the copy"
-        url: /docs/introduction/Integrity-of-the-copy/
+        url: /books/introduction/Integrity-of-the-copy/
       - title: "Precataloging decisions"
-        url: /docs/introduction/Precataloging-decisions/
+        url: /books/introduction/Precataloging-decisions/
   - title: "General rules"
     url: /general-rules/
     children:

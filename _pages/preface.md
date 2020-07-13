@@ -4,7 +4,6 @@ type: docs
 title: Preface
 permalink: /preface/
 permalink: books/preface/
-permalink: DCRMR/preface/
 sidebar:
   nav: "docs"
 ---
