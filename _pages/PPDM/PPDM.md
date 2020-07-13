@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Production Publication Distribution Manufacture
-permalink: /books/ppdm/
+permalink: books/ppdm/
 permalink: /ppdm/
 sidebar:
   nav: "docs"

@@ -2,6 +2,7 @@
 layout: single
 type: docs
 title: Preface
+permalink: books/preface/
 permalink: /preface/
 permalink: DCRMR/preface/
 sidebar:
