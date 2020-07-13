@@ -16,7 +16,7 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 
 # Editor
 
-Elizabeth Hobart, Special Collections Cataloging Librarian, PennState Univeristy Libraries
+Elizabeth Hobart, Special Collections Cataloging Librarian, PennState University Libraries
 
 # Editorial Group Members
 Amy Brown, Head, Special Collections Collections Technical Services, Boston College
@@ -67,10 +67,10 @@ Key recommendations
 ## Table of Contents
 {: .no_toc }
 
-[Background](/DCRMR/docs/preface/Background/)
+[Background](/books/preface/Background/)
 
-[Changes from DCRM(B)](/DCRMR/docs/preface/Changes-from-DCRB/)
+[Changes from DCRM(B)](/books/preface/Changes-from-DCRB/)
 
-[Future work)](/DCRMR/docs/preface/Future-work/)
+[Future work](/books/preface/Future-work/)
 
-[Acknowledgements](/DCRMR/docs/preface/Acknowledgements/)
+[Acknowledgements](/books/preface/Acknowledgements/)
