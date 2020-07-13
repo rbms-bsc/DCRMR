@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "DCRMR"
-    url: books/preface/
+    url: /preface/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
@@ -110,7 +110,7 @@ docs:
         url: /docs/edition/Note-on-edition-statement/
         
   - title: "Chapter 4. Production Publication Distribution Manufacture"
-    url: /books/ppdm/
+    url: /ppdm/
     children:
       - title: "Publication statement"
         url: /books/ppdm/Publication-statement/

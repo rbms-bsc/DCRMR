@@ -2,8 +2,8 @@
 layout: single
 type: docs
 title: Preface
-permalink: books/preface/
 permalink: /preface/
+permalink: books/preface/
 permalink: DCRMR/preface/
 sidebar:
   nav: "docs"
