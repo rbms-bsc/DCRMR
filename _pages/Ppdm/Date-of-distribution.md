@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Date of distribution
-permalink: DCRMR/books/ppdm/Date-of-distribution/
+permalink: books/ppdm/Date-of-distribution/
 sidebar:
   nav: "docs"
 ---

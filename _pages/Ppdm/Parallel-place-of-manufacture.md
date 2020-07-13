@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel place of manufacture
-permalink: DCRMR/books/ppdm/Parallel-place-of-manufacture/
+permalink: books/ppdm/Parallel-place-of-manufacture/
 sidebar:
   nav: "docs"
 ---

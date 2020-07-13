@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel name of publisher
-permalink: DCRMR/books/ppdm/Parallel-name-of-publisher/
+permalink: books/ppdm/Parallel-name-of-publisher/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on copyright date
-permalink: DCRMR/books/ppdm/Note-on-copyright-date/
+permalink: books/ppdm/Note-on-copyright-date/
 sidebar:
   nav: "docs"
 ---

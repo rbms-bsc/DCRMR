@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel place of distribution
-permalink: DCRMR/books/ppdm/Parallel-place-of-distribution/
+permalink: books/ppdm/Parallel-place-of-distribution/
 sidebar:
   nav: "docs"
 ---

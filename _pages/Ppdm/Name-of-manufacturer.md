@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Name of manufacturer
-permalink: DCRMR/books/ppdm/Name-of-manufacturer/
+permalink: books/ppdm/Name-of-manufacturer/
 sidebar:
   nav: "docs"
 ---

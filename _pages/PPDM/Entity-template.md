@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel name of manufacturer
-permalink: docs/ppdm/Parallel-name-of-manufacturer/
+permalink: books/ppdm/Parallel-name-of-manufacturer/
 sidebar:
   nav: "docs"
 ---
