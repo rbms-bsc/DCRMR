@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Examples and notes
-permalink: docs/introduction/Examples-and-notes/
+permalink: books/introduction/Examples-and-notes/
 sidebar:
   nav: "docs"
 ---
