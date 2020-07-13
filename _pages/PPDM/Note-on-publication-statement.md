@@ -34,9 +34,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.206.3 Notes from Publication statements
 
-<a name="4.206.3.1">4.206.3.1</a> Make a note on publication statement if the [publication statement](/DCRMR/docs/ppdm/Publication-statement/#4.20.3.2) is taken from a source other than the title page.
+<a name="4.206.3.1">4.206.3.1</a> Make a note on publication statement if any part of the publication statement is taken from a source other than the title page ([see 4.20.3.2](/DCRMR/docs/ppdm/Publication-statement/#4.20.3.2)).
 
-<a name="4.206.3.2">4.206.3.2</a> Make a note on publication statement if information is not transcribed in the [publication statement](/DCRMR/docs/ppdm/Publication-statement/#4.20.3.3) but is considered important.
+<a name="4.206.3.2">4.206.3.2</a> Make a note on publication statement if information is not transcribed in the publication statement but is considered important (see [4.30.3.3](/DCRMR/docs/ppdm/Publication-statement/#4.20.3.3)).
 
 <a name="4.206.3.3">4.206.3.3</a>  Make a note on publication statement if publication statements are transposed [publication statement](/DCRMR/docs/ppdm/Publication-statement/#4.20.4.2) indicating the original position of the transposed elements.
 
@@ -54,7 +54,7 @@ Example: `Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheure
 
 **Note on publication statement:** `Corrected imprint from: Pia, P. Livres de l'Enfer`
 
-<a name="4.206.3.5">4.206.3.5</a> Make a note if any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later informationand the original details are visible or otherwise available, transcribe or give them in a note (see [4.20.6.1](/DCRMR/docs/ppdm/Publication-statement/#4.20.6.1). 
+<a name="4.206.3.5">4.206.3.5</a> Make a note if any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available, transcribe or give them in a note (see [4.20.6.1](/DCRMR/docs/ppdm/Publication-statement/#4.20.6.1). 
 
 Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]`
 
@@ -62,7 +62,7 @@ Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Cham
 
 ## 4.206.4 Notes from Place of publication
 
-<a name="4.206.4.1">4.206.4.1</a> Make a note if if the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication by giving the place of publication of the later part(s) in a note. (see [4.201.9. (/DCRMR/docs/ppdm/Note-on-publication-statement/#4.201.9).
+<a name="4.206.4.1">4.206.4.1</a> Make a note if if the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication by giving the place of publication of the later part(s) in a note. (see [4.201.9.1] (/DCRMR/docs/ppdm/Note-on-publication-statement/#4.201.9.1)).
 
 <a name="4.206.4.2">4.206.4.1</a> Make a note giving the basis for the correction if the [place of publication](/DCRMR/docs/ppdm/Place-of-publication/#4.201.96.1) appearing on the manifestation is known to be fictitious or incorrect.
 
@@ -84,7 +84,7 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 <a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as name of publisher (see [4.203.5.1](/DCRMR/docs/ppdm/Name-of-publisher/#4.203.5.1).
 
-<a name="4.206.5.2">4.206.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc/ when the identification of the name of publisher is based on a device, See [4.203.5.2](/DCRMR/docs/ppdm/Name-of-Publisher/#4.203.5.2
+<a name="4.206.5.2">4.206.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the name of publisher is based on a device, See [4.203.5.2](/DCRMR/docs/ppdm/Name-of-Publisher/#4.203.5.2
 
 Example: `[Richard Pynson]`
 
@@ -104,7 +104,7 @@ Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/docs/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/docs/ppdm/Publication-statement/) of the later part(s) in a note. See [4.230.8.1](/docs/ppdm/Name-of-publisher/#4.203.8.1).
+<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/docs/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/docs/ppdm/Publication-statement/) of the later part(s) in a note (see [4.230.8.1](/docs/ppdm/Name-of-publisher/#4.203.8.1)).
 
 <a name="4.206.5.5">4.206.5.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied publisher give supporting evidence in a note. See [4.203.9.1](/DCRMR/docs/ppdm/Name-of-publisher/#4.203.9.1)
 
