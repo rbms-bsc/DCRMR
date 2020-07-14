@@ -113,51 +113,51 @@ docs:
     url: /ppdm/
     children:
       - title: "Publication statement"
-        url: books/ppdm/Publication-statement/
+        url: /DCRMR/books/ppdm/Publication-statement/
       - title: "Place of publication"
-        url: books/ppdm/Place-of-publication/
+        url: /DCRMR/books/ppdm/Place-of-publication/
       - title: "Parallel place of publication"
-        url: books/ppdm/Parallel-place-of-publication/
+        url: /DCRMR/books/ppdm/Parallel-place-of-publication/
       - title: "Name of publisher"
-        url: books/ppdm/Name-of-publisher/
+        url: /DCRMR/books/ppdm/Name-of-publisher/
       - title: "Parallel name of publisher"
-        url: books/ppdm/Parallel-name-of-publisher/
+        url: /DCRMR/books/ppdm/Parallel-name-of-publisher/
       - title: "Date of publication"
-        url: books/ppdm/Date-of-publication/
+        url: /DCRMR/books/ppdm/Date-of-publication/
       - title: "Note on publication statement"
-        url: books/ppdm/Note-on-publication-statement/
+        url: /DCRMR/books/ppdm/Note-on-publication-statement/
       - title: "Distribution statement"
-        url: books/ppdm/Distribution-statement/
+        url: /DCRMR/books/ppdm/Distribution-statement/
       - title: "Place of distribution"
-        url: books/ppdm/Place-of-distribution/
+        url: /DCRMR/books/ppdm/Place-of-distribution/
       - title: "Parallel place of distribution"
-        url: books/ppdm/Parallel-place-of-distribution/
+        url: /DCRMR/books/ppdm/Parallel-place-of-distribution/
       - title: "Name of distributor"
-        url: books/ppdm/Name-of-distributor/
+        url: /DCRMR/books/ppdm/Name-of-distributor/
       - title: "Parallel name of distributor"
-        url: books/ppdm/Parallel-name-of-distributor/
+        url: /DCRMR/books/ppdm/Parallel-name-of-distributor/
       - title: "Date of distribution"
-        url: books/ppdm/Date-of-distribution/
+        url: /DCRMR/books/ppdm/Date-of-distribution/
       - title: "Note on distribution statement"
-        url: books/ppdm/Note-on-distribution-statement/
+        url: /DCRMR/books/ppdm/Note-on-distribution-statement/
       - title: "Manufacture statement"
-        url: books/ppdm/Manufacture-statement/
+        url: /DCRMR/books/ppdm/Manufacture-statement/
       - title: "Place of manufacture"
-        url: books/ppdm/Place-of-manufacture/
+        url: /DCRMR/books/ppdm/Place-of-manufacture/
       - title: "Parallel place of manufacture"
-        url: books/ppdm/Parallel-place-of-manufacture/
+        url: /DCRMR/books/ppdm/Parallel-place-of-manufacture/
       - title: "Name of manufacturer"
-        url: books/ppdm/Name-of-manufacturer/
+        url: /DCRMR/books/ppdm/Name-of-manufacturer/
       - title: "Parallel name of manufacturer"
-        url: books/ppdm/Parallel-name-of-manufacturer/
+        url: /DCRMR/books/ppdm/Parallel-name-of-manufacturer/
       - title: "Date of manufacture"
-        url: books/ppdm/Date-of-manufacture/
+        url: /DCRMR/books/ppdm/Date-of-manufacture/
       - title: "Note on manufacture statement"
-        url: books/ppdm/Note-on-manufacture-statement/
+        url: /DCRMR/books/ppdm/Note-on-manufacture-statement/
       - title: "Copyright date"
-        url: books/ppdm/Copyright-date/
+        url: /DCRMR/books/ppdm/Copyright-date/
       - title: "Note on copyright date"
-        url: books/ppdm/Note-on-copyright-date/
+        url: /DCRMR/books/ppdm/Note-on-copyright-date/
         
   - title: "Chapter 5. Physical Description"
     url: /physical-description/
