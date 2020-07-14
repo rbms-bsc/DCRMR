@@ -32,23 +32,25 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.22.3.1">4.22.3.1</a> The prescribed sources of information for the manufacture statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/books/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution, and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/books/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the manufacture statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.22.3.2">4.22.3.2</a> If any part of the manufacture statement is taken from a source other than the title page, make a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/). Make a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/) about information not transcribed in the manufacture statement if considered important.
+<a name="4.22.3.2">4.22.3.2</a> If any part of the manufacture statement is taken from a source other than the title page, make a note on manufacture statement (see [4.226.3.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.1). 
+
+<a name="4.22.3.3">4.22.3.3</a> Make a note on manufacture statement about information not transcribed in the manufacture statement if considered important (see [4.226.3.2] (/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.2).
 
 ## 4.22.4 Form and order of information
 
 <a name="4.22.4.1">4.22.4.1</a> Transcribe the manufacture statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
 
-<a name="4.22.4.2">4.22.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/) indicating the original position of the transposed elements. 
+<a name="4.22.4.2">4.22.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note on manufacture statement indicating the original position of the transposed elements (see [4.226.3.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.3)). 
 
 <a name="4.22.4.3">4.22.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
 ## 4.22.5 Fictitious or incorrect information
 
-<a name="4.22.5.1">4.22.5.1</a>  If all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/). 
+<a name="4.22.5.1">4.22.5.1</a>  If all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note on manufacture statement (see [4.226.3.4](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.4)).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a note on manufacture statement.
 
 ## 4.22.6 Information covered by labels, etc.
 
-<a name="4.22.6.1">4.22.6.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/).
+<a name="4.22.6.1">4.22.6.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a note on manufacture statement (see [4.226.3.5](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.5)).
 
 <a name="4.22.6.2">4.22.6.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is a [note on item](/DCRMR/books/notes-on-items/Note-on-item/).
 

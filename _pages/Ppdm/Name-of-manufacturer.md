@@ -64,9 +64,10 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 ## 4.223.5 Name of manufacturer containing only addresses, signs, or initials
 
-<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a note on manufacture statement (see [4.226.5.1](DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
 
 Example: `[Cuchet] Rue et Hôtel serpente`
+
 **Note on Manufacture Statement:** `Cuchet listed as printer in Quérard, J.M. La France littéraire.`
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
@@ -79,9 +80,9 @@ Example: `printed by R. B[adger] for Robert Bird, and are to be sold at his shop
 
 **Note on publication statement:** `Printed by R. Badger according to the STC.`
 
-(Comment: A separate note is used to provide a full citation for the reference to the published description)
+(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a note about the basis for the identification, the source of the information used, the presence of the device, etc. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a note on manufacture statement about the basis for the identification, the source of the information used, the presence of the device, etc (see [4.226.5.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.2).
 
 Example: `[Robert Bryson]`
 
@@ -91,11 +92,10 @@ Example: `[Robert Bryson]`
 
 ## 4.223.6 Fictitious name of manufacturer
 
-<a name="4.223.6.1">4.223.6.1</a>  If the name as transcribed is known to be fictitious, or requires clarification, make a note giving the actual name. Include the source of the actual name. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.223.6.1">4.223.6.1</a>  If the name as transcribed is known to be fictitious, or requires clarification, make a note on manufacture statement giving the actual name. Include the source of the actual name (see [4.226.5.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.3).
 
-<a name="4.223.6.2">4.223.6.2</a> *Alternatively*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.223.6.2">4.223.6.2</a> *Alternatively*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.5.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
----
 Example: `printed by Edes & Gill, for Buckley [i.e., Bulkeley] Emerson, of Newbury-Port`
 
 Example: `printed by James Robertson [i.e. William A. Rind]`
@@ -103,8 +103,6 @@ Example: `printed by James Robertson [i.e. William A. Rind]`
 **Note on manufacture statement:** `"Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, 'praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly...'" (Tremaine)`
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the published description)
-
----
 
 ## 4.223.7 Two or more names of manufacturers
 
@@ -120,11 +118,11 @@ Example: `Printed by L. Nichols & Co., T. & J. Swords, E. Duyckinck [and 10 othe
 
 ## 4.223.8 Names of manufacturers in multipart monographs
 
-<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) of the first or earliest part and give the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) of the later part(s) in a note. See [note on distribution statement](/DCRM/docs/ppdm/Note-on-distribution-statement/).
+<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the manufacture statement of the first or earliest part and give the manufacture statement of the later part(s) in a note (see [4.226.5.4](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.4).
 
 ## 4.223.9 No name of manufacturer
 
-<a name="4.223.9.1">4.223.9.1</a>  If no name, initials, sign, or device of a manufacturer appears in the manifestation, supply the name of the manufacturer in square brackets if known. In any case of a supplied manufacturer, give supporting evidence in a note. See [Note on manufacture statement](https://rbms-bsc.github.io/DCRMR/docs/ppdm/Note-on-manufacture-statement/).
+<a name="4.223.9.1">4.223.9.1</a>  If no name, initials, sign, or device of a manufacturer appears in the manifestation, supply the name of the manufacturer in square brackets if known. In any case of a supplied manufacturer, give supporting evidence in a note (see [4.226.5.5](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.5).
 
 Example: `[Barthelemy Multeau le jeune?]`
 

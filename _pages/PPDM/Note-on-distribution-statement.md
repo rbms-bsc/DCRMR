@@ -50,7 +50,7 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 ## 4.216.4 Notes from Place of distribution
 
-<a name="4.216.4.1">4.216.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication by giving the place of distribution of the later part(s) (see [4.211.9.1](/DCRMR/books/ppdm/Place-of-distribution/#4.211.9.1))
+<a name="4.216.4.1">4.216.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication by giving the place of distribution of the later part(s) (see [4.211.9.1](/DCRMR/books/ppdm/Place-of-distribution/#4.211.9.1)).
 
 Example: `Stuttgart ; Tübingen`
 
@@ -68,7 +68,7 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 **Note on distribution statement:** `Samuel Green was located in Cambridge, Mass., from 1660 to 1672`
 
-<a name="4.216.4.3">4.216.4.3</a> Make a note when supplying a place of distribution and justification for the supplied place is necessary (see [4.211.98.1](/DCRMR/books/ppdm/Place-of-distribution/#4.221.98.1).
+<a name="4.216.4.3">4.216.4.3</a> Make a note when supplying a place of distribution and justification for the supplied place is necessary (see [4.211.98.1](/DCRMR/books/ppdm/Place-of-distribution/#4.221.98.1)).
 
 Example: `[Paris]`
 
@@ -99,3 +99,7 @@ Example: `Place of publication suggested by Alden`
 <a name="4.216.6.1">4.216.6.1</a> Make a note if parallel distributors' names are found on a different source as the name of distibutor if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the name of the distributor appears in more than one language or script and the original position of elements were transposed (see [4.213.97.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.97.1) and [4.214.3.2](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
+
+## 4.216.7 Notes from Parallel place of distributor
+
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)).
