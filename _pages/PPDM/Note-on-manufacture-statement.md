@@ -38,7 +38,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.3.3">4.226.3.3</a>  Make a note on manufacture statement if manufacture statements are transposed indicating the original position of the transposed elements (see [4.22.4.2](/DCRMR/books/ppdm/Manufacture-statement/#4.22.4.2)).
 
-<a name="4.226.3.4">4.226.3.4</a> Make an explanatory note if all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect and include the source of this information(see [4.22.5.1](/DCRMR/books/ppdm/Manufacture-statement/#4.22.5.1)).
+<a name="4.226.3.4">4.226.3.4</a> Make an explanatory note if all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect and include the source of this information (see [4.22.5.1](/DCRMR/books/ppdm/Manufacture-statement/#4.22.5.1)).
 
 <a name="4.226.3.5">4.226.3.5</a> Make a note if any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available, transcribe or give them in a note (see [4.22.6.1](/DCRMR/books/ppdm/Manufacture-statement/#4.20.6.1). 
 
