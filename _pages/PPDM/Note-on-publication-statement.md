@@ -126,4 +126,39 @@ Example: `[Anton Koberger]`
 
 <a name="4.206.7.1">4.206.7.1</a> Make a note on publisher statement if a parallel place of publication is from a different source than the place of publication and is considered important for identification (see [4.202.3.2](/DCRMR/books/ppdm/Parallel-place-of-publication/#4.202.3.2)).
 
+## 4.206.8 Notes from Date of publication
+
+<a name="4.206.8.1">4.206.8.1</a> When following the alternative rule in [4.205.4.2](/DCRMR/books/ppdm/Date-of-publication/#4.205.4.2) include a transcription of the original chronogram in the note if considered important (see [4.205.4.2](/DCRMR/books/ppdm/Date-of-publication/#4.205.4.2)).
+
+Example: `[1758]`
+
+**Note on publiction statement:** `Date of publication derived from chronogram in statement of responsibility`
+
+(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")
+
+Example:  `[1650]`
+
+**Note on publication statement:** `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
+
+<a name="4.206.8.2">4.206.8.2</a> When following the alternative rule for very long dates in [4.205.4.3](/DCRMR/books/ppdm/Date-of-publication/#4.205.4.3) make a note on publication statement concerning the source and the original form of the date of publication (see [4.205.4.3](/DCRMR/books/ppdm/Date-of-publication/#4.205.4.3)).
+
+Example: `[18 May 1507]`
+
+**Note on publication statement:** `Date expressed in Latin words on title page.`
+
+(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
+
+<a name="4.206.8.3">4.206.8.3</a> Suplly the actual date in a note on publication statement if the date of publication is known to be fictitious or incorrect (see [4.205.4.4](/DCRMR/books/ppdm/Date-of-publication/#4.205.4.4)).
+
+Example: `1887 [i.e. 1899]`
+
+**Note on publication statement:** `Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899`
+
+Example: `1786 [i.e. 1788]`
+
+**Note on publication statement:** `Dedication and preface both dated 1788`
+
+<a name="4.206.8.4">4.206.8.4</a>
+
+
 

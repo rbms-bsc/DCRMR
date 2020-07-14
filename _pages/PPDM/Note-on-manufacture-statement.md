@@ -87,3 +87,19 @@ Example: `[Robert Bryson]`
 ## 4.226.7 Notes from Parallel place of manufacture
 
 <a name="4.226.7.1">4.226.7.1</a> Make a note on manufacture statement if a parallel place of manufacture is from a different source than the place of manufacture and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-manufacture/#4.212.3.2)).
+
+## 4.226.8 Notes from Date of manufacture
+
+<a name="4.226.8.1">4.226.8.1</a> Supply a note on manufacture statement when creating a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see [4.225.4.1](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.1)).
+
+Example: `1990 printing`
+
+**Date of publication:** `1989`
+
+**Note on manufacture statement:** `Date of impression from title page verso.`
+
+<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.255.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.2). 
+
+<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.4).
+
+<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.5/).

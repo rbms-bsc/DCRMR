@@ -49,7 +49,8 @@ Example: `anno 1593`
 <a name="4.205.3.3">4.205.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.
 
 Example: `[August 12, 1804]`
-**Publisher’s Name:** Published the 12th of August 1804 by R. Wilkinson, no. 58, Cornhill
+
+**Name of publisher:** `Published the 12th of August 1804 by R. Wilkinson, no. 58, Cornhill`
 
 ## 4.205.4 Transcription involving adjustments or additions
 
@@ -67,28 +68,27 @@ Example: `Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ip
 
 Example: `Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]`
 
-Alternately, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+*Alternately*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a note on publication statement (see [4.206.8.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
 Example: `[1758]`
 
-**Note on Date of Publication:** `Date of publication derived from chronogram in statement of responsibility`
+**Note on publiction statement:** `Date of publication derived from chronogram in statement of responsibility`
 
 (*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")
 
-
 Example:  `[1650]`
 
-**Note on Date of Publication:** `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
+**Note on publication statement:** `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
 
-<a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note concerning the source and the original form of the statement. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note on publication statement concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/books/ppdm/Date-of-publication-statement/#4.206.8.2)).
 
 Example: `[18 May 1507]`
 
-**Note on Publication statement:** `Date expressed in Latin words on title page.`
+**Note on publication statement:** `Date expressed in Latin words on title page.`
 
-(*Comment*: In publication: `“Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
+(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates.** If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/). Alternately, supply the actual date in square brackets.
+<a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates.** If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on publication statement (see [4.206.8.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.3)). Alternately, supply the actual date in square brackets.
 
 Example: `1703 [i.e. 1730]`
 
@@ -96,24 +96,25 @@ Example: `Octr. 42 [i.e. 24], 1799`
 
 Example: `1887 [i.e. 1899]`
 
-**Note on Publication Statement:** `Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899`
+**Note on publication statement:** `Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899`
 
 Example: `1786 [i.e. 1788]`
 
-**Note on Publication Statement:** `Dedication and preface both dated 1788`
+**Note on publication statement:** `Dedication and preface both dated 1788`
 
-<a name="4.205.4.5">4.205.4.5</a> **Julian/Old Style dates.** If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note to indicate the basis for the supplied year. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="4.205.4.5">4.205.4.5</a> **Julian/Old Style dates.** If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note on publication statement to indicate the basis for the supplied year (see [4.206.8.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
 Example: `1743 [i.e. 1744]`
 
-**Note on Publication Statement:** `The year is given according to Lady Day dating`
+**Note on publication statement:** `The year is given according to Lady Day dating`
+
 (*Comment:* "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
 Example: `Februar. 8. anno 1588 [i.e. 1589]`
 
-**Note on Publication Statement:** `The year is given according to Lady Day dating`
+**Note on publication statement:** `The year is given according to Lady Day dating`
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 

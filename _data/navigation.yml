@@ -110,7 +110,7 @@ docs:
         url: /books/edition/Note-on-edition-statement/
         
   - title: "Chapter 4. Production Publication Distribution Manufacture"
-    url: /ppdm/
+    url: books/ppdm/
     children:
       - title: "Publication statement"
         url: /books/ppdm/Publication-statement/
