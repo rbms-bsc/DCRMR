@@ -62,7 +62,7 @@ Example: `to be sold at the signe of the Blacke Beare [by Edward Blount] in Paul
 
 ## 4.213.6 Fictitious or incorrect distributor statements
 
-<a name="4.213.6.1">4.213.6.1</a> If the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note on distribution statement (see [4.216.5.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.3).
+<a name="4.213.6.1">4.213.6.1</a> If the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note on distribution statement (see [4.216.5.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.3)).
 
 ## 4.213.7 Two or more names of distributors
 
@@ -95,5 +95,7 @@ Example: `Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and rep
 ## 4.213.97 Distributor name in more than one language or script
 
 <a name="4.213.97.1">4.213.97.1</a> If the name of the  distributor appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [parallel name of distributor](/DCRMR/books/ppdm/Parallel-name-of-distributor/)). Make a note on distribution statement to indicate the original position on the source of any transposed statements (see [4.206.6.2](/DCRMR/books/Note-on-distribution-statement/#4.206.6.2)).
+
+<a name="4.213.97.2">4.213.97.2</a> Make a note if parallel distributors' names are found on a different source as the name of distibutor if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)) and [4.216.6.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.6.1)).
 
 

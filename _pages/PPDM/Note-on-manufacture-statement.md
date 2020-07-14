@@ -30,7 +30,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.2.1">4.226.2.1</a> A note on manifestation that provides information on the manufacture of a manifestation.
 
-## 4.226.3 Note on manufacture statement
+## 4.226.3 Note from manufacture statements
 
 <a name="4.226.3.1">4.226.3.1</a>  Make a note on manufacture statement if any part of the manufacture statement is taken from a source other than the title page (see [4.22.3.2](/DCRMR/books/ppdm/Manufacture-statement/#4.22.3.2)).
 
@@ -40,19 +40,27 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.3.4">4.226.3.4</a> Make an explanatory note if all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect and include the source of this information (see [4.22.5.1](/DCRMR/books/ppdm/Manufacture-statement/#4.22.5.1)).
 
-<a name="4.226.3.5">4.226.3.5</a> Make a note if any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available, transcribe or give them in a note (see [4.22.6.1](/DCRMR/books/ppdm/Manufacture-statement/#4.20.6.1). 
+<a name="4.226.3.5">4.226.3.5</a> Make a note if any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available, transcribe or give them in a note (see [4.22.6.1](/DCRMR/books/ppdm/Manufacture-statement/#4.22.6.1)). 
 
 ## 4.226.4 Notes from Place of manufacture
 
-<a name="4.226.4.1">4.226.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacutre of the later part(s) in a note. (see [4.221.5.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.221.5.2)).
+<a name="4.226.4.1">4.226.4.1</a> Make a note on manufacture statement if necessary to justify a supplied place of manufacture (see [4.221.2.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.2.1)).
 
-<a name="4.226.4.2">4.226.4.2</a> If the place name as transcribed is known to be fictitious or incorrect, make a note on manufacture giving the actual place name. Include the source of the actual place name (see [4.221.3.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.221.3.1)).
+<a name="4.226.4.2">4.226.4.2</a> If the place name as transcribed is known to be fictitious or incorrect, make a note on manufacture giving the actual place name. Include the source of the actual place name (see [4.221.3.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.3.1)).
 
 <a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.221.3.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.3.2)).
 
+Example: `Cosmopoli [i.e. London]`
+
+**Note on manufacture statement:** `The imprint is fictitious; printed in London by Richard Field (cf. STC).`
+
+(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
+
 <a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [4.221.4.3](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.4.3)).
 
-## 4.226.5 Notes from Name of manufacture
+<a name="4.226.4.5">4.226.4.5</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacutre of the later part(s) in a note. (see [4.221.5.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.5.2)).
+
+## 4.226.5 Notes from Name of manufacturer
 
 <a name="4.226.5.1">4.226.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as name of manufacturer (see [4.223.5.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.5.1)).
 
@@ -66,16 +74,16 @@ Example: `[Robert Bryson]`
 
 <a name="4.226.5.3">4.226.5.3</a> Make a note if the name of manufacturer is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.223.6.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.6.1)).
 
-<a name="4.226.5.4">4.226.5.4</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part and the name or form of name of the manufacturer changes in the course of issue, transcribe the manufacturer statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.230.8.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.8.1)).
+<a name="4.226.5.4">4.226.5.4</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part and the name or form of name of the manufacturer changes in the course of issue, transcribe the manufacturer statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.223.8.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.8.1)).
 
 <a name="4.226.5.5">4.226.5.5</a> Make a note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer give supporting evidence in a note (see [4.223.9.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.4.223.9.1)).
 
-## 4.226.6 Notes from Parallel name of manufacture 
+## 4.226.6 Notes from Parallel name of manufacturer
 
 <a name="4.226.6.1">4.226.6.1</a> Make a note if parallel manufacturers' names are found on a different source as the name of manufacture if considered important for identification (see [4.224.3.1](DCRMR/books/ppdm/Parallel-name-of-manufacturer/#4.224.3.1)).
 
 <a name="4.226.6.2">4.226.6.2</a> Make a note if the name of the manufacturer appears in more than one language or script and the original position of elements was transposed (see [4.224.3.2](/DCRMR/books/ppdm/Parallel-name-of-manufacturer/#4.224.3.2)).
 
-## 4.226.7 Notes from Parallel place of manufacturer
+## 4.226.7 Notes from Parallel place of manufacture
 
 <a name="4.226.7.1">4.226.7.1</a> Make a note on manufacture statement if a parallel place of manufacture is from a different source than the place of manufacture and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-manufacture/#4.212.3.2)).

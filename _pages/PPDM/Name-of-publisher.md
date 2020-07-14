@@ -44,7 +44,7 @@ Example: `Published by Lumsden & Son at their toy book manufactory`
 
 Example: `Published by Thomas Bradford, printer, bookseller & stationer, no. 8, South Front-Street`
 
-*Optionally*, omit addresses and insignificant information in the middle or at the end of the [publication statement](/DCRMR/docs/ppdm/Publication-statement/), unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, for the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
+*Optionally*, omit addresses and insignificant information in the middle or at the end of the [publication statement](/DCRMR/books/ppdm/Publication-statement/), unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, for the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
 
 Example: `Published by Ackermann and Co. ...`
 
@@ -64,7 +64,7 @@ Example: `Private plate issued exclusively to members of the Bibliophile Society
 
 ## 4.203.4 Publication statements containing grammatically inseparable place names or dates
 
-<a name="4.203.4.1">4.203.4.1</a> If the [publication statement](/DCRMR/docs/ppdm/Publication-statement/) contains grammatically inseparable statements relating to [place of publication](/DCRMR/docs/ppdm/Place-of-publication/) or [date of publication](/DCRMR/docs/ppdm/Date-of-publication/) transcribe the information as part of the [name of publisher](/DCRMR/docs/ppdm/Name-of-publisher/) element. Supply the [place of publication](/DCRMR/docs/ppdm/Place-of-publication/) or [date of publication](/DCRMR/docs/ppdm/Date-of-publication/) in square brackets in the appropriate element. 
+<a name="4.203.4.1">4.203.4.1</a> If the [publication statement](/DCRMR/books/ppdm/Publication-statement/) contains grammatically inseparable statements relating to [place of publication](/DCRMR/books/ppdm/Place-of-publication/) or [date of publication](/DCRMR/books/ppdm/Date-of-publication/) transcribe the information as part of the [name of publisher](/DCRMR/books/ppdm/Name-of-publisher/) element. Supply the [place of publication](/DCRMR/books/ppdm/Place-of-publication/) or [date of publication](/DCRMR/books/ppdm/Date-of-publication/) in square brackets in the appropriate element. 
 
 Example: `Verlag der Vereins-Buchhandlung in Berlin`
 
@@ -76,17 +76,15 @@ Date of Publication: `[July 1, 1790]`
 
 ## 4.203.5 Publisher statements containing only addresses, signs, or initials
 
-<a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name, transcribe the statement containing the address, sign, or initials as the [publication statement](/DCRMR/docs/ppdm/Publication-statement/). If the publisher’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a note. See [note on publication statement](/DCRMR/docs/ppdm/Name-of-publisher/).
+<a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name, transcribe the statement containing the address, sign, or initials as the [publication statement](/DCRMR/books/ppdm/Publication-statement/). If the publisher’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a note on publication statement (see [4.206.5.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.1)).
 
-<<<<<<< Updated upstream
-`Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
+Example: `Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
 
 **Note on Publication Statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
 
 Example: `Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
 
 **Note on Publication Statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
->>>>>>> Stashed changes
 
 Example: `Printed for M.W. [that is, Matthew Walbancke]`
 
@@ -96,7 +94,7 @@ Example: `Printed by T.H. for I.P. and are to be sold by Richard Thrale, dwellin
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.203.5.2">4.203.5.2</a> If the identification of the publisher is based on a device, supply the [name of the publisher](/DCRMR/docs/ppdm/Name-of-publisher/) in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.5.2">4.203.5.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note on publication statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.203.5.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.2)).
 
 Example: `[Richard Pynson]`
 
@@ -104,23 +102,23 @@ Example: `[Richard Pynson]`
 
 ## 4.203.6 Fictitious or incorrect publisher statements 
 
-<a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note on publication statement (see [4.203.6.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.203.6.1)).
 
 Example: `Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]`
 
-**Note on publication statement**:  `Corrected publisher from Koeman`
+**Note on publication statement:**  `Corrected publisher from Koeman`
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
-**Note on publication statement**: `The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf` 
+**Note on publication statement:** `The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf` 
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 ## 4.203.7 Two or more names of publishers
 
-<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/docs/ppdm/Publication-statement/) includes more than one publisher,  in a single source, transcribe all the names in the order in which they appear. Transcribe them as subsequent [publication statements](/DCRMR/docs/ppdm/Publication-statement/) only when they are not linked by connecting words or phrases.
+<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/books/ppdm/Publication-statement/) includes more than one publisher,  in a single source, transcribe all the names in the order in which they appear. Transcribe them as subsequent [publication statements](/DCRMR/books/ppdm/Publication-statement/) only when they are not linked by connecting words or phrases.
 
 Example: `United States Food Administration`
 
@@ -138,7 +136,7 @@ Example: `Longman, Brown, Green, and Longmans`
 
 Example: `Bey Johan Waesberge, und der Witwe Elizaei Weyerstraet`
 
-<a name="4.203.7.2">4.203.7.2</a>  Optionally, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [publication statement](/DCRMR/docs/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
+<a name="4.203.7.2">4.203.7.2</a>  Optionally, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [publication statement](/DCRMR/books/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
 
 Example: `Oliver Ditson & Co., C.H. Ditson & Co., Lyon & Healy [and 4 others]`
 
@@ -158,11 +156,11 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.203.8 Names of publishers in multipart monographs 
 
-<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/docs/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/docs/ppdm/Publication-statement/) of the later part(s) in a note. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/books/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/books/ppdm/Publication-statement/) of the later part(s) in a note. See [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/).
 
 ## 4.203.9 Supplied and conjectured names of publishers
 
-<a name="4.203.9.1">4.203.9.1</a> If no name, address, or device of a publisher appears on the manifestation, supply the name of the publisher in square brackets if known. If the responsibility of a publisher for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a note. In any case of a supplied publisher give supporting evidence in a note. See [note on publication statement](/DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.9.1">4.203.9.1</a> If no name, address, or device of a publisher appears on the manifestation, supply the name of the publisher in square brackets if known. If the responsibility of a publisher for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a note. In any case of a supplied publisher give supporting evidence in a note on publication statement (see [4.206.5.5](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.5)).
 
 Example: `[Anton Koberger]`
 
@@ -184,4 +182,4 @@ Example: `[Paris] : [Pour Symo[n] Vostre Libraire par Philippe Pigouchet]`
 
 ## 4.203.97 Publisher name in more than one language or script
 
-<a name="4.203.97.1">4.203.97.1</a>  If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of publisher](/DCRMR/docs/ppdm/Parallel-name-of-publisher/).  Make a note to indicate the original position on the source of any transposed statements, See [note on publication statement](DCRMR/docs/ppdm/Note-on-publication-statement/).
+<a name="4.203.97.1">4.203.97.1</a>  If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of publisher](/DCRMR/books/ppdm/Parallel-name-of-publisher/).  Make a note to indicate the original position on the source of any transposed statements (see [4.206.6.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.6.2)).

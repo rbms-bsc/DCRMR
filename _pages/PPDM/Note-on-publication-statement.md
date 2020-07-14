@@ -64,7 +64,7 @@ Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Cham
 
 <a name="4.206.4.1">4.206.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication by giving the place of publication of the later part(s) in a note. (see [4.201.9.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.201.9.1)).
 
-<a name="4.206.4.2">4.206.4.1</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.201.96.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.96.1)).
+<a name="4.206.4.2">4.206.4.2</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.201.96.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.96.1)).
 
 Example: `Londres [i.e. Paris]`
 
@@ -80,6 +80,8 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 <a name="4.206.4.5">4.206.4.5</a> Make a note if the reason for supplying the place of publication is not apparent from the rest of the description to indicate the source of the information (see [4.201.99.3](/DCRMR/books/ppdm/Place-of-publication/#4.201.99.3)).
 
+<a name="4.206.4.6">4.206.4.6</a> Make a note if the place of publication appears in more than one language or script and the original position of elements was transposed (see [4.201.955.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.955.1).
+
 ## 4.206.5 Notes from Name of publisher
 
 <a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as name of publisher (see [4.203.5.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.5.1)).
@@ -94,13 +96,13 @@ Example: `[Richard Pynson]`
 
 Example: `Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]`
 
-**Note on publication statement**:  `Corrected publisher from Koeman`
+**Note on publication statement:**  `Corrected publisher from Koeman`
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
-**Note on publication statement**: Example: `The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf` 
+**Note on publication statement:** Example: `The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf` 
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
@@ -116,10 +118,12 @@ Example: `[Anton Koberger]`
 
 ## 4.206.6 Notes from Parallel name of publisher
 
-<a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publishers' names are found on a different source as the name of publisher if considered important for identification. See [4.204.3.1](DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.1)
+<a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publishers' names are found on a different source as the name of publisher if considered important for identification (see [4.204.3.1](/DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.1)).
 
 <a name="4.206.6.2">4.206.6.2</a> Make a note if the name of the publisher appears in more than one language or script and the original position of elements was transposed (see [4.203.97.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.97.1) and [4.204.3.2](/DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.2))
 
 ## 4.206.7 Notes from Parallel place of publication
 
 <a name="4.206.7.1">4.206.7.1</a> Make a note on publisher statement if a parallel place of publication is from a different source than the place of publication and is considered important for identification (see [4.202.3.2](/DCRMR/books/ppdm/Parallel-place-of-publication/#4.202.3.2)).
+
+

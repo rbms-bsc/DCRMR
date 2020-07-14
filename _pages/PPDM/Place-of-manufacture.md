@@ -38,7 +38,7 @@ Example: `In Venetia`
 
 ## 4.221.2 Supplied place of manufacture
 
-<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note if necessary. See [Note on manufacture statement](/DCRMR/books/ppdm/Note-on-manufacture-statement/)
+<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note on manufacture statement if necessary (see [4.226.4.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.1)
 
 Example: `[Ashbourn] : printed at the Office of M. Hoon, Ashbourn`
 
@@ -56,7 +56,7 @@ Example: `Cosmopoli [i.e. London]`
 
 (*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
-<a name="4.221.3.3">4.221.3.3</a> Optionally, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
+<a name="4.221.3.3">4.221.3.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 
 Example: `Lugduni [Lyon]`
 
@@ -70,7 +70,7 @@ Example: `Lugduni [Lyon]`
 
 Example: `Manchester : printed for a Society of gentlemen ; North Shields : re-printed at the Stanhope Press by J.K. Pollock`
 
-<a name="4.221.4.4">4.221.4.4 </a> Do not, however, transcribe a subsequent place as a place of manufacture if it is recorded as a grammatically inseparable part of another element. 
+<a name="4.221.4.4">4.221.4.4</a> Do not, however, transcribe a subsequent place as a place of manufacture if it is recorded as a grammatically inseparable part of another element. 
 
 Example: `Printed at the Theater in Oxford, and in London`
 
@@ -90,4 +90,4 @@ Example: `Printed at London, and re-printed at Edinburgh`
 
 <a name="4.221.5.1">4.221.5.1</a> For multipart monographs, always record a change in place of manufacture.
 
-<a name="4.221.5.2">4.206.4.1</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a note. (see [4.226.4.1](/DCRMR/books/ppdm/Note-on-manufacturen-statement/#4.226.4.1)).
+<a name="4.221.5.2">4.206.4.1</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a note on manufacture statement (see [4.226.4.5](/DCRMR/books/ppdm/Note-on-manufacturen-statement/#4.226.4.5)).

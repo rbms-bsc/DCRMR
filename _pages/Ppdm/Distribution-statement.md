@@ -32,9 +32,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.21.3.1">4.21.3.1</a> The prescribed sources of information for the distribution statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/books/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/books/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the distribution statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.21.3.2">4.21.3.2</a>  If any part of the distribution statement is taken from a source other than the title page, make a note on distribution statement to indicate the source (see [4.21.3.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.1)). 
+<a name="4.21.3.2">4.21.3.2</a>  If any part of the distribution statement is taken from a source other than the title page, make a note on distribution statement to indicate the source (see [4.216.3.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.1)). 
 
-<a name="4.21.3.3">4.21.3.3</a>  Make a note on distribution statment about information not transcribed in the distribution statement if considered important (see [4.21.3.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.3)). 
+<a name="4.21.3.3">4.21.3.3</a>  Make a note on distribution statment about information not transcribed in the distribution statement if considered important (see [4.216.3.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.3)). 
 
 ## 4.21.4 Form and order of information
 

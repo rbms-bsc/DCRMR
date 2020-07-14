@@ -90,16 +90,16 @@ Example: `Place of publication suggested by Alden`
 
 <a name="4.216.5.3">4.216.5.3</a> Make a note if the [name of distributor](/DCRMR/books/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.213.6.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.6.1)).
 
-<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the distributor changes in the course of publication, transcribe the [distribution statement](DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the first or earliest part and give the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the later part(s) in a note (see [4.230.8.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.8.1)).
+<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the distributor changes in the course of publication, transcribe the [distribution statement](DCRMR/books/ppdm/Distribution-statement/) of the first or earliest part and give the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) of the later part(s) in a note (see [4.213.8.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.8.1)).
 
-<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note (see [4.213.9.1](/DCRMR/books/ppdm/Name-of-distributor/#4.201.9.1)).
+<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note (see [4.213.9.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.9.1)).
 
 ## 4.216.6 Notes from Parallel name of distributor
 
-<a name="4.216.6.1">4.216.6.1</a> Make a note if parallel distributors' names are found on a different source as the name of distibutor if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)).
+<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)) and [4.213.97.2](/DCRMR/books/ppdm/Name-of-distributor/#4.213.97.2)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the name of the distributor appears in more than one language or script and the original position of elements were transposed (see [4.213.97.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.97.1) and [4.214.3.2](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
 
-## 4.216.7 Notes from Parallel place of distributor
+## 4.216.7 Notes from Parallel place of distribution
 
-<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)).
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)) and [4.211.995](/DCRMR/books/ppdm/Place-of-distribution/#4.211.995).
