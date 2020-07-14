@@ -66,14 +66,16 @@ Example: `Londres [i.e. Paris]`
 
 Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
-**Note: Samuel Green was located in Cambridge, Mass., from 1660 to 1672
+**Note on distribution statement:** `Samuel Green was located in Cambridge, Mass., from 1660 to 1672`
 
 <a name="4.216.4.3">4.216.4.3</a> Make a note when supplying a place of distribution and justification for the supplied place is necessary (see [4.211.98.1](/DCRMR/books/ppdm/Place-of-distribution/#4.221.98.1).
 
 Example: `[Paris]`
+
 (*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
 
 Example: `[London]`
+
 (*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
 
 <a name="4.216.4.4">4.216.4.4</a> Make a note if the reason for supplying the place is not apparent from the rest of the description to indicate the source of the information (see [4.211.99.3](/DCRMR/books/ppdm/Place-of-distribution/#4.211.99.3)).
@@ -82,55 +84,18 @@ Example: `Place of publication suggested by Alden`
 
 ## 4.216.5 Notes from Name of distributor
 
-<a name="4.216.5.1">4.216.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’s name can be identified and supplied as name of distributor (see [4.213.5.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.5.1).
+<a name="4.216.5.1">4.216.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’s name can be identified and supplied as name of distributor (see [4.213.5.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.5.1)).
 
 <a name="4.216.5.2">4.216.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the name of distributor is based on a device (see [4.213.5.2](/DCRMR/books/ppdm/Name-of-distributor/#4.213.5.2)).
 
 <a name="4.216.5.3">4.216.5.3</a> Make a note if the [name of distributor](/DCRMR/books/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.213.6.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.6.1)).
 
-<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the distributor changes in the course of publication, transcribe the [distribution statement](DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the first or earliest part and give the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the later part(s) in a note (see [4.230.8.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.8.1).
+<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the distributor changes in the course of publication, transcribe the [distribution statement](DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the first or earliest part and give the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/#4.213.8.1) of the later part(s) in a note (see [4.230.8.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.8.1)).
 
-<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note. See [4.213.9.1](/DCRMR/books/ppdm/Name-of-distributor/#4.201.9.1)
+<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note (see [4.213.9.1](/DCRMR/books/ppdm/Name-of-distributor/#4.201.9.1)).
 
 ## 4.216.6 Notes from Parallel name of distributor
 
 <a name="4.216.6.1">4.216.6.1</a> Make a note if parallel distributors' names are found on a different source as the name of distibutor if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)).
 
-<a name="4.216.6.2">4.216.6.2</a> Make a note if the name of the distributor appears in more than one language or script and the original position of elements were transposed (see [4.213.97.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.97.1) and [4.214.3.2](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.2))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(old stuff)
-
-<a name="4.216.3.1">4.216.3.1</a> Make a note on distribution details that are not included in the distribution elements if considered important. If elements of the distribution have been taken from a source other than the preferred source of information, make a note specifying the source.
-
-**Date of distribution:** `[1864]`
-
-**Note on distribution statement:** `Distribution date from LC Civil War maps (2nd ed.)`
-
-(*Comment:* A note on distribution statement is used to provide a full citation for the reference to the published description.)
-
-**Distribution statement:** `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
-
-**Note on distribution statement:** `Date follows place of distribution in imprint`
-
-**Distribution statement:** `Lugduni : Apud Seb. Gryphium, 1538`
-
-**Note on distribution statement:** `Place of distribution follows publisher’s name on title page.`
+<a name="4.216.6.2">4.216.6.2</a> Make a note if the name of the distributor appears in more than one language or script and the original position of elements were transposed (see [4.213.97.1](/DCRMR/books/ppdm/Name-of-distributor/#4.213.97.1) and [4.214.3.2](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
