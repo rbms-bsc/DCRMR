@@ -102,4 +102,4 @@ Example: `Place of publication suggested by Alden`
 
 ## 4.216.7 Notes from Parallel place of distribution
 
-<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)) and [4.211.995](/DCRMR/books/ppdm/Place-of-distribution/#4.211.995).
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)) and [4.211.995](/DCRMR/books/ppdm/Place-of-distribution/#4.211.995)).
