@@ -2,6 +2,7 @@
 layout: single
 type: docs
 title: Other notes
+permalink: books/other-notes/
 permalink: /other-notes/
 sidebar:
   nav: "docs"
