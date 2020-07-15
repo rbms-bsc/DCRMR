@@ -82,7 +82,7 @@ Example: `Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and rep
 
 ## 4.213.9 Supplied and conjectured names of distributors
 
-<a name="4.213.9.1">4.213.9.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a note. In any case of a supplied distributor give supporting evidence in a note on distribution statement (see [4.216.5.5](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.5).
+<a name="4.213.9.1">4.213.9.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a note. In any case of a supplied distributor give supporting evidence in a note on distribution statement (see [4.216.5.5](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.5)).
 
 ## 4.213.95 No supplied name of distributor
 

@@ -68,7 +68,7 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 Example: `[Cuchet] Rue et Hôtel serpente`
 
-**Note on Manufacture Statement:** `Cuchet listed as printer in Quérard, J.M. La France littéraire.`
+**Note on manufacture statement:** `Cuchet listed as printer in Quérard, J.M. La France littéraire.`
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
 
@@ -78,15 +78,15 @@ Example: `printed and sold [by the assigns of J. Sowle] at the Bible in Lombard-
 
 Example: `printed by R. B[adger] for Robert Bird, and are to be sold at his shop at the signe of the Bible in St. Lawrance lane`
 
-**Note on publication statement:** `Printed by R. Badger according to the STC.`
+**Note on manufacture statement:** `Printed by R. Badger according to the STC.`
 
-(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
+(*Comment:* A separate note is used to provide a full citation for the reference to the manufacturer description)
 
 <a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a note on manufacture statement about the basis for the identification, the source of the information used, the presence of the device, etc (see [4.226.5.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.2)).
 
 Example: `[Robert Bryson]`
 
-**Note on Manufacture Statement:** `Robert Bryson's device on title page; see McKerrow, R. `
+**Note on manufacture statement:** `Robert Bryson's device on title page; see McKerrow, R. `
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
 

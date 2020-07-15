@@ -139,7 +139,7 @@ Example: `Londres [i.e. Paris]`
 **Note on distribution statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
 
 ## 4.201.97 No place of publication
-<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed publisher statement if one is present. Provide a justification for the supplied place in a note on publication statement if necessary (see [4.206.4.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.3).
+<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed publisher statement if one is present. Provide a justification for the supplied place in a note on publication statement if necessary (see [4.206.4.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.3)).
 
 Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
@@ -153,7 +153,7 @@ Example: `[Leona Vicario i.e. Saltillo, Coahuila, Mexico]`
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a>  Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [publication statement](/DCRMR/books/ppdm/Publication-statement/)) When supplying a place of publication, give a justification in a note on publication statement if necessary(see [4.206.4.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.4)).
+<a name="4.201.98.1">4.201.98.1</a>  Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. Transcribe the address or sign as the [publication statement](/DCRMR/books/ppdm/Publication-statement/).  When supplying a place of publication, give a justification in a note on publication statement if necessary (see [4.206.4.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.4)).
 
 Example: `[Paris]`
 
@@ -183,7 +183,7 @@ Example: `[Prussia?]`
 Example: `[South America?]`
 
 <a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a note on publication statement to indicate the source of the information.
-(see [4.206.4.5](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.5) 
+(see [4.206.4.5](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.4.5)).
 
 Example: `Place of publication suggested by Alden`
 

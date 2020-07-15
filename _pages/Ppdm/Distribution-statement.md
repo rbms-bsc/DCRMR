@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.21.3.2">4.21.3.2</a>  If any part of the distribution statement is taken from a source other than the title page, make a note on distribution statement to indicate the source (see [4.216.3.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.1)). 
 
-<a name="4.21.3.3">4.21.3.3</a>  Make a note on distribution statment about information not transcribed in the distribution statement if considered important (see [4.216.3.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.3)). 
+<a name="4.21.3.3">4.21.3.3</a>  Make a note on distribution statment about information not transcribed in the distribution statement if considered important (see [4.216.3.2](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.2)). 
 
 ## 4.21.4 Form and order of information
 
@@ -46,7 +46,7 @@ Example: `Huddersfield [England] : Printed and sold by Brook and Lancashire`
 
 Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
-**Note on distribution statement:** Place of distribution, "London," is printed below distributor’s name on title page.
+**Note on distribution statement:** `Place of distribution, "London," is printed below distributor’s name on title page.`
 
 <a name="4.21.4.3">4.21.4.3</a>If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 

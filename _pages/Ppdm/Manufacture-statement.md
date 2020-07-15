@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.22.3.2">4.22.3.2</a> If any part of the manufacture statement is taken from a source other than the title page, make a note on manufacture statement (see [4.226.3.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.1)). 
 
-<a name="4.22.3.3">4.22.3.3</a> Make a note on manufacture statement about information not transcribed in the manufacture statement if considered important (see [4.226.3.2] (/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.2)).
+<a name="4.22.3.3">4.22.3.3</a> Make a note on manufacture statement about information not transcribed in the manufacture statement if considered important (see [4.226.3.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.3.2)).
 
 ## 4.22.4 Form and order of information
 

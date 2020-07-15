@@ -38,7 +38,7 @@ Example: `In Venetia`
 
 ## 4.221.2 Supplied place of manufacture
 
-<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note on manufacture statement if necessary (see [4.226.4.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.1)
+<a name="4.221.2.1">4.221.2.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note on manufacture statement if necessary (see [4.226.4.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.1)).
 
 Example: `[Ashbourn] : printed at the Office of M. Hoon, Ashbourn`
 
@@ -48,7 +48,7 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 <a name="4.221.3.1">4.221.3.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a note giving the actual place name. Include the source of the actual place name (see [4.226.4.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
 
-<a name="4.221.3.2">4.221.3.2</a>  Alternatively, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.3).
+<a name="4.221.3.2">4.221.3.2</a>  Alternatively, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
 Example: `Cosmopoli [i.e. London]`
 

@@ -98,8 +98,8 @@ Example: `1990 printing`
 
 **Note on manufacture statement:** `Date of impression from title page verso.`
 
-<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.255.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.2). 
+<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.255.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.2)). 
 
-<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.4).
+<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.4)).
 
-<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.5/).
+<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.5/)).

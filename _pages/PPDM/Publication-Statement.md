@@ -34,12 +34,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.20.3.1">4.20.3.1</a> The prescribed sources of information for the publication statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/books/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/books/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the publication statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="4.20.3.2">4.20.3.2</a>  If any part of the publication statement is taken from a source other than the title page, make a note on publication statement (see [4.206.3.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.1)) to indicate the source. 
+<a name="4.20.3.2">4.20.3.2</a> If any part of the publication statement is taken from a source other than the title page, make a note on publication statement (see [4.206.3.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.1)) to indicate the source. 
 
-<a name="4.20.3.3">4.20.3.3</a>Make a note on publication statement about information not transcribed in the publication statement if considered important (see [4.206.3.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.3)).
+<a name="4.20.3.3">4.20.3.3</a> Make a note on publication statement about information not transcribed in the publication statement if considered important (see [4.206.3.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.2)).
+
 ## 4.20.4 Form and order of information
 
-<a name="4.20.4.1">4.20.4.1</a> Transcribe publication information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules (see [Transcription](/DCRMR/books/general-rules/Transcription/)].
+<a name="4.20.4.1">4.20.4.1</a> Transcribe publication information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
 <a name="4.20.4.2">4.20.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note on publication statement indicating the original position of the transposed elements (see [4.206.3.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.3)).
 
@@ -51,7 +52,7 @@ Example: `Lugduni : Apud Seb. Gryphium, 1538`
 
 **Note on Publication Statement:** `Place of publication follows publisher’s name on title page.`
 
-<a name="4.20.4.3">4.20.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)].
+<a name="4.20.4.3">4.20.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
 Example: `London : publish’d Feby. 27th. 1799 by J. Harris, Sweetings Alley, Cornhill, [February 27, 1799]`
 
@@ -66,6 +67,7 @@ Example: `[London] : The Search Publishing Company Ltd., 6 Old Gloucester Street
 <a name="4.20.5.1">4.20.5.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in aquare brackets.  Include the source of this information in a note on publication statement (see [4.206.3.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.4)).  
 
 Example: `Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]`
+
 **Note on publication statement:** `Corrected imprint from: Pia, P. Livres de l'Enfer`
 
 ## 4.20.6 Information covered by labels, etc.
@@ -106,16 +108,17 @@ Example: `Imprinted at London : by Wynkyn de Worde dwellynge in Fletestrete at t
 
 Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657`
 
-<a name="4.20.9.1">4.20.9.1</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
+<a name="4.20.9.2">4.20.9.2</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
 ## 4.20.91 Statements relating to publication, distribution, etc. and to manufacture
 
 <a name="4.20.91.1">4.20.91.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.91.2">4.20.91.2</a>If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) or [manufacture statement]((/DCRMR/books/ppdm/Manufacture-statement/).
+<a name="4.20.91.2">4.20.91.2</a> If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) or [manufacture statement](/DCRMR/books/ppdm/Manufacture-statement/).
 
 <a name="4.20.91.3">4.20.91.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
-London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX
+
+Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
 
 Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
 
@@ -147,7 +150,7 @@ Example: `London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798`
 
 Example: `London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785`
 
-<a name="4.20.92.3">4.20.92.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a distribution or manufacture statement.
+<a name="4.20.92.3">4.20.92.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) or [manufacture statement](/DCRMR/books/ppdm/Manufacture-statement/).
 
 Example: `London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792`
 

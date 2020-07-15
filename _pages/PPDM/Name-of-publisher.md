@@ -54,7 +54,7 @@ Example: `A la librairie de J. Carez, éditeur  ...`
 
 (*Comment*: Full publisher’s name reads: A la librairie de J. Carez, e̓diteur, Rue Haute Feuille, No. 18. Chez Verière, Quai des Augustins, No. 25. Chez Bossange, père, Rue de Richelieu, No. 60)
 
-If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the publisher statement.
+If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the [publication statement](/DCRMR/books/ppdm/Publication-statement/).
 
 Example: `Privately printed`
 
@@ -68,11 +68,11 @@ Example: `Private plate issued exclusively to members of the Bibliophile Society
 
 Example: `Verlag der Vereins-Buchhandlung in Berlin`
 
-Place of Publication: `[Berlin]`
+Place of publication: `[Berlin]`
 
 Example: `Publish'd July 1st, 1790 by J. & J. Boydell, Cheapside & at the Shakespeare Gallery Pall Mall`
 
-Date of Publication: `[July 1, 1790]`
+Date of publication: `[July 1, 1790]`
 
 ## 4.203.5 Publisher statements containing only addresses, signs, or initials
 
@@ -80,21 +80,21 @@ Date of Publication: `[July 1, 1790]`
 
 Example: `Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
 
-**Note on Publication Statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
+**Note on publication statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
 
 Example: `Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square`
 
-**Note on Publication Statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
+**Note on publication statement:** `Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square`
 
 Example: `Printed for M.W. [that is, Matthew Walbancke]`
 
 Example: `Printed by T.H. for I.P. and are to be sold by Richard Thrale, dwelling in Pauls Church-yard at the signe of the Crosse-KeyesExample: `
 
-**Note on Publication Statement:** `Printed by Thomas Harper for John Parker according to STC`
+**Note on publication statement:** `Printed by Thomas Harper for John Parker according to STC`
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.203.5.2">4.203.5.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note on publication statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.203.5.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.2)).
+<a name="4.203.5.2">4.203.5.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note on publication statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.206.5.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.2)).
 
 Example: `[Richard Pynson]`
 
@@ -156,7 +156,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.203.8 Names of publishers in multipart monographs 
 
-<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/books/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/books/ppdm/Publication-statement/) of the later part(s) in a note. See [note on publication statement](/DCRMR/books/ppdm/Note-on-publication-statement/).
+<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/books/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/books/ppdm/Publication-statement/) of the later part(s) in a note on publication statement (see [4.206.5.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.4)).
 
 ## 4.203.9 Supplied and conjectured names of publishers
 

@@ -44,7 +44,7 @@ Example: `anno Dom. 1660`
 
 ## 4.215.4 Transcription involving adjustments or additions
 
-<a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/). Supply the year in arabic numerals in square brackets.
+<a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 Example: `in the year M.DCC.LXXV [1775]`
 
@@ -56,9 +56,9 @@ Alternately, substitute for it the date in arabic numerals in square brackets. I
 
 <a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.2)).
 
-<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on distribution statement (see [4.216.8.3] (/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.3)).
+<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on distribution statement (see [4.216.8.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
-*Alternately*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information (see [4.216.8.3] (/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.3)).
+*Alternately*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information (see [4.216.8.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
 Example: `1689 [i.e.1690]`
 
@@ -70,7 +70,7 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 
 Example: `1661 [i.e. 1662]`
 
-**Note on distribution Statement:** `The year is given according to Lady Day dating`
+**Note on distribution statement:** `The year is given according to Lady Day dating`
 
 (*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 

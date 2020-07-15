@@ -42,11 +42,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 Example: `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
 
-**Note on publication statement:** Date follows place of publication in imprint.`
+**Note on publication statement:** `Date follows place of publication in imprint.`
 
-Example: `Lugduni : Apud Seb. Gryphium, 1538`
+`Lugduni : Apud Seb. Gryphium, 1538`
 
-**Note on Publication Statement:** `Place of publication follows publisher’s name on title page.`
+**Note on publication statement:** `Place of publication follows publisher’s name on title page.`
 
 <a name="4.206.3.4">4.206.3.4</a> Make an explanatory note if all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect (see [4.20.5.1](/DCRMR/books/ppdm/Publication-statement/#4.20.5.1)).
 
@@ -68,7 +68,7 @@ Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Cham
 
 Example: `Londres [i.e. Paris]`
 
-**Note on distribution statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
+**Note on publication statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
 
 <a name="4.206.4.3">4.206.4.3</a> Make a note if no place of publication) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.97.1)).
 
@@ -80,13 +80,13 @@ Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
 
 <a name="4.206.4.5">4.206.4.5</a> Make a note if the reason for supplying the place of publication is not apparent from the rest of the description to indicate the source of the information (see [4.201.99.3](/DCRMR/books/ppdm/Place-of-publication/#4.201.99.3)).
 
-<a name="4.206.4.6">4.206.4.6</a> Make a note if the place of publication appears in more than one language or script and the original position of elements was transposed (see [4.201.955.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.955.1)).
+<a name="4.206.4.6">4.206.4.6</a> Make a note if the place of publication appears in more than one language or script and the original position of elements was transposed (see [4.201.995.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.995.1)).
 
 ## 4.206.5 Notes from Name of publisher
 
 <a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as name of publisher (see [4.203.5.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.5.1)).
 
-<a name="4.206.5.2">4.206.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the name of publisher is based on a device (see [4.203.5.2](/DCRMR/books/ppdm/Name-of-Publisher/#4.203.5.2)).
+<a name="4.206.5.2">4.206.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the name of publisher is based on a device (see [4.203.5.2](/DCRMR/books/ppdm/Name-of-publisher/#4.203.5.2)).
 
 Example: `[Richard Pynson]`
 
@@ -120,7 +120,7 @@ Example: `[Anton Koberger]`
 
 <a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publishers' names are found on a different source as the name of publisher if considered important for identification (see [4.204.3.1](/DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.1)).
 
-<a name="4.206.6.2">4.206.6.2</a> Make a note if the name of the publisher appears in more than one language or script and the original position of elements was transposed (see [4.203.97.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.97.1) and [4.204.3.2](/DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.2))
+<a name="4.206.6.2">4.206.6.2</a> Make a note if the name of the publisher appears in more than one language or script and the original position of elements was transposed (see [4.203.97.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.97.1) and [4.204.3.2](/DCRMR/books/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
 
 ## 4.206.7 Notes from Parallel place of publication
 

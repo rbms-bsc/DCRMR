@@ -54,7 +54,7 @@ Example: `[August 12, 1804]`
 
 ## 4.205.4 Transcription involving adjustments or additions
 
-<a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/). Supply the year in arabic numerals in square brackets.
+<a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 Example: `anno Domini MDCXIV [1614]`
 
