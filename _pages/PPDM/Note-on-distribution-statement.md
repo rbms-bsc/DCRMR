@@ -103,3 +103,39 @@ Example: `Place of publication suggested by Alden`
 ## 4.216.7 Notes from Parallel place of distribution
 
 <a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a parallel place of distributor is from a different source than the place of distributor and is considered important for identification (see [4.212.3.2](/DCRMR/books/ppdm/Parallel-place-of-distributor/#4.212.3.2)) and [4.211.995](/DCRMR/books/ppdm/Place-of-distribution/#4.211.995)).
+
+## 4.216.8 Notes from Date of distribution
+
+<a name="4.216.8.1">4.216.8.1</a> When following the alternative rule in [4.215.4.2](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.2) include a transcription of the original chronogram in a note on distribution statement if considered important (see [4.215.4.2](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.2)).
+
+<a name="4.216.8.2">4.216.8.2</a> When following the alternative rule for very long dates in [4.215.4.3](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.3) make a note on distribution statement concerning the source and the original form of the date of distribution (see [4.215.4.3](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.3)).
+
+<a name="4.216.8.3">4.216.8.3</a>  If the date of distribution is known to be fictitious or incorrect, supply the actual date in a note on distribution statement (see [4.215.4.4](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.4)).
+
+*Alternately*, make a note to indicate the source of the information (see [4.215.4.4](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.4)).
+
+Example: `1689 [i.e.1690]`
+
+**Note on distribution statement:** `"Given at our Court at Dublin-Castle the 28th day of March 1690"`
+
+<a name="4.216.8.4">4.216.8.4</a> If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on distribution statement to indicate the basis for the supplied year (see [4.215.4.5](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.5)).
+
+**Note on distribution statement:** `The year is given according to Lady Day dating`
+
+(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
+
+<a name="4.216.8.5">4.216.8.5</a>  If the date of distribution requires more than a single adjustment or addition, make a note on distribution statement for source of supplied dates (see  [4.215.4.7](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.7)).
+
+a name="4.216.8.6">4.216.8.6</a> If the date of distribution does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on distribution statement (see [4.215.5.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.5.1)).
+
+Example: `MDLII [1552 i.e. 1652]`
+
+**Note on distribution statement:** `Corrected date from Corpus librorum emblematum, Jesuit series.`
+
+<a name="4.216.8.7">4.216.8.7</a> When supplying a conjectural date of distribution based on any information available, indicate the basis for the conjecture in a note on distribution statement (see [4.215.6.1](/DCRMR/books/ppdm/Date-of-distibution/#4.215.6.1)).
+
+<a name="4.216.8.8">4.216.8.8</a> When supplying a probable date or period of distribution according to one of the patterns shown in  [4.215.7.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.7.1), indicate the basis for the conjecture in a note on distribution (see [4.215.7.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.7.1)).
+
+<a name="4.216.8.9">4.216.8.9</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distibution does not correspond to the order of the volume numeration (see [4.215.8.2](/DCRMR/books/ppdm/Date-of-distibution/#4.215.8.2)).
+
+<a name="4.216.8.91">4.206.8.91</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [4.215.9.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.9.1)).
