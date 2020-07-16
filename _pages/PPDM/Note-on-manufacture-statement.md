@@ -44,11 +44,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.226.4 Notes from Place of manufacture
 
-<a name="4.226.4.1">4.226.4.1</a> Make a note on manufacture statement if necessary to justify a supplied place of manufacture (see [4.221.2.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.2.1)).
+<a name="4.226.4.1">4.226.4.1</a> Make a note on manufacture statement if necessary to justify a supplied place of manufacture (see [4.221.4.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.4.1)).
 
-<a name="4.226.4.2">4.226.4.2</a> If the place name as transcribed is known to be fictitious or incorrect, make a note on manufacture giving the actual place name. Include the source of the actual place name (see [4.221.3.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.3.1)).
+<a name="4.226.4.2">4.226.4.2</a> If the place name as transcribed is known to be fictitious or incorrect, make a note on manufacture giving the actual place name. Include the source of the actual place name (see [4.221.5.1](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.5.1)).
 
-<a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.221.3.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.3.2)).
+<a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.5.2)).
 
 Example: `Cosmopoli [i.e. London]`
 
@@ -56,9 +56,9 @@ Example: `Cosmopoli [i.e. London]`
 
 (*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
-<a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [4.221.4.3](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.4.3)).
+<a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [4.221.6.3](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.6.3)).
 
-<a name="4.226.4.5">4.226.4.5</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacutre of the later part(s) in a note. (see [4.221.5.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.5.2)).
+<a name="4.226.4.5">4.226.4.5</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacutre of the later part(s) in a note. (see [4.221.7.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.7.2)).
 
 ## 4.226.5 Notes from Name of manufacturer
 

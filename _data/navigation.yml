@@ -113,9 +113,9 @@ docs:
     url: /ppdm/
     children:
       - title: "Publication statement"
-        url: /DCRMR/books/ppdm/Publication-statement/
+        url: /books/ppdm/Publication-statement/
       - title: "Place of publication"
-        url: /DCRMR/books/ppdm/Place-of-publication/
+        url: /books/ppdm/Place-of-publication/
       - title: "Parallel place of publication"
         url: /books/ppdm/Parallel-place-of-publication/
       - title: "Name of publisher"
@@ -151,7 +151,7 @@ docs:
       - title: "Parallel name of manufacturer"
         url: /books/ppdm/Parallel-name-of-manufacturer/
       - title: "Date of manufacture"
-        url: /books/ppdm/Date-of-manufacture/17:40 2020-07-14
+        url: /books/ppdm/Date-of-manufacture/
       - title: "Note on manufacture statement"
         url: /books/ppdm/Note-on-manufacture-statement/
       - title: "Copyright date"
