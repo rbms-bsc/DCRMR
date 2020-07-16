@@ -2,6 +2,7 @@
 layout: single
 type: docs
 title: Glossary
+permalink: general/glossary/
 permalink: /glossary/
 sidebar:
   nav: "docs"
@@ -10,56 +11,56 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Num](/DCRMR/docs/glossary/Num/)
+[Num](/general/glossary/Num/)
 
-[A](/DCRMR/docs/glossary/Glossary-A/)
+[A](general/glossary/Glossary-A/)
 
-[B](/DCRMR/docs/glossary/Glossary-B/)
+[B](/general/glossary/Glossary-B/)
 
-[C](/DCRMR/docs/glossary/Glossary-C/)
+[C](/general/glossary/C/)
 
-[D](/DCRMR/docs/glossary/Glossary-D/)
+[D](/general/glossary/Glossary-D/)
 
-[E](/DCRMR/docs/glossary/Glossary-E/)
+[E](/general/glossary/Glossary-E/)
 
-[F](/DCRMR/docs/glossary/Glossary-F/)
+[F](/general/glossary/Glossary-F/)
 
-[G](/DCRMR/docs/glossary/Glossary-G/)
+[G](/general/glossary/Glossary-G/)
 
-[H](/DCRMR/docs/glossary/Glossary-H/)
+[H](/general/glossary/Glossary-H/)
 
-[I](/DCRMR/docs/glossary/Glossary-I/)
+[I](/general/glossary/Glossary-I/)
 
-[J](/DCRMR/docs/glossary/Glossary-J/)
+[J](/general/glossary/Glossary-J/)
 
-[K](/DCRMR/docs/glossary/Glossary-K/)
+[K](/general/glossary/Glossary-K/)
 
-[L](/DCRMR/docs/glossary/Glossary-L/)
+[L](/general/glossary/Glossary-L/)
 
-[M](/DCRMR/docs/glossary/Glossary-M/)
+[M](/general/glossary/Glossary-M/)
 
-[N](/DCRMR/docs/glossary/Glossary-N/)
+[N](/general/glossary/Glossary-N/)
 
-[O](/DCRMR/docs/glossary/Glossary-O/)
+[O](/general/glossary/Glossary-O/)
 
-[P](/DCRMR/docs/glossary/Glossary-P/)
+[P](/general/glossary/Glossary-P/)
 
-[Q](/DCRMR/docs/glossary/Glossary-Q/)
+[Q](/general/glossary/Glossary-Q/)
 
-[R](/DCRMR/docs/glossary/Glossary-R/)
+[R](/general/glossary/Glossary-R/)
 
-[S](/DCRMR/docs/glossary/Glossary-S/)
+[S](/general/glossary/Glossary-S/)
 
-[T](/DCRMR/docs/glossary/Glossary-T/)
+[T](/general/glossary/T/)
 
-[U](/DCRMR/docs/glossary/Glossary-U/)
+[U](/general/glossary/Glossary-U/)
 
-[V](/DCRMR/docs/glossary/Glossary-V/)
+[V](/general/glossary/Glossary-V/)
 
-[W](/DCRMR/docs/glossary/Glossary-W/)
+[W](/general/glossary/Glossary-W/)
 
-[X](/DCRMR/docs/glossary/Glossary-X/)
+[X](/general/glossary/Glossary-X/)
 
-[Y](/DCRMR/docs/glossary/Glossary-Y/)
+[Y](/general/glossary/Glossary-Y/)
 
-[Z](/DCRMR/docs/glossary/Glossary-Z/)
+[Z](/general/glossary/Glossary-Z/)
