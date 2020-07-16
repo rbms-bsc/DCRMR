@@ -66,13 +66,13 @@ Example: `to be sold at the signe of the Blacke Beare [by Edward Blount] in Paul
 
 ## 4.213.7 Two or more names of distributors
 
-<a name="4.213.7.1">4.213.7.1</a> If the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) includes more than one distributor, in a single source, transcribe all the names in the order in which they appear.
+<a name="4.213.7.1">4.213.7.1</a> If the [distribution statement](/DCRMR/books/ppdm/distribution-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
 
 <a name="4.213.7.2">4.213.7.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [distribution statement](/DCRMR/docs/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers (or firms) in the supplied phrase.
 
 Example: `sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]`
 
-<a name="4.213.7.3">4.213.7.3</a> If the name of a distributor associated with an earlier edition appears together with the name of the actual distributor of the edition being described, transcribe the names as a single element in the order in which they appear.
+<a name="4.213.7.3">4.213.7.3</a> If both the place and distributor associated with an earlier edition appear together with the place and publisher of the edition being described, transcribe each distributor with the place to which it corresponds.
 
 Example: `Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard`
 

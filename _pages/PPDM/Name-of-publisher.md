@@ -118,7 +118,7 @@ Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
 ## 4.203.7 Two or more names of publishers
 
-<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/books/ppdm/Publication-statement/) includes more than one publisher,  in a single source, transcribe all the names in the order in which they appear. Transcribe them as subsequent [publication statements](/DCRMR/books/ppdm/Publication-statement/) only when they are not linked by connecting words or phrases.
+<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/books/ppdm/publication-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
 
 Example: `United States Food Administration`
 
@@ -136,7 +136,7 @@ Example: `Longman, Brown, Green, and Longmans`
 
 Example: `Bey Johan Waesberge, und der Witwe Elizaei Weyerstraet`
 
-<a name="4.203.7.2">4.203.7.2</a>  Optionally, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [publication statement](/DCRMR/books/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
+<a name="4.203.7.2">4.203.7.2</a>  *Optionally,* if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [publication statement](/DCRMR/books/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
 
 Example: `Oliver Ditson & Co., C.H. Ditson & Co., Lyon & Healy [and 4 others]`
 

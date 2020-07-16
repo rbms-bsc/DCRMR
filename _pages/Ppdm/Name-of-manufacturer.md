@@ -106,7 +106,7 @@ Example: `printed by James Robertson [i.e. William A. Rind]`
 
 ## 4.223.7 Two or more names of manufacturers
 
-<a name="4.223.7.1">4.223.7.1</a> If more than one agent is named as manufacturer, records the manufacturers’ names in the order indicated by the sequence, layout, or typography of the names on the source of information. 
+<a name="4.223.7.1">4.223.7.1</a> If the manufacturer statement includes more than one manufacturer in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of manufacture only when they are not linked by connecting words or phrases.
 
 Example: `Lovejoy, Son & Co., electrotypers & stereotypers, 15 Vandewate Street, N.Y.S.W. ; Green, printer and stereotyper, 16 and 18 Jacob Street, New-York`
 
