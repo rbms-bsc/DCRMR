@@ -186,7 +186,7 @@ Example: `M.DC.XXV [1625, i.e. 1626]`
 
 Example: `[1864]`
 
-**Note on Publication Statement:** `Publication date from LC Civil War maps (2nd ed.)`
+**Note on publication statement:** `Publication date from LC Civil War maps (2nd ed.)`
 
 (*Comment:* A separate note is used to provide a full citation for the reference to the published description.
 
