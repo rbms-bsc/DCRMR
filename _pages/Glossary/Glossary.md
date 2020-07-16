@@ -3,7 +3,6 @@ layout: single
 type: docs
 title: Glossary
 permalink: general/glossary/
-permalink: /glossary/
 sidebar:
   nav: "docs"
 ---
@@ -11,56 +10,56 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Num](/general/glossary/Num/)
+[Num](/DCRMR/general/glossary/Num/)
 
-[A](general/glossary/Glossary-A/)
+[A](/DCRMR/general/glossary/A/)
 
-[B](/general/glossary/Glossary-B/)
+[B](/DCRMR/general/glossary/B/)
 
-[C](/general/glossary/C/)
+[C](/DCRMR/general/glossary/C/)
 
-[D](/general/glossary/Glossary-D/)
+[D](/DCRMR/general/glossary/D/)
 
-[E](/general/glossary/Glossary-E/)
+[E](/DCRMR/general/glossary/E/)
 
-[F](/general/glossary/Glossary-F/)
+[F](/DCRMR/general/glossary/F/)
 
-[G](/general/glossary/Glossary-G/)
+[G](/DCRMR/general/glossary/G/)
 
-[H](/general/glossary/Glossary-H/)
+[H](/DCRMR/general/glossary/H/)
 
-[I](/general/glossary/Glossary-I/)
+[I](/DCRMR/general/glossary/I/)
 
-[J](/general/glossary/Glossary-J/)
+[J](/DCRMR/general/glossary/J/)
 
-[K](/general/glossary/Glossary-K/)
+[K](/DCRMR/general/glossary/K/)
 
-[L](/general/glossary/Glossary-L/)
+[L](/DCRMR/general/glossary/L/)
 
-[M](/general/glossary/Glossary-M/)
+[M](/DCRMR/general/glossary/M/)
 
-[N](/general/glossary/Glossary-N/)
+[N](/DCRMR/general/glossary/N/)
 
-[O](/general/glossary/Glossary-O/)
+[O](/DCRMR/general/glossary/O/)
 
-[P](/general/glossary/Glossary-P/)
+[P](/DCRMR/general/glossary/P/)
 
-[Q](/general/glossary/Glossary-Q/)
+[Q](/DCRMR/general/glossary/Q/)
 
-[R](/general/glossary/Glossary-R/)
+[R](/DCRMR/general/glossary/R/)
 
-[S](/general/glossary/Glossary-S/)
+[S](/DCRMR/general/glossary/S/)
 
-[T](/general/glossary/T/)
+[T](/DCRMR/general/glossary/T/)
 
-[U](/general/glossary/Glossary-U/)
+[U](/DCRMR/general/glossary/U/)
 
-[V](/general/glossary/Glossary-V/)
+[V](/DCRMR/general/glossary/V/)
 
-[W](/general/glossary/Glossary-W/)
+[W](/DCRMR/general/glossary/W/)
 
-[X](/general/glossary/Glossary-X/)
+[X](/DCRMR/general/glossary/X/)
 
-[Y](/general/glossary/Glossary-Y/)
+[Y](/DCRMR/general/glossary/Y/)
 
-[Z](/general/glossary/Glossary-Z/)
+[Z](/DCRMR/general/glossary/Z/)
