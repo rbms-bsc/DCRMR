@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Related manifestation of RDA entity
-permalink: books/other-notes/Related-manifestation-of-RDA-entity
+permalink: books/other-notes/Related-manifestation-of-RDA-entity/
 sidebar:
   nav: "docs"
 ---
