@@ -116,7 +116,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.211.9 Places of distribution in multipart monographs
 
-<a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a note on distribution statement (see [4.216.9.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.211.9.1)).
+<a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a note on distribution statement (see [4.216.4.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.4.1)).
 
 Example: `Stuttgart ; Tübingen`
 

@@ -76,11 +76,11 @@ Example: `[Robert Bryson]`
 
 <a name="4.226.5.4">4.226.5.4</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part and the name or form of name of the manufacturer changes in the course of issue, transcribe the manufacturer statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.223.8.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.8.1)).
 
-<a name="4.226.5.5">4.226.5.5</a> Make a note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer give supporting evidence in a note (see [4.223.9.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.4.223.9.1)).
+<a name="4.226.5.5">4.226.5.5</a> Make a note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer give supporting evidence in a note (see [4.223.9.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.9.1)).
 
 ## 4.226.6 Notes from Parallel name of manufacturer
 
-<a name="4.226.6.1">4.226.6.1</a> Make a note if parallel manufacturers' names are found on a different source as the name of manufacture if considered important for identification (see [4.224.3.1](DCRMR/books/ppdm/Parallel-name-of-manufacturer/#4.224.3.1)).
+<a name="4.226.6.1">4.226.6.1</a> Make a note if parallel manufacturers' names are found on a different source as the name of manufacture if considered important for identification (see [4.224.3.1](/DCRMR/books/ppdm/Parallel-name-of-manufacturer/#4.224.3.1)).
 
 <a name="4.226.6.2">4.226.6.2</a> Make a note if the name of the manufacturer appears in more than one language or script and the original position of elements was transposed (see [4.224.3.2](/DCRMR/books/ppdm/Parallel-name-of-manufacturer/#4.224.3.2)).
 
@@ -90,7 +90,7 @@ Example: `[Robert Bryson]`
 
 ## 4.226.8 Notes from Date of manufacture
 
-<a name="4.226.8.1">4.226.8.1</a> Supply a note on manufacture statement when creating a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see [4.225.4.1](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.1)).
+<a name="4.226.8.1">4.226.8.1</a> Supply a note on manufacture statement when creating a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see [4.225.4.1](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.1)).
 
 Example: `1990 printing`
 
@@ -98,8 +98,8 @@ Example: `1990 printing`
 
 **Note on manufacture statement:** `Date of impression from title page verso.`
 
-<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.255.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.2)). 
+<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.225.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.2)). 
 
-<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/books/ppdm/Date-of-manufacture/#4.255.4.4)).
+<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.4)).
 
-<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.5/)).
+<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.5)).

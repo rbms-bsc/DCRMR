@@ -11,7 +11,7 @@ sidebar:
 ## Process for Gathering Public Review Comments.
 Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
 
-[Link to Google Document](https://docs.google.com/document/d/1I0Wsga2hzMz6b3moEAvYCp7CZUxgDXMgKeJ94h1LPk0/edit#heading=h.qxw84t7xp9dy){:target="_blank"}
+[Link to Google Document](https://docs.google.com/document/d/1IPC7rc87zw-j4q3fb7WSY82wm4PA5WR4tPf7biD92hY/edit){:target="_blank"}
 
 [Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
@@ -62,7 +62,7 @@ Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Cham
 
 ## 4.206.4 Notes from Place of publication
 
-<a name="4.206.4.1">4.206.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication by giving the place of publication of the later part(s) in a note. (see [4.201.9.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.201.9.1)).
+<a name="4.206.4.1">4.206.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication by giving the place of publication of the later part(s) in a note. (see [4.201.9.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.9.1)).
 
 <a name="4.206.4.2">4.206.4.2</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.201.96.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.96.1)).
 
@@ -106,7 +106,7 @@ Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
 (*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the publication statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.230.8.1](/books/ppdm/Name-of-publisher/#4.203.8.1)).
+<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the publication statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.230.8.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.8.1)).
 
 <a name="4.206.5.5">4.206.5.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied publisher give supporting evidence in a note (see [4.203.9.1](/DCRMR/books/ppdm/Name-of-publisher/#4.203.9.1)).
 

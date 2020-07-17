@@ -94,4 +94,4 @@ Example: `Printed at London, and re-printed at Edinburgh`
 
 <a name="4.221.7.1">4.221.7.1</a> For multipart monographs, always record a change in place of manufacture.
 
-<a name="4.221.7.2">4.206.7.2</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a note on manufacture statement (see [4.226.4.5](/DCRMR/books/ppdm/Note-on-manufacturen-statement/#4.226.4.5)).
+<a name="4.221.7.2">4.206.7.2</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a note on manufacture statement (see [4.226.4.5](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.5)).

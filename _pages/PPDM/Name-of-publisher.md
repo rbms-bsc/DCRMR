@@ -102,7 +102,7 @@ Example: `[Richard Pynson]`
 
 ## 4.203.6 Fictitious or incorrect publisher statements 
 
-<a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note on publication statement (see [4.203.6.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.203.6.1)).
+<a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the note on publication statement (see [4.206.5.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.3)).
 
 Example: `Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]`
 
@@ -118,7 +118,7 @@ Example: `bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]`
 
 ## 4.203.7 Two or more names of publishers
 
-<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/books/ppdm/publication-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
+<a name="4.203.7.1">4.203.7.1</a>  If the [publication statement](/DCRMR/books/ppdm/Publication-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
 
 Example: `United States Food Administration`
 
@@ -156,7 +156,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 ## 4.203.8 Names of publishers in multipart monographs 
 
-<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/books/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/books/ppdm/Publication-statement/) of the later part(s) in a note on publication statement (see [4.206.5.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.4)).
+<a name="4.203.8.1">4.203.8.1</a>  If the manifestation is issued in more than one physical part and the name or form of name of the publisher changes in the course of publication, transcribe the [publication statement](/DCRMR/books/ppdm/Publication-statement/) of the first or earliest part and give the [publication statement](/DCRMR/books/ppdm/Publication-statement/) of the later part(s) in a note on publication statement (see [4.206.5.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.5.4)).
 
 ## 4.203.9 Supplied and conjectured names of publishers
 
@@ -164,7 +164,7 @@ Example: `London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Ma
 
 Example: `[Anton Koberger]`
 
-**Note on Publication Statement**: `Imprint from Goff.`
+**Note on publication statement**: `Imprint from Goff.`
 
 (*Comment*: The formal citation for Goff is given in a References to published descriptions note)
 

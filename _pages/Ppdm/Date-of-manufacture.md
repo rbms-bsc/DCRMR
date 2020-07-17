@@ -50,6 +50,6 @@ Example: `June 17, 1799`
 
 Example: `, 1956 (1959 [impression])`
 
-<a name="4.225.4.4">4.225.4.4</a> If the date of impression is known from a source outside the manifestation, supply it in square brackets. Give the source of the date of manufacture in a note (see [4.226.8.3](/DCRMR/books/ppdm/Date-of-manufacture/#4.226.8.3)).
+<a name="4.225.4.4">4.225.4.4</a> If the date of impression is known from a source outside the manifestation, supply it in square brackets. Give the source of the date of manufacture in a note (see [4.226.8.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.8.3)).
 
 <a name="4.225.4.5">4.225.4.5</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, supply it as a correction within square brackets. Give the source of the date of manufacture in a note (see [4.226.8.4](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.8.4)).

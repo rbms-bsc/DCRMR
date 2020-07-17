@@ -80,7 +80,7 @@ Example:  `[1650]`
 
 **Note on publication statement:** `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
 
-<a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note on publication statement concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/books/ppdm/Date-of-publication-statement/#4.206.8.2)).
+<a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note on publication statement concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
 Example: `[18 May 1507]`
 
@@ -177,7 +177,7 @@ Example: `[1864]`
 
 <a name="4.205.6.1">4.205.6.1</a> Supply in square brackets a conjectural date of publication based on any information available. Indicate the basis for the conjecture in a note on publication statement (see [4.206.8.7](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.7)).
 
-<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the title or the statement of responsibility elements or give it in a note. See [note on manifestation](/DCRMR/docs/other-notes/Note-on-manifestation/).
+<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the title or the statement of responsibility elements or give it in a [note on manifestation](/DCRMR/books/other-notes/Note-on-manifestation/).
 
 Example: `[1814?]`
 

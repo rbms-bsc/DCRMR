@@ -10,7 +10,7 @@ sidebar:
 ## Process for Gathering Public Review Comments.
 Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
 
-[Link to Google Document](https://docs.google.com/document/d/1HBKF6JQMSPq-U9_OQM_9FPkMDpIhmQkX1JE_iqs8vfw/edit#heading=h.rkgo3gie23qj){:target="_blank"}
+[Link to Google Document](https://docs.google.com/document/d/1HBKF6JQMSPq-U9_OQM_9FPkMDpIhmQkX1JE_iqs8vfw/edit){:target="_blank"}
 
 [Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
@@ -64,7 +64,7 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 ## 4.223.5 Name of manufacturer containing only addresses, signs, or initials
 
-<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a note on manufacture statement (see [4.226.5.1](DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
+<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a note on manufacture statement (see [4.226.5.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
 
 Example: `[Cuchet] Rue et Hôtel serpente`
 
