@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 7.223.4 References to published descriptions
 
-<a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/)
+<a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/).
 
 <a name="7.223.4.2">7.223.4.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
