@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Manifestation described in
-permalink: docs/other-notes/Manifestation-described-in/
+permalink: books/other-notes/Manifestation-described-in/
 sidebar:
   nav: "docs"
 ---
