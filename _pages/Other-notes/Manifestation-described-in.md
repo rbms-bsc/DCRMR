@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="7.223.3.1">7.223.3.1</a> Take information for this element from any source.
 
-## [7].[223].4 References to published descriptions
+## 7.223.4 References to published descriptions
 
 <a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/)
 
