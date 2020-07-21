@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Language and script of the description
-permalink: docs/general-rules/Language-and-script-of-the-description/
+permalink: books/general-rules/Language-and-script-of-the-description/
 sidebar:
   nav: "docs"
 ---
@@ -32,28 +32,30 @@ Please use the comment feature in the Google Document or the Google Form linked 
 + Manufacture statement
 + Series statement
 
-<a name="0.4.1.2">0.4.1.2</a> For guidance on transcribing pre-modern letterforms and symbols, see [0.5.10](/DCRMR/books/General-Rules/Transcription/#0.5.10).
+<a name="0.4.1.2">0.4.1.2</a> For guidance on transcribing pre-modern letterforms and symbols, see [0.5.10](/DCRMR/books/general-rules/Transcription/#0.5.10).
 
 For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see LC-PCC PS 1.4.
 
-<a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., 1E5, 4B5, 4B6.2, 4C6.2). If the other information in the element is romanized, give interpolations according to the same romanization.
+<a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.X.X](/DCRMR/books/sor/Statement-of-responsibility//#2.20.X.X), [4.201.7.1](/DCRMR/books/ppdm/Place-of-publication/#4.201.7.1), [4.201.8.2](/DCRMR/books/ppdm/Place-of-publication/#4.201.8.2), [4.203.7.2](/DCRMR/books/ppdm/Name-of-publisher/#4.203.7.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
 <a name="0.4.1.4">0.4.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
 
 ## 0.4.2 Romanization
 
-<a name="0.4.2.1">0.4.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the *ALA-LC Romanization Tables*. Do not enclose the romanized text within square brackets. Make a note on manifestation to indicate that the romanized text appears in nonroman script (see [7.20.X](/DCRMR/books/Other-notes/Note-on-manifestation/#7.20.X)).
+<a name="0.4.2.1">0.4.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [*ALA-LC Romanization Tables*](https://www.loc.gov/catdir/cpso/roman.html). Do not enclose the romanized text within square brackets. Make a note on manifestation to indicate that the romanized text appears in nonroman script (see [7.20.X.X](/DCRMR/books/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 Example: `Source: ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις`
+
 `Transcription: Dionysiou oikoumenēs periēgēsis`
 
 **Note on manifestation:** `Title in Greek script`
 
 Example: `Source: Hendecasyllabωn`
+
 `Transcription: Hendecasyllabōn`
 
 **Note on manifestation:** `In the title, the ō in Hendecasyllabōn is printed in Greek script`
 
-<a name="0.4.2.2">0.4.2.2</a> *Optionally,* if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the *ALA-LC Romanization Tables*. Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
+<a name="0.4.2.2">0.4.2.2</a> *Optionally,* if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [*ALA-LC Romanization Tables*](https://www.loc.gov/catdir/cpso/roman.html). Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
 
 **Note on manifestation:** `Romanization supplied by cataloger`
