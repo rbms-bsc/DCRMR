@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Name of preliminary featured on the page
-permalink: books/chapter-name/Name-of-preliminary-featured-on-the-page/
+title: Details of font size
+permalink: books/Physical-Description/Details-of-font-size/
 sidebar:
   nav: "docs"
 ---
