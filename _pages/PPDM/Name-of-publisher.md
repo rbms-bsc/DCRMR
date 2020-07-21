@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.203.1.1">4.203.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-8fb9e501-1ef9-3b1f-9afa-078737576947){:target="_blank"}
 
-<a name="4.203.1.2">4.203.1.2</a> [Source of information](/DCRMR/ppdm/#4.2.2)
+<a name="4.203.1.2">4.203.1.2</a> [Source of information](/DCRMR/ppdm/#42-sources-of-information)
 
 ## 4.203.2 Definition and scope
 
