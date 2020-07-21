@@ -3,6 +3,9 @@ layout: single
 type: docs
 title: Related manifestation of RDA entity
 permalink: books/other-notes/Related-manifestation-of-RDA-entity/
+permalink: books/other-notes/Reprint-of-manifestation-of/
+permalink: books/other-notes/Accompanied-by-manifestation/
+permalink: books/other-notes/Reprint-of-(manifestation)/
 sidebar:
   nav: "docs"
 ---
