@@ -20,7 +20,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 1. TOC
 {:toc}
 
-## [V].1 [RDA Definition and Scope]
+## [5.2242].1 [Element information]
 
 <a name="[roman#].1.1">[roman#].1.1</a> [Beginning of first section preliminary text] (see [chapter#.entity#.section#.instruction#](/DCRMR/books/chapter-name/Name-of-entity-featured-on-the-page/#chapter#.entity#.section#.instruction#)).
 
