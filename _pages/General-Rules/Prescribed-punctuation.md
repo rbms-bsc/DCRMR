@@ -19,7 +19,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 1. TOC
 {:toc}
-The PCC has issued guidelines for minimally punctuated records, effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation:
+The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation:
 
 <a name="0.3.1">0.3.1</a> Precede each mark of prescribed punctuation by a space and follow it by a space, with the following exceptions: the comma, period, closing parenthesis, and closing square bracket are not preceded by a space; the opening parenthesis and opening square bracket are not followed by a space.
 
