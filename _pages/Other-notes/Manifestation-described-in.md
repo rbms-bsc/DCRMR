@@ -40,7 +40,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 Example: 
 >`English short title catalogue, T60996`
->>**Note on publication statement:** Publication date from BAL  
+>>**Note on publication statement:** `Publication date from BAL` 
 >>>(*Comment:* A publication in quarto)
 
 Example: 
