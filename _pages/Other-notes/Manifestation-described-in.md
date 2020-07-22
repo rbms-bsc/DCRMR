@@ -39,19 +39,15 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="7.223.4.2">7.223.4.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
 >Example: 
-
 >`English short title catalogue, T60996`
     
 >Example: 
-
 >`Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269`
-    
+>    
 >Example: 
-
 >`Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277`
-
+>
 >Example: 
-
 >`Detailed description of plates in: Abbey, J.R. Travel, 23`
 
 <a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source, 
