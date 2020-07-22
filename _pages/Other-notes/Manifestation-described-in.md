@@ -42,10 +42,13 @@ Example:
 >`English short title catalogue, T60996`
 >>**Note on publication statement:** Publication date from BAL  
 >>>(*Comment:* A publication in quarto)
+
 Example: 
 >`Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269`
+
 Example: 
 >`Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277`
+
 Example: 
 >`Detailed description of plates in: Abbey, J.R. Travel, 23`
 
