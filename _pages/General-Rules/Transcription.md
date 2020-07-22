@@ -60,6 +60,8 @@ If the letter occurs within the first five words of the title proper (the first 
 
 ## 0.5.2 Punctuation
 
+Lorem ipsum
+
 ## 0.5.3 Diacritical marks
 
 ## 0.5.4 Symbols
