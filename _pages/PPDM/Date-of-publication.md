@@ -86,7 +86,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >>Note on publiction statement: `Date of publication derived from chronogram in statement of responsibility`&nbsp;  
 >>(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")
 
-&nbsp;
+---
 >Example:&nbsp;  
 >`[1650]`
 >>Note on publication statement: `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
@@ -106,12 +106,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:&nbsp;  
 > `Octr. 42 [i.e. 24], 1799`
 
-&nbsp;
+---
 >Example:&nbsp;  
 > `1887 [i.e. 1899]`
 >> Note on publication statement: `Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899`
 
-&nbsp;
+---
 >Example:&nbsp;  
 >`1786 [i.e. 1788]`
 >> Note on publication statement: `Dedication and preface both dated 1788`
@@ -125,7 +125,7 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 >> Note on publication statement: `The year is given according to Lady Day dating`
 >>(*Comment:* "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
-&nbsp; 
+---
 >Example:&nbsp; 
 >`Februar. 8. anno 1588 [i.e. 1589]`
 >>Note on publication statement: `The year is given according to Lady Day dating`
@@ -144,7 +144,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >`627 [1866 or 1867]`
 >>(*Comment:* Year follows Hebrew calendar)
 
-&nbsp; 
+---
 >Example:&nbsp;  
 >`an VII [1798 or 1799]`
 >>(*Comment:* Year follows French Revolutionary calendar)
@@ -155,12 +155,12 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >`prid. Kal. Dec. [30 Nov.] 1488`
 >>(*Comment*: Day and month follow Roman-style calendar)
 
-&nbsp; 
+---
 >Example:&nbsp;  
 >`anno salutis 1501 ultimo Kal[endi]s Decembris [12 Nov.]`
 >>(*Comment*: Day and month follow Roman-style calendar)
 
-&nbsp; 
+--- 
 >Example:&nbsp;  
 >`publié le 9 thermidor l'an 2e de la Rép. f. [27 July 1794]`
 >>(*Comment*: Date follows French Revolutionary calendar)
@@ -172,12 +172,12 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >>Note on publication statement: `Corrected imprint date from Wing`
 >>(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
 
-&nbsp; 
+---
 >Example:&nbsp; 
 >`anno Domini MCCCCCXXIX [1529, i.e. 1539]`
 >>Note on publication statement: `Place of publication and name of printer from colophon, which gives 1539 as the date of printing`
 
-&nbsp; 
+---
 >Example:&nbsp; 
 >`M.DC.XXV [1625, i.e. 1626]`
 >>Note on publication statement: `The year is given according to Lady Day dating`
@@ -202,12 +202,12 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >>Note on manifestation: `At head of title: December 25, 1814`
 >>(*Comment:* Date at head of title is the date of the proclamation, not the date of publication)
 
-&nbsp; 
+---
 >Example:&nbsp; 
 >`[1776]`
 >>(*Comment:* The title includes the date “Ad d. XVIII. Octobris MDCCLXXVI” when the thesis was publicly defended by the author)
 
-&nbsp;
+---
 >Example:&nbsp;
 >`[1879?]`
 >>Note on manifestation: `At head of title: Revised in accordance with the Treaty of Berlin, 1878`
