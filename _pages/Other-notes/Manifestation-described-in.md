@@ -48,15 +48,16 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > **Note on publication statement:** `Publication date from BAL`&nbsp;  
 >>(*Comment:* A publication in quarto)
 
+&nbsp;
 >Example three:&nbsp;  
 >`Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277`  
 >>Note on publication statement: `Publication date from BAL`&nbsp;  
 >>(*Comment:* A publication in quarto)
 
+&nbsp;  
 >Example four:&nbsp;  
->`Detailed description of plates in: Abbey, J.R. Travel, 23`
->**Note on publication statement:** `Publication date from BAL` 
->>(*Comment:* A publication in quarto)
+>>`Detailed description of plates in: Abbey, J.R. Travel, 23`
+>>  Note on publication statement: `Publication date from BAL` 
+>>>(*Comment:* A publication in quarto)
 
-<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source, 
-(see Note on RDA entity [7.23.4.1](/DCRMR/books/other-notes/Note-on-RDA-entity/#7.23.4.1)).
+<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source, see Note on RDA entity [7.23.4.1](/DCRMR/books/other-notes/Note-on-RDA-entity/#7.23.4.1).
