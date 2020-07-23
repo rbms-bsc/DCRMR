@@ -107,12 +107,17 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 0.7em 0.7em 0.7em 0;
-  padding-left: 0.7em;
+  margin: 0em 0em 0em 0;
+  margin-bottom: 0em;
+  margin-top: 0em;
+  line-height: 1;
+  padding-top: 0em;
   padding-right: 0em;
+  padding-bottom: 0em;
+  padding-left: .5em;
   font-style: monospace;
   border-left: 0em solid $text-color;
-
+  font-size: 20px;
   cite {
     font-style: monospace;
 
