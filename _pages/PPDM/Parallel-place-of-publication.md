@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.202.3.2">4.202.3.2</a> Transcribe remaining places of publication as parallel places of publication.  If a parallel place of publication is from a different source than the [place of publication](/DCRMR/books/ppdm/Place-of-publication/), make a note on publication statement if considered important for identification (see [4.206.7.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.7.1)).
 
-<a name="4.202.3.3">4.202.3.3</a> *Optionally,* If the parallel places of publication are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of publication after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+<a name="4.202.3.3">4.202.3.3</a> *Optionally,* if the parallel places of publication are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of publication after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
 
 
 
