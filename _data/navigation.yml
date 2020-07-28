@@ -160,48 +160,48 @@ docs:
         url: /books/ppdm/Note-on-copyright-date/
         
   - title: "Chapter 5. Physical Description"
-    url: /physical-description/
+    url: /phys-desc/
     children:
       - title: "Extent of manifestation"
-        url: /books/physical-description/Extent-of-manifestation/
+        url: /books/phys-desc/Extent-of-manifestation/
       - title: "Note on extent of manifestation"
-        url: /books/physical-description/Note-on-extent-of-manifestation/
+        url: /books/phys-desc/Note-on-extent-of-manifestation/
       - title: "Illustrative content"
-        url: /books/physical-description/Illustrative-content/
+        url: /books/phys-desc/Illustrative-content/
       - title: "Details of illustrative content"
-        url: /books/physical-description/Details-of-illustrative-content/
+        url: /books/phys-desc/Details-of-illustrative-content/
       - title: "Color content"
-        url: /books/physical-description/Color-content/
+        url: /books/phys-desc/Color-content/
       - title: "Details of color content"
-        url: /books/physical-description/Details-of-color-content/
+        url: /books/phys-desc/Details-of-color-content/
       - title: "Dimensions"
-        url: /books/physical-description/Dimensions/
+        url: /books/phys-desc/Dimensions/
       - title: "Details of base material"
-        url: /books/physical-description/Details-of-base-material/
+        url: /books/phys-desc/Details-of-base-material/
       - title: "Production method"
-        url: /books/physical-description/Production-method/
+        url: /books/phys-desc/Production-method/
       - title: "Details of production method"
-        url: /books/physical-description/Details-of-production-method/
+        url: /books/phys-desc/Details-of-production-method/
       - title: "Details of layout"
-        url: /books/physical-description/Details-of-layout/
+        url: /books/phys-desc/Details-of-layout/
       - title: "Bibliographic format"
-        url: /books/physical-description/Bibliographic-format/
+        url: /books/phys-desc/Bibliographic-format/
       - title: "Details of bibliographic format"
-        url: /books/physical-description/Details-of-bibliographic-format/
+        url: /books/phys-desc/Details-of-bibliographic-format/
       - title: "Font size"
-        url: /books/physical-description/Font-size/
+        url: /books/phys-desc/Font-size/
       - title: "Details of font size"
-        url: /books/physical-description/Details-of-font-size/
+        url: /books/phys-desc/Details-of-font-size/
       - title: "Type of binding"
-        url: /books/physical-description/Type-of-binding/
+        url: /books/phys-desc/Type-of-binding/
       - title: "Content type"
-        url: /books/physical-description/Content-type/
+        url: /books/phys-desc/Content-type/
       - title: "Media type"
-        url: /books/physical-description/Media-type/
+        url: /books/phys-desc/Media-type/
       - title: "Carrier type"
-        url: /books/physical-description/Carrier-type/
+        url: /books/phys-desc/Carrier-type/
       - title: "Note on carrier"
-        url: /books/physical-description/Note-on-carrier/
+        url: /books/phys-desc/Note-on-carrier/
         
   - title: "Chapter 6. Series"
     url: /series/

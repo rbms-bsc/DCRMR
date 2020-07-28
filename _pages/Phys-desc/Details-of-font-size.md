@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Details of font size
-permalink: books/Physical-Description/Details-of-font-size/
+permalink: books/phys-desc/Details-of-font-size/
 sidebar:
   nav: "docs"
 ---
