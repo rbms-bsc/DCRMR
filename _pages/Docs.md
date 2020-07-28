@@ -24,7 +24,7 @@ sidebar:
 
 [Chapter 4. Production Publication Distribution Manufacture](/DCRMR/ppdm/)
 
-[Chapter 5. Physical Description](/DCRMR/physical-description/)
+[Chapter 5. Physical Description](/DCRMR/phys-desc/)
 
 [Chapter 6. Series](/DCRMR/series/)
 
