@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Integrity of the copy
-permalink: books/chapter-name/Integrity-of-the-copy/
+permalink: books/introduction/Integrity-of-the-copy/
 sidebar:
   nav: "docs"
 ---
