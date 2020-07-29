@@ -42,7 +42,7 @@ Example: `sold at wholesale by Horace Partridge, importer, wholesale and retail 
 
 Example: `Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall`
 
-*Optionally*, omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
+*Optionally,* omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
 
 Example: `sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...`
 
@@ -68,7 +68,7 @@ Example: `to be sold at the signe of the Blacke Beare [by Edward Blount] in Paul
 
 <a name="4.213.7.1">4.213.7.1</a> If the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
 
-<a name="4.213.7.2">4.213.7.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers (or firms) in the supplied phrase.
+<a name="4.213.7.2">4.213.7.2</a> *Optionally,* if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers (or firms) in the supplied phrase.
 
 Example: `sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]`
 

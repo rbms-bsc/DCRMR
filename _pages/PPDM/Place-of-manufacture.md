@@ -38,7 +38,7 @@ Example: `In Venetia`
 
 <a name="4.221.3.2">4.221.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](/DCRMR/books/ppdm/Name-of-manufacturer/).
 
-<a name="4.221.3.3">4.221.3.3</a> Optionally, omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
+<a name="4.221.3.3">4.221.3.3</a> *Optionally,* omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 ## 4.221.4 Supplied place of manufacture
 
@@ -52,7 +52,7 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 <a name="4.221.5.1">4.221.5.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a note giving the actual place name. Include the source of the actual place name (see [4.226.4.2](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
 
-<a name="4.221.5.2">4.221.5.2</a>  Alternatively, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
+<a name="4.221.5.2">4.221.5.2</a>  *Alternative rule:* if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
 Example: `Cosmopoli [i.e. London]`
 
@@ -60,7 +60,7 @@ Example: `Cosmopoli [i.e. London]`
 
 (*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
-<a name="4.221.5.3">4.221.5.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
+<a name="4.221.5.3">4.221.5.3</a> *Optionally,* if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 
 Example: `Lugduni [Lyon]`
 

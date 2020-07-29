@@ -77,7 +77,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`M.D.CC.XLIV [1744]`
 
-<a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. Optionally, include the date in Roman numerals in square brackets.
+<a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
 >Example:  
 >`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii`
@@ -158,7 +158,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >`an VII [1798 or 1799]`  
 >(*Comment:* Year follows French Revolutionary calendar)
 
-*Optionally*, if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
+*Optionally,* if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 >>Example:  
 >`prid. Kal. Dec. [30 Nov.] 1488`  

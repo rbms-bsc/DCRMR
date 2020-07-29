@@ -94,7 +94,7 @@ Example: `[Robert Bryson]`
 
 <a name="4.223.6.1">4.223.6.1</a>  If the name as transcribed is known to be fictitious, or requires clarification, make a note on manufacture statement giving the actual name. Include the source of the actual name (see [4.226.5.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
-<a name="4.223.6.2">4.223.6.2</a> *Alternatively*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.5.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
+<a name="4.223.6.2">4.223.6.2</a> *Alternative rule:* if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.5.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
 Example: `printed by Edes & Gill, for Buckley [i.e., Bulkeley] Emerson, of Newbury-Port`
 

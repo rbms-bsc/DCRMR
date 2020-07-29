@@ -50,7 +50,7 @@ Example: `in the year M.DCC.LXXV [1775]`
 
 Example: `anno MDCLXXXVII [1687]`
 
-<a name="4.215.4.2">4.215.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. Optionally, include the date in Roman numerals in square brackets.
+<a name="4.215.4.2">4.215.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
 Alternately, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note on distribtuion if considered important (see [4.216.8.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.1)).
 
@@ -84,7 +84,7 @@ Example: `An III [1794 or 1795]`
 
 (*Comment:* Date of imprint follows French Revolutionary calendar)
 
-*Optionally*, if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
+*Optionally,* if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 Example: `die visitationis Beatae Virginis Mariae [July 2] 1497`
 
