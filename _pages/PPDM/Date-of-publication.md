@@ -35,9 +35,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`7th July 1766`
 
+---
 >Example:  
 >`1732, reprinted 1734`
 
+---
 >Example:  
 >`MDCCXXXIII [1733]`
 
@@ -46,9 +48,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`Im Jahr Christi 1705`
 
+---
 >Example:  
 >`13. Decembris, anno 1616`
 
+---
 >Example:   
 >`anno 1593`
 
@@ -65,9 +69,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`anno Domini MDCXIV [1614]`
 
+---
 >Example:  
 >`MCCCCLXXXII le XV jour de decembre [1482]`
 
+---
 >Example:  
 >`M.D.CC.XLIV [1744]`
 
@@ -76,6 +82,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii`
 
+---
 >Example:    
 >`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]`
 
@@ -89,7 +96,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ---
 >Example:  
 >`[1650]`  
->>Note on publication statement: `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
+>Note on publication statement: `Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`
 
 <a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note on publication statement concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
@@ -103,6 +110,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`1703 [i.e. 1730]`
 
+---
 >Example:  
 >`Octr. 42 [i.e. 24], 1799`
 
@@ -135,6 +143,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >`1690/1 [i.e. 1691]`
 
+---
 >Example:  
 >`1690/1691 [i.e. 1691]`
 
@@ -186,9 +195,9 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.205.5.1">4.205.5.1</a> If the date of publication does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a note on publication statement (see [4.206.8.6](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.6)).
 
->Example:&nbsp; 
->`[1864]`
->Note on publication statement: `Publication date from LC Civil War maps (2nd ed.)`
+>Example:&nbsp;  
+>`[1864]`  
+>Note on publication statement: `Publication date from LC Civil War maps (2nd ed.)`  
 >(*Comment:* A separate note is used to provide a full citation for the reference to the published description.
 
 ## 4.205.6 Conjectural date of publication
@@ -239,6 +248,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >`MDXIII-MDXXIIII [1513-1524]`
 
+---
 >Example:  
 >`MDLVIII-1570 [1558-1570]`
 
