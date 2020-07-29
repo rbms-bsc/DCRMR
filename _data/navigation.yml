@@ -232,6 +232,10 @@ docs:
         url: /books/other-notes/Note-on-manifestation/
       - title: "Related manifestation of RDA entity"
         url: /books/other-notes/Related-manifestation-of-RDA-entity/
+      - title: "Reprint of manifestation of"
+        url: /books/other-notes/Related-manifestation-of-RDA-entity/#7235-reprint-of-manifestation-of
+      - title: "Accompanying by manifestation"
+        url: /books/other-notes/Related-manifestation-of-RDA-entity/#7236-accompanied-by-manifestation
       - title: "Manifestation dissertation statement"
         url: /books/other-notes/Manifestation-dissertation-statement/
       - title: "Dissertation or thesis information"
@@ -244,6 +248,8 @@ docs:
         url: /books/other-notes/Year-degree-granted/
       - title: "Manifestation described in"
         url: /books/other-notes/Manifestation-described-in/
+      - title: "Manifestation described in"
+
       - title: "Note on RDA entity"
         url: /books/other-notes/Note-on-RDA-entity/
       - title: "Summarization of content"
