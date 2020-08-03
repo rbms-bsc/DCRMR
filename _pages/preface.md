@@ -14,7 +14,7 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 
 ## RBMS RDA Editorial Group
 
-# Editor
+# Chief Editor
 
 Elizabeth Hobart, Special Collections Cataloging Librarian, PennState University Libraries
 
