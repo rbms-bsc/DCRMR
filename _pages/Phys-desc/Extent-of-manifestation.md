@@ -47,12 +47,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >  `[8], 260, [2] leaves`  
 > Note on extent of manifestation: `Numbered leaves with text on both sides`
 
-<a name="5.20.3.3">5.20.3.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Record pages, etc. that are numbered in words or in characters other than arabic or roman numerals in arabic numerals.  Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to explain that the pages, etc. are numbered in words or other non-alphanumeric characters (see [5.201.X.X](/DCRMR/books/phys-desc/#5.201.X.X)).
+<a name="5.20.3.3">5.20.3.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Record pages, etc. that are numbered in words or in characters other than arabic or roman numerals in arabic numerals.  Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to explain that the pages, etc. are numbered in words or other non-alphanumeric characters (see [5.201.X.X](/DCRMR/books/phys-desc/#5.201.X.X)).
 
 >Example:  
 > `xvi, 17-328 pages`
 
-<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/books/phys-desc/#52092-leaves-or-pages-of-plates). Record in details of production method (see [5.2122.X.X](/DCRMR/books/phys-desc/#5.2122.X.X)) that the leaves are non-letterpress.
+<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/books/phys-desc/Extent-of-manifestation/#52092-leaves-or-pages-of-plates). Record in [details of production method](/DCRMR/books/phys-desc/Details-of-production-method/) that the leaves are non-letterpress(see [5.2122.X.X](/DCRMR/books/phys-desc/Details-of-production-method/#5.2122.X.X)).
 
 >Example:  
 > `LXXVI leaves`  
@@ -83,11 +83,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-See [5.20.96](/DCRMR/books/phys-desc/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/#52097-single-sheet-publications) for all other single-sheet publications.
+See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/Extent-of-manifestation/#52097-single-sheet-publications) for all other single-sheet publications.
 
 ## 5.20.5 Unnumbered pages or leaves
 
-<a name="5.20.5.1">5.20.5.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in details of layout (see [Details of layout](/DCRMR/books/phys-desc/Details-of-layout/), [5.221.X.X](/DCRMR/books/phys-desc/Details-of-layout/#5.221.X.X)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
+<a name="5.20.5.1">5.20.5.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [details of layout](/DCRMR/books/phys-desc/Details-of-layout/), see [5.221.X.X](/DCRMR/books/phys-desc/Details-of-layout/#5.221.X.X)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
 
 > Example:  
 > `[4], 52 pages`
@@ -152,7 +152,7 @@ See [5.20.96](/DCRMR/books/phys-desc/#52096-sheets-rolls-cases-portfolios-etc)-[
 > `[52], 156, [4] pages`  
 > Supplementary content: `Publisher's advertisements on [4] pages at end`
 
-<a name="5.20.7.3">5.20.7.3</a> Describe advertisements that do not fall into any of these categories as [modification of item](/DCRMR/books/Notes-on-items/Modification-of-item/) (see [8.21.X.X](/DCRMR/books/Notes-on-items/Modification-of-item/#8.21.X.X)) if considered important.
+<a name="5.20.7.3">5.20.7.3</a> Describe advertisements that do not fall into any of these categories as [modification of item](/DCRMR/books/Notes-on-items/Modification-of-item/) if considered important, see [8.21.X.X](/DCRMR/books/Notes-on-items/Modification-of-item/#8.21.X.X).
 
 ## 5.20.8 Multiple sequences of numbering
 
