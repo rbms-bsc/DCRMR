@@ -214,7 +214,6 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 > `Signatures: piA4 A-D4 chiD4 E-F4` 
 > 
 > or
-> 
 > `Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4` 
 
 <a name="5.201.4.4">5.201.4.4</a> **Non-conventional Latin alphabet.** If the gatherings are signed with roman letters according to a pattern other than the conventional 23-letter Latin alphabet (i.e., A-Z, less I or J, U or V, and W), make this explicit by recording the additional letters in the signature statement.
@@ -224,7 +223,7 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 > (*Comment:* Printer used a 24-letter alphabet)
 
 ---
-> Example:
+> Example:  
 > `Signatures: A-I8 J8 K-U8 V8 W8 X-2I8 2J8 2K-2M8`  
 > (*Comment:* Printer used a 26-letter alphabet)
 
@@ -236,15 +235,15 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 <a name="5.201.4.6">5.201.4.6</a> **Concurrent signatures.** If the volume is signed using two concurrent sequences, provide both sets of signatures in the note. Record the signatures that correspond to the actual gatherings first, if this can be determined.
 
 
-> Example: 
+> Example:   
 > `Signatures: a⁴ e⁴ i⁴ A-P⁴ R-7A⁴ (gathering P also signed Q)`
 
 ---
-> Example: 
+> Example:  
 > `Signatures: A¹²; also signed [1]⁶ 2⁶`
 
 ---
-> Example: 
+> Example:  
 > `Signatures: [A]² B-2H². Gatherings B-2H also signed No. 2-No. 31`
 
 <a name="5.201.4.7">5.201.4.7</a> **Nonroman signatures (numeric sequence).** If the gatherings are signed with nonroman characters that follow a numeric sequence, represent the characters using arabic numeration. Include an indication of the script used in the signatures in the note. 
@@ -267,7 +266,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > `Signatures (in Hebrew characters): 2-38`
 > (*Comment:* Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
-
+<a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence).** If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4]). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.
 
 
 
