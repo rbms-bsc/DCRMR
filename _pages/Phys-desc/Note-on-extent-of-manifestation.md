@@ -135,61 +135,141 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="5.201.4.1">5.201.4.1</a> **General rule.** Make a note giving details of the signatures of a volume if considered important.  Record these signature details according to the formula in Philip Gaskell's A New Introduction to Bibliography (see pages 328-332), insofar as typographical facilities permit. Preface this note with the word “Signatures” and a colon.
 
 > Example:  
-> Signatures: `[A]4 B-C4 D2 E-G4 H2`
+> `Signatures: [A]4 B-C4 D2 E-G4 H2`
 
 ---
 > Example:  
-> Signatures: `pi⁴(-pi4) A-B⁶ C⁴ a⁶ b⁸, ²A-S⁶ T-V⁴ 2A-2V⁶ 3A-3V⁶ 4A-4U⁶ 5A-5Z⁶ a⁶ 2a⁶ *⁶ **⁸. Leaves 2N3-2N4 missigned 2N1-2N2; leaves 2N1-2N2 unsigned`
+> `Signatures: pi⁴(-pi4) A-B⁶ C⁴ a⁶ b⁸, ²A-S⁶ T-V⁴ 2A-2V⁶ 3A-3V⁶ 4A-4U⁶ 5A-5Z⁶ a⁶ 2a⁶ *⁶ **⁸. Leaves 2N3-2N4 missigned 2N1-2N2; leaves 2N1-2N2 unsigned`
 
 ---
 > Example:  
-> Signatures: `pi⁴ a-i⁸ chi²`
+> `Signatures: pi⁴ a-i⁸ chi²`
 
 ---
 > Example:  
-> Signatures: `1-30⁸ 31⁴ 32-35⁸ (31₄, 35₈ blank)`
+> `Signatures: 1-30⁸ 31⁴ 32-35⁸ (31₄, 35₈ blank)`
 
 ---
 > Example:  
-> Signatures: `[1-4⁸][5-6⁶][7⁸]  
-> (*Comment:* Volume is completely unsigned)`
+> `Signatures: [1-4⁸][5-6⁶][7⁸]` 
+> (*Comment:* Volume is completely unsigned)
 
 In general, record signatures for incunabula, especially if identical signatures are not given in a standard bibliographic source. In general, also record signatures when a volume has no pagination or foliation.
 
 <a name="5.201.4.2">5.201.4.2</a> **Unavailable characters.** If the gatherings are signed with a mark of contraction (see [transcription](/DCRMR/books/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled out form and enclose it in square brackets.
 
 > Example:  
-> Signatures: A-F⁸ G⁶ a-z⁸ &⁸ [con]⁸ [rum]⁸ 2a-2y⁸
+> `Signatures: A-F⁸ G⁶ a-z⁸ &⁸ [con]⁸ [rum]⁸ 2a-2y⁸`
 
 If the gatherings are signed with other unavailable characters, substitute a descriptive term or an abbreviation for that term if a standard one exists.
 
+---
 > Example:  
-> Signatures: [dagger]⁸ a-q⁸  
-> (Comment: Gathering is signed with ![Dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Dagger.jpg "Dagger")))
+> `Signatures: [dagger]⁸ a-q⁸`  
+> (Comment: Gathering is signed with ![Dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Dagger.jpg "Dagger"))
 
+---
 > Example:  
-> Signatures: *⁸ [double dagger]⁸ A-M⁸ N⁴  
-> (Comment: Gathering is signed with ![Double-dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger")))
+> `Signatures: *⁸ [double dagger]⁸ A-M⁸ N⁴`  
+> (Comment: Gathering is signed with ![Double-dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger"))
 
+---
 > Example:  
-> Signatures: [manicule]⁶ A⁸ B⁶ C⁸ d-g⁶/⁸ h-k⁶ L-M⁶  
-> Signatures: [fist]⁴ A-D⁸ E⁸(±E2) F-G⁸ H⁴ I²  
-> (Comment: Gathering is signed with )
+> `Signatures: [manicule]⁶ A⁸ B⁶ C⁸ d-g⁶/⁸ h-k⁶ L-M⁶`  
+> (Comment: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
 
-> Example:
-> Signatures: [fleuron]⁸ A⁴B-Y⁸
-> (Comment: Gathering is signed with )
+---
+> Example:  
+> `Signatures: [fist]⁴ A-D⁸ E⁸(±E2) F-G⁸ H⁴ I²`
+> (Comment: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
 
-> Example:
-> Signatures: [Maltese cross]⁶ A-X⁸ 2A-2P⁸ 2Q⁴
-> (Comment: Gathering is signed with )
+---
+> Example:  
+> `Signatures: [fleuron]⁸ A⁴B-Y⁸`  
+> (Comment: Gathering is signed with ![Fleuron](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fleuron.jpg "Fleuron"))
+
+---
+> Example:  
+> `Signatures: [Maltese cross]⁶ A-X⁸ 2A-2P⁸ 2Q⁴`  
+> (Comment: Gathering is signed with ![Maltese cross](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Maltese-cross.jpg "Maltese cross"))
 	
-> Example:
-> Signatures: [par.]⁸ A⁸(-A1)B-E⁸ F²
-> (Comment: Gathering is signed with )
+---
+> Example:  
+> `Signatures: [par.]⁸ A⁸(-A1)B-E⁸ F²`  
+> (Comment: Gathering is signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par."))
 
+---
+> Example:  
+> `Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴`  
+> (Comment: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.")) and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
+
+<a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi.** Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+
+> Example:  
+> `Signatures: pi4 A-C4 chi2 D-Z4`
+
+Indicate partial duplications of an alphabet (see Gaskell, page 331) by using superscript **pi** and superscript **chi** or, if superscript letters are not available, by substituting “[superscript pi]” and “[superscript chi].”
+
+> Example:  
+> `Signatures: piA4 A-D4 chiD4 E-F4` 
+> 
+> or
+> 
+> `Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4` 
+
+<a name="5.201.4.4">5.201.4.4</a> **Non-conventional Latin alphabet.** If the gatherings are signed with roman letters according to a pattern other than the conventional 23-letter Latin alphabet (i.e., A-Z, less I or J, U or V, and W), make this explicit by recording the additional letters in the signature statement.
+
+> Example:  
+> `Signatures: A-V4 W4 X-Z4`   
+> (*Comment:* Printer used a 24-letter alphabet)
+
+---
 > Example:
-> Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴
-> (Comment: Gatherings are signed with  and )
+> `Signatures: A-I8 J8 K-U8 V8 W8 X-2I8 2J8 2K-2M8`  
+> (*Comment:* Printer used a 26-letter alphabet)
+
+<a name="5.201.4.5">5.201.4.5</a> **Signatures do not match gatherings.** If it can be determined that the signing of the volume does not match its actual gatherings, indicate this in the note.
+
+> Example:  
+> `Signatures: [A]⁴ B-2G⁴ ²2E-2G⁴. Gathered in twelves, with three separate but consecutive signatures within each gathering`  
+
+<a name="5.201.4.6">5.201.4.6</a> **Concurrent signatures.** If the volume is signed using two concurrent sequences, provide both sets of signatures in the note. Record the signatures that correspond to the actual gatherings first, if this can be determined.
+
+
+> Example: 
+> `Signatures: a⁴ e⁴ i⁴ A-P⁴ R-7A⁴ (gathering P also signed Q)`
+
+---
+> Example: 
+> `Signatures: A¹²; also signed [1]⁶ 2⁶`
+
+---
+> Example: 
+> `Signatures: [A]² B-2H². Gatherings B-2H also signed No. 2-No. 31`
+
+<a name="5.201.4.7">5.201.4.7</a> **Nonroman signatures (numeric sequence).** If the gatherings are signed with nonroman characters that follow a numeric sequence, represent the characters using arabic numeration. Include an indication of the script used in the signatures in the note. 
+
+> Example:  
+> `Signatures (in Hebrew characters): 1-32⁴ 1-27⁶ 1-18⁶`
+
+> Example:  
+> `Signatures (in Church Slavic Cyrillic numerals): 1-25⁸ 26⁶ 1-22⁸ 23⁶(-23₆) 24⁸`
+
+If the nonroman characters are accompanied by parallel numeration using another script, record this as well.
+
+> Example:  
+> `Signatures (in parallel Hebrew and arabic numerals): pi8 1-48`  
+> (*Comment:* Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)`
+
+In case of doubt as to whether a sequence is numeric or alphabetic, assume a numeric sequence.
+
+> Example: 
+> `Signatures (in Hebrew characters): 2-38`
+> (*Comment:* Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
+
+
+
+
+
 
 
