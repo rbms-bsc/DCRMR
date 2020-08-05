@@ -165,11 +165,11 @@ If the gatherings are signed with other unavailable characters, substitute a des
 
 > Example:  
 > Signatures: [dagger]⁸ a-q⁸  
-> (Comment: Gathering is signed with ![Dagger](/assets/pictures/phys-desc/Dagger.jpg "Dagger")))
+> (Comment: Gathering is signed with ![Dagger](DCRMR/assets/pictures/phys-desc/Dagger.jpg "Dagger")))
 
 > Example:  
 > Signatures: *⁸ [double dagger]⁸ A-M⁸ N⁴  
-> (Comment: Gathering is signed with ![Double-dagger](/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger")))
+> (Comment: Gathering is signed with ![Double-dagger](DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger")))
 
 > Example:  
 > Signatures: [manicule]⁶ A⁸ B⁶ C⁸ d-g⁶/⁸ h-k⁶ L-M⁶  
