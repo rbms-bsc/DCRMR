@@ -266,9 +266,44 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > `Signatures (in Hebrew characters): 2-38`
 > (*Comment:* Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
-<a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence).** If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4]). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.
+<a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence).** If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html)). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.
+
+<a name="5.201.4.9">5.201.4.9</a> **Greek alphabetic signatures.** For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
 
 
+|Greek letters|Α|Β|Γ|Δ|Ε|Ζ|Η|Θ|Ι|Κ|Λ|Μ|Ν|Ξ|Ο|Π|Ρ|Σ|Τ|Υ|Φ|Χ|Ψ|Ω|
+|Romanized letters|A|B|G|D|E|Z|Ē|Th|I|K|L|M|N|X|O|P|R|S|T|Y|Ph|Ch|Ps|Ō|
+
+> Example:  
+> `Signatures: pi1 α-γ2 Α-2Λ2`
+> 
+> or
+> `Signatures (in Greek characters): pi1 a-g2 A-2L2`
+> (*Comment:* Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
+
+<a name="5.201.4.91">5.201.4.91</a> **Hebrew alphabetic signatures.** For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
+
+|א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת|
+|ʼ|b|g|d|h|ṿ5|z|ḥḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
+
+> Example:  
+> `Signatures: א-ש8, a-k8`  
+> or  
+> `Signatures: ʼ-sh8(in Hebrew characters), a-k8`  
+>(*Comment:* Indicates a Hebrew alphabetic sequence followed by a roman sequence)
+
+<a name="5.201.4.92">5.201.4.92</a> **Other nonroman alphabetic signatures.** For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
+
+> Example:  
+> `Signatures: А-Ѵ2 [=41], 2А-2Ѵ2 [=41], 3А-3Ѿ2 [=24]`  
+>
+>or	 
+> `Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-3ŌT͡͡2 [=24]`
+
+<a name="5.201.4.93">5.201.4.93</a> **Full collation.** If considered important, make a note giving the full collation instead of a note recording only the signatures.
+
+> Example:  
+> `Collation: 8vo: A-H4; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank`
 
 
 
