@@ -44,7 +44,8 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 >Note on modification of item: `Imperfect; trimmed below title, removing imprint`
 
 ---
->Example: `Carta de [...] sitio de Puebla`  
+>Example:  
+>Carta de [...] sitio de Puebla`  
 >Note on manifestation: `Description based on an imperfect copy; section of map missing at top, affecting text`
 
 <a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials.** If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
