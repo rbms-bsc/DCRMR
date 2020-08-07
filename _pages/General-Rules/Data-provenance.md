@@ -68,7 +68,8 @@ However, if the manifestation bears a cover or case issued with the resource tha
 
 >Example:  
 >`Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848`  
->Note on title: `Title, edition statement, and imprint taken from printed wrapper. Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846`
+>Note on title: `Title, edition statement, and imprint taken from printed wrapper.`
+>Title page reads: `Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846`
 
 <a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources.** If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 
