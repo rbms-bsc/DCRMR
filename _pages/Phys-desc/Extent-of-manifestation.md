@@ -36,7 +36,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.20.3.1">5.20.3.1</a> Record every leaf in the volume or other physical unit as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. Do not record leaves added as part of the binding or the binding itself.
 
-<a name="5.20.3.2">5.20.3.2</a> Record the complete number of pages, leaves,  or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. For a volume with leaves numbered on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves. If the leaves are numbered on one side but printed on both sides, record this fact in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) (see [5.201.X.X](/DCRMR/books/phys-desc/#5.201.X.X)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
+<a name="5.20.3.2">5.20.3.2</a> Record the complete number of pages, leaves,  or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. For a volume with leaves numbered on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves. If the leaves are numbered on one side but printed on both sides, record this fact in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) (see [5.201.3.2](/DCRMR/books/phys-desc/#5.201.3.2)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
 
 >Example:  
 > `48 leaves`  
@@ -47,7 +47,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >  `[8], 260, [2] leaves`  
 > Note on extent of manifestation: `Numbered leaves with text on both sides`
 
-<a name="5.20.3.3">5.20.3.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Record pages, etc. that are numbered in words or in characters other than arabic or roman numerals in arabic numerals.  Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to explain that the pages, etc. are numbered in words or other non-alphanumeric characters (see [5.201.X.X](/DCRMR/books/phys-desc/#5.201.X.X)).
+<a name="5.20.3.3">5.20.3.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [5.20.5.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.5.1), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Record pages, etc. that are numbered in words or in characters other than arabic or roman numerals in arabic numerals.  Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to explain that the pages, etc. are numbered in words or other non-alphanumeric characters (see [5.201.3.3](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.3)).
 
 >Example:  
 > `xvi, 17-328 pages`
@@ -70,7 +70,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.20.4 Normally imposed single sheets
 
-<a name="5.20.4.1">5.20.4.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed.
+<a name="5.20.4.1">5.20.4.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed, see [5.201.3.4](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.4).
 
 >Example:  
 > `1, [3] pages`  
@@ -83,7 +83,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/Extent-of-manifestation/&#x9;	#52097-single-sheet-publications) for all other single-sheet publications.
+See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/Extent-of-manifestation/#52097-single-sheet-publications) for all other single-sheet publications.
 
 ## 5.20.5 Unnumbered pages or leaves
 
@@ -165,7 +165,7 @@ See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls
 > Example:  
 > `xv, [2], 18-328 pages`
 
-<a name="5.20.8.2">5.20.8.2</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory  [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.8.2">5.20.8.2</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory  [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.3.5](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.5).
 
 > Example:  
 > `xii, [1], 35, 35, [1] p.`  
@@ -192,7 +192,7 @@ See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls
 > `[8], 334, [2], 32 pages`  
 > Note on extent of manifestation: `"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title`
 
-<a name="5.20.8.4">5.20.8.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.8.4">5.20.8.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.3.7](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.7).
 
 > Example:  
 > `16 pages`  
@@ -225,19 +225,19 @@ b)	Record the number of pages, leaves, or columns in the main sequence and the t
 
 c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
 
-If one of these methods is employed, record all of the sequences in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/)  if considered important (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+If one of these methods is employed, record all of the sequences in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/)  if considered important (see [5.201.3.8](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.8)).
 
 ## 5.20.9 Expansions or corrections
 
-<a name="5.20.9.1">5.20.9.1</a> Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) giving more precise information about pagination or foliation, blank pages or leaves, or other aspects of collation if considered important (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+<a name="5.20.9.1">5.20.9.1</a> Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) giving more precise information about pagination or foliation, blank pages or leaves, or other aspects of collation if considered important (see [5.201.3.1](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.1)).
 
-<a name="5.20.9.2">5.20.9.2</a> If the number of the last numbered page, leaf, or column of a sequence does not indicate the correct number of pages, etc., either record the sequences exactly to indicate the source of the error or record the number as given in the manifestation and supply a correction. When correcting misleading numbering, record the numbering as it appears on the last page or leaf followed by “that is”and the correct number in square brackets. Provide an explanatory [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) if considered important, see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.9.2">5.20.9.2</a> If the number of the last numbered page, leaf, or column of a sequence does not indicate the correct number of pages, etc., either record the sequences exactly to indicate the source of the error or record the number as given in the manifestation and supply a correction. When correcting misleading numbering, record the numbering as it appears on the last page or leaf followed by “that is” and the correct number in square brackets. Provide an explanatory [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) if considered important, see [5.201.3.8](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.8).
 
 > Example:  
 > `564 [that is, 56] leaves`  
 > Note on extent of manifestation: `Leaf 56 wrongly numbered 564` 
 
-If the manifestation is numbered as leaves, but printed as pages, see X.X.
+If the manifestation is numbered as leaves, but printed as pages, see [5.20.8.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.2).
 
 ## 5.20.91 Lack of numbering
 
@@ -276,7 +276,7 @@ If the manifestation is numbered as leaves, but printed as pages, see X.X.
 >Example:  
 > `[2], ii, ii, 11, [5] pages, [50] leaves of plates` 
 
-<a name="5.20.92.4">5.20.92.4</a> Count title pages (and added title pages) as leaves or pages of plates if they are entirely or chiefly non-letterpress (e.g., engraved or lithographed) and not integral to any letterpress gatherings. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to indicate any title page counted as a plate (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+<a name="5.20.92.4">5.20.92.4</a> Count title pages (and added title pages) as leaves or pages of plates if they are entirely or chiefly non-letterpress (e.g., engraved or lithographed) and not integral to any letterpress gatherings. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to indicate any title page counted as a plate (see [5.201.3.9](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.9)).
 
 >Example:  
 > `112 pages, [1] leaf of plates`  
@@ -286,7 +286,7 @@ If the manifestation is numbered as leaves, but printed as pages, see X.X.
 
 ## 5.20.93 Folded leaves
 
-<a name="5.20.93.1">5.20.93.1</a> Record folded leaves as leaves or pages of plates. Count a plate folded and bound at the inner margin as two leaves of plates. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves if considered important (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+<a name="5.20.93.1">5.20.93.1</a> Record folded leaves as leaves or pages of plates. Count a plate folded and bound at the inner margin as two leaves of plates. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves if considered important (see [5.201.3.91](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.91)).
 
 >Example:  
 > `[8], 30, [8], 31-213, [3] pages, [3] folded leaves of plates`
@@ -303,7 +303,7 @@ If the manifestation is numbered as leaves, but printed as pages, see X.X.
 
 ## 5.20.94 Double leaves
 
-<a name="5.20.94.1">5.20.94.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation.
+<a name="5.20.94.1">5.20.94.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation, see [5.201.3.92](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.92).
 
 >Example:  
 > `[2], 86, [2] pages`  
@@ -316,7 +316,7 @@ If the manifestation is numbered as leaves, but printed as pages, see X.X.
 
 ## 5.20.95 Incomplete publications
 
-<a name="5.20.95.1">5.20.95.1</a> If a volume, or an individual sequence of pages or leaves within a volume, lacks pages or leaves at its end—or an unpaginated or unfoliated volume or sequence lacks any pages or leaves—and the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record the number of the last numbered or unnumbered page, leaf, or column using the appropriate term followed by ”(incomplete).” If pages or leaves appear to be missing from both the first and last part of the volume, and the extent of the complete volume cannot be ascertained, record the first and last numbers of the pages, leaves, or columns preceded by the appropriate term. Record in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) that the extent is based on an incomplete exemplar (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).  Record the imperfection in a [note on extent of item](/DCRMR/books/Notes-on-items/Note-on-extent-of-item/), see [8.24.X.X](/DCRMR/books/phys-desc/Notes-on-items/#8.24.X.X).
+<a name="5.20.95.1">5.20.95.1</a> If a volume, or an individual sequence of pages or leaves within a volume, lacks pages or leaves at its end—or an unpaginated or unfoliated volume or sequence lacks any pages or leaves—and the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record the number of the last numbered or unnumbered page, leaf, or column using the appropriate term followed by ”(incomplete).” If pages or leaves appear to be missing from both the first and last part of the volume, and the extent of the complete volume cannot be ascertained, record the first and last numbers of the pages, leaves, or columns preceded by the appropriate term. Record in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) that the extent is based on an incomplete exemplar (see [5.201.3.93](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.93)).  Record the imperfection in a [note on extent of item](/DCRMR/books/Notes-on-items/Note-on-extent-of-item/), see [8.24.X.X](/DCRMR/books/phys-desc/Notes-on-items/Note-on-extent-of-item/#8.24.X.X).
 
 >Example:  
 > `142 pages (incomplete)`  
@@ -384,13 +384,13 @@ For a normally imposed single-folded (i.e., four-page) sheet, see [5.20.4.1](/DC
 
 <a name="5.20.98.1">5.20.98.1</a> If a manifestation is issued in more than one physical unit,  record the number of physical units in arabic numerals followed by the appropriate designation for the unit (see also [X.X.X.X](/DCRMR/books/relationships/Accompanying-by-manifestation/#X.X.X.X).
 
-<a name="5.20.98.2">5.20.98.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final form, with a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating that it was issued in fascicles, see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.98.2">5.20.98.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final form, with a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating that it was issued in fascicles, see [5.201.3.94](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.94).
 
-<a name="5.20.98.3">5.20.98.3</a> If the number of physical units in which a manifestation is bound differs from the number in which it was actually issued, record this fact in a [note on extent of item](/DCRMR/books/Notes-on-items/Note-on-extent-of-item/) if considered important (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+<a name="5.20.98.3">5.20.98.3</a> If the number of physical units in which a manifestation is bound differs from the number in which it was actually issued, record this fact in a [note on extent of item](/DCRMR/books/Notes-on-items/Note-on-extent-of-item/) if considered important (see [8.24.X.X](/DCRMR/books/Notes-on-items/Note-on-extent-of-item/#8.24.X.X)).
 
 ## 5.20.99 Bibliographic volumes vs. physical volumes
 
-<a name="5.20.99.1">5.20.99.1</a> If the number of bibliographic volumes differs from the number of physical volumes, record the number of physical volumes. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating the number of bibliographic volumes, see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.99.1">5.20.99.1</a> If the number of bibliographic volumes differs from the number of physical volumes, record the number of physical volumes. Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating the number of bibliographic volumes, see [5.201.3.95](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95).
 
 ## 5.20.991 Pagination continuous
 
@@ -406,7 +406,7 @@ For a normally imposed single-folded (i.e., four-page) sheet, see [5.20.4.1](/DC
 
 ## 5.20.992 Pagination not continuous
 
-<a name="5.20.992.1">5.20.992.1</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a  [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X). Separate the counts for individual units with semi-colons.
+<a name="5.20.992.1">5.20.992.1</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a  [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/), see [5.201.3.96](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.96). Separate the counts for individual units with semi-colons.
 
 
 >Example:  
@@ -422,4 +422,4 @@ For a normally imposed single-folded (i.e., four-page) sheet, see [5.20.4.1](/DC
 
 ## 5.20.993 Discontinued publications
 
-<a name="5.20.993.1">5.20.993.1</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, describe the incomplete set as appropriate (i.e., record paging for a single volume or the number of volumes for multiple volumes). Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating that no more units have been issued, see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X).
+<a name="5.20.993.1">5.20.993.1</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, describe the incomplete set as appropriate (i.e., record paging for a single volume or the number of volumes for multiple volumes). Make a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) indicating that no more units have been issued, see [5.201.3.97](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.97).

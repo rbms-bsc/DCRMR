@@ -86,33 +86,27 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `16 pages`  
 > Note on extent of manifestation: `Pages 4-16 also numbered 196-208`
 
-<a name="5.201.3.7">5.201.3.7</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation, see [5.20.8.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.4).
+<a name="5.201.3.7">5.201.3.7</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important., see [5.20.8.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.4).
 
-> Example:  
-> Extent of manifestation: `16 pages`  
-> Note on extent of manifestation: `Pages 4-16 also numbered 196-208`
-
-<a name="5.201.3.8">5.201.3.8</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important., see [5.20.8.6](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.6).
-
-<a name="5.201.3.9">5.201.3.9</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important, see [5.20.9.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.9.2).
+<a name="5.201.3.8">5.201.3.8</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important, see [5.20.9.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.9.2).
 
 > Example:  
 > Extent of manifestation: `564 [that is, 56] leaves`  
 > Note on extent of manifestation: `Leaf 56 wrongly numbered 564`
 
-<a name="5.201.3.91">5.201.3.91</a> Make a note on extent of manifestation to indicate any title page counted as a plate, see [5.20.92.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.92.4).
+<a name="5.201.3.9">5.201.3.9</a> Make a note on extent of manifestation to indicate any title page counted as a plate, see [5.20.92.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.92.4).
 
 > Example:  
 > Extent of manifestation: `112 pages, [1] leaf of plates`  
 > Note on extent of manifestation: `Plate has engraved title page on recto and blank verso`
 
-<a name="5.201.3.92">5.201.3.92</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important, see [5.20.93.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.93.1).
+<a name="5.201.3.91">5.201.3.91</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important, see [5.20.93.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.93.1).
 
 > Example:  
 > Extent of manifestation: `[10], 199 [i.e. 203], [33] pages, [3] folded leaves of plates`  
 > Note on extent of manifestation: `The folded leaves are letterpress tables not included in signature statement`
 
-<a name="5.201.3.93">5.201.3.93</a> Always record the presence of double leaves in a note on extent of manifestation, see [5.20.94.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.94.1).
+<a name="5.201.3.92">5.201.3.92</a> Always record the presence of double leaves in a note on extent of manifestation, see [5.20.94.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.94.1).
 
 > Example:  
 > Extent of manifestation: `[2], 86, [2] pages`  
@@ -122,13 +116,16 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `[4], 28 pages, [86] leaves of plates`  
 > Note on extent of manifestation: `Some plates printed on double leaves`
 
-<a name="5.201.3.94">5.201.3.94</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a note on extent of manifestation that the extent is based on an incomplete exemplar, see [5.20.95.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.95.1)
+<a name="5.201.3.93">5.201.3.93</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a note on extent of manifestation that the extent is based on an incomplete exemplar, see [5.20.95.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.95.1)
 
-<a name="5.201.3.95">5.201.3.95</a> Make a note on extent of manifestation indicating that a manifestation was issued in fascicles intended to be bound into one or more physical units.
+<a name="5.201.3.94">5.201.3.94</a> Make a note on extent of manifestation indicating that a manifestation was issued in fascicles intended to be bound into one or more physical units, see [5.20.98.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.98.2).
 
-<a name="5.201.3.96">5.201.3.96</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation.
+<a name="5.201.3.95">5.201.3.95</a> Make a note on extent of manifestation indicating the number of bibliographic volumes if the number of bibliographic volumes differs from the number of physical volumes, see [5.20.99.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.99.1).
 
-<a name="5.201.3.97">5.201.3.97</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, make a note on extent of manifestation indicating that no more units have been issued.
+<a name="5.201.3.96">5.201.3.96</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation, see [5.20.992.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.992.1).
+
+<a name="5.201.3.97">5.201.3.97</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, make a note on extent of manifestation indicating that no more units have been issued, see [5.20.993.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.993.1).
+
 
 ## 5.201.4 Signatures
 
@@ -203,7 +200,7 @@ If the gatherings are signed with other unavailable characters, substitute a des
 > `Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴`  
 > (Comment: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
 
-<a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi.** Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
+<a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi.** Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.4.9](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.4.9)).
 
 > Example:  
 > `Signatures: pi4 A-C4 chi2 D-Z4`
