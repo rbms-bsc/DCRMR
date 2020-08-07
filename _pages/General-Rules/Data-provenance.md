@@ -142,8 +142,8 @@ When the instructions specify transcription, indicate that the information is su
 If the source of information is not the manifestation that is being described, enclose the information in square brackets. Record a note to indicate the source of information.
 
 >Example:  
->Title: `[The great triumphal chariot of Maximilian I]`
->Note on title: `Title from Bartsch, 1001.339` 
+>Title: `[The great triumphal chariot of Maximilian I]`  
+>Note on title: `Title from Bartsch, 1001.339`   
 >Comment: A separate note is used to provide a full citation for the reference to the published description.
 
 *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
