@@ -33,7 +33,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in extent of manifestation if considered important.
 
 > Example:  
-> Note on extent of manifestation: Volumes numbered: `1, 2A, 2B, 2C, 3`
+> Note on extent of manifestation: `Volumes numbered: 1, 2A, 2B, 2C, 3`
 
 <a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but  printed on both  sides, record this fact in a note on extent of manifestation.
 
@@ -201,7 +201,7 @@ If the gatherings are signed with other unavailable characters, substitute a des
 ---
 > Example:  
 > `Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴`  
-> (Comment: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.")) and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
+> (Comment: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
 
 <a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi.** Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.X.X](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.X.X)).
 
@@ -213,7 +213,7 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 > Example:  
 > `Signatures: piA4 A-D4 chiD4 E-F4` 
 > 
-> or
+> or  
 > `Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4` 
 
 <a name="5.201.4.4">5.201.4.4</a> **Non-conventional Latin alphabet.** If the gatherings are signed with roman letters according to a pattern other than the conventional 23-letter Latin alphabet (i.e., A-Z, less I or J, U or V, and W), make this explicit by recording the additional letters in the signature statement.
@@ -262,8 +262,8 @@ If the nonroman characters are accompanied by parallel numeration using another 
 
 In case of doubt as to whether a sequence is numeric or alphabetic, assume a numeric sequence.
 
-> Example: 
-> `Signatures (in Hebrew characters): 2-38`
+> Example:  
+> `Signatures (in Hebrew characters): 2-38`  
 > (*Comment:* Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
 <a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence).** If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html)). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.
@@ -271,20 +271,20 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 <a name="5.201.4.9">5.201.4.9</a> **Greek alphabetic signatures.** For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
 
 
-|Greek letters|Α|Β|Γ|Δ|Ε|Ζ|Η|Θ|Ι|Κ|Λ|Μ|Ν|Ξ|Ο|Π|Ρ|Σ|Τ|Υ|Φ|Χ|Ψ|Ω|
-|Romanized letters|A|B|G|D|E|Z|Ē|Th|I|K|L|M|N|X|O|P|R|S|T|Y|Ph|Ch|Ps|Ō|
+|Greek|Α|Β|Γ|Δ|Ε|Ζ|Η|Θ|Ι|Κ|Λ|Μ|Ν|Ξ|Ο|Π|Ρ|Σ|Τ|Υ|Φ|Χ|Ψ|Ω|
+|Romanized|A|B|G|D|E|Z|Ē|Th|I|K|L|M|N|X|O|P|R|S|T|Y|Ph|Ch|Ps|Ō|
 
 > Example:  
-> `Signatures: pi1 α-γ2 Α-2Λ2`
+> `Signatures: pi1 α-γ2 Α-2Λ2`  
 > 
-> or
-> `Signatures (in Greek characters): pi1 a-g2 A-2L2`
+> or  
+> `Signatures (in Greek characters): pi1 a-g2 A-2L2`  
 > (*Comment:* Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
 
 <a name="5.201.4.91">5.201.4.91</a> **Hebrew alphabetic signatures.** For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
 
-|א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת|
-|ʼ|b|g|d|h|ṿ5|z|ḥḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
+|Hebrew|א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת|
+|Romanized|ʼ|b|g|d|h|ṿ|z|ḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
 
 > Example:  
 > `Signatures: א-ש8, a-k8`  
@@ -297,7 +297,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > Example:  
 > `Signatures: А-Ѵ2 [=41], 2А-2Ѵ2 [=41], 3А-3Ѿ2 [=24]`  
 >
->or	 
+>or	  
 > `Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-3ŌT͡͡2 [=24]`
 
 <a name="5.201.4.93">5.201.4.93</a> **Full collation.** If considered important, make a note giving the full collation instead of a note recording only the signatures.
