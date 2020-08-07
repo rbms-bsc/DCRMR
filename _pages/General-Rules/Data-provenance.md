@@ -54,7 +54,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 ### 0.2.4 Dust jackets
 
-<a name="0.2.4">0.2.4</a> In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a manifestation. Dust jackets often contain valuable information not found in any other source in the manifestation. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the exemplar of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
+<a name="0.2.4.1">0.2.4.1</a> In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a manifestation. Dust jackets often contain valuable information not found in any other source in the manifestation. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the exemplar of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
 
 ## 0.2.5 Preferred source of information
 
@@ -113,7 +113,7 @@ Make a note indicating the source chosen as the preferred source of information 
 
 ## 0.2.6 Sources of information
 
-<a name="0.2.6.1">0.2.4.1</a> The source(s) of information for each element are set out in preferred order below:
+<a name="0.2.6.1">0.2.6.1</a> The source(s) of information for each element are set out in preferred order below:
 
 | Elements                                               | Sources of Information |
 | ---------------------------                            | ---------------------- |
