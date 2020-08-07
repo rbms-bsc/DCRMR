@@ -73,6 +73,10 @@ docs:
         url: /books/title/Parallel-title-proper/
       - title: "Other title information"
         url: /books/title/Other-title-information/
+      - title: "Parallel other title information"
+        url: /books/title/Parallel-other-title-information/
+      - title: "Variant title"
+        url: /books/title/Variant title/
       - title: "Note on title"
         url: /books/title/Note-on-title/        
   - title: "Chapter 2. Statement of Responsibility"
@@ -176,12 +180,22 @@ docs:
         url: /books/phys-desc/Details-of-color-content/
       - title: "Dimensions"
         url: /books/phys-desc/Dimensions/
+      - title: "Note on dimensions of manifestation"
+        url: /books/phys-desc/Note-on-dimensions-of-manifestation/
+      - title: "Base material"
+        url: /books/phys-desc/Base-material/
       - title: "Details of base material"
         url: /books/phys-desc/Details-of-base-material/
+      - title: Applied material
+        url: /books/phys-desc/Applied-material/
+      - title: "Details of applied material"
+        url: /books/phys-desc/Details-of-applied-material/
       - title: "Production method"
         url: /books/phys-desc/Production-method/
       - title: "Details of production method"
         url: /books/phys-desc/Details-of-production-method/
+      - title: "Layout"
+        url: /books/phys-desc/Layout/
       - title: "Details of layout"
         url: /books/phys-desc/Details-of-layout/
       - title: "Bibliographic format"

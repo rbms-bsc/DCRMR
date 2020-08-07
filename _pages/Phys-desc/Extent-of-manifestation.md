@@ -83,7 +83,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/Extent-of-manifestation/#52097-single-sheet-publications) for all other single-sheet publications.
+See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases-portfolios-etc)-[5.20.97](/DCRMR/books/phys-desc/Extent-of-manifestation/&#x9;	#52097-single-sheet-publications) for all other single-sheet publications.
 
 ## 5.20.5 Unnumbered pages or leaves
 

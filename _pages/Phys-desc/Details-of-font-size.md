@@ -21,10 +21,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 {:toc}
 
 
-## [roman#].1 [Title of preliminary section]
-
-<a name="[roman#].1.1">[roman#].1.1</a> [Beginning of first section preliminary text] (see [chapter#.entity#.section#.instruction#](/DCRMR/books/chapter-name/Name-of-entity-featured-on-the-page/#chapter#.entity#.section#.instruction#)).
-
-## [roman#].2 [Title of preliminary section]
-
-<a name="[roman#].2.1">[roman#].1.1</a> [Beginning of second section preliminary text with reference to another INCOMPLETE page via a see reference] (see [chapter#.entity#.X.X](/DCRMR/books/chapter-name/Name-of-entity-featured-on-the-page/#chapter#.entity#.X.X)). This is so we can search the string "X.X" in the documentation and update them as more and more pages come online in the future.
+## 2232...

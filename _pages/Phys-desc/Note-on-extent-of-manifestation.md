@@ -30,12 +30,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.201.3 General rule
 
-<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in extent of manifestation if considered important.
+<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in extent of manifestation if considered important, see [5.20.9.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.9.1).
 
 > Example:  
 > Note on extent of manifestation: `Volumes numbered: 1, 2A, 2B, 2C, 3`
 
-<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but  printed on both  sides, record this fact in a note on extent of manifestation.
+<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but  printed on both  sides, record this fact in a note on extent of manifestation, see Extent of manifestation, [5.20.3.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.3.2).
 
 > Example:  
 > Extent of manifestation: `48 leaves`  
@@ -46,9 +46,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `[8], 260, [2] leaves`  
 > Note on extent of manifestation: `Numbered leaves with text on both sides`
 
-<a name="5.201.3.3">5.201.3.3</a> Make a note on extent of manifestation to explain that pages, etc. are numbered in words or other non-alphanumeric characters.
+<a name="5.201.3.3">5.201.3.3</a> Make a note on extent of manifestation to explain that pages, etc. are numbered in words or other non-alphanumeric characters, see [5.20.3.3](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.3.3)
 
-<a name="5.201.3.4">5.201.3.4</a> Record the presence of blank pages in a normally imposed single-folded (i.e. four-page) sheet.
+<a name="5.201.3.4">5.201.3.4</a> Record the presence of blank pages in a normally imposed single-folded (i.e. four-page) sheet, see [5.20.4.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.4.1).
 
 > Example:  
 > Extent of manifestation: `1, [3] pages`  
@@ -59,7 +59,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `[4] pages`  
 > Note on extent of manifestation: `Folded single sheet; last three pages are blank`
 
-<a name="5.201.3.5">5.201.3.5</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory note on extent of manifestation.
+<a name="5.201.3.5">5.201.3.5</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory note on extent of manifestation, see [5.20.8.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.2).
 
 > Example:  
 > Extent of manifestation: `xii, [1], 35, 35, [1] p.`  
@@ -86,33 +86,33 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `16 pages`  
 > Note on extent of manifestation: `Pages 4-16 also numbered 196-208`
 
-<a name="5.201.3.7">5.201.3.7</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation.
+<a name="5.201.3.7">5.201.3.7</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation, see [5.20.8.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.4).
 
 > Example:  
 > Extent of manifestation: `16 pages`  
 > Note on extent of manifestation: `Pages 4-16 also numbered 196-208`
 
-<a name="5.201.3.8">5.201.3.8</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important.
+<a name="5.201.3.8">5.201.3.8</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important., see [5.20.8.6](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.8.6).
 
-<a name="5.201.3.9">5.201.3.9</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important.
+<a name="5.201.3.9">5.201.3.9</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important, see [5.20.9.2](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.9.2).
 
 > Example:  
 > Extent of manifestation: `564 [that is, 56] leaves`  
 > Note on extent of manifestation: `Leaf 56 wrongly numbered 564`
 
-<a name="5.201.3.91">5.201.3.91</a> Make a note on extent of manifestation to indicate any title page counted as a plate.
+<a name="5.201.3.91">5.201.3.91</a> Make a note on extent of manifestation to indicate any title page counted as a plate, see [5.20.92.4](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.92.4).
 
 > Example:  
 > Extent of manifestation: `112 pages, [1] leaf of plates`  
 > Note on extent of manifestation: `Plate has engraved title page on recto and blank verso`
 
-<a name="5.201.3.92">5.201.3.92</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important.
+<a name="5.201.3.92">5.201.3.92</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important, see [5.20.93.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.93.1).
 
 > Example:  
 > Extent of manifestation: `[10], 199 [i.e. 203], [33] pages, [3] folded leaves of plates`  
 > Note on extent of manifestation: `The folded leaves are letterpress tables not included in signature statement`
 
-<a name="5.201.3.93">5.201.3.93</a> Always record the presence of double leaves in a note on extent of manifestation.
+<a name="5.201.3.93">5.201.3.93</a> Always record the presence of double leaves in a note on extent of manifestation, see [5.20.94.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.94.1).
 
 > Example:  
 > Extent of manifestation: `[2], 86, [2] pages`  
@@ -122,7 +122,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Extent of manifestation: `[4], 28 pages, [86] leaves of plates`  
 > Note on extent of manifestation: `Some plates printed on double leaves`
 
-<a name="5.201.3.94">5.201.3.94</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a note on extent of manifestation that the extent is based on an incomplete exemplar.
+<a name="5.201.3.94">5.201.3.94</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a note on extent of manifestation that the extent is based on an incomplete exemplar, see [5.20.95.1](/DCRMR/books/phys-desc/Extent-of-manifestation/#5.20.95.1)
 
 <a name="5.201.3.95">5.201.3.95</a> Make a note on extent of manifestation indicating that a manifestation was issued in fascicles intended to be bound into one or more physical units.
 

@@ -24,11 +24,21 @@ sidebar:
 
 [Chapter 5.21 Dimensions](/DCRMR/books/phys-desc/Dimensions/)
 
-[Chapter 5.211 Details of base material](/DCRMR/books/phys-desc/Details-of-base-material/)
+[Chapter 5.2101 Note on dimensions of manifestation](/DCRMR/books/phys-desc/Note-on-dimensions-of-manifestation/)
 
-[Chapter 5.212 Production method](/DCRMR/books/phys-desc/Production-method/)
+[Chapter 5.211 Base material](/DCRMR/books/phys-desc/Base-material/)
 
-[Chapter 5.2122 Details of production method](/DCRMR/books/phys-desc/Details-of-production-method/)
+[Chapter 5.2112 Details of base material](/DCRMR/books/phys-desc/Details-of-base-material/)
+
+[Chapter 5.212 Applied material](/DCRMR/books/phys-desc/Applied-material/)
+
+[Chapter 5.2122 Details of applied material](/DCRMR/books/phys-desc/Details-of-applied-material/)
+
+[Chapter 5.213 Production method](/DCRMR/books/phys-desc/Production-method/)
+
+[Chapter 5.2132 Details of production method](/DCRMR/books/phys-desc/Details-of-production-method/)
+
+[Chapter 5.22 Layout](/DCRMR/books/phys-desc/Layout/)
 
 [Chapter 5.221 Details of layout](/DCRMR/books/phys-desc/Details-of-layout/)
 
@@ -36,11 +46,11 @@ sidebar:
 
 [Chapter 5.2222 Details of bibliographic format](/DCRMR/books/phys-desc/Details-of-bibliographic-format/)
 
-[Chapter 5.224. Font size](/DCRMR/books/phys-desc/Font-size/)
+[Chapter 5.223. Font size](/DCRMR/books/phys-desc/Font-size/)
 
-[Chapter 5.2242. Details of font size](/DCRMR/books/phys-desc/Details-of-font-size/)
+[Chapter 5.2232. Details of font size](/DCRMR/books/phys-desc/Details-of-font-size/)
 
-[Chapter 5.225 Type of binding](/DCRMR/books/phys-desc/Type-of-binding/)
+[Chapter 5.224 Type of binding](/DCRMR/books/phys-desc/Type-of-binding/)
 
 [Chapter 5.23 Content type](/DCRMR/books/phys-desc/Content-type/)
 
