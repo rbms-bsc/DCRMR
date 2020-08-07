@@ -38,15 +38,14 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 <a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/books/general-rules/Transcription/#0.5.14)). Make a Note on manifestation indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/books/other-notes/Note-on-manifestation/#7.20.X.X)).
 
-Example: `London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho`
+>Example:  
+>`London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho`  
+>Note on publication statement: `Imprint from British Museum. Dept. of Prints and Drawings. Catalogue of prints and drawings in the British Museum (1870-1954) (George)`  
+>Note on modification of item: `Imperfect; trimmed below title, removing imprint`
 
-**Note on publication statement:** `Imprint from British Museum. Dept. of Prints and Drawings. Catalogue of prints and drawings in the British Museum (1870-1954) (George)`
-
-**Note on modification of item:** `Imperfect; trimmed below title, removing imprint`
-
-Example: `Carta de [...] sitio de Puebla`
-
-**Note on manifestation:** `Description based on an imperfect copy; section of map missing at top, affecting text`
+---
+>Example: `Carta de [...] sitio de Puebla`  
+>Note on manifestation: `Description based on an imperfect copy; section of map missing at top, affecting text`
 
 <a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials.** If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
@@ -66,9 +65,9 @@ Treat facing pages or pages on successive leaves in different languages or scrip
 
 However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a note to indicate that the cover has been chosen as the preferred source (see [1.26.X.X](/DCRMR/books/title/Note-on-title/#1.26.X.X)).
 
-Example: `Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848`
-
-**Note on title:** `Title, edition statement, and imprint taken from printed wrapper. Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846`
+>Example:  
+>`Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848`  
+>Note on title: `Title, edition statement, and imprint taken from printed wrapper. Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846`
 
 <a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources.** If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 
@@ -141,10 +140,9 @@ When the instructions specify transcription, indicate that the information is su
 
 If the source of information is not the manifestation that is being described, enclose the information in square brackets. Record a note to indicate the source of information.
 
-Example: **Title:** `[The great triumphal chariot of Maximilian I]`
-
-**Note on title:** `Title from Bartsch, 1001.339`
-
-*Comment:* A separate note is used to provide a full citation for the reference to the published description.
+>Example:  
+>Title: `[The great triumphal chariot of Maximilian I]`
+>Note on title: `Title from Bartsch, 1001.339` 
+>Comment: A separate note is used to provide a full citation for the reference to the published description.
 
 *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
