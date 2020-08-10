@@ -14,4 +14,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
-<a name="VII.1">VII.1</a> DCRMR uses the most recent edition of *Merriam-Webster’s Collegiate Dictionary* as its authority in matters of spelling and the most recent edition of the *Chicago Manual of Style* as its authority in matters of style.
+<a name="VI.1">VI.1</a> DCRMR uses the most recent edition of *Merriam-Webster’s Collegiate Dictionary* as its authority in matters of spelling and the most recent edition of the *Chicago Manual of Style* as its authority in matters of style.

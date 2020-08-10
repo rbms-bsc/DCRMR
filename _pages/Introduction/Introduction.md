@@ -16,18 +16,16 @@ sidebar:
 
 [III. Objectives and principles](/DCRMR/docs/introduction/Objectives and principles/)
 
-[IV. Principles to DCRMR construction](/DCRMR/docs/introduction/Principles-of-DCRMR-construction/)
+[IV. Options](/DCRMR/docs/introduction/Options/)
 
-[V. Options](/DCRMR/docs/introduction/Options/)
+[V. Language preferences](/DCRMR/docs/introduction/Language preferences/)
 
-[VI. Language preferences](/DCRMR/docs/introduction/Language preferences/)
+[VI. Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
 
-[VII. Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
+[VII. Acronyms](/DCRMR/docs/introduction/Acronyms/)
 
-[VIII. Acronyms](/DCRMR/docs/introduction/Acronyms/)
+[VIII. Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
 
-[IX. Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
+[IX. Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
 
-[X. Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
-
-[XI. Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)
+[X. Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)

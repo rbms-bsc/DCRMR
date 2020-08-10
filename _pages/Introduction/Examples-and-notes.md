@@ -20,10 +20,10 @@ Please use the comment feature in the Google Document or the Google Form linked 
 1. TOC
 {:toc}
 
-## I.1 Examples
+## VIII.1 Examples
 
-<a name="I.1.1">I.1.1</a> The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
+<a name="VIII.1.1">VIII.1.1</a> The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
 ## I.2 Notes
 
-<a name="I.2.1">I.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](https://rbms-bsc.github.io/DCRMR/other-notes/) and [Notes on items](https://rbms-bsc.github.io/DCRMR/notes-on-items/).
+<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](https://rbms-bsc.github.io/DCRMR/other-notes/) and [Notes on items](https://rbms-bsc.github.io/DCRMR/notes-on-items/).
