@@ -38,9 +38,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.204.3.1">5.204.3.1</a> Treat illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
 
-<a name="5.204.3.2">5.204.3.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X).
+<a name="5.204.3.2">5.204.3.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.4.1](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.4.1).
 
-<a name="5.204.3.3">5.204.3.3</a> In general, do not record printed color unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X).  For incunabula, make a note on color printing if present (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X).
+<a name="5.204.3.3">5.204.3.3</a> In general, do not record printed color unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.4.2](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.4.2). 
+
+<a name="5.204.3.4">5.204.3.4</a> For incunabula, make a note on color printing if present (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.4.3).
 
 ## 5.204.4 Hand coloring in printed resources
 
@@ -50,13 +52,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.204.4.3">5.204.4.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in colour content or [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/).
 
-<a name="5.204.4.4">5.204.4.4</a> If there is strong evidence that all copies of the resource were issued with hand coloring applied before distribution, record the presence of color as colour content (see [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X)). Evidence for hand-coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all copies were issued with hand coloring applied before distribution.
+<a name="5.204.4.4">5.204.4.4</a> If there is strong evidence that all copies of the resource were issued with hand coloring applied before distribution, record the presence of color as colour content (see [5.205.5.1](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.5.1)). Evidence for hand-coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all copies were issued with hand coloring applied before distribution.
 
-<a name="5.204.4.5">5.204.4.5</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X), instead of as colour content (see [5.204.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.204.X.X).
+<a name="5.204.4.5">5.204.4.5</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/) instead of as colour content (see [5.205.5.2](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.5.2)).
 
 ## 5.204.5 Color of base material
 
-<a name="5.204.5.1">5.204.5.1</a> Do not record the presence of color in base materials (e.g. paper) as color content (see X.X.) Make a note if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.X.X)).
+<a name="5.204.5.1">5.204.5.1</a> Do not record the presence of color in base materials (e.g. paper) as color content (see X.X.) Make a note if considered important (see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.6.1](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.6.1)).
 
 # 5.204.6 General rule
 
