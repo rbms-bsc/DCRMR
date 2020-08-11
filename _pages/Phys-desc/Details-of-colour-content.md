@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [colour content](/DCRMR/books/phys-desc/Colour-content/), [5.204.4.4](/DCRMR/books/phys-desc/Colour-content/#5.204.4.4), make a note to indicate that the resource was hand colored before distribution. Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
-> `With hand-colored wood engravings, as issued`  
+>`With hand-colored wood engravings, as issued`  
 > Colour content: `hand colored`  
 >(*Comment:* Title contains statement “with brightly-colored pictures”)
 
