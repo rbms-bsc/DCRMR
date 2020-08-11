@@ -36,7 +36,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.20.3.1">5.20.3.1</a> Record every leaf in the volume or other physical unit as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. Do not record leaves added as part of the binding or the binding itself.
 
-<a name="5.20.3.2">5.20.3.2</a> Record the complete number of pages, leaves,  or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. For a volume with leaves numbered on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves. If the leaves are numbered on one side but printed on both sides, record this fact in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) (see [5.201.3.2](/DCRMR/books/phys-desc/#5.201.3.2)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
+<a name="5.20.3.2">5.20.3.2</a> Record the complete number of pages, leaves,  or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. For a volume with leaves numbered on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves. If the leaves are numbered on one side but printed on both sides, record this fact in a [note on extent of manifestation](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/) (see [5.201.3.2](/DCRMR/books/phys-desc/Note-on-extent-of-manifestation/#5.201.3.2)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
 
 >Example:  
 > `48 leaves`  
@@ -111,6 +111,7 @@ See [5.20.96](/DCRMR/books/phys-desc/Extent-of-manifestation/#52096-sheets-rolls
 > (*Comment:* Pages are numbered 3-40 with four unnumbered pages at the beginning)
 > 
 >but  
+> 
 > `[2], 5-40 pages`  
 > (*Comment:* Pages are numbered 5-40 with two unnumbered pages at the beginning; there is no evidence that any leaves are missing)
 

@@ -3,6 +3,7 @@ layout: single
 type: docs
 title: Physical Description
 permalink: /phys-desc/
+permalink: books/phys-desc/
 sidebar:
   nav: "docs"
 ---
@@ -18,9 +19,9 @@ sidebar:
 
 [Chapter 5.203 Details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/)
 
-[Chapter 5.204 Color content](/DCRMR/books/phys-desc/Color-content/)
+[Chapter 5.204 Colour content](/DCRMR/books/phys-desc/Colour-content/)
 
-[Chapter 5.205 Details of color content](/DCRMR/books/phys-desc/Details-of-color-content/)
+[Chapter 5.205 Details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/)
 
 [Chapter 5.21 Dimensions](/DCRMR/books/phys-desc/Dimensions/)
 

@@ -52,11 +52,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.202.6 Color illustrations
 
-<a name="5.202.6.1">5.202.6.1</a> See [color content](/DCRMR/books/phys-desc/Color-content/), [5.204.X.X.](/DCRMR/books/phys-desc/Color-content/#5.204.X.X) for controlled terms for color content of illustrations.
+<a name="5.202.6.1">5.202.6.1</a> See [colour content](/DCRMR/books/phys-desc/colour-content/), [5.204.6.1](/DCRMR/books/phys-desc/colour-content/#5.204.6.1) for controlled terms for color content of illustrations.
 
-<a name="5.202.6.2">5.202.6.2</a> See [details of color content](/DCRMR/books/phys-desc/Details-of-color-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-color-content/#5.205.X.X) for fuller details on color content of illustrations.
+<a name="5.202.6.2">5.202.6.2</a> See [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.3.1](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.3.1) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [color content](/DCRMR/books/phys-desc/Color-content/), [5.204.X.X.](/DCRMR/books/phys-desc/Color-content/#5.204.X.X) for controlled terms for hand-coloring. For details of hand-coloring, see [details of color content](/DCRMR/books/phys-desc/Details-of-color-content/), [5.205.X.X](/DCRMR/books/phys-desc/Details-of-color-content/#5.205.X.X) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/books/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/books/Notes-on-items/Note-on-item/#8.20.X.X).
+<a name="5.202.6.3">5.202.6.3</a> See [colour content](/DCRMR/books/phys-desc/colour-content/), [5.204.6.1](/DCRMR/books/phys-desc/colour-content/#5.204.6.1) for controlled terms for hand-coloring. For details of hand-coloring, see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/books/phys-desc/Details-of-colour-content//#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/books/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/books/Notes-on-items/Note-on-item/#8.20.X.X).
 
 # 5.202.7 General rule
 
@@ -173,7 +173,9 @@ sample
 
 <a name="5.202.93.1">5.202.93.1</a> If a resource consists entirely of non-textual material (e.g., photographs, portraits, maps), do not record the presence of illustrations. Instead, describe the resource using the instructions for the appropriate content type (e.g., still image, cartographic image, etc. ).
 
-<a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". *Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/books/phys-desc/Illustrative-content/#5.202.8.3), precede the term specifying the particular type with "chiefly".                 
+<a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
+
+*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/books/phys-desc/Illustrative-content/#5.202.8.3), precede the term specifying the particular type with "chiefly".                 
 
 >Example:  
 > `chiefly illustrations`
