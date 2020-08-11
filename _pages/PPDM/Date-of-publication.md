@@ -67,36 +67,38 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
->**`anno Domini MDCXIV [1614]`**
+>>**`anno Domini MDCXIV [1614]`**
 
 ---
 >Example:  
->**`MCCCCLXXXII le XV jour de decembre [1482]`**
+>>**`MCCCCLXXXII le XV jour de decembre [1482]`**
 
 ---
 >Example:  
->**`M.D.CC.XLIV [1744]`**
+>>**`M.D.CC.XLIV [1744]`**
 
 <a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
 >Example:  
->**`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii`**
+>>**`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii`**
 
 ---
 >Example:    
->**`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]`**
+>>**`Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]`**
 
 *Alternately*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a note on publication statement (see [4.206.8.1](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
 >Example:  
->Date of publication: **`[1758]`**  
->Note on publication statement: **`Date of publication derived from chronogram in statement of responsibility`**  
->(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")
+>>Date of publication: **`[1758]`**  
+>>
+>>Note on publication statement: **`Date of publication derived from chronogram in statement of responsibility`**  
+>> 
+>>(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")
 
 ---
 >Example:  
->Date of publication: **`[1650]`**  
->Note on publication statement: **`Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`**
+>>Date of publication: **`[1650]`**  
+>>Note on publication statement: **`Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt`**
 
 <a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. Alternately, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note on publication statement concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
