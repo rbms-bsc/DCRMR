@@ -107,19 +107,21 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
+  background: $lighter-gray; 
   margin: 0em 0em 0em 0;
   margin-bottom: 0em;
   margin-top: 0em;
-  line-height: 1.2;
+  line-height: 1.3;
   padding-top: 0em;
   padding-right: 0em;
   padding-bottom: 0em;
   padding-left: .5em;
-  font-style: monospace;
-  border-left: 0em solid $text-color;
-  font-size: 20px;
+  border-left: 1.5em solid $background-color;
+  font-size: 16px;
   cite {
-    font-style: monospace;
+    font-style: monospace; 
+	 font-weight: bold; 
+	 font-size: 20px;  
 
     &:before {
       content: "\2014";
@@ -159,10 +161,12 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  font-size: .8em
 }
 
 pre {
-  overflow-x: auto; /* add scrollbars to wide code blocks*/
+  overflow: auto;
+  overflow-wrap: break-word;
 }
 
 p > code,
@@ -172,8 +176,8 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.8em;
-  background: $code-background-color;
+  font-size: 0.9em;
+  background: $lighter-gray;
   border-radius: $border-radius;
 
   &:before,
