@@ -75,6 +75,8 @@ docs:
         url: /books/title/Parallel-other-title-information/
       - title: "Variant title"
         url: /books/title/Variant title/
+      - title: "Title of item"
+        url: /books/title/Title-of-item/
       - title: "Note on title"
         url: /books/title/Note-on-title/        
   - title: "Chapter 2. Statement of Responsibility"
