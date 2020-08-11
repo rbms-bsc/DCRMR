@@ -39,7 +39,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.211.3.2">5.211.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary, and indicate its source. Prefer the [RBMS Controlled vocabularies, Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm) for terms for specific types of paper.
 
->Example: 
+>Example:  
 >`Japan vellum`
 
 <a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [details of base material](/DCRMR/books/phys-desc/Details-of-base-material/), [5.2112.X.X](/DCRMR/books/phys-desc/Details-of-base-material/#5.2112.X.X)).
