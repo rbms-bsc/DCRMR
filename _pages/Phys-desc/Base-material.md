@@ -42,5 +42,5 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example: 
 >`Japan vellum`
 
-<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [details of base material](/DCRMR/books/phys-desc/Details-of-base-material/), [5.2112.X.X](/DCRMR/books/phys-desc/Details-of-base-material/#5.2112.X.X).
+<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [details of base material](/DCRMR/books/phys-desc/Details-of-base-material/), [5.2112.X.X](/DCRMR/books/phys-desc/Details-of-base-material/#5.2112.X.X)).
 
