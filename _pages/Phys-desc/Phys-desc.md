@@ -2,8 +2,8 @@
 layout: single
 type: docs
 title: Physical Description
-permalink: /phys-desc/
 permalink: books/phys-desc/
+permalink: /phys-desc/
 sidebar:
   nav: "docs"
 ---

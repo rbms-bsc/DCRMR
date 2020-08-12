@@ -119,12 +119,12 @@ blockquote {
   border-left: 1.5em solid $background-color;
   font-size: 16px;
   cite {
-    font-style: monospace; 
+    font-family: $monospace;
+    font-style: normal; 
 	 font-weight: bold; 
-	 font-size: 20px;  
+	 font-size: 17px;  
 
     &:before {
-      content: "\2014";
       padding-right: 0px;
     }
   }

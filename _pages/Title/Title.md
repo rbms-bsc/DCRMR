@@ -18,7 +18,7 @@ sidebar:
 
 [Chapter 1.24 Other title information](/DCRMR/books/title/Other-title-information/)
 
-[Chapter 1.25 Parallel other title information](/(/DCRMR/books/title/Parallel-other-title-information/)
+[Chapter 1.25 Parallel other title information](/DCRMR/books/title/Parallel-other-title-information/)
 
 [Chapter 1.25 Variant title](/DCRMR/books/title/Variant-title/)
 
