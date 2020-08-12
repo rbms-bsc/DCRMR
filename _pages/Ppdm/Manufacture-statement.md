@@ -70,10 +70,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.22.9.3">4.22.9.3</a> If grammatically inseparable, transcribe them as a [publication statement](/DCRMR/books/ppdm/Publication-statement/). 
 
-Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
+>Example:  
+><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>
 
-Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
+>Example:  
+><CITE>Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]</CITE>
 
-Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
+>Example:  
+><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
 <a name="4.22.9.4">4.22.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the manufacture statement or as a [statement of responsibility](/DCRMR/books/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.

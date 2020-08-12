@@ -32,9 +32,11 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 <a name="4.221.3.1">4.221.3.1</a> Transcribe names of places associated with printers and other manufacturers as part of this element when appropriate. Transcribe any preposition appearing before the place of manufacture, as well as any accompanying words or phrases associated with the place name.
 
-Example: `A Philadelphie`
+>Example:  
+><CITE>A Philadelphie</CITE>
 
-Example: `In Venetia`
+>Example:  
+><CITE>In Venetia</CITE>
 
 <a name="4.221.3.2">4.221.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](/DCRMR/books/ppdm/Name-of-manufacturer/).
 
@@ -44,9 +46,11 @@ Example: `In Venetia`
 
 <a name="4.221.4.1">4.221.4.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note on manufacture statement if necessary (see [4.226.4.1](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.1)).
 
-Example: `[Ashbourn] : printed at the Office of M. Hoon, Ashbourn`
+>Example:  
+><CITE>[Ashbourn] : printed at the Office of M. Hoon, Ashbourn</CITE>
 
-Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in New-England`
+>Example:  
+><CITE>[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in New-England</CITE>
 
 ## 4.221.5 Fictitious or incorrect places of manufacture
 
@@ -54,15 +58,15 @@ Example: `[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in Ne
 
 <a name="4.221.5.2">4.221.5.2</a>  *Alternative rule:* if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
-Example: `Cosmopoli [i.e. London]`
-
-**Note on manufacture statement:** `The imprint is fictitious; printed in London by Richard Field (cf. STC).`
-
-(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
+>Example:  
+>Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
+>Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC)</CITE>  
+>(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
 <a name="4.221.5.3">4.221.5.3</a> *Optionally,* if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 
-Example: `Lugduni [Lyon]`
+>Example:  
+><CITE>Lugduni [Lyon]</CITE>
 
 ## 4.221.6 Two or more places of manufacture
 
@@ -72,21 +76,25 @@ Example: `Lugduni [Lyon]`
 
 <a name="4.221.6.3">4.221.6.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a note on manufacture statement to indicate the original position on the source of any transposed statements (see [4.226.4.4](/DCRMR/books/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
 
-Example: `Manchester : printed for a Society of gentlemen ; North Shields : re-printed at the Stanhope Press by J.K. Pollock`
+>Example:  
+><CITE>Manchester : printed for a Society of gentlemen ; North Shields : re-printed at the Stanhope Press by J.K. Pollock</CITE>
 
 <a name="4.221.6.4">4.221.6.4</a> Do not, however, transcribe a subsequent place as a place of manufacture if it is recorded as a grammatically inseparable part of another element. 
 
-Example: `Printed at the Theater in Oxford, and in London`
+>Example:  
+><CITE>Printed at the Theater in Oxford, and in London</CITE>
 
-Example: `Glasgow`
-
-**Manufacturer’s name:** printed by David Niven for R. & P. Walker, Cockermouth, and sold by G. Robinson & Co., Pater-Noster Row, London
+>Example:  
+>Place of manufacture: <CITE>Glasgow</CITE>  
+>Name of manufacturer: <CITE>printed by David Niven for R. & P. Walker, Cockermouth, and sold by G. Robinson & Co., Pater-Noster Row, London</CITE>
 
 <a name="4.221.6.5">4.221.6.5</a> If a place of manufacture associated with an earlier edition appears together with the actual place of manufacture of the edition being described, transcribe the places as a single element in the order in which they appear.
 
-Example: `London printed, and re-printed at Edinburgh`
+>Example:  
+><CITE>London printed, and re-printed at Edinburgh</CITE>
 
-Example: `Printed at London, and re-printed at Edinburgh`
+>Example:  
+><CITE>Printed at London, and re-printed at Edinburgh</CITE>
 
 <a name="4.221.6.6">4.221.6.6</a> If both the place and manufacturer associated with an earlier edition appear together with the place and manufacturer of the edition being described, transcribe each place with the manufacturer to which it corresponds.
 

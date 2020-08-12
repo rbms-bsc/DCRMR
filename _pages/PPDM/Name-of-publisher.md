@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.203.1.2">4.203.1.2</a> [Source of information](/DCRMR/ppdm/#42-sources-of-information)
 
-## 4.203.2 Definition and scope
+## 4.203.2 RDA Definition and scope
 
 <a name="4.203.2.1">4.203.2.1</a> A nomen that is a name of an agent who is responsible for publishing a manifestation.
 

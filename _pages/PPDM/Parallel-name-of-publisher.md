@@ -7,7 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -18,9 +17,7 @@ sidebar:
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-5d433872-8c86-3bd2-8b6c-16f43bda686c)
 
----
-
-## 4.204.2 Definition and scope
+## 4.204.2 RDA Definition and scope
 
 <a name="4.204.2.1">4.204.2.1</a> A name of publisher in another language or script.
 

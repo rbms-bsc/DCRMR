@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-61a1d2e6-9672-36d4-a7b5-c1e37f685797)
 
-## 4.224.2 Definition and scope
+## 4.224.2 RDA Definition and scope
 
 <a name="4.224.2.1">4.224.2.1</a> A name of manufacturer in another language or script.
 
