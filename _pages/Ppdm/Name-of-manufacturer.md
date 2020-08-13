@@ -30,7 +30,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.223.3 General Rule
 
-<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers,  together with any associated words or phrases, including addresses,  as part of this element when appopriate.  In general, do not omit levels in corporate hierarchy.
+<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers,  together with any associated words or phrases, including addresses,  as part of this element when appropriate.  In general, do not omit levels in corporate hierarchy.
 
 >Example:  
 ><CITE>printed by the heirs and successors of Andrew Anderson, printers to the Queen's Most Excellent Majesty</CITE>

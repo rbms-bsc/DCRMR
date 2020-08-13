@@ -40,9 +40,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.216.3.3">4.216.3.3</a> Make a note if distribution statements are transposed indicating the original position of the transposed elements (see [4.21.4.2](/DCRMR/books/ppdm/Distribution-statement/#4.21.4.2)).
 
-Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
-
-**Note on distribution statement:** Place of distribution, "London," is printed below distributor’s name on title page.
+>Example:  
+>Distribution staetment: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
+>Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
 
 <a name="4.216.3.4">4.216.3.4</a> Make an explanatory note if all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect. Include the source of this information (see [4.21.5.1](/DCRMR/books/ppdm/Distribution-statement/#4.21.5.1)).
 
@@ -52,35 +52,36 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 <a name="4.216.4.1">4.216.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication by giving the place of distribution of the later part(s) (see [4.211.9.1](/DCRMR/books/ppdm/Place-of-distribution/#4.211.9.1)).
 
-Example: `Stuttgart ; Tübingen`
-
-**Note on distribution statement:** `Place of distribution in v. 33-40: Stuttgart ; Augsburg`
+>Example:  
+>Place of distribution: <CITE>Stuttgart ; Tübingen</CITE>  
+>Note on distribution statement: <CITE>Place of distribution in v. 33-40: Stuttgart ; Augsburg</CITE>
 
 <a name="4.216.4.2">4.216.4.2</a> Make an explanatory note if the place of distribution appearing on the manifestation is known to be fictitious or incorrect (see [4.211.96.1](/DCRMR/books/ppdm/Place-of-distribution/#4.211.96.1)).
 
-Example: `Londres [i.e. Paris]`
-
-**Note on distribution statement:** `Actual place of publication from: Weller, E.O.  Falsche Druckorte`
+>Example:  
+>Place of distribution: <CITE>Londres [i.e. Paris]</CITE>  
+>Note on distribution statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 <a name="4.216.4.3">4.216.4.3</a> Make a note if no place of distribution appears on the manifestation but is known by providing a justification for the supplied place (see [4.211.97.1](/DCRMR/books/ppdm/Place-of-distribution/#4.211.97.1)).
 
-Example: `[Cambridge, Mass.] : Printed by Samuel Green, 1668`
-
-**Note on distribution statement:** `Samuel Green was located in Cambridge, Mass., from 1660 to 1672`
+>Example:  
+>Place of distribution: <CITE>[Cambridge, Mass.]</CITE>  
+>Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
 <a name="4.216.4.3">4.216.4.3</a> Make a note when supplying a place of distribution and justification for the supplied place is necessary (see [4.211.98.1](/DCRMR/books/ppdm/Place-of-distribution/#4.221.98.1)).
 
-Example: `[Paris]`
+>Example:  
+> <CITE>[Paris]</CITE>  
+>(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
 
-(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
-
-Example: `[London]`
-
-(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
+>Example:  
+><CITE>[London]</CITE>  
+>(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
 
 <a name="4.216.4.4">4.216.4.4</a> Make a note if the reason for supplying the place is not apparent from the rest of the description to indicate the source of the information (see [4.211.99.3](/DCRMR/books/ppdm/Place-of-distribution/#4.211.99.3)).
 
-Example: `Place of publication suggested by Alden`
+>Example:  
+><CITE>Place of publication suggested by Alden</CITE>
 
 ## 4.216.5 Notes from Name of distributor
 
@@ -114,23 +115,22 @@ Example: `Place of publication suggested by Alden`
 
 *Alternately*, make a note to indicate the source of the information (see [4.215.4.4](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.4)).
 
-Example: `1689 [i.e.1690]`
-
-**Note on distribution statement:** `"Given at our Court at Dublin-Castle the 28th day of March 1690"`
+>Example:  
+>Date of distribution: <CITE>1689 [i.e.1690]</CITE>  
+>Note on distribution statement: <CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
 <a name="4.216.8.4">4.216.8.4</a> If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on distribution statement to indicate the basis for the supplied year (see [4.215.4.5](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.5)).
 
-**Note on distribution statement:** `The year is given according to Lady Day dating`
-
-(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
+>Note on distribution statement: <CITE>The year is given according to Lady Day dating</CITE>  
+>(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 
 <a name="4.216.8.5">4.216.8.5</a>  If the date of distribution requires more than a single adjustment or addition, make a note on distribution statement for source of supplied dates (see  [4.215.4.7](/DCRMR/books/ppdm/Date-of-distribution/#4.215.4.7)).
 
 <a name="4.216.8.6">4.216.8.6</a> If the date of distribution does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on distribution statement (see [4.215.5.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.5.1)).
 
-Example: `MDLII [1552 i.e. 1652]`
-
-**Note on distribution statement:** `Corrected date from Corpus librorum emblematum, Jesuit series.`
+>Example:  
+>Date of distribution: <CITE>MDLII [1552 i.e. 1652]</CITE>  
+>Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series.</CITE>
 
 <a name="4.216.8.7">4.216.8.7</a> When supplying a conjectural date of distribution based on any information available, indicate the basis for the conjecture in a note on distribution statement (see [4.215.6.1](/DCRMR/books/ppdm/Date-of-distribution/#4.215.6.1)).
 
