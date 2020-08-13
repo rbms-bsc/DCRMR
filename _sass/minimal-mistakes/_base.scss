@@ -119,9 +119,9 @@ blockquote {
   border-left: 1.5em solid $background-color;
   font-size: 16px;
   cite {
-    font-family: $monospace;
+    font-family: $sans-serif;
     font-style: normal; 
-	 font-weight: bold; 
+	 font-weight: normal; 
 	 font-size: 17px;  
 
     &:before {
