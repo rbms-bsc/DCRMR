@@ -30,7 +30,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="6.20.2.1">6.20.2.1</a> A statement that identifies a series that is associated with a manifestation and a numbering of a manifestation within the series.
 
-<a name="6.20.2.2">6.20.2.2</a> series statement includes any or all of title of series, other title information of series, statement of responsibility relating to series, and numbering within sequence.
+<a name="6.20.2.2">6.20.2.2</a> A series statement includes any or all of title of series, other title information of series, statement of responsibility relating to series, and numbering within sequence.
 
 ## 6.20.3 Form and Order of Information
 <a name="6.20.3.1">6.20.3.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
