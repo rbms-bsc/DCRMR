@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Transcription
-permalink: docs/general-rules/Transcription/
+permalink: books/general-rules/Transcription/
 sidebar:
   nav: "docs"
 ---
@@ -12,7 +12,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [TBD Link to Google Document](https://docs.google.com/){:target="_blank"}
 
-[TBD Link to Google Form](https://docs.google.com/){:target="_blank"}
+[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewformps://docs.google.com/){:target="_blank"}
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -22,7 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 # 0.5 Transcription
 
-Option: Record a transcription standard used for the metadata work as a Work related manifestation of work of the transcription standard.
+Option: Record a transcription standard used for the metadata work as a [related manifestation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-123e0456-8c5f-3236-ba8a-155b8294a32c). _**ALT note: this is directly from the RDA Tookit [instructions on Transcription](https://beta.rdatoolkit.org/en-US_ala-cfa18e03-17f2-378a-874c-86515bf7e0ac/div_cfw_wqc_ydb); since it's a relationship element, do we want to punt it right now?**_
 
 ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png "ye")
 
@@ -34,7 +34,7 @@ DCRMR normalizes puncutation and capitalization based on current conventions, wi
 
 ## 0.5.1 Capitalization
 
-<a name="0.5.1.0">0.5.1.0</a>Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
+<a name="0.5.1.0">0.5.1.0</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
 
 For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see XXXXXX.
 
