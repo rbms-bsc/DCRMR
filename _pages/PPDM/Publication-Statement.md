@@ -44,39 +44,39 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.20.4.2">4.20.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note on publication statement indicating the original position of the transposed elements (see [4.206.3.3](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.3)).
 
-Example: `Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828`
+>Example:  
+>Publication statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
+>Note on publication statement: <CITE>Date follows place of publication in imprint</CITE>
 
-**Note on publication statement:** `Date follows place of publication in imprint.`
-
-Example: `Lugduni : Apud Seb. Gryphium, 1538`
-
-**Note on Publication Statement:** `Place of publication follows publisher’s name on title page.`
+>Example:  
+>Publication statement: <CITE>Lugduni : Apud Seb. Gryphium, 1538</CITE>  
+>Note on publication statement: <CITE>Place of publication follows publisher’s name on title page</CITE>
 
 <a name="4.20.4.3">4.20.4.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
-Example: `London : publish’d Feby. 27th. 1799 by J. Harris, Sweetings Alley, Cornhill, [February 27, 1799]`
+>Example:  
+><CITE>London : publish’d Feby. 27th. 1799 by J. Harris, Sweetings Alley, Cornhill, [February 27, 1799]</CITE>  
+>(*Comment:* The date of publication has not been transposed because it is a grammatically inseparable element)
 
-(*Comment:* The date of publication has not been transposed because it is a grammatically inseparable element)
-
-Example: `[London] : The Search Publishing Company Ltd., 6 Old Gloucester Street, London, W.C.1, 1932`
-
-(*Comment:* the place of publication has not been transposed because it is a grammatically inseparable element)
+>Example:  
+><CITE>[London] : The Search Publishing Company Ltd., 6 Old Gloucester Street, London, W.C.1, 1932</CITE>  
+>(*Comment:* the place of publication has not been transposed because it is a grammatically inseparable element)
 
 ## 4.20.5 Fictitious or incorrect information
 
 <a name="4.20.5.1">4.20.5.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in aquare brackets.  Include the source of this information in a note on publication statement (see [4.206.3.4](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.4)).  
 
-Example: `Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]`
-
-**Note on publication statement:** `Corrected imprint from: Pia, P. Livres de l'Enfer`
+>Example:  
+>Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]</CITE>  
+>Note on publication statement: <CITE>Corrected imprint from: Pia, P. Livres de l'Enfer</CITE>
 
 ## 4.20.6 Information covered by labels, etc.
 
 <a name="4.20.6.1">4.20.6.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a note on publication statement (see [4.206.3.5](/DCRMR/books/ppdm/Note-on-publication-statement/#4.206.3.5)). 
 
-Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]`
-
-**Note on publication statement:**  `Imprint from printed label affixed to top right corner of title page`
+>Example:  
+>Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
+>Note on publication statement: <CITE>Imprint from printed label affixed to top right corner of title page</CITE>
 
 <a name="4.20.6.2">4.20.6.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/books/notes-on-items/Note-on-item/).
 
@@ -88,25 +88,33 @@ Example: `New York : Perris & Browne, publishers of insurance maps, no. 13, Cham
 
 <a name="4.20.8.1">4.20.8.1</a> If the resource bears only a statement relating to publication, or multiple such statements, treat the statement as a publication statement.
 
-Example: `Geneuae : Sumptibus Petri Chouët, M.DC.LI`
+>Example:  
+><CITE>Geneuae : Sumptibus Petri Chouët, M.DC.LI</CITE>
 
-Example: `[Paris] : Published by Corbeau at Paris and by Robinde at London, [1787]`
+>Example:  
+><CITE>[Paris] : Published by Corbeau at Paris and by Robinde at London, [1787]</CITE>
 
 ## 4.20.9 Statements relating to manufacture or distributor only
 
 <a name="4.20.9.1">4.20.9.1</a> If the resource bears only a statement relating to manufacture, or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a publication statement. 
 
-Example: `Edmonton : Jas. E. Richards, government printer, 1907`
+>Example:  
+><CITE>Edmonton : Jas. E. Richards, government printer, 1907`</CITE>
 
-Example: `A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764`
+>Example:  
+><CITE>A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764</CITE>
 
-Example: `Basileae : in Officina Frobeniana, ann. M.D.XXIII`
+>Example:  
+><CITE>Basileae : in Officina Frobeniana, ann. M.D.XXIII</CITE>
 
-Example: `Edmonton : in typographeio Ioannis Albini, anno 1602`
+>Example:  
+><CITE>Edmonton : in typographeio Ioannis Albini, anno 1602</CITE>
 
-Example: `Imprinted at London : by Wynkyn de Worde dwellynge in Fletestrete at the Sygne of the Sonne agaynst the condyth, the VI. Day of Janiuer in the yere of our Lorde God M.V.C. and XXXIIII`
+>Example:  
+><CITE>Imprinted at London : by Wynkyn de Worde dwellynge in Fletestrete at the Sygne of the Sonne agaynst the condyth, the VI. Day of Janiuer in the yere of our Lorde God M.V.C. and XXXIIII</CITE>
 
-Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657`
+>Example:  
+><CITE>London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657</CITE>
 
 <a name="4.20.9.2">4.20.9.2</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
@@ -118,23 +126,25 @@ Example: `London : printed for George Eversden, at the Mayden-head in St. Pauls-
 
 <a name="4.20.91.3">4.20.91.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 
-Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
+>Example:  
+><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>
 
-Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
+>Example:  
+><CITE>Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]</CITE>
 
-Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
+>Example:  
+><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
 <a name="4.20.91.4">4.20.91.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [statement of responsibility](/DCRMR/books/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.
 
-Example: `A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]`
-
-(*Comment:* The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
-
-but
-
-Example: `The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783`
-
-(*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement)
+>Example:  
+><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
+>(*Comment:* The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
+>
+>but
+>
+><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
+>(*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement)
 
 ## 4.20.92 No publication statement
 
@@ -142,17 +152,22 @@ Example: `The coast of Guyana from the Oroonoko to the River of Amazons and the 
 
 <a name="4.20.92.2">4.20.92.2</a> If the resource bears only a statement relating to distribution, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
-Example: `[London] : se vend chez A. Dulau et Co. Soho-Square; De Boffe, Gerard-Street; Boosey, Royal Exchange; Booker, Bond-Street; L'Homme New Bond-Street, et chez les principaux libraires du royaume, 1800`
+>Example:  
+><CITE>[London] : se vend chez A. Dulau et Co. Soho-Square; De Boffe, Gerard-Street; Boosey, Royal Exchange; Booker, Bond-Street; L'Homme New Bond-Street, et chez les principaux libraires du royaume, 1800</CITE>
 
-Example: `[London] : Catalogues are distributed gratis, at Mr. Manships in Corhill, Mr. Bromes and Mr. Bennets in St. Paul's Church-Yard, Mr. Goodwins in Fleet-street, Mr. Partridge at Charing-Cross, booksellers, [1692]`
+>Example:  
+><CITE>[London] : Catalogues are distributed gratis, at Mr. Manships in Corhill, Mr. Bromes and Mr. Bennets in St. Paul's Church-Yard, Mr. Goodwins in Fleet-street, Mr. Partridge at Charing-Cross, booksellers, [1692]</CITE>
 
-Example: `London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798`
+>Example:  
+><CITE>London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798</CITE>
 
-Example: `London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785`
+>Example:  
+><CITE>London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785</CITE>
 
 <a name="4.20.92.3">4.20.92.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) or [manufacture statement](/DCRMR/books/ppdm/Manufacture-statement/).
 
-Example: `London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792`
+>Example:  
+><CITE>London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
 
 ## 4.20.93 Transcribing dates of publication as part of the Publication statement
 

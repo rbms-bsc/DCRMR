@@ -42,11 +42,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.21.4.2">4.21.4.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note on distribution statement indicating the original position of the transposed elements (see [4.216.3.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.3.3)).
 
-Example: `Huddersfield [England] : Printed and sold by Brook and Lancashire`
+>Example:  
+><CITE>Huddersfield [England] : Printed and sold by Brook and Lancashire</CITE>
 
-Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
-
-**Note on distribution statement:** `Place of distribution, "London," is printed below distributor’s name on title page.`
+>Example:  
+>Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
+>Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page</CITE>
 
 <a name="4.21.4.3">4.21.4.3</a>If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/books/general-rules/Transcription/)).
 
@@ -76,10 +77,13 @@ Example: `London : Sold also by Vernor and Hood, Crosby and Letterman`
 
 <a name="4.21.9.3">4.21.9.3</a>  If grammatically inseparable, transcribe them as a [publication statement](/DCRMR/books/ppdm/Publication-statement/). 
 
-Example: `London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX`
+>Example:  
+><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>
 
-Example: `Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]`
+>Example:  
+><CITE>Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]</CITE>
 
-Example: `Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]`
+>Example:  
+><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
 <a name="4.21.9.4">4.21.9.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [statement of responsibility](/DCRMR/books/sor/Statement-of-responsibility/). Often the layout of the source will suggest the appropriate treatment.

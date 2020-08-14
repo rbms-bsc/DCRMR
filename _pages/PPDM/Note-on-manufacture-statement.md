@@ -50,11 +50,10 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.5.2)).
 
-Example: `Cosmopoli [i.e. London]`
-
-**Note on manufacture statement:** `The imprint is fictitious; printed in London by Richard Field (cf. STC).`
-
-(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
+>Example:  
+><CITE>Cosmopoli [i.e. London]</CITE>  
+>Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC).</CITE>  
+>(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
 <a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [4.221.6.3](/DCRMR/books/ppdm/Place-of-manufacture/#4.221.6.3)).
 
@@ -66,11 +65,10 @@ Example: `Cosmopoli [i.e. London]`
 
 <a name="4.226.5.2">4.226.5.2</a> Make a note on manufacture statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the name of publisher is based on a device (see [4.223.5.2](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.5.2)).
 
-Example: `[Robert Bryson]`
-
-**Note on Manufacture Statement:** `Robert Bryson's device on title page; see McKerrow, R. `
-
-(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
+>Example:  
+><CITE>[Robert Bryson]</CITE>  
+>Note on Manufacture Statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
+>(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
 
 <a name="4.226.5.3">4.226.5.3</a> Make a note if the name of manufacturer is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.223.6.1](/DCRMR/books/ppdm/Name-of-manufacturer/#4.223.6.1)).
 
@@ -92,11 +90,10 @@ Example: `[Robert Bryson]`
 
 <a name="4.226.8.1">4.226.8.1</a> Supply a note on manufacture statement when creating a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see [4.225.4.1](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.1)).
 
-Example: `1990 printing`
-
-**Date of publication:** `1989`
-
-**Note on manufacture statement:** `Date of impression from title page verso.`
+>Example:  
+><CITE>1990 printing</CITE>  
+>Date of publication: <CITE>1989</CITE>  
+>Note on manufacture statement: <CITE>Date of impression from title page verso.</CITE>
 
 <a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.225.4.2](/DCRMR/books/ppdm/Date-of-manufacture/#4.225.4.2)). 
 

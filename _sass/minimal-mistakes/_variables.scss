@@ -14,9 +14,9 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: "Palatino Linotype", Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
-$monospace: Courier, "Lucida Console", "Courier New",  Monaco, Consolas, "Lucida Console", monospace !default;
+$sans-serif: Helvetica, "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Lucida Grande", Arial, sans-serif !default;
+$monospace: "Courier New", Courier, "Lucida Console",   Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $serif !default;
@@ -45,7 +45,7 @@ $type-size-8: 0.625em !default; // ~10px
 
 /* headline scale */
 $h-size-1: 1.563em !default; // ~25.008px
-$h-size-2: 1.25em !default; // ~20px
+$h-size-2: 1.563em !default; // ~20px
 $h-size-3: 1.125em !default; // ~18px
 $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px

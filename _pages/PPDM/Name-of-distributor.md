@@ -34,29 +34,36 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.213.3.2">4.213.3.2</a> Transcribe the name of the distributor, together with any associated words or phrases, as it appears on the manifestation.
 
-Example: `sold for the editor, by Messrs. Dulau & Co.`
+>Example:  
+><CITE>sold for the editor, by Messrs. Dulau & Co.</CITE>
 
-Example: `No. 107, Wardour-Street; De Boffe, No. 7, Gerrard-Street, Soho; and T. Boosey, Broad-Street, behind the Royal Exchange`
+>Example:  
+><CITE>No. 107, Wardour-Street; De Boffe, No. 7, Gerrard-Street, Soho; and T. Boosey, Broad-Street, behind the Royal Exchange</CITE>
 
-Example: `sold at wholesale by Horace Partridge, importer, wholesale and retail dealer in fancy goods, toys, watches, jewelry, Yankee notions, beads, &c. No. 27 Hanover Street Boston`
+>Example:  
+><CITE>sold at wholesale by Horace Partridge, importer, wholesale and retail dealer in fancy goods, toys, watches, jewelry, Yankee notions, beads, &c. No. 27 Hanover Street Boston</CITE>
 
-Example: `Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall`
+>Example:  
+><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
 
 *Optionally,* omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
 
-Example: `sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...`
+>Example:  
+><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>
 
 ## 4.213.4 Distributor statements containing grammatically inseparable place names or dates
 
 <a name="4.213.4.1">4.213.4.1</a> If the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) contains grammatically inseparable statements relating to [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/) or [date of distribution](/DCRMR/books/ppdm/Date-of-distribution/), transcribe the information as part of the name of the distributor element. Supply the [place of distribution](/DCRMR/books/ppdm/Place-of-distribution/) or [date of distribution](/DCRMR/books/ppdm/Date-of-distribution/), in square brackets in the appropriate element.
 
-Example: `[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts.`
+>Example:  
+><CITE>[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts</CITE>
 
 ## 4.213.5 Distributor statements containing only addresses, signs, or initials
 
 <a name="4.213.5.1">4.213.5.1</a> If only the address, sign, or initials of the distributor, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a note on distribution statement (see [4.216.5.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.1)).
 
-Example: `to be sold at the signe of the Blacke Beare [by Edward Blount] in Pauls Church-yard`
+>Example:  
+><CITE>to be sold at the signe of the Blacke Beare [by Edward Blount] in Pauls Church-yard</CITE>
 
 <a name="4.213.5.2">4.213.5.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Make a note on distribution statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.216.5.2](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.5.2)).
 
@@ -70,11 +77,13 @@ Example: `to be sold at the signe of the Blacke Beare [by Edward Blount] in Paul
 
 <a name="4.213.7.2">4.213.7.2</a> *Optionally,* if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [distribution statement](/DCRMR/books/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers (or firms) in the supplied phrase.
 
-Example: `sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]`
+>Example:  
+><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
 
 <a name="4.213.7.3">4.213.7.3</a> If both the place and distributor associated with an earlier edition appear together with the place and publisher of the edition being described, transcribe each distributor with the place to which it corresponds.
 
-Example: `Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard`
+>Example:  
+><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
 
 ## 4.213.8 Names of distributors in multipart monographs
 
@@ -97,5 +106,3 @@ Example: `Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and rep
 <a name="4.213.97.1">4.213.97.1</a> If the name of the  distributor appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [parallel name of distributor](/DCRMR/books/ppdm/Parallel-name-of-distributor/)). Make a note on distribution statement to indicate the original position on the source of any transposed statements (see [4.216.6.2](/DCRMR/books/Note-on-distribution-statement/#4.216.6.2)).
 
 <a name="4.213.97.2">4.213.97.2</a> Make a note if parallel distributors' names are found on a different source as the name of distibutor if considered important for identification (see [4.214.3.1](/DCRMR/books/ppdm/Parallel-name-of-distributor/#4.214.3.1)) and [4.216.6.1](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.6.1)).
-
-

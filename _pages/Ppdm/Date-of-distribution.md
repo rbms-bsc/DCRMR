@@ -32,13 +32,16 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.215.3.1">4.215.3.1</a> Transcribe dates of distribution as part of this element. Include the day and month, if present.
 
-Example: `Octr. 22, 1796`
+>Example:  
+><CITE>Octr. 22, 1796</CITE>
 
 <a name="4.215.3.2">4.215.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
 
-Example: `in the year of God 1638`
+>Example:  
+><CITE>in the year of God 1638</CITE>
 
-Example: `anno Dom. 1660`
+>Example:  
+><CITE>anno Dom. 1660</CITE>
 
 <a name="4.215.3.3">4.215.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of distribution.
 
@@ -46,9 +49,11 @@ Example: `anno Dom. 1660`
 
 <a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/books/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
-Example: `in the year M.DCC.LXXV [1775]`
+>Example:  
+><CITE>in the year M.DCC.LXXV [1775]</CITE>
 
-Example: `anno MDCLXXXVII [1687]`
+>Example:  
+><CITE>anno MDCLXXXVII [1687]</CITE>
 
 <a name="4.215.4.2">4.215.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
@@ -60,35 +65,35 @@ Alternately, substitute for it the date in arabic numerals in square brackets. I
 
 *Alternately*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a note to indicate the source of the information (see [4.216.8.3](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
-Example: `1689 [i.e.1690]`
-
-**Note on distribution statement:** `"Given at our Court at Dublin-Castle the 28th day of March 1690"`
+>Example:  
+>Date of distribution: <CITE>1689 [i.e.1690]</CITE>  
+>Note on distribution statement:<CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
 <a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates.** If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note to indicate the basis for the supplied year (see [4.216.8.4](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
-Example: `1661 [i.e. 1662]`
-
-**Note on distribution statement:** `The year is given according to Lady Day dating`
-
-(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
+>Example:  
+>Date of distribution: <CITE>1661 [i.e. 1662]</CITE>  
+>Note on distribution statement: <CITE>The year is given according to Lady Day dating</CITE>  
+>(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 
-Example: `1691/2 [i.e. 1692]`
+>Example:  
+><CITE>1691/2 [i.e. 1692]</CITE>
 
 <a name="4.215.4.6">4.215.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of distribution is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
-Example: `An III [1794 or 1795]`
-
-(*Comment:* Date of imprint follows French Revolutionary calendar)
+>Example:  
+><CITE>An III [1794 or 1795]</CITE>  
+>(*Comment:* Date of imprint follows French Revolutionary calendar)
 
 *Optionally,* if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
-Example: `die visitationis Beatae Virginis Mariae [July 2] 1497`
-
-(*Comment:* Day and month follow ecclesiastical calendar)
+>Example:  
+><CITE>die visitationis Beatae Virginis Mariae [July 2] 1497</CITE>  
+>(*Comment:* Day and month follow ecclesiastical calendar)
 
 <a name="4.215.4.7">4.215.4.7</a> **Multiple adjustments or additions.** If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Make a note on distribution statement for source of supplied dates (see [4.216.8.5](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.5)).
 
@@ -96,9 +101,9 @@ Example: `die visitationis Beatae Virginis Mariae [July 2] 1497`
 
 <a name="4.215.5.1">4.215.5.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a note (see [4.216.8.6](/DCRMR/books/ppdm/Note-on-distribution-statement/#4.216.8.6)).
 
-Example: `MDLII [1552 i.e. 1652]`
-
-**Note on distribution statement:** `Corrected date from Corpus librorum emblematum, Jesuit series.`
+>Example:  
+>Date of distribution: <CITE>MDLII [1552 i.e. 1652]</CITE>  
+>Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series.</CITE>
 
 ## 4.215.6 Conjectural date of distribution
 
