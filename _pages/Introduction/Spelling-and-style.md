@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Spelling and style
-permalink: books/introduction/Spelling-and-style/
+permalink: introduction/Spelling-and-style/
 sidebar:
   nav: "docs"
 ---
