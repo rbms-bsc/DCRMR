@@ -22,9 +22,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.211.1 Element information
 
-<a name="5.211.1.1 ">5.211.1.1</a>  [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f96b31a0-8dd8-324c-a2e7-28f9540f665e)
+<a name="5.211.1.1">5.211.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f96b31a0-8dd8-324c-a2e7-28f9540f665e)
 
-<a name="5.211.1.2 ">5.211.1.2</a> [Source of information](/DCRMR/phys-desc)
+<a name="5.211.1.2">5.211.1.2</a> [Source of information](/DCRMR/phys-desc)
 
 ## 5.211.2 RDA Definition and Scope
 
@@ -42,5 +42,5 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Japan vellum</CITE>
 
-<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [details of base material](/DCRMR/books/phys-desc/Details-of-base-material/) [5.2112.X.X](/DCRMR/books/phys-desc/Details-of-base-material/#5.2112.X.X)).
+<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [details of base material](/DCRMR/books/phys-desc/Details-of-base-material/) [5.2112.3.1](/DCRMR/books/phys-desc/Details-of-base-material/#5.2112.3.1)).
 

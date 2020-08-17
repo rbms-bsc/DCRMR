@@ -28,27 +28,27 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-## 5.212.2 Definition and scope
+## 5.212.2 RDA Definition and scope
 
 <a name="5.212.2.1">5.212.2.1</a> A physical or chemical substance applied to a base material of a manifestation.
 
 ## 5.212.3 General rule 
 
-<a name="5.212.3.1">5.212.3.1</a> Record the applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies, RDA Material] (http://www.rdaregistry.info/termList/RDAMaterial/), and indicate the source.
+<a name="5.212.3.1">5.212.3.1</a> Record the applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies, RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/), and indicate the source.
 
->Example:
+>Example:  
 ><CITE>ink</CITE>
 
->Example:
+>Example:  
 ><CITE>watercolour</CITE>
 
 <a name="5.212.3.2">5.212.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
->Example:
+>Example:  
 ><CITE>gold leaf</CITE>
 
 <a name="5.212.3.3">5.212.3.3</a> When multiple applied materials are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 
-<a name="5.212.3.4">5.212.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record "mixed materials."
+<a name="5.212.3.4">5.212.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record *mixed materials.*
 
 <a name="5.212.3.5">5.212.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation in details of applied material if considered important (see [details of applied material](/DCRMR/books/phys-desc/Details-of-applied-material/), [5.2122.3.1](/DCRMR/books/phys-desc/Details-of-applied-material/#5.2122.3.1).
