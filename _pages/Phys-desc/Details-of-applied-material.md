@@ -24,6 +24,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.2122.1.1">5.2122.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-a272b070-0b22-3745-93bc-d21d622f422b)
 
+<a name="5.2122.1.2">5.2122.1.2</a> [Source of information](/DCRMR/phys-desc/)
+
 ---
 
 ## 5.2122.2 Definition and scope
@@ -33,3 +35,5 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ## 5.2122.3 General rule 
 
 <a name="5.2122.3.1">5.2122.3.1</a> Record details of applied material if considered important.
+
+<a name="5.2122.3.2">5.2122.3.2</a> If multiple materials are known to have been applied, but not all can be readily identified, record “mixed materials”.
