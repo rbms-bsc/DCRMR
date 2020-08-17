@@ -3,7 +3,7 @@ layout: single
 type: docs
 title: Preface
 permalink: /preface/
-permalink: books/preface/
+permalink: preface/
 sidebar:
   nav: "docs"
 ---

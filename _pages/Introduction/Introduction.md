@@ -18,14 +18,14 @@ sidebar:
 
 [IV. Options](/DCRMR/introduction/Options/)
 
-[V. Language preferences](/DCRMR/introduction/Language preferences/)
+[V. Language preferences](/DCRMR/introduction/Language-preferences/)
 
-[VI. Spelling and style](/DCRMR/introduction/Spelling and style/)
+[VI. Spelling and style](/DCRMR/introduction/Spellin- and-style/)
 
 [VII. Acronyms](/DCRMR/introduction/Acronyms/)
 
-[VIII. Examples and notes](/DCRMR/introduction/Examples and notes/)
+[VIII. Examples and notes](/DCRMR/introduction/Examples-and-notes/)
 
-[IX. Integrity of the copy](/DCRMR/introduction/Integrity of the copy/)
+[IX. Integrity of the copy](/DCRMR/introduction/Integrity-of-the-copy/)
 
 [X. Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/)
