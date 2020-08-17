@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Background
-permalink: books/preface/Background/
+permalink: preface/Background/
 sidebar:
   nav: "docs"
 ---
