@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Designation of edition
-permalink: docs/edition/Designation-of-edition/
+permalink: edition/Designation-of-edition/
 sidebar:
   nav: "docs"
 ---

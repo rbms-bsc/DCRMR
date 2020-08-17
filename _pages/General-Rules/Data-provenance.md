@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Data provenance
-permalink: books/general-rules/Data-provenance/
+permalink: general-rules/Data-provenance/
 sidebar:
   nav: "docs"
 ---
@@ -32,25 +32,24 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ### 0.2.3 Imperfect exemplars of a manifestation
 
-<a name="0.2.3.1">0.2.3.1</a> A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the item in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information. For item-specific modifications, see [8.21.X.X](/DCRMR/books/notes-on-items/Modification-of-item/#8.21.X.X).
+<a name="0.2.3.1">0.2.3.1</a> A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the item in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information. For item-specific modifications, see [8.21.X.X](/DCRMR/notes-on-items/Modification-of-item/#8.21.X.X).
 
-If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [7.223.X.X](/DCRMR/books/other-notes/Manifestation-described-in/#7.223.4.1)). Make a local note describing the imperfection of the item in hand (see [8.21.X.X](/DCRMR/books/notes-on-items/Modification-of-item/#8.21.X.X)).
+If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [7.223.X.X](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)). Make a local note describing the imperfection of the item in hand (see [8.21.X.X](/DCRMR/notes-on-items/Modification-of-item/#8.21.X.X)).
 
-<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/books/general-rules/Transcription/#0.5.14)). Make a Note on manifestation indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/books/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a Note on manifestation indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:  
->`London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho`  
->Note on publication statement: `Imprint from British Museum. Dept. of Prints and Drawings. Catalogue of prints and drawings in the British Museum (1870-1954) (George)`  
->Note on modification of item: `Imperfect; trimmed below title, removing imprint`
+><CITE>London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho</CITE>  
+>Note on publication statement: <CITE>Imprint from British Museum. Dept. of Prints and Drawings. Catalogue of prints and drawings in the British Museum (1870-1954) (George)</CITE>  
+>Note on modification of item: <CITE>Imperfect; trimmed below title, removing imprint</CITE>
 
----
 >Example:  
->`Carta de [...] sitio de Puebla`  
->Note on manifestation: `Description based on an imperfect copy; section of map missing at top, affecting text`
+><CITE>Carta de [...] sitio de Puebla</CITE>  
+>Note on manifestation: <CITE>Description based on an imperfect copy; section of map missing at top, affecting text</CITE>
 
 <a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials.** If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
-<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply.** If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/books/general-rules/Transcription/#0.5.14)). Make a Note on manifestation describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/books/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply.** If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a Note on manifestation describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 ### 0.2.4 Dust jackets
 
@@ -64,12 +63,12 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 Treat facing pages or pages on successive leaves in different languages or scripts as a single source of information.
 
-However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a note to indicate that the cover has been chosen as the preferred source (see [1.26.X.X](/DCRMR/books/title/Note-on-title/#1.26.X.X)).
+However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a note to indicate that the cover has been chosen as the preferred source (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
 
 >Example:  
->`Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848`  
->Note on title: `Title, edition statement, and imprint taken from printed wrapper.`  
->Title page reads: `Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846`
+><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</CITE>  
+>Note on title: <CITE>Title, edition statement, and imprint taken from printed wrapper.</CITE>
+>Title page reads: <CITE>Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846</CITE>
 
 <a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources.** If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 
@@ -86,7 +85,7 @@ However, if the manifestation bears a cover or case issued with the resource tha
 + a cover integral to the resource
 + a source elsewhere within the resource
 
-Make a note indicating the source chosen as the title page substitute (see [1.26.X.X](/DCRMR/books/title/Note-on-title/#1.26.X.X)).
+Make a note indicating the source chosen as the title page substitute (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
 
 Hereafter in these rules, “title page” means “title page or title page substitute.”
 
@@ -143,8 +142,8 @@ When the instructions specify transcription, indicate that the information is su
 If the source of information is not the manifestation that is being described, enclose the information in square brackets. Record a note to indicate the source of information.
 
 >Example:  
->Title: `[The great triumphal chariot of Maximilian I]`  
->Note on title: `Title from Bartsch, 1001.339`   
->Comment: A separate note is used to provide a full citation for the reference to the published description.
+>Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
+>Note on title: <CITE>Title from Bartsch, 1001.339</CITE>   
+>(*Comment:* A separate note is used to provide a full citation for the reference to the published description.)
 
 *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.

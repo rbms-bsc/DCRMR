@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Edition statement
-permalink: docs/edition/Edition-statement/
+permalink: edition/Edition-statement/
 sidebar:
   nav: "docs"
 ---
