@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details-of-base-material
+title: Details of base material
 permalink: books/phys-desc/Details-of-base-material/
 sidebar:
   nav: "docs"
