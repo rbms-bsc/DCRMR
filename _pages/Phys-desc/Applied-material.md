@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Applied material
-permalink: books/phys-desc/Applied-material/
+permalink: phys-desc/Applied-material/
 sidebar:
   nav: "docs"
 ---
@@ -49,4 +49,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.212.3.4">5.212.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record *mixed materials.*
 
-<a name="5.212.3.5">5.212.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation in details of applied material if considered important (see [details of applied material](/DCRMR/books/phys-desc/Details-of-applied-material/), [5.2122.3.1](/DCRMR/books/phys-desc/Details-of-applied-material/#5.2122.3.1).
+<a name="5.212.3.5">5.212.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation in details of applied material if considered important (see [details of applied material](/DCRMR/phys-desc/Details-of-applied-material/), [5.2122.3.1](/DCRMR/phys-desc/Details-of-applied-material/#5.2122.3.1).

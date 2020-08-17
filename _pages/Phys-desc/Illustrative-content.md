@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Illustrative content
-permalink: books/phys-desc/Illustrative-content/
+permalink: phys-desc/Illustrative-content/
 sidebar:
   nav: "docs"
 ---
@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.202.1.1">5.202.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-126a56dc-d07f-34bf-9e42-0bfa48a3e574){:target="_blank"}
 
-<a name="5.202.1.2">5.202.1.2</a> [Source of information](/DCRMR/books/phys-desc/) 
+<a name="5.202.1.2">5.202.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
 ## 5.202.2 RDA definition and scope
 
@@ -38,25 +38,25 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.202.3 Ornaments, etc.
 
-<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/), [5.203.3.2](/DCRMR/books/phys-desc/Details-of-illustrative-content/#5.203.3.2). 
+<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.2). 
 
 ## 5.202.4 Illustrated title pages
 
-<a name="5.202.4.1">5.202.4.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/), [5.203.3.3](/DCRMR/books/phys-desc/Details-of-illustrative-content/#5.203.3.3)).
+<a name="5.202.4.1">5.202.4.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.3)).
 
 ## 5.202.5 Graphic processes or techniques
 
-<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [production method](/DCRMR/books/phys-desc/Production-method/) (see [5.213.X.X](/DCRMR/books/phys-desc/Production-method/#5.213.X.X)).  
+<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [production method](/DCRMR/phys-desc/Production-method/) (see [5.213.X.X](/DCRMR/phys-desc/Production-method/#5.213.X.X)).  
 
-<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/books/phys-desc/Details-of-illustrative-content/#5.203.3.4). 
+<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4). 
 
 ## 5.202.6 Color illustrations
 
-<a name="5.202.6.1">5.202.6.1</a> See [colour content](/DCRMR/books/phys-desc/colour-content/), [5.204.6.1](/DCRMR/books/phys-desc/colour-content/#5.204.6.1) for controlled terms for color content of illustrations.
+<a name="5.202.6.1">5.202.6.1</a> See [colour content](/DCRMR/phys-desc/colour-content/), [5.204.6.1](/DCRMR/phys-desc/colour-content/#5.204.6.1) for controlled terms for color content of illustrations.
 
-<a name="5.202.6.2">5.202.6.2</a> See [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.3.1](/DCRMR/books/phys-desc/Details-of-colour-content/#5.205.3.1) for fuller details on color content of illustrations.
+<a name="5.202.6.2">5.202.6.2</a> See [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.3.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.3.1) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [colour content](/DCRMR/books/phys-desc/colour-content/), [5.204.6.1](/DCRMR/books/phys-desc/colour-content/#5.204.6.1) for controlled terms for hand-coloring. For details of hand-coloring, see [details of colour content](/DCRMR/books/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/books/phys-desc/Details-of-colour-content//#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/books/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/books/Notes-on-items/Note-on-item/#8.20.X.X).
+<a name="5.202.6.3">5.202.6.3</a> See [colour content](/DCRMR/phys-desc/colour-content/), [5.204.6.1](/DCRMR/phys-desc/colour-content/#5.204.6.1) for controlled terms for hand-coloring. For details of hand-coloring, see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content//#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X).
 
 # 5.202.7 General rule
 
@@ -113,7 +113,7 @@ sample
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/books/Other-notes/Supplementary-content/), [X.X.X.X]((/DCRMR/books/Other-notes/Supplementary-content/#X.X.X.X)), [Accompanying material](/DCRMR/books/Other-notes/Accompanying-material/), [X.X.X.X](/DCRMR/books/Other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/books/phys-desc/Details-of-illustrative-content/#5.203.9.1).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/Other-notes/Supplementary-content/), [X.X.X.X]((/DCRMR/Other-notes/Supplementary-content/#X.X.X.X)), [Accompanying material](/DCRMR/Other-notes/Accompanying-material/), [X.X.X.X](/DCRMR/Other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.1).  
 
 >Example:  
 >`map`  
@@ -121,7 +121,7 @@ sample
 
 # 5.202.91 Illustrations on endpapers
 
-<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [details of illustrative content](/DCRMR/books/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/books/phys-desc/Details-of-illustrative-content/#5.203.9.2).  
+<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2).  
 
 >Example:  
 >`map`  
@@ -175,7 +175,7 @@ sample
 
 <a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/books/phys-desc/Illustrative-content/#5.202.8.3), precede the term specifying the particular type with "chiefly".                 
+*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3), precede the term specifying the particular type with "chiefly".                 
 
 >Example:  
 > `chiefly illustrations`
