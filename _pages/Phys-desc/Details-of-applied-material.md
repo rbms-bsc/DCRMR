@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Details of applied material
-permalink: books/phys-desc/details-of-applied-material/
+permalink: books/phys-desc/Details-of-applied-material/
 sidebar:
   nav: "docs"
 ---

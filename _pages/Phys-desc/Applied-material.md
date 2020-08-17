@@ -24,9 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.212.1.1">5.212.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-ca5c2d63-34dc-35c3-8033-71d949c4419d)
 
-<a name="5.212.1.2">5.212.1.2</a> [Source of information](/DCRMR/books/phys-desc/) 
-
----
+<a name="5.212.1.2">5.212.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
 ## 5.212.2 RDA Definition and scope
 

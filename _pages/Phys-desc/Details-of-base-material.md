@@ -10,7 +10,7 @@ sidebar:
 ## Process for Gathering Public Review Comments.
 Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
 
-[Link to Google Document](https://docs.google.com/document/d/1kG1REPJQeHFtVMhgezrfNr_Q5bl38IQa1AudSbaA_-w/edit#heading=h.rkgo3gie23qj){:target="_blank"}
+[Link to Google Document](https://docs.google.com/document/d/1kG1REPJQeHFtVMhgezrfNr_Q5bl38IQa1AudSbaA_-w/edit){:target="_blank"}
 
 [Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
@@ -22,9 +22,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.2112.1 Manifestation: Details of base material
 
-<a name="5.2112.1.1 ">5.2112.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35)
+<a name="5.2112.1.1">5.2112.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35)
 
-<a name="5.2112.1.2 ">5.2112.1.2</a> [Source of information](/DCRMR/phys-desc)
+<a name="5.2112.1.2">5.2112.1.2</a> [Source of information](/DCRMR/phys-desc)
 
 ## 5.2112.2 Definition and Scope
 
