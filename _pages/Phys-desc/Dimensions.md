@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Dimensions
-permalink: books/phys-desc/Dimensions/
+permalink: phys-desc/Dimensions/
 sidebar:
   nav: "docs"
 ---
@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.21.1.1">5.21.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-cc95f0fd-c059-334d-b240-c7379e396c7d){:target="_blank"}
 
-<a name="5.21.1.2">5.21.1.2</a> [Sources of information](/DCRMR/books/phys-desc/)
+<a name="5.21.1.2">5.21.1.2</a> [Sources of information](/DCRMR/phys-desc/)
 
 ## 5.21.2 RDA definition and scope
 
@@ -49,7 +49,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:
 > **`95 x 120 mm`**
 
-<a name="5.21.3.3">5.21.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [note on dimensions of item](/DCRMR/books/notes-on-items/Note-on-dimesions-of-item/), see [8.25.X.X](/DCRMR/books/notes-on-items/Note-on-dimesions-of-item/#8.25.X.X).
+<a name="5.21.3.3">5.21.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimesions-of-item/), see [8.25.X.X](/DCRMR/notes-on-items/Note-on-dimesions-of-item/#8.25.X.X).
 
 # 5.21.4-5.21.6 Volumes
 
@@ -77,7 +77,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.21.6 Differing sizes
 
-<a name="5.21.6.1">5.21.6.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [note on dimensions of manifestation](/DCRMR/books/phys-desc/Note-on-dimensions-of-manifestation/) (see [5.2101.3.2](/DCRMR/books/phys-desc/Note-on-dimensions-of-manifestation/#5.2101.3.2)) or [note on dimensions of item](/DCRMR/books/notes-on-items/Note-on-dimensions-of-item/) (see [8.25.X.X](/DCRMR/books/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X)).
+<a name="5.21.6.1">5.21.6.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [5.2101.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#5.2101.3.2)) or [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) (see [8.25.X.X](/DCRMR/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X)).
 
 <a name="5.21.6.2">5.21.6.2</a> If the volumes of a multipart set differ in size, record the smallest or smaller size and the largest or larger size, separated by a hyphen.
 
@@ -102,7 +102,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > **`24 x 38 cm`**   
 > Note on dimensions of item: **`Folded by later owner to 24 x 19 cm`**
 
-<a name="5.21.7.4">5.21.7.4</a> When describing sheets designed to be used as folded (see [5.21.7.2](/DCRMR/books/phys-desc/Dimensions/#5.21.7.2)), record the height of the sheet when folded.
+<a name="5.21.7.4">5.21.7.4</a> When describing sheets designed to be used as folded (see [5.21.7.2](/DCRMR/phys-desc/Dimensions/#5.21.7.2)), record the height of the sheet when folded.
 
 >Example:  
 > **`18 cm`**  
@@ -114,8 +114,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >**`33 cm, in box 34 x 25 x 6 cm`**
 
-<a name="5.21.8.2">5.21.8.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](/DCRMR/books/notes-on-items/Note-on-dimensions-of-item/) if considered important, see [8.25.X.X](/DCRMR/books/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X). 
+<a name="5.21.8.2">5.21.8.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) if considered important, see [8.25.X.X](/DCRMR/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X). 
 
-<a name="5.21.8.3">5.21.8.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container (see [5.21.4-5.21.6](/DCRMR/books/phys-desc/Dimensions/#5214-5216-volumes)).
+<a name="5.21.8.3">5.21.8.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container (see [5.21.4-5.21.6](/DCRMR/phys-desc/Dimensions/#5214-5216-volumes)).
 
 <a name="5.21.8.4">5.21.8.4</a> If the containers differ in size, record the dimensions of the smallest or smaller and the largest or larger size.

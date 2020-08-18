@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Related manifestation of RDA entity
-permalink: books/other-notes/Related-manifestation-of-RDA-entity/
+permalink: other-notes/Related-manifestation-of-RDA-entity/
 sidebar:
   nav: "docs"
 ---
@@ -44,7 +44,8 @@ X.X. In citing other works and other manifestations of the same work (other than
 <a name="7.23.5.2">7.23.5.2</a> In citing another edition of the same work, give enough information to identify the edition cited.
 X.X. In citing other works and other manifestations of the same work (other than different editions with the same title), give whatever information is appropriate, such as the main entry heading, title proper (or uniform title), statement of responsibility, edition statement, or date of publication. Arrange the information provided in the form that makes most sense in the particular case. Abridge the information as needed without using the mark of omission.
 
-Example: `A reissue of the 1756 ed., without the plates.`
+>Example:  
+><CITE>A reissue of the 1756 ed., without the plates.</CITE>
 
 ## 7.23.6 Accompanied by manifestation
 
@@ -52,6 +53,6 @@ Example: `A reissue of the 1756 ed., without the plates.`
 
 <a name="7.23.6.2">7.23.6.2</a> If accompanying material is issued in a pocekt attached to a publication, specify the location in a note.
 
-Example: `; 30 cm (4to) +2 folded maps`
-
-**Accompanied by manifestation:** `Maps in pocket on inside back cover.`
+>Example:  
+><CITE>; 30 cm (4to) +2 folded maps</CITE>
+>Accompanied by manifestation: <CITE>Maps in pocket on inside back cover.</CITE>

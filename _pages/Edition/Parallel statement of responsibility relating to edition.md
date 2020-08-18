@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel statement of responsibility relating to edition
-permalink: docs/edition/Parallel-statement-of-responsibility-relating-to-edition/
+permalink: edition/Parallel-statement-of-responsibility-relating-to-edition/
 sidebar:
   nav: "docs"
 ---

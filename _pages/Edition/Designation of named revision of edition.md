@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Designation of named revision of edition
-permalink: docs/edition/Designation-of-named-revision-of-edition/
+permalink: edition/Designation-of-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

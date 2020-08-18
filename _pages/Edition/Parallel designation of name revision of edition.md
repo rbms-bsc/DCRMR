@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel designation of named revision of edition
-permalink: docs/edition/Parallel-designation-of-named-revision-of-edition/
+permalink: edition/Parallel-designation-of-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

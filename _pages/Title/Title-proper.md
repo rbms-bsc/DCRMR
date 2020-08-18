@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Title proper
-permalink: docs/title/Title-proper/
+permalink: title/Title-proper/
 sidebar:
   nav: "docs"
 ---

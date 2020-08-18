@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Relationship to other standards
-permalink: books/introduction/Relationship-to-other-standards/
+permalink: introduction/Relationship-to-other-standards/
 sidebar:
   nav: "docs"
 ---

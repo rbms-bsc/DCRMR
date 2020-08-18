@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Supplementary content
-permalink: books/other-notes/Supplementary-content/
+permalink: other-notes/Supplementary-content/
 sidebar:
   nav: "docs"
 ---
@@ -38,32 +38,43 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="7.232.4.1">7.232.4.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
 
-Example: `Includes bibliographical references (pages 43-58)`
+>Example:  
+><CITE>Includes bibliographical references (pages 43-58)</CITE>
 
-Example: `Includes bibliographical references`
+>Example:  
+><CITE>Includes bibliographical references</CITE>
 
-Example: `Includes index`
+>Example:  
+><CITE>Includes index</CITE>
 
-Example: `"List of the author's unpublished poems": pages 151-158`
+>Example:  
+><CITE>"List of the author's unpublished poems": pages 151-158</CITE>
 
-Example: `With a list of subscribers`
+>Example:  
+><CITE>With a list of subscribers</CITE>
 
-Example: `Prospectus and bookseller's advertisements on pages 77-[80]`
+>Example:  
+><CITE>Prospectus and bookseller's advertisements on pages 77-[80]</CITE>
 
-Example: `Publisher's advertisements on [2] pages at end`
+>Example:  
+><CITE>Publisher's advertisements on [2] pages at end</CITE>  
+>(*Comment:* advertisements integral to manifestation)
 
-(*Comment:* advertisements integral to manifestation)
-
-Example: `Final unnumbered sequence contains: 'An abstract of the penal-laws`
+>Example:  
+><CITE>Final unnumbered sequence contains: 'An abstract of the penal-laws'</CITE>
 
 ## 7.232.5 Errata leaves and slips
 
 <a name="7.232.5.1">7.232.5.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the publication if considered important.
 
-Example: `Errata on last leaf`
+>Example:  
+><CITE>Errata on last leaf</CITE>
 
-Example: `With an errata slip`
+>Example:  
+><CITE>With an errata slip</CITE>
 
-Example: `With an errata slip pasted onto a blank leaf after the title page`
+>Example:  
+><CITE>With an errata slip pasted onto a blank leaf after the title page</CITE>
 
-Example: `Errata on page [47]`
+>Example:  
+><CITE>Errata on page [47]</CITE>

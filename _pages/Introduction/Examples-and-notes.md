@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Examples and notes
-permalink: books/introduction/Examples-and-notes/
+permalink: introduction/Examples-and-notes/
 sidebar:
   nav: "docs"
 ---
@@ -26,4 +26,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## I.2 Notes
 
-<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](https://rbms-bsc.github.io/DCRMR/other-notes/) and [Notes on items](https://rbms-bsc.github.io/DCRMR/notes-on-items/).
+<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](/DCRMR/other-notes/) and [Notes on items](/DCRMR/notes-on-items/).

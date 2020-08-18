@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Statement of responsibility relating to named revision of edition
-permalink: docs/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
+permalink: edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

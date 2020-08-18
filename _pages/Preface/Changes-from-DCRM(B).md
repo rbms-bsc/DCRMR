@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Changes from DCRM(B)
-permalink: books/preface/Changes-from-DCRM(B)/
+permalink: preface/Changes-from-DCRM(B)/
 sidebar:
   nav: "docs"
 ---

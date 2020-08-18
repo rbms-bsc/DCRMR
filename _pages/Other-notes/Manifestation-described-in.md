@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Manifestation described in
-permalink: books/other-notes/Manifestation-described-in/
+permalink: other-notes/Manifestation-described-in/
 sidebar:
   nav: "docs"
 ---
@@ -38,26 +38,24 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="7.223.4.2">7.223.4.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
->Example one:&nbsp;  
->`English short title catalogue, T60996`&nbsp;  
->`Note on publication statement: Publication date from BAL`&nbsp;  
+>Example:   
+>Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
+>Note on publication statement: <CITE>Publication date from BAL</CITE>  
 >(*Comment:* A publication in quarto)
  
->Example two:&nbsp;  
->`Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269`&nbsp;  
-> **Note on publication statement:** `Publication date from BAL`&nbsp;  
->>(*Comment:* A publication in quarto)
+>Example:  
+>Manifestation described in: <CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
+>Note on publication statement: <CITE>Publication date from BAL</CITE>  
+>(*Comment:* A publication in quarto)
 
-&nbsp;
->Example three:&nbsp;  
->`Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277`  
->>Note on publication statement: `Publication date from BAL`&nbsp;  
->>(*Comment:* A publication in quarto)
+>Example:  
+>Manifestation described in: <CITE>Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277</CITE>  
+>Note on publication statement: <CITE>Publication date from BAL</CITE>  
+>(*Comment:* A publication in quarto)
+ 
+>Example:  
+>Manifestation described in: <CITE>Detailed description of plates in: Abbey, J.R. Travel, 23</CITE>  
+>Note on publication statement: <CITE>Publication date from BAL</CITE>  
+>(*Comment:* A publication in quarto)
 
-&nbsp;  
->Example four:&nbsp;  
->>`Detailed description of plates in: Abbey, J.R. Travel, 23`
->>  Note on publication statement: `Publication date from BAL` 
->>>(*Comment:* A publication in quarto)
-
-<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source, see Note on RDA entity [7.23.4.1](/DCRMR/books/other-notes/Note-on-RDA-entity/#7.23.4.1).
+<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source, see Note on RDA entity [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1).

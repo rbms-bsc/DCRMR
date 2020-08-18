@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Objectives and principles
-permalink: books/introduction/Objectives-and-principles/
+permalink: introduction/Objectives-and-principles/
 sidebar:
   nav: "docs"
 ---

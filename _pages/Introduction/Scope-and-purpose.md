@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Scope and purpose
-permalink: books/introduction/Scope-and-purpose/
+permalink: introduction/Scope-and-purpose/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on RDA entity
-permalink: books/other-notes/Note-on-RDA-entity/
+permalink: other-notes/Note-on-RDA-entity/
 sidebar:
   nav: "docs"
 ---
@@ -30,10 +30,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 7.23.3 Sources of information
 
-<a name="7.23.3.1">7.23.3.1</a>  Take information for this element from any source.
+<a name="7.23.3.1">7.23.3.1</a> Take information for this element from any source.
 
 ## 7.23.4 General rule
 
 <a name="7.23.4.1">7.23.4.1</a> Make a note to indicate that a description of the manifestation being cataloged does not appear in a specific reference source only if the manifestation fits the scope for that source and the source purports to be comprehensive for its scope. Preface the note with the words “Not in” and a colon. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/).
 
-Example: `Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française. Cf. IV:2, 9093`
+>Example:  
+><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française. Cf. IV:2, 9093</CITE>

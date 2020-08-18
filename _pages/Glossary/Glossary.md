@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Glossary
-permalink: general/glossary/
+permalink: /glossary/
 sidebar:
   nav: "docs"
 ---
@@ -10,56 +10,56 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[Num](/DCRMR/general/glossary/Num/)
+[Num](/DCRMR/glossary/Num/)
 
-[A](/DCRMR/general/glossary/A/)
+[A](/DCRMR/glossary/A/)
 
-[B](/DCRMR/general/glossary/B/)
+[B](/DCRMR/glossary/B/)
 
-[C](/DCRMR/general/glossary/C/)
+[C](/DCRMR/glossary/C/)
 
-[D](/DCRMR/general/glossary/D/)
+[D](/DCRMR/glossary/D/)
 
-[E](/DCRMR/general/glossary/E/)
+[E](/DCRMR/glossary/E/)
 
-[F](/DCRMR/general/glossary/F/)
+[F](/DCRMR/glossary/F/)
 
-[G](/DCRMR/general/glossary/G/)
+[G](/DCRMR/glossary/G/)
 
-[H](/DCRMR/general/glossary/H/)
+[H](/DCRMR/glossary/H/)
 
-[I](/DCRMR/general/glossary/I/)
+[I](/DCRMR/glossary/I/)
 
-[J](/DCRMR/general/glossary/J/)
+[J](/DCRMR/glossary/J/)
 
-[K](/DCRMR/general/glossary/K/)
+[K](/DCRMR/glossary/K/)
 
-[L](/DCRMR/general/glossary/L/)
+[L](/DCRMR/glossary/L/)
 
-[M](/DCRMR/general/glossary/M/)
+[M](/DCRMR/glossary/M/)
 
-[N](/DCRMR/general/glossary/N/)
+[N](/DCRMR/glossary/N/)
 
-[O](/DCRMR/general/glossary/O/)
+[O](/DCRMR/glossary/O/)
 
-[P](/DCRMR/general/glossary/P/)
+[P](/DCRMR/glossary/P/)
 
-[Q](/DCRMR/general/glossary/Q/)
+[Q](/DCRMR/glossary/Q/)
 
-[R](/DCRMR/general/glossary/R/)
+[R](/DCRMR/glossary/R/)
 
-[S](/DCRMR/general/glossary/S/)
+[S](/DCRMR/glossary/S/)
 
-[T](/DCRMR/general/glossary/T/)
+[T](/DCRMR/glossary/T/)
 
-[U](/DCRMR/general/glossary/U/)
+[U](/DCRMR/glossary/U/)
 
-[V](/DCRMR/general/glossary/V/)
+[V](/DCRMR/glossary/V/)
 
-[W](/DCRMR/general/glossary/W/)
+[W](/DCRMR/glossary/W/)
 
-[X](/DCRMR/general/glossary/X/)
+[X](/DCRMR/glossary/X/)
 
-[Y](/DCRMR/general/glossary/Y/)
+[Y](/DCRMR/glossary/Y/)
 
-[Z](/DCRMR/general/glossary/Z/)
+[Z](/DCRMR/glossary/Z/)

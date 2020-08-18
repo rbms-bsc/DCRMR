@@ -10,22 +10,22 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[I. Scope and purpose](/DCRMR/docs/introduction/Scope and purpose/)
+[I. Scope and purpose](/DCRMR/introduction/Scope and purpose/)
 
-[II. Relationship to other standards](/DCRMR/docs/introduction/Relationship-to-other-standards/)
+[II. Relationship to other standards](/DCRMR/introduction/Relationship-to-other-standards/)
 
-[III. Objectives and principles](/DCRMR/docs/introduction/Objectives and principles/)
+[III. Objectives and principles](/DCRMR/introduction/Objectives and principles/)
 
-[IV. Options](/DCRMR/docs/introduction/Options/)
+[IV. Options](/DCRMR/introduction/Options/)
 
-[V. Language preferences](/DCRMR/docs/introduction/Language preferences/)
+[V. Language preferences](/DCRMR/introduction/Language-preferences/)
 
-[VI. Spelling and style](/DCRMR/docs/introduction/Spelling and style/)
+[VI. Spelling and style](/DCRMR/introduction/Spellin- and-style/)
 
-[VII. Acronyms](/DCRMR/docs/introduction/Acronyms/)
+[VII. Acronyms](/DCRMR/introduction/Acronyms/)
 
-[VIII. Examples and notes](/DCRMR/docs/introduction/Examples and notes/)
+[VIII. Examples and notes](/DCRMR/introduction/Examples-and-notes/)
 
-[IX. Integrity of the copy](/DCRMR/docs/introduction/Integrity of the copy/)
+[IX. Integrity of the copy](/DCRMR/introduction/Integrity-of-the-copy/)
 
-[X. Precataloging decisions](/DCRMR/docs/introduction/Precataloging-decisions/)
+[X. Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/)

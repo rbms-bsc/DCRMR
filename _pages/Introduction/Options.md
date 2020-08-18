@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Options
-permalink: books/introduction/Options/
+permalink: introduction/Options/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel statement of responsibility relating to title proper
-permalink: docs/sor/Parallel-statement-of-responsibility-relating-to-title-proper/
+permalink: sor/Parallel-statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"
 ---

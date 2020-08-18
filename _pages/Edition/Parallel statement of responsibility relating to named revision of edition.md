@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel statement of responsibility relating to named revision of edition
-permalink: docs/editon/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+permalink: editon/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

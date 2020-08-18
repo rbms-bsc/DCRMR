@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Prescribed punctuation
-permalink: books/general-rules/Prescribed-punctuation/
+permalink: general-rules/Prescribed-punctuation/
 sidebar:
   nav: "docs"
 ---
