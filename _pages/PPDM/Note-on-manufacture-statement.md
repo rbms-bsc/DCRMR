@@ -48,7 +48,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.4.2">4.226.4.2</a> If the place name as transcribed is known to be fictitious or incorrect, make a note on manufacture giving the actual place name. Include the source of the actual place name (see [4.221.5.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.5.1)).
 
-<a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of publication appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.5.2)).
+<a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the place of manufacture appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.5.2)).
 
 >Example:  
 ><CITE>Cosmopoli [i.e. London]</CITE>  
@@ -57,7 +57,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [4.221.6.3](/DCRMR/ppdm/Place-of-manufacture/#4.221.6.3)).
 
-<a name="4.226.4.5">4.226.4.5</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacutre of the later part(s) in a note. (see [4.221.7.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.7.2)).
+<a name="4.226.4.5">4.226.4.5</a> Make a note if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of manufacture by giving the place of manufacutre of the later part(s) in a note. (see [4.221.7.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.7.2)).
 
 ## 4.226.5 Notes from Name of manufacturer
 
@@ -72,7 +72,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.5.3">4.226.5.3</a> Make a note if the name of manufacturer is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.223.6.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.6.1)).
 
-<a name="4.226.5.4">4.226.5.4</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part and the name or form of name of the manufacturer changes in the course of issue, transcribe the manufacturer statement of the first or earliest part and give the publication statement of the later part(s) in a note (see [4.223.8.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.8.1)).
+<a name="4.226.5.4">4.226.5.4</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part and the name or form of name of the manufacturer changes in the course of issue, transcribe the manufacturer statement of the first or earliest part and give the manufacture statement of the later part(s) in a note (see [4.223.8.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.8.1)).
 
 <a name="4.226.5.5">4.226.5.5</a> Make a note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer give supporting evidence in a note (see [4.223.9.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.9.1)).
 
@@ -88,15 +88,25 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.226.8 Notes from Date of manufacture
 
-<a name="4.226.8.1">4.226.8.1</a> Supply a note on manufacture statement when creating a separate description for an individual impression, state, binding variant, or copy within a single edition or issue (see [4.225.4.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.4.1)).
+<a name="4.226.8.1">4.226.8.1</a> When following the alternative rule in [4.225.4.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [4.225.5.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2)).
 
->Example:  
-><CITE>1990 printing</CITE>  
->Date of publication: <CITE>1989</CITE>  
->Note on manufacture statement: <CITE>Date of impression from title page verso.</CITE>
+<a name="4.226.8.2">4.226.8.2</a> When following the alternative rule for very long dates in [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3) make a note on manufacture statement concerning the source and the original form of the date of manufacture (see [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3)).
 
-<a name="4.226.8.2">4.226.8.2</a> If the date of manufacture is taken from any source other than the preferred source of information, provide the source in a note on manufacture statement (see [4.225.4.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.4.2)). 
+<a name="4.226.8.3">4.226.8.3</a> If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
-<a name="4.226.8.3">4.226.8.3</a> If the date of impression is known from a source outside the manifestation, give the source in a note (see [4.225.4.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.4.4)).
+*Alternately*, make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
-<a name="4.226.8.4">4.226.8.4</a> If the actual date of impression is known to differ from the date of impression given inside the manifestation, give the source of the date of manufacture in a note (see [4.225.4.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.4.5)).
+<a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
+
+<a name="4.226.8.5">4.226.8.5</a>  If the date of manufacture requires more than a single adjustment or addition, justify all supplied dates with a note on manufacture statement if necessary (see [4.225.5.7](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.7)).
+statement: <CITE>The year is given according to Lady Day dating</CITE>
+
+<a name="4.226.8.6">4.226.8.6</a> If the date of manufacture does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on manufacture statement (see [4.225.6.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.6.1)).
+
+<a name="4.226.8.7">4.226.8.7</a> When supplying a conjectural date of manufacture based on any information available, indicate the basis for the conjecture in a note on manufacture statement (see [4.225.7.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.7.1)).
+
+<a name="4.226.8.8">4.226.8.8</a> When supplying a probable date or period of manufacture according to one of the patterns shown in  [4.225.8.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.8.1), indicate the basis for the conjecture in a note (see [4.225.8.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.8.1)).
+
+<a name="4.226.8.9">4.226.8.9</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [4.225.9.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.9.2)).
+
+<a name="4.226.8.91">4.226.8.91</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on manufacture statement (see [4.225.91.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.91.1)).

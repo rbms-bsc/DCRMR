@@ -28,6 +28,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.205.2.1">4.205.2.1</a> A timespan during which a published manifestation is published, released, or issued.
 
+<a name="4.205.2.2">4.205.2.2</a> [Sources of information](/DCRMR/ppdm/)
+
 ## 4.205.3 General rule
 
 <a name="4.205.3.1">4.205.3.1</a> Transcribe dates of publication as part of this element. Include the day and month, if present.
