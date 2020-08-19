@@ -117,7 +117,10 @@ blockquote {
   padding-bottom: 0em;
   padding-left: .5em;
   border-left: 1.5em solid $background-color;
-  font-size: 16px;
+  font-size: 12px; 
+  table{
+  border: 0px solid black;
+  }
   cite {
     font-family: $sans-serif;
     font-style: normal; 
