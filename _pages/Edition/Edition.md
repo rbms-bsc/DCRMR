@@ -3,29 +3,42 @@ layout: single
 type: docs
 title: Edition
 permalink: /edition/
+permalink: edition/
 sidebar:
   nav: "docs"
 ---
 
+## 3.01 Prescribed punctuation
+
+<a name="3.01.1">3.01.1</a> Prescribed punctuation for the [edition] elements are found in [0.3.7](/DCRMR/general-rules/Prescribed-punctuation/#0.3.7).
+
+## 3.02 Sources of information
+
+<a name="3.02.1">3.02.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see introductory section X.X), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/), see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#). Do not take an edition statement from a source outside the manifestation itself.
+
+## 3.03 Form and order of information
+
+<a name="3.03.1">3.03.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific guidelines.
+
 ## Table of Contents
 {: .no_toc }
 
-[Chapter 3.20 Edition statement](/DCRMR/books/edition/Edition-statement/)
+[Chapter 3.20 Edition statement](/DCRMR/edition/Edition-statement/)
 
-[Chapter 3.21 Designation of edition](/DCRMR/books/edition/Designation-of-edition/)
+[Chapter 3.21 Designation of edition](/DCRMR/edition/Designation-of-edition/)
 
-[Chapter 3.22 Parallel designation of edition](/DCRMR/books/edition/Parallel-designation-of-edition/)
+[Chapter 3.22 Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
 
-[Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/books/edition/Statement-of-responsibility-relating-to-edition/)
+[Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)
 
-[Chapter 3.24 Parallel statement of responsibility relating to edition](/DCRMR/books/edition/Parallel-statement-of-responsibility-relating-to-edition/)
+[Chapter 3.24 Parallel statement of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/)
 
-[Chapter 3.25 Designation of named revision of edition](/DCRMR/books/edition/Designation-of-named-revision-of-edition/)
+[Chapter 3.25 Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/)
 
-[Chapter 3.26 Parallel designation of named revision of edition](/DCRMR/books/edition/Parallel-designation-of-named-revision-of-edition/)
+[Chapter 3.26 Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/)
 
-[Chapter 3.27 Statement of responsibility relating to named revision of edition](/DCRMR/books/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/)
+[Chapter 3.27 Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/)
 
-[Chapter 3.28 Parallel statement of responsibility relating to named revision of edition](/DCRMR/books/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
+[Chapter 3.28 Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
 
-[Chapter 3.29 Note on edition statement](/DCRMR/books/edition/Note-on-edition-statement/)
+[Chapter 3.29 Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)

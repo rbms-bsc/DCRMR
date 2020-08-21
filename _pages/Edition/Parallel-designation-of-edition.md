@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Parallel designation of edition
-permalink: books/edition/Parallel-designation-of-edition/
+permalink: edition/Parallel-designation-of-edition/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Statement of responsibility relating to edition
-permalink: books/edition/Statement-of-responsibility-relating-to-edition/
+permalink: edition/Statement-of-responsibility-relating-to-edition/
 sidebar:
   nav: "docs"
 ---

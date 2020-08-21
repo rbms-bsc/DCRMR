@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Parallel statement of responsibility relating to named revision of edition
-permalink: docs/editon/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+title: Note on edition statement
+permalink: edition/Note-on-edition-statement/
 sidebar:
   nav: "docs"
 ---
@@ -16,3 +16,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 [Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
 
 ## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
