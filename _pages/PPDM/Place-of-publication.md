@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-b569c353-c792-3617-8c83-d974466ccc02){:target="_blank"}
 
-## 4.201.2 Definition and scope
+## 4.201.2 RDA Definition and scope
 
 <a name="4.201.2.1">4.201.2.1</a> A place associated with the publication, release, or issuing of a published manifestation.
 

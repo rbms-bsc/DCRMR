@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-## 4.232.2 Definition and scope
+## 4.232.2 RDA Definition and scope
 
 <a name="4.232.2.1">4.232.2.1</a> A note on manifestation that provides information on copyright date.
 

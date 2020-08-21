@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-39b430be-31ff-3456-bf49-d1fdf7c823a0){:target="_blank"}
 
-## 4.212.2 Definition and scope
+## 4.212.2 RDA Definition and scope
 
 <a name="4.212.2.1">4.212.2.1</a>  A place of manufacture in another language or script.
 

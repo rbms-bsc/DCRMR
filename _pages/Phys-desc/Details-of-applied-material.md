@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.2122.1.2">5.2122.1.2</a> [Source of information](/DCRMR/phys-desc/)
 
-## 5.2122.2 Definition and scope
+## 5.2122.2 RDA Definition and scope
 
 <a name="5.2122.2.1">5.2122.2.1</a> Details of a physical or chemical substance that is applied to a base material of a manifestation.
 

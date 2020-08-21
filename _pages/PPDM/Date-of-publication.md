@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-26b84eaa-054e-3c8c-8933-8760b9b2046f){:target="_blank"}
 
-## 4.205.2 Definition and scope
+## 4.205.2 RDA Definition and scope
 
 <a name="4.205.2.1">4.205.2.1</a> A timespan during which a published manifestation is published, released, or issued.
 

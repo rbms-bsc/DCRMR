@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-5e38f1d4-17a1-3ff9-a1c8-eacbfd04e68e){:target="_blank"}
 
-## 4.202.2 Definition and scope
+## 4.202.2 RDA Definition and scope
 
 <a name="4.202.2.1">4.202.2.1</a>  A place of publication in another language or script.
 

@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d9676281-26fe-3751-ae5a-d45689d80171){:target="_blank"}
 
-## 4.221.2 Definition and scope
+## 4.221.2 RDA Definition and scope
 
 A place associated with the printing, duplicating, casting, etc., of a published manifestation.
 

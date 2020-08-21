@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-426f9771-5684-39eb-bbeb-82a4a9a8e336){:target="_blank"}
 
-## 4.22.2 Definition and scope
+## 4.22.2 RDA Definition and scope
 
 <a name="4.22.2.1">4.22.2.1</a> A statement that identifies a place of manufacture, a manufacturer, and a date of manufacture of a published manifestation.
 

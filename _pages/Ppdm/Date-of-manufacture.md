@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f6396d3f-6883-3ad2-84f1-d0714cfd42a0){:target="_blank"}
 
-## 4.225.2 Definition and scope
+## 4.225.2 RDA Definition and scope
 
 <a name="4.225.2.1">4.225.2.1</a> A timespan during which a published manifestation is printed, duplicated, cast, etc.
 
@@ -80,7 +80,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.225.7.1">4.225.7.1</a> Supply in square brackets a conjectural date of manufacture based on any information available. Indicate the basis for the conjecture in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.7](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.7)).
 
-<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the title or the statement of responsibility elements or give it in a [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/), see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X).
+<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the title or the statement of responsibility elements or give it in a [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 ## 4.225.8 Patterns for supplying a conjectural date
 

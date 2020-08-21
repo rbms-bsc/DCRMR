@@ -28,7 +28,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-## 4.216.2 Definition and scope
+## 4.216.2 RDA Definition and scope
 
 <a name="4.216.2.1">4.216.2.1</a> A note on manifestation that provides information on the distribution of a manifestation.
 

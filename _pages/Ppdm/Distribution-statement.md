@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-2112f6fd-1796-3e26-b0ae-d0eb776977e2){:target="_blank"}
 
-## 4.21.2 Definition and scope
+## 4.21.2 RDA Definition and scope
 
 <a name="4.21.2.1">4.21.2.1</a> A statement that identifies a place of distribution, a distributor, and a date of distribution of a published manifestation.
 

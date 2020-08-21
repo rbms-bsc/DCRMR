@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d34564b0-6a8a-384f-b966-a9638b234d89){:target="_blank"}
 
-## 4.213.2 Definition and scope
+## 4.213.2 RDA Definition and scope
 
 <a name="4.213.2.1">4.213.2.1</a> A nomen that is a name of an agent who is responsible for distributing a published manifestation.
 

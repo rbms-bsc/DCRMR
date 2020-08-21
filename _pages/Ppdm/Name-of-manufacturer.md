@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-2a4d1fa1-84b7-32a4-95d3-2ea1cba8642b){:target="_blank"}
 
-## 4.223.2 Definition and scope
+## 4.223.2 RDA Definition and scope
 
 <a name="4.223.2.1">4.223.2.1</a> A nomen that is a name of an agent who is responsible for printing, duplicating, casting, etc., a published manifestation.
 

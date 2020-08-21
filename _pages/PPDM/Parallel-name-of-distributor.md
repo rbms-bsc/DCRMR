@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-fe253018-c149-3a20-9fdb-c9c17faa0ac0)
 
-## 4.214.2 Definition and scope
+## 4.214.2 RDA Definition and scope
 
 <a name="4.214.2.1">4.214.2.1</a> A name of distributor in another language or script.
 

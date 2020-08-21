@@ -114,7 +114,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >**`33 cm, in box 34 x 25 x 6 cm`**
 
-<a name="5.21.8.2">5.21.8.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) if considered important, see [8.25.X.X](/DCRMR/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X). 
+<a name="5.21.8.2">5.21.8.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) if considered important (see [8.25.X.X](/DCRMR/notes-on-items/Note-on-dimensions-of-item/#8.25.X.X)). 
 
 <a name="5.21.8.3">5.21.8.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container (see [5.21.4-5.21.6](/DCRMR/phys-desc/Dimensions/#5214-5216-volumes)).
 

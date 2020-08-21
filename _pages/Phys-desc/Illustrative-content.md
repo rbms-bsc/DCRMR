@@ -38,7 +38,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.202.3 Ornaments, etc.
 
-<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.2). 
+<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.2)). 
 
 ## 5.202.4 Illustrated title pages
 
@@ -48,7 +48,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [production method](/DCRMR/phys-desc/Production-method/) (see [5.213.X.X](/DCRMR/phys-desc/Production-method/#5.213.X.X)).  
 
-<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4). 
+<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4)). 
 
 ## 5.202.6 Color illustrations
 
@@ -113,7 +113,7 @@ sample
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/Other-notes/Supplementary-content/), [X.X.X.X]((/DCRMR/Other-notes/Supplementary-content/#X.X.X.X)), [Accompanying material](/DCRMR/Other-notes/Accompanying-material/), [X.X.X.X](/DCRMR/Other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.1).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/Other-notes/Supplementary-content/), [X.X.X.X]((/DCRMR/Other-notes/Supplementary-content/#X.X.X.X)), [Accompanying material](/DCRMR/Other-notes/Accompanying-material/), [X.X.X.X](/DCRMR/Other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.1)).  
 
 >Example:  
 >`map`  
@@ -121,7 +121,7 @@ sample
 
 # 5.202.91 Illustrations on endpapers
 
-<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2).  
+<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2)).  
 
 >Example:  
 >`map`  
@@ -175,7 +175,7 @@ sample
 
 <a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3), precede the term specifying the particular type with "chiefly".                 
+*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3)), precede the term specifying the particular type with "chiefly".                 
 
 >Example:  
 > `chiefly illustrations`

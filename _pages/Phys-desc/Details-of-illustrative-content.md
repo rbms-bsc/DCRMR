@@ -44,7 +44,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`Title page has a woodcut border with side pieces with putti and foliage (McKerrow and Ferguson 110). Printer's device of Richard Grafton (McKerrow 104) on G4r and final leaf recto (²A4)`
 
-<a name="5.203.3.3">5.203.3.3</a> Make a note to indicate any title-page illustration treated as [illustrative content](/DCRMR/phys-desc/Illustrative-content/) if considered important, see [5.202.4.1](/DCRMR/phys-desc/Illustrative-content/#5.202.4.1).
+<a name="5.203.3.3">5.203.3.3</a> Make a note to indicate any title-page illustration treated as [illustrative content](/DCRMR/phys-desc/Illustrative-content/) if considered important (see [5.202.4.1](/DCRMR/phys-desc/Illustrative-content/#5.202.4.1)).
 
 >Example:  
 >`Title page is an illustration and is included in the count of pages of plates`
@@ -75,4 +75,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Details of illustrative content: Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket
 
-<a name="5.203.9.3">5.203.9.3</a> For details of hand-colored illustrations, see [details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X).
+<a name="5.203.9.3">5.203.9.3</a> For details of hand-colored illustrations (see [details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X)).

@@ -32,6 +32,6 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.2101.3 General rule
 
-<a name="5.2101.3.1">5.2101.3.1</a> Make any notes on the dimensions of a manifestation if considered important. For general instructions on constructing manifestation-specific notes, see [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/).
+<a name="5.2101.3.1">5.2101.3.1</a> Make any notes on the dimensions of a manifestation if considered important. For general instructions on constructing manifestation-specific notes (see [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)).
 
-<a name="5.2101.3.2">5.2101.3.2</a> If a volume as issued contains separate text blocks of varying dimensions, record the height (or height x width) of the text blocks in a note on dimensions of manifestation if considered important, see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.6.1](/DCRMR/phys-desc/Dimensions/#5.21.6.1).
+<a name="5.2101.3.2">5.2101.3.2</a> If a volume as issued contains separate text blocks of varying dimensions, record the height (or height x width) of the text blocks in a note on dimensions of manifestation if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.6.1](/DCRMR/phys-desc/Dimensions/#5.21.6.1)).

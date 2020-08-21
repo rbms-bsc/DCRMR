@@ -24,13 +24,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0f7b5665-dec5-371a-8b7b-d49f1c5080a7){:target="_blank"}
 
-## 4.20.2 Definition and scope
+## 4.20.2 RDA Definition and scope
 
 <a name="4.20.2.1">4.20.2.1</a> A statement that identifies a place of publication, a publisher, or a date of publication of a published manifestation.
 
 <a name="4.20.2.2">4.20.2.2</a> A publication statement includes a statement about the publication, release, or issuing of a published manifestation.
 
-## 4.20.3 Sources of information
+## 4.20.3 RDA sources of information
 
 <a name="4.20.3.1">4.20.3.1</a> The sources of information for the publication statement are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the publication itself when determining the most appropriate place to transcribe information relating to publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement in the publication statement. However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 

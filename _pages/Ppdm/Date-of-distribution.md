@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-65ea44c3-a78e-3883-9d14-6ef34c77067a){:target="_blank"}
 
-## 4.215.2 Definition and scope
+## 4.215.2 RDA Definition and scope
 
 <a name="4.215.2.1">4.215.2.1</a> A timespan during which a published manifestation is distributed.
 
@@ -109,7 +109,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a note (see [4.216.8.7](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.7)).
 
-<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the title or the statement of responsibility elements or give it in a note. See [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/).
+<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the title or the statement of responsibility elements or give it in a note (see [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/)).
 
 ## 4.215.7 Patterns for supplying a conjectural date
 

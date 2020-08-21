@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-## 4.23.2 Definition and scope
+## 4.23.2 RDA Definition and scope
 
 <a name="4.23.2.1">4.23.2.1</a> A timespan associated with a claim of protection under copyright or a similar regime.
 

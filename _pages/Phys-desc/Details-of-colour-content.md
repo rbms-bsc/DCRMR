@@ -81,7 +81,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.205.5.3">5.205.5.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one copy is representative of the coloring scheme for all copies. 
 
-<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [modification of item](/DCRMR/Notes-on-items/Modification-of-item/) if considered important, see [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X).
+<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [modification of item](/DCRMR/Notes-on-items/Modification-of-item/) if considered important (see [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
 
 ## 5.205.6 Base material
 

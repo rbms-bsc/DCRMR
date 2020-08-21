@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.2112.1.2">5.2112.1.2</a> [Source of information](/DCRMR/phys-desc)
 
-## 5.2112.2 Definition and Scope
+## 5.2112.2 RDA Definition and Scope
 
 <a name="5.2112.2.1">5.2112.2.1</a> Details of an underlying physical material of a manifestation.
 
