@@ -17,7 +17,7 @@ sidebar:
 Term loosely used in describing a manifestation of an edition, state, impression, etc. showing some visually or bibliographically significant difference from one or more other manifestations of the same edition, state, impression, etc.  
 
 ## **Term in bold.** 
-[Definition of term]. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
+Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
 
 ## **Term in bold.**
 *See* **[bolded see term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
