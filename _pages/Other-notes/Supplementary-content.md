@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-9d596c05-acc2-39b5-b52a-3274c90ab41d){:target="_blank"}
 
-## 7.232.2 Definition and scope
+## 7.232.2 RDA Definition and scope
 
 <a name="7.232.2.1">7.232.2.1</a> An indication of content that updates or complements the primary content of an expression.
 

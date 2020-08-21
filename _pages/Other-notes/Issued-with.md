@@ -24,13 +24,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-f9305084-ad80-3d9e-8c28-e649bb4f5500){:target="_blank"}
 
-## 7.233.2 Definition and scope
+## 7.233.2 RDA Definition and scope
 
 <a name="7.233.2.1">7.233.2.1</a> RDA: A manifestation that is issued on the same carrier as a manifestation being described.
 
-<a name="7.233.2.2">7.233.2.2</a> DCRMR elaboration: Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated and have separate signatures, but which have been issued together by the publisher, distributor, etc. If the pagination, foliation, or signatures of separately titled parts are continuous with the part being described, see [part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e).
+<a name="7.233.2.2">7.233.2.2</a> DCRMR elaboration: Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated and have separate signatures, but which have been issued together by the publisher, distributor, etc. If the pagination, foliation, or signatures of separately titled parts are continuous with the part being described (see [part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e)).
 
-<a name="7.233.2.3">7.233.2.3</a> For manifestations bound together subsequent to publication, rather than issued together by the publisher, distributor, etc., see [bound with](/DCRMR/notes-on-items/Bound-with/).
+<a name="7.233.2.3">7.233.2.3</a> For manifestations bound together subsequent to publication, rather than issued together by the publisher, distributor, etc. (see [bound with](/DCRMR/notes-on-items/Bound-with/)).
 
 ## 7.233.25 Sources of information
 

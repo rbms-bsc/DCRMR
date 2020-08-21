@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-96aa1921-45db-31a9-8128-9661f60799dc){:target="_blank"}
 
-## 7.231.2 Definition and scope
+## 7.231.2 RDA Definition and scope
 
 <a name="7.231.2.1">7.231.2.1</a> An abstract, summary, synopsis, etc., of the content of an expression.
 

@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-1c343ca4-f0a4-3aa8-9918-6bf04e919d96){:target="_blank"}
 
-## 7.23.2 Definition and scope
+## 7.23.2 RDA Definition and scope
 
 <a name="7.23.2.1">7.23.2.1</a> A broad unstructured description of one or more attributes of an RDA entity.
 
