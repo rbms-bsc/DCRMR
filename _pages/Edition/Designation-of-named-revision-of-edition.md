@@ -72,7 +72,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >|DESIGNATION OF NAME REVISION OF EDITION| <CITE>Third printing</CITE>|
 >|DESIGNATION OF EDITION|<CITE>First Ace edition</CITE>|
 >|NOTE ON EDITION STATEMENT |<CITE>“Third printing / December 1983” from title page verso</CITE>|
->|Source| Exiles to glory / Jerry Pournelle, 1983 OCLC: [1037100334](http://www.worldcat.org/oclc/1037100334) Georgetown U.|
+>|SOURCE| <CITE> *Exiles to glory / Jerry Pournelle, 1983 OCLC: [1037100334](http://www.worldcat.org/oclc/1037100334) Georgetown U.* </CITE>|
 
 <a name="3.25.5.2">3.25.5.2</a> *Alternative rule:*  If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
 
