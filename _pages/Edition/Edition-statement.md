@@ -35,7 +35,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ## 3.20.3 General rule
 
 <a name="3.20.3.1">3.20.3.1</a> Transcribe a statement relating to an edition or issue of a manifestation as it
-appears, according to the general guidelines (see [General rules](/DCRMR/general-rules/). Include any explanatory words or phrases appearing with the edition statement.
+appears, according to the general guidelines (see [General rules](/DCRMR/general-rules/)). Include any explanatory words or phrases appearing with the edition statement.
 
 <a name="3.20.3.2">3.20.3.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) if the edition statement is transposed from its position on the source of information (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
 
@@ -76,11 +76,11 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.8.1">3.20.8.1</a> If the manifestation consists of multiple issues or parts, including accompanying material, and there are edition statements relating to the whole as well as to parts, then record only the edition statements relating to the whole manifestation.
 
-<a name="3.20.8.2">3.20.8.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) relating to issues or parts if considered important(see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.8.2">3.20.8.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) relating to issues or parts if considered important (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
 
 ## 3.20.9 Nonce collections
 
-<a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts(see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
 
 <a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [note on item](/DCRMR/Notes-on-items/Note-on-item) (see [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X)).
 

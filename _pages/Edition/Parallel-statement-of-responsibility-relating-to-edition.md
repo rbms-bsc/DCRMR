@@ -44,4 +44,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>
 
-<a name="3.24.3.4">3.24.3.4</a> Make a [note on edition statement](/DCRMR/books/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility, see [3.29.X.X](/DCRMR/books/edition/Note-on-edition-statement/#3.29.X.X).
+<a name="3.24.3.4">3.24.3.4</a> Make a [note on edition statement](/DCRMR/books/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.29.X.X](/DCRMR/books/edition/Note-on-edition-statement/#3.29.X.X)).

@@ -38,4 +38,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="3.28.3.3">3.28.3.3</a> Transcribe the remaining statement(s) as parallel statements  of responsibility relating to named revision of edition.
 
-<a name="3.28.3.4">3.28.3.4</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the resource of any transposed parallel statements of responsibility relating to named revision of  edition, see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X).
+<a name="3.28.3.4">3.28.3.4</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the resource of any transposed parallel statements of responsibility relating to named revision of  edition (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
