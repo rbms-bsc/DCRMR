@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Layout
-permalink: books/phys-desc/Layout/
+permalink: phys-desc/Layout/
 sidebar:
   nav: "docs"
 ---
@@ -24,9 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.22.1.1">5.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9f019737-be7b-32e0-b5ca-9604d2bc4255)
 
-<a name="5.22.1.2">5.22.1.2</a> [Source of information](/DCRMR/books/phys-desc/) 
-
----
+<a name="5.22.1.2">5.22.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
 ## 5.22.2 Definition and scope
 
@@ -35,7 +33,6 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.22.3 General rule 
 
-<a name="5.22.3.1">5.22.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies, RDA Layout] (http://www.rdaregistry.info/termList/layout/) and indicate the source.
+<a name="5.22.3.1">5.22.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies, RDA Layout](http://www.rdaregistry.info/termList/layout/) and indicate the source.
 
-<a name="5.22.4">5.22.4</a> Record more detailed descriptions of layout  in details of layout if considered important (see [details of layout] (/DCRMR/books/phys-desc/Details-of-layout/), [5.221.3.1](/DCRMR/books/phys-desc/Details-of-layout/#5.221.3.1).
-
+<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in details of layout if considered important (see [details of layout](/DCRMR/phys-desc/Details-of-layout/), [5.221.3.1](/DCRMR/books/phys-desc/Details-of-layout/#5.221.3.1)).
