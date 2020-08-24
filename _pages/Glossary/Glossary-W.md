@@ -13,6 +13,9 @@ sidebar:
 1. TOC
 {:toc}
 
+## **Work.**
+A distinct intellectual or artistic creation, that is, the intellectual or artistic content.
+
 ## **Wrapper; Wrappers.**
 *See* **[Cover](/DCRMR/glossary/C/#Cover).**
 
