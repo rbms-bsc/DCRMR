@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Note on dimesions of item
-permalink: notes-on-items/Note-on-dimesions-of-item/
+title: Note on dimensions of item
+permalink: notes-on-items/Note-on-dimensions-of-item/
 sidebar:
   nav: "docs"
 ---
