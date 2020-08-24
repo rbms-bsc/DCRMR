@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Bibliographic format
-permalink: books/phys-desc/Bibliographic-format/
+permalink: phys-desc/Bibliographic-format/
 sidebar:
   nav: "docs"
 ---
@@ -34,36 +34,35 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.222.3 General rule 
 
-<a name="5.222.3.1">5.222.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format also for machine-press publications. Record the format using one or more of the following terms from the [RDA Value Vocabularies, RDA Bibliographic Format] (http://www.rdaregistry.info/termList/RDABibliographicFormat/). Use "full-sheet" for manifestations made up of unfolded sheets.
+<a name="5.222.3.1">5.222.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format also for machine-press publications. Record the format using one or more of the following terms from the [RDA Value Vocabularies, RDA Bibliographic Format](http://www.rdaregistry.info/termList/RDABibliographicFormat/). Use "full-sheet" for manifestations made up of unfolded sheets.
 
-full-sheet
-folio
-4to
-8vo
-12mo
-16mo
-18mo
-24mo
-32mo
-36mo
-48mo
-64mo
-72mo
-96mo
-128mo
-
+full-sheet  
+folio  
+4to  
+8vo  
+12mo  
+16mo  
+18mo  
+24mo  
+32mo  
+36mo  
+48mo  
+64mo  
+72mo  
+96mo  
+128mo  
 
 >Example:  
-><CITE>4to</CITE>
+><CITE>4to</CITE>  
 >(*Comment*: A publication in quarto)
 
 >Example:  
-><CITE>4to</CITE>
-><CITE>8vo</CITE>
+><CITE>4to</CITE>  
+><CITE>8vo</CITE>  
 >(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
 
 
 <a name="5.222.3.2">5.222.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
-<a name="5.222.3.3">5.222.3.3</a> Record more detailed descriptions of bibliographic format in details of bibliographic format if considered important (see [details of bibliographic format] (/DCRMR/books/phys-desc/Details-of-bibliographic-format/), [5.2222.3.1](/DCRMR/books/phys-desc/Details-of-bibliographic-format/#5.2222.3.1).
+<a name="5.222.3.3">5.222.3.3</a> Record more detailed descriptions of bibliographic format in details of bibliographic format if considered important (see [details of bibliographic format](/DCRMR/books/phys-desc/Details-of-bibliographic-format/), [5.2222.3.1](/DCRMR/books/phys-desc/Details-of-bibliographic-format/#5.2222.3.1).
 
