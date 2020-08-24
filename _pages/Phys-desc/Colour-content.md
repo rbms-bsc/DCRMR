@@ -42,7 +42,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.204.3.3">5.204.3.3</a> In general, do not record printed color unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.4.2](/DCRMR/phys-desc/Details-of-colour-content/#5.205.4.2)). 
 
-<a name="5.204.3.4">5.204.3.4</a> For incunabula, make a note on color printing if present (see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.X.X](/DCRMR/phys-desc/Details-of-colour-content/#5.205.4.3)).
+<a name="5.204.3.4">5.204.3.4</a> For incunabula, make a note on color printing if present (see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.4.3](/DCRMR/phys-desc/Details-of-colour-content/#5.205.4.3)).
 
 ## 5.204.4 Hand coloring in printed resources
 
@@ -72,11 +72,10 @@ mixed color
 one color  
 
 >Example:  
-> `hand colored`     
-> Details of colour content: `Illustrations are hand-colored, as issued`  
+> <CITE>hand colored</CITE>     
+> Details of colour content: <CITE>Illustrations are hand-colored, as issued</CITE>  
 >(*Comment:* Title contains statement "embellished with colored engravings")
  
----
 >Example:  
-> `hand colored`    
->Details of colour content: `Wood engravings hand-colored, as issued`
+> <CITE>hand colored</CITE>    
+>Details of colour content: <CITE>Wood engravings hand-colored, as issued</CITE>

@@ -47,9 +47,9 @@ sidebar:
 
 [Chapter 5.2222 Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/)
 
-[Chapter 5.223. Font size](/DCRMR/phys-desc/Font-size/)
+[Chapter 5.223 Font size](/DCRMR/phys-desc/Font-size/)
 
-[Chapter 5.2232. Details of font size](/DCRMR/phys-desc/Details-of-font-size/)
+[Chapter 5.2232 Details of font size](/DCRMR/phys-desc/Details-of-font-size/)
 
 [Chapter 5.224 Type of binding](/DCRMR/phys-desc/Type-of-binding/)
 

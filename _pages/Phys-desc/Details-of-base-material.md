@@ -42,4 +42,3 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>"Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper."</CITE>
-

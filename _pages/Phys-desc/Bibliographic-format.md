@@ -26,8 +26,6 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.222.1.2">5.222.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
----
-
 ## 5.222.2 Definition and scope
 
 <a name="5.222.2.1">5.222.2.1</a> A proportional relationship between a whole sheet in a printed or manuscript resource, and the individual leaves that result if that sheet is left full, cut, or folded.
@@ -64,5 +62,4 @@ folio
 
 <a name="5.222.3.2">5.222.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
-<a name="5.222.3.3">5.222.3.3</a> Record more detailed descriptions of bibliographic format in details of bibliographic format if considered important (see [details of bibliographic format](/DCRMR/books/phys-desc/Details-of-bibliographic-format/), [5.2222.3.1](/DCRMR/books/phys-desc/Details-of-bibliographic-format/#5.2222.3.1)).
-
+<a name="5.222.3.3">5.222.3.3</a> Record more detailed descriptions of bibliographic format in details of bibliographic format if considered important (see [details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/), [5.2222.3.1](/DCRMR/books/phys-desc/Details-of-bibliographic-format/#5.2222.3.1)).

@@ -60,20 +60,19 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 # 5.202.7 General rule
 
-<a name="5.202.7.1">5.202.7.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies,RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).
+<a name="5.202.7.1">5.202.7.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies, RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).
 
 >Example:  
->`illustration`  
+><CITE>illustration</CITE>   
 
---- 
 >Example:  
->`illustrations`
+><CITE>illustrations</CITE>
 
 <a name="5.202.7.2">5.202.7.2</a> *Optionally,* disregard minor illustrations. 
 
 # 5.202.8 Types of illustrations 
 
-<a name="5.202.8.1">5.202.8.1</a> *Optionally,* specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies,RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).  
+<a name="5.202.8.1">5.202.8.1</a> *Optionally,* specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies, RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).  
 
 coat of arms  
 facsimile  
@@ -92,24 +91,21 @@ sample
 <a name="5.202.8.3">5.202.8.3</a> Replace “illustration” or “illustrations” with terms specifying particular types of illustrations if the particular types are the only illustrations in the resource.
 
 >Example:    
->`map`  
+><CITE>map</CITE>  
 
---- 
 >Example:  
->`portraits`
+><CITE>portraits</CITE>
 
 <a name="5.202.8.4">5.202.8.4</a> Record “illustrations” in addition to terms specifying particular types of illustrations if the particular types are not the only illustrations in the resource.
 
 >Example:  
->`illustrations`  
+><CITE>illustrations</CITE>  
 
----
 >Example:  
->`maps`  
+><CITE>maps</CITE>  
 
----
 >Example:  
->`plans`  
+><CITE>plans</CITE>  
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
@@ -124,62 +120,53 @@ sample
 <a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2)).  
 
 >Example:  
->`map`  
->Details of illustrative content: `Map on endpapers`
+><CITE>map</CITE>  
+>Details of illustrative content: <CITE>Map on endpapers</CITE>
 
 # 5.202.92 Number of illustrations
 
 <a name="5.202.92.1">5.202.92.1</a> Record the number of illustrations when their number can be ascertained readily (e.g., when the illustrations are listed and their numbers stated).  
 
 >Example:  
->`94 illustrations`
+><CITE>94 illustrations</CITE>
 
----
 >Example:  
->`illustrations`  
+><CITE>illustrations</CITE> 
 
----
 >Example:  
->`8 facsimiles`  
+><CITE>8 facsimiles</CITE>  
 
----
 >Example:  
->`3 illustrations`  
+><CITE>3 illustrations</CITE>  
 
----
 >Example:  
->`1 map`
+><CITE>1 map</CITE>
 
----
 >Example:  
->`6 illustrations`
+><CITE>6 illustrations</CITE>
 
----
 >Example:  
->`2 maps`
+><CITE>2 maps</CITE>
 
----
 >Example:  
->`1 portrait`
+><CITE>1 portrait</CITE>
 
----
 >Example:  
->`1 illustration`  
->Details of illustrative content: `Illustration is a title page vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background`
+><CITE>1 illustration</CITE>  
+>Details of illustrative content: <CITE>Illustration is a title page vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background</CITE>
 
 <a name="5.202.92.2">5.202.92.2</a> *Optionally,* record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important for identification or selection.
 
 # 5.202.93 Resources consisting entirely or chiefly of illustrations
 
-<a name="5.202.93.1">5.202.93.1</a> If a resource consists entirely of non-textual material (e.g., photographs, portraits, maps), do not record the presence of illustrations. Instead, describe the resource using the instructions for the appropriate content type (e.g., still image, cartographic image, etc. ).
+<a name="5.202.93.1">5.202.93.1</a> If a resource consists entirely of non-textual material (e.g., photographs, portraits, maps), do not record the presence of illustrations. Instead, describe the resource using the instructions for the appropriate content type (e.g., still image, cartographic image, etc.).
 
 <a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
 *Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3)), precede the term specifying the particular type with "chiefly".                 
 
 >Example:  
-> `chiefly illustrations`
+> <CITE>chiefly illustrations</CITE>
 
----
 >Example:  
-> `chiefly maps`  
+> <CITE>chiefly maps</CITE>  
