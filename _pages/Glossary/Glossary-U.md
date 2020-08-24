@@ -13,8 +13,8 @@ sidebar:
 1. TOC
 {:toc}
 
-## **Unpublished.**
- Not offered for sale or public distribution by a creator or issuing body.
+## **Unpublished manifestation.**
+ A manifestation that is created by a producer and not offered for sale or public distribution.
  
 ## **Term in bold.** 
 Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
