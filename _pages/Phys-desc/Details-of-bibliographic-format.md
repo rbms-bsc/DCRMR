@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Details of bibliographic format
-permalink: books/phys-desc/Details-of-bibliographic-format/
+permalink: phys-desc/Details-of-bibliographic-format/
 sidebar:
   nav: "docs"
 ---
@@ -22,9 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.2222.1 Element information
 
-<a name="5.2222.1.1">5.2222.1.1</a> [Link to RDA Toolkit](
-https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd)
----
+<a name="5.2222.1.1">5.2222.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd)
 
 ## 5.2222.2 Definition and scope
 
@@ -32,9 +30,7 @@ https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd)
 
 ## 5.2222.3 General rule 
 
-<a name="5.2222.3.1">5.2222.3.1</a> Record details of bibliographic format if considered important.
+<a name="5.2222.3.1">5.2222.3.1</a> Record details of [bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [bibliographic format](/DCRMR/phys-desc/Bibliographic-format/), [5.222.3.3](/DCRMR/phys-desc/Bibliographic-format/#5.222.3.3)).
 
 >Example:  
 ><CITE>Volume 1 is folio; volume 2 is 12mo</CITE>
-
-
