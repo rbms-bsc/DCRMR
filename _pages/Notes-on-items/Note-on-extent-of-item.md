@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on extent of item
-permalink: Notes-on-items/Note-on-extent-of-item/
+permalink: notes-on-items/Note-on-extent-of-item/
 sidebar:
   nav: "docs"
 ---
