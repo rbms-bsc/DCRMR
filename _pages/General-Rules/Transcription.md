@@ -77,6 +77,32 @@ Brevigraphs
 If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
 
 ![Brevigraphs, chart 1](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 01.png "brevigraphs, chart 1")
+\
+
+left bracket = &#91;
+
+right bracket = &#93;
+
+
+|Brevigraphs| | | | | |
+|---|---|---|---|---|
+|Brevigraphs|Transcription|Example|Transcription of example|Notes|
+| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "Co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | Co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
+| ![ae](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png "[ae]") | [ae] | ![h[ae]c](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png "h[ae]c") | h[ae]c |
+| ![Christus](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png "Christus")| [Christus] | | |A contraction using both Greek and Latin letters |
+| ![con](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5D.png "con") | [con] | ![[con]cor[di]a](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5Dcor%5Bdi%5Da.png "[con]cor[di]a") | [con]cor[di]a | | 
+|![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png "Brevigraph") ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png "Brevigraph") | [es]  [ius]  [m]  [us]  | ![statut[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png "statut[es]")   ![Ross[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png "Ross[es]")   ![cu[ius]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png "cu[ius]")   ![impressu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png "impressu[m]")   ![ei[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png "ei[us]") | statut[es]  Ross[es]  cu[ius]  impressum[m]  ei[us]  | A highly versatile symbol; see also, for example, "[habet]," "[que]," "[scilicet]," and "[sed]" below |
+| ![habet](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhabet%5D.png "habet") |[habet]| | | |
+| ![[hoc]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhoc%5D.png "habet") |[hoc]| | | |
+| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png "Brevigraph") | [per]  [par]  | ![su[per]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png "su[per]") | su[per]  [par]ticulari[bus]  | |
+
+
+
+
+| 
+
+
+
 
 ![Brevigraphs, chart 2](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 02.png "brevigraphs, chart 2")
 
