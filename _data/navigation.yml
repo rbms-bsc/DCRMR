@@ -295,13 +295,13 @@ docs:
     url: /identifiers/
     children:
       - title: "Identifier for manifestation"
-        url: /identifers/Identifier-for-manifestation/
+        url: /identifiers/Identifier-for-manifestation/
       - title: "Fingerprint"
-        url: /identifers/Fingerprint/
+        url: /identifiers/Fingerprint/
       - title: "Term of availability"
-        url: /identifers/Term-of-availability/
+        url: /identifiers/Term-of-availability/
       - title: "Note on identifier for manifestation"
-        url: /identifers/Note-on-identifier-for-manifestation/
+        url: /identifiers/Note-on-identifier-for-manifestation/
        
   - title: "Appendices"
     url: /appendices/

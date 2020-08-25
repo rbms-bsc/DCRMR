@@ -26,4 +26,4 @@ sidebar:
 
 [Chapter 9.23 Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
 
-[Chapter 9.24 Note on metadta work](/DCRMR/identifieres/Note-on-metadata-work/)
+[Chapter 9.24 Note on metadta work](/DCRMR/identifiers/Note-on-metadata-work/)
