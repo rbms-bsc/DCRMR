@@ -94,7 +94,12 @@ right bracket = &#93;
 |![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png "Brevigraph") ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png "Brevigraph") | [es]  [ius]  [m]  [us]  | ![statut[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png "statut[es]")   ![Ross[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png "Ross[es]")   ![cu[ius]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png "cu[ius]")   ![impressu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png "impressu[m]")   ![ei[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png "ei[us]") | statut[es]  Ross[es]  cu[ius]  impressum[m]  ei[us]  | A highly versatile symbol; see also, for example, "[habet]," "[que]," "[scilicet]," and "[sed]" below |
 | ![habet](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhabet%5D.png "habet") |[habet]| | | |
 | ![[hoc]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhoc%5D.png "habet") |[hoc]| | | |
-| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png "Brevigraph") | [per]  [par]  | ![su[per]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png "su[per]") | su[per]  [par]ticulari[bus]  | |
+| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png "Brevigraph") | [per]  [par]  | ![su[per]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png "su[per]") ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]")| su[per]  [par]ticulari[bus]  | |
+| ![[pro]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5D.png "[pro]") | [pro] | ![[pro]pter](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5Dpter.png "[pro]pter") | [pro]pter | |
+| ![[pri]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5D.png "[pri]") | [pri] |  ![[pri]ma](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5Dma.png "[pri]ma") | [pri]ma |
+|![[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquam%5D.png "[quam]") | [quam]| ![vn[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/vn%5Bquan%5D.png "vn[quam]") | vn[quam] |
+|![[quan]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5D.png "[quam]") | [quan] | ![[quan]tum](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5Dtum.png "[quan]tum") | [quan]tum | |
+|
 
 
 
