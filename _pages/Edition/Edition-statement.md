@@ -49,28 +49,27 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.5.1">3.20.5.1</a> If an edition statement is a grammatically inseparable part of the [title proper](/DCRMR/title/Title-proper/), [other title information](/DCRMR/title/Other-title-information/), [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), or any other transcribed element, then transcribe as part of the element to which it is integrated or linked and do not repeat it as an edition statement. 
 
->Example  
->| TITLE PROPER |<CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>|
+>Example:  
+>Title proper: <CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>|
 
->Example  
->| TITLE PROPER | <CITE>Old New York, or, Reminiscences of the past sixty years : </CITE>|  
->| OTHER TITLE INFORMATION |<CITE> being an enlarged and revised edition of the anniversary discourse delivered before the New York Historical Society … </CITE>|  
->| STATEMENT OF RESPONSIBILITY | <CITE> nunc iterum non mediocri studio atque diligentia a pluribus mendis purgata </CITE> |
+>Example:  
+>Title proper: <CITE>Old New York, or, Reminiscences of the past sixty years : </CITE>  
+>Other title information: <CITE> being an enlarged and revised edition of the anniversary discourse delivered before the New York Historical Society … </CITE>  
+>Statement of responsibility: <CITE> nunc iterum non mediocri studio atque diligentia a pluribus mendis purgata </CITE> 
 
 ## 3.20.6 Edition statements with grammatically inseparable information
 
 <a name="3.20.6.1">3.20.6.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [1.21.X.X](/DCRMR/title/Title-proper/) transcribe it as part of the designation of edition statement. If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X)).
 
->Example  
+>Example:  
 > <CITE>A new edition in two volumes</CITE>
 
 ## 3.20.7 Two or more works on the preferred source of information with at least one edition statement
 
 <a name="3.20.7.1">3.20.7.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, transcribe each edition statement that is grammatically linked to another element (e.g.[title proper](/DCRMR/title/Title-proper/), [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) or any other transcribed element) within that element. Transcribe edition statements not grammatically linked to another element as individual statements. Indicate the element to which each edition statement corresponds in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
 
->|EXAMPLE|  |  
->| |An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE> |
->|SOURCE| An examination of Dr. Burnet's Theory of the earth, 1734) ESTC: T122602; OCLC: 780707618| 
+>Example:  
+><CITE>An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE>  
 
 ## 3.20.8 Edition statements relating to issues or parts
 
@@ -89,38 +88,38 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 <a name="3.20.91.1">3.20.91.1</a> For a multipart monograph, if the edition statement varies or does not appear on all of the volumes, ascertain whether the set was issued as such, using the following guidelines:
 
 1) If other  exemplars of the set are known to have the same combination of editions, assume the set was issued as such.  
-1) If there is no other exemplar of the set known with the same combination of editions, and other exemplars with different combinations of editions are known, assume the set in hand was not issued as such.  
-1) If there are no other known exemplars of the set, assume the set was issued as such.
+2) If there is no other exemplar of the set known with the same combination of editions, and other exemplars with different combinations of editions are known, assume the set in hand was not issued as such.  
+3) If there are no other known exemplars of the set, assume the set was issued as such.
 
 In case of doubt, assume the set was not issued as such.
 
->|EXAMPLE  |  |
->|EDITION STATEMENT |<CITE>v. 1: The second edition</CITE>|
->|EDITION STATEMENT |<CITE>v. 2: The first edition</CITE>|
->|NOTE ON EDITION STATEMENT |<CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition.</CITE>|
+>Example:  
+>Edition statement: <CITE>v. 1: The second edition</CITE>  
+>Edition statement: <CITE>v. 2: The first edition</CITE>  
+>Note on edition statement: <CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition.</CITE>
 
 <a name="3.20.91.2">3.20.91.2</a> Make a note indicating the absence of edition statements if considered important.
 
->|EXAMPLE  |  |
->|EDITION STATEMENT| <CITE>The second edition</CITE>|
->|NOTE ON EDITION STATEMENT| <CITE>Volumes 2-3 issued without the edition statement</CITE>|
+>Example:      
+>Edition statement: <CITE>The second edition</CITE>  
+>Note on edition statement: <CITE>Volumes 2-3 issued without the edition statement</CITE>
 
 <a name="3.20.91.3">3.20.91.3</a> If the multipart monograph is known or assumed to be a made-up set describe the monograph using one of the following methods:
 
 1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [note on extent of item](/DCRMR/Notes-on-items/Note-on-extent-of-item/) (see [8.24.X.X](/DCRMR/Notes-on-items/Note-on-extent-of-item/#8.24.X.X)).
 
->|EXAMPLE  |  |  
->|EDITION STATEMENT |<CITE>Second edition</CITE>|  
->|NOTE ON EXTENT OF ITEM |<CITE>Library's copy imperfect: v. 2 wanting; a previous owner has supplied v. 2 from the 3rd ed. to create a made-up set</CITE>|  
->|COMMENT |<CITE>The first of two descriptions associated with the made-up set</CITE>|
+>Example:      
+>Edition statement: <CITE>Second edition</CITE>  
+>Note on extent of item: <CITE>Library's copy imperfect: v. 2 wanting; a previous owner has supplied v. 2 from the 3rd ed. to create a made-up set</CITE>  
+>*Comment:* <CITE>The first of two descriptions associated with the made-up set</CITE>
 
->|EXAMPLE  |  |  
->|EDITION STATEMENT |<CITE>Third edition</CITE>|  
->|NOTE ON EXTENT OF ITEM|<CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>|  
->|COMMENT|<CITE>The second of two descriptions associated with the made-up set</CITE>|
+>Example:       
+>Edition statement: <CITE>Third edition</CITE>  
+>Note on extent of item: <CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
+>*Comment:* <CITE>The second of two descriptions associated with the made-up set</CITE>
 
 2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [note on manifestation](/DCRMR/Other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.X.X](/DCRMR/Other-notes-Note-on-manifestation/#7.20.X.X)).
 
->|EXAMPLE  |  |  
->|EDITION STATEMENT |<CITE> First edition</CITE>|  
->|NOTE ON MANIFESTATION| <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>|
+>Example:      
+>Edition statement: <CITE> First edition</CITE>  
+>Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>
