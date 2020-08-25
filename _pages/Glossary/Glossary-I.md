@@ -12,6 +12,11 @@ sidebar:
 
 1. TOC
 {:toc}
+## **Illustration.**
+A pictorial, diagrammatic, or other graphic representation occurring within a publication, excepting minor decorative elements such as vignettes, head- and tail-pieces, historiated initials, and printers’ ornaments.
+
+## **Impression.**
+All copies produced in the course of one printing event; the term is synonymous with “printing.” *See also* **[Copy](DCRMR/glossary/Letter/#Copy).** 
 
 ## **Issue.**
 A group of published copies which constitutes a consciously planned publishing unit, distinguishable from other groups of published copies by one or more differences designed expressly to identify the group as a discrete unit.
