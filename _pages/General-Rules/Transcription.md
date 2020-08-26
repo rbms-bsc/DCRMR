@@ -86,28 +86,32 @@ right bracket = &#93;
 
 |Brevigraphs| | | | | |
 |---|---|---|---|---|
-|Brevigraphs|Transcription|Example|Transcription of example|Notes|
+|Brevigraphs|Brevigraph Transcription|Example|Example Transcription|Notes|
 | ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "Co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | Co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
 | ![ae](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png "[ae]") | [ae] | ![h[ae]c](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png "h[ae]c") | h[ae]c |
 | ![Christus](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png "Christus")| [Christus] | | |A contraction using both Greek and Latin letters |
 | ![con](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5D.png "con") | [con] | ![[con]cor[di]a](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5Dcor%5Bdi%5Da.png "[con]cor[di]a") | [con]cor[di]a | | 
-|![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png "Brevigraph") ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png "Brevigraph") | [es]  [ius]  [m]  [us]  | ![statut[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png "statut[es]")   ![Ross[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png "Ross[es]")   ![cu[ius]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png "cu[ius]")   ![impressu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png "impressu[m]")   ![ei[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png "ei[us]") | statut[es]  Ross[es]  cu[ius]  impressum[m]  ei[us]  | A highly versatile symbol; see also, for example, "[habet]," "[que]," "[scilicet]," and "[sed]" below |
+|![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-2.png "Brevigraph") ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-3.png "Brevigraph") | [es]     [ius]     [m]     [us]     | ![statut[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/statut%5Bes%5D.png "statut[es]")   ![Ross[es]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Ross%5Bes%5D.png "Ross[es]")   ![cu[ius]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/cu%5Bius%5D.png "cu[ius]")   ![impressu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/impressu%5Bm%5D.png "impressu[m]")   ![ei[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ei%5Bus%5D.png "ei[us]") | statut[es]    Ross[es]  cu[ius]  impressum[m]  ei[us]  | A highly versatile symbol; see also, for example, "[habet]," "[que]," "[scilicet]," and "[sed]" below |
 | ![habet](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhabet%5D.png "habet") |[habet]| | | |
 | ![[hoc]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bhoc%5D.png "habet") |[hoc]| | | |
 | ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/brevigraph-4.png "Brevigraph") | [per]  [par]  | ![su[per]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/su%5Bper%5D.png "su[per]") ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]")| su[per]  [par]ticulari[bus]  | |
 | ![[pro]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5D.png "[pro]") | [pro] | ![[pro]pter](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpro%5Dpter.png "[pro]pter") | [pro]pter | |
 | ![[pri]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5D.png "[pri]") | [pri] |  ![[pri]ma](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpri%5Dma.png "[pri]ma") | [pri]ma |
-|![[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquam%5D.png "[quam]") | [quam]| ![vn[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/vn%5Bquan%5D.png "vn[quam]") | vn[quam] |
+|![[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquam%5D.png "[quam]") | [quam]| ![vn[quam]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/vn%5Bquam%5D.png "vn[quam]") | vn[quam] |
 |![[quan]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5D.png "[quam]") | [quan] | ![[quan]tum](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquan%5Dtum.png "[quan]tum") | [quan]tum | |
-|
-
-
-
-
-| 
-
-
-
+| ![[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bque%5D-1.png "[[que]]") | [que] | ![quo[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Bque%5D.png "[quo[que]") ![Herculeae[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Herculeae%5Bque%5D.png "[Herculeae[que]")  ![quos[que]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quos%5Bque%5D.png "quos[que]") | quo[que] Herculeae[que] quos[que] | |
+| ![[qui]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5D.png "[qui]") | [qui] | ![[qui]b[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5Db%5Bus%5D.png "[qui]b[us]") | [qui]b[us] | |
+| ![[quia]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquia%5D.png "[quia]") | [quia] |  | | |
+| ![[quo]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquo%5D.png "[quo]") | [quo] | | | |
+| ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D.png "[quod]") ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D-2.png "[quod]") | [quod] | | | |
+| ![[recta]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brecta%5D.png "[recta]") | [recta] | | | |
+| ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-1.png "[rum]") ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-2.png "[rum]") | [rum] | ![quo[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Brum%5D.png "quo[rum]") ![libro[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Brum%5D.png "libro[rum]") | quo[rum] libro[rum] |  |
+| ![[scilicet]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bscilicet%5D.png "[scilicet]") | [scilicet] | | | |
+| ![[sed]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bsed%5D.png "[sed]") | [sed] | | | |
+| ![[th]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bth%5D.png "[th]") | [th] | ![[the]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthe%5D.png "[the]") ![[that]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bthat%5D.png "[that]")| [the] [that] | When **y** is used to represent the Old English / Icelandic character **þ** [thorn], enclose **th** plus additional letters in square brackets. |
+| ![[ur]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bur%5D.png "[ur]") | [ur] | ![nascunt[ur]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/nascunt%5Bur%5D.png "nascunt[ur]") | nascunt[ur] | |
+| ![[us] or [bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bus%5D.png "[us] or [bus]") | [us] [bus] | ![reb[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/reb%5Bus%5D.png "reb[us]") ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]") | reb[us] [par]ticulari[bus] | Superscript; a similar character at baseline represents "[con]" |
+| ![[ver]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5D.png "[ver]") | [ver] | ![[ver]tuoso](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5Dtuoso.png "[ver]tuoso") | [ver]tuoso | |
 
 ![Brevigraphs, chart 2](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 02.png "brevigraphs, chart 2")
 
