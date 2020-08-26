@@ -26,19 +26,18 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ---
 
-## 5.221.2 Definition and scope
+## 5.221.2 RDA Definition and scope
 
 <a name="5.221.2.1">5.221.2.1</a> Details of an arrangement of text, images, tactile notation, etc., in a manifestation.
 
-
 ## 5.221.3 Notes on layout 
 
-<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the extent of manifestation (see [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves)), record their presence as [details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [5.221.X.X](/DCRMR/phys-desc/Details-of-layout/#5.221.X.X)).
+<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the extent of manifestation (see [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves)), record their presence as details of layout if considered important.
 
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>
 
-<a name="5.221.3.2">5.221.3.2</a> **Alternative rule** Record the presence of blank leaves as part of a signature statement (see [note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4) or full collation see [note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
+<a name="5.221.3.2">5.221.3.2</a> **Alternative rule** Record the presence of blank leaves as part of a signature statement (see [note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#52014-signatures) or full collation see [note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
 
 <a name="5.221.3.3">5.221.3.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 

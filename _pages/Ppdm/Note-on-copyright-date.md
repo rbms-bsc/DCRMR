@@ -22,7 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.232.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-ecaba0d1-b8ef-3549-9e6e-29685004e392)
+<a name="4.232.1.1">4.232.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-ecaba0d1-b8ef-3549-9e6e-29685004e392)
 
 ---
 

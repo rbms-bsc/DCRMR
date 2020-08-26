@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.2222.1.1">5.2222.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd)
 
-## 5.2222.2 Definition and scope
+## 5.2222.2 RDA Definition and scope
 
 <a name="5.2222.2.1">5.2222.2.1</a> Details of a proportional relationship between a whole sheet in a printed or manuscript resource and the individual leaves that result if that sheet is left full, cut, or folded.
 

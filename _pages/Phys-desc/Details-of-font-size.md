@@ -25,7 +25,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="5.2232.1.1">5.2232.1.1</a> [Link to RDA Toolkit](
 https://beta.rdatoolkit.org/en-US_ala-d818f2c6-cced-357b-87ca-a4b482a249c4)
 
-## 5.2232.2 Definition and scope
+## 5.2232.2 RDA Definition and scope
 
 <a name="5.2232.2.1">5.2232.2.1</a> Details of a size of the type that is used to represent the characters and symbols in a manifestation.
 

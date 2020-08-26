@@ -22,11 +22,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.221.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d9676281-26fe-3751-ae5a-d45689d80171){:target="_blank"}
+<a name="4.221.1.1">4.221.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d9676281-26fe-3751-ae5a-d45689d80171){:target="_blank"}
 
 ## 4.221.2 RDA Definition and scope
 
-A place associated with the printing, duplicating, casting, etc., of a published manifestation.
+<a name="4.221.2.1">4.221.2.1</a> A place associated with the printing, duplicating, casting, etc., of a published manifestation.
 
 ## 4.221.3 General rule
 
@@ -38,13 +38,13 @@ A place associated with the printing, duplicating, casting, etc., of a published
 >Example:  
 ><CITE>In Venetia</CITE>
 
-<a name="4.221.3.2">4.221.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/).
+<a name="4.221.3.2">4.221.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/).
 
 <a name="4.221.3.3">4.221.3.3</a> *Optionally,* omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 ## 4.221.4 Supplied place of manufacture
 
-<a name="4.221.4.1">4.221.4.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a note on manufacture statement if necessary (see [4.226.4.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.1)).
+<a name="4.221.4.1">4.221.4.1</a> If the place of manufacture does not appear, or is transcribed as a grammatically inseparable part of another area or element, supply the place of manufacture in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Provide a justification for the supplied place in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.1)).
 
 >Example:  
 ><CITE>[Ashbourn] : printed at the Office of M. Hoon, Ashbourn</CITE>
@@ -54,9 +54,9 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 ## 4.221.5 Fictitious or incorrect places of manufacture
 
-<a name="4.221.5.1">4.221.5.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a note giving the actual place name. Include the source of the actual place name (see [4.226.4.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
+<a name="4.221.5.1">4.221.5.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) giving the actual place name. Include the source of the actual place name (see [4.226.4.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
 
-<a name="4.221.5.2">4.221.5.2</a>  *Alternative rule:* if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a note on manufacture statement (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
+<a name="4.221.5.2">4.221.5.2</a>  *Alternative rule:* if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
@@ -74,7 +74,7 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 <a name="4.221.6.2">4.221.6.2</a> *Optional omission:* If it is considered that the places are too numerous to record exhaustively and some may be omitted without significant loss of identification then all places of manufacture after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places in the supplied phrase.
 
-<a name="4.221.6.3">4.221.6.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a note on manufacture statement to indicate the original position on the source of any transposed statements (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
+<a name="4.221.6.3">4.221.6.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
 
 >Example:  
 ><CITE>Manchester : printed for a Society of gentlemen ; North Shields : re-printed at the Stanhope Press by J.K. Pollock</CITE>
@@ -102,4 +102,4 @@ A place associated with the printing, duplicating, casting, etc., of a published
 
 <a name="4.221.7.1">4.221.7.1</a> For multipart monographs, always record a change in place of manufacture.
 
-<a name="4.221.7.2">4.206.7.2</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a note on manufacture statement (see [4.226.4.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.5)).
+<a name="4.221.7.2">4.206.7.2</a> Make a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication by giving the place of manufacture of the later part(s) in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.5)).

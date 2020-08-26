@@ -52,11 +52,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.202.6 Color illustrations
 
-<a name="5.202.6.1">5.202.6.1</a> See [colour content](/DCRMR/phys-desc/colour-content/), [5.204.6.1](/DCRMR/phys-desc/colour-content/#5.204.6.1) for controlled terms for color content of illustrations.
+<a name="5.202.6.1">5.202.6.1</a> See [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1) for controlled terms for color content of illustrations.
 
 <a name="5.202.6.2">5.202.6.2</a> See [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.3.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.3.1) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [colour content](/DCRMR/phys-desc/colour-content/), [5.204.6.1](/DCRMR/phys-desc/colour-content/#5.204.6.1) for controlled terms for hand-coloring. For details of hand-coloring, see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content//#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X).
+<a name="5.202.6.3">5.202.6.3</a> See [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1) for controlled terms for hand-coloring. For details of hand-coloring, see [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) (for hand-colored manifestations issued as such) and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X).
 
 # 5.202.7 General rule
 

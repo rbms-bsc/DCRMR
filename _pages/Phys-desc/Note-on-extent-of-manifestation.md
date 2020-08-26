@@ -30,12 +30,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.201.3 General rule
 
-<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in extent of manifestation if considered important (see [5.20.9.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.9.1)).
+<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) if considered important (see [5.20.9.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.9.1)).
 
 > Example:  
 > Note on extent of manifestation: <CITE>Volumes numbered: 1, 2A, 2B, 2C, 3</CITE>
 
-<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but  printed on both  sides, record this fact in a note on extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.3.2](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.2)).
+<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but printed on both  sides, record this fact in a note on extent of manifestation (see [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.3.2](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.2)).
 
 > Example:  
 > Extent of manifestation: <CITE>48 leaves</CITE>  

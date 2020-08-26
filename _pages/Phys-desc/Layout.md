@@ -26,7 +26,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.22.1.2">5.22.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
-## 5.22.2 Definition and scope
+## 5.22.2 RDA Definition and scope
 
 <a name="5.22.2.1">5.22.2.1</a> An arrangement of text, images, tactile notation, etc., in a manifestation.
 
@@ -35,4 +35,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.22.3.1">5.22.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies, RDA Layout](http://www.rdaregistry.info/termList/layout/) and indicate the source.
 
-<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in [details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [details of layout](/DCRMR/phys-desc/Details-of-layout/), [5.221.3.1](/DCRMR/books/phys-desc/Details-of-layout/#5.221.3.1)).
+<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in [details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [details of layout](/DCRMR/phys-desc/Details-of-layout/), [5.221.3.1](/DCRMR/phys-desc/Details-of-layout/#5.221.3.1)).

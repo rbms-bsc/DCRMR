@@ -72,4 +72,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Details of illustrative content: <CITE>Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket</CITE>
 
-<a name="5.203.9.3">5.203.9.3</a> For details of hand-colored illustrations see [details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) for hand-colored manifestations issued as such and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X).
+<a name="5.203.9.3">5.203.9.3</a> For details of hand-colored illustrations, see [details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) for hand-colored manifestations issued as such and [note on item](/DCRMR/Notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X).

@@ -22,7 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.225.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f6396d3f-6883-3ad2-84f1-d0714cfd42a0){:target="_blank"}
+<a name="4.225.1.1">4.225.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f6396d3f-6883-3ad2-84f1-d0714cfd42a0){:target="_blank"}
 
 ## 4.225.2 RDA Definition and scope
 
@@ -46,7 +46,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.225.5 Transcription involving adjustments or additions
 
-<a name="4.225.5.1">4.225.5.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [RBMS transcription guidelines](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.225.5.1">4.225.5.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 <a name="4.225.5.2">4.225.5.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
@@ -105,7 +105,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.225.9.1">4..225.9.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 
-<a name="4.225.9.2">4.225.9.2</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [4.226.8.9](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.9)).
+<a name="4.225.9.2">4.225.9.2</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.9](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.9)).
 
 ## 4.225.91 Date of manufacture on part pages
 

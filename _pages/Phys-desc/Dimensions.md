@@ -96,7 +96,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>22 x 28 cm, folded to 22 x 10 cm</CITE>
 
-<a name="5.21.7.3">5.21.7.3</a> If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. If the folded dimensions are important, record this information in [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimesions-of-item/) (see [8.25.3.3](/DCRMR/notes-on-items/Note-on-dimesions-of-item/#8.25.3.3)).
+<a name="5.21.7.3">5.21.7.3</a> If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. If the folded dimensions are important, record this information in [note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) (see [8.25.3.3](/DCRMR/notes-on-items/Note-on-dimensions-of-item/#8.25.3.3)).
 
 >Example:  
 ><CITE>24 x 38 cm</CITE>  
