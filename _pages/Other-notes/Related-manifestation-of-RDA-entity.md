@@ -22,7 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 7.23.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-1ddf3c16-7d6d-3d8b-9935-24c5fa7c16f4){:target="_blank"}
+<a name="7.23.1.1">7.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-1ddf3c16-7d6d-3d8b-9935-24c5fa7c16f4){:target="_blank"}
 
 ## 7.23.2 RDA Definition and scope
 

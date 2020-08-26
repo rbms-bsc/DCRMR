@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="8.25.3.1">8.25.3.1</a> For general instructions on constructing item specific notes, see [note on item](/DCRMR/notes-on-items/Note-on-item), [8.20.X.X](/DCRMR/notes-on-items/Notes-on-item/#8.20.X.X). 
 
-<a name="8.25.3.2">8.25.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.3.3](/DCRMR/phys-desc/Dimensions/#5.21.3.3)).
+<a name="8.25.3.2">8.25.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.3.3](/DCRMR/phys-desc/Dimensions/#5.21.3.3)).
 
 >Example:  
 ><CITE>Library copy leaf size: 209 x 143 mm</CITE>
@@ -45,7 +45,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 > <CITE>Library copy: Sheet trimmed to within thread margin of plate mark on two sides</CITE>
 
-<a name="8.25.3.3">8.25.3.3</a> Record the folded dimensions of a sheet not folded as issued in a note on dimensions of item if considered important (see [dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.7.3](/DCRMR/phys-desc/Dimensions/#5.21.7.3)).
+<a name="8.25.3.3">8.25.3.3</a> Record the folded dimensions of a sheet not folded as issued in a note on dimensions of item if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.7.3](/DCRMR/phys-desc/Dimensions/#5.21.7.3)).
 
 >Example:  
 > <CITE>Folded by later owner to 24 x 19 cm</CITE>

@@ -246,10 +246,6 @@ docs:
         url: /other-notes/Note-on-manifestation/
       - title: "Related manifestation of RDA entity"
         url: /other-notes/Related-manifestation-of-RDA-entity/
-      - title: "--Reprint of manifestation of"
-        url: /other-notes/Related-manifestation-of-RDA-entity/#7235-reprint-of-manifestation-of
-      - title: "--Accompanying by manifestation"
-        url: /other-notes/Related-manifestation-of-RDA-entity/#7236-accompanied-by-manifestation
       - title: "Manifestation dissertation statement"
         url: /other-notes/Manifestation-dissertation-statement/
       - title: "Dissertation or thesis information"
@@ -262,8 +258,6 @@ docs:
         url: /other-notes/Year-degree-granted/
       - title: "Manifestation described in"
         url: /other-notes/Manifestation-described-in/
-      - title: "Manifestation described in"
-
       - title: "Note on RDA entity"
         url: /other-notes/Note-on-RDA-entity/
       - title: "Summarization of content"
@@ -302,6 +296,8 @@ docs:
         url: /identifiers/Term-of-availability/
       - title: "Note on identifier for manifestation"
         url: /identifiers/Note-on-identifier-for-manifestation/
+      - title: "Note on metadata work"
+        url: /identifiers/Note-on-metadata-work/
        
   - title: "Appendices"
     url: /appendices/

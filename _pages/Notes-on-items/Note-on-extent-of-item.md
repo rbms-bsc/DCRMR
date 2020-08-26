@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="8.24.1.1">8.24.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-fd17be6e-c18b-3ae3-92c5-21b0c2c09e48){:target="_blank"}
 
-<a name="8.24.1.2">8.24.1.2</a> [Source of information](/DCRMR/Notes-on-items/)
+<a name="8.24.1.2">8.24.1.2</a> [Source of information](/DCRMR/notes-on-items/)
 
 ## 8.24.2 RDA definition and scope
 
@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 8.24.3 General rule
 
-<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes (see [note on item](/DCRMR/Notes-on-items/Note-on-item/), [8.20.X.X](/DCRMR/Notes-on-item/Note-on-item/#8.20.X.X)).
+<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes (see [note on item](/DCRMR/notes-on-items/Note-on-item/), [8.20.X.X](/DCRMR/Notes-on-item/Note-on-item/#8.20.X.X)).
 
 <a name="8.24.3.2">8.24.3.2</a> Record item-specific imperfections that alter its extent, if considered important (see [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.95.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.95.1)).
 

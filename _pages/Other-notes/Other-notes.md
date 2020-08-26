@@ -8,6 +8,18 @@ sidebar:
   nav: "docs"
 ---
 
+## 7.01 Prescribed punctuation
+
+<a name="7.01.1">7.01.1</a> Prescribed punctuation for the [chapter name] elements are found in [0.3.11](/DCRMR/general-rules/Prescribed-punctuation/#0.3.11)
+
+## 7.02 Sources of information 
+
+<a name="7.02.1">7.02.1</a> Take information from any suitable source.  Square brackets are required only for interpolations within quoted material.
+
+## 7.03 Form and order of information
+
+<a name="7.03.1">7.03.1</a> [X.X]
+
 ## Table of Contents
 {: .no_toc }
 

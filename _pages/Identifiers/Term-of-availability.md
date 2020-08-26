@@ -22,9 +22,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 9.22.1 Element information
 
-<a name="9.22.1.1">9.22.1.1</a> [Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
+<a name="9.22.1.1">9.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-496cc498-87a3-329f-9560-7f16668a6cd5){:target="_blank"}
 
-<a name="9.22.1.2">9.22.1.2</a> [Source of information](/DCRMR/chaptername/)
+<a name="9.22.1.2">9.22.1.2</a> [Source of information](/DCRMR/identifiers/)
 
 ## 9.22.2 RDA definition and scope
 

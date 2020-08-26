@@ -22,7 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 7.223.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-51744638-bd0b-3aac-a958-4be04d024ce4){:target="_blank"}
+<a name="7.223.1.1">7.223.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-51744638-bd0b-3aac-a958-4be04d024ce4){:target="_blank"}
 
 ## 7.223.2 RDA Definition and scope
 
@@ -58,4 +58,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
 >(*Comment:* A publication in quarto)
 
-<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see Note on RDA entity [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1)).
+<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/other-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1)).
