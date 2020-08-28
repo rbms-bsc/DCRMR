@@ -68,13 +68,13 @@ Ignore typographical devices that are used as separators, etc.
 
 ### 0.5.1.4 Early letterforms and symbols
 
-Convert earlier forms of letters and symbols to their modern forms.
+<a name="0.5.1.4">0.5.1.4</a> Convert earlier forms of letters and symbols to their modern forms.
 
 ![Early letterforms and symbols](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early letterforms and symbols.png "chart of early letterforms and symbols")
 
-Brevigraphs
+## 0.5.1.5 Brevigraphs
 
-If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
+<a name="0.5.1.5">0.5.1.5</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
 
 ![Brevigraphs, chart 1](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 01.png "brevigraphs, chart 1")
 
@@ -390,13 +390,112 @@ Use quotation marks to represent speech balloons.
 ## 0.5.4 Spacing
 
 ### 0.5.4.1 Spacing within words and numbers
-	Alternative
+
+<a name="0.5.4.1">0.5.4.1</a> In general, follow modern spacing conventions when transcribing from the source. Make no attempt to preserve full or irregular spaces between letters within words. 
+
+>Example:  
+><CITE>Graecae grammatices</CITE>  
+>(*Source of information reads*: G R AE C AE GRAMMATICES)
+
+>Example:
+><CITE>Leo Belgicus</CITE>
+>(*Source of information reads*: LE O BELGICV S)
+
+If a word is divided between the end of one line and the beginning of the next, transcribe it as a single word, ignoring the line-break.
+
+>Example:  
+><CITE>De laudibus urbis Etruriae et Italiae</CITE>  
+>(*Source of information reads (showing line endings)*:  
+DE LAVDI 
+BVS VRBIS ETRVRIAE 
+ET ITALIAE)
+
+>Example:  
+><CITE>Catalogus vniuersalis pro nundinis Francofurtensibus vernalibus de anno ... </CITE>  
+>(*Source of information reads (showing line endings)*:
+CATALOGVS VNI- 
+VERSALIS PRO NVN - 
+DINIS FRANCOFVRTENSI- 
+bus vernalibus de anno …)
+
+Omit internal spaces when transcribing numbers (including roman numerals).
+
+>Example:  
+><CITE>M.D.CC.XLIV</CITE>  
+>(*Source of information reads*: M.  D.  CC. XLIV)
+
+>Example:  
+><CITE>1/12000</CITE>  
+>(*Source of information reads*: 1/12 000)
 
 ### 0.5.4.2 Spacing between words
 
+<a name="0.5.4.2">0.5.4.2</a> If spacing between words in the source is ambiguous, or lacking, include spaces in the transcription to separate the words as needed.
+
+>Example:  
+><CITE>Founding fathers folly day</CITE>  
+>(*Source of information reads*: Foundingfathersfollyday)
+
+>Example:  
+><CITE>La morte d'Orfeo</CITE>  
+>(*Source of information reads*: LAMORTE D'ORFEO)
+
+If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title "Variant title") for the form of title as it appears in the source, without the spaces (see [1.6](/DCRMR/title/Variant-title "Variant title")).
+
 ### 0.5.4.3 Variant spellings
 
+<a name="0.5.4.3">0.5.4.3</a> Do not insert or delete spaces within or between words that merely represent variant or archaic spellings.
+
+>Example:  
+><CITE>At the foot of the trail, Yo Semite Valley</CITE>  
+>(*Source of information reads*: At the Foot of the Trail,&mdash;Yo Semite Valley)
+
+>Example:  
+><CITE>Newhampshire & Vermont almanac</CITE>  
+>(*Source of information reads*: Newhampshire & Vermont ALMANAC)
+
+If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title 1.6](/DCRMR/title/Variant-title "Variant title") for the form of the title with the spacing inserted (see [1.6](/DCRMR/title/Variant-title "Variant title")).
+
 ### 0.5.4.4 Initials, etc.
+
+Transcribe letters, initials, initialisms, and acronyms without internal spaces, regardless of how they appear in the source.
+
+>Example:  
+><CITE>KL Ianuarius habet dies xxxi</CITE>
+
+>Example:  
+><CITE>Music sellers to HRH the Prince of Wales</CITE>  
+>(*Source of information reads*: Published by Monzani & Hill Music sellers to HRH the Prince of Wales)
+
+>Example:  
+><CITE>A.B.C. indicateur alphabetique des chemins de fer et de la navigation</CITE>
+
+>Example:  
+><CITE>F.S. Chanfrau in the character of "Mose"</CITE>
+
+>Example:  
+><CITE>drawn by M.B. Haynes, C.E.</CITE>
+
+Treat an abbreviation consisting of more than a single letter as if it were a distinct word, separating it with a space from preceding and succeeding words or initials.
+
+>Example:  
+><CITE>Dn. Abrahami Calovii, SS. Theol. Doct. Prof. Publ.</CITE>
+
+>Example:  
+><CITE>par MM. B. Studer et A. Escher de la Linth</CITE>
+
+>Example:  
+><CITE>first collected by Chr. Ign. La Trobe</CITE>
+
+If two or more distinct initialisms (or sets of initials), acronyms, or abbreviations appear in juxtaposition, separate them with a space.
+
+>Example:  
+><CITE>M. J.P. Rabaut</CITE>  
+>(*Comment*: The first initial stands for Monsieur.
+
+>Example:  
+><CITE>by D.L. M.A.</CITE>
+>(*Comment*: The first two initials stand for the author's forename and surname; the second two initials stand for "Master of Arts.”)
 
 ## 0.5.5 Omissions
 
@@ -410,14 +509,74 @@ Use quotation marks to represent speech balloons.
 
 ### 0.5.6.1 General rule
 
+<a name="0.5.6.1">0.5.6.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
+
+Make an explanatory note if considered important for identification.
+
+For guidance on expanding brevigraphs (special marks of contraction in continuance of the manuscript tradition), see [0.5.1.5](/DCRMR/general-rules/Transcription/#0.5.1.5 "0.5.1.5").
+
+>Example:
+><CITE>Multo[rum]</CITE>  
+>(*Comment*: The word ends with a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol.)
+
+**ALT note: how do we want to handle the Comment, which refers to the Manifestation described in element and is making a note that contains a reference to published description?**
+
+>Example:  
+><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  
+>(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in "Manifestation described in element") note (see [References to published descriptions](DCRMR/other-notes/Manifestation-described-in/#72234-references-to-published-descriptions "references to published descriptions")).
+
+>Example:  
+><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  
+>(*Comment*: The Greek symbol for "gamma" is used in the title)
+
+>Example:  
+><CITE>Repertorium nouu[m] cum additionibus ad omnia opera Felini Sandei Farrariensis</CITE>  
+>(*Comment*: "Nouum" on title page spelled with symbol similar to cursive "z")
+
+
 ### 0.5.6.2 Conjectural and indecipherable text
+
+<a name="0.5.6.2">0.5.6.2</a> Indicate a conjectural interpolation by adding a question mark immediately after the interpolation, within the square brackets. Supply a question mark enclosed in square brackets for each indeterminable word or portion of word.
+
+Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text, if considered important.
+
+>Example:  
+><CITE>Amico[rum?]</CITE>  
+>(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png).)
+
+>Example:  
+><CITE>Mr. [--ch?], Cornhill</CITE>  
+>(*Comment*: Indecipherable signature above title on cover transcribed in a local note.)
+
+>Example:  
+>Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
+>Note on title: <CITE>Last word of the title is illegible, the conjecture is based on image content.</CITE>
+
+**ALT note: This is used in a 520 on a record describing a print: [catalog record from Lewis Walpole Library](https://orbis.library.yale.edu/vwebv/holdingsInfo?bibId=12766063 "catalog record"). It's a good example, but I'm not quite sure how to frame the comment vis-a-vis RDA -- what element would something like this go in?**
+
+>Example:  
+><CITE>The reverse, comprising the right half of the design, has the text "Soldi cinqe" at center and the mostly missing or illegible text "[PRO?] BON [PVBLICO?] R[O?] [CE?]" along the edge.</CITE>  
+>(*Comment*: Note on the text in an image.)
+
 
 ### 0.5.6.3 Lacunae in imperfect copies <Graphics: Lacunae in imperfect copies; Manuscripts: Missing and illegible text>
 
+<a name="0.5.6.3"><0.5.6.3</a>If the description is based on an imperfect copy and the omission cannot be conjectured, then use the mark of omission enclosed in square brackets ([...]) to show lacunae in the resource.
+
+>Example:  
+>Place of publication: <CITE>En Barcelona</CITE>  
+>Publication statement: <CITE>Por Sebastian Mateu[...]</CITE>  
+>Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint.</CITE>
+
+>Example:  
+>Title proper: <CITE>[...] modern minstrels</CITE>  
+>Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern".</CITE>  
+
+
 ### 0.5.6.4 Blank spaces <under Blank spaces within the text in DCRM(M)>
-			<Music: Blank spaces for initial letters [under Misprints in DCRM(B)]>
-			<Music: Blank spaces within the text>
-				<Music: option>
+(Music: Blank spaces for initial letters [under Misprints in DCRM(B)]  
+Music: Blank spaces within the text  
+     Music: option)
 				
 ### 0.5.6.5 Cartographic, Graphics, Music: Adjacent elements> ; Adjacent elements within a single area <absent in DCRM(C, G, Mss, M)> ; Adjacent elements within separate areas <absent in DCRM(C, G, Mss, M)>
 
@@ -435,17 +594,53 @@ Use quotation marks to represent speech balloons.
 
 For punctuation indicating an abbreviation, see [punctuation indicating an abbreviation (0.5.3.10)](/DCRMR/general-rules/Transcription/#0.5.3.10 "punctuation indicating an abbreviation").
 
-## 0.5.9 Superscripts and subscripts
+**ALT note: in the RBMS Policy Statements, we referred people to the instructions in pre-3R RDA Appendix B. That Appendix, which did have actual instructions, doesn't seem to have a counterpart in post-3R RDA. Post-3R RDA has [Community vocabulary: Abbreviations](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c&highlight=abbreviations "RDA Community vocabulary: Abbreviations"), which simply says, in the "Abbreviations for countries and states" section, "Do not abbreviate the name of a city or town even if it appears in the list (e.g., Washington, D.C. not Wash., D.C. ). Do not abbreviate a name that is not in the list"; the section "Abbreviations in Latin script" has some footnotes.** 
 
-## 0.5.10 [Order and transpositions]
+**Searching the word 'abbreviations' in the Beta Toolkit didn't find anything comparable to Appendix B, either (or any instructions re: abbrevations at all, really).**
 
-### 0.5.10.1 [General rule]
+**Therefore, I copied the instructions on abbreviations from DCRM(G); I preferred it to DCRM(B) because the instructions were published post-RDA and were slightly expanded, including the 3rd section.**
 
-### 0.5.10.2 [Transposition of information]
+<a name="0.5.8.1">0.5.8.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
-### 0.5.10.3 [Scattered information]
+<a name="0.5.8.2">0.5.8.2</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets (see [0.5.1.5](/DCRMR/general-rules/Transcription/#0.5.1.5 "0.5.1.5")). Make an explanatory note if considered important. If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
 
-### 0.5.10.4 [Ambiguous order of information]
+>Example:  
+><CITE>Henricus Dei gra[tia] Rex Anglie</CITE>  
+>(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
+
+If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
+conventions given in [conjectural or indecipherable text (0.5.6.2)](/DCRMR/general-rules/Transcription/#0.5.6.2 "conjectural or indecipherable text (0.5.6.2)").
+
+<a name="0.5.8.3">0.5.8.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [Variant title](/DCRMR/title/Variant-title "Variant title") if considered important (see [1.6](/DCRMR/title/Variant-title "Variant title")).  
+
+
+## 0.5.9 Letters or words intended to be read more than once
+
+**ALT note: This instruction is not present in DCRM, although it is present in pre-3R RDA. It is also present, albeit with different wording, in post-3R RDA, in the [Guidance / Guidelines on normalized transcription](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_sbr_vfs_b2b "Guidlines on normalized transcription / Letters or words intended to be read more than once").**
+
+**The text of the main instruction comes pre-3R RDA. If we retain the instruction, we might want to modify it.**
+
+If a letter or word appears only once but the design of the source of information makes it clear that it is intended to be read more than once, repeat the letter or word.
+
+**End of pre-3R RDA text**
+
+Make an explanatory note.
+
+>Example:  
+>Title proper: <CITE>Here comes Santa Claus</CITE>  
+>Note on title: <CITE>Title words alternate vertically and horizontally, intersecting with shared letters, as in a crossword puzzle.</CITE>
+
+## 0.5.10 Superscripts and subscripts
+
+## 0.5.11 [Order and transpositions]
+
+### 0.5.11.1 [General rule]
+
+### 0.5.11.2 [Transposition of information]
+
+### 0.5.11.3 [Scattered information]
+
+### 0.5.11.4 [Ambiguous order of information]
 
 
 
