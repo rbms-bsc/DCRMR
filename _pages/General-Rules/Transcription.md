@@ -88,7 +88,7 @@ If a brevigraph standing for an entire word appears in the source, supply instea
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
->(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png "ye") sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png "ye") shipp within Temple Bar)
+>(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) shipp within Temple Bar)
 
 If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [conjectural and indecipherable text (0.5.6.2) ](/DCRMR/general-rules/Transcription/#0.5.6.2 "conjectural and indecipherable text").
 
@@ -440,7 +440,7 @@ Omit internal spaces when transcribing numbers (including roman numerals).
 ><CITE>La morte d'Orfeo</CITE>  
 >(*Source of information reads*: LAMORTE D'ORFEO)
 
-If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title "Variant title") for the form of title as it appears in the source, without the spaces (see [1.6](/DCRMR/title/Variant-title "Variant title")).
+If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title as it appears in the source, without the spaces (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
 ### 0.5.4.3 Variant spellings
 
@@ -454,7 +454,7 @@ If the missing spaces occur in the first five words of the title proper (the fir
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title 1.6](/DCRMR/title/Variant-title "Variant title") for the form of the title with the spacing inserted (see [1.6](/DCRMR/title/Variant-title "Variant title")).
+If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title 1.6](/DCRMR/title/Variant-title "Variant title") for the form of the title with the spacing inserted (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
 ### 0.5.4.4 Initials, etc.
 
@@ -501,9 +501,87 @@ If two or more distinct initialisms (or sets of initials), acronyms, or abbrevia
 
 ### 0.5.5.1 General rule
 
-### 0.5.5.2 Information not considered part of any area
+Indicate omissions in a quoted note or transcribed element by using the mark of omission. When using the mark of omission, generally give it with a space on either side. 
 
-### 0.5.5.3 Information not take from the chief source of information
+>Example:  
+><CITE>Printed by Leon. Lichfield ... and are to be sold by the Widow Howell</CITE>
+
+>Example:  
+><CITE>Printed for John Melish, John Vallance, and H.S. Tanner ... by G. Palmer</CITE>
+
+**ALT note: this deals with ISBD punctuation. It should, perhaps, go elsewhere; in the interim, I edited the text from "However, give a space on only one side if the mark comes at the end of an element, is preceded by an opening parenthesis or opening square bracket, or is followed by a closing parenthesis, closing square bracket, or comma" to the text below**
+
+However, give a space on only one side of the mark of omission if it is preceded by an opening parenthesis or opening square bracket; is followed by a closing parenthesis, closing square bracket, or comma; or, if using ISBD punctuation, comes at the end of an element.
+
+>Example:  
+><CITE>Printed for the Widow Swart ..., 1688</CITE>  
+>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
+
+>Example:  
+><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
+>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
+
+#### Exception
+
+Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [name of publisher](DCRMR/ppdm/Name-of-publisher/), [4.203.7.2](DCRMR/ppdm/Name-of-publisher/#4.203.7.2)).
+
+>Example:  
+><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
+
+### 0.5.5.2 Information not considered part of any transcribed element
+
+Omit, without using the mark of omission, grammatically separable information not considered part of any transcribed element. Such information may include quotations, epigrams, mottoes, advertisements, etc. 
+
+If considered important, give the omitted information in a note.
+
+If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element.
+
+For Dedications, see X.X.X.X. 
+
+**ALT note: where did dedications go? A search in the Drive folder for DCRM(B) Re-write doesn't get anything. in the RBMS PS, this said to look at 2.3.4.1, under Other Title Information.**
+
+**If dedications are no longer in Other title information (which it doesn't seem to be in the drafts), I propose either omitting it or the following, noting that it doesn't cleanly divide into Books - Not Books)**
+
+#### Dedications
+
+Treat the dedication as information not considered part of any element  
+<u>if</u>:  
+the entire resource is the preferred source of information (for example, maps, still images, globes)  
+<u>and</u>  
+the dedication has not been transcribed as a grammatically inseparable part of another element  
+<u>or</u>  
+the dedication is not visually connected to information transcribed as part of the title.
+
+Record a grammatically separable dedication that has been omitted from a transcribed element in a note.
+
+Treat the dedication [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
+<u>if</u>:  
+the entire resource is not the preferred source of information (for example, the resource has a title page)  
+<u>and</u>  
+the preferred source of information includes a dedication that has not already been transcribed as a grammatically inseparable part of another element.
+
+Treat the dedication [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
+<u>if</u>:  
+the dedication has not already been transcribed as a grammatically inseparable part of another element  
+<u>and</u>  
+the dedication is visually connected to information transcribed as part of the title.
+
+If treating the dedication as [other title information](DCRMR/title/Other-title-information/) and any part of the dedication is omitted, use the mark of omission.
+
+### 0.5.5.3 Information not taken from the preferred source of information
+
+If information is transcribed from a source other than the preferred source of information and the transcribed information is preceded or followed by grammatically separable information that is not considered part of the element, then omit the words that precede or follow. Do not use the mark of omission.
+
+If considered important for identification, give the omitted text in a note.
+
+>Example:  
+>Edition statement: <CITE>The second edition</CITE>  
+>Note on edition statement: <CITE>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley’s designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed.</CITE>
+
+>Example:  
+>Place of publication: <CITE>Impressum Lypczk</CITE>  
+>Name of publisher: <CITE>per Arnoldum de Colonia, Anno nonagesimo quinto</CITE>  
+>Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto.</CITE>
 
 ## 0.5.6 Interpolations
 
@@ -559,13 +637,13 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >(*Comment*: Note on the text in an image.)
 
 
-### 0.5.6.3 Lacunae in imperfect copies <Graphics: Lacunae in imperfect copies; Manuscripts: Missing and illegible text>
+### 0.5.6.3 Lacunae in imperfect copies 
 
 <a name="0.5.6.3"><0.5.6.3</a>If the description is based on an imperfect copy and the omission cannot be conjectured, then use the mark of omission enclosed in square brackets ([...]) to show lacunae in the resource.
 
 >Example:  
 >Place of publication: <CITE>En Barcelona</CITE>  
->Publication statement: <CITE>Por Sebastian Mateu[...]</CITE>  
+>Name of publisher: <CITE>Por Sebastian Mateu[...]</CITE>  
 >Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint.</CITE>
 
 >Example:  
@@ -573,22 +651,122 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern".</CITE>  
 
 
-### 0.5.6.4 Blank spaces <under Blank spaces within the text in DCRM(M)>
-(Music: Blank spaces for initial letters [under Misprints in DCRM(B)]  
-Music: Blank spaces within the text  
-     Music: option)
+### 0.5.6.4 Blank spaces 
+
+#### Blank Spaces Intended for Completion
+
+If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets.
+
+Make an explanatory note.
+
+If the blank has been completed in the item being described, indicate this in a [note on item](DCRMR/notes-on-items/Note-on-item), if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+
+>Example:  
+>Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
+>Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer.</CITE>  
+>Note on item (optional): <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755.</CITE>
+
+**ALT note: keep ISBD punctuation in example?**
+>Example:
+>Statement of responsibility: <CITE>drawn by [blank]</CITE>  
+>Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer.</CITE>  
+>Note on item (optional): <CITE>Library's copy has blanks supplied in manuscript: State of [New York] / drawn by [Fannie Ufford]</CITE>  
+
+If the blank occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title without the interpolated word “[blank]” (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+
+#### Blank Spaces for Initial Letters
+
+If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
+
+Make an explanatory note.
+
+**ALT note: the local note forms vary from those in the previous section -- should they be brought into alignment? Alternatively, should the libary of Missae familiares be identified so that it's in aligment with Historiarum libri XXXV?**
+
+>Example:  
+>Title proper: <CITE>[M]issae familiares</CITE>  
+>Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
+>Note on item (optional): <CITE>[Library's] copy: Initial letter executed in red and blue ink.</CITE>
+
+If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets.
+
+>Example:  
+>Title proper: <CITE>Historiarum libri XXXV</CITE>  
+>Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
+>Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript.</CITE>
+
+Make a [note on item](DCRMR/notes-on-items/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
 				
-### 0.5.6.5 Cartographic, Graphics, Music: Adjacent elements> ; Adjacent elements within a single area <absent in DCRM(C, G, Mss, M)> ; Adjacent elements within separate areas <absent in DCRM(C, G, Mss, M)>
+### [0.5.6.5 Adjacent elements within a single area]
+
+**ALT note: this doesn't belong here any more -- maybe in the MARC21 appendix?**
+
+If adjacent elements are to be enclosed in square brackets, each is enclosed in its own pair of square brackets.
+
+>Example:  
+><CITE>[Springland, Pa.] : [W. Burch], [1808]</CITE>
 
 ## 0.5.7 Inaccuracies, misprints, etc.
 
-### 0.5.7.1 <Graphics, Music: Unintentional inccuracies [looks to be a more detailed version of DCRM(B): Misprints]>
+**ALT note: pre-3R RDA, in 1.7.9, instructed catalogers to transcribe inaccuracies as they appeared unless the instructions for a specific element indicated otherwise. If considered important, one coudl make a note and/or record a variant title. The RBMS PS instructed one to make a variant title if the inaccuracy was in the first 5 words, and gave an Alternative to use sic and i.e. in the transcription.**
 
-### 0.5.7.2 Misprints <Cartographic: Inaccuracies>
+**Post-3R RDA doens't mention inaccuracies in the Normalized transcription guidelines, so far as I can tell, and the only element where inaccuacies comes up is Note on title -- and in Note on title, it gives 2 conditions, one where the inaccuracy was transcribed as it appears and one where the inaccuracy was (silently?) corrected. So, post-3R RDA appears neutral about how you transcribe it, with or without the correction.**
 
-### 0.5.7.3 [Graphics, Music: Deliberate misspellings>]
+**Based on the answers to the RBMS PS review questions 2.5 [transcription of inaccuracies](https://www.google.com/url?q=https://docs.google.com/document/d/1rpG4rAit5rWYUQEr_DSscXrd7xVP6jymxe0NRs5P5ic/edit%23bookmark%3Did.3q6mv0uqsk26&sa=D&ust=1598699465066000&usg=AFQjCNEVL1wE1ZiDraXaXYTCSxg78OVQDw) and 4 [use of abbreviations i.e. and sic](https://www.google.com/url?q=https://docs.google.com/document/d/1dvdy6ZkM9EXrkU3Hszo3zX4-7EdQvASy8PeJsWaTE5c/edit%23bookmark%3Did.5zztb28ymksp&sa=D&ust=1598699465014000&usg=AFQjCNEQEjm7yfG-A5C8GsFOX6uyemPQRw) I did the following:**
+* **eliminated the pre-3R RDA text, making in-element corrections using square brackets the instruction** 
+* **replaced "i.e." with "that is" within brackets**
 
-### 0.5.7.4 Turned and approximated letters <Graphics, Music: Reversed, turned, and approximated characters [largely the same]>
+### 0.5.7.1 Misprints and unintential inaccuracies
+
+Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is” and the correction within square brackets.
+
+>Example:  
+><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
+
+>Example:  
+><CITE>Constitutionalsit [sic]--Extra</CITE>
+
+>Example:  
+><CITE>Archivum Eurasiae medii aeivi [that is, aevi]</CITE>
+
+>Example:  
+><CITE>The notted [that is, noted] history of Mother Grim</CITE>
+
+If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record [variant titles](/DCRMR/title/Variant-title) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+
+Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
+
+### 0.5.7.2 Deliberate misspellings
+
+**ALT note: do we want to add "If considered important, record a variant title" to this instruction? It's in DCRM(G) but not in the RBMS PS.**
+
+Do not correct deliberately misspelled words. If considered important, make an explanatory note.
+
+>Example:  
+>Title proper: <CITE>The Summer Shower, or, Mademoiselle Par, a Pluye</CITE>  
+>Note on title: </CITE>For "Par, a Pluye" read "parapluie".</CITE>
+
+### 0.5.7.3 Turned and approximated letters
+
+<a name="0.5.7.3.1">0.5.7.3.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important for identification.
+
+>Example:  
+>Title proper: <CITE>Queen</CITE>  
+>Note on title: <CITE>The "u" in "Queen" in the title is turned.</CITE>
+
+Transcribe characters used to approximate a different character (e.g., when VV and vv letterforms have been used to represent the single letter W or w) as the intended character. 
+
+Make an explanatory note if considered important for identification.
+
+**ALT note: W chart goes here**
+
+| Forms of W|
+| --- | --- | --- | --- |
+| **Source** | **Transcription** | **Example** | **Transcription of example** |
+| ![V V](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_V_V.png) | w | ![vvhole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VVhole.png) | vvhole |
+| ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
+| ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
+
+If the characters used to approximate a different character occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title with the characters transcribed if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
 ## 0.5.8 Abbreviations and contractions
 
@@ -611,12 +789,12 @@ For punctuation indicating an abbreviation, see [punctuation indicating an abbre
 If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
 conventions given in [conjectural or indecipherable text (0.5.6.2)](/DCRMR/general-rules/Transcription/#0.5.6.2 "conjectural or indecipherable text (0.5.6.2)").
 
-<a name="0.5.8.3">0.5.8.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [Variant title](/DCRMR/title/Variant-title "Variant title") if considered important (see [1.6](/DCRMR/title/Variant-title "Variant title")).  
+<a name="0.5.8.3">0.5.8.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [variant title](/DCRMR/title/Variant-title) if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).  
 
 
 ## 0.5.9 Letters or words intended to be read more than once
 
-**ALT note: This instruction is not present in DCRM, although it is present in pre-3R RDA. It is also present, albeit with different wording, in post-3R RDA, in the [Guidance / Guidelines on normalized transcription](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_sbr_vfs_b2b "Guidlines on normalized transcription / Letters or words intended to be read more than once").**
+**ALT note: This instruction is not present in DCRM, although it is present in pre-3R RDA. It is also present, albeit with different wording, in post-3R RDA, in the [Guidance / Guidelines on normalized transcription](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_sbr_vfs_b2b "Guideines on normalized transcription / Letters or words intended to be read more than once").**
 
 **The text of the main instruction comes pre-3R RDA. If we retain the instruction, we might want to modify it.**
 
@@ -632,16 +810,208 @@ Make an explanatory note.
 
 ## 0.5.10 Superscripts and subscripts
 
-## 0.5.11 [Order and transpositions]
+Transcribe superscript and subscript characters on the line unless the sense would be affected (e.g., in a mathematical formula). Always transcribe a period in an abbreviation at the end of the abbrevation.
 
-### 0.5.11.1 [General rule]
+>Example:  
+><CITE>Mr. Jas. McAdam</CITE>  
+>(*Source of information reads*: M.<sup>r</sup> J.<sup>as</sup> M<sup>c</sup>Adam)
 
-### 0.5.11.2 [Transposition of information]
+>Example:  
+><CITE>M. Vdr. Gucht sculp.</CITE>  
+>(*Source of information reads*: M. V.<sup>dr</sup> Gucht Sculp.)  
+>(*Comment*: Engraver if Michael van der Gucht, also frequently known as Michael Vander Gucht)
 
-### 0.5.11.3 [Scattered information]
+>Example:  
+><CITE>Caroe. Watson</CITE>  
+>(*Source of information reads*: Caro.<sup>e</sup> Watson)  
+>(*Comment*: Comment: Engraver is Caroline Watson)
 
-### 0.5.11.4 [Ambiguous order of information]
+## 0.5.11 Grammatical inseparability
 
+Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
 
+>Example:  
+><CITE>The posthumous works of Robert Hooke</CITE>
 
+>Example:  
+><CITE>Monsieur Bossu's treatise of the epick poem</CITE>
 
+>Example:  
+><CITE>M. Tullii Ciceronis de officiis libri tres</CITE>
+
+>Example:  
+><CITE>Brown's industrial gazetteer and hand-book of the Atchison, Topeka & Santa Fe R.R.</CITE>
+
+>Example:  
+><CITE>Number ... of A picture of the times, to be continued weekly, in a series of letters, addressed to the people of England</CITE>
+
+>Example:  
+><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.d</CITE>  
+>(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed as [statement of responsibility](DCRMR/sor/Statement-of-responsibility/).)
+
+#### Still images
+
+Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
+
+>Example:  
+><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
+>(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility.)
+
+## 0.5.12 Order and transposition
+
+**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now.**
+
+Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
+
+**ALT note: ISBD!**
+
+If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: 
+case endings would be affected, 
+<u>or</u>
+the grammatical construction of the information would be disturbed, 
+<u>or</u>
+the text is otherwise grammatically inseparable from its surrounding elements, 
+<u>or</u> 
+the data element instructions specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
+
+Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
+
+Do not use the mark of omission to indicate transposition. 
+
+Make a note to indicate the order in which the transposed information appears in the source.
+
+**ALT note: I omitted an example from Music in the RBMS PS because I think there are some differences with what music does that might cause some confusion: Symphony no. 6 : Pastoral / by Ludwig van Beethoven.  (Pastoral was in the note on statement of responsibility as an alternate title, although the ISBD has it in the other title information element)**
+
+**ALT note: I broke this into elements, but it doesn't make as much sense without the ISBD context (and the SoR still uses ISBD): The coast of the United States of North America : from New York to St. Augustine / drawn and regulated according the latest surveys and astronomical observations by Edmund Blunt ; D.R. Harrison, sc.**
+
+>Example:  
+>Title proper: <CITE>The coast of the United States of North America</CITE>  
+>Other title information: <CITE>from New York to St. Augustine</CITE>  
+>Statement of responsibility: <CITE>drawn and regulated according the latest surveys and astronomical observations by Edmund Blunt ; D.R. Harrison, sc.</CITE>  
+>Note on statement of responsibility: <CITE>Engraver statement appears at head of title, on the top right corner of the sheet.</CITE>
+
+<u>If</u>  
+information appears in scattered form on the preferred source of information but no transposition is needed  
+<u>and</u>  
+information about the specific placement of the scattered information is considered important for identification  
+<u>then</u>  
+make a note to indicate the placement.
+
+**ALT note: again, ISBD in SoR**
+>Example:  
+>Title proper: <CITE>The country twenty five miles round New York</CITE>  
+>Statement of responsibility: <CITE>drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
+>Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map.</CITE>
+
+If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
+
+## 0.5.13 Numbers expressed as numerals or words
+
+**ALT note: in the latter part of this section, we didn't deviate from pre-3R RDA. Post-3R RDA is less than helpful in [Guidelines on normalized transcription / Numbers](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_mvj_cgs_b2b), giving options for "Transcribe a numeral as it appears", "Transcribe a numeral in a form preferred by an agent who creates the metadata unless the form is unclear", and "Transcribe a numeral as it appears and in an equivalent form preferred ...". The guidance for ordinals isn't a bad, but it's still all just options (at least there's only one).**
+
+### 0.5.13.1 Transcribed elements
+
+When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
+
+>Example:  
+>Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
+
+>Example:  
+>Title proper: <CITE>LI sermons</CITE>
+
+**ALT note: ISBD**
+>Example:  
+>Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
+
+**ALT note: do we still need this enumeration? I spot-checked a few of these elements, and the instruction seems to be within the element instruction itself. Note that I haven't updated the element names or hyperlinked, since I don't know if we want to keep the list.**
+Also transcribe numbers expressed as numerals or as words in the form in which they appear on the source of information in the following elements:
+* Numeric and/or alphabetic designation of first issue or part of sequence
+* Chronological designation of first issue or part of sequence
+* Numeric and/or alphabetic designation of last issue or part of sequence
+* Chronological designation of last issue or part of sequence
+* Alternative numeric and/or alphabetic designation of first issue or part of sequence
+* Alternative chronological designation of first issue or part of sequence
+* Alternative numeric and/or alphabetic designation of last issue or part of sequence
+* Alternative chronological designation of last issue or part of sequence
+* Date of production
+* Date of publication
+* Date of distribution
+* Date of manufacture
+* Numbering within series
+* Numbering within subseries
+
+*Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [interpolations](DCRM/general-rules/Transcription/#056-interpolations), [0.5.6.1](general-rules/Transcription/#0.5.6.1)). 
+
+### Other non-transcribed elements
+
+When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
+
+**ALT note: the following text is straight from pre-3R RDA. I'm not sure what to do about that. RDA no longer has definitive guidance on the subject. OTOH, DCRM(B) also didn't cover it (although I think we could do that because AACR2 did).**
+
+<u>1.8.2 Form of Numerals</u>
+
+Record numerals in the form preferred by the agency creating the data, unless the substitution would make the numbering less clear.
+
+>Example: [RDA]  
+><CITE>tome 3</CITE>  
+>Numbering within series on source of information reads: tome III
+
+Alternatives
+Record numerals in the form in which they appear on the source of information.
+
+>Example: [RDA]  
+><CITE>tome III</CITE>
+>Numbering within series
+
+[Alternative]
+
+Record the numerals in the form in which they appear on the source. Add the equivalent numerals in the form preferred by the agency creating the data. Indicate that the information was taken from a source outside the resource itself (see 2.2.4).
+
+>Example: [RDA]  
+><CITE>tome III [3]</CITE>  
+>Numbering within series on source of information reads: tome III
+
+<u>1.8.3 Numbers Expressed as Words</u>
+
+Substitute numerals for numbers expressed as words.
+
+<u>1.8.4 Inclusive Numbers</u>
+
+When recording inclusive dates and other inclusive numbers, record both the first and last number in full.
+
+>Example: [RDA]  
+><CITE>1967–1972</CITE>
+>Source of information reads: 1967–72
+
+<u>1.8.5 Ordinal Numbers</u>
+
+When recording ordinal numbers (expressed either as numerals or as words), record them as numerals and indicate that they are ordinal numbers following standard usage for the language:
+
+English language source. 
+When recording ordinal numbers from an English-language source, record them as numerals in the form 1st, 2nd, 3rd, 4th, etc.
+
+Chinese, Japanese, or Korean language source. 
+When recording ordinal numerals from a source in Chinese, Japanese, or Korean, record them as numerals accompanied by the character indicating that the numeral is ordinal.
+
+>Example: [RDA]  
+><CITE>第8</CITE>  
+>8th in Chinese
+
+Source in a language other than English, Chinese, Japanese, or Korean. 
+When recording ordinal numerals from a source in another language, record them as numerals and indicate that they are ordinal numbers following the usage of the language, if ascertainable.
+
+>Example: [RDA]  
+><CITE>1er, 1re, 2e, 3e, etc.</CITE>  
+>French
+
+>Example: [RDA]  
+><CITE>1., 2., 3., etc.</CITE>  
+>German
+
+>Example: [RDA]
+><CITE>1o, 1a, 2o, 2a, 3o, 3a, etc.</CITE>
+>Italian
+
+If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
+
+**ALT note: end of RDA text**
