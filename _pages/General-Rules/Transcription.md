@@ -22,31 +22,31 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 # 0.5 Transcription
 
-<a name="0.5">0.5</a> *Optionally,* record a transcription standard used for the metadata work as a [related manifestation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-123e0456-8c5f-3236-ba8a-155b8294a32c "RDA element: related manifestation of work"). _**ALT note: this is directly from the RDA Tookit [instructions on Transcription](https://beta.rdatoolkit.org/en-US_ala-cfa18e03-17f2-378a-874c-86515bf7e0ac/div_cfw_wqc_ydb); since it's a relationship element, do we want to punt it right now?**_
+*Optionally,* record a transcription standard used for the metadata work as a [related manifestation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-123e0456-8c5f-3236-ba8a-155b8294a32c "RDA element: related manifestation of work"). _**ALT note: this is directly from the RDA Tookit [instructions on Transcription](https://beta.rdatoolkit.org/en-US_ala-cfa18e03-17f2-378a-874c-86515bf7e0ac/div_cfw_wqc_ydb); since it's a relationship element, do we want to punt it right now? Also, I'm not sure where to put in for numbering**
 
 ## 0.5.0 General guidelines on transcription
 
-<a name="0.5.0">0.5.0</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition.
+<a name="0.5.0.1">0.5.0.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition.
 
-DCRMR normalizes puncutation and capitalization based on current conventions, with an optional exception in punctuation (see [0.5.3.1.2](/DCRMR/general-rules/Transcription/#0.5.3.1.2)). 
+DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.5.13.3](/DCRMR/general-rules/Transcription/#0.5.13.3)). 
 
 If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728 "RDA Guidelines on basic transcription") and consistently apply it throughout the resource description.
 
-## 0.5.1 Letters, diacritical marks, ligatures, symbols, and rebuses
+## 0.5.1-0.5.7 Letters, diacritical marks, ligatures, symbols, and rebuses
 
-### 0.5.1.1 Letters and diacritical marks
+### 0.5.1 Letters and diacritical marks
 
-In general, transcribe letters and diaritical as they appear. Do not add accent sand other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (TBD BELOW).
+<a name="0.5.1.1">0.5.1.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [early letterforms and symbols](/DCRMR/general-rules/Transcription/#0.5.4), [0.5.4.1](/DCRMR/general-rules/Transcription/#0.5.4.1)).
 
-*Optionally*, when converting uppercase to lowercase, add diacritical marks that are not present on the source of information in accordance with the pattern of usage in the text.
+<a name="0.5.1.2">0.5.1.2</a> *Optionally*, when converting uppercase to lowercase, add diacritical marks that are not present on the source of information in accordance with the pattern of usage in the text.
 
-### 0.5.1.2 Ligatures
+### 0.5.2 Ligatures
 
-In most languages, including Latin, transcribe a ligature by giving its component letters separately. Do not, however, separate the component letters of æ in Anglo-Saxon; œ in French; or æ and œ in ancient or modern Scandinavian languages. 
+<a name="0.5.2.1">0.5.2.1</a> In most languages, including Latin, transcribe a ligature by giving its component letters separately. Do not, however, separate the component letters of **æ** in Anglo-Saxon; **œ** in French; or **æ** and **œ** in ancient or modern Scandinavian languages. 
 
-### 0.5.1.3 Symbols, etc.
+### 0.5.3 Symbols, etc.
 
-<a name="0.5.1.3.1">0.5.1.3.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if necessary.
+<a name="0.5.3.1">0.5.3.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if necessary.
 
 For additional guidance on recording signs and symbols, see the LC-PCC PS for 1.7.5. **ALT note: do we keep the reference to the LC-PCC PS?**
 
@@ -54,27 +54,27 @@ For additional guidance on recording signs and symbols, see the LC-PCC PS for 1.
 ><CITE>A.J. Garnerin, aeoronaute, inv. du parachute, né à Paris 1769, [death symbol] 1813</CITE>  
 >(*Source of information reads*: A.J. GARNERIN, AERONAUTE, Inv. du Parachute, Né à Paris 1769 &#8224; 1813)
 
-<a name="0.5.1.3.2">0.5.1.3.2</a> **ALT note: We kept this alternative in the RBMS PS, based on pre-3R RDA instructions. However, this alternative does not seem to be present in post-3R RDA (at least not under "Guidelines / Normalized transcription / symbols") -- do we want to strike it? The text of the instruction is currently verbatim from pre-3R RDA; there's not a DCRM equivalent so far as I know.** *Alternative rule*. If transcribing a symbol reproducible by the facilities available significantly hinders clarity, omit the symbol or replace it by another symbol or sign of punctuation, as necessary.
+<a name="0.5.3.2">0.5.3.2</a> **ALT note: We kept this alternative in the RBMS PS, based on pre-3R RDA instructions. However, this alternative does not seem to be present in post-3R RDA (at least not under "Guidelines / Normalized transcription / symbols") -- do we want to strike it? The text of the instruction is currently verbatim from pre-3R RDA; there's not a DCRM equivalent so far as I know.** *Alternative rule*. If transcribing a symbol reproducible by the facilities available significantly hinders clarity, omit the symbol or replace it by another symbol or sign of punctuation, as necessary.
 
-[RDA]
-A history of French-speaking countries
-Title appears on the source of information as: A history of French=speaking countries
+>Example: [RDA]  
+><CITE>A history of French-speaking countries</CITE>  
+>Title appears on the source of information as: A history of French=speaking countries
 
-Make a note to indicate that the symbol has been omitted or replaced by another symbol or sign of punctuation (see 2.17), if considered important for identification.
+<a name="0.5.3.3">0.5.3.3</a> Make a note to indicate that the symbol has been omitted or replaced by another symbol or sign of punctuation (see 2.17), if considered important for identification.
 
-Ignore typographical devices that are used as separators, etc.
+<a name="0.5.3.4">0.5.3.4</a> Ignore typographical devices that are used as separators, etc.
 
 **ALT note: end of pre-3R RDA text**
 
-### 0.5.1.4 Early letterforms and symbols
+### 0.5.4 Early letterforms and symbols
 
-<a name="0.5.1.4">0.5.1.4</a> Convert earlier forms of letters and symbols to their modern forms.
+<a name="0.5.4.1">0.5.4.1</a> Convert earlier forms of letters and symbols to their modern forms.
 
 ![Early letterforms and symbols](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early letterforms and symbols.png "chart of early letterforms and symbols")
 
-## 0.5.1.5 Brevigraphs
+### 0.5.5 Brevigraphs
 
-<a name="0.5.1.5">0.5.1.5</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
+<a name="0.5.5.1">0.5.5.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
 
 ![Brevigraphs, chart 1](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 01.png "brevigraphs, chart 1")
 
@@ -82,19 +82,19 @@ Ignore typographical devices that are used as separators, etc.
 
 ![Brevigraphs, chart 3](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early contractions 03.png "brevigraphs, chart 3")
 
-Make an explanatory note if necessary.
+<a name="0.5.5.2">0.5.5.2</a> Make an explanatory note if necessary.
 
-If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. Enclose each expansion or supplied word in its own set of square brackets.
+<a name="0.5.5.3">0.5.5.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. Enclose each expansion or supplied word in its own set of square brackets.
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
 >(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) shipp within Temple Bar)
 
-If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [conjectural and indecipherable text (0.5.6.2) ](/DCRMR/general-rules/Transcription/#0.5.6.2 "conjectural and indecipherable text").
+<a name="0.5.5.4">0.5.5.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [conjectural and indecipherable text X.X (0.5.32)](/DCRMR/general-rules/Transcription/#0.5.32.1).
 
-### 0.5.1.4 Rebuses
+### 0.5.6 Rebuses
 
-<a name="0.5.1.4">0.5.1.4</a> Replace pictures in rebuses with the intended words in square brackets.
+<a name="0.5.6.1">0.5.6.1</a> Replace pictures in rebuses with the intended words in square brackets.
 
 Make an explanatory note.
 
@@ -102,30 +102,32 @@ Make an explanatory note.
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
 >Note on title: <CITE>Title in the form of a rebus. Bute represented as a boot in the rebus.</CITE>
 
-### 0.5.1.5 [Key designations] 
+### 0.5.7 [Key designations] 
 
-Transcribe accidentals (flat and sharp signs, etc.) directly following the key letters being modified. Do not insert a space. 
+<a name="0.5.7.1">0.5.7.1</a> Transcribe accidentals (flat and sharp signs, etc.) directly following the key letters being modified. Do not insert a space. 
 
 >Example:  
 ><CITE>A&#9837; major</CITE>
 
-If minor keys are represented by lowercase letters in the chief source, transcribe them as lowercase. Otherwise, record any letter(s) representing the key in uppercase.
+<a name="0.5.7.2">0.5.7.2</a> If minor keys are represented by lowercase letters in the chief source, transcribe them as lowercase. Otherwise, record any letter(s) representing the key in uppercase.
 
-## 0.5.2 Capitalization and conversion of case
+## 0.5.8-12 Capitalization and conversion of case
 
-### 0.5.2.1 General rule
+### 0.5.8 Capitalization and conversaion of case: general rule
 
-<a name="0.5.2.1">0.5.2.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
+<a name="0.5.8.1">0.5.8.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
 
-For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [0.5.2.2 Letterforms I, V, i, j, u, and V](/DCRMR/general-rules/Transcription/#0.5.2.3).
+For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [letterforms I, V, i, j, u, and V](/DCRMR/general-rules/Transcription/#0510-letterforms-i-v-i-j-u-and-v) ([0.5.10.1](/DCRMR/general-rules/Transcription/#0.5.10.1)).
 
-### 0.5.2.2 Roman numerals
+### 0.5.9 Roman numerals
 
-<a name="0.5.2.2">0.5.2.2</a> Do not convert case when transcribing roman numerals.
+<a name="0.5.9.1">0.5.0.1</a> Do not convert case when transcribing roman numerals.
 
-### 0.5.2.3 Letterforms I, V, i, j, u, and v
+See also [Punctuation within roman numerals](DCRMR/general-rules/Transcription/#0.X.X), [0.5.16.1](DCRMR/general-rules/Transcription/#0.5.16.1).
 
-If the rules for capitalization require converting I or V to lowercase, or i, j, u, or v to uppercase, follow the pattern of usage in the text to determine which letterform to use in the transcription. 
+### 0.5.10 Letterforms I, V, i, j, u, and v
+
+<a name="0.5.10.1">0.5.10.1</a> If the rules for capitalization require converting I or V to lowercase, or i, j, u, or v to uppercase, follow the pattern of usage in the text to determine which letterform to use in the transcription. 
 
 Establish the pattern of usage by examining text in the same typeface (i.e., roman, italic, or gothic) in the publication being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface. 
 
@@ -135,9 +137,9 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 >(*Source of information reads*: LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le translateur)  
 >(*Comment*: In the publication, the body of the text in roman type shows consistent use of v for vowels or consonants in initial position and u for vowels or consonants elsewhere, e.g., "ville," "vn," "conuersation," "tout," and "entendu")
 
-If the pattern of usage cannot be determined within a reasonable amount of time, use this conversion table as a solution of last resort.
+<a name="0.5.10.2">0.5.10.2</a> If the pattern of usage cannot be determined within a reasonable amount of time, use this conversion table as a solution of last resort.
 
-Converting uppercase letterforms:
+**Converting uppercase letterforms**
 
 | Uppercase letterform to be converted | Lowercase conversion |
 | --- | ---| --- |
@@ -147,7 +149,7 @@ Converting uppercase letterforms:
 | V (vowel or consonant) at beginning of word | v |
 | V (vowel or consonant) elsewhere in word	| u |
 
-Converting lowercase letterforms:
+**Converting lowercase letterforms**
 
 | Lowercase letterform to be converted | Uppercase conversion |
 | --- | ---| --- |
@@ -156,14 +158,13 @@ Converting lowercase letterforms:
 | u (vowel or consonant) anywhere in word | V |
 | v (vowel or consonant) anywhere in word | V |
 
-If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title 1.6](/DCRMR/title/Variant-title "Variant title") using alternative forms of the title proper as needed.
+<a name="0.5.10.3">0.5.10.3</a> If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) using alternative forms of the title proper as needed (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-If the manifestation uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v, transcribe the letters as i and v respectively.
+<a name="0.5.10.4">0.5.10.4</a> If the manifestation uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v, transcribe the letters as i and v respectively.
 
+### 0.5.11 Final capital "I" in Latin
 
-### 0.5.2.4 Final capital "I" in Latin
-
-<a name="0.5.2.4">0.5.2.4</a> Do not convert to lowercase a final capital I in Latin texts when the final I is uppercase and the immediately preceding letters in the word are lowercase or smaller capital letters. Since this usage is not merely typographic but affects meaning, the capital must be left in that form.
+<a name="0.5.11.1">0.5.11.1</a> Do not convert to lowercase a final capital I in Latin texts when the final I is uppercase and the immediately preceding letters in the word are lowercase or smaller capital letters. Since this usage is not merely typographic but affects meaning, the capital must be left in that form.
 
 >Example:  
 ><CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
@@ -172,28 +173,27 @@ If the manifestation uses a gothic typeface that does not distinguish between th
 >Example:  
 ><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>
 
-If the letter occurs within the first five words of the title proper (the first six words if the title begins with an article), record a variant title for the form of title with the final capital I converted to ii (see [Variant title 1.6](/DCRMR/title/Variant-title "Variant title")).
+<a name="0.5.11.2">0.5.11.2</a> If the letter occurs within the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title with the final capital I converted to ii (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
+### 0.5.12 Chronograms
 
-### 0.5.2.5 Chronograms
-
-<a name="0.5.2.5">0.5.2.5</a> Capital letters occurring apparently at random or in a particular sequence may represent a chronogram. Where there is good reason to assume that a chronogram is being used, do not convert letters considered part of the chronogram from uppercase to lowercase, or from lowercase to uppercase.
+<a name="0.5.12.1">0.5.12.1</a> Capital letters occurring apparently at random or in a particular sequence may represent a chronogram. Where there is good reason to assume that a chronogram is being used, do not convert letters considered part of the chronogram from uppercase to lowercase, or from lowercase to uppercase.
 
 >Example:  
 ><CITE>Ipso anno tertIo saeCVLarI typographIae DIVIno aVXILIo a gerManIs InVentae</CITE>
 
 For guidance on recording the chronogram as a date element, see the instructions for specific types of dates as follows:
-* **ALT note: TBD For date of production, see X.X.X.X**
 * For [date of publication](/DCRMR/ppdm/Date-of-publication/ "date of publication"), see [4.205.4.2](/DCRMR/ppdm/Date-of-publication/#4.205.4.2 "4.205.4.2")
 * For [date of distribution](/DCRMR/ppdm/Date-of-distribution/ "date of distribution"), see [4.215.4.2](/DCRMR/ppdm/Date-of-distribution/#4.215.4.2 "date of distribution")
 * For [date of manufacture](/DCRMR/ppdm/Date-of-manufacture/ "date of manufacture"), see [4.225.5.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2 "date of manufacture")
+* [Date of production]
 
 
-## 0.5.3 Punctuation
+## 0.5.13-24 Punctuation
 
-### 0.5.3.1 General rule
+### 0.5.13 Punctuation: general rule
 
-<a name="0.5.3.1">0.5.3.1</a> Use modern punctuation conventions instead of transcribing punctuation as it appears on the source. 
+<a name="0.5.13.1">0.5.13.1</a> Use modern punctuation conventions instead of transcribing punctuation as it appears on the source. 
 
 >Example:  
 ><CITE>Perdito & Perdita, or, The man & woman of the people</CITE>  
@@ -203,52 +203,57 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>A musical entertainment perform’d on November XXII, 1683</CITE>  
 >(*Source of information reads:* A musical entertainment perform’d on November XXII. 1683)
 
+**ALT note: the following example doesn't make a lot of sense when atomized into elements and not in ISBD display: London : Printed for A. Millar, over-against Catharine-Street in the Strand, M,DCC,LI [1751]**
+
+**Suggest adding: "If the cataloging agency applies ISBD punctuation, omit punctuation present on the resource that occurs at the end of an element." And then using the ISBD punctuated full publication statement as the example, not breaking it into elements.**
 >Example:  
-><CITE>London : Printed for A. Millar, over-against Catharine-Street in the Strand, M,DCC,LI [1751]</CITE>  
+>Place of publication: <CITE>London</CITE>  
+>Name of publisher: <CITE>Printed for A. Millar, over-against Catharine-Street in the Strand</CITE>  
+>Date of publication: <CITE>M,DCC,LI [1751]</CITE>  
 >(*Source of Information reads*: London: Printed for A. Millar, over-against Catharine-street in the Strand. M,DCC,LI.)
 
-Omit or add punctuation as needed for clarity.
+<a name="0.5.13.2">0.5.13.2</a> Omit or add punctuation as needed for clarity.
 
 >Example:  
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment:* Commas added to represent breaks indicated by poster’s lettering style and word placement.)
 
-<a name="0.5.3.1.1">0.5.3.1.1</a> **Punctuation integral to words and compounds words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
-* Apostrophes (see [0.5.3.2](/DCRMR/general-rules/Transcription/#0.5.3.2 "Apostrophes"))
-* Hyphens (see [0.5.3.3](/DCRMR/general-rules/Transcription/#0.5.3.3 "Hyphens"))
-* Punctuation indicating an abbreviation (see [0.5.3.10](/DCRMR/general-rules/Transcription/#0.5.3.10 "Punctuation indicating an abbreviation"))
-* Punctuation substituting for letters (see [0.5.3.9](/DCRMR/general-rules/Transcription/#0.5.2.9 "Punctuation substituting for letters"))
-* Punctuation within Roman numerals (see [0.5.3.4](/DCRMR/general-rules/Transcription/#0.5.3.4 "Punctuation within Roman numerals"))
+<a name="0.5.13.2">0.5.13.2</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
+* Apostrophes (see [0.5.14](/DCRMR/general-rules/Transcription/#0.5.14"))
+* Hyphens (see [0.5.15](/DCRMR/general-rules/Transcription/#0.5.15 "Hyphens"))
+* Punctuation within Roman numerals (see [0.5.16](/DCRMR/general-rules/Transcription/#0.5.16))
+* Punctuation substituting for letters (see [0.5.21](/DCRMR/general-rules/Transcription/#0.5.21"))
+* Punctuation indicating an abbreviation (see [0.5.22](/DCRMR/general-rules/Transcription/#0.5.22))
 
-<a name="0.5.3.1.2">0.5.3.1.2</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following subinstructions:
-* Ellipses (see [0.5.3.5](/DCRMR/general-rules/Transcription/#0.5.3.5 "Ellipses")
-* Square brackets (see [0.5.3.6](/DCRMR/general-rules/Transcription/#0.5.3.6 "square brackets"))
-* Virgules (see [0.5.3.7](/DCRMR/general-rules/Transcription/#0.5.3.7 "virgules"))
-* Line endings (see [0.5.3.8](/DCRMR/general-rules/Transcription/#0.5.3.8 "Line endings"))
+<a name="0.5.13.3">0.5.13.3</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following subinstructions:
+* Ellipses (see [0.5.17.1](/DCRMR/general-rules/Transcription/#0.5.17.1)
+* Square brackets (see [0.5.18.1](/DCRMR/general-rules/Transcription/#0.5.18.1))
+* Virgules (see [0.5.19.1](/DCRMR/general-rules/Transcription/#0.5.19.1))
+* Line endings (see [0.5.20.1](/DCRMR/general-rules/Transcription/#0.5.20.1"))
 
 >Example:  
 ><CITE>Perdito & Perdita—or—the Man & Woman of the People</CITE>
 
-If a library applies ISBD punctuation and the option for nonnormalized transcription is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation "prescribed punctuation").)
+If a cataloging agency applies ISBD punctuation and the option for nonnormalized transcription is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
 
 >Example:  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-street in the Strand., M,DCC,LI. [1751]</CITE>
 
-### 0.5.3.2 Apostrophes
+### 0.5.14 Apostrophes
 
-<a name="0.5.3.2">0.5.3.2</a> Transcribe apostrophes as found. 
+<a name="0.5.14.1">0.5.14.1</a> Transcribe apostrophes as found. 
 
 >Example:  
 ><CITE>Uncle Wiggly's story book</CITE>
 
-Do not supply apostrophes not present in the source.
+<a name="0.5.14.2">0.5.14.2</a> Do not supply apostrophes not present in the source.
 
 >Example:  
 ><CITE>Scotlands speech to her sons</CITE>
 
-### 0.5.3.3 Hyphens
+### 0.5.15 Hyphens
 
-<a name="0.5.3.3">0.5.3.3</a> Transcribe hyphens used to connect the constituent parts of compound words, normalizing their form as necessary. 
+<a name="0.5.15.1">0.5.15.1</a> Transcribe hyphens used to connect the constituent parts of compound words, normalizing their form as necessary. 
 
 >Example:  
 ><CITE>A catalogue of the library of Yale-College in New-Haven</CITE>
@@ -256,7 +261,7 @@ Do not supply apostrophes not present in the source.
 >Example:  
 ><CITE>A night-club map of Harlem</CITE>
 
-Do not supply hyphens not present in the source.
+<a name="0.5.15.2">0.5.15.2</a> Do not supply hyphens not present in the source.
 
 >Example:  
 ><CITE>Report of the Boston Female Anti Slavery Society</CITE>
@@ -264,53 +269,53 @@ Do not supply hyphens not present in the source.
 >Example:  
 ><CITE>Black and white photographs in Jury Assembly Room, first floor of U.S. Courthouse, Orlando, Florida</CITE>
 
-For hyphens or other marks of punctuation used to connect a single word divided between two lines, see the instruction [line endings (0.5.3.8)](/DCRMR/general-rules/Transcription/#0.5.3.8 "line endings").
+<a name="0.5.15.3">0.5.15.3</a> For hyphens or other marks of punctuation used to connect a single word divided between two lines, see the [line endings](/DCRMR/general-rules/Transcription/X.X.), [0.5.20.1](/DCRMR/general-rules/Transcription/#0.5.20.1).
 
-### 0.5.3.4 Punctuation within Roman numerals
+### 0.5.16 Punctuation within roman numerals
 
-<a name="0.5.3.4">0.5.3.4</a> Retain internal marks of punctuation appearing within roman numerals.
+<a name="0.5.16.1">0.5.16.1</a> Retain internal marks of punctuation appearing within roman numerals.
 
 >Example:  
 ><CITE>M.DCC.LXXXIV</CITE>
 
-### 0.5.3.5 Ellipses
+### 0.5.17 Ellipses
 
-<a name="0.5.3.5">0.5.3.5</a> Omit ellipses when present in the source; replace with a dash (- -). **ALT note: we'd omitted the instruction to replace with a dash in the RBMS PS**
+<a name="0.5.17.1">0.5.17.1</a> Omit ellipses when present in the source; replace with a dash (- -) as appropriate. **ALT note: we'd omitted the instruction to replace with a dash in the RBMS PS**
 
 >Example:  
 >Title proper: <CITE>America, America, God shed his grace on thee and crown thy good with brotherhood</CITE>  
 >(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood...)
 
-<a name="0.5.3.5.1">0.5.3.5.1</a> **Alternative rule**. Ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
+<a name="0.5.17.2">0.5.17.2</a> **Alternative rule**. Ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
 
 >Example:  
 >Title proper: <CITE>...it felt like i knew you...</CITE>  
 >Note on title: <CITE>Ellipses in title appear on the source.</CITE>
 
-### 0.5.3.6 Square brackets
+### 0.5.18 Square brackets
 
-<a name="0.5.3.6.1">0.5.3.6.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note, if considered important for identification.
+<a name="0.5.18.1">0.5.18.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note, if considered important for identification.
 
 >Example:  
 >Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved.</CITE>  
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets.</CITE>  
 >(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved.)
 
-<a name="0.5.3.6.2">0.5.3.6.2</a> *Alternative rule*. Omit the square brackets. Make an explanatory note, if considered important for identification.
+<a name="0.5.18.2">0.5.18.2</a> *Alternative rule*. Omit the square brackets. Make an explanatory note, if considered important for identification.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
 >Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets.</CITE>  
 >(*Source of information reads*: [MDCCLXXV])
 
-<a name="0.5.3.6.3">0.5.3.6.3</a> *Alternative rule*. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
+<a name="0.5.18.3">0.5.18.3</a> *Alternative rule*. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
 
-### 0.5.3.7 Virgules
+### 0.5.19 Virgules
 
-<a name="0.5.3.7">0.5.3.7</a> Do not confuse a virgule (/) in gothic typefaces with a slash; replace it with a comma or omit it, as appropriate. Make an explanatory note if considered important.
+<a name="0.5.19.1">0.5.19.1</a> Do not confuse a virgule (/) in gothic typefaces with a slash; replace it with a comma or omit it, as appropriate. Make an explanatory note if considered important.
 
-### 0.5.3.8 Line endings
+### 0.5.20 Line endings
 
-<a name="0.5.3.8">0.5.3.8</a> Omit hyphens or other marks of punctuation used to connect a single word divided between two lines or two portions of a line; transcribe as a single word, ignoring the punctuation. If the function of the hyphen is in doubt (e.g., if it might form part of a compound word), transcribe it.
+<a name="0.5.20.1">0.5.20.1</a> Omit hyphens or other marks of punctuation used to connect a single word divided between two lines or two portions of a line; transcribe as a single word, ignoring the punctuation. If the function of the hyphen is in doubt (e.g., if it might form part of a compound word), transcribe it.
 
 >Example:  
 ><CITE>I discorsi di Nicolo Machiauelli, sopra la prima deca di Tito Liuio</CITE>  
@@ -318,13 +323,13 @@ For hyphens or other marks of punctuation used to connect a single word divided 
 >I DISCORSI DI NICO-  
 >LO MACHIAVELLI, SO-  
 >PRA LA PRIMA DECA DI  
->TITO LIVIO  
+>TITO LIVIO )    
 
 Do not supply marks of punctuation to indicate line-breaks.
 
-### 0.5.3.9 Punctuation substituting for letters
+### 0.5.21 Punctuation substituting for letters
 
-<a name="0.5.3.9">0.5.3.9</a> Transcribe as a single hyphen each distinct hyphen, dash, line, or underscore character used in the source, whether used as a substitute for one or more letters in a word, or for an entire word.
+<a name="0.5.21.1">0.5.21.1</a> Transcribe as a single hyphen each distinct hyphen, dash, line, or underscore character used in the source, whether used as a substitute for one or more letters in a word, or for an entire word.
 
 >Example:  
 ><CITE>Sec--t----s of st--te, the L----ds of the Ad------ty</CITE>  
@@ -334,7 +339,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 ><CITE>Map illustrating the explorations of Pundit A- K- in Great Tibet, 1879-1882</CITE>  
 >(*Source of information reads*: Map illustrating the explorations of Pundit A___ K___ in Great Tibet, 1879-1882)
 
-Transcribe asterisks as asterisks.
+<a name="0.5.21.2">0.5.22.2</a> Transcribe asterisks as asterisks.
 
 >Example:  
 ><CITE>par Mr. B***</CITE> 
@@ -342,56 +347,56 @@ Transcribe asterisks as asterisks.
 >Example:  
 ><CITE>The conduct of the two B*****rs</CITE>
 
-If the values of the missing letters are known, and the decoded form is considered important for identification or access then make a note for the decoded form.
+<a name="0.5.22.3">0.5.22.3</a> If the values of the missing letters are known, and the decoded form is considered important for identification or access then make a note for the decoded form.
 
 >Example:  
 >Title proper: <CITE>Clara H-d</CITE>  
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
 >(*Source of information reads*:  Clara H_____d)
 
-If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [variant title (1.25)](/DCRMR/title/Variant-title "variant title"). 
+<a name="0.5.22.4">0.5.22.4</a> If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [variant title](/DCRMR/title/Variant-title) (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X))). 
 
-### 0.5.3.10 Punctuation indicating an abbreviation
+### 0.5.22 Punctuation indicating an abbreviation
 
-<a name="0.5.3.10">0.5.3.10</a> Transcribe punctuation indicating an abbreviation, normalizing its form according to modern conventions.
+<a name="0.5.22.1">0.5.22.1</a> Transcribe punctuation indicating an abbreviation, normalizing its form according to modern conventions.
 
 >Example:  
 ><CITE>Printed & sold by J. Preston</CITE>  
 >(*Source of information reads*: Printed & sold by J: Preston)
 
-When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts 0.5.9](/DCRMR/general-rules/Transcription/#0.5.9 "Superscripts and subscripts").)
+<a name="0.5.22.2">0.5.22.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#X.X.), [0.5.42.1](/DCRMR/general-rules/Transcription/#0.5.42.1).)
 
 >Example:
 ><CITE>Ie. recueil nouveaux</CITE>  
 >(*Source of information reads*: I.<sup>E</sup> Recueil Nouveaux)
 
-### 0.5.3.11 Quotation marks
+### 0.5.23 Quotation marks
 
-Retain quotation marks that indicate dialogue. 
+<a name="0.5.23.1">0.5.23.1</a> Retain quotation marks that indicate dialogue. 
 
 >Example:  
 ><CITE>"Miss, I have a monstrous crow to pluck with you!!”</CITE>
 
-Do not supply quotation marks if not present in the source, except for the representation of speech balloons (see [0.5.3.12](/DCRMR/general-rules/Transcription/#0.5.3.12 "speech balloons")).
+<a name="0.5.23.2">0.5.23.2</a> Do not supply quotation marks if not present in the source, except for the representation of speech balloons (see [0.5.24.1](/DCRMR/general-rules/Transcription/#0.5.24.1")).
 
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
 >(*Comment*: Quoted text is inside a speech balloon in a comic strip.)
 
-### 0.5.3.12 Speech balloons
+### 0.5.24 Speech balloons
 
-Use quotation marks to represent speech balloons.
+<a name="0.5.24.1">0.5.24.1</a> Use quotation marks to represent speech balloons.
 
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
 >(*Comment*: Quoted text is inside a speech balloon in a comic strip.)
 
 
-## 0.5.4 Spacing
+## 0.5.25-28 Spacing
 
-### 0.5.4.1 Spacing within words and numbers
+### 0.5.25 Spacing within words and numbers
 
-<a name="0.5.4.1">0.5.4.1</a> In general, follow modern spacing conventions when transcribing from the source. Make no attempt to preserve full or irregular spaces between letters within words. 
+<a name="0.5.25.1">0.5.25.1</a> In general, follow modern spacing conventions when transcribing from the source. Make no attempt to preserve full or irregular spaces between letters within words. 
 
 >Example:  
 ><CITE>Graecae grammatices</CITE>  
@@ -401,7 +406,7 @@ Use quotation marks to represent speech balloons.
 ><CITE>Leo Belgicus</CITE>
 >(*Source of information reads*: LE O BELGICV S)
 
-If a word is divided between the end of one line and the beginning of the next, transcribe it as a single word, ignoring the line-break.
+<a name="0.5.25.2">0.5.25.2</a> If a word is divided between the end of one line and the beginning of the next, transcribe it as a single word, ignoring the line-break.
 
 >Example:  
 ><CITE>De laudibus urbis Etruriae et Italiae</CITE>  
@@ -418,7 +423,7 @@ VERSALIS PRO NVN -
 DINIS FRANCOFVRTENSI- 
 bus vernalibus de anno …)
 
-Omit internal spaces when transcribing numbers (including roman numerals).
+<a name="0.5.25.3">0.5.23.3</a> Omit internal spaces when transcribing numbers (including roman numerals).
 
 >Example:  
 ><CITE>M.D.CC.XLIV</CITE>  
@@ -428,9 +433,9 @@ Omit internal spaces when transcribing numbers (including roman numerals).
 ><CITE>1/12000</CITE>  
 >(*Source of information reads*: 1/12 000)
 
-### 0.5.4.2 Spacing between words
+### 0.5.26 Spacing between words
 
-<a name="0.5.4.2">0.5.4.2</a> If spacing between words in the source is ambiguous, or lacking, include spaces in the transcription to separate the words as needed.
+<a name="0.5.26.1">0.5.26.1</a> If spacing between words in the source is ambiguous, or lacking, include spaces in the transcription to separate the words as needed.
 
 >Example:  
 ><CITE>Founding fathers folly day</CITE>  
@@ -440,11 +445,11 @@ Omit internal spaces when transcribing numbers (including roman numerals).
 ><CITE>La morte d'Orfeo</CITE>  
 >(*Source of information reads*: LAMORTE D'ORFEO)
 
-If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title as it appears in the source, without the spaces (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+<a name="0.5.26.2">0.5.26.2</a> If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title as it appears in the source, without the spaces (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-### 0.5.4.3 Variant spellings
+### 0.5.27 Variant spellings
 
-<a name="0.5.4.3">0.5.4.3</a> Do not insert or delete spaces within or between words that merely represent variant or archaic spellings.
+<a name="0.5.27.1">0.5.27.1</a> Do not insert or delete spaces within or between words that merely represent variant or archaic spellings.
 
 >Example:  
 ><CITE>At the foot of the trail, Yo Semite Valley</CITE>  
@@ -454,11 +459,11 @@ If the missing spaces occur in the first five words of the title proper (the fir
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title 1.6](/DCRMR/title/Variant-title "Variant title") for the form of the title with the spacing inserted (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+<a name="0.5.27.2">0.5.27.2</a> If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title 1.6](/DCRMR/title/Variant-title "Variant title") for the form of the title with the spacing inserted (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-### 0.5.4.4 Initials, etc.
+### 0.5.28 Initials, etc.
 
-Transcribe letters, initials, initialisms, and acronyms without internal spaces, regardless of how they appear in the source.
+<a name="0.5.28.1">0.5.28.1</a> Transcribe letters, initials, initialisms, and acronyms without internal spaces, regardless of how they appear in the source.
 
 >Example:  
 ><CITE>KL Ianuarius habet dies xxxi</CITE>
@@ -476,7 +481,7 @@ Transcribe letters, initials, initialisms, and acronyms without internal spaces,
 >Example:  
 ><CITE>drawn by M.B. Haynes, C.E.</CITE>
 
-Treat an abbreviation consisting of more than a single letter as if it were a distinct word, separating it with a space from preceding and succeeding words or initials.
+<a name="0.5.28.2">0.5.28.2</a> Treat an abbreviation consisting of more than a single letter as if it were a distinct word, separating it with a space from preceding and succeeding words or initials.
 
 >Example:  
 ><CITE>Dn. Abrahami Calovii, SS. Theol. Doct. Prof. Publ.</CITE>
@@ -487,7 +492,7 @@ Treat an abbreviation consisting of more than a single letter as if it were a di
 >Example:  
 ><CITE>first collected by Chr. Ign. La Trobe</CITE>
 
-If two or more distinct initialisms (or sets of initials), acronyms, or abbreviations appear in juxtaposition, separate them with a space.
+<a name="0.5.28.3">0.5.28.3</a> If two or more distinct initialisms (or sets of initials), acronyms, or abbreviations appear in juxtaposition, separate them with a space.
 
 >Example:  
 ><CITE>M. J.P. Rabaut</CITE>  
@@ -497,11 +502,11 @@ If two or more distinct initialisms (or sets of initials), acronyms, or abbrevia
 ><CITE>by D.L. M.A.</CITE>
 >(*Comment*: The first two initials stand for the author's forename and surname; the second two initials stand for "Master of Arts.”)
 
-## 0.5.5 Omissions
+## 0.5.29-31 Omissions
 
-### 0.5.5.1 General rule
+### 0.5.29 Omissions: general rule
 
-Indicate omissions in a quoted note or transcribed element by using the mark of omission. When using the mark of omission, generally give it with a space on either side. 
+<a name="0.5.29.1">0.5.29.1</a> Indicate omissions in a quoted note or transcribed element by using the mark of omission. When using the mark of omission, generally give it with a space on either side. 
 
 >Example:  
 ><CITE>Printed by Leon. Lichfield ... and are to be sold by the Widow Howell</CITE>
@@ -511,8 +516,9 @@ Indicate omissions in a quoted note or transcribed element by using the mark of 
 
 **ALT note: this deals with ISBD punctuation. It should, perhaps, go elsewhere; in the interim, I edited the text from "However, give a space on only one side if the mark comes at the end of an element, is preceded by an opening parenthesis or opening square bracket, or is followed by a closing parenthesis, closing square bracket, or comma" to the text below**
 
-However, give a space on only one side of the mark of omission if it is preceded by an opening parenthesis or opening square bracket; is followed by a closing parenthesis, closing square bracket, or comma; or, if using ISBD punctuation, comes at the end of an element.
+<a name="0.5.29.2">0.5.29.2</a> However, give a space on only one side of the mark of omission if it is preceded by an opening parenthesis or opening square bracket; is followed by a closing parenthesis, closing square bracket, or comma; or, if using ISBD punctuation, comes at the end of an element.
 
+**ALT note: both examples are ISBD-punctuated, end of an element; we should probably have one that's an example of parentheses or square brackets**
 >Example:  
 ><CITE>Printed for the Widow Swart ..., 1688</CITE>  
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
@@ -521,16 +527,14 @@ However, give a space on only one side of the mark of omission if it is preceded
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
 
-#### Exception
-
-Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [name of publisher](DCRMR/ppdm/Name-of-publisher/), [4.203.7.2](DCRMR/ppdm/Name-of-publisher/#4.203.7.2)).
+<a name="0.5.29.3">0.5.29.3</a> *Exception*. Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [name of publisher](DCRMR/ppdm/Name-of-publisher/), [4.203.7.2](DCRMR/ppdm/Name-of-publisher/#4.203.7.2)).
 
 >Example:  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
 
-### 0.5.5.2 Information not considered part of any transcribed element
+### 0.5.30 Information not considered part of any transcribed element
 
-Omit, without using the mark of omission, grammatically separable information not considered part of any transcribed element. Such information may include quotations, epigrams, mottoes, advertisements, etc. 
+<a name="0.5.30.1">0.5.30.1</a> Omit, without using the mark of omission, grammatically separable information not considered part of any transcribed element. Such information may include quotations, epigrams, mottoes, advertisements, etc. 
 
 If considered important, give the omitted information in a note.
 
@@ -542,10 +546,10 @@ For Dedications, see X.X.X.X.
 
 **If dedications are no longer in Other title information (which it doesn't seem to be in the drafts), I propose either omitting it or the following, noting that it doesn't cleanly divide into Books - Not Books)**
 
-#### Dedications
+<a name="0.5.30.2">0.5.30.2</a> **Dedications**.
 
 Treat the dedication as information not considered part of any element  
-<u>if</u>:  
+<u>if</u>  
 the entire resource is the preferred source of information (for example, maps, still images, globes)  
 <u>and</u>  
 the dedication has not been transcribed as a grammatically inseparable part of another element  
@@ -554,25 +558,25 @@ the dedication is not visually connected to information transcribed as part of t
 
 Record a grammatically separable dedication that has been omitted from a transcribed element in a note.
 
-Treat the dedication [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
-<u>if</u>:  
+Treat the dedication as [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
+<u>if</u>  
 the entire resource is not the preferred source of information (for example, the resource has a title page)  
 <u>and</u>  
 the preferred source of information includes a dedication that has not already been transcribed as a grammatically inseparable part of another element.
 
-Treat the dedication [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
-<u>if</u>:  
+Treat the dedication as [other title information](DCRMR/title/Other-title-information/) (see [1.23.X.X](DCRMR/title/Other-title-information/#1.23.X.X))  
+<u>if</u>  
 the dedication has not already been transcribed as a grammatically inseparable part of another element  
 <u>and</u>  
 the dedication is visually connected to information transcribed as part of the title.
 
 If treating the dedication as [other title information](DCRMR/title/Other-title-information/) and any part of the dedication is omitted, use the mark of omission.
 
-### 0.5.5.3 Information not taken from the preferred source of information
+### 0.5.31 Information not taken from the preferred source of information
 
-If information is transcribed from a source other than the preferred source of information and the transcribed information is preceded or followed by grammatically separable information that is not considered part of the element, then omit the words that precede or follow. Do not use the mark of omission.
+<a name="0.5.31.1">0.5.31.1</a> If information is transcribed from a source other than the preferred source of information and the transcribed information is preceded or followed by grammatically separable information that is not considered part of the element, then omit the words that precede or follow. Do not use the mark of omission.
 
-If considered important for identification, give the omitted text in a note.
+If considered important, give the omitted text in a note.
 
 >Example:  
 >Edition statement: <CITE>The second edition</CITE>  
@@ -583,19 +587,19 @@ If considered important for identification, give the omitted text in a note.
 >Name of publisher: <CITE>per Arnoldum de Colonia, Anno nonagesimo quinto</CITE>  
 >Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto.</CITE>
 
-## 0.5.6 Interpolations
+## 0.5.32-35 Interpolations
 
-### 0.5.6.1 General rule
+### 0.5.32 Interpolations: general rule
 
-<a name="0.5.6.1">0.5.6.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
+<a name="0.5.32.1">0.5.32.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
 
 Make an explanatory note if considered important for identification.
 
-For guidance on expanding brevigraphs (special marks of contraction in continuance of the manuscript tradition), see [0.5.1.5](/DCRMR/general-rules/Transcription/#0.5.1.5 "0.5.1.5").
+For guidance on expanding brevigraphs (special marks of contraction in continuance of the manuscript tradition), see [0.5.5.1](/DCRMR/general-rules/Transcription/#0.5.5.1).
 
 >Example:
 ><CITE>Multo[rum]</CITE>  
->(*Comment*: The word ends with a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol.)
+>(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol.)
 
 **ALT note: how do we want to handle the Comment, which refers to the Manifestation described in element and is making a note that contains a reference to published description?**
 
@@ -612,9 +616,9 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 >(*Comment*: "Nouum" on title page spelled with symbol similar to cursive "z")
 
 
-### 0.5.6.2 Conjectural and indecipherable text
+### 0.5.33 Conjectural and indecipherable text
 
-<a name="0.5.6.2">0.5.6.2</a> Indicate a conjectural interpolation by adding a question mark immediately after the interpolation, within the square brackets. Supply a question mark enclosed in square brackets for each indeterminable word or portion of word.
+<a name="0.5.33.1">0.5.33.1</a> Indicate a conjectural interpolation by adding a question mark immediately after the interpolation, within the square brackets. Supply a question mark enclosed in square brackets for each indeterminable word or portion of word.
 
 Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text, if considered important.
 
@@ -637,9 +641,9 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >(*Comment*: Note on the text in an image.)
 
 
-### 0.5.6.3 Lacunae in imperfect copies 
+### 0.5.34 Lacunae in imperfect copies 
 
-<a name="0.5.6.3"><0.5.6.3</a>If the description is based on an imperfect copy and the omission cannot be conjectured, then use the mark of omission enclosed in square brackets ([...]) to show lacunae in the resource.
+<a name="0.5.34.1">0.5.34.1</a> If the description is based on an imperfect copy and the omission cannot be conjectured, then use the mark of omission enclosed in square brackets ([...]) to show lacunae in the resource.
 
 >Example:  
 >Place of publication: <CITE>En Barcelona</CITE>  
@@ -650,16 +654,11 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Title proper: <CITE>[...] modern minstrels</CITE>  
 >Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern".</CITE>  
 
+### 0.5.35 Blank spaces intended for completion
 
-### 0.5.6.4 Blank spaces 
+<a name="0.5.35.1">0.5.35.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets. Make an explanatory note.
 
-#### Blank Spaces Intended for Completion
-
-If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets.
-
-Make an explanatory note.
-
-If the blank has been completed in the item being described, indicate this in a [note on item](DCRMR/notes-on-items/Note-on-item), if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+<a name="0.5.35.2">0.5.35.2</a> If the blank has been completed in the item being described, indicate this in a [note on item](DCRMR/notes-on-items/Note-on-item), if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
 
 >Example:  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
@@ -672,11 +671,11 @@ If the blank has been completed in the item being described, indicate this in a 
 >Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer.</CITE>  
 >Note on item (optional): <CITE>Library's copy has blanks supplied in manuscript: State of [New York] / drawn by [Fannie Ufford]</CITE>  
 
-If the blank occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title without the interpolated word “[blank]” (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+<a name="0.5.35.3">0.5.35.3</a> If the blank occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title without the interpolated word “[blank]” (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-#### Blank Spaces for Initial Letters
+### 0.5.36 Blank spaces for initial letters
 
-If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
+<a name="0.5.36.1">0.5.36.1</a> If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
 
 Make an explanatory note.
 
@@ -687,25 +686,25 @@ Make an explanatory note.
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
 >Note on item (optional): <CITE>[Library's] copy: Initial letter executed in red and blue ink.</CITE>
 
-If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets.
+<a name="0.5.36.2">0.5.36.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets.
 
 >Example:  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
 >Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript.</CITE>
 
-Make a [note on item](DCRMR/notes-on-items/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+<a name="0.5.36.3">0.5.36.3</a> Make a [note on item](DCRMR/notes-on-items/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
 				
-### [0.5.6.5 Adjacent elements within a single area]
+### [0.5.X.X Adjacent elements within a single area]
 
 **ALT note: this doesn't belong here any more -- maybe in the MARC21 appendix?**
 
-If adjacent elements are to be enclosed in square brackets, each is enclosed in its own pair of square brackets.
+<a name="0.5.XX">0.5.X.X</a> If adjacent elements are to be enclosed in square brackets, each is enclosed in its own pair of square brackets.
 
 >Example:  
 ><CITE>[Springland, Pa.] : [W. Burch], [1808]</CITE>
 
-## 0.5.7 Inaccuracies, misprints, etc.
+## 0.5.37-39 Inaccuracies, misprints, etc.
 
 **ALT note: pre-3R RDA, in 1.7.9, instructed catalogers to transcribe inaccuracies as they appeared unless the instructions for a specific element indicated otherwise. If considered important, one coudl make a note and/or record a variant title. The RBMS PS instructed one to make a variant title if the inaccuracy was in the first 5 words, and gave an Alternative to use sic and i.e. in the transcription.**
 
@@ -715,9 +714,9 @@ If adjacent elements are to be enclosed in square brackets, each is enclosed in 
 * **eliminated the pre-3R RDA text, making in-element corrections using square brackets the instruction** 
 * **replaced "i.e." with "that is" within brackets**
 
-### 0.5.7.1 Misprints and unintential inaccuracies
+### 0.5.37 Misprints and unintentional inaccuracies
 
-Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is” and the correction within square brackets.
+<a name="0.5.37.1">0.5.37.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is” and the correction within square brackets.
 
 >Example:  
 ><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
@@ -731,33 +730,31 @@ Transcribe misprints or unintentional misspellings as they appear on the source.
 >Example:  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
-If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record [variant titles](/DCRMR/title/Variant-title) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+<a name="0.5.37.2">0.5.37.2</a> If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record [variant titles](/DCRMR/title/Variant-title) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
+<a name="0.5.37.3">0.5.37.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
 
-### 0.5.7.2 Deliberate misspellings
+### 0.5.38 Deliberate misspellings
 
 **ALT note: do we want to add "If considered important, record a variant title" to this instruction? It's in DCRM(G) but not in the RBMS PS.**
 
-Do not correct deliberately misspelled words. If considered important, make an explanatory note.
+<a name="0.5.38.1">0.5.38.1</a> Do not correct deliberately misspelled words. If considered important, make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>The Summer Shower, or, Mademoiselle Par, a Pluye</CITE>  
 >Note on title: </CITE>For "Par, a Pluye" read "parapluie".</CITE>
 
-### 0.5.7.3 Turned and approximated letters
+### 0.5.39 Turned and approximated letters
 
-<a name="0.5.7.3.1">0.5.7.3.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important for identification.
+<a name="0.5.39.1">0.5.39.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important for identification.
 
 >Example:  
 >Title proper: <CITE>Queen</CITE>  
 >Note on title: <CITE>The "u" in "Queen" in the title is turned.</CITE>
 
-Transcribe characters used to approximate a different character (e.g., when VV and vv letterforms have been used to represent the single letter W or w) as the intended character. 
+<a name="0.5.39.2">0.5.39.2</a> Transcribe characters used to approximate a different character (e.g., when VV and vv letterforms have been used to represent the single letter W or w) as the intended character. 
 
 Make an explanatory note if considered important for identification.
-
-**ALT note: W chart goes here**
 
 | Forms of W|
 | --- | --- | --- | --- |
@@ -766,11 +763,11 @@ Make an explanatory note if considered important for identification.
 | ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
 | ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
 
-If the characters used to approximate a different character occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title with the characters transcribed if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
+<a name="0.5.39.3">0.5.39.3</a> If the characters used to approximate a different character occur in the first five words of the title proper (the first six words if the title begins with an article), record a [variant title](/DCRMR/title/Variant-title) for the form of title with the characters transcribed if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).
 
-## 0.5.8 Abbreviations and contractions
+## 0.5.40 Abbreviations and contractions
 
-For punctuation indicating an abbreviation, see [punctuation indicating an abbreviation (0.5.3.10)](/DCRMR/general-rules/Transcription/#0.5.3.10 "punctuation indicating an abbreviation").
+For punctuation indicating an abbreviation, see [punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#X.X), [0.5.22.1](/DCRMR/general-rules/Transcription/#0.5.22.1).
 
 **ALT note: in the RBMS Policy Statements, we referred people to the instructions in pre-3R RDA Appendix B. That Appendix, which did have actual instructions, doesn't seem to have a counterpart in post-3R RDA. Post-3R RDA has [Community vocabulary: Abbreviations](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c&highlight=abbreviations "RDA Community vocabulary: Abbreviations"), which simply says, in the "Abbreviations for countries and states" section, "Do not abbreviate the name of a city or town even if it appears in the list (e.g., Washington, D.C. not Wash., D.C. ). Do not abbreviate a name that is not in the list"; the section "Abbreviations in Latin script" has some footnotes.** 
 
@@ -778,27 +775,27 @@ For punctuation indicating an abbreviation, see [punctuation indicating an abbre
 
 **Therefore, I copied the instructions on abbreviations from DCRM(G); I preferred it to DCRM(B) because the instructions were published post-RDA and were slightly expanded, including the 3rd section.**
 
-<a name="0.5.8.1">0.5.8.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
+<a name="0.5.40.1">0.5.40.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
-<a name="0.5.8.2">0.5.8.2</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets (see [0.5.1.5](/DCRMR/general-rules/Transcription/#0.5.1.5 "0.5.1.5")). Make an explanatory note if considered important. If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
+<a name="0.5.40.2">0.5.40.2</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets (see [0.5.5.1](/DCRMR/general-rules/Transcription/#0.5.5.1)). Make an explanatory note if considered important. If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
 
 >Example:  
 ><CITE>Henricus Dei gra[tia] Rex Anglie</CITE>  
 >(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
 
-If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
+<a name="0.5.40.3">0.5.40.3</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
 conventions given in [conjectural or indecipherable text (0.5.6.2)](/DCRMR/general-rules/Transcription/#0.5.6.2 "conjectural or indecipherable text (0.5.6.2)").
 
-<a name="0.5.8.3">0.5.8.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [variant title](/DCRMR/title/Variant-title) if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).  
+<a name="0.5.40.4">0.5.40.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [variant title](/DCRMR/title/Variant-title) if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).  
 
 
-## 0.5.9 Letters or words intended to be read more than once
+## 0.5.41 Letters or words intended to be read more than once
 
 **ALT note: This instruction is not present in DCRM, although it is present in pre-3R RDA. It is also present, albeit with different wording, in post-3R RDA, in the [Guidance / Guidelines on normalized transcription](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_sbr_vfs_b2b "Guideines on normalized transcription / Letters or words intended to be read more than once").**
 
 **The text of the main instruction comes pre-3R RDA. If we retain the instruction, we might want to modify it.**
 
-If a letter or word appears only once but the design of the source of information makes it clear that it is intended to be read more than once, repeat the letter or word.
+<a name="0.5.41.1">0.5.41.1</a> If a letter or word appears only once but the design of the source of information makes it clear that it is intended to be read more than once, repeat the letter or word.
 
 **End of pre-3R RDA text**
 
@@ -808,9 +805,11 @@ Make an explanatory note.
 >Title proper: <CITE>Here comes Santa Claus</CITE>  
 >Note on title: <CITE>Title words alternate vertically and horizontally, intersecting with shared letters, as in a crossword puzzle.</CITE>
 
-## 0.5.10 Superscripts and subscripts
+## 0.5.42 Superscripts and subscripts
 
-Transcribe superscript and subscript characters on the line unless the sense would be affected (e.g., in a mathematical formula). Always transcribe a period in an abbreviation at the end of the abbrevation.
+**ALT note: in DCRM, but not in RBMS PS**
+
+<a name="0.5.42.1">0.5.42.1</a> Transcribe superscript and subscript characters on the line unless the sense would be affected (e.g., in a mathematical formula). Always transcribe a period in an abbreviation at the end of the abbrevation.
 
 >Example:  
 ><CITE>Mr. Jas. McAdam</CITE>  
@@ -826,9 +825,9 @@ Transcribe superscript and subscript characters on the line unless the sense wou
 >(*Source of information reads*: Caro.<sup>e</sup> Watson)  
 >(*Comment*: Comment: Engraver is Caroline Watson)
 
-## 0.5.11 Grammatical inseparability
+## 0.5.43 Grammatical inseparability
 
-Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
+<a name="0.5.43.1">0.5.43.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
 
 >Example:  
 ><CITE>The posthumous works of Robert Hooke</CITE>
@@ -849,19 +848,17 @@ Do not omit or transpose grammatically inseparable text, regardless of whether i
 ><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.d</CITE>  
 >(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed as [statement of responsibility](DCRMR/sor/Statement-of-responsibility/).)
 
-#### Still images
-
-Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
+<a name="0.5.43.2">0.5.43.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
 
 >Example:  
 ><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
 >(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility.)
 
-## 0.5.12 Order and transposition
+## 0.5.44 Order and transposition
 
-**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now.**
+**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now. I didn't do all of the numbering because I think we may end up re-working this section.**
 
-Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
+<a name="0.5.44.1">0.5.44.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
 **ALT note: ISBD!**
 
@@ -905,13 +902,11 @@ make a note to indicate the placement.
 
 If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
 
-## 0.5.13 Numbers expressed as numerals or words
+## 0.5.45 Numbers expressed as numerals or words
 
 **ALT note: in the latter part of this section, we didn't deviate from pre-3R RDA. Post-3R RDA is less than helpful in [Guidelines on normalized transcription / Numbers](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_mvj_cgs_b2b), giving options for "Transcribe a numeral as it appears", "Transcribe a numeral in a form preferred by an agent who creates the metadata unless the form is unclear", and "Transcribe a numeral as it appears and in an equivalent form preferred ...". The guidance for ordinals isn't a bad, but it's still all just options (at least there's only one).**
 
-### 0.5.13.1 Transcribed elements
-
-When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
+<a name="0.5.45.1"> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
 
 >Example:  
 >Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
@@ -923,6 +918,7 @@ When recording numbers expressed as numerals or as words in a transcribed elemen
 >Example:  
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
+<a name="0.5.45.2">0.5.45.2</a> 
 **ALT note: do we still need this enumeration? I spot-checked a few of these elements, and the instruction seems to be within the element instruction itself. Note that I haven't updated the element names or hyperlinked, since I don't know if we want to keep the list.**
 Also transcribe numbers expressed as numerals or as words in the form in which they appear on the source of information in the following elements:
 * Numeric and/or alphabetic designation of first issue or part of sequence
@@ -940,11 +936,9 @@ Also transcribe numbers expressed as numerals or as words in the form in which t
 * Numbering within series
 * Numbering within subseries
 
-*Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [interpolations](DCRM/general-rules/Transcription/#056-interpolations), [0.5.6.1](general-rules/Transcription/#0.5.6.1)). 
+<a name="0.5.45.3">0.5.45.3</a> *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [interpolations](DCRMR/general-rules/Transcription/#X.X), [0.5.32.1](general-rules/Transcription/#0.5.32.1)). 
 
-### Other non-transcribed elements
-
-When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
+<a name="0.5.45.4">0.5.45.4</a> When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
 
 **ALT note: the following text is straight from pre-3R RDA. I'm not sure what to do about that. RDA no longer has definitive guidance on the subject. OTOH, DCRM(B) also didn't cover it (although I think we could do that because AACR2 did).**
 
