@@ -59,7 +59,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.20.6 Edition statements with grammatically inseparable information
 
-<a name="3.20.6.1">3.20.6.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [1.21.X.X](/DCRMR/title/Title-proper/) transcribe it as part of the designation of edition statement. If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X)).
+<a name="3.20.6.1">3.20.6.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [1.21.X.X](/DCRMR/title/Title-proper/) transcribe it as part of the designation of edition statement. If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.3.1)).
 
 >Example:  
 > <CITE>A new edition in two volumes</CITE>
@@ -105,7 +105,7 @@ In case of doubt, assume the set was not issued as such.
 
 <a name="3.20.91.3">3.20.91.3</a> If the multipart monograph is known or assumed to be a made-up set describe the monograph using one of the following methods:
 
-1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [note on extent of item](/DCRMR/Notes-on-items/Note-on-extent-of-item/) (see [8.24.X.X](/DCRMR/Notes-on-items/Note-on-extent-of-item/#8.24.X.X)).
+1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.24.X.X](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.24.X.X)).
 
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  
@@ -117,7 +117,7 @@ In case of doubt, assume the set was not issued as such.
 >Note on extent of item: <CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
 >*Comment:* <CITE>The second of two descriptions associated with the made-up set</CITE>
 
-2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [note on manifestation](/DCRMR/Other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.X.X](/DCRMR/Other-notes-Note-on-manifestation/#7.20.X.X)).
+2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  

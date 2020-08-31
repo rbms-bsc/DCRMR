@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="3.22.1.1">3.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-3e5f17dd-9943-3404-8410-7170fe0e6e89){:target="_blank"}
 
-<a name="3.22.1.2">3.22.1.2</a> [Source of information](/DCRMR/books/edition/)
+<a name="3.22.1.2">3.22.1.2</a> [Source of information](/DCRMR/edition/)
 
 ## 3.22.2 RDA definition and scope
 
@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.22.3 General rule
 
-<a name="3.22.3.1">3.22.3.1</a> If a designation of edition appears on the  source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
+<a name="3.22.3.1">3.22.3.1</a> If a designation of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
 
 <a name="3.22.3.2">3.22.3.2</a> Transcribe the remaining statement(s) as parallel designations of edition.
 
