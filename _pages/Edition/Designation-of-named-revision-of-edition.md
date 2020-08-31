@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.25.3 Statement relating to a named revision of an edition
 
-<a name="3.25.3.1">3.25.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [designation of edition](/DCRMR/edition/Designation-of-edition) [3.21.3.1](/DCRM/edition/Designation-of-edition/#3.21.3.1).
+<a name="3.25.3.1">3.25.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [designation of edition](/DCRMR/edition/Designation-of-edition) (see [3.21.3.1](/DCRM/edition/Designation-of-edition/#3.21.3.1)).
 
 >Example:    
 >Designation of named revision of edition: <CITE>Carefully revised and additions made in 1848</CITE>  

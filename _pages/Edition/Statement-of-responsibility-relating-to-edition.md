@@ -24,7 +24,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="3.23.1.1">3.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-dcdb7f9e-3b2f-3819-8c00-1a5e6a1339ed){:target="_blank"}
 
-<a name="3.23.1.2">3.23.2.1</a> [Source of information](/DCRMR/books/edition/)
+<a name="3.23.1.2">3.23.1.2</a> [Source of information](/DCRMR/books/edition/)
 
 ## 3.23.2 RDA definition and scope
 
