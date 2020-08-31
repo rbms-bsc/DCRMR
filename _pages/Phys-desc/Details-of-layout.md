@@ -24,8 +24,6 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.221.1.1">5.221.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-57a29f2c-5500-3a18-854e-f21c88c184a2)
 
----
-
 ## 5.221.2 RDA Definition and scope
 
 <a name="5.221.2.1">5.221.2.1</a> Details of an arrangement of text, images, tactile notation, etc., in a manifestation.

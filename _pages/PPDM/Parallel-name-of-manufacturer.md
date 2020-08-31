@@ -30,8 +30,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.224.3 Manufacturer Statements in more than one language or script
 
-<a name="4.224.3.1">4.224.3.1</a> Take parallel manufacturers’ names from the same source as the [name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a note on parallel manufacturers’ names found elsewhere if considered important for identification (see [note on manufacture-statement]((/DCRMR/ppdm/Note-on-manufacture-statement), [4.226.6.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.1)).
+<a name="4.224.3.1">4.224.3.1</a> Take parallel manufacturers’ names from the same source as the [name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a note on parallel manufacturers’ names found elsewhere if considered important for identification (see [note on manufacture statement]((/DCRMR/ppdm/Note-on-manufacture-statement), [4.226.6.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.1)).
 
-<a name="4.224.3.2">4.224.3.2</a> Make a [note on manufacture-statement]((/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [4.226.6.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.2)). 
+<a name="4.224.3.2">4.224.3.2</a> Make a [note on manufacture-statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [4.226.6.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.2)). 
 
 <a name="4.224.3.3">4.224.3.3</a> *Optional omission:* If it is considered that the names are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel manufacturers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted names in the supplied phrase.

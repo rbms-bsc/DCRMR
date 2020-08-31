@@ -103,12 +103,12 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 4.225.9 Date of manufacture multipart monographs
 
-<a name="4.225.9.1">4..225.9.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="4.225.9.1">4.225.9.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 
 <a name="4.225.9.2">4.225.9.2</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.9](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.9)).
 
 ## 4.225.91 Date of manufacture on part pages
 
-<a name="4.225.91.1">4.225.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.91](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.91)). 
+<a name="4.225.91.1">4.225.91.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.91](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.91)). 
 
 If, however, one of these dates is a more accurate reflection of the actual date of manufacture, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.225.5.4](#4.225.5.4).
