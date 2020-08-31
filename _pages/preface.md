@@ -43,10 +43,9 @@ Currently under construction.
 
 ## History of the revision process
 
-In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering CRM in Light of RDA"
+In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM in Light of RDA"
 
-2011-2012 DCRM-RDA Task Force
-Key recommendations
+2011-2012 DCRM-RDA Task Force Key recommendations
 
 2012-2014 DCRM(B) for RDA Revision Group
 
@@ -56,21 +55,13 @@ Key recommendations
 
 2018-2019 RBMS Policy Statements Editorial Group
 
-
-
-
-## Additional historical documentation
-{: .no_toc }
-
-
-
 ## Table of Contents
 {: .no_toc }
 
-[Background](/books/preface/Background/)
+[Background](/preface/Background/)
 
-[Changes from DCRM(B)](/books/preface/Changes-from-DCRB/)
+[Changes from DCRM(B)](/preface/Changes-from-DCRB/)
 
-[Future work](/books/preface/Future-work/)
+[Future work](/preface/Future-work/)
 
-[Acknowledgements](/books/preface/Acknowledgements/)
+[Acknowledgements](/preface/Acknowledgements/)

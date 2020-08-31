@@ -7,13 +7,9 @@ sidebar:
   nav: "docs"
 ---
 
-## 9.01 Prescribed punctuation
+## 9.01 Sources of information
 
-<a name="9.01.1">9.01.1</a> Prescribed punctuation for the Identifier elements are found in [0.3.12](/DCRMR/general-rules/Prescribed-punctuation/#0.3.12).
-
-## 9.02 Sources of information
-
-<a name="9.02.1">9.02.1</a> Take information included in this area from any source. Do not enclose any information in square brackets.
+<a name="9.01.1">9.01.1</a> Take information included in this area from any source. Do not enclose any information in square brackets.
 
 ## Table of Contents
 {: .no_toc }
