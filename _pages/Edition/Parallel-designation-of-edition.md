@@ -28,7 +28,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.22.2 RDA definition and scope
 
-<a name="3.22.2.1">3.22.2.1</a> A  designation of edition in another language or script
+<a name="3.22.2.1">3.22.2.1</a> A designation of edition in another language or script.
 
 ## 3.22.3 General rule
 
