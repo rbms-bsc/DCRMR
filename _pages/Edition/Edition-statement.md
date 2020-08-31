@@ -87,7 +87,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.91.1">3.20.91.1</a> For a multipart monograph, if the edition statement varies or does not appear on all of the volumes, ascertain whether the set was issued as such, using the following guidelines:
 
-1) If other  exemplars of the set are known to have the same combination of editions, assume the set was issued as such.  
+1) If other exemplars of the set are known to have the same combination of editions, assume the set was issued as such.  
 2) If there is no other exemplar of the set known with the same combination of editions, and other exemplars with different combinations of editions are known, assume the set in hand was not issued as such.  
 3) If there are no other known exemplars of the set, assume the set was issued as such.
 
@@ -98,7 +98,7 @@ In case of doubt, assume the set was not issued as such.
 >Edition statement: <CITE>v. 2: The first edition</CITE>  
 >Note on edition statement: <CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition.</CITE>
 
-<a name="3.20.91.2">3.20.91.2</a> Make a note indicating the absence of edition statements if considered important.
+<a name="3.20.91.2">3.20.91.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) indicating the absence of edition statements if considered important (see [3.29.X.X}(/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)
 
 >Example:      
 >Edition statement: <CITE>The second edition</CITE>  
