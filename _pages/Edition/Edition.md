@@ -3,9 +3,18 @@ layout: single
 type: docs
 title: Edition
 permalink: /edition/
+permalink: edition/
 sidebar:
   nav: "docs"
 ---
+
+## 3.01 Sources of information
+
+<a name="3.01.1">3.01.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see introductory section X.X.X.X), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#)). Do not take an edition statement from a source outside the manifestation itself.
+
+## 3.02 Form and order of information
+
+<a name="3.02.1">3.02.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific guidelines.
 
 ## Table of Contents
 {: .no_toc }
