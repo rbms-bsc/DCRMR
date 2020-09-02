@@ -23,6 +23,8 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.3.1">0.3.1</a> Precede each mark of prescribed punctuation by a space and follow it by a space, with the following exceptions: the comma, period, closing parenthesis, and closing square bracket are not preceded by a space; the opening parenthesis and opening square bracket are not followed by a space.
 
+<a name="0.3.1.1">0.3.1.1</a> If adjacent elements are to be enclosed in square brackets, each is enclosed in its own pair of square brackets.
+
 <a name="0.3.2">0.3.2</a> End paragraphs with normal punctuation (usually the period).
 
 <a name="0.3.3">0.3.3</a> If an entire element is omitted from the bibliographic description (e.g., because it is not present in the source), also omit its corresponding prescribed punctuation. Do not use the mark of omission.
