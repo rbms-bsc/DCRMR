@@ -44,7 +44,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ><CITE>Designation of edition: [1st printing]</CITE>
 >(*Comment:* Example follows alternative rule to a create separate bibliographic description for an individual impression, or state.)
 
-<a name="3.29.3.2">3.29.3.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.20.3.2](/DCRMR/edition/Edition-statement/#3.20.3.2) and [3.21.9.1](/DCRMR/edition/Designation-of-edition/#3.21.9.1)  [ 3.28.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.4) [3.23.5.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.5.3) [3.23.6.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.6.3)[3.24.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.24.3.4) [3.25.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.3.2) [3.27.4.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.27.4.3)
+<a name="3.29.3.2">3.29.3.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.20.3.2](/DCRMR/edition/Edition-statement/#3.20.3.2)[3.21.9.1](/DCRMR/edition/Designation-of-edition/#3.21.9.1)  [ 3.28.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.4) [3.23.5.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.5.3) [3.23.6.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.6.3)[3.24.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.24.3.4) [3.25.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.3.2) and [3.27.4.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.27.4.3)).
 
 >Example:  
 > The statement “amplified edition” precedes title on title page
@@ -74,11 +74,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.29.6 Edition statements relating to issues or parts
 
-<a name="3.29.6.1">3.29.6.1</a> Make a Note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are Edition statements relating to the whole as well as to part.  Record the [Edition statement](/DCRMR/edition/Edition-statement/) relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.20.8.2](/DCRMR/edition/Edition-statement/#3.20.8.2)
+<a name="3.29.6.1">3.29.6.1</a> Make a Note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are Edition statements relating to the whole as well as to part.  Record the [Edition statement](/DCRMR/edition/Edition-statement/) relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.20.8.2](/DCRMR/edition/Edition-statement/#3.20.8.2)).
 
 ## 3.29.7 Nonce collections
 
-<a name="3.29.7.1">3.29.7.1</a> Make a Note on edition statement of differences in Edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.20.9.1](/DCRMR/edition/Edition-statement/#3.20.9.1).  If Edition statements of parts vary between exemplars of manifestation, record the Edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X) and [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
+<a name="3.29.7.1">3.29.7.1</a> Make a Note on edition statement of differences in Edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.20.9.1](/DCRMR/edition/Edition-statement/#3.20.9.1)).  If Edition statements of parts vary between exemplars of manifestation, record the Edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X) and [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
 
 >Example:  
 > Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.
