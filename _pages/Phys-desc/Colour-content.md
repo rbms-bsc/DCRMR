@@ -48,13 +48,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.204.4.1">5.204.4.1</a> “Hand-colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
-<a name="5.204.4.2">5.204.4.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [modification of item](/DCRMR/Notes-on-items/Modification-of-item/), [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
+<a name="5.204.4.2">5.204.4.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item](/DCRMR/Notes-on-items/Modification-of-item/), [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
 
-<a name="5.204.4.3">5.204.4.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in colour content or [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/).
+<a name="5.204.4.3">5.204.4.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in colour content or [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/).
 
-<a name="5.204.4.4">5.204.4.4</a> If there is strong evidence that all copies of the resource were issued with hand coloring applied before distribution, record the presence of color as [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) (see [5.205.5.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.1)). Evidence for hand-coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all copies were issued with hand coloring applied before distribution.
+<a name="5.204.4.4">5.204.4.4</a> If there is strong evidence that all copies of the resource were issued with hand coloring applied before distribution, record the presence of color as [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) (see [5.205.5.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.1)). Evidence for hand-coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all copies were issued with hand coloring applied before distribution.
 
-<a name="5.204.4.5">5.204.4.5</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as [details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) instead of as colour content (see [5.205.5.2](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.2)).
+<a name="5.204.4.5">5.204.4.5</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) instead of as colour content (see [5.205.5.2](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.2)).
 
 ## 5.204.5 Color of base material
 
