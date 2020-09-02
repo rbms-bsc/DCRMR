@@ -16,6 +16,9 @@ sidebar:
 ## **Half title.**
 A title of a resource appearing on a leaf preceding the title page. *See also* **[Title](/DCRMR/glossary/T/#Title).**
 
+## **Head-piece**
+An ornament at the head of a chapter or division of a book.
+
 ## **Term in bold.** 
 Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
 
