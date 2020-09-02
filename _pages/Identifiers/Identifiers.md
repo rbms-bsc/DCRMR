@@ -21,5 +21,3 @@ sidebar:
 [Chapter 9.22 Term of availability](/DCRMR/identifiers/Term-of-availability/)
 
 [Chapter 9.23 Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
-
-[Chapter 9.24 Note on metadta work](/DCRMR/identifiers/Note-on-metadata-work/)

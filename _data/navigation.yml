@@ -276,8 +276,6 @@ docs:
         url: /notes-on-items/Modification-of-item/
       - title: "Custodial history of item"
         url: /notes-on-items/Custodial-history-of-item/
-      - title: "Item described in"
-        url: /notes-on-items/Item-described-in/
       - title: "Note on extent of item"
         url: /notes-on-items/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
@@ -296,8 +294,6 @@ docs:
         url: /identifiers/Term-of-availability/
       - title: "Note on identifier for manifestation"
         url: /identifiers/Note-on-identifier-for-manifestation/
-      - title: "Note on metadata work"
-        url: /identifiers/Note-on-metadata-work/
        
   - title: "Appendices"
     url: /appendices/

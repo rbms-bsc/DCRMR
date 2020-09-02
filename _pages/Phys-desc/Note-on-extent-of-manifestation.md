@@ -30,12 +30,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.201.3 General rule
 
-<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) if considered important (see [5.20.9.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.9.1)).
+<a name="5.201.3.1">5.201.3.1</a> Make a note on details of extent that are not already included in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) if considered important (see [5.20.9.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.9.1)).
 
 > Example:  
 > Note on extent of manifestation: <CITE>Volumes numbered: 1, 2A, 2B, 2C, 3</CITE>
 
-<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but printed on both  sides, record this fact in a note on extent of manifestation (see [extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.3.2](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.2)).
+<a name="5.201.3.2">5.201.3.2</a> If the leaves are numbered on one side but printed on both  sides, record this fact in a note on extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.3.2](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.2)).
 
 > Example:  
 > Extent of manifestation: <CITE>48 leaves</CITE>  
@@ -144,7 +144,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 In general, record signatures for incunabula, especially if identical signatures are not given in a standard bibliographic source. In general, also record signatures when a volume has no pagination or foliation.
 
-<a name="5.201.4.2">5.201.4.2</a> **Unavailable characters.** If the gatherings are signed with a mark of contraction (see [transcription](/DCRMR/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled out form and enclose it in square brackets.
+<a name="5.201.4.2">5.201.4.2</a> **Unavailable characters.** If the gatherings are signed with a mark of contraction (see [Transcription](/DCRMR/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled out form and enclose it in square brackets.
 
 > Example:  
 > <CITE>Signatures: A-F⁸ G⁶ a-z⁸ &⁸ [con]⁸ [rum]⁸ 2a-2y⁸</CITE>

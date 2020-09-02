@@ -41,9 +41,9 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.20.4 No edition statement 
 
-<a name="3.20.4.1">3.20.4.1</a> If the manifestation does not contain an edition statement, but is known to contain significant changes from other editions, or an edition statement for it is provided by a reference source, do not supply an edition statement based on this information. Give the information in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.4.1">3.20.4.1</a> If the manifestation does not contain an edition statement, but is known to contain significant changes from other editions, or an edition statement for it is provided by a reference source, do not supply an edition statement based on this information. Give the information in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.4.1](/DCRMR/edition/Note-on-edition-statement/#3.29.4.1)).
 
-<a name="3.20.4.2">3.20.4.2</a> If the manifestation contains only a statement that refers to another edition (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history), do not transcribe the information as an edition statement and do not supply an edition statement based on the information. A [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) may be made on such statements if considered important (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.4.2">3.20.4.2</a> If the manifestation contains only a statement that refers to another edition (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history), do not transcribe the information as an edition statement and do not supply an edition statement based on the information. A [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) may be made on such statements if considered important (see [3.29.4.2](/DCRMR/edition/Note-on-edition-statement/#3.29.4.1)).
 
 ## 3.20.5 Edition statements that are grammatically inseparable parts of other transcribed elements
 
@@ -66,7 +66,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.20.7 Two or more works on the preferred source of information with at least one edition statement
 
-<a name="3.20.7.1">3.20.7.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, transcribe each edition statement that is grammatically linked to another element (e.g.[title proper](/DCRMR/title/Title-proper/), [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) or any other transcribed element) within that element. Transcribe edition statements not grammatically linked to another element as individual statements. Indicate the work to which each edition statement corresponds in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.7.1">3.20.7.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, transcribe each edition statement that is grammatically linked to another element (e.g.[title proper](/DCRMR/title/Title-proper/), [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) or any other transcribed element) within that element. Transcribe edition statements not grammatically linked to another element as individual statements. Indicate the work to which each edition statement corresponds in a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.5.1)).
 
 >Example:  
 ><CITE>An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE>  
@@ -75,11 +75,11 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.8.1">3.20.8.1</a> If the manifestation consists of multiple issues or parts, including accompanying material, and there are edition statements relating to the whole as well as to parts, then record only the edition statements relating to the whole manifestation.
 
-<a name="3.20.8.2">3.20.8.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) relating to issues or parts if considered important (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.8.2">3.20.8.2</a> Make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) relating to issues or parts if considered important (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.6.1)).
 
 ## 3.20.9 Nonce collections
 
-<a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.7.1)).
 
 <a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [note on item](/DCRMR/Notes-on-items/Note-on-item) (see [8.20.X.X](/DCRMR/Notes-on-items/Note-on-item/#8.20.X.X)).
 
@@ -105,7 +105,7 @@ In case of doubt, assume the set was not issued as such.
 
 <a name="3.20.91.3">3.20.91.3</a> If the multipart monograph is known or assumed to be a made-up set describe the monograph using one of the following methods:
 
-1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.24.X.X](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.24.X.X)).
+1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.23.X.X](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.X.X)).
 
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  

@@ -32,8 +32,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.26.3 General rule
 
-<a name="3.26.3.1">3.26.3.1</a> If a [designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) appears on the  source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation (see [3.25.6.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1)).
+<a name="3.26.3.1">3.26.3.1</a> If a [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) appears on the  source of information in more than one language or script, transcribe the statement that is in the language or script of the Title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation (see [3.25.6.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1)).
 
-<a name="3.26.3.2">3.26.3.2</a> Transcribe the remaining statement(s) as parallel designations of a named revision of edition.
+<a name="3.26.3.2">3.26.3.2</a> Transcribe the remaining statement(s) as Parallel designations of a named revision of edition.
 
-<a name="3.26.3.3">3.26.3.3</a> *Optionally,* if it is considered that the parallel designations of named revision of edition are too numerous to record exhaustively, and some may be omitted without significant loss of identification, all parallel designations of named revision of edition after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase.
+<a name="3.26.3.3">3.26.3.3</a> *Optionally,* if it is considered that the Parallel designations of named revision of edition are too numerous to record exhaustively, and some may be omitted without significant loss of identification, all Parallel designations of named revision of edition after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase.
