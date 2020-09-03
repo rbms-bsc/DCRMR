@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.23.3 General rule
 
-<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition, Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [2.21.X.X](/DCRMR/books/sor/Statement-of-responsibility-relating-to-title-proper/2.21.X.X) ([Statement of responsibility relating to title proper](/DCRMR/books/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements.
+<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition, Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [2.21.X.X](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/2.21.X.X) ([Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements.
 
 >Example:  
 ><CITE>with notes of various authors by Thomas Newton</CITE>
@@ -51,7 +51,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.23.4 Transposition of statements of responsibility not relating to edition
 
-<a name="3.23.4.1">3.23.4.1</a> If a statement of responsibility appears after the designation of edition, transpose it to the statement of responsibility relating to title proper in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/books/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.22.X.X](/DCRMR/books/sor/Note-on-statement-of-responsibility/#2.22.X.X)).
+<a name="3.23.4.1">3.23.4.1</a> If a statement of responsibility appears after the designation of edition, transpose it to the statement of responsibility relating to title proper in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.22.X.X](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.X.X)).
 
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  

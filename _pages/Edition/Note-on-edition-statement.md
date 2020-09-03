@@ -28,7 +28,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.29.2 RDA definition and scope
 
-<a name="3.29.2.1">3.29.2.1</a> A Note on manifestation that provides information on an edition of a manifestation.
+<a name="3.29.2.1">3.29.2.1</a> A note on manifestation that provides information on an edition of a manifestation.
 
 ## 3.29.3 Source and position of edition statement
 
@@ -74,7 +74,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.29.6 Edition statements relating to issues or parts
 
-<a name="3.29.6.1">3.29.6.1</a> Make a note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are edition statements relating to the whole as well as to part.  Record the [Edition statement](/DCRMR/edition/Edition-statement/) relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.20.8.2](/DCRMR/edition/Edition-statement/#3.20.8.2)).
+<a name="3.29.6.1">3.29.6.1</a> Make a note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are edition statements relating to the whole as well as to part.  Record the edition statement relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.20.8.2](/DCRMR/edition/Edition-statement/#3.20.8.2)).
 
 ## 3.29.7 Nonce collections
 

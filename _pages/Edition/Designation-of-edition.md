@@ -39,14 +39,14 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="3.21.4.1">3.21.4.1</a> Designations of edition normally include either the word “edition” (or its equivalent in other languages), or a related term such as “revision” or “issue.” 
 
 <a name="3.21.4.2">3.21.4.2</a> Treat a phrase such as “newly printed” as a Designation of edition unless it is
-part of a statement being transcribed in the production, publication, distribution, or manufacture elements.  In case of doubt, treat such a statement as a Designation of edition.
+part of a statement being transcribed in the production, publication, distribution, or manufacture elements.  In case of doubt, treat such a statement as a designation of edition.
 
 >Example:  
 ><CITE>Newly imprinted</CITE>
 
 ## 3.21.5 Words such as “impression” or “printing”
 
-<a name="3.21.5.1">3.21.5.1</a> Use judgment in transcribing statements containing words such as “impression” or “printing” as a Designation of edition. In publications from the hand‐press era, such statements usually signal a new edition or issue. In these cases, the statement may properly be considered a Designation of edition.
+<a name="3.21.5.1">3.21.5.1</a> Use judgment in transcribing statements containing words such as “impression” or “printing” as a Designation of edition. In publications from the hand‐press era, such statements usually signal a new edition or issue. In these cases, the statement may properly be considered a designation of edition.
 
 <a name="3.21.5.2">3.21.5.2</a> For publications from the machine‐press era or publications manufactured by the process of engraving, statements containing words such as “impression” or “printing” are more likely to indicate that the publication is simply a new impression of the same edition. 
 
@@ -81,7 +81,7 @@ part of a statement being transcribed in the production, publication, distributi
 
 ## 3.21.8 Designations of edition with special characters or a numeric emphasis
 
-<a name="3.21.8.1">3.21.8.1</a> If a designation of edition consists entirely or chiefly of characters that are neither numeric nor alphabetic, transcribe the characters as they appear if the necessary typographical facilities are available. For characters that cannot be reproduced, substitute the names or descriptions of the characters in square brackets (see [Transcription](/DCRMR/general-rules/Transcription/) [0.5.X.X](/DCRMR/general-rules/Transcription/#0.5.X.X)).
+<a name="3.21.8.1">3.21.8.1</a> If a designation of edition consists entirely or chiefly of characters that are neither numeric nor alphabetic, transcribe the characters as they appear if the necessary typographical facilities are available. For characters that cannot be reproduced, substitute the names or descriptions of the characters in square brackets (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.X.X](/DCRMR/general-rules/Transcription/#0.5.X.X)).
 
 >Example:  
 ><CITE>&&& edition</CITE>
