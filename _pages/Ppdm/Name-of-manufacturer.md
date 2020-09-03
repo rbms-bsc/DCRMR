@@ -73,7 +73,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.223.5 Name of manufacturer containing only addresses, signs, or initials
 
-<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
+<a name="4.223.5.1">4.223.5.1</a> If only the sign or initials of the manufacturer appear in lieu of the name, transcribe the statement containing the sign or initials as the name of manufacturer. If the name can be identified, supply it in square brackets or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Cuchet] Rue et Hôtel serpente</CITE>  
@@ -89,7 +89,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Note on manufacture statement: <CITE>Printed by R. Badger according to the STC</CITE>  
 >(*Comment:* A separate note is used to provide a full citation for the reference to the manufacturer description)
 
-<a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) about the basis for the identification, the source of the information used, the presence of the device, etc (see [4.226.5.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.2)).
+<a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) about the basis for the identification, the source of the information used, the presence of the device, etc (see [4.226.5.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.2)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
@@ -98,9 +98,9 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.223.6 Fictitious name of manufacturer
 
-<a name="4.223.6.1">4.223.6.1</a>  If the name as transcribed is known to be fictitious, or requires clarification, make a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) giving the actual name. Include the source of the actual name (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
+<a name="4.223.6.1">4.223.6.1</a>  If the name as transcribed is known to be fictitious, or requires clarification, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) giving the actual name. Include the source of the actual name (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
-<a name="4.223.6.2">4.223.6.2</a> *Alternative rule:* if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
+<a name="4.223.6.2">4.223.6.2</a> *Alternative rule:* if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
 >Example:  
 ><CITE>printed by Edes & Gill, for Buckley [i.e., Bulkeley] Emerson, of Newbury-Port</CITE>
@@ -126,11 +126,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.223.8 Names of manufacturers in multipart monographs
 
-<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the manufacture statement of the first or earliest part and give the manufacture statement of the later part(s) in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.4)).
+<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the manufacture statement of the first or earliest part and give the manufacture statement of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.4)).
 
 ## 4.223.9 No name of manufacturer
 
-<a name="4.223.9.1">4.223.9.1</a>  If no name, initials, sign, or device of a manufacturer appears in the manifestation, supply the name of the manufacturer in square brackets if known. In any case of a supplied manufacturer, give supporting evidence in a [note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.5)).
+<a name="4.223.9.1">4.223.9.1</a>  If no name, initials, sign, or device of a manufacturer appears in the manifestation, supply the name of the manufacturer in square brackets if known. In any case of a supplied manufacturer, give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.5)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Barthelemy Multeau le jeune?]</CITE>  

@@ -28,7 +28,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.27.2 RDA definition and scope
 
-<a name="3.27.2.1">3.27.2.1</a> A Statement of responsibility that is associated with a named revision of an edition.
+<a name="3.27.2.1">3.27.2.1</a> A statement of responsibility that is associated with a named revision of an edition.
 
 ## 3.27.3 General rule
 
@@ -38,8 +38,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.27.4 Statements of responsibility relating to named edition in more than one language or script
 
-<a name="3.27.4.1">3.27.4.1</a> If there are Designations of named revision of edition in more than one language or script on the manifestation, but only a single Statement of responsibility relating to the named revision of edition, transcribe the statement of responsibility as the Statement of responsibility relating to named revision of edition. 
+<a name="3.27.4.1">3.27.4.1</a> If there are designations of named revision of edition in more than one language or script on the manifestation, but only a single statement of responsibility relating to the named revision of edition, transcribe the statement of responsibility as the Statement of responsibility relating to named revision of edition. 
 
-<a name="3.27.4.2">3.27.4.2</a> If a Statement of responsibility relating to named revision of edition appears on the manifestation in more than one language or script, record the statement in the language or script of the Title proper. If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/) (see [3.28.3.2](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.2)).
+<a name="3.27.4.2">3.27.4.2</a> If a Statement of responsibility relating to named revision of edition appears on the manifestation in more than one language or script, record the statement in the language or script of the title proper. If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/) (see [3.28.3.2](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.2)).
 
 <a name="3.27.4.3">3.27.4.3</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed Statements of responsibility related to named revision of edition (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).

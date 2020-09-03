@@ -37,5 +37,5 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Type 76G</CITE>
 
-<a name="5.223.4">5.223.4</a> Make a note recording more detailed descriptions of font size if considered important (see [details of font size](/DCRMR/phys-desc/Details-of-font-size/), [5.2232.3.1](/DCRMR/phys-desc/Details-of-font-size/#5.2232.3.1)).
+<a name="5.223.4">5.223.4</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size](/DCRMR/phys-desc/Details-of-font-size/), [5.2232.3.1](/DCRMR/phys-desc/Details-of-font-size/#5.2232.3.1)).
 

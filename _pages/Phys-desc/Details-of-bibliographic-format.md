@@ -30,7 +30,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.2222.3 General rule 
 
-<a name="5.2222.3.1">5.2222.3.1</a> Record details of [bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [bibliographic format](/DCRMR/phys-desc/Bibliographic-format/), [5.222.3.3](/DCRMR/phys-desc/Bibliographic-format/#5.222.3.3)).
+<a name="5.2222.3.1">5.2222.3.1</a> Record details of [Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [5.222.3.3](/DCRMR/phys-desc/Bibliographic-format/#5.222.3.3)).
 
 >Example:  
 ><CITE>Volume 1 is folio; volume 2 is 12mo</CITE>

@@ -51,7 +51,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.25.5 Alternative rules
 
-<a name="3.25.5.1">3.25.5.1</a> *Alternative rule:* If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/), [X.X.X](/DCRMR/introduction/Precataloging-decisions/#X.X.X)), and the manifestation has a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe statements related to a substantially unchanged impression of that edition as a designation of a named revision of an edition. If the manifestation lacks a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe such statements as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.25.5.1">3.25.5.1</a> *Alternative rule:* If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/), [X.X.X](/DCRMR/introduction/Precataloging-decisions/#X.X.X)), and the manifestation has a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe statements related to a substantially unchanged impression of that edition as a designation of a named revision of an edition. If the manifestation lacks a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe such statements as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
 >Example:   
 >Designation of named revision of edition: <CITE> Fourth printing</CITE>  
@@ -73,7 +73,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Designation of edition: <CITE>First Ace edition</CITE>  
 >Note on edition statement: <CITE>“Third printing / December 1983” from title page verso</CITE>
 
-<a name="3.25.5.2">3.25.5.2</a> *Alternative rule:*  If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.X.X](/DCRMR/edition/Note-on-edition-statement/#3.29.X.X)).
+<a name="3.25.5.2">3.25.5.2</a> *Alternative rule:*  If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
 >Example:    
 >Designation of named revision of edition: <CITE>[1st printing]</CITE>  

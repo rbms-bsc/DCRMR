@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.26.3 General rule
 
-<a name="3.26.3.1">3.26.3.1</a> If a [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) appears on the  source of information in more than one language or script, transcribe the statement that is in the language or script of the Title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation (see [3.25.6.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1)).
+<a name="3.26.3.1">3.26.3.1</a> If a [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation (see [3.25.6.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1)).
 
 <a name="3.26.3.2">3.26.3.2</a> Transcribe the remaining statement(s) as Parallel designations of a named revision of edition.
 

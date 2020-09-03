@@ -32,11 +32,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.205.3 General rule
 
-<a name="5.205.3.1">5.205.3.1</a> Make a note on details of color content (see [colour content](/DCRMR/phys-desc/Colour-content/)) if considered important.
+<a name="5.205.3.1">5.205.3.1</a> Make a note on details of color content (see [Colour content](/DCRMR/phys-desc/Colour-content/)) if considered important.
 
 ## 5.205.4 Details of printed color
 
-<a name="5.205.4.1">5.205.4.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.3.2](/DCRMR/phys-desc/Colour-content/#5.204.3.2)).
+<a name="5.205.4.1">5.205.4.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.3.2](/DCRMR/phys-desc/Colour-content/#5.204.3.2)).
 
 >Example:  
 >`Printed in green throughout`
@@ -52,11 +52,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >`Quaderno 3 printed in dark blue ink; quaderno 4 printed in dark red ink; nuevo ser. n. 1 issued in black, blue, red, purple and green inks; ott. 1976 printed in purple ink; febbr. 10, 1977 printed in medium blue ink`
 
-<a name="5.205.4.3">5.205.4.3</a> For incunabula, always record color printing if present (see [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.3.4](/DCRMR/phys-desc/Colour-content/#5.204.3.4)).
+<a name="5.205.4.3">5.205.4.3</a> For incunabula, always record color printing if present (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.3.4](/DCRMR/phys-desc/Colour-content/#5.204.3.4)).
 
 ## 5.205.5 Details of hand coloring
 
-<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4), make a note to indicate that the resource was hand colored before distribution. Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
+<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4), make a note to indicate that the resource was hand colored before distribution. Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
 >`With hand-colored wood engravings, as issued`  
@@ -67,7 +67,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > `Lithographs are hand-colored, as issued`
 > Colour content: `hand colored`
 
-<a name="5.205.5.2">5.205.5.2</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as details of colour content (see [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.5](/DCRMR/phys-desc/Colour-content/#5.204.4.5)).
+<a name="5.205.5.2">5.205.5.2</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as details of colour content (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.5](/DCRMR/phys-desc/Colour-content/#5.204.4.5)).
 
 >Example:  
 > "Price 25 cents plain, 37 1/2 cents coloured."--Foot of title page
@@ -77,8 +77,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.205.5.3">5.205.5.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one copy is representative of the coloring scheme for all copies. 
 
-<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [modification of item](/DCRMR/Notes-on-items/Modification-of-item/) if considered important (see [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
+<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/Notes-on-items/Modification-of-item/) if considered important (see [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
 
 ## 5.205.6 Base material
 
-<a name="5.205.6.1">5.205.6.1</a> Make a note on the color of base material (e.g. paper) if considered important (see [colour content](/DCRMR/phys-desc/Colour-content/), [5.204.5.1](/DCRMR/phys-desc/Colour-content/#5.204.5.1)).
+<a name="5.205.6.1">5.205.6.1</a> Make a note on the color of base material (e.g. paper) if considered important (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.5.1](/DCRMR/phys-desc/Colour-content/#5.204.5.1)).

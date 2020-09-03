@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.24.3 General rule
 
-<a name="3.24.3.1">3.24.3.1</a> If there are designations of edition in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the [statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/).
+<a name="3.24.3.1">3.24.3.1</a> If there are designations of edition in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/).
 
 <a name="3.24.3.2">3.24.3.2</a> If a [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) appears on the manifestation in more than one language or script, record the statement in the language or script of the title proper. If this criterion does not apply, record the statement that appears first. 
 

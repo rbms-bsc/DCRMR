@@ -30,13 +30,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.21.3 Fictitious or incorrect information
 
-<a name="4.21.3.1">4.21.3.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.4)).
+<a name="4.21.3.1">4.21.3.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.4)).
 
 ## 4.21.4 Information covered by labels, etc.
 
-<a name="4.21.4.1">4.21.4.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.5)).
+<a name="4.21.4.1">4.21.4.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.5)).
 
-<a name="4.21.4.2">4.21.4.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is as a [note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+<a name="4.21.4.2">4.21.4.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
 
 ## 4.21.5 Elements relating to publication, distribution vs. elements relating to manufacture
 
@@ -44,7 +44,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.21.6 Statements relating to distribution only
 
-<a name="4.21.6.1">4.21.6.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [publication statement](/DCRMR/ppdm/Publication-statement/). 
+<a name="4.21.6.1">4.21.6.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
 ## 4.21.7 Statements relating to publication, distribution, etc. and to manufacture
 
@@ -52,7 +52,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.21.7.2">4.21.7.2</a> If a distribution statement is grammatically separable, treat the statement as a distribution statement. 
 
-<a name="4.21.7.3">4.21.7.3</a>  If grammatically inseparable, transcribe them as a [publication statement](/DCRMR/ppdm/Publication-statement/). 
+<a name="4.21.7.3">4.21.7.3</a>  If grammatically inseparable, transcribe them as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
 >Example:  
 ><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>
@@ -63,4 +63,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
-<a name="4.21.7.4">4.21.7.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)). Often the layout of the source will suggest the appropriate treatment.
+<a name="4.21.7.4">4.21.7.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)). Often the layout of the source will suggest the appropriate treatment.
