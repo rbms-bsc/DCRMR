@@ -12,6 +12,8 @@ sidebar:
 
 1. TOC
 {:toc}
+## **Label.**
+A source of information in a manifestation that is a human-readable label that is permanently affixed to the manifestation. *See also* **[Publisher's label](/DCRMR/glossary/P/#Publisher's-label).**
 
 ## **Leaf of plates.**
 A plate in a publication that also has one or more leaves or pages of text (whether preliminary text or text proper). Plates may be described in terms of pages of plates if they are numbered as pages or are unnumbered and have illustrative matter on both sides. *See also* **[Plate](/DCRMR/glossary/P/#Plate).**
