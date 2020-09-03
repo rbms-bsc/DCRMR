@@ -65,28 +65,28 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
->Date of publication: <CITE>anno Domini MDCXIV [1614]</CITE> |
+>Date of publication: <CITE>anno Domini MDCXIV [1614]</CITE> 
 
 >Example:  
->Date of publication: <CITE>MCCCCLXXXII le XV jour de decembre [1482]</CITE> |
+>Date of publication: <CITE>MCCCCLXXXII le XV jour de decembre [1482]</CITE> 
 
 >Example:  
->Date of publication: <CITE>M.D.CC.XLIV [1744]</CITE>|
+>Date of publication: <CITE>M.D.CC.XLIV [1744]</CITE>
 
 <a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
 >Example:  
->Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> |
+>Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
 
 >Example:  
->Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> |
+>Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
 *Alternative rule*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
 >Note on publication statement: <CITE>Date of publication: derived from chronogram in statement of responsibility</CITE>  
->(*Comment:* Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs")</CITE>  
+>(*Comment:* Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs") 
 
 >Example:  
 >Date of publication: <CITE>[1650]</CITE>  
@@ -241,7 +241,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 >Example:  
 >Date of publication: <CITE>1560-1564</CITE>  
->NOTE ON PUBLICATION STATEMENT <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
+>Note on publication statement: <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
 
 ## 4.205.9 Date of publication on part pages
 
