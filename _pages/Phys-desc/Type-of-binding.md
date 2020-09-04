@@ -52,8 +52,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>In yellow wrappers with illustrations on page [2] and [3], and publisher's advertisement on page [4]</CITE>
 
-<a name="5.224.3.2">5.224.3.2</a> *Optionally*, record specific types of binding using one or more terms from the [RDA Value Vocabularies, RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/),
- the [RBMS Controlled Vocabularies, Binding Terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm), or other controlled vocabularies. Indicate the source of the term.
+<a name="5.224.3.2">5.224.3.2</a> *Optionally*, record specific types of binding using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/),
+ the [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm), or other controlled vocabularies. Indicate the source of the term.
 
 <a name="5.224.3.3">5.224.3.3</a> Details of a binding recorded here usually apply to all exemplars of a manifestation. Summaries of binding details that apply to particular groups of exemplars within an edition or issue may also be recorded.
 
