@@ -40,14 +40,14 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ><CITE>Library copy leaf size: 209 x 143 mm</CITE>
 
 >Example:  
-> <CITE>Library of Congress copy folded to 19 x 13 cm. Top edge trimmed to 19 cm with some loss of text</CITE>
+><CITE>Library of Congress copy folded to 19 x 13 cm. Top edge trimmed to 19 cm with some loss of text</CITE>
 
 >Example:  
-> <CITE>Library copy: Sheet trimmed to within thread margin of plate mark on two sides</CITE>
+><CITE>Library copy: Sheet trimmed to within thread margin of plate mark on two sides</CITE>
 
 <a name="8.24.3.3">8.24.3.3</a> Record the folded dimensions of a sheet not folded as issued in a note on dimensions of item if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.7.3](/DCRMR/phys-desc/Dimensions/#5.21.7.3)).
 
 >Example:  
-> <CITE>Folded by later owner to 24 x 19 cm</CITE>
+><CITE>Folded by later owner to 24 x 19 cm</CITE>
 
 <a name="8.24.3.4">8.24.3.4</a> Record the dimensions of a container not issued with the resource in a note on dimensions of item, if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.8.2](/DCRMR/phys-desc/Dimensions/#5.21.8.2)).

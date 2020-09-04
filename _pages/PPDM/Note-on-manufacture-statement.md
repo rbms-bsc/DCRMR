@@ -51,7 +51,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.5.2)).
 
 >Example:  
-><CITE>Cosmopoli [i.e. London]</CITE>  
+>Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
 >Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC).</CITE>  
 >(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
 
@@ -66,7 +66,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.226.5.2">4.226.5.2</a> Make a note on manufacture statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [4.223.5.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.2)).
 
 >Example:  
-><CITE>[Robert Bryson]</CITE>  
+>Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
 >Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
 >(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
 
@@ -94,7 +94,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.8.3">4.226.8.3</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
-*Alternately*, make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
+*Alternative rule*, make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
 <a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
 

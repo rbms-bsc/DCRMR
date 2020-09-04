@@ -55,8 +55,8 @@ folio
 >(*Comment*: A publication in quarto)
 
 >Example:  
-><CITE>4to</CITE>  
-><CITE>8vo</CITE>  
+>Bibliographic format: <CITE>4to</CITE>  
+>Bibliographic format: <CITE>8vo</CITE>  
 >(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
 
 <a name="5.222.3.2">5.222.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.

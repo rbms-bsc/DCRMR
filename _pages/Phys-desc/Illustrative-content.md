@@ -112,15 +112,15 @@ sample
 <a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/Other-notes/Supplementary-content/), [X.X.X.X]((/DCRMR/Other-notes/Supplementary-content/#X.X.X.X)), [Accompanying material](/DCRMR/Other-notes/Accompanying-material/), [X.X.X.X](/DCRMR/Other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.1)).  
 
 >Example:  
->`map`  
->Details of illustrative content: `Folded map in pocket`
+>Illustrative content: <CITE>map</CITE>  
+>Details of illustrative content: <CITE>Folded map in pocket</CITE>
 
 # 5.202.91 Illustrations on endpapers
 
 <a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2)).  
 
 >Example:  
-><CITE>map</CITE>  
+>Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Map on endpapers</CITE>
 
 # 5.202.92 Number of illustrations

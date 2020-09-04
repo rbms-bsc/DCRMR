@@ -63,13 +63,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the [Publication statement](/DCRMR/ppdm/Publication-statement/).
 
 >Example:  
->Publication statement: <CITE>Privately printed</CITE>
+><CITE>Privately printed</CITE>
 
 >Example:  
->Publication statement: <CITE>Privately printed for the Fund for Building National Schools at Lethrede</CITE>
+><CITE>Privately printed for the Fund for Building National Schools at Lethrede</CITE>
 
 >Example:  
->Publication statement: <CITE>Private plate issued exclusively to members of the Bibliophile Society</CITE>
+><CITE>Private plate issued exclusively to members of the Bibliophile Society</CITE>
 
 ## 4.203.4 Publication statements containing grammatically inseparable place names or dates
 

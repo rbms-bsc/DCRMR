@@ -63,7 +63,7 @@ Alternately, substitute for it the date in arabic numerals in square brackets. I
 
 <a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
-*Alternately*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
+*Alternative rule*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
 >Example:  
 >Date of distribution: <CITE>1689 [i.e.1690]</CITE>  

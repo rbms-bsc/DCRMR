@@ -54,5 +54,5 @@ X.X. In citing other works and other manifestations of the same work (other than
 <a name="7.23.6.2">7.23.6.2</a> If accompanying material is issued in a pocekt attached to a publication, specify the location in a note.
 
 >Example:  
-><CITE>; 30 cm (4to) +2 folded maps</CITE>
+>Related manifestation of RDA entity: <CITE>; 30 cm (4to) +2 folded maps</CITE>  
 >Accompanied by manifestation: <CITE>Maps in pocket on inside back cover.</CITE>

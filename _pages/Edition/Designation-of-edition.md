@@ -65,7 +65,7 @@ part of a statement being transcribed in the production, publication, distributi
 <a name="3.21.6.2">3.21.6.2</a> **Alternative rule** If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/), [X.X.X](/DCRMR/introduction/Precataloging-decisions/#X.X.X)), and the manifestation lacks a designation of edition, then transcribe statements containing words such as “impression” or “printing” as a designation of edition. If the manifestation has a designation of edition, then transcribe such statements as a [Designation of a named revision of edition](/DCRMR/edition/Designation-of-a-named-revision-of-edition/) (see [3.25.3.1](/DCRMR/edition/Designation-of-a-named-revision-of-edition/#3.25.3.1)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
 >Example:  
-> <CITE>Third printing January, 1975</CITE>
+><CITE>Third printing January, 1975</CITE>
 
 ## 3.21.7 Recording Designation of edition
 
@@ -118,17 +118,17 @@ omit it from the transcription without using the mark of omission.  Record such 
 >Example:  
 >Optional note on item: <CITE>Library's copy: Publisher's code "B-O" on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>  
 
-**Alternative rule:** If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or item within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/), [X.X.X](/DCRMR/introduction/Precataloging-decisions/#X.X.X)) and the manifestation lacks a Designation of edition, transcribe statements such as the following as a designation of edition, even if they represent a substantially unchanged impression of that edition: a statement consisting entirely or chiefly of characters that are neither numeric nor alphabetic; a statement consisting of one or more letters or numbers without accompanying words; or a statement consisting only of words that convey numbers. Supply appropriate words or abbreviations in square brackets, as needed.  If the manifestation has a Designation of edition, then transcribe such statements as a [Designation of a named revision of an edition](/DCRMR/edition/Designation-of-a-named-revision-of-edition/) (see [3.25.3.1](/DCRMR/edition/Designation-of-a-named-revision-of-edition/#3.25.3.1)). Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
+**Alternative rule** If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or item within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/), [X.X.X](/DCRMR/introduction/Precataloging-decisions/#X.X.X)) and the manifestation lacks a Designation of edition, transcribe statements such as the following as a designation of edition, even if they represent a substantially unchanged impression of that edition: a statement consisting entirely or chiefly of characters that are neither numeric nor alphabetic; a statement consisting of one or more letters or numbers without accompanying words; or a statement consisting only of words that convey numbers. Supply appropriate words or abbreviations in square brackets, as needed.  If the manifestation has a Designation of edition, then transcribe such statements as a [Designation of a named revision of an edition](/DCRMR/edition/Designation-of-a-named-revision-of-edition/) (see [3.25.3.1](/DCRMR/edition/Designation-of-a-named-revision-of-edition/#3.25.3.1)). Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
 >Example:  
-><CITE>51st-100th</CITE>  
+>Designation of edition: <CITE>51st-100th</CITE>  
 >Note on edition statement: <CITE>The words "51st-100th" taken from t.p. verso</CITE>
 
 If identification of the substantially unchanged impression is based on a publisherʹs code or number line or on information found in a reference source, supply an
 appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
 >Example:  
-><CITE>[1st printing]</CITE>  
+>Designation of edition: <CITE>[1st printing]</CITE>  
 >Note on Edition Statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"[2] .</CITE>
 
 ## 3.21.9 Designations of edition in more than one language and script

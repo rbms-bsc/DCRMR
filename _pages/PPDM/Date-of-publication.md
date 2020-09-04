@@ -65,21 +65,21 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
->Date of publication: <CITE>anno Domini MDCXIV [1614]</CITE> 
+><CITE>anno Domini MDCXIV [1614]</CITE> 
 
 >Example:  
->Date of publication: <CITE>MCCCCLXXXII le XV jour de decembre [1482]</CITE> 
+><CITE>MCCCCLXXXII le XV jour de decembre [1482]</CITE> 
 
 >Example:  
->Date of publication: <CITE>M.D.CC.XLIV [1744]</CITE>
+><CITE>M.D.CC.XLIV [1744]</CITE>
 
 <a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
 
 >Example:  
->Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
+><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
 
 >Example:  
->Date of publication: <CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
+><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
 *Alternative rule*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
@@ -106,10 +106,10 @@ Please use the comment feature in the Google Document or the Google Form linked 
 *Alternative rule:* supply the actual date in square brackets.
 
 >Example:  
->Date of publication: <CITE>1703 [i.e. 1730]</CITE>
+><CITE>1703 [i.e. 1730]</CITE>
 
 >Example:  
->Date of publication: <CITE>Octr. 42 [i.e. 24], 1799</CITE>
+><CITE>Octr. 42 [i.e. 24], 1799</CITE>
 
 >Example:  
 >Date of publication: <CITE>1887 [i.e. 1899]</CITE>  

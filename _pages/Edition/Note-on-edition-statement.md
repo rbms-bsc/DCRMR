@@ -47,10 +47,10 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="3.29.3.2">3.29.3.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.20.3.2](/DCRMR/edition/Edition-statement/#3.20.3.2), [3.21.9.1](/DCRMR/edition/Designation-of-edition/#3.21.9.1), [3.28.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.4), [3.23.5.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.5.3), [3.23.6.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.6.3), [3.24.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.24.3.4), [3.25.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.3.2), and [3.27.4.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.27.4.3)).
 
 >Example:  
-> The statement “amplified edition” precedes title on title page
+> <CITE>The statement “amplified edition” precedes title on title page</CITE>
 
 >Example:  
-> Edition statement precedes author’s name on title page
+> <CITE>Edition statement precedes author’s name on title page</CITE>
 
 ## 3.29.4 No Edition statement
 
@@ -81,14 +81,14 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="3.29.7.1">3.29.7.1</a> Make a note on edition statement of differences in edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.20.9.1](/DCRMR/edition/Edition-statement/#3.20.9.1)).  If edition statements of parts vary between exemplars of manifestation, record the edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X) and [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
 
 >Example:  
-> Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.
+> <CITE>Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.</CITE>
 
 >Example:  
-> Imprint varies: v. 4-5, Printed for Charles Bathurst and Lawton Gilliver; v. 7-8, Printed for T. Woodward and C. Davis; v. 9-11, Printed for C. Davis and C. Bathurst.
+> <CITE>Imprint varies: v. 4-5, Printed for Charles Bathurst and Lawton Gilliver; v. 7-8, Printed for T. Woodward and C. Davis; v. 9-11, Printed for C. Davis and C. Bathurst.</CITE>
 
 ## 3.29.8 Edition statements on multipart monographs
 
 <a name="3.29.8.1">3.29.8.1</a> If the [Edition statement](/DCRMR/edition/Edition-statement/) varies or does not appear on all volumes of a multipart monograph, and it was issued as such, make a note on edition statement explaining which edition statement appears on which volume and/or indicating the absence of edition statements, if considered important.
 
 >Example:  
-> V. 2 issued without an edition statement
+> <CITE>V. 2 issued without an edition statement</CITE>

@@ -72,10 +72,10 @@ mixed color
 one color  
 
 >Example:  
-> <CITE>hand colored</CITE>     
-> Details of colour content: <CITE>Illustrations are hand-colored, as issued</CITE>  
+>Colour content: <CITE>hand colored</CITE>     
+>Details of colour content: <CITE>Illustrations are hand-colored, as issued</CITE>  
 >(*Comment:* Title contains statement "embellished with colored engravings")
  
 >Example:  
-> <CITE>hand colored</CITE>    
+>Colour content: <CITE>hand colored</CITE>    
 >Details of colour content: <CITE>Wood engravings hand-colored, as issued</CITE>

@@ -66,7 +66,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="5.203.9.2">5.203.9.2</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.91.1](/DCRMR/phys-desc/Illustrative-content/#5.202.91.1)). 
 
 >Example:  
-> Illustrative content: <CITE>map</CITE>  
+>Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Map on endpapers</CITE> 
 
 >Example:  

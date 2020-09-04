@@ -40,7 +40,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >*Comment:* <CITE> Statement indicates the publication is a revision of the third edition) </CITE>
 
 >Example:    
->Designation of named revision of edition: <CITE> corrected in conformity with the rules of H.T. 1834, and the decisions thereon </CITE>  
+>Designation of named revision of edition: <CITE>corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>  
 >Designation of edition: <CITE>the fourth edition</CITE>
 
 <a name="3.25.3.2">3.25.3.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)) to indicate the original position on the source of information of any transposed designation of a named revision of edition.
