@@ -81,7 +81,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.216.5 Notes from Name of distributor
 
-<a name="4.216.5.1">4.216.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’s name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [4.213.5.1](/DCRMR/ppdm/Name-of-distributor/#4.213.5.1)).
+<a name="4.216.5.1">4.216.5.1</a> *Optionally*, make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’s name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [4.213.5.1](/DCRMR/ppdm/Name-of-distributor/#4.213.5.1)).
 
 <a name="4.216.5.2">4.216.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is based on a device (see [4.213.5.2](/DCRMR/ppdm/Name-of-distributor/#4.213.5.2)).
 

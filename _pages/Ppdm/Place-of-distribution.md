@@ -113,7 +113,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>A Lausanne & se trouve à Paris</CITE>
 
-<a name="4.211.8.2">4.211.8.2</a> *Optionally,* if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+<a name="4.211.8.2">4.211.8.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
 
 >Example:  
 ><CITE>London ; Reading ; Bath ... [and 6 other cities in England]</CITE>

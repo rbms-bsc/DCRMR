@@ -82,7 +82,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.206.5 Notes from Name of publisher
 
-<a name="4.206.5.1">4.206.5.1</a> *Optionally,* make a note on publication statement if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1)).
+<a name="4.206.5.1">4.206.5.1</a> *Optionally*, make a note on publication statement if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1)).
 
 <a name="4.206.5.2">4.206.5.2</a> As necessary, make a note on publication statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is based on a device (see [4.203.5.2](/DCRMR/ppdm/Name-of-publisher/#4.203.5.2)).
 

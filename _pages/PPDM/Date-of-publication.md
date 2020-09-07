@@ -73,7 +73,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>
 
-<a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally,* include the date in Roman numerals in square brackets.
+<a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
@@ -81,7 +81,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-*Alternative rule*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
+**Alternative rule**. substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
@@ -103,7 +103,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates.** If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.3)). 
 
-*Alternative rule:* supply the actual date in square brackets.
+**Alternative rule**. supply the actual date in square brackets.
 
 >Example:  
 ><CITE>1703 [i.e. 1730]</CITE>
@@ -150,7 +150,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>an VII [1798 or 1799]</CITE>  
 >(*Comment:* Year follows French Revolutionary calendar)
 
-*Optionally,* if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
+*Optionally*, if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 >Example:  
 ><CITE>prid. Kal. Dec. [30 Nov.] 1488</CITE>  

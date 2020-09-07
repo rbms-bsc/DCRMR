@@ -68,11 +68,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>illustrations</CITE>
 
-<a name="5.202.7.2">5.202.7.2</a> *Optionally,* disregard minor illustrations. 
+<a name="5.202.7.2">5.202.7.2</a> *Optionally*, disregard minor illustrations. 
 
 # 5.202.8 Types of illustrations 
 
-<a name="5.202.8.1">5.202.8.1</a> *Optionally,* specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies, RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).  
+<a name="5.202.8.1">5.202.8.1</a> *Optionally*, specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies, RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/).  
 
 coat of arms  
 facsimile  

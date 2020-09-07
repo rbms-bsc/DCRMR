@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.226.5 Notes from Name of manufacturer
 
-<a name="4.226.5.1">4.226.5.1</a> *Optionally,* make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1)).
+<a name="4.226.5.1">4.226.5.1</a> *Optionally*, make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1)).
 
 <a name="4.226.5.2">4.226.5.2</a> Make a note on manufacture statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [4.223.5.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.2)).
 
