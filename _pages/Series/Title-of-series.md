@@ -32,7 +32,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 6.21.3 Title Proper of Series
 
-<a name="6.21.3.1">6.21.3.1</a> Transcribe the title of the series as it appears in the manifestation, according to the transcription guidelines (see [0.5.Transcription](/DCRMR/general-rules/Transcription/)).
+<a name="6.21.3.1">6.21.3.1</a> Transcribe the title of the series as it appears in the manifestation, according to the transcription guidelines (see [Transcription](/DCRMR/general-rules/Transcription/)).
+
 >Example:    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  
 
@@ -48,7 +49,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:    
 ><CITE>Collection de documents historiques</CITE>  
 
-<a name="6.21.3.2">6.21.3.2</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/).
+<a name="6.21.3.2">6.21.3.2</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/) (see [1.21.X.X](/DCRMR/title/Title-proper/#1.21.X.X)). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [6.22.X.X](/DCRMR/series/Parallel-title-of-series/#6.22.X.X)).
 
 <a name="6.21.3.3">6.21.3.3</a> If the series title includes a statement of responsibility or numbering that is an integral part of the title, transcribe it as part of the title of the series.
 
@@ -70,7 +71,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 6.21.4 Subseries
 
-<a name="6.21.4.1">6.21.4.1</a> If both a main series and a subseries appear on the resource, record  the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). 
+<a name="6.21.4.1">6.21.4.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). 
 
 >Example:    
 ><CITE>Parlour library. Shilling series</CITE>  
@@ -79,7 +80,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Title of series: <CITE>What every child should know library. The fourth series</CITE>    
 >Note on series statement: <CITE>Series title from head of title page; subseries title from endpapers</CITE>   
 
-<a name="6.21.4.2">6.21.4.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of the [Numbering within sequence](/DCRMR/series/Numbering-within-sequence) element.
+<a name="6.21.4.2">6.21.4.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence) (see [6.27.X.X](/DCRMR/series/Numbering-within-sequence/#6.27.X.X)).
 
 >Example:    
 ><CITE>What every child should know library. The fourth series</CITE>    
