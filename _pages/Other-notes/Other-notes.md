@@ -8,6 +8,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.7 errata](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit)
+
 ## 7.01 Sources of information 
 
 <a name="7.01.1">7.01.1</a> Take information from any suitable source.  Square brackets are required only for interpolations within quoted material. 

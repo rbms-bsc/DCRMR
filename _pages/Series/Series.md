@@ -7,6 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.6 errata](https://docs.google.com/document/d/1-ZWQGu_ouVQ7UluDNDk86hr2_aBqsUzI6Re9MU3KVqo/edit)
+
 ## 6.01 Sources of information 
 
 <a name="6.01.1">6.01.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information, if considered important (see [Title of item](/DCRMR/title/Title-of-item/) [1.26.X.X](/DCRMR/title/Title-of-item/#1.26.X.X)).
@@ -32,7 +36,7 @@ sidebar:
 
 [Chapter 6.24 Parallel other title information of series](/DCRMR/series/Parallel-other-title-information-of-series/)
 
-[Chapter 6.25 Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-seriest/)
+[Chapter 6.25 Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/)
 
 [Chapter 6.26. Parallel statement of responsibility relating to series](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/)
 

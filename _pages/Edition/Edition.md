@@ -8,6 +8,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.3 errata](https://docs.google.com/document/d/1DqZ9-Ti8K8sHmcmPWpP4tH-ENfIOKGhHwR9XuZ9HwOk/edit)
+
 ## 3.01 Sources of information
 
 <a name="3.01.1">3.01.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see introductory section X.X.X.X), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)). Do not take an edition statement from a source outside the manifestation itself.

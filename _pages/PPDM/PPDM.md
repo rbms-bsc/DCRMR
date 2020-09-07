@@ -8,6 +8,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.4 errata](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit)
+
 ## 4.01 Sources of information
 
 <a name="4.01.1">4.01.1</a> The sources of information for the all production, publication, distribution and manufacture elements are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/introduction/Integrity-of-the-copy/)), in that order of preference. Consider the wording, layout, and typography of the manifestation itself when determining the most appropriate place to transcribe information relating to production,  publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statements.  However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.

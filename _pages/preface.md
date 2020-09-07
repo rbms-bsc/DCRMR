@@ -8,6 +8,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to preface errata](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit)
+
 DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right. 
 
 The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set intended to be an integrated and consolidated manual which will eventually include specific instructions for other rare materials forms (e.g. music, serials).  Currently, the DCRMR allows for RDA compliant rare book cataloging.
@@ -19,7 +23,7 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 Elizabeth Hobart, Special Collections Cataloging Librarian, PennState University Libraries
 
 # Editorial Group Members
-Amy Brown, Head, Special Collections Collections Technical Services, Boston College
+Amy Brown, Head, Special Collections Technical Services, Boston College
 
 Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 
@@ -60,7 +64,7 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 
 [Background](/preface/Background/)
 
-[Changes from DCRM(B)](/preface/Changes-from-DCRB/)
+[Changes from DCRM(B)](/preface/Changes-from-DCRM(B))
 
 [Future work](/preface/Future-work/)
 

@@ -7,6 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.1 errata](https://docs.google.com/document/d/1ZQrHST262NmyQBIjqDihNGPaU_Y9rKCN2wiRPtwm-D8/edit)
+
 ## Table of Contents
 {: .no_toc }
 

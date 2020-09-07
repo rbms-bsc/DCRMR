@@ -7,6 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to introduction errata](https://docs.google.com/document/d/17-0bvv70S3LwYd8BZiG7odso6RRMXySXn4QvOemTgEk/edit)
+
 ## Table of Contents
 {: .no_toc }
 
@@ -20,7 +24,7 @@ sidebar:
 
 [V. Language preferences](/DCRMR/introduction/Language-preferences/)
 
-[VI. Spelling and style](/DCRMR/introduction/Spellin- and-style/)
+[VI. Spelling and style](/DCRMR/introduction/Spelling-and-style/)
 
 [VII. Acronyms](/DCRMR/introduction/Acronyms/)
 
