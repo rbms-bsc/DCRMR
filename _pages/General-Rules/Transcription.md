@@ -28,7 +28,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.5.31.5](/DCRMR/general-rules/Transcription/#0.5.31.5)). 
 
-If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728) and consistently apply it throughout the resource description.
+If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target=”blank”}) and consistently apply it throughout the resource description.
 
 ## 0.5.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
