@@ -73,7 +73,7 @@ However, if the manifestation bears a cover or case issued with the resource tha
 <a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources.** If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 
 + the whole sheet, recto and verso, including any permanently affixed labels issued with the resource
-+ an original container or case issued with the resource (e.g., a  portfolio, cover, or envelope).
++ an original container or case issued with the resource (e.g., a  portfolio, cover, or envelope)
 
 <a name="0.2.5.3">0.2.5.3</a> **Multipart monographs.** Choose as the preferred source of information a source of information identifying the manifestation as a whole, preferring a source that has a collective title, regardless of whether or not the parts are numbered.
 
@@ -91,13 +91,13 @@ Hereafter in these rules, “title page” means “title page or title page sub
 
 <a name="0.2.5.5">0.2.5.5</a> **More than one preferred source of information.** If there is more than one source of information that qualifies as the preferred source of information for the manifestation, choose as the preferred source of information one of the following, applying the first applicable criterion:
 
-+ **Preferred sources of information for the reproduction and the original.**
++ **Preferred sources of information for the reproduction and the original**
 If the manifestation is a facsimile or reproduction of an original manifestation and the manifestation contains a preferred source of information for the reproduction as well as a preferred source of information for the original, then use the source for the reproduction as the preferred source.
-+ **Preferred sources of information with different dates.**
++ **Preferred sources of information with different dates**
 If a manifestation is not a multipart monograph or serial and the manifestation contains preferred sources of information with different dates, then use the source with the later or latest date.
-+ **Preferred sources of information in letterpress and non-letterpress.**
++ **Preferred sources of information in letterpress and non-letterpress**
 If the manifestation contains one preferred source that is in letterpress and one that is not (e.g., engraved), use the source that is in letterpress.
-+ **Preferred sources of information in different languages or scripts.**
++ **Preferred sources of information in different languages or scripts**
 If the manifestation contains preferred sources in more than one language or script, use as the preferred source (in this order of preference):
      1. the source in the language or script that corresponds to the language or script of the content of the resource
      2. the source in the language or script that corresponds to the predominant language or script of the content of the resource
@@ -105,7 +105,7 @@ If the manifestation contains preferred sources in more than one language or scr
      4. the source in the original language or script of the content, if the resource contains the same content in more than one language or script and the original language or script can be identified
      5. the first occurring of the sources
      6. the source in the language or script preferred by the agency preparing the description, if the resource is formatted
-+ **Order of sources of information.**
++ **Order of sources of information**
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
 Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume.
