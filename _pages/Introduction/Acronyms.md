@@ -23,33 +23,33 @@ Please use the comment feature in the Google Document or the Google Form linked 
 ## VII. Acronyms
 
 |3R Project	|RDA Toolkit Restructure and Redesign Project|
-|AACR2 	|Anglo-American Cataloguing Rules, second edition|
-|BDRB	|Bibliographic Description of Rare Books|
+|AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
+|BDRB	|*Bibliographic Description of Rare Books*|
 |BIBCO	|Monographic Bibliographic Record Program of the PCC|
 |BIBFRAME|Bibliographic Framework|
 |BSC	|Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association|
-|BSR	|Bibliographic Standard Record|
+|BSR	|BIBCO Standard Record|
 |CC:DA	|Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association|
 |CONSER	|Cooperative Online Serials Program|
-|DCRB	|Descriptive Cataloging of Rare Books|
+|DCRB	|*Descriptive Cataloging of Rare Books*|
 |DCRM	|Descriptive Cataloging of Rare Materials|
-|DCRM(B)|Descriptive Cataloging of Rare Materials (Books)|
+|DCRM(B)|*Descriptive Cataloging of Rare Materials (Books)*|
 
-|DCRM(C) |Descriptive Cataloging of Rare Materials (Cartographic)|
-|DCRM(G)|Descriptive Cataloging of Rare Materials (Graphics)|
-|DCRM(M)|Descriptive Cataloging of Rare Materials (Music)|
-|DCRM(MSS)|Descriptive Cataloging of Rare Materials (Manuscripts)|
-|DCRM(S)|Descriptive Cataloging of Rare Materials (Serials)|
-|DCRMR	|Descriptive Cataloging of Rare Materials (RDA)|
+|DCRM(C) |*Descriptive Cataloging of Rare Materials (Cartographic)*|
+|DCRM(G)|*Descriptive Cataloging of Rare Materials (Graphics)*|
+|DCRM(M)|*Descriptive Cataloging of Rare Materials (Music)*|
+|DCRM(MSS)|*Descriptive Cataloging of Rare Materials (Manuscripts)*|
+|DCRMR	|*Descriptive Cataloging of Rare Materials (RDA Edition)*|
+|DCRM(S)|*Descriptive Cataloging of Rare Materials (Serials)*|
 |ISBD	|International Standard Bibliographic Description|
 |FRBR	|Functional Requirements for Bibliographic Records|
 |LC	|Library of Congress|
-|LC/PCC PS |	Library of Congress/Program for Cooperative Cataloging Policy Statements|
-|LCRI	|Library of Congress Rule Interpretations|
-|LRM	|Library Reference Model|
-|MARC	|Machine Readable Cataloging|
+|LC/PCC PS |	*Library of Congress/Program for Cooperative Cataloging Policy Statements*|
+|LCRI	|*Library of Congress Rule Interpretations*|
+|LRM	|*Library Reference Model*|
+|MARC	|MAchine Readable Cataloging|
 |PCC	|Program for Cooperative Cataloging|
 |RBMS	|Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association|
 |RBMS PS|RBMS Policy Statements|
-|RDA	|Resource Description and Access| 
+|RDA	|*Resource Description and Access*| 
 |RSC    |RDA Steering Committee|
