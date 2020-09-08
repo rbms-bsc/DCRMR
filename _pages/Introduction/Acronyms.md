@@ -22,6 +22,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## VII. Acronyms
 
+|---|---|
 |3R Project	|RDA Toolkit Restructure and Redesign Project|
 |AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
 |BDRB	|*Bibliographic Description of Rare Books*|
