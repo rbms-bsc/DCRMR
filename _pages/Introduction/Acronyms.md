@@ -34,11 +34,17 @@ Please use the comment feature in the Google Document or the Google Form linked 
 |DCRB	|Descriptive Cataloging of Rare Books|
 |DCRM	|Descriptive Cataloging of Rare Materials|
 |DCRM(B)|Descriptive Cataloging of Rare Materials (Books)|
+
+|DCRM(C) |Descriptive Cataloging of Rare Materials (Cartographic)|
+|DCRM(G)|Descriptive Cataloging of Rare Materials (Graphics)|
+|DCRM(M)|Descriptive Cataloging of Rare Materials (Music)|
+|DCRM(Mss)|Descriptive Cataloging of Rare Materials (Manuscripts)|
+|DCRM(S)|Descriptive Cataloging of Rare Materials (Serials)|
 |DCRMR	|Descriptive Cataloging of Rare Materials (RDA)|
 |ISBD	|International Standard Bibliographic Description|
 |FRBR	|Functional Requirements for Bibliographic Records|
 |LC	|Library of Congress|
-|LC/PCC |PS	Library of Congress/Program for Cooperative Cataloging Policy Statements|
+|LC/PCC PS |	Library of Congress/Program for Cooperative Cataloging Policy Statements|
 |LCRI	|Library of Congress Rule Interpretations|
 |LRM	|Library Reference Model|
 |MARC	|Machine Readable Cataloging|
