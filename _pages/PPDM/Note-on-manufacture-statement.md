@@ -53,7 +53,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
 >Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC).</CITE>  
->(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
+>(*Comment*: The formal citation for STC  is given in a References to published descriptions note)
 
 <a name="4.226.4.4">4.226.4.4</a> Make a note on manufacture statement to indicate the original position on the source of any transposed statements for descriptions created according to ISBD order of elements (see [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.6.3](/DCRMR/ppdm/Place-of-manufacture/#4.221.6.3)).
 
@@ -68,7 +68,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
 >Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
 
 <a name="4.226.5.3">4.226.5.3</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.223.6.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.6.1)).
 

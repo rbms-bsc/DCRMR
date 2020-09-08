@@ -107,12 +107,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
->(*Comment:* The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
+>(*Comment*: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
 >
 >but
 >
 ><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
->(*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement)
+>(*Comment*: The engraver statement containing the name of the publisher has been transcribed as the publication statement)
 
 ## 4.20.9 No publication statement
 

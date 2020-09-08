@@ -163,7 +163,7 @@ sample
 
 <a name="5.202.93.2">5.202.93.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally,* when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3)), precede the term specifying the particular type with "chiefly".                 
+*Optionally*, when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3)), precede the term specifying the particular type with "chiefly".                 
 
 >Example:  
 > <CITE>chiefly illustrations</CITE>

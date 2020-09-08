@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>In Boston, printed</CITE>  
->(*Comment:* Title page reads: “In Boston, printed. 1705.” Following provisions of 4D3, “printed” is here transcribed with the place)
+>(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of 4D3, “printed” is here transcribed with the place)
 
 >Example:  
 ><CITE>Printed at Bennington</CITE>
@@ -184,11 +184,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>[Paris]</CITE>  
->(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+>(*Comment*: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
 
 >Example:  
 ><CITE>[London]</CITE>  
->(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
+>(*Comment*: Imprint reads: “sold in St. Paul’s Church Yard”)
 
 ## 4.201.99 Place of publication uncertain or unknown
 <a name="4.201.99.1">4.201.99.1</a> If the place of publication is uncertain, supply the name of a probable place of publication with a question mark, using a modern English form of the name, if there is one, all in square brackets.

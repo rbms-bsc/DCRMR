@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
 >Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC)</CITE>  
->(*Comment:* The formal citation for STC  is given in a References to published descriptions note)
+>(*Comment*: The formal citation for STC  is given in a References to published descriptions note)
 
 <a name="4.221.5.3">4.221.5.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 

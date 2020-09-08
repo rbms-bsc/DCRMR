@@ -56,7 +56,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
 >Note on statement of responsibility: <CITE>The statement "by John Whitehurst" appears on the title page after the edition statement</CITE>  
->(*Comment:* Statement of responsibility applies to all editions.)
+>(*Comment*: Statement of responsibility applies to all editions.)
 
 ## 3.23.5 Phrases about notes, appendixes, etc.
 

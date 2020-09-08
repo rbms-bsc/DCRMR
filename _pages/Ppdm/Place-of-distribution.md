@@ -59,7 +59,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>In Boston, printed</CITE>  
->(*Comment:* Title page reads: “In Boston, printed. 1705.” Following provisions of X.X.X.X, “printed” is here transcribed with the place)
+>(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of X.X.X.X, “printed” is here transcribed with the place)
 
 >Example:  
 ><CITE>Printed at Bennington</CITE>
@@ -182,11 +182,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>[Paris]</CITE>  
->(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+>(*Comment*: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
 
 >Example:  
 ><CITE>[London]</CITE>  
->(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
+>(*Comment*: Imprint reads: “sold in St. Paul’s Church Yard”)
 
 ## 4.211.99 Place of distribution uncertain or unknown
 

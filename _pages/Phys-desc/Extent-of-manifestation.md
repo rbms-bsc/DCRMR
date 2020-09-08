@@ -99,12 +99,12 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 
 >Example:  
 ><CITE>[2], 40 pages</CITE>  
->(*Comment:* Pages are numbered 3-40 with four unnumbered pages at the beginning)
+>(*Comment*: Pages are numbered 3-40 with four unnumbered pages at the beginning)
 > 
 >but  
 > 
 ><CITE>[2], 5-40 pages</CITE>  
->(*Comment:* Pages are numbered 5-40 with two unnumbered pages at the beginning; there is no evidence that any leaves are missing)
+>(*Comment*: Pages are numbered 5-40 with two unnumbered pages at the beginning; there is no evidence that any leaves are missing)
 
 <a name="5.20.5.3">5.20.5.3</a> Record unnumbered blank pages or blank leaves interrupting a numbered sequence by enclosing the number of unnumbered pages or leaves in square brackets between page or leaf numbers where the interruption occurs.
 
@@ -189,7 +189,7 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 
 >Example:  
 > Extent of manifestation: <CITE>pages [1], 432-488</CITE>  
-> (*Comment:* An offprint from Memoirs of the Literary and Philosophical Society of Manchester, volume 4, part 2, Manchester, 1796)
+> (*Comment*: An offprint from Memoirs of the Literary and Philosophical Society of Manchester, volume 4, part 2, Manchester, 1796)
 
 <a name="5.20.8.6">5.20.8.6</a> If a manifestation contains  multiple sequences of numbered or unnumbered pages, leaves, or columns, preferably record all of the sequences in the form and sequence presented. 
 
@@ -303,7 +303,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [5.20.8.2]
 >Example:  
 > Extent of manifestation: <CITE>142 pages (incomplete)</CITE>  
 > Note on extent of manifestation: <CITE>Extent based on incomplete copy</CITE>     
->(*Comment:* No other known copy found)
+>(*Comment*: No other known copy found)
 
 ### 5.20.96 Sheets, rolls, cases, portfolios, etc.
 
@@ -320,23 +320,23 @@ If the portfolio or case was not issued with the resource, record the extent in 
 
 >Example:  
 > <CITE>1 sheet (2 pages)</CITE>    
-> (*Comment:* Sheet of any size printed on both sides, numbered)
+> (*Comment*: Sheet of any size printed on both sides, numbered)
 
 >Example:  
 > <CITE>1 sheet ([2] pages)</CITE>  
-> (*Comment:* Sheet of any size printed on both sides, unnumbered)  
+> (*Comment*: Sheet of any size printed on both sides, unnumbered)  
 
 > Example:  
 > <CITE>1 sheet (3 pages)</CITE>   
-> (*Comment:* Folded sheet with title and colophon printed as  two pages on “outside;” all text printed as one page occupying the entire “inside”)  
+> (*Comment*: Folded sheet with title and colophon printed as  two pages on “outside;” all text printed as one page occupying the entire “inside”)  
 
 > Example:  
 > <CITE>1 sheet (1 page)</CITE>    
-> (*Comment:* Broadside or other sheet printed on one side, numbered)  
+> (*Comment*: Broadside or other sheet printed on one side, numbered)  
 
 >Example:  
 > <CITE>1 sheet ([1] page)</CITE>   
-> (*Comment:* Broadside or other sheet printed on one side, unnumbered)  
+> (*Comment*: Broadside or other sheet printed on one side, unnumbered)  
 
 <a name="5.20.97.2">5.20.97.2</a> For a manifestation consisting of a single sheet folded into multiple panels,  record the number of physical panels on one side of the sheet when unfolded. Include both blank panels and panels containing text or illustrations in the count. Enclose the number in square brackets if the panels are unnumbered. Record features of the sheet’s layout (including the numbering of the panels) in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [5.221.3.1](/DCRMR/phys-desc/Details-of-layout/#5.221.3.1)).
 

@@ -76,7 +76,7 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 >Example:  
 >Date of distribution: <CITE>1661 [i.e. 1662]</CITE>  
 >Note on distribution statement: <CITE>The year is given according to Lady Day dating</CITE>  
->(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
+>(*Comment*: "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 
@@ -87,13 +87,13 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 >Example:  
 ><CITE>An III [1794 or 1795]</CITE>  
->(*Comment:* Date of imprint follows French Revolutionary calendar)
+>(*Comment*: Date of imprint follows French Revolutionary calendar)
 
 *Optionally*, if the date of distribution includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 >Example:  
 ><CITE>die visitationis Beatae Virginis Mariae [July 2] 1497</CITE>  
->(*Comment:* Day and month follow ecclesiastical calendar)
+>(*Comment*: Day and month follow ecclesiastical calendar)
 
 <a name="4.215.4.7">4.215.4.7</a> **Multiple adjustments or additions.** If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for source of supplied dates (see [4.216.8.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.5)).
 

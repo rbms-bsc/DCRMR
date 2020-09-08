@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Details of colour content: <CITE>With hand-colored wood engravings, as issued</CITE>  
 >Colour content: <CITE>hand colored</CITE>   
->(*Comment:* Title contains statement “with brightly-colored pictures”)
+>(*Comment*: Title contains statement “with brightly-colored pictures”)
 
 >Example:  
 >Details of colour content: <CITE>Lithographs are hand-colored, as issued</CITE>

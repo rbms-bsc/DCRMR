@@ -86,7 +86,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
 >Note on publication statement: <CITE>Date of publication: derived from chronogram in statement of responsibility</CITE>  
->(*Comment:* Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs") 
+>(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs") 
 
 >Example:  
 >Date of publication: <CITE>[1650]</CITE>  
@@ -126,7 +126,7 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 >Example:  
 >Date of publication: <CITE>1743 [i.e. 1744]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
->(*Comment:* "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
+>(*Comment*: "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
 >Example:  
 >Date of publication: <CITE>Februar. 8. anno 1588 [i.e. 1589]</CITE>  
@@ -144,11 +144,11 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 >Example:   
 ><CITE>627 [1866 or 1867]</CITE>  
->(*Comment:* Year follows Hebrew calendar)
+>(*Comment*: Year follows Hebrew calendar)
 
 >Example:  
 ><CITE>an VII [1798 or 1799]</CITE>  
->(*Comment:* Year follows French Revolutionary calendar)
+>(*Comment*: Year follows French Revolutionary calendar)
 
 *Optionally*, if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
@@ -169,7 +169,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 >Example:  
 >Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, i.e. 1539]</CITE>  
@@ -186,7 +186,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description.
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description.
 
 ## 4.205.6 Conjectural date of publication
 
@@ -197,16 +197,16 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >Date of publication: <CITE>[1814?]</CITE>  
 >Note on manifestation: <CITE>At head of title: December 25, 1814</CITE>  
->(*Comment:* Date at head of title is the date of the proclamation, not the date of publication)
+>(*Comment*: Date at head of title is the date of the proclamation, not the date of publication)
 
 >Example:  
 ><CITE>[1776]</CITE>  
->(*Comment:* The title includes the date “Ad d. XVIII. Octobris MDCCLXXVI” when the thesis was publicly defended by the author)
+>(*Comment*: The title includes the date “Ad d. XVIII. Octobris MDCCLXXVI” when the thesis was publicly defended by the author)
 
 >Example:  
 >Date of publication: <CITE>[1879?]</CITE>  
 >Note on manifestation: <CITE>At head of title: Revised in accordance with the Treaty of Berlin, 1878</CITE>  
->(*Comment:* The date at head of title is not the date of publication)
+>(*Comment*: The date at head of title is not the date of publication)
 
 ## 4.205.7 Patterns for supplying a conjectural date
 

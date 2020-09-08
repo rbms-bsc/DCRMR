@@ -144,6 +144,6 @@ If the source of information is not the manifestation that is being described, e
 >Example:  
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
 >Note on title: <CITE>Title from Bartsch, 1001.339</CITE>   
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description.)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
 
 *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.

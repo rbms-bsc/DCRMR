@@ -140,7 +140,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 > Example:  
 > <CITE>Signatures: [1-4⁸][5-6⁶][7⁸]</CITE>  
-> (*Comment:* Volume is completely unsigned)
+> (*Comment*: Volume is completely unsigned)
 
 In general, record signatures for incunabula, especially if identical signatures are not given in a standard bibliographic source. In general, also record signatures when a volume has no pagination or foliation.
 
@@ -157,31 +157,31 @@ If the gatherings are signed with other unavailable characters, substitute a des
 
 > Example:  
 > <CITE>Signatures: *⁸ [double dagger]⁸ A-M⁸ N⁴</CITE>   
-> (Comment: Gathering is signed with ![Double-dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger"))
+> (*Comment*: Gathering is signed with ![Double-dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger"))
 
 > Example:  
 > <CITE>Signatures: [manicule]⁶ A⁸ B⁶ C⁸ d-g⁶/⁸ h-k⁶ L-M⁶</CITE>  
-> (Comment: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
+> (*Comment*: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
 
 > Example:  
 > <CITE>Signatures: [fist]⁴ A-D⁸ E⁸(±E2) F-G⁸ H⁴ I²</CITE>  
-> (Comment: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
+> (*Comment*: Gathering is signed with ![Fist](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fist.jpg "Fist"))
 
 > Example:  
 > <CITE>Signatures: [fleuron]⁸ A⁴B-Y⁸</CITE>  
-> (Comment: Gathering is signed with ![Fleuron](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fleuron.jpg "Fleuron"))
+> (*Comment*: Gathering is signed with ![Fleuron](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Fleuron.jpg "Fleuron"))
 
 > Example:  
 > <CITE>Signatures: [Maltese cross]⁶ A-X⁸ 2A-2P⁸ 2Q⁴</CITE>  
-> (Comment: Gathering is signed with ![Maltese cross](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Maltese-cross.jpg "Maltese cross"))
+> (*Comment*: Gathering is signed with ![Maltese cross](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Maltese-cross.jpg "Maltese cross"))
 	
 > Example:  
 > <CITE>Signatures: [par.]⁸ A⁸(-A1)B-E⁸ F²</CITE>  
-> (Comment: Gathering is signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par."))
+> (*Comment*: Gathering is signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par."))
 
 > Example:  
 > <CITE>Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴</CITE>   
-> (Comment: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
+> (*Comment*: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
 
 <a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi.** Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.4.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.9)).
 
@@ -201,11 +201,11 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 
 > Example:  
 > <CITE>Signatures: A-V4 W4 X-Z4</CITE>    
-> (*Comment:* Printer used a 24-letter alphabet)
+> (*Comment*: Printer used a 24-letter alphabet)
 
 > Example:  
 > <CITE>Signatures: A-I8 J8 K-U8 V8 W8 X-2I8 2J8 2K-2M8</CITE>  
-> (*Comment:* Printer used a 26-letter alphabet)
+> (*Comment*: Printer used a 26-letter alphabet)
 
 <a name="5.201.4.5">5.201.4.5</a> **Signatures do not match gatherings.** If it can be determined that the signing of the volume does not match its actual gatherings, indicate this in the note.
 
@@ -236,13 +236,13 @@ If the nonroman characters are accompanied by parallel numeration using another 
 
 > Example:  
 > <CITE>Signatures (in parallel Hebrew and arabic numerals): pi8 1-48</CITE>  
-> (*Comment:* Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)`
+> (*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)`
 
 In case of doubt as to whether a sequence is numeric or alphabetic, assume a numeric sequence.
 
 > Example:  
 > <CITE>Signatures (in Hebrew characters): 2-38</CITE>  
-> (*Comment:* Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
+> (*Comment*: Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
 <a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence).** If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html)). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.
 
@@ -258,7 +258,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > or  
 >  
 > <CITE>Signatures (in Greek characters): pi1 a-g2 A-2L2</CITE>  
-> (*Comment:* Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
+> (*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
 
 <a name="5.201.4.91">5.201.4.91</a> **Hebrew alphabetic signatures.** For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
 
@@ -271,7 +271,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > or  
 >  
 > <CITE>Signatures: ʼ-sh8(in Hebrew characters), a-k8</CITE>  
->(*Comment:* Indicates a Hebrew alphabetic sequence followed by a roman sequence)
+>(*Comment*: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
 <a name="5.201.4.92">5.201.4.92</a> **Other nonroman alphabetic signatures.** For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
 

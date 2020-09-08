@@ -41,21 +41,21 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:   
 >Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
  
 >Example:  
 >Manifestation described in: <CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
 
 >Example:  
 >Manifestation described in: <CITE>Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
  
 >Example:  
 >Manifestation described in: <CITE>Detailed description of plates in: Abbey, J.R. Travel, 23</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
 
 <a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/other-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1)).

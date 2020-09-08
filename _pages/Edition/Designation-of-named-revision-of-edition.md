@@ -37,7 +37,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:    
 >Designation of named revision of edition: <CITE>Carefully revised and additions made in 1848</CITE>  
 >Designation of edition: <CITE> 3d. Edition</CITE>   
->*Comment:* <CITE> Statement indicates the publication is a revision of the third edition) </CITE>
+>*Comment*: <CITE> Statement indicates the publication is a revision of the third edition) </CITE>
 
 >Example:    
 >Designation of named revision of edition: <CITE>corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>  

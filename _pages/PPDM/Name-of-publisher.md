@@ -99,7 +99,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 
 >Example:  
 >Note on publication statement: <CITE>Printed by Thomas Harper for John Parker according to STC</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 <a name="4.203.5.2">4.203.5.2</a> If identification is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a note on publication statement as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.206.5.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.2)).
 

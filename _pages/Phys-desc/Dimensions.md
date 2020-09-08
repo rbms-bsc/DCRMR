@@ -38,11 +38,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 > <CITE>18 cm</CITE>  
-> (*Comment:* A publication measuring 17.1 centimeters in height)
+> (*Comment*: A publication measuring 17.1 centimeters in height)
  
 >Example:  
 > <CITE>99 cm</CITE>  
-> (*Comment:* A publication measuring between 98 and 99 millimeters in height).
+> (*Comment*: A publication measuring between 98 and 99 millimeters in height).
 
 <a name="5.21.3.2">5.21.3.2</a> If one of the measurements would normally be given in millimeters and one in centimeters, record both measurements in millimeters.
 

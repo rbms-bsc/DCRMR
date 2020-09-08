@@ -68,11 +68,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 > <CITE>[Paris]</CITE>  
->(*Comment:* Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+>(*Comment*: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
 
 >Example:  
 ><CITE>[London]</CITE>  
->(*Comment:* Imprint reads: “sold in St. Paul’s Church Yard”)
+>(*Comment*: Imprint reads: “sold in St. Paul’s Church Yard”)
 
 <a name="4.216.4.5">4.216.4.5</a> Make a note if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [4.211.99.3](/DCRMR/ppdm/Place-of-distribution/#4.211.99.3)).
 
@@ -118,7 +118,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 <a name="4.216.8.4">4.216.8.4</a> If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on distribution statement to indicate the basis for the supplied year (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.4.5](/DCRMR/ppdm/Date-of-distribution/#4.215.4.5)).
 
 >Note on distribution statement: <CITE>The year is given according to Lady Day dating</CITE>  
->(*Comment:* "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
+>(*Comment*: "Given at our court at Whitehal, the three and twentieth day of January, in the thirteenth year of our reign, 1661”)
 
 <a name="4.216.8.5">4.216.8.5</a>  If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) requires more than a single adjustment or addition, make a note on distribution statement for source of supplied dates (see  [4.215.4.7](/DCRMR/ppdm/Date-of-distribution/#4.215.4.7)).
 

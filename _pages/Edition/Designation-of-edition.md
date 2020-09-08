@@ -52,11 +52,11 @@ part of a statement being transcribed in the production, publication, distributi
 
 >Example:  
 ><CITE>The second impression</CITE>  
->(*Comment:* manifestation is from the hand-press era)
+>(*Comment*: manifestation is from the hand-press era)
 
 >Example:  
 >Note on item: <CITE>Third impression of first edition</CITE>  
->(*Comment:* manifestation is from the machine-press era and requires no designation of edition statement; record as a note on item if considered important)
+>(*Comment*: manifestation is from the machine-press era and requires no designation of edition statement; record as a note on item if considered important)
 
 ## 3.21.6 Statements relating to a substantially unchanged impression or state
 

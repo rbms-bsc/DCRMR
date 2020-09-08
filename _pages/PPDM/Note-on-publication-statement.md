@@ -153,7 +153,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Date of publication: <CITE>1743 [i.e. 1744]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
->(*Comment:* "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
+>(*Comment*: "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
 >Example:  
 >Date of publication: <CITE>Februar. 8. anno 1588 [i.e. 1589]</CITE>  
@@ -164,7 +164,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 >Example:  
 >Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, i.e. 1539]</CITE>  
@@ -179,7 +179,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description.
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description.
 
 <a name="4.206.8.7">4.206.8.7</a> Make a note on publication statement indicating the basis for the conjecture when supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available (see [4.205.6.1](/DCRMR/ppdm/Date-of-publication/#4.205.6.1)).
 

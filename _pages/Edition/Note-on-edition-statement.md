@@ -42,7 +42,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>Designation of edition: [1st printing]</CITE>
->(*Comment:* Example follows alternative rule to a create separate bibliographic description for an individual impression, or state.)
+>(*Comment*: Example follows alternative rule to a create separate bibliographic description for an individual impression, or state.)
 
 <a name="3.29.3.2">3.29.3.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.20.3.2](/DCRMR/edition/Edition-statement/#3.20.3.2), [3.21.9.1](/DCRMR/edition/Designation-of-edition/#3.21.9.1), [3.28.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.28.3.4), [3.23.5.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.5.3), [3.23.6.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.6.3), [3.24.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.24.3.4), [3.25.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.3.2), and [3.27.4.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.27.4.3)).
 
@@ -70,7 +70,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 > Title statement: <CITE>Winnipeg & Manitoba street atlas ; Manitoba back road atlas</CITE>
 > Edition statement (1st work): <CITE>4th edition</CITE> 
 >Edition statement (2nd work): <CITE>New edition, includes street atlas</CITE>
->(*Comment:*  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover. 
+>(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover. 
 
 ## 3.29.6 Edition statements relating to issues or parts
 

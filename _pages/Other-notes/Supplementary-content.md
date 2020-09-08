@@ -58,7 +58,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>Publisher's advertisements on [2] pages at end</CITE>  
->(*Comment:* advertisements integral to manifestation)
+>(*Comment*: advertisements integral to manifestation)
 
 >Example:  
 ><CITE>Final unnumbered sequence contains: 'An abstract of the penal-laws'</CITE>

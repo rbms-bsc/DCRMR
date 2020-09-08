@@ -45,7 +45,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  
->(*Comment:* full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross.)
+>(*Comment*: full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross.)
 
 <a name="4.223.3.3">4.223.3.3</a> Record words or phrases indicating the function performed by an agent as they appear on the source of information.
 
@@ -78,7 +78,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Name of manufacturer: <CITE>[Cuchet] Rue et Hôtel serpente</CITE>  
 >Note on manufacture statement: <CITE>Cuchet listed as printer in Quérard, J.M. La France littéraire</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
 
 >Example:  
 >Name of manufacturer: <CITE>printed and sold [by the assigns of J. Sowle] at the Bible in Lombard-Street</CITE>  
@@ -87,14 +87,14 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Name of manufacturer: <CITE>printed by R. B[adger] for Robert Bird, and are to be sold at his shop at the signe of the Bible in St. Lawrance lane</CITE>  
 >Note on manufacture statement: <CITE>Printed by R. Badger according to the STC</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the manufacturer description)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the manufacturer description)
 
 <a name="4.223.5.2">4.223.5.2</a>  If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) about the basis for the identification, the source of the information used, the presence of the device, etc (see [4.226.5.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.2)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
 >Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the manufacture statement)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
 
 ## 4.223.6 Fictitious name of manufacturer
 
@@ -108,7 +108,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 >Name of manufacturer: <CITE>printed by James Robertson [i.e. William A. Rind]</CITE>  
 >Note on manufacture statement: <CITE>"Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, 'praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly...'" (Tremaine)</CITE>  
->(*Comment:* A separate note is used to provide a full citation for the reference to the published description)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 ## 4.223.7 Two or more names of manufacturers
 

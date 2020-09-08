@@ -74,7 +74,7 @@ one color
 >Example:  
 >Colour content: <CITE>hand colored</CITE>     
 >Details of colour content: <CITE>Illustrations are hand-colored, as issued</CITE>  
->(*Comment:* Title contains statement "embellished with colored engravings")
+>(*Comment*: Title contains statement "embellished with colored engravings")
  
 >Example:  
 >Colour content: <CITE>hand colored</CITE>    
