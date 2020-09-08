@@ -72,7 +72,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.221.6.1">4.221.6.1</a> If more than one place of manufacture is named on the source of information, transcribe place names in the order indicated by their sequence on the source of information. When there is no clear sequence, base the order on layout or typography.
 
-<a name="4.221.6.2">4.221.6.2</a> *Optional omission:* If it is considered that the places are too numerous to record exhaustively and some may be omitted without significant loss of identification then all places of manufacture after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places in the supplied phrase.
+<a name="4.221.6.2">4.221.6.2</a> *Optional omission*: If it is considered that the places are too numerous to record exhaustively and some may be omitted without significant loss of identification then all places of manufacture after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places in the supplied phrase.
 
 <a name="4.221.6.3">4.221.6.3</a> For descriptions created according to ISBD order of elements, if a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacturer to which it corresponds. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
 

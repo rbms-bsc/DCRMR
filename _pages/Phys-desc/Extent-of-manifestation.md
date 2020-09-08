@@ -231,7 +231,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [5.20.8.2]
 > Example:  
 > <CITE>[94] pages</CITE> 
 
-<a name="5.20.91.2">5.20.91.2</a> *Optionally,* if determining the total number of pages or leaves of an unnumbered volume might damage an item in fragile condition, give one of the designations used for manifestations issued in more than one physical unit (see [5.20.98.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.98.1)) followed by “unpaged” or “unfoliated.”
+<a name="5.20.91.2">5.20.91.2</a> *Optionally*, if determining the total number of pages or leaves of an unnumbered volume might damage an item in fragile condition, give one of the designations used for manifestations issued in more than one physical unit (see [5.20.98.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.98.1)) followed by “unpaged” or “unfoliated.”
 
 ### 5.20.92 Leaves or pages of plates
 

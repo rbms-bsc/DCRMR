@@ -117,7 +117,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="5.201.3.95">5.201.3.95</a> Make a note on extent of manifestation indicating the number of bibliographic volumes if the number of bibliographic volumes differs from the number of physical volumes (see [5.20.99.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.99.1)).
 
-<a name="5.201.3.96">5.201.3.96</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation (see [5.20.992.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.992.1)).
+<a name="5.201.3.96">5.201.3.96</a> *Optionally*, if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation (see [5.20.992.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.992.1)).
 
 <a name="5.201.3.97">5.201.3.97</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, make a note on extent of manifestation indicating that no more units have been issued (see [5.20.993.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.993.1)).
 

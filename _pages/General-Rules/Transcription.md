@@ -154,7 +154,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 
 >Example:  
 ><CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
->(*Source of information reads:* M. AccI Plauti quae supersunt Comoediae)
+>(*Source of information reads*: M. AccI Plauti quae supersunt Comoediae)
 
 >Example:  
 ><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>
@@ -182,11 +182,11 @@ For guidance on recording the chronogram as a date element, see the instructions
 
 >Example:  
 ><CITE>Perdito & Perdita, or, The man & woman of the people</CITE>  
->(*Source of information reads:* Perdito & Perdita—or—the Man & Woman of the People)
+>(*Source of information reads*: Perdito & Perdita—or—the Man & Woman of the People)
 
 >Example:  
 ><CITE>A musical entertainment perform’d on November XXII, 1683</CITE>  
->(*Source of information reads:* A musical entertainment perform’d on November XXII. 1683)
+>(*Source of information reads*: A musical entertainment perform’d on November XXII. 1683)
 
 <a name="0.5.31.2">0.5.31.2</a> If the cataloging agency applies ISBD punctuation, omit punctuation present on the source that occurs at the end of an element.
 
@@ -198,7 +198,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 
 >Example:  
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
->(*Comment:* Commas added to represent breaks indicated by poster’s lettering style and word placement.)
+>(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement.)
 
 <a name="0.5.31.4">0.5.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
 * [Apostrophes](/DCRMR/assets/pictures/transcription/#0532-apostrophes) (see [0.5.32.1](/DCRMR/general-rules/Transcription/#0.5.32.1))

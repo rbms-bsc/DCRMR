@@ -59,7 +59,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 <a name="0.2.5.1">0.2.5.1</a> For resources that consist of more than one page, leaf, sheet, or card, use the title page, title sheet, or title card as the preferred source of information. If information traditionally given on the title page is given on two facing pages or on pages on successive leaves, with or without repetition, treat all of these pages as the preferred source and make a note.
 
-*Exception:* Treat half-titles or added non-letterpress title pages as separate sources of information.
+*Exception*: Treat half-titles or added non-letterpress title pages as separate sources of information.
 
 Treat facing pages or pages on successive leaves in different languages or scripts as a single source of information.
 
