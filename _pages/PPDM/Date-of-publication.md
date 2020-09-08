@@ -81,7 +81,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-**Alternative rule**. substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
+**Alternative rule**. Substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
@@ -94,7 +94,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the date on the preferred source of information is very long, generally transcribe it as ist appears.
 
-*Alternative rule:*, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
+**Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
@@ -103,7 +103,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates.** If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.3)). 
 
-**Alternative rule**. supply the actual date in square brackets.
+**Alternative rule**. Supply the actual date in square brackets.
 
 >Example:  
 ><CITE>1703 [i.e. 1730]</CITE>

@@ -34,7 +34,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 4.225.4 Alternative rule
 
-<a name="4.225.4.1">4.225.4.1</a> *Alternately,* if a decision has been made to create a separate description for an individual impression, state, binding variant, or copy within a single edition or issue ([see Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/)), transcribe a date of impression or other manufacture associated with a substantially unchanged impression as part of the date of manufacture element and supply a note on manufacture statement (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
+<a name="4.225.4.1">4.225.4.1</a> **Alternative rule**. If a decision has been made to create a separate description for an individual impression, state, binding variant, or copy within a single edition or issue ([see Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/)), transcribe a date of impression or other manufacture associated with a substantially unchanged impression as part of the date of manufacture element and supply a note on manufacture statement (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
 
 >Example:  
 ><CITE>1990 printing</CITE>

@@ -56,7 +56,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.221.5.1">4.221.5.1</a> If the place name as transcribed is known to be fictitious or incorrect, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) giving the actual place name. Include the source of the actual place name (see [4.226.4.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
 
-<a name="4.221.5.2">4.221.5.2</a>  *Alternative rule:* if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
+<a name="4.221.5.2">4.221.5.2</a>  **Alternative rule**. If the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  

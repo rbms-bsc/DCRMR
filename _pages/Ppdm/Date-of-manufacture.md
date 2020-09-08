@@ -50,15 +50,15 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.225.5.2">4.225.5.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
 
-*Alternative rule,* substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
+**Alternative rule**. Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
 
 <a name="4.225.5.3">4.225.5.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
-*Alternative rule,* substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and the original form of the date (see [4.226.8.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.2)).
+**Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and the original form of the date (see [4.226.8.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.2)).
 
 <a name="4.225.5.4">4.225.5.4</a> **Fictitious or incorrect dates.** If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.3)).
 
-Alternative rule, supply the actual date in square brackets.
+**Alternative rule**. Supply the actual date in square brackets.
 
 <a name="4.225.5.5">4.225.5.5</a> **Julian/Old Style dates.** If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [4.226.8.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
