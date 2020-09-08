@@ -38,7 +38,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 |DCRM(C) |Descriptive Cataloging of Rare Materials (Cartographic)|
 |DCRM(G)|Descriptive Cataloging of Rare Materials (Graphics)|
 |DCRM(M)|Descriptive Cataloging of Rare Materials (Music)|
-|DCRM(Mss)|Descriptive Cataloging of Rare Materials (Manuscripts)|
+|DCRM(MSS)|Descriptive Cataloging of Rare Materials (Manuscripts)|
 |DCRM(S)|Descriptive Cataloging of Rare Materials (Serials)|
 |DCRMR	|Descriptive Cataloging of Rare Materials (RDA)|
 |ISBD	|International Standard Bibliographic Description|
