@@ -94,7 +94,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.226.8.3">4.226.8.3</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
-*Alternative rule*, make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
+**Alternative rule**. Make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
 <a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
 

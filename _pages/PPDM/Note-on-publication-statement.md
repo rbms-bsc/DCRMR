@@ -138,7 +138,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.206.8.3">4.206.8.3</a> Make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [4.205.4.4](/DCRMR/ppdm/Date-of-publication/#4.205.4.4)).
 
-*Alternative rule*, make a note on publication statement to indicate the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.4](/DCRMR/ppdm/Date-of-publication/#4.205.4.4)).
+**Alternative rule**. Make a note on publication statement to indicate the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.4](/DCRMR/ppdm/Date-of-publication/#4.205.4.4)).
 
 >Example:  
 >Date of publication: <CITE>1887 [i.e. 1899]</CITE>  
