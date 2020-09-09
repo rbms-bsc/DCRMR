@@ -36,7 +36,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.22.4.1">4.22.4.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.3.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.5)).
 
-<a name="4.22.4.2">4.22.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+<a name="4.22.4.2">4.22.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)).
 
 ## 4.22.5 Elements relating to publication, distribution vs. elements relating to manufacture
 

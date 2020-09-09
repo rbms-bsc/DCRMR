@@ -98,7 +98,7 @@ part of a statement being transcribed in the production, publication, distributi
 ><CITE>Second [edition]</CITE>
 
 <a name="3.21.8.3">3.21.8.3</a> If such a statement signals a substantially unchanged impression of an edition,
-omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) if considered important (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X)).
+omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) if considered important (see [10.20.4.1](/DCRMR/notes-on-items/Note-on-item/#10.20.4.1)).
 
 >Example:  
 >Optional note on item: <CITE>Library's copy: "Fifth ten thousand"</CITE>

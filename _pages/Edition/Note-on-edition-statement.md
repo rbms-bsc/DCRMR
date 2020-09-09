@@ -78,7 +78,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.29.7 Nonce collections
 
-<a name="3.29.7.1">3.29.7.1</a> Make a note on edition statement of differences in edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.20.9.1](/DCRMR/edition/Edition-statement/#3.20.9.1)).  If edition statements of parts vary between exemplars of manifestation, record the edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X) and [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
+<a name="3.29.7.1">3.29.7.1</a> Make a note on edition statement of differences in edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.20.9.1](/DCRMR/edition/Edition-statement/#3.20.9.1)).  If edition statements of parts vary between exemplars of manifestation, record the edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [10.20.5.1](/DCRMR/notes-on-items/Note-on-item/#10.20.5.1) and [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
 
 >Example:  
 > <CITE>Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.</CITE>
