@@ -58,7 +58,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.204.5 Color of base material
 
-<a name="5.204.5.1">5.204.5.1</a> Do not record the presence of color in base materials (e.g. paper) as color content (see X.X.X.X) Make a note if considered important (see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.6.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.6.1)).
+<a name="5.204.5.1">5.204.5.1</a> Do not record the presence of color in base materials (e.g. paper) as color content. Make a note if considered important (see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.6.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.6.1)).
 
 # 5.204.6 General rule
 

@@ -105,7 +105,7 @@ In case of doubt, assume the set was not issued as such.
 
 <a name="3.20.91.3">3.20.91.3</a> If the multipart monograph is known or assumed to be a made-up set describe the monograph using one of the following methods:
 
-1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.23.X.X](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.X.X)).
+1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.23.3.2](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.3.2)).
 
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  
