@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on identifier for manifestation 
-permalink: identifiers/Note-on-identifier-for-manifestation/
+permalink: identifiers/Note-on-identifier-for-manifestations/
 sidebar:
   nav: "docs"
 ---
