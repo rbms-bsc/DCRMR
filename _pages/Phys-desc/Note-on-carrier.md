@@ -32,4 +32,4 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.233.3 General rule
 
-<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [5.233.X.X](/DCRMR/phys-desc/Note-on-carrier/#5.233.X.X)). Record information pertaining to individual items as a [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) (see [10.21.2.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.2.2)).
+<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a note on carrier. Record information pertaining to individual items as a [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) (see [10.21.2.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.2.2)).

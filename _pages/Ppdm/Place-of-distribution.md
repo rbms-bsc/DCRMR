@@ -59,7 +59,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>In Boston, printed</CITE>  
->(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of X.X.X.X, “printed” is here transcribed with the place)
+>(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of [4.215.3.2](/DCRMR/ppdm/Date-of-distribution/#4.215.3.2) “printed” is here transcribed with the place)
 
 >Example:  
 ><CITE>Printed at Bennington</CITE>
@@ -133,7 +133,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Philadelphia printed, London reprinted</CITE>
 
-<a name="4.211.8.6">4.211.8.6</a> If both the place and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) associated with an earlier manifestation appear together with the place and (/DCRMR/ppdm/Name-of-distributor/) of the manifestation being described, transcribe each place with the distributor to which it corresponds.
+<a name="4.211.8.6">4.211.8.6</a> If both the place and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) associated with an earlier manifestation appear together with the place and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) of the manifestation being described, transcribe each place with the distributor to which it corresponds.
 
 >Example:  
 ><CITE>London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by him at his bookstore, also by West & Richardson, Cummings, Hilliard & Co., Boston, and Wilder & Campbell, New-York</CITE>

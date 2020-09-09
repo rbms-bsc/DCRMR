@@ -32,7 +32,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 3.23.3 General rule
 
-<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition, Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [2.21.X.X](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/2.21.X.X) ([Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements.
+<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [2.21.X.X](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/2.21.X.X) ([Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements.
 
 >Example:  
 ><CITE>with notes of various authors by Thomas Newton</CITE>

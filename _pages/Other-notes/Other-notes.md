@@ -18,7 +18,7 @@ sidebar:
 
 ## 7.02 Form and order of information
 
-<a name="7.02.1">7.02.1</a> [X.X]
+<a name="7.02.1">7.02.1</a> If information in a note corresponds to information found in the title, statement of responsibility, edition, publication, distribution, etc., physical description, or series chapters, usually give the elements of information in the order in which they appear. 
 
 ## Table of Contents
 {: .no_toc }

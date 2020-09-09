@@ -61,7 +61,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 >Example:  
 ><CITE>In Boston, printed</CITE>  
->(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of 4D3, “printed” is here transcribed with the place)
+>(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of [4.205.3.2](/DCRMR/ppdm/Date-of-publication/#4.205.3.2), “printed” is here transcribed with the place)
 
 >Example:  
 ><CITE>Printed at Bennington</CITE>
