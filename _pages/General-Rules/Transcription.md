@@ -76,7 +76,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
 >(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) shipp within Temple Bar)
 
-<a name="0.5.16.4">0.5.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [conjectural and indecipherable text](/DCRMR/general-rules/Transcription/#0562-conjectural-and-indecipherable-text) (see [0.5.62.1](/DCRMR/general-rules/Transcription/#0.5.62.1)).
+<a name="0.5.16.4">0.5.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [Conjectural and indecipherable text](/DCRMR/general-rules/Transcription/#0562-conjectural-and-indecipherable-text) (see [0.5.62.1](/DCRMR/general-rules/Transcription/#0.5.62.1)).
 
 ### 0.5.17 Rebuses
 
@@ -109,7 +109,7 @@ For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, se
 
 <a name="0.5.22.1">0.5.22.1</a> Do not convert case when transcribing roman numerals.
 
-See also [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals), [0.5.34.1](/DCRMR/general-rules/Transcription/#0.5.34.1).
+See also [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) ([0.5.34.1](/DCRMR/general-rules/Transcription/#0.5.34.1)).
 
 ### 0.5.23 Letterforms I, V, i, j, u, and v
 
@@ -201,17 +201,17 @@ For guidance on recording the chronogram as a date element, see the instructions
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement.)
 
 <a name="0.5.31.4">0.5.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
-* [Apostrophes](/DCRMR/assets/pictures/transcription/#0532-apostrophes) (see [0.5.32.1](/DCRMR/general-rules/Transcription/#0.5.32.1))
+* [Apostrophes](/DCRMR/general-rules/Transcription/#0532-apostrophes) (see [0.5.32.1](/DCRMR/general-rules/Transcription/#0.5.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0533-hyphens) (see [0.5.33.1](/DCRMR/general-rules/Transcription/#0.5.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) (see [0.5.34.1](/DCRMR/general-rules/Transcription/#0.5.34.1))
-* [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0538-punctuation-substituting-for-letters) (see [0.5.38.1](/DCRMR/general-rules/Transcription/#0.5.38.1"))
+* [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0538-punctuation-substituting-for-letters) (see [0.5.38.1](/DCRMR/general-rules/Transcription/#0.5.38.1))
 * [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#05385-punctuation-indicating-an-abbreviation) (see [0.5.385.1](/DCRMR/general-rules/Transcription/#0.5.385.1))
 
 <a name="0.5.31.5">0.5.31.5</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following subinstructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0535-ellipses) (see [0.5.35.1](/DCRMR/general-rules/Transcription/#0.5.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#05355-square-brackets) (see [0.5.355.1](/DCRMR/general-rules/Transcription/#0.5.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0536-virgules) (see [0.5.36.1](/DCRMR/general-rules/Transcription/#0.5.36.1))
-* [Line endings](/DCRMR/general-rules/Transcription/#0537-line-endings) (see [0.5.37.1](/DCRMR/general-rules/Transcription/#0.5.37.1"))
+* [Line endings](/DCRMR/general-rules/Transcription/#0537-line-endings) (see [0.5.37.1](/DCRMR/general-rules/Transcription/#0.5.37.1))
 
 >Example:  
 ><CITE>Perdito & Perdita—or—the Man & Woman of the People</CITE>
@@ -346,7 +346,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 ><CITE>Printed & sold by J. Preston</CITE>  
 >(*Source of information reads*: Printed & sold by J: Preston)
 
-<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#X.X.), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1).)
+<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0586-superscripts-and-subscripts), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1).)
 
 >Example:
 ><CITE>Ie. recueil nouveaux</CITE>  
@@ -359,7 +359,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 >Example:  
 ><CITE>"Miss, I have a monstrous crow to pluck with you!!”</CITE>
 
-<a name="0.5.39.2">0.5.39.2</a> Do not supply quotation marks if not present in the source, except for the representation of speech balloons (see [0.5.395.1](/DCRMR/general-rules/Transcription/#0.5.395.1")).
+<a name="0.5.39.2">0.5.39.2</a> Do not supply quotation marks if not present in the source, except for the representation of speech balloons (see [0.5.395.1](/DCRMR/general-rules/Transcription/#0.5.395.1)).
 
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
@@ -498,7 +498,6 @@ ET ITALIAE)
 
 <a name="0.5.51.2">0.5.51.2</a> However, give a space on only one side of the mark of omission if it is preceded by an opening parenthesis or opening square bracket; is followed by a closing parenthesis, closing square bracket, or comma; or, if using ISBD punctuation, comes at the end of an element.
 
-**ALT note: both examples are ISBD-punctuated, end of an element; we should probably have one that's an example of parentheses or square brackets**
 >Example:  
 ><CITE>Printed for the Widow Swart ..., 1688</CITE>  
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
@@ -518,7 +517,7 @@ ET ITALIAE)
 
 If considered important, give the omitted information in a note.
 
-<a name="5.5.52.2">0.5.52.2</a>If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element (see [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0592-grammatical-inseparability), [0.5.92.1](/DCRMR/general-rules/Transcription/#0.5.92.1)).
+<a name="5.5.52.2">0.5.52.2</a> If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element (see [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0592-grammatical-inseparability), [0.5.92.1](/DCRMR/general-rules/Transcription/#0.5.92.1)).
 
 For Dedications, see X.X.X.X. 
 
@@ -611,13 +610,6 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
 >Note on title: <CITE>Last word of the title is illegible, the conjecture is based on image content.</CITE>
-
-**ALT note: This is used in a 520 on a record describing a print: [catalog record from Lewis Walpole Library](https://orbis.library.yale.edu/vwebv/holdingsInfo?bibId=12766063 "catalog record"). It's a good example, but I'm not quite sure how to frame the comment vis-a-vis RDA -- what element would something like this go in? Elizabeth noted that we mapped the 520 to [Summarization of content](/DCRMR/other-notes/Summarization-of-content/) -- the Comment could be "Note on the text in an image in Summarization of content." )**
-
->Example:  
-><CITE>The reverse, comprising the right half of the design, has the text "Soldi cinqe" at center and the mostly missing or illegible text "[PRO?] BON [PVBLICO?] R[O?] [CE?]" along the edge.</CITE>  
->(*Comment*: Note on the text in an image.)
-
 
 ### 0.5.63 Lacunae in imperfect copies 
 
@@ -731,7 +723,7 @@ Make an explanatory note if considered important for identification.
 
 ### 0.5.82 Abbreviations and contractions
 
-For punctuation indicating an abbreviation, see [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#X.X) ([0.5.385.1](/DCRMR/general-rules/Transcription/#0.5.385.1)).
+For punctuation indicating an abbreviation, see [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#05385-punctuation-indicating-an-abbreviation) ([0.5.385.1](/DCRMR/general-rules/Transcription/#0.5.385.1)).
 
 <a name="0.5.82.1">0.5.82.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
@@ -742,7 +734,7 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 >(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
 
 <a name="0.5.82.3">0.5.82.3</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
-conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/Transcription/#0562-conjectural-and-indecipherable-text) (see [0.5.62.1](/DCRMR/general-rules/Transcription/#0.5.62.1")).
+conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/Transcription/#0562-conjectural-and-indecipherable-text) (see [0.5.62.1](/DCRMR/general-rules/Transcription/#0.5.62.1)).
 
 <a name="0.5.82.4">0.5.82.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [Variant title](/DCRMR/title/Variant-title) if considered important (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)).  
 
@@ -812,7 +804,7 @@ Also transcribe numbers expressed as numerals or as words in the form in which t
 * Numbering within series
 * Numbering within subseries
 
-<a name="0.5.88.3">0.5.88.3</a> *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](DCRMR/general-rules/Transcription/#X.X), [0.5.32.1](general-rules/Transcription/#0.5.32.1)). 
+<a name="0.5.88.3">0.5.88.3</a> *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](/DCRMR/general-rules/Transcription/#056-interpolations), [0.5.61.1](/DCRMR/general-rules/Transcription/#0.5.61.1)). 
 
 <a name="0.5.88.4">0.5.88.4</a> When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
 
