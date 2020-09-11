@@ -37,7 +37,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>paper</CITE>
 
-<a name="5.211.3.2">5.211.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary, and indicate its source. Prefer the [RBMS Controlled vocabularies, Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm) for terms for specific types of paper.
+<a name="5.211.3.2">5.211.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary, and indicate its source. Prefer the [RBMS Controlled vocabularies, Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"} for terms for specific types of paper.
 
 >Example:  
 ><CITE>Japan vellum</CITE>

@@ -11,6 +11,21 @@ sidebar:
 
 [Link to ch.1 errata](https://docs.google.com/document/d/1ZQrHST262NmyQBIjqDihNGPaU_Y9rKCN2wiRPtwm-D8/edit)
 
+## 1.01 Sources of information
+
+<a name="1.01.1">1.01.1</a> The [Preferred source of information for the title](/DCRMR/general-rules/Data-provenance/#026-sources-of-information) is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 
+
+## 1.02 Form and order of information
+
+<a name="1.02.1">1.02.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) information in the form and order in which it is presented on the preferred source of information, as instructed by [RBMS Transcription Guidelines](/DCRMR/general-rules/Transcription/). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
+
+
+<a name="1.02.2">1.02.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.27.X.X](/DCRMR/title/Note-on-title/#1.27.X.X)).
+
+>Example:  
+><CITE>Prudence Palfrey : a novel / Thomas Bailey Aldrich</CITE>
+>Note on title: <CITE>Author's name at head of title</CITE>
+
 ## Table of Contents
 {: .no_toc }
 

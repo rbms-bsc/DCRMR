@@ -14,11 +14,41 @@ sidebar:
 
 ## 7.01 Sources of information 
 
-<a name="7.01.1">7.01.1</a> Take information from any suitable source.  Square brackets are required only for interpolations within quoted material. 
+<a name="7.01.1">7.01.1</a> Take information recorded in notes from any suitable source. Square brackets are required only for interpolations within quoted material.
 
 ## 7.02 Form and order of information
 
-<a name="7.02.1">7.02.1</a> If information in a note corresponds to information found in the title, statement of responsibility, edition, publication, distribution, etc., physical description, or series chapters, usually give the elements of information in the order in which they appear. 
+<a name="7.02.1">7.02.1</a> If information in a note corresponds to information found in the title and statement of responsibility, edition, publication, distribution, etc., physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
+
+## 7.03 General instructions
+
+<a name="7.03.1">7.03.1</a> Notes qualify and amplify the formal description, and are especially important for recording types of information not accounted for in other data elements. Notes can therefore deal with any aspect of the resource.
+
+<a name="7.03.2">7.03.2</a> If other elements do not clearly identify the resource being cataloged, make whatever notes are necessary for unambiguous identification. When appropriate, refer to detailed descriptions in standard catalogs or bibliographies. Provide sufficient information to identify the specific source, whether using a general note, a formal “References” note giving the source in prescribed form (see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/), or some combination of the two (see [7.223.4](/DCRMR/other-notes/Manifestation-described-in/#72234-references-to-published-descriptions)).
+
+<a name="7.03.3">7.03.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from lists of controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml{:target="_blank"}) or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html{:target="_blank"}). Terms from other authorized vocabularies (e.g., Art & [Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/{:target="_blank"})) may also be used.
+
+## 7.04 Required notes
+
+<a name="7.03.4">7.03.4</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on statement of responsibility], notes on data provenance.  Required notes include:
+
++Accompanied by manifestation (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.X.X](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.X.X)
++Advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4](/DCRMR/other-notes/Supplementary-content/#72324-general-rule)
++bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95)
++chronograms (see Note on publication statement, 4.206.8.1; Note on distribution statement, 4.216.8.1; Note on manufacture statement, 4.226.8.1) 
++collection-level records (see Appendix B, X.X.X.X)
++conjectural dates of publication (see Note on publication statement, [4.206.8.7]
++date of publication
++devised titles
++discontinued publications
++double leaves
++edition statement
++edition statement lacking
++errata leaves
++fascicles
++hand-colored illustrations
++inaccuracies
++
 
 ## Table of Contents
 {: .no_toc }
@@ -26,8 +56,6 @@ sidebar:
 [Chapter 7.20 Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)
 
 [Chapter 7.21 Related manifestation of RDA entity](/DCRMR/other-notes/Related-manifestation-of-RDA-entity/)
-
-[Chapter 7.211 Manifestation dissertation statement](/DCRMR/other-notes/Manifestation-dissertation-statement/)
 
 [Chapter 7.212 Dissertation or thesis information](/DCRMR/other-notes/Dissertation-or-thesis-information/)
 

@@ -73,8 +73,8 @@ docs:
         url: /title/Other-title-information/
       - title: "Parallel other title information"
         url: /title/Parallel-other-title-information/
-      - title: "Variant title"
-        url: /title/Variant title/
+      - title: "Variant title of manifestation"
+        url: /title/Variant-title-of-manifestation/
       - title: "Title of item"
         url: /title/Title-of-item/
       - title: "Note on title"
@@ -246,8 +246,6 @@ docs:
         url: /other-notes/Note-on-manifestation/
       - title: "Related manifestation of RDA entity"
         url: /other-notes/Related-manifestation-of-RDA-entity/
-      - title: "Manifestation dissertation statement"
-        url: /other-notes/Manifestation-dissertation-statement/
       - title: "Dissertation or thesis information"
         url: /other-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
