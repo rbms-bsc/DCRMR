@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1JSf-40uCef9J2DL9e39146yMejO84KI92EpSADEgnYY/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -30,15 +23,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="10.20.2.1">10.20.2.1</a> A broad unstructured description of one or more attributes of an item.
 
-<a name="10.20.2.2">10.20.2.2</a> **Related element**. See [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) for item specific alterations (e.g., known imperfections and anomalies; the presence of advertisements not recorded in extent of manifestation; illuminations, rubrication, and other hand coloring; provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details; etc.
+<a name="10.20.2.2">10.20.2.2</a> **Related elements**. See:
 
-<a name="10.20.2.3">10.20.2.3</a> **Related element**. See [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/) for summaries of the past ownership of an item.
-
-<a name="10.20.2.4">10.20.2.4</a> **Related element**. See [Bound with](/DCRMR/notes-on-items/Bound-with/) for items bound together subsequent to publication.
-
-<a name="10.20.2.5">10.20.2.5</a> **Related element**. See [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued.
-
-<a name="10.20.2.6">10.20.2.6</a> **Related element**. See [Note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource.
++ [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) for item specific alterations; provenance evidence; and item-specific binding details; etc.
++ [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/) for summaries of the past ownership of an item.
++ [Bound with](/DCRMR/notes-on-items/Bound-with/) for items bound together subsequent to publication.
++ [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued.
++ [Note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource.
 
 ## 10.20.3 General rule
 

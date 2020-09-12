@@ -32,8 +32,8 @@ sidebar:
 
 <a name="7.03.4">7.03.4</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on statement of responsibility], notes on data provenance.  Required notes include:
 
-+ Accompanied by manifestation (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.X.X](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.X.X)  
-+ Advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4](/DCRMR/other-notes/Supplementary-content/#72324-general-rule)  
++ accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.X.X](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.X.X)  
++ advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4](/DCRMR/other-notes/Supplementary-content/#72324-general-rule)  
 + bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95)  
 + chronograms (see Note on publication statement, 4.206.8.1; Note on distribution statement, 4.216.8.1; Note on manufacture statement, 4.226.8.1)   
 + collection-level records (see Appendix B, X.X.X.X)   
@@ -48,7 +48,20 @@ sidebar:
 + fascicles  
 + hand-colored illustrations  
 + inaccuracies  
-+
++ information covered by labels
++ made-up-sets
++ minimal-level records
++ physical description area
++ place of publication in multipart monographs
++ publisher statements
++ romanization
++ series
++ sources of information
++ statements of responsibilty not on title page
++ title page counted as plate
++ title proper
++ transposition
++ 
 
 ## Table of Contents
 {: .no_toc }

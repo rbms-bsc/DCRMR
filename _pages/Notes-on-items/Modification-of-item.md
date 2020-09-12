@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1MlmIcncECOfHdME3pZ42aD3WNV7fkgrTBE2rMdFxefI/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -30,13 +23,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="10.21.2.1">10.21.2.1</a> A modification that is specific to an item and is assumed not to apply to other items exemplifying the same manifestation.
 
-<a name="10.21.2.2">10.21.2.2</a> **Related element**. Record information that applies to all copies or to particular groups of copies within an edition or issue as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [5.233.3.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.3.1)).
+<a name="10.21.2.2">10.21.2.2</a> **Related element**. See [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [5.233.3.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.3.1)) for information that applies to all copies or to particular groups of copies within an edition or issue.
 
 ## 10.21.3 General rule
 
 <a name="10.21.3.1">10.21.3.1</a> For general instructions on constructing item specific notes, see [Note on item](/DCRMR/notes-on-items/Note-on-item/).
 
-<a name="10.21.3.2">10.21.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) illumination, rubrication, and other hand coloring (unless issued that way by the publisher; see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
+<a name="10.21.3.2">10.21.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 
 >Example:  
 ><CITE>Folger copy on vellum; illustrations and part of borders hand colored; with illuminated initials; rubricated in red and blue</CITE>
@@ -53,7 +46,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Folger copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/), [8.23.3.2](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.3.2).
+<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/), [8.23.3.2](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.3.2)).
 
 ## 10.21.4 Provenance evidence
 
@@ -88,11 +81,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>University College Cork copy annotated "To W.C.C. from J J McC Xmas 1901" and in a different hand "From Jas J. M'Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950"</CITE>
 
-<a name="10.21.4.3">10.21.4.3</a> For summaries of the past ownership of an item, see [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/), [10.22.3.1](/DCRMR/notes-on-items/Custodial-history-of-item/#10.22.3.1).
+<a name="10.21.4.3">10.21.4.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/), [10.22.3.1](/DCRMR/notes-on-items/Custodial-history-of-item/#10.22.3.1)).
 
 ## 10.21.5 Bindings
 
-<a name="10.21.5.1">10.21.5.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue, see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [5.224.3](/https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#52243-general-rule).
+<a name="10.21.5.1">10.21.5.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [5.224.3](/https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#52243-general-rule)).
 
 <a name="10.21.5.2">10.21.5.2</a> Indicate any errors in binding if considered important.
 
@@ -113,7 +106,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="10.21.5.3">10.21.5.3</a> Record other details of an item-specific binding if considered important. Less detailed descriptions might include the color and nature of the covering material, a summary of any decoration present (e.g., “gold-tooled,” “blind-tooled”), and (if these can be determined) an approximate date and the name of the binder.
 
-<a name="10.21.5.4">10.21.5.4</a> Whenever possible, use standard terminology from resources such as the *[RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"}* or the *[Language of Bindings Thesaurus](https://www.ligatus.org.uk/){:target="_blank"}*. Terms from other authorized vocabularies (e.g., *[Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}*) may also be used as appropriate.
+<a name="10.21.5.4">10.21.5.4</a> Whenever possible, use standard terminology from resources such as the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or the [Language of Bindings Thesaurus](https://www.ligatus.org.uk/){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) may also be used as appropriate.
 
 >Example:  
 ><CITE>British Library copy: In a late seventeenth-century English gold-tooled red goatskin binding with the coat of arms of George III added later to the front board</CITE>

@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/u/1/d/12UUOP4_AJ5x6z4MkwFGomAd4d8ONDYGyMO8Qf0rpZd8/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -32,7 +25,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 8.24.3 General rule
 
-<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes, see [Note on item](/DCRMR/notes-on-items/Note-on-item), [8.20.3](/DCRMR/notes-on-items/Notes-on-item/#10203-general-rule). 
+<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes (see [Note on item](/DCRMR/notes-on-items/Note-on-item) [8.20.3](/DCRMR/notes-on-items/Notes-on-item/#10203-general-rule)). 
 
 <a name="8.24.3.2">8.24.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.3.3](/DCRMR/phys-desc/Dimensions/#5.21.3.3)).
 
