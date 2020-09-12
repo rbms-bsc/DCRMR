@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1ANnPvVl2FoxAwqyJqihPAkoC7wLGCK_m-bxBDwFpyKQ/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 *Descriptive Cataloging of Rare Materials (RDA Edition)*, referred to hereafter as DCRMR, is the latest in a sequence of manuals for rare materials catalogers. The first manual, *Bibliographic Description of Rare Books* (BDRB), was published in 1981 as the Library of Congress interpretations for AACR2 rules on early printed monographs. In 1991, BDRB was succeeded by *Descriptive Cataloging of Rare Books* (DCRB), which was prepared by a working group of the RBMS Bibliographic Standards Committee (BSC) and the Library of Congress. DCRB was then succeeded by *Descriptive Cataloging of Rare Materials (Books)* (DCRM(B)) in 2007. In contrast to the previous two editions of rare book cataloging rules, the Library of Congress preferred to be responsible for commenting on and approving the text rather than actively engaging in writing it and BSC took the lead role in writing the manual.  DCRM manuals for additional formats were published subsequently, including serials (2008), graphics (2013), cartographic (2016), manuscripts (2016), and music (2016).
 
 DCRM suite was already well underway when work on RDA: Resources Description and Access (then called AACR3) was announced, and editors agreed given the progress and investment already made to continue work on the AACR2-based DCRM modules and not delay until after RDA was published. Following the publication of RDA in  2010, John Attig and Robert Maxwell authored a discussion paper, [“Reconsidering DCRM in the Light of RDA.”](http://rbms.info/files/committees/bibliographic_standards/committee-docs/DCRM_RDA-DP-20101214.pdf){:target="_blank"} This led to the creation of the DCRM-RDA Task Force (2011-2012), which recommended adding rare materials provisions to the BIBCO Standard Record and revising DCRM(B). 
