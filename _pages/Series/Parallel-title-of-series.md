@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1fbkzJv1ygRo6-LzmtoUqinz2qw58DVbfqXDN2lixYkM/edit#heading=h.rkgo3gie23qj){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -22,7 +15,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 6.22.1 Element information
 
-<a name="6.22#.1.1">6.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9a2bd933-3204-3798-840a-dc55a5a237d0){:target="_blank"}
+<a name="6.22.1.1">6.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9a2bd933-3204-3798-840a-dc55a5a237d0){:target="_blank"}
 
 <a name="6.22.1.2">6.22.1.2</a> [Source of information](/DCRMR/series/)
 
@@ -38,14 +31,13 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Parallel title of series: <CITE>Villes du Canada, vues à vol d'oiseau</CITE>    
 >Title proper of series: <CITE>Canadian cities, bird's eye views</CITE>  
 
-
 >Example:    
 >Parallel title of series: <CITE>European university papers</CITE>    
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>   
 >Title proper of series: <CITE>Europäische Hochschulschriftent</CITE>  
 
-<a name="6.22.3.2">6.22.3.2</a> Optionally, if it is considered that the parallel titles of series are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, omit parallel series titles after the first using the mark of omission.
+<a name="6.22.3.2">6.22.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, omit parallel series titles after the first using the mark of omission.
 
 ## 6.22.4 Parallel subseries titles
 
-<a name="6.22.4.1">6.22#.4.1</a> If there are both parallel series titles and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
+<a name="6.22.4.1">6.22.4.1</a> If there are both parallel series titles and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
