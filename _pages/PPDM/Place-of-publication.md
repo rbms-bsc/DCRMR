@@ -87,7 +87,7 @@ sidebar:
 
 ## 4.201.7 Supplied larger jurisdictions
 
-<a name="4.201.7.1">4.201.7.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern English form of the name, if there is one. Use the abbreviations listed in [RDA Toolkit > Resources > Abbreviations and symbols](https://beta.rdatoolkit.org/Resource?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c).  
+<a name="4.201.7.1">4.201.7.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern English form of the name, if there is one. Use the abbreviations listed in [RDA Toolkit: Abbreviations and symbols](https://beta.rdatoolkit.org/Resource?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c){:target="_blank"}.  
 
 >Example:  
 ><CITE>Cambridge [England]</CITE>

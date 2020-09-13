@@ -86,13 +86,13 @@ sidebar:
 
 ## 4.216.6 Notes from Parallel name of distributor
 
-<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1)) and [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
+<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [4.214.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
 
 ## 4.216.7 Notes from Parallel place of distribution
 
-<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distributor](/DCRMR/Place-of-distributor/) and is considered important for identification (see [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#4.212.3.2)) and [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distributor](/DCRMR/Place-of-distributor/) and is considered important for identification (see [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#4.212.3.2) and [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
 
 ## 4.216.8 Notes from Date of distribution
 

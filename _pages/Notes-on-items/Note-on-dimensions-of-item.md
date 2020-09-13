@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.24.3 General rule
 
-<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes (see [Note on item](/DCRMR/notes-on-items/Note-on-item) [8.20.3](/DCRMR/notes-on-items/Notes-on-item/#10203-general-rule)). 
+<a name="8.24.3.1">8.24.3.1</a> For general instructions on constructing item specific notes see [Note on item](/DCRMR/notes-on-items/Note-on-item) ([8.20.3](/DCRMR/notes-on-items/Notes-on-item/#10203-general-rule)). 
 
 <a name="8.24.3.2">8.24.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.3.3](/DCRMR/phys-desc/Dimensions/#5.21.3.3)).
 

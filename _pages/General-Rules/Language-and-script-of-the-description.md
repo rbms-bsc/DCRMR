@@ -25,9 +25,9 @@ sidebar:
 + Manufacture statement
 + Series statement
 
-<a name="0.4.1.2">0.4.1.2</a> For guidance on transcribing pre-modern letterforms and symbols, see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.10).
+<a name="0.4.1.2">0.4.1.2</a> For guidance on transcribing pre-modern letterforms and symbols see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.10).
 
-For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see LC-PCC PS 1.4.
+For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-141.html){:target="_blank"}.
 
 <a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.X.X](/DCRMR/sor/Statement-of-responsibility//#2.20.X.X), [4.201.7.1](/DCRMR/ppdm/Place-of-publication/#4.201.7.1), [4.201.8.2](/DCRMR/ppdm/Place-of-publication/#4.201.8.2), [4.203.7.2](/DCRMR/ppdm/Name-of-publisher/#4.203.7.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
@@ -35,7 +35,7 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 
 ## 0.4.2 Romanization
 
-<a name="0.4.2.1">0.4.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [*ALA-LC Romanization Tables*](https://www.loc.gov/catdir/cpso/roman.html). Do not enclose the romanized text within square brackets. Make a note on manifestation to indicate that the romanized text appears in nonroman script (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.4.2.1">0.4.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation) to indicate that the romanized text appears in nonroman script (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:  
 ><CITE>Source: ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις</CITE>  
@@ -47,7 +47,7 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 >Transcription: <CITE><CITE>Hendecasyllabōn</CITE>  
 >Note on manifestation: <CITE>In the title, the ō in Hendecasyllabōn is printed in Greek script</CITE>
 
-<a name="0.4.2.2">0.4.2.2</a> *Optionally*, if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [*ALA-LC Romanization Tables*](https://www.loc.gov/catdir/cpso/roman.html). Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
+<a name="0.4.2.2">0.4.2.2</a> *Optionally*, if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
 
 >Example:  
 >Note on manifestation: <CITE>Romanization supplied by cataloger</CITE>

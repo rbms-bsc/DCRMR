@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.222.3 General rule 
 
-<a name="5.222.3.1">5.222.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format also for machine-press publications. Record the format using one or more of the following terms from the [RDA Value Vocabularies, RDA Bibliographic Format](http://www.rdaregistry.info/termList/bookFormat/). Use "full-sheet" for manifestations made up of unfolded sheets.
+<a name="5.222.3.1">5.222.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format also for machine-press publications. Record the format using one or more of the following terms from the [RDA Value Vocabularies: RDA Bibliographic Format](http://www.rdaregistry.info/termList/bookFormat/){:target="_blank"}. Use "full-sheet" for manifestations made up of unfolded sheets.
 
 full-sheet  
 folio  

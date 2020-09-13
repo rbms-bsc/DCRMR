@@ -24,4 +24,4 @@ https://beta.rdatoolkit.org/en-US_ala-d818f2c6-cced-357b-87ca-a4b482a249c4)
 
 ## 5.2232.3 General rule 
 
-<a name="5.2232.3.1">5.2232.3.1</a> Record details of font size if considered important.
+<a name="5.2232.3.1">5.2232.3.1</a> Record details of font size if considered important (see [Font size](/DCRMR/phys-desc/Font-size/), [5.223.3.2](/DCRMR/phys-desc/Font-size/#5.223.3.2)).

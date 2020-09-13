@@ -17,6 +17,6 @@ sidebar:
 
 <a name="VIII.1.1">VIII.1.1</a> The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
-## I.2 Notes
+## VIII.2 Notes
 
-<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see X.X). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](/DCRMR/other-notes/) and [Notes on items](/DCRMR/notes-on-items/).
+<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1). Consult the other areas of DCRMR in order to ascertain what is required and what is optional in any given situation [see Other notes](/DCRMR/other-notes/) and [Notes on items](/DCRMR/notes-on-items/).

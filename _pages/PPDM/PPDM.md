@@ -18,7 +18,7 @@ sidebar:
 
 <a name="4.01.2">4.01.2</a> If any part of the production, publication, distribution, or manufacture elements are taken from a source other than the title page, make a note (e.g. [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source (see [4.206.3.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.1), [4.216.3.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.1), [4.226.3.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.1)).
 
-<a name="4.01.3">4.01.3</a> Make a note about information not transcribed in the statement if considered important (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [4.206.3.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.2); [Note on distribution statement], [4.216.3.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.2); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.3.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.2)).
+<a name="4.01.3">4.01.3</a> Make a note about information not transcribed in the statement if considered important (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [4.206.3.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.2); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.3.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.2); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.3.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.2)).
 
 ## 4.02 Form and order of information
 

@@ -25,11 +25,11 @@ sidebar:
 
 ### 0.2.3 Imperfect exemplars of a manifestation
 
-<a name="0.2.3.1">0.2.3.1</a> A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the item in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information. For item-specific modifications, see [10.21.3.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.3.2).
+<a name="0.2.3.1">0.2.3.1</a> A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the item in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information. For item-specific modifications (see [10.21.3.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.3.2)).
 
 If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [7.223.4](/DCRMR/other-notes/Manifestation-described-in/https://rbms-bsc.github.io/DCRMR/other-notes/Manifestation-described-in/#72234-references-to-published-descriptions)). Make a local note describing the imperfection of the item in hand (see [10.21.3.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.3.2)).
 
-<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:  
 ><CITE>London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho</CITE>  
@@ -42,7 +42,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 <a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials.** If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
-<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply.** If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply.** If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 ### 0.2.4 Dust jackets
 
@@ -78,19 +78,19 @@ However, if the manifestation bears a cover or case issued with the resource tha
 + a cover integral to the resource
 + a source elsewhere within the resource
 
-Make a [note on title](/DCRMR/title/Note-on-title/) indicating the source chosen as the title page substitute (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
+Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source chosen as the title page substitute (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
 
 Hereafter in these rules, “title page” means “title page or title page substitute.”
 
-<a name="0.2.5.5">0.2.5.5</a> **More than one preferred source of information.** If there is more than one source of information that qualifies as the preferred source of information for the manifestation, choose as the preferred source of information one of the following, applying the first applicable criterion:
+<a name="0.2.5.5">0.2.5.5</a> **More than one preferred source of information.**  If there is more than one source of information that qualifies as the preferred source of information for the manifestation, choose as the preferred source of information one of the following, applying the first applicable criterion:
 
-+ **Preferred sources of information for the reproduction and the original**
++ **Preferred sources of information for the reproduction and the original**  
 If the manifestation is a facsimile or reproduction of an original manifestation and the manifestation contains a preferred source of information for the reproduction as well as a preferred source of information for the original, then use the source for the reproduction as the preferred source.
-+ **Preferred sources of information with different dates**
++ **Preferred sources of information with different dates**  
 If a manifestation is not a multipart monograph or serial and the manifestation contains preferred sources of information with different dates, then use the source with the later or latest date.
-+ **Preferred sources of information in letterpress and non-letterpress**
++ **Preferred sources of information in letterpress and non-letterpress**  
 If the manifestation contains one preferred source that is in letterpress and one that is not (e.g., engraved), use the source that is in letterpress.
-+ **Preferred sources of information in different languages or scripts**
++ **Preferred sources of information in different languages or scripts**  
 If the manifestation contains preferred sources in more than one language or script, use as the preferred source (in this order of preference):
      1. the source in the language or script that corresponds to the language or script of the content of the resource
      2. the source in the language or script that corresponds to the predominant language or script of the content of the resource
@@ -98,10 +98,10 @@ If the manifestation contains preferred sources in more than one language or scr
      4. the source in the original language or script of the content, if the resource contains the same content in more than one language or script and the original language or script can be identified
      5. the first occurring of the sources
      6. the source in the language or script preferred by the agency preparing the description, if the resource is formatted
-+ **Order of sources of information**
++ **Order of sources of information**  
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
-Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume.
+Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume (see X.X.X.X).
 
 ## 0.2.6 Sources of information
 

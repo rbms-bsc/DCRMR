@@ -43,7 +43,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 <a name="3.20.5.1">3.20.5.1</a> If an edition statement is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/), [Other title information](/DCRMR/title/Other-title-information/), [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), or any other transcribed element, then transcribe as part of the element to which it is integrated or linked and do not repeat it as an edition statement. 
 
 >Example:  
->Title proper: <CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>|
+>Title proper: <CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>
 
 >Example:  
 >Title proper: <CITE>Old New York, or, Reminiscences of the past sixty years : </CITE>  
@@ -103,12 +103,12 @@ In case of doubt, assume the set was not issued as such.
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  
 >Note on extent of item: <CITE>Library's copy imperfect: v. 2 wanting; a previous owner has supplied v. 2 from the 3rd ed. to create a made-up set</CITE>  
->*Comment*: <CITE>The first of two descriptions associated with the made-up set</CITE>
+>(*Comment*: The first of two descriptions associated with the made-up set)
 
 >Example:       
 >Edition statement: <CITE>Third edition</CITE>  
 >Note on extent of item: <CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
->*Comment*: <CITE>The second of two descriptions associated with the made-up set</CITE>
+>(*Comment*: The second of two descriptions associated with the made-up set)
 
 2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
