@@ -39,7 +39,7 @@ sidebar:
 >Example:  
 ><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
 
-*Optionally*, omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
+*Optional omission*: omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
 
 >Example:  
 ><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>

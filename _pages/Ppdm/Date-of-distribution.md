@@ -52,7 +52,9 @@ sidebar:
 
 **Alternative rule**. Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
 
-<a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. **Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
+<a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
+
+**Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
 
 <a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
@@ -102,7 +104,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.7](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.7)).
 
-<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the title or the statement of responsibility elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 ## 4.215.7 Patterns for supplying a conjectural date
 

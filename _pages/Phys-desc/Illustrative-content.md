@@ -49,11 +49,11 @@ sidebar:
 
 <a name="5.202.6.2">5.202.6.2</a> See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.3.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.3.1)) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for hand-coloring. For details of hand-coloring (see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/), ([5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring)) for hand-colored manifestations issued as such and [Note on item](/DCRMR/Notes-on-items/Note-on-item) ([10.20.3](/DCRMR/notes-on-items/Note-on-item/#10203-general-rule)).
+<a name="5.202.6.3">5.202.6.3</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/Notes-on-items/Note-on-item) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)) for hand-colored manifestations not issued as such.
 
 # 5.202.7 General rule
 
-<a name="5.202.7.1">5.202.7.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies, RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
+<a name="5.202.7.1">5.202.7.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
 
 >Example:  
 ><CITE>illustration</CITE>   
@@ -102,7 +102,7 @@ sample
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/) ([7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1))), [Accompanying material](/DCRMR/other-notes/Accompanying-material/) ([X.X.X.X])(/DCRMR/other-notes/Accompanying-material/#X.X.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.9.1](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.1)).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1)) and [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by manifestation/), [7.295.X.X](/DCRMR/other-notes/Accompanied-by manifestation/#7.295.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -110,7 +110,7 @@ sample
 
 # 5.202.91 Illustrations on endpapers
 
-<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/) ([5.203.9.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.9.2)).  
+<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.6)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

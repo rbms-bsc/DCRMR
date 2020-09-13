@@ -43,7 +43,7 @@ sidebar:
 >Example:  
 ><CITE>Published by Thomas Bradford, printer, bookseller & stationer, no. 8, South Front-Street</CITE>
 
-*Optionally*, omit addresses and insignificant information in the middle or at the end of the [Publication statement](/DCRMR/ppdm/Publication-statement/), unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, for the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
+*Optional omission*: omit addresses and insignificant information in the middle or at the end of the [Publication statement](/DCRMR/ppdm/Publication-statement/), unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, for the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
 
 >Example:  
 ><CITE>Published by Ackermann and Co. ...</CITE>  

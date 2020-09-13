@@ -44,7 +44,7 @@ sidebar:
 >Example:  
 > <CITE>xvi, 17-328 pages</CITE>
 
-<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/phys-desc/Extent-of-manifestation/#52092-leaves-or-pages-of-plates). Record in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) that the leaves are non-letterpress (see [5.2122.X.X](/DCRMR/phys-desc/Details-of-production-method/#5.2122.X.X)).
+<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/phys-desc/Extent-of-manifestation/#52092-leaves-or-pages-of-plates). Record in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) that the leaves are non-letterpress (see [5.2122.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2122.3.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>LXXVI leaves</CITE>  

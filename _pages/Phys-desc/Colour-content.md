@@ -55,14 +55,13 @@ sidebar:
 
 # 5.204.6 General rule
 
-<a name="5.204.6.1">5.204.6.1</a> Describe color illustrations using one or more terms from the [LC Vocabulary for Color Content](https://id.loc.gov/vocabulary/mcolor.html). Record the source of the term.    
-
-black and white  
-color  
-gray scale  
-hand colored  
-mixed color  
-one color  
+<a name="5.204.6.1">5.204.6.1</a> Describe color illustrations using one or more terms from the [LC Vocabulary for Color Content](https://id.loc.gov/vocabulary/mcolor.html){:target="_blank"}. Record the source of the term.    
++ black and white  
++ color  
++ gray scale  
++ hand colored  
++ mixed color  
++ one color  
 
 >Example:  
 >Colour content: <CITE>hand colored</CITE>     

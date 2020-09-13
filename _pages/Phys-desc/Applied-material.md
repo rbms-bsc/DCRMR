@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.212.3 General rule 
 
-<a name="5.212.3.1">5.212.3.1</a> Record the applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies, RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/), and indicate the source.
+<a name="5.212.3.1">5.212.3.1</a> Record the applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source.
 
 >Example:  
 ><CITE>ink</CITE>

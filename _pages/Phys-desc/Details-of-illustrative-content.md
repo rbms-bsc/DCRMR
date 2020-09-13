@@ -50,13 +50,13 @@ sidebar:
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-<a name="5.203.9.1">5.203.9.1</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.9.1](/DCRMR/phys-desc/Illustrative-content/#5.202.9.1)). 
+<a name="5.203.3.5">5.203.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.9.1](/DCRMR/phys-desc/Illustrative-content/#5.202.9.1)). 
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>  
 
-<a name="5.203.9.2">5.203.9.2</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.91.1](/DCRMR/phys-desc/Illustrative-content/#5.202.91.1)). 
+<a name="5.203.3.6">5.203.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.91.1](/DCRMR/phys-desc/Illustrative-content/#5.202.91.1)). 
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -65,4 +65,4 @@ sidebar:
 >Example:  
 >Details of illustrative content: <CITE>Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket</CITE>
 
-<a name="5.203.9.3">5.203.9.3</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) for hand-colored manifestations issued as such and [Note on item](/DCRMR/Notes-on-items/Note-on-item), [10.20.2.2](/DCRMR/Notes-on-items/Note-on-item/#10.20.2.2).
+<a name="5.203.3.7">5.203.3.7</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-colour-content/), [5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring) for hand-colored manifestations issued as such and [Note on item](/DCRMR/Notes-on-items/Note-on-item), [10.20.2.2](/DCRMR/Notes-on-items/Note-on-item/#10.20.2.2)for hand-colored manifestations not issued as such.

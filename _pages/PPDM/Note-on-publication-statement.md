@@ -105,7 +105,7 @@ sidebar:
 
 ## 4.206.6 Notes from Parallel name of publisher
 
-<a name="4.206.6.1">4.206.6.1</a> Make a note on publication statement if a [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/) is found on a different source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important for identification (see [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1)).
+<a name="4.206.6.1">4.206.6.1</a> Make a note on publication statement if a [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/) is found on a different source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important for identification (see [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.2](/DCRMR/ppdm/Name-of-publisher/#4.203.97.2)).
 
 <a name="4.206.6.2">4.206.6.2</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements was transposed (see [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [4.204.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
 

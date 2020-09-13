@@ -25,12 +25,12 @@ sidebar:
 
 ## 5.211.3 General rule
 
-<a name="5.211.3.1">5.211.3.1</a> Record the base material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/) and indicate the source.
+<a name="5.211.3.1">5.211.3.1</a> Record the base material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source.
 
 >Example:  
 ><CITE>paper</CITE>
 
-<a name="5.211.3.2">5.211.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary, and indicate its source. Prefer the [RBMS Controlled vocabularies, Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"} for terms for specific types of paper.
+<a name="5.211.3.2">5.211.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary, and indicate its source. Prefer the [RBMS Controlled vocabularies: Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"} for terms for specific types of paper.
 
 >Example:  
 ><CITE>Japan vellum</CITE>

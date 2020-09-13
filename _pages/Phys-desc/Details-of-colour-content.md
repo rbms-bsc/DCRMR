@@ -43,13 +43,13 @@ sidebar:
 ><CITE>Printed in red, blue and black</CITE>
 
 >Example:  
->`Quaderno 3 printed in dark blue ink; quaderno 4 printed in dark red ink; nuevo ser. n. 1 issued in black, blue, red, purple and green inks; ott. 1976 printed in purple ink; febbr. 10, 1977 printed in medium blue ink`
+><CITE>Quaderno 3 printed in dark blue ink; quaderno 4 printed in dark red ink; nuevo ser. n. 1 issued in black, blue, red, purple and green inks; ott. 1976 printed in purple ink; febbr. 10, 1977 printed in medium blue ink</CITE>
 
 <a name="5.205.4.3">5.205.4.3</a> For incunabula, always record color printing if present (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.3.4](/DCRMR/phys-desc/Colour-content/#5.204.3.4)).
 
 ## 5.205.5 Details of hand coloring
 
-<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4), make a note to indicate that the resource was hand colored before distribution. Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
+<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [Colour content](/DCRMR/phys-desc/Colour-content/), make a note to indicate that the resource was hand colored before distribution (see [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
 >Details of colour content: <CITE>With hand-colored wood engravings, as issued</CITE>  

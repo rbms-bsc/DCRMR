@@ -55,7 +55,7 @@ sidebar:
 
 ## 4.205.4 Transcription involving adjustments or additions
 
-<a name="4.205.4.1">4.205.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.205.4.1">4.205.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>anno Domini MDCXIV [1614]</CITE> 
@@ -66,7 +66,7 @@ sidebar:
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>
 
-<a name="4.205.4.2">4.205.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
+<a name="4.205.4.2">4.205.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
@@ -85,7 +85,7 @@ sidebar:
 >Date of publication: <CITE>[1650]</CITE>  
 >Note on publication statement: <CITE>Date of publication: derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>  
 
-<a name="4.205.4.3">4.205.4.3</a> **Very long dates.** If the date on the preferred source of information is very long, generally transcribe it as ist appears.
+<a name="4.205.4.3">4.205.4.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as ist appears.
 
 **Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
@@ -94,7 +94,7 @@ sidebar:
 >Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
 >(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates.** If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.3)). 
+<a name="4.205.4.4">4.205.4.4</a> **Fictitious or incorrect dates**. If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.3)). 
 
 **Alternative rule**. Supply the actual date in square brackets.
 
@@ -112,7 +112,7 @@ sidebar:
 >Date of publication: <CITE>1786 [i.e. 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="4.205.4.5">4.205.4.5</a> **Julian/Old Style dates.** If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note on publication statement to indicate the basis for the supplied year (see [4.206.8.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="4.205.4.5">4.205.4.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note on publication statement to indicate the basis for the supplied year (see [4.206.8.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -133,7 +133,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 ><CITE>1690/1691 [i.e. 1691]</CITE>
 
-<a name="4.205.4.6">4.205.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of publication is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
+<a name="4.205.4.6">4.205.4.6</a> **Dates not of the Julian or Gregorian calendar**.  If the date of publication is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
 >Example:   
 ><CITE>627 [1866 or 1867]</CITE>  
@@ -157,7 +157,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>publié le 9 thermidor l'an 2e de la Rép. f. [27 July 1794]</CITE>  
 >(*Comment*: Date follows French Revolutionary calendar)  
 
-<a name="4.205.4.7">4.205.4.7</a> **Multiple adjustments or additions.** If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.8.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.5)).
+<a name="4.205.4.7">4.205.4.7</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.8.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.5)).
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  
@@ -185,7 +185,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.205.6.1">4.205.6.1</a> Supply in square brackets a conjectural date of publication based on any information available. Indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.7](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.7)).
 
-<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the title or the statement of responsibility elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:  
 >Date of publication: <CITE>[1814?]</CITE>  

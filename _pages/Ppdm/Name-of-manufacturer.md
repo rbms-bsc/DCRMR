@@ -34,7 +34,7 @@ sidebar:
 >Example:  
 ><CITE>printed by S. Gosnell, Little Queen Street, Holborn</CITE>
 
-<a name="4.223.3.2">4.223.3.2</a> *Optional omission*: Omit addresses and insignificant information appearing with the manufacturer’s name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
+<a name="4.223.3.2">4.223.3.2</a> *Optional omission*: omit addresses and insignificant information appearing with the manufacturer’s name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  
@@ -110,7 +110,7 @@ sidebar:
 >Example:  
 ><CITE>Lovejoy, Son & Co., electrotypers & stereotypers, 15 Vandewate Street, N.Y.S.W. ; Green, printer and stereotyper, 16 and 18 Jacob Street, New-York</CITE>
 
-<a name="4.223.7.2">4.223.7.2</a> *Optional omission*: If it is considered that the names are too numerous to record exhaustively and some may be omitted without significant loss of identification then all manufacturers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted manufacturers and the number of omitted places (if more than one) in the supplied phrase.
+<a name="4.223.7.2">4.223.7.2</a> *Optional omission*: if it is considered that the names are too numerous to record exhaustively and some may be omitted without significant loss of identification then all manufacturers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted manufacturers and the number of omitted places (if more than one) in the supplied phrase.
 
 >Example:  
 ><CITE>Printed by L. Nichols & Co., T. & J. Swords, E. Duyckinck [and 10 others]</CITE>
