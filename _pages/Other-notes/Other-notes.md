@@ -20,7 +20,7 @@ sidebar:
 
 <a name="7.02.1">7.02.1</a> If information in a note corresponds to information found in the title and statement of responsibility, edition, publication, distribution, etc., physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
 
-## 7.03 General instructions
+## 7.03 General rules
 
 <a name="7.03.1">7.03.1</a> Notes qualify and amplify the formal description, and are especially important for recording types of information not accounted for in other data elements. Notes can therefore deal with any aspect of the resource.
 
@@ -30,7 +30,7 @@ sidebar:
 
 ## 7.04 Required notes
 
-<a name="7.04.1">7.04.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on statement of responsibility], notes on data provenance.  Required notes include:
+<a name="7.04.1">7.04.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on statement of responsibility], notes on data provenance.  Required notes include:
 
 + accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.X.X](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.X.X)  
 + advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4](/DCRMR/other-notes/Supplementary-content/#72324-general-rule)  

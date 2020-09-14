@@ -23,7 +23,7 @@ sidebar:
 
 <a name="chapter#.entity#.2.1">chapter#.entity#.2.1</a> [Definition from RDA Registry]
 
-## chapter#.entity#.3 [General rule?  Name of Entity?  Start of instructions]
+## chapter#.entity#.3 [General rule?  Name of Entity?  Start of ]
 
 <a name="chapter#.entity#.3.1">chapter#.entity#.3.1</a> [Text of instruction with reference to another completed page via a see reference]  (see [chapter#.entity#.section#.instruction#](/DCRMR/chapter-name/Name-of-entity-featured-on-the-page/#chapter#.entity#.section#.instruction#)).
 

@@ -23,7 +23,7 @@ sidebar:
 
 <a name="7.20.2.1">7.20.2.1</a> [Definition from RDA Registry]
 
-## 7.20.3 [General rule?  Name of Entity?  Start of instructions]
+## 7.20.3 [General rule?  Name of Entity?  Start of ]
 
 <a name="7.20.3.1">7.20.3.1</a> [Text of instruction with reference to another completed page via a see reference]  (see [7.20.section#.instruction#](/DCRMR/chapter-name/Name-of-entity-featured-on-the-page/#7.20.section#.instruction#)).
 

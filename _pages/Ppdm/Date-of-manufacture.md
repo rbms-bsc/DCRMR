@@ -39,31 +39,31 @@ sidebar:
 
 ## 4.225.5 Transcription involving adjustments or additions
 
-<a name="4.225.5.1">4.225.5.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.225.5.1">4.225.5.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
-<a name="4.225.5.2">4.225.5.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
+<a name="4.225.5.2">4.225.5.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
 
 **Alternative rule**. Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
 
-<a name="4.225.5.3">4.225.5.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
+<a name="4.225.5.3">4.225.5.3</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
 **Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and the original form of the date (see [4.226.8.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.2)).
 
-<a name="4.225.5.4">4.225.5.4</a> **Fictitious or incorrect dates.** If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.3)).
+<a name="4.225.5.4">4.225.5.4</a> **Fictitious or incorrect dates**. If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.3)).
 
 **Alternative rule**. Supply the actual date in square brackets.
 
-<a name="4.225.5.5">4.225.5.5</a> **Julian/Old Style dates.** If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [4.226.8.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="4.225.5.5">4.225.5.5</a> **Julian/Old Style dates**. If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [4.226.8.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 
-<a name="4.225.5.6">4.225.5.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of manufacture is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
+<a name="4.225.5.6">4.225.5.6</a> **Dates not of the Julian or Gregorian calendar**.  If the date of manufacture is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
 *Optionally*, if the date of manufacture includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
-<a name="4.225.5.7">4.225.5.7</a> **Multiple adjustments or additions.** If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.8.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.5)).
+<a name="4.225.5.7">4.225.5.7</a> **Multiple adjustments or additions**. If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.8.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.5)).
 
 ## 4.225.6 Date of manufacture supplied from reference sources
 

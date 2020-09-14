@@ -40,7 +40,7 @@ sidebar:
 
 ## 4.215.4 Transcription involving adjustments or additions
 
-<a name="4.215.4.1">4.215.4.1</a> **Roman numerals.** If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.215.4.1">4.215.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>in the year M.DCC.LXXV [1775]</CITE>
@@ -48,15 +48,15 @@ sidebar:
 >Example:  
 ><CITE>anno MDCLXXXVII [1687]</CITE>
 
-<a name="4.215.4.2">4.215.4.2</a> **Chronograms.** Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
+<a name="4.215.4.2">4.215.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
 
 **Alternative rule**. Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
 
-<a name="4.215.4.3">4.215.4.3</a> **Very long dates.** If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
+<a name="4.215.4.3">4.215.4.3</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
 **Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
 
-<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates.** If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
+<a name="4.215.4.4">4.215.4.4</a> **Fictitious or incorrect dates**. If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
 **Alternative rule**. Supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
@@ -64,7 +64,7 @@ sidebar:
 >Date of distribution: <CITE>1689 [i.e.1690]</CITE>  
 >Note on distribution statement:<CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
-<a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates.** If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [4.216.8.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="4.215.4.5">4.215.4.5</a> **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [4.216.8.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -78,7 +78,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 ><CITE>1691/2 [i.e. 1692]</CITE>
 
-<a name="4.215.4.6">4.215.4.6</a> **Dates not of the Julian or Gregorian calendar.**  If the date of distribution is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
+<a name="4.215.4.6">4.215.4.6</a> **Dates not of the Julian or Gregorian calendar**.  If the date of distribution is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
 >Example:  
 ><CITE>An III [1794 or 1795]</CITE>  
@@ -90,7 +90,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>die visitationis Beatae Virginis Mariae [July 2] 1497</CITE>  
 >(*Comment*: Day and month follow ecclesiastical calendar)
 
-<a name="4.215.4.7">4.215.4.7</a> **Multiple adjustments or additions.** If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for source of supplied dates (see [4.216.8.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.5)).
+<a name="4.215.4.7">4.215.4.7</a> **Multiple adjustments or additions**. If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for source of supplied dates (see [4.216.8.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.5)).
 
 ## 4.215.5 Date of distribution supplied from reference sources
 

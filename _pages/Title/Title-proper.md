@@ -60,7 +60,7 @@ Source: [Library of Congress](https://www.loc.gov/resource/cph.3a06060/)
 
 ```The nursery frieze```
 
-**Comment: Title constructed from letters scattered in sequence among the illustrations.**
+**Comment: Title constructed from letters scattered in sequence among the illustrations**.
 Source: [OCLC 2013288](http://www.worldcat.org/oclc/2013288) 
 
 ## 1.1A5 Words considered part of the title proper

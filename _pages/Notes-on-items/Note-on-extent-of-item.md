@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.23.3 General rule
 
-<a name="8.23.3.1">8.23.3.1</a> For general instructions on constructing item specific notes (see [Note on item](/DCRMR/notes-on-items/Note-on-item/), [8.20.3](/DCRMR/Notes-on-item/Note-on-item/#10203-general-rule)).
+<a name="8.23.3.1">8.23.3.1</a> For general rules on constructing item specific notes (see [Note on item](/DCRMR/notes-on-items/Note-on-item/), [8.20.3](/DCRMR/Notes-on-item/Note-on-item/#10203-general-rule)).
 
 <a name="8.23.3.2">8.23.3.2</a> Record item-specific imperfections that alter its extent, if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.95.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.95.1)).
 

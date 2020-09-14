@@ -15,7 +15,7 @@ sidebar:
 
 ## 0.2.1 Recording a content standard
 
-<a name="0.2.1.1">0.2.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR.**
+<a name="0.2.1.1">0.2.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
 
 ## 0.2.2-0.2.4 Basis of the description
 
@@ -29,7 +29,7 @@ sidebar:
 
 If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [7.223.4](/DCRMR/other-notes/Manifestation-described-in/https://rbms-bsc.github.io/DCRMR/other-notes/Manifestation-described-in/#72234-references-to-published-descriptions)). Make a local note describing the imperfection of the item in hand (see [10.21.3.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.3.2)).
 
-<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined.** If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.2">0.2.3.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 >Example:  
 ><CITE>London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho</CITE>  
@@ -40,9 +40,9 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 ><CITE>Carta de [...] sitio de Puebla</CITE>  
 >Note on manifestation: <CITE>Description based on an imperfect copy; section of map missing at top, affecting text</CITE>
 
-<a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials.** If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
+<a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials**. If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
-<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply.** If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply**. If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.14)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
 ### 0.2.4 Dust jackets
 
@@ -63,14 +63,14 @@ However, if the manifestation bears a cover or case issued with the resource tha
 >Note on title: <CITE>Title, edition statement, and imprint taken from printed wrapper.</CITE>
 >Title page reads: <CITE>Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846</CITE>
 
-<a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources.** If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
+<a name="0.2.5.2">0.2.5.2</a> **Single-sheet resources**. If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 
 + the whole sheet, recto and verso, including any permanently affixed labels issued with the resource
 + an original container or case issued with the resource (e.g., a  portfolio, cover, or envelope)
 
-<a name="0.2.5.3">0.2.5.3</a> **Multipart monographs.** Choose as the preferred source of information a source of information identifying the manifestation as a whole, preferring a source that has a collective title, regardless of whether or not the parts are numbered.
+<a name="0.2.5.3">0.2.5.3</a> **Multipart monographs**. Choose as the preferred source of information a source of information identifying the manifestation as a whole, preferring a source that has a collective title, regardless of whether or not the parts are numbered.
 
-<a name="0.2.5.4">0.2.5.4</a> **No title page, title sheet, or title card.** For manifestations issued without a title page, title sheet, or title card (and for manifestations issued *with* a title page when the title page is missing and no reliable description of it is available), if a single title proper is available in a single source within the manifestation, use this source as the preferred source. If the same title proper is available in more than one source within the manifestation, choose as the title page substitute the source that supplies the most additional information. If different titles, or differing forms of the same title, appear within the manifestation, choose as the preferred source the source within the manifestation in which the information is most formally presented. If there is no formal presentation of a title within the manifestation or if differing titles are presented equally formally, choose as the preferred source one of the following, in this order of preference:
+<a name="0.2.5.4">0.2.5.4</a> **No title page, title sheet, or title card**. For manifestations issued without a title page, title sheet, or title card (and for manifestations issued *with* a title page when the title page is missing and no reliable description of it is available), if a single title proper is available in a single source within the manifestation, use this source as the preferred source. If the same title proper is available in more than one source within the manifestation, choose as the title page substitute the source that supplies the most additional information. If different titles, or differing forms of the same title, appear within the manifestation, choose as the preferred source the source within the manifestation in which the information is most formally presented. If there is no formal presentation of a title within the manifestation or if differing titles are presented equally formally, choose as the preferred source one of the following, in this order of preference:
 
 + a colophon
 + a source within the preliminaries
@@ -82,7 +82,7 @@ Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source chosen
 
 Hereafter in these rules, “title page” means “title page or title page substitute.”
 
-<a name="0.2.5.5">0.2.5.5</a> **More than one preferred source of information.**  If there is more than one source of information that qualifies as the preferred source of information for the manifestation, choose as the preferred source of information one of the following, applying the first applicable criterion:
+<a name="0.2.5.5">0.2.5.5</a> **More than one preferred source of information**.  If there is more than one source of information that qualifies as the preferred source of information for the manifestation, choose as the preferred source of information one of the following, applying the first applicable criterion:
 
 + **Preferred sources of information for the reproduction and the original**  
 If the manifestation is a facsimile or reproduction of an original manifestation and the manifestation contains a preferred source of information for the reproduction as well as a preferred source of information for the original, then use the source for the reproduction as the preferred source.

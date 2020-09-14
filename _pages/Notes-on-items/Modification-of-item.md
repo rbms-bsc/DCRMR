@@ -27,7 +27,7 @@ sidebar:
 
 ## 10.21.3 General rule
 
-<a name="10.21.3.1">10.21.3.1</a> For general instructions on constructing item specific notes see [Note on item](/DCRMR/notes-on-items/Note-on-item/)).
+<a name="10.21.3.1">10.21.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/notes-on-items/Note-on-item/)).
 
 <a name="10.21.3.2">10.21.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 

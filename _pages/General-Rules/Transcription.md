@@ -39,7 +39,7 @@ If nonnormalized transcription is considered important, follow [RDA Guidelines o
 
 <a name="0.5.14.1">0.5.14.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if necessary.
 
-For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746).
+For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}.
 
 >Example:  
 ><CITE>A.J. Garnerin, aeoronaute, inv. du parachute, né à Paris 1769, [death symbol] 1813</CITE>  
@@ -193,14 +193,14 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement.)
 
-<a name="0.5.31.4">0.5.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
+<a name="0.5.31.4">0.5.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub, as appropriate:
 * [Apostrophes](/DCRMR/general-rules/Transcription/#0532-apostrophes) (see [0.5.32.1](/DCRMR/general-rules/Transcription/#0.5.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0533-hyphens) (see [0.5.33.1](/DCRMR/general-rules/Transcription/#0.5.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) (see [0.5.34.1](/DCRMR/general-rules/Transcription/#0.5.34.1))
 * [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0538-punctuation-substituting-for-letters) (see [0.5.38.1](/DCRMR/general-rules/Transcription/#0.5.38.1))
 * [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#05385-punctuation-indicating-an-abbreviation) (see [0.5.385.1](/DCRMR/general-rules/Transcription/#0.5.385.1))
 
-<a name="0.5.31.5">0.5.31.5</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following subinstructions:
+<a name="0.5.31.5">0.5.31.5</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0535-ellipses) (see [0.5.35.1](/DCRMR/general-rules/Transcription/#0.5.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#05355-square-brackets) (see [0.5.355.1](/DCRMR/general-rules/Transcription/#0.5.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0536-virgules) (see [0.5.36.1](/DCRMR/general-rules/Transcription/#0.5.36.1))
@@ -499,7 +499,7 @@ ET ITALIAE)
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
 
-<a name="0.5.51.3">0.5.51.3</a> *Exception*. Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.7.2](/DCRMR/ppdm/Name-of-publisher/#4.203.7.2)).
+<a name="0.5.51.3">0.5.51.3</a> *Exception*. Some element  specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.7.2](/DCRMR/ppdm/Name-of-publisher/#4.203.7.2)).
 
 >Example:  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
@@ -514,7 +514,7 @@ If considered important, give the omitted information in a note.
 
 For Dedications, see X.X.X.X. 
 
-**ALT note: where did dedications go? A search in the Drive folder for DCRM(B) Re-write doesn't get anything. in the RBMS PS, this said to look at 2.3.4.1, under Other Title Information.**
+**ALT note: where did dedications go? A search in the Drive folder for DCRM(B) Re-write doesn't get anything. in the RBMS PS, this said to look at 2.3.4.1, under Other Title Information**.
 
 **If dedications are no longer in Other title information (which it doesn't seem to be in the drafts), I propose either omitting it or the following, noting that it doesn't cleanly divide into Books - Not Books)**
 
@@ -734,7 +734,7 @@ conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/T
 
 ### 0.5.84 Letters or words intended to be read more than once
 
-**ALT note: The text of the main instruction comes pre-3R RDA; I think we'll want to modify it because copyright. Post-3R RDA states: Condition: A letter or word appears only once but is intended to be read more than once. Option: Repeat the letter or word.**
+**ALT note: The text of the main instruction comes pre-3R RDA; I think we'll want to modify it because copyright. Post-3R RDA states: Condition: A letter or word appears only once but is intended to be read more than once. Option: Repeat the letter or word**.
 
 <a name="0.5.84.1">0.5.84.1</a> If a letter or word appears only once but the design of the source of information makes it clear that it is intended to be read more than once, repeat the letter or word.
 
@@ -766,7 +766,7 @@ Make an explanatory note.
 
 ### 0.5.88 Numbers expressed as numerals or words
 
-**ALT note: in the latter part of this section, we didn't deviate from pre-3R RDA. Post-3R RDA is less than helpful in [Guidelines on normalized transcription / Numbers](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_mvj_cgs_b2b), giving options for "Transcribe a numeral as it appears", "Transcribe a numeral in a form preferred by an agent who creates the metadata unless the form is unclear", and "Transcribe a numeral as it appears and in an equivalent form preferred ...". The guidance for ordinals isn't a bad, but it's still all just options (at least there's only one).**
+**ALT note: in the latter part of this section, we didn't deviate from pre-3R RDA. Post-3R RDA is less than helpful in [Guidelines on normalized transcription / Numbers](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_mvj_cgs_b2b), giving options for "Transcribe a numeral as it appears", "Transcribe a numeral in a form preferred by an agent who creates the metadata unless the form is unclear", and "Transcribe a numeral as it appears and in an equivalent form preferred ...". The guidance for ordinals isn't a bad, but it's still all just options (at least there's only one)**.
 
 <a name="0.5.88.1">0.5.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
 
@@ -780,7 +780,7 @@ Make an explanatory note.
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
 <a name="0.5.88.2">0.5.88.2</a> 
-**ALT note: do we still need this enumeration? I spot-checked a few of these elements, and the instruction seems to be within the element instruction itself. Note that I haven't updated the element names or hyperlinked, since I don't know if we want to keep the list.**
+**ALT note: do we still need this enumeration? I spot-checked a few of these elements, and the instruction seems to be within the element instruction itself. Note that I haven't updated the element names or hyperlinked, since I don't know if we want to keep the list**.
 Also transcribe numbers expressed as numerals or as words in the form in which they appear on the source of information in the following elements:
 * Numeric and/or alphabetic designation of first issue or part of sequence
 * Chronological designation of first issue or part of sequence
@@ -801,7 +801,7 @@ Also transcribe numbers expressed as numerals or as words in the form in which t
 
 <a name="0.5.88.4">0.5.88.4</a> When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
 
-**ALT note: the following text is straight from pre-3R RDA.**
+**ALT note: the following text is straight from pre-3R RDA**.
 
 <u>1.8.2 Form of Numerals</u>
 
@@ -904,7 +904,7 @@ If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
 
 ### 0.5.94 Order and transposition
 
-**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now. I didn't do all of the numbering because I think we may end up re-working this section.**
+**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now. I didn't do all of the numbering because I think we may end up re-working this section**.
 
 <a name="0.5.94.1">0.5.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
@@ -915,7 +915,7 @@ the grammatical construction of the information would be disturbed,
 <u>or</u>
 the text is otherwise grammatically inseparable from its surrounding elements, 
 <u>or</u> 
-the data element instructions specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
+the data element  specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
 
 Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
 
@@ -923,7 +923,7 @@ Do not use the mark of omission to indicate transposition.
 
 Make a note to indicate the order in which the transposed information appears in the source.
 
-**ALT note: Title proper, Other title information, and Statement of Responsibility don't have a handy super-element like Publication statement. Currently, I have the examples in this section as the ISBD formatted, like you'd see in a 245, followed by the example atomized into elements. Elizabeth noted that this makes it look like we're asking catalogers to repeat information. I'm happy to delete the atomized version, but I wanted to leave it in for now as a point of discussion.**
+**ALT note: Title proper, Other title information, and Statement of Responsibility don't have a handy super-element like Publication statement. Currently, I have the examples in this section as the ISBD formatted, like you'd see in a 245, followed by the example atomized into elements. Elizabeth noted that this makes it look like we're asking catalogers to repeat information. I'm happy to delete the atomized version, but I wanted to leave it in for now as a point of discussion**.
 
 >Example: 
 ><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven.</CITE>  
