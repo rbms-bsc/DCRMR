@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.222.1 Element information
 
-<a name="9.222.1.1">9.222.1.1</a> [Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
+<a name="9.222.1.1">9.222.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-1b19dd8e-f64e-3211-ac1b-afff9b730551){:target="_blank"}
 
 <a name="9.222.1.2">9.222.1.2</a> [Source of information](/DCRMR/other-notes/)
 
