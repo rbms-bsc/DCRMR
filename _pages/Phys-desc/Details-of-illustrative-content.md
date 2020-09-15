@@ -50,13 +50,13 @@ sidebar:
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-<a name="5.203.3.5">5.203.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.9.1](/DCRMR/phys-desc/Illustrative-content/#5.202.9.1)). 
+<a name="5.203.3.5">5.203.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.9.1](/DCRMR/phys-desc/Illustrative-content/#5.202.9.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>  
 
-<a name="5.203.3.6">5.203.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.91.1](/DCRMR/phys-desc/Illustrative-content/#5.202.91.1)). 
+<a name="5.203.3.6">5.203.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [5.202.91.1](/DCRMR/phys-desc/Illustrative-content/#5.202.91.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

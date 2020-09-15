@@ -102,7 +102,7 @@ sidebar:
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1)) and [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by manifestation/), [7.295.X.X](/DCRMR/other-notes/Accompanied-by manifestation/#7.295.X.X)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1)) and [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by manifestation/), [7.295.4.1](/DCRMR/other-notes/Accompanied-by manifestation/#7.295.4.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
