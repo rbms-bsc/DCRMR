@@ -19,4 +19,4 @@ sidebar:
 
 ## VIII.2 Notes
 
-<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/other-notes/) and [Notes on items](/DCRMR/notes-on-items/)0.
+<a name="VIII.2.1">VIII.2.1</a>  The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/other-notes/) and [Notes on items](/DCRMR/notes-on-items/)).

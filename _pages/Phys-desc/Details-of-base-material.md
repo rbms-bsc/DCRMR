@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.2112.3 General rule  
 
-<a name="5.2112.3.1">5.211.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [5.211.3.3](/DCRMR/phys-desc/Base-material/#5.211.3.3).
+<a name="5.2112.3.1">5.211.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [5.211.3.3](/DCRMR/phys-desc/Base-material/#5.211.3.3)).
 
 >Example:  
 ><CITE>Printed on vellum</CITE>

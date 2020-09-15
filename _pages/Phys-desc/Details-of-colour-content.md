@@ -49,7 +49,7 @@ sidebar:
 
 ## 5.205.5 Details of hand coloring
 
-<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [Colour content](/DCRMR/phys-desc/Colour-content/), make a note to indicate that the resource was hand colored before distribution (see [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
+<a name="5.205.5.1">5.205.5.1</a> If publisher-issued hand coloring has been recorded as [Colour content](/DCRMR/phys-desc/Colour-content/), make a note to indicate that the resource was hand colored before distribution (see [5.204.4.4](/DCRMR/phys-desc/Colour-content/#5.204.4.4)). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
 >Details of colour content: <CITE>With hand-colored wood engravings, as issued</CITE>  

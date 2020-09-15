@@ -25,12 +25,12 @@ sidebar:
 
 <a name="4.216.3.1">4.216.3.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
-<a name="4.216.3.2">4.216.3.2</a> Make a note about information not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.02.3](/DCRMR/ppdm/#4.02.3)).
+<a name="4.216.3.2">4.216.3.2</a> Make a note about information not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 
-<a name="4.216.3.3">4.216.3.3</a> Make a note on distribution statement indicating the original position of the transposed elements if transposed statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable (see [4.03.2](/DCRMR/ppdm/#4.03.2)).
+<a name="4.216.3.3">4.216.3.3</a> Make a note on distribution statement indicating the original position of the transposed elements if transposed statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 >Example:  
->Distribution staetment: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
+>Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
 >Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
 
 <a name="4.216.3.4">4.216.3.4</a> Make an explanatory note if all information relating to the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) appearing in the manifestation is known to be fictitious or incorrect. Include the source of this information (see [4.21.3.1](/DCRMR/ppdm/Distribution-statement/#4.21.3.1)).
@@ -80,19 +80,19 @@ sidebar:
 
 <a name="4.216.5.3">4.216.5.3</a> Make a note if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [4.213.6.1](/DCRMR/ppdm/Name-of-distributor/#4.213.6.1)).
 
-<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a note (see [4.213.8.1](/DCRMR/ppdm/Name-of-distributor/#4.213.8.1)).
+<a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.8.1](/DCRMR/ppdm/Name-of-distributor/#4.213.8.1)).
 
 <a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.9.1](/DCRMR/ppdm/Name-of-distributor/#4.213.9.1)).
 
 ## 4.216.6 Notes from Parallel name of distributor
 
-<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
+<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
 
 ## 4.216.7 Notes from Parallel place of distribution
 
-<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distributor](/DCRMR/Place-of-distributor/) and is considered important for identification (see [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#4.212.3.2) and [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distributor](/DCRMR/Place-of-distributor/) and is considered important for identification (see [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#4.212.3.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
 
 ## 4.216.8 Notes from Date of distribution
 
@@ -102,7 +102,7 @@ sidebar:
 
 <a name="4.216.8.3">4.216.8.3</a>  If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) is known to be fictitious or incorrect, supply the actual date in a note on distribution statement (see [4.215.4.4](/DCRMR/ppdm/Date-of-distribution/#4.215.4.4)).
 
-**Alternative rule**. Make a note to indicate the source of the information (see [4.215.4.4](/DCRMR/ppdm/Date-of-distribution/#4.215.4.4)).
+**Alternative rule**. Make a note to indicate the source of the information (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.4.4](/DCRMR/ppdm/Date-of-distribution/#4.215.4.4)).
 
 >Example:  
 >Date of distribution: <CITE>1689 [i.e.1690]</CITE>  

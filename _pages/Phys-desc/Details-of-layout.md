@@ -23,7 +23,7 @@ sidebar:
 
 ## 5.221.3 Notes on layout 
 
-<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves)), record their presence as details of layout if considered important.
+<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) record their presence as details of layout if considered important (see [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves)).
 
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>

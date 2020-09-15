@@ -67,17 +67,17 @@ sidebar:
 
 <a name="5.202.8.1">5.202.8.1</a> *Optionally*, specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.  
 
-coat of arms  
-facsimile  
-form  
-genealogical table  
-graph  
-illumination  
-map  
-photograph  
-plan  
-portrait  
-sample  
++ coat of arms  
++ facsimile  
++ form  
++ genealogical table  
++ graph  
++ illumination  
++ map  
++ photograph  
++ plan  
++ portrait  
++ sample  
 
 <a name="5.202.8.2">5.202.8.2</a> Record a term in the singular or plural as appropriate.
 

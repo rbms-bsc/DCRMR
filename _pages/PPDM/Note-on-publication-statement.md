@@ -26,9 +26,9 @@ sidebar:
 
 <a name="4.206.3.1">4.206.3.1</a> Make a note on publication statement if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
-<a name="4.206.3.2">4.206.3.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) but is considered important (see [4.30.3.3](/DCRMR/ppdm/Publication-statement/#4.02.3)).
+<a name="4.206.3.2">4.206.3.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) but is considered important (see [4.30.3.3](/DCRMR/ppdm/#4.01.3)).
 
-<a name="4.206.3.3">4.206.3.3</a> Make a note on publication statement if [Publication statements](/DCRMR/ppdm/Publication-statement/) are transposed indicating the original position of the transposed elements (see [4.03.2](/DCRMR/ppdm/Publication-statement/#4.03.2)).
+<a name="4.206.3.3">4.206.3.3</a> Make a note on publication statement if [Publication statements](/DCRMR/ppdm/Publication-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 >Example:  
 >Publication statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
@@ -105,13 +105,13 @@ sidebar:
 
 ## 4.206.6 Notes from Parallel name of publisher
 
-<a name="4.206.6.1">4.206.6.1</a> Make a note on publication statement if a [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/) is found on a different source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important for identification (see [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.2](/DCRMR/ppdm/Name-of-publisher/#4.203.97.2)).
+<a name="4.206.6.1">4.206.6.1</a> Make a note on publication statement if a [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/) is found on a different source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.2](/DCRMR/ppdm/Name-of-publisher/#4.203.97.2)).
 
-<a name="4.206.6.2">4.206.6.2</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements was transposed (see [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [4.204.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
+<a name="4.206.6.2">4.206.6.2</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements was transposed (see [Name of publisher]((/DCRMR/ppdm/Name-of-publisher), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
 
 ## 4.206.7 Notes from Parallel place of publication
 
-<a name="4.206.7.1">4.206.7.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [4.202.3.2](/DCRMR/ppdm/Parallel-place-of-publication/#4.202.3.2)).
+<a name="4.206.7.1">4.206.7.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [4.202.3.2](/DCRMR/ppdm/Parallel-place-of-publication/#4.202.3.2)).
 
 ## 4.206.8 Notes from Date of publication
 
@@ -166,12 +166,12 @@ sidebar:
 >Date of publication: <CITE>M.DC.XXV [1625, i.e. 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="4.206.8.6">4.206.8.6</a> Make a note on publication statement giving the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/)and any needed explanation if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known (see [4.205.5.1](/DCRMR/ppdm/Date-of-publication/#4.205.5.1)).
+<a name="4.206.8.6">4.206.8.6</a> Make a note on publication statement giving the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/) and any needed explanation if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known (see [4.205.5.1](/DCRMR/ppdm/Date-of-publication/#4.205.5.1)).
 
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description.
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
 
 <a name="4.206.8.7">4.206.8.7</a> Make a note on publication statement indicating the basis for the conjecture when supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available (see [4.205.6.1](/DCRMR/ppdm/Date-of-publication/#4.205.6.1)).
 

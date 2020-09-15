@@ -60,7 +60,7 @@ sidebar:
 
 ### 5.20.4 Normally imposed single sheets
 
-<a name="5.20.4.1">5.20.4.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed (see [5.201.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.4)).
+<a name="5.20.4.1">5.20.4.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.4)).
 
 >Example:  
 > Extent of manifestation: <CITE>1, [3] pages</CITE>  

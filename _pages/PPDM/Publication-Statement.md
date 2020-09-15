@@ -25,7 +25,7 @@ sidebar:
 
 ## 4.20.3 Fictitious or incorrect information
 
-<a name="4.20.3.1">4.20.3.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.4)).  
+<a name="4.20.3.1">4.20.3.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see X.X.X.X).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.4)).  
 
 >Example:  
 >Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]</CITE>  

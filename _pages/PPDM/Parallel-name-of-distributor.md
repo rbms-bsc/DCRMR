@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.214.3 Distributor statements in more than one language or script
 
-<a name="4.214.3.1">4.214.3.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important for identification (see [4.216.6.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.6.1)).
+<a name="4.214.3.1">4.214.3.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important for identification (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.6.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.6.1)).
 
 <a name="4.214.3.2">4.214.3.2</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [4.216.6.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.6.2)). 
 

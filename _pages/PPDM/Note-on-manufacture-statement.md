@@ -26,7 +26,7 @@ sidebar:
 
 <a name="4.226.3.1">4.226.3.1</a>  Make a note on manufacture statement if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
-<a name="4.226.3.2">4.226.3.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) but is considered important (see [4.02.3](/DCRMR/#4.02.3)).
+<a name="4.226.3.2">4.226.3.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) but is considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 
 <a name="4.226.3.3">4.226.3.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [4.22.4.2](/DCRMR/ppdm/Manufacture-statement/#4.03.2)).
 
@@ -70,13 +70,13 @@ sidebar:
 
 ## 4.226.6 Notes from Parallel name of manufacturer
 
-<a name="4.226.6.1">4.226.6.1</a> Make a note if parallel manufacturers' names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [4.224.3.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#4.224.3.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.2)).
+<a name="4.226.6.1">4.226.6.1</a> Make a note if parallel manufacturers' names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [4.224.3.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#4.224.3.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.2)).
 
 <a name="4.226.6.2">4.226.6.2</a> Make a note if the name of the manufacturer appears in more than one language or script and the original position of elements was transposed (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [4.224.3.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#4.224.3.2)).
 
 ## 4.226.7 Notes from Parallel place of manufacture
 
-<a name="4.226.7.1">4.226.7.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the place of manufacture and is considered important for identification (see [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#4.212.3.2)).
+<a name="4.226.7.1">4.226.7.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#4.212.3.2)).
 
 ## 4.226.8 Notes from Date of manufacture
 
@@ -86,7 +86,7 @@ sidebar:
 
 <a name="4.226.8.3">4.226.8.3</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
-**Alternative rule**. Make a note to indicate the source of the information (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
+**Alternative rule**. Make a note to indicate the source of the information (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
 
 <a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
 

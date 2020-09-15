@@ -471,7 +471,7 @@ ET ITALIAE)
 
 >Example:  
 ><CITE>M. J.P. Rabaut</CITE>  
->(*Comment*: The first initial stands for Monsieur.
+>(*Comment*: The first initial stands for Monsieur.)
 
 >Example:  
 ><CITE>by D.L. M.A.</CITE>
@@ -762,7 +762,7 @@ Make an explanatory note.
 >Example:  
 ><CITE>Caroe. Watson</CITE>  
 >(*Source of information reads*: Caro.<sup>e</sup> Watson)  
->(*Comment*: Comment: Engraver is Caroline Watson)
+>(*Comment*: Engraver is Caroline Watson)
 
 ### 0.5.88 Numbers expressed as numerals or words
 

@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.224.3 Manufacturer Statements in more than one language or script
 
-<a name="4.224.3.1">4.224.3.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a note on parallel manufacturers’ names found elsewhere if considered important for identification (see [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement), [4.226.6.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.1)).
+<a name="4.224.3.1">4.224.3.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) on parallel manufacturers’ names found elsewhere if considered important for identification (see [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement), [4.226.6.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.1)).
 
 <a name="4.224.3.2">4.224.3.2</a> Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [4.226.6.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.2)). 
 

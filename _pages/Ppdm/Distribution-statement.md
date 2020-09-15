@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.21.3 Fictitious or incorrect information
 
-<a name="4.21.3.1">4.21.3.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.4)).
+<a name="4.21.3.1">4.21.3.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see X.X.X.X).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.4)).
 
 ## 4.21.4 Information covered by labels, etc.
 

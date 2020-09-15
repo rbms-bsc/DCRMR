@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.29.3 Source and position of edition statement
 
-<a name="3.29.3.1">3.29.3.1</a> Note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the title page (see [3.01.1](/DCRMR/edition/#3.01.1), [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2), [3.21.8.3](/DCRMR/edition/Designation-of-edition/#3.21.8.3), [3.25.5.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1), and [3.25.5.2]((/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.5.2)).
+<a name="3.29.3.1">3.29.3.1</a> Note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the title page (see [3.01.1](/DCRMR/edition/#3.01.1), [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2), [3.21.8.3](/DCRMR/edition/Designation-of-edition/#3.21.8.3), [3.25.5.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.6.1), and [3.25.5.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.5.2)).
 
 >Example:  
 > <CITE>The statement “corrected printing” from colophon</CITE>
@@ -63,7 +63,7 @@ sidebar:
 > Title statement: <CITE>Winnipeg & Manitoba street atlas ; Manitoba back road atlas</CITE>
 > Edition statement (1st work): <CITE>4th edition</CITE> 
 >Edition statement (2nd work): <CITE>New edition, includes street atlas</CITE>
->(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover. 
+>(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover.) 
 
 ## 3.29.6 Edition statements relating to issues or parts
 
