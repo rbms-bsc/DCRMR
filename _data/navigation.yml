@@ -240,8 +240,20 @@ docs:
   - title: "Chapter 7. Other Notes"
     url: /other-notes/
     children:
+      - title: "Note on RDA entity"
+        url: /other-notes/Note-on-RDA-entity/
+      - title: "Note on work"
+        url: /other-notes/Note-on-work/
+      - title: "Note on expression"
+        url: /other-notes/Note-on-expression/
+      - title: "Language of expression"
+        url: /other-notes/Language-of-expression/
+      - title: "Script"
+        url: /other-notes/Script/
       - title: "Note on manifestation"
         url: /other-notes/Note-on-manifestation/
+      - title: "Accompanied by manifestation"
+        url: /other-notes/Accompanied-by-manifestation/
       - title: "Dissertation or thesis information"
         url: /other-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
@@ -252,8 +264,6 @@ docs:
         url: /other-notes/Year-degree-granted/
       - title: "Manifestation described in"
         url: /other-notes/Manifestation-described-in/
-      - title: "Note on RDA entity"
-        url: /other-notes/Note-on-RDA-entity/
       - title: "Summarization of content"
         url: /other-notes/Summarization-of-content/    
       - title: "Supplementary content"

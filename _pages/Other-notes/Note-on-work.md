@@ -13,31 +13,36 @@ sidebar:
 1. TOC
 {:toc}
 
-## 7.20.1 Element information
+## 7.18.1 Element information
 
-<a name="7.20.1.1">7.20.1.1</a> [Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
+<a name="7.18.1.1">7.18.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-521fa629-f515-3247-9db0-f03e8736bf15){:target="_blank"}
 
-<a name="7.20.1.2">7.20.1.2</a> [Source of information](/DCRMR/chaptername/)
+<a name="7.18.1.2">7.18.1.2</a> [Source of information](/DCRMR/other-notes/)
 
-## 7.20.2 RDA definition and scope
+## 7.18.2 RDA definition and scope
 
-<a name="7.20.2.1">7.20.2.1</a> [Definition from RDA Registry]
+<a name="7.18.2.1">7.18.2.1</a> A broad unstructured description of one or more attributes of a work.
 
-## 7.20.3 [General rule?  Name of Entity?  Start of ]
+## 7.18.3 General rule
 
-<a name="7.20.3.1">7.20.3.1</a> [Text of instruction with reference to another completed page via a see reference]  (see [7.20.section#.instruction#](/DCRMR/chapter-name/Name-of-entity-featured-on-the-page/#7.20.section#.instruction#)).
+<a name="7.18.3.1">7.18.3.1</a> Make a note relating to the work being described if considered important.
 
-<a name="7.20.3.2">7.20.3.2</a> [Text of instruction with reference to another **INCOMPLETE** page via a see reference]  (see [7.20.X.X](/DCRMR/chapter-name/Name-of-entity-featured-on-the-page/#7.20.X.X)).  
+## 7.18.4 Notes on adaptations
 
-This is so we can search the string "X.X" using the [website's search engine](https://rbms-bsc.github.io/DCRMR/Search/) in the documentation and update the incomplete references as pages are transferred to GitHub.
+<a name="7.18.4.1">7.18.4.1</a> Make a note if the expression is an adaptation, unless apparent from the rest of the description (see also [Adaptation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
 
-## Formatting examples and comments
+>Example:  
+><CITE>Author's adaptation of his Latin text.</CITE>
 
-Examples formatting is at [Style sheet (full)](https://github.com/rbms-bsc/DCRMR/wiki/Style-sheet-(full)) (which includes Markdown and several examples); a quick reference is at [Style sheet (quick reference)](https://github.com/rbms-bsc/DCRMR/wiki/Style-sheet-(quick-reference)).
+>Example:  
+><CITE>Adaptation of: Breviarium monasticum</CITE>
 
-## Version history
-| Date | Initials | Comment |
-| ---| ---| ---|
-| 2020-08-19 |kkd | Created version history |
-| 2020-09-04| kkd | Updated examples |
-|2020-09-08|alt|Edited examples; point to Style sheet|
+## 7.18.5 Notes on sequential works
+
+<a name="7.18.5.1">7.18.5.1</a> Make a note on the fact that the work is part of a sequence of works, unless apparent from the rest of the description (see also [Succeeded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-948e6981-db86-3738-bc36-6650ff6330f1){:target="_blank"} and [Preceded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-e9b23ff8-cfc6-3a5a-a9ef-8019a8aaf1f0){:target="_blank"}).
+
+>Example:  
+><CITE>Preceded by: [Needs example]</CITE>
+
+>Example:  
+><CITE>Sequel to: Mémoires d'un médecine</CITE>
