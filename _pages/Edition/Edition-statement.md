@@ -110,7 +110,7 @@ In case of doubt, assume the set was not issued as such.
 >Note on extent of item: <CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
 >(*Comment*: The second of two descriptions associated with the made-up set)
 
-2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.6.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.6.1)).
 
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  

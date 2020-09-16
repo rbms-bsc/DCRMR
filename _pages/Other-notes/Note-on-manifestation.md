@@ -71,7 +71,7 @@ sidebar:
 
 ## 7.20.6 Notes on made-up sets of a multipart monograph
 
-<a name="7.20.6.1">7.20.6.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description (see edition statement), make a note on manifestation to indicate that the description is based on a made-up set.
+<a name="7.20.6.1">7.20.6.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edtition-Statement/#3.20.91.3)).
 
 >Example:  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>
@@ -81,12 +81,12 @@ sidebar:
 
 <a name="7.20.7.1">7.20.7.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description (see also [Reprinted as manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
-<a name="7.20.7.2">7.20.7.2</a> Give information about a series in which the publication has been issued previously if considered important.
+<a name="7.20.7.2">7.20.7.2</a> Give information about a series in which the publication has been issued previously if considered important (see [Note on series statement](/DCRMR/series/Note-on-series-statement/), [8.28.3.4](/DCRMR/series/Note-on-series-statement/#6.28.3.4)).
 
 >Example:  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
 
-# 7.20.8 Notes on dates
+# 7.20.8 Notes on dates not representing publication, distribution, or manufacture elements
 
 <a name="7.20.8.1">7.20.8.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.205.6.2](/DCRMR/ppdm/Date-of-publication/#4.205.6.2)).
 
