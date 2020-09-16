@@ -28,7 +28,7 @@ sidebar:
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>
 
-<a name="5.221.3.2">5.221.3.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#52014-signatures)) or full collation see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
+<a name="5.221.3.2">5.221.3.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#52014-signatures)) or full collation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
 
 <a name="5.221.3.3">5.221.3.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 

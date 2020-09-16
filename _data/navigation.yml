@@ -50,8 +50,6 @@ docs:
   - title: "General rules"
     url: /general-rules/
     children:
-      - title: "Scope"
-        url: /general-rules/Scope/
       - title: "Data provenance"
         url: /general-rules/Data-provenance/
       - title: "Prescribed punctuation"
@@ -244,8 +242,6 @@ docs:
     children:
       - title: "Note on manifestation"
         url: /other-notes/Note-on-manifestation/
-      - title: "Related manifestation of RDA entity"
-        url: /other-notes/Related-manifestation-of-RDA-entity/
       - title: "Dissertation or thesis information"
         url: /other-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"

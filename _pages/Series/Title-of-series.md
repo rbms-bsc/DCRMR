@@ -23,7 +23,7 @@ sidebar:
 
 <a name="6.21.2.1">6.21.2.1</a> A nomen that is a title that identifies a series to which a manifestation belongs.
 
-## 6.21.3 Title Proper of Series
+## 6.21.3 Title proper of series
 
 <a name="6.21.3.1">6.21.3.1</a> Transcribe the title of the series as it appears in the manifestation, according to the transcription guidelines (see [Transcription](/DCRMR/general-rules/Transcription/)).
 

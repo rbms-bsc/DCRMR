@@ -43,7 +43,7 @@ sidebar:
 
 ## 10.20.4 Statements relating to a substantially unchanged impression or state
 
-<a name="10.20.4.1">10.20.4.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the information is considered important (see [3.21.6](/DCRMR/edition/Designation-of-edition/#3216-statements-relating-to-a-substantially-unchanged-impression-or-state)).
+<a name="10.20.4.1">10.20.4.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the information is considered important (see [3.21.6.1](/DCRMR/edition/Designation-of-edition/#3.21.6.1)).
 
 >Example:  
 ><CITE>“Ninth printing, December, 1954,” on title page verso</CITE>
@@ -68,7 +68,7 @@ sidebar:
 
 ## 10.20.5 Edition statements on nonce collections
 
-<a name="10.20.5.1">10.20.5.1</a> If [Edition statements](https://rbms-bsc.github.io/DCRMR/edition/Edition-statement/) of parts in a nonce collection vary between copies, record the edition statements of the item in hand as a note on item (see [3.20.9.2](/https://rbms-bsc.github.io/DCRMR/edition/Edition-statement/#3.20.9.2)).
+<a name="10.20.5.1">10.20.5.1</a> If [Edition statements](https://rbms-bsc.github.io/DCRMR/edition/Edition-statement/) of parts in a nonce collection vary between copies, record the edition statements of the item in hand as a note on item (see [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
 
 ## 10.20.6 Exhibition history
 

@@ -44,7 +44,7 @@ sidebar:
 >Example:  
 > <CITE>xvi, 17-328 pages</CITE>
 
-<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/phys-desc/Extent-of-manifestation/#52092-leaves-or-pages-of-plates). Record in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) that the leaves are non-letterpress (see [5.2122.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2122.3.1)).
+<a name="5.20.3.4">5.20.3.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [5.20.92](/DCRMR/phys-desc/Extent-of-manifestation/#52092-leaves-or-pages-of-plates). Record in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) that the leaves are non-letterpress (see [5.2132.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2132.3.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>LXXVI leaves</CITE>  
@@ -219,7 +219,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [5.20.8.2]
 
 ### 5.20.91 Lack of numbering
 
-<a name="5.20.91.1">5.20.91.1</a> If the whole volume is unpaginated or unfoliated, count the pages or leaves and record the total in arabic numerals within square brackets. State the total in terms of pages or leaves, but not of both. Begin the count with the first page or leaf of the first gathering and end the count with the last page or leaf of the last gathering, as instructed in [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves). Count all blank pages or leaves.
+<a name="5.20.91.1">5.20.91.1</a> If the whole volume is unpaginated or unfoliated, count the pages or leaves and record the total in arabic numerals within square brackets. State the total in terms of pages or leaves, but not of both. Begin the count with the first page or leaf of the first gathering and end the count with the last page or leaf of the last gathering, as instructed in [5.20.5.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.5.1). Count all blank pages or leaves.
 
 > Example:  
 > <CITE>[94] pages</CITE> 
@@ -279,7 +279,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [5.20.8.2]
 
 ### 5.20.94 Double leaves
 
-<a name="5.20.94.1">5.20.94.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [5.201.3.92](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.92)).
+<a name="5.20.94.1">5.20.94.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.92](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.92)).
 
 >Example:  
 > Extent of manifestation: <CITE>[2], 86, [2] pages</CITE>  

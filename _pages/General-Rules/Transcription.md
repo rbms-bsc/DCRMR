@@ -329,7 +329,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
 >(*Source of information reads*:  Clara H_____d)
 
-<a name="0.5.38.4">0.5.38.4</a> If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [Variant title](/DCRMR/title/Variant-title) (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X))). 
+<a name="0.5.38.4">0.5.38.4</a> If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [Variant title](/DCRMR/title/Variant-title) (see [1.6.X.X](/DCRMR/title/Variant-title/#1.6.X.X)). 
 
 ### 0.5.385 Punctuation indicating an abbreviation
 
@@ -339,7 +339,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 ><CITE>Printed & sold by J. Preston</CITE>  
 >(*Source of information reads*: Printed & sold by J: Preston)
 
-<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0586-superscripts-and-subscripts), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1).)
+<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0586-superscripts-and-subscripts), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1))
 
 >Example:
 ><CITE>Ie. recueil nouveaux</CITE>  

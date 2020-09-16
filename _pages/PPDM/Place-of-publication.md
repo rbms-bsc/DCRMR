@@ -143,7 +143,7 @@ sidebar:
 
 ## 4.201.95 Place names that are grammatically inseparable parts of other areas, etc.
 
-<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the [Statement of publication](/DCRMR/ppdm/Statement of publication/) and is transcribed there, supply the place of publication in square brackets. Use a modern English form of the name, if there is one.
+<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the statement of publication and is transcribed there, supply the place of publication in square brackets. Use a modern English form of the name, if there is one.
 
 >Example:  
 ><CITE>[Munich] : Durch Peter Clement, Kunstführer zu München</CITE>

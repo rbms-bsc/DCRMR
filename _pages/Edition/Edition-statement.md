@@ -74,7 +74,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.29.7.1](/DCRMR/edition/Note-on-edition-statement/#3.29.7.1)).
 
-<a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [Note on item](/DCRMR/Notes-on-items/Note-on-item) (see [10.20.5.1](/DCRMR/notes-on-items/Note-on-item/#10.20.5.1)).
+<a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [Note on item](/DCRMR/notes-on-items/Note-on-item) (see [10.20.5.1](/DCRMR/notes-on-items/Note-on-item/#10.20.5.1)).
 
 ## 3.20.91 Edition statements on multipart monographs
 

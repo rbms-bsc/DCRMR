@@ -62,10 +62,10 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 ## Table of Contents
 {: .no_toc }
 
-[Background](/preface/Background/)
+[Background](/DCRMR/preface/Background/)
 
-[Changes from DCRM(B)](/preface/Changes-from-DCRM(B))
+[Changes from DCRM(B)](/DCRMR/preface/Changes-from-DCRM(B))
 
-[Future work](/preface/Future-work/)
+[Future work](/DCRMR/preface/Future-work/)
 
-[Acknowledgements](/preface/Acknowledgements/)
+[Acknowledgements](/DCRMR/preface/Acknowledgements/)

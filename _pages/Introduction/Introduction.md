@@ -14,11 +14,11 @@ sidebar:
 ## Table of Contents
 {: .no_toc }
 
-[I. Scope and purpose](/DCRMR/introduction/Scope and purpose/)
+[I. Scope and purpose](/DCRMR/introduction/Scope-and-purpose/)
 
 [II. Relationship to other standards](/DCRMR/introduction/Relationship-to-other-standards/)
 
-[III. Objectives and principles](/DCRMR/introduction/Objectives and principles/)
+[III. Objectives and principles](/DCRMR/introduction/Objectives-and-principles/)
 
 [IV. Options](/DCRMR/introduction/Options/)
 

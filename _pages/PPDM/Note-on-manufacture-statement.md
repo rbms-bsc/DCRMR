@@ -28,7 +28,7 @@ sidebar:
 
 <a name="4.226.3.2">4.226.3.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) but is considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 
-<a name="4.226.3.3">4.226.3.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [4.22.4.2](/DCRMR/ppdm/Manufacture-statement/#4.03.2)).
+<a name="4.226.3.3">4.226.3.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 <a name="4.226.3.4">4.226.3.4</a> Make an explanatory note if all information relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) appearing in the manifestation is known to be fictitious or incorrect and include the source of this information (see [4.22.3.1](/DCRMR/ppdm/Manufacture-statement/#4.22.3.1)).
 

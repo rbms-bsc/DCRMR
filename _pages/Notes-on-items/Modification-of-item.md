@@ -85,7 +85,7 @@ sidebar:
 
 ## 10.21.5 Bindings
 
-<a name="10.21.5.1">10.21.5.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [5.224.3](/https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#52243-general-rule)).
+<a name="10.21.5.1">10.21.5.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [5.224.3.1](/DCRMR/phys-desc/Type-of-binding/#5.224.3.1)).
 
 <a name="10.21.5.2">10.21.5.2</a> Indicate any errors in binding if considered important.
 

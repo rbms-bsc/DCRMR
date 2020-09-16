@@ -74,7 +74,7 @@ sidebar:
 > Extent of manifestation: <CITE>16 pages</CITE>  
 > Note on extent of manifestation: <CITE>Pages 4-16 also numbered 196-208</CITE>
 
-<a name="5.201.3.7">5.201.3.7</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important. (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.8.4](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.8.4)).
+<a name="5.201.3.7">5.201.3.7</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.8.4](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.8.4)).
 
 <a name="5.201.3.8">5.201.3.8</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.9.2](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.9.2)).
 
@@ -229,7 +229,7 @@ If the nonroman characters are accompanied by parallel numeration using another 
 
 > Example:  
 > <CITE>Signatures (in parallel Hebrew and arabic numerals): pi8 1-48</CITE>  
-> (*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)`
+> (*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)
 
 In case of doubt as to whether a sequence is numeric or alphabetic, assume a numeric sequence.
 

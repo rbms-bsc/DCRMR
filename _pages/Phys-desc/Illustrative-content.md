@@ -39,7 +39,7 @@ sidebar:
 
 ## 5.202.5 Graphic processes or techniques
 
-<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [5.213.X.X](/DCRMR/phys-desc/Production-method/#5.213.X.X)).  
+<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [5.213.3.1](/DCRMR/phys-desc/Production-method/#5.213.3.1)).  
 
 <a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4)). 
 
@@ -49,7 +49,7 @@ sidebar:
 
 <a name="5.202.6.2">5.202.6.2</a> See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.3.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.3.1)) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.5](/DCRMR/phys-desc/Details-of-colour-content/#52055-details-of-hand-coloring)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/Notes-on-items/Note-on-item) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)) for hand-colored manifestations not issued as such.
+<a name="5.202.6.3">5.202.6.3</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/notes-on-items/Note-on-item) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)) for hand-colored manifestations not issued as such.
 
 # 5.202.7 General rule
 
@@ -65,7 +65,7 @@ sidebar:
 
 # 5.202.8 Types of illustrations 
 
-<a name="5.202.8.1">5.202.8.1</a> *Optionally*, specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.  
+<a name="5.202.8.1">5.202.8.1</a> *Optionally*, specify particular types of illustrations. Use one or more of the following terms from the [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.  
 
 + coat of arms  
 + facsimile  
@@ -102,7 +102,7 @@ sidebar:
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1)) and [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by manifestation/), [7.295.4.1](/DCRMR/other-notes/Accompanied-by manifestation/#7.295.4.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1]((/DCRMR/other-notes/Supplementary-content/#7.232.4.1)) and [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation/), [7.295.4.1](/DCRMR/other-notes/Accompanied-by-manifestation/#7.295.4.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

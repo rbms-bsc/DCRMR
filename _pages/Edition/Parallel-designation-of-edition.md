@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.22.3 General rule
 
-<a name="3.22.3.1">3.22.3.1</a> If a [Designation of edition](DCRMR/edition/Designation-of-edition/) appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
+<a name="3.22.3.1">3.22.3.1</a> If a [Designation of edition](/DCRMR/edition/Designation-of-edition/) appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
 
 <a name="3.22.3.2">3.22.3.2</a> Transcribe the remaining statement(s) as Parallel designations of edition.
 

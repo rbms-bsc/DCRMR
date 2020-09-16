@@ -17,7 +17,7 @@ sidebar:
 
 <a name="10.22.1.1">10.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-bacfb41d-9379-3b1c-bf1a-c0cb428b63f4){:target="_blank"}
 
-<a name="10.22.1.2">10.22.1.2</a> [Source of information](/DCRMR/note-on-items/)
+<a name="10.22.1.2">10.22.1.2</a> [Source of information](/DCRMR/notes-on-items/)
 
 ## 10.22.2 RDA definition and scope
 
@@ -42,4 +42,4 @@ sidebar:
 >Example:  
 ><CITE>British Library copy: Part of King George III's Library. Donated to the nation by King George IV (1762-1830)</CITE>
 
-<a name="10.22.3.2">10.22.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) if considered important (see [10.21.4](/DCRMR/notes-on-items/Modification-of-item/#10214-provenance-evidence)).
+<a name="10.22.3.2">10.22.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) if considered important (see [10.21.4.1](/DCRMR/notes-on-items/Modification-of-item/#10.21.4.1)).

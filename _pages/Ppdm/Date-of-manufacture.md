@@ -25,7 +25,7 @@ sidebar:
 
 ## 4.225.3 General rule
 
-<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/ppdm/notes-on-items/Note-on-item/) if considered important.
+<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/notes-on-items/Note-on-item/) if considered important (see [10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1).
 
 # 4.225.4-4.225.91 Alternative rules
 

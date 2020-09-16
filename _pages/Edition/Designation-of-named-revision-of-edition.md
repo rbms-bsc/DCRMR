@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.25.3 Statement relating to a named revision of an edition
 
-<a name="3.25.3.1">3.25.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition) (see [3.21.3.1](/DCRM/edition/Designation-of-edition/#3.21.3.1)).
+<a name="3.25.3.1">3.25.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.3.1](/DCRMR/edition/Designation-of-edition/#3.21.3.1)).
 
 >Example:    
 >Designation of named revision of edition: <CITE>Carefully revised and additions made in 1848</CITE>  
@@ -72,4 +72,4 @@ sidebar:
 
 ## 3.25.5 Designations of named revision of edition in more than one language and script
 
-<a name="3.25.5.1">3.25.6.1</a> If a designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [3.26.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/#3.26.3.1)).  Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
+<a name="3.25.5.1">3.25.5.1</a> If a designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [3.26.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/#3.26.3.1)).  Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).

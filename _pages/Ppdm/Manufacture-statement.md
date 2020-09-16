@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.22.3 Fictitious or incorrect information
 
-<a name="4.22.3.1">4.22.3.1</a> If all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on manufacture statement]((/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.3.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.4)).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a note on manufacture statement.
+<a name="4.22.3.1">4.22.3.1</a> If all information relating to the manufacture statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.3.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.3.4)).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a note on manufacture statement.
 
 ## 4.22.4 Information covered by labels, etc.
 

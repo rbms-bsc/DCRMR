@@ -57,7 +57,7 @@ sidebar:
 >(*Comment*: Title contains statement “with brightly-colored pictures”)
 
 >Example:  
->Details of colour content: <CITE>Lithographs are hand-colored, as issued</CITE>
+>Details of colour content: <CITE>Lithographs are hand-colored, as issued</CITE>  
 >Colour content: <CITE>hand colored</CITE>
 
 <a name="5.205.5.2">5.205.5.2</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as details of colour content (see [Colour content](/DCRMR/phys-desc/Colour-content/), [5.204.4.5](/DCRMR/phys-desc/Colour-content/#5.204.4.5)).
@@ -65,7 +65,7 @@ sidebar:
 >Example:  
 ><CITE>"Price 25 cents plain, 37 1/2 cents coloured."--Foot of title page</CITE>
 
->Example:
+>Example:  
 ><CITE>"Price 1s. coloured, 6d. Uncoloured."--Following imprint</CITE>
 
 <a name="5.205.5.3">5.205.5.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one copy is representative of the coloring scheme for all copies. 
