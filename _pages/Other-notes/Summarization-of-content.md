@@ -31,3 +31,16 @@ sidebar:
 
 >Example:  
 ><CITE>Promotional brochure for the 1916 Panama California International Exposition, which opened in Balboa Park in San Diego, California on March 18, 1916. Although both San Francisco (the official site) and San Diego had hosted expositions during 1915 in honor of the completion of the Panama Canal, Southern Californians decided to continue the celebration in 1916, expanding the San Diego exposition with exhibits contributed by the San Francisco fair and by many foreign countries</CITE>
+
+## 7.231.5 Nature, scope or artistic form
+
+<a name="7.231.5.1">7.231.5.1</a> Make a note on the nature, scope, or artistic form when useful to amplify or explain the [Title proper](/DCRMR/title/Title-proper/) and [Other title information](/DCRMR/title/Other-title-information/).
+
+>Example:  
+><CITE>An advertisement</CITE>
+
+>Example:  
+><CITE>A satire against William Pulteney</CITE>
+ 
+>Example:  
+><CITE>Prospectus for: Pope, Alexander. Essay on criticism. London, 1745</CITE>
