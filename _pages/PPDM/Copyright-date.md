@@ -15,7 +15,7 @@ sidebar:
 
 ## 4.23.1 Element information
 
-<a name="4.23.1.1">4.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-452cb3af-3c8e-3c20-8d59-2362ad325a09)
+<a name="4.23.1.1">4.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-452cb3af-3c8e-3c20-8d59-2362ad325a09){:target="_blank"}
 
 ## 4.23.2 RDA Definition and scope
 

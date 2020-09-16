@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.2222.1 Element information
 
-<a name="5.2222.1.1">5.2222.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd)
+<a name="5.2222.1.1">5.2222.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-c5ac3ce3-80bc-3a38-aaf5-e4107a8312cd){:target="_blank"}
 
 ## 5.2222.2 RDA Definition and scope
 

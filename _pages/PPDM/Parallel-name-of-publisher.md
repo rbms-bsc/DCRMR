@@ -15,7 +15,7 @@ sidebar:
 
 ## 4.204.1 Element information
 
-<a name="4.204.1.1">4.204.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-5d433872-8c86-3bd2-8b6c-16f43bda686c)
+<a name="4.204.1.1">4.204.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-5d433872-8c86-3bd2-8b6c-16f43bda686c){:target="_blank"}
 
 ## 4.204.2 RDA Definition and scope
 

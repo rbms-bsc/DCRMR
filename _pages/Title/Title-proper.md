@@ -15,7 +15,7 @@ sidebar:
 
 ## 1.1A1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4b9291c5-f525-37fd-b661-c469e763ce8a)
+[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4b9291c5-f525-37fd-b661-c469e763ce8a){:target="_blank"}
 
 ---
 

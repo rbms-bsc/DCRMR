@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.2122.1 Element information
 
-<a name="5.2122.1.1">5.2122.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-a272b070-0b22-3745-93bc-d21d622f422b)
+<a name="5.2122.1.1">5.2122.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-a272b070-0b22-3745-93bc-d21d622f422b){:target="_blank"}
 
 <a name="5.2122.1.2">5.2122.1.2</a> [Source of information](/DCRMR/phys-desc/)
 

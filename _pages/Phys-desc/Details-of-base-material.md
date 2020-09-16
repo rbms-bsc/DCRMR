@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.2112.1 Manifestation: Details of base material
 
-<a name="5.2112.1.1">5.2112.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35)
+<a name="5.2112.1.1">5.2112.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35){:target="_blank"}
 
 <a name="5.2112.1.2">5.2112.1.2</a> [Source of information](/DCRMR/phys-desc)
 
