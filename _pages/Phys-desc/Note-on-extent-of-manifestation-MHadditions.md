@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on extent of manifestation
-permalink: phys-desc/Note-on-extent-of-manifestation/
+permalink: phys-desc/Note-on-extent-of-manifestation-MHadditions/
 sidebar:
   nav: "docs"
 ---
@@ -120,7 +120,7 @@ sidebar:
 <a name="5.201.4.1">5.201.4.1</a> **General rule**. Make a note giving details of the signatures of a volume if considered important.  Record these signature details according to the formula in Philip Gaskell's A New Introduction to Bibliography (see pages 328-332), insofar as typographical facilities permit. Preface this note with the word “Signatures” and a colon.
 
 > Example:  
-> <CITE>Signatures: [A]4 B-C4 D2 E-G4 H2</CITE>
+> <CITE>Signatures: [A]⁴ B-C⁴ D² E-G⁴ H²</CITE>
 
 > Example:  
 > <CITE>Signatures: pi⁴(-pi4) A-B⁶ C⁴ a⁶ b⁸, ²A-S⁶ T-V⁴ 2A-2V⁶ 3A-3V⁶ 4A-4U⁶ 5A-5Z⁶ a⁶ 2a⁶ *⁶ **⁸. Leaves 2N3-2N4 missigned 2N1-2N2; leaves 2N1-2N2 unsigned</CITE>
@@ -149,7 +149,7 @@ If the gatherings are signed with other unavailable characters, substitute a des
 > (Comment: Gathering is signed with ![Dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Dagger.jpg "Dagger"))
 
 > Example:  
-> <CITE>Signatures: *⁸ [double dagger]⁸ A-M⁸ N⁴</CITE>   
+> <CITE>Signatures: &#42;⁸ [double dagger]⁸ A-M⁸ N⁴ </CITE>   
 > (*Comment*: Gathering is signed with ![Double-dagger](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Double-dagger.jpg "Double-dagger"))
 
 > Example:  
@@ -179,25 +179,25 @@ If the gatherings are signed with other unavailable characters, substitute a des
 <a name="5.201.4.3">5.201.4.3</a> **Special uses of pi and chi**. Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [5.201.4.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.9)).
 
 > Example:  
-> <CITE>Signatures: pi4 A-C4 chi2 D-Z4</CITE>
+> <CITE>Signatures: pi⁴ A-C⁴ chi² D-Z⁴</CITE>
 
 Indicate partial duplications of an alphabet (see Gaskell, page 331) by using superscript **pi** and superscript **chi** or, if superscript letters are not available, by substituting “[superscript pi]” and “[superscript chi].”
 
 > Example:  
-> <CITE>Signatures: piA4 A-D4 chiD4 E-F4</CITE> 
+> <CITE>Signatures: <sup>pi</sup>A⁴ A-D⁴  <sup>chi</sup>D⁴ E-F⁴</CITE> 
 > 
 > or  
 >
-> <CITE>Signatures: [superscript pi]A4 A-D4 [superscript chi]D4 E-F4</CITE> 
+> <CITE>Signatures: [superscript pi]A⁴ A-D⁴ [superscript chi]D⁴ E-F⁴</CITE> 
 
 <a name="5.201.4.4">5.201.4.4</a> **Non-conventional Latin alphabet**. If the gatherings are signed with roman letters according to a pattern other than the conventional 23-letter Latin alphabet (i.e., A-Z, less I or J, U or V, and W), make this explicit by recording the additional letters in the signature statement.
 
 > Example:  
-> <CITE>Signatures: A-V4 W4 X-Z4</CITE>    
+> <CITE>Signatures: A-V⁴ W⁴ X-Z⁴</CITE>    
 > (*Comment*: Printer used a 24-letter alphabet)
 
 > Example:  
-> <CITE>Signatures: A-I8 J8 K-U8 V8 W8 X-2I8 2J8 2K-2M8</CITE>  
+> <CITE>Signatures: A-I⁸ J⁸ K-U⁸ V⁸ W⁸ X-2I⁸ 2J⁸ 2K-2M⁸</CITE>  
 > (*Comment*: Printer used a 26-letter alphabet)
 
 <a name="5.201.4.5">5.201.4.5</a> **Signatures do not match gatherings**. If it can be determined that the signing of the volume does not match its actual gatherings, indicate this in the note.
@@ -206,7 +206,6 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 ><CITE>Signatures: [A]⁴ B-2G⁴ ²2E-2G⁴. Gathered in twelves, with three separate but consecutive signatures within each gathering</CITE>  
 
 <a name="5.201.4.6">5.201.4.6</a> **Concurrent signatures**. If the volume is signed using two concurrent sequences, provide both sets of signatures in the note. Record the signatures that correspond to the actual gatherings first, if this can be determined.
-
 
 > Example:   
 > <CITE>Signatures: a⁴ e⁴ i⁴ A-P⁴ R-7A⁴ (gathering P also signed Q)</CITE>
@@ -220,62 +219,86 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 <a name="5.201.4.7">5.201.4.7</a> **Nonroman signatures (numeric sequence)**. If the gatherings are signed with nonroman characters that follow a numeric sequence, represent the characters using arabic numeration. Include an indication of the script used in the signatures in the note. 
 
 > Example:  
-> <CITE>Signatures (in Hebrew characters): 1-32⁴ 1-27⁶ 1-18⁶</CITE>
+> <CITE>Signatures (in Hebrew numerals): 1-32⁴ 1-27⁶ 1-18⁶</CITE>
 
 > Example:  
-> <CITE>Signatures (in Church Slavic Cyrillic numerals): 1-25⁸ 26⁶ 1-22⁸ 23⁶(-23₆) 24⁸</CITE>
+> <CITE>Signatures (in Church Slavic Cyrillic numerals): 1-25⁸ 26⁶ 1-22⁸ 23⁶(-23<sub>6</sub>) 24⁸</CITE>
 
 If the nonroman characters are accompanied by parallel numeration using another script, record this as well.
 
 > Example:  
-> <CITE>Signatures (in parallel Hebrew and arabic numerals): pi8 1-48</CITE>  
-> (*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew characters and arabic numerals)
+> <CITE>Signatures (in parallel Hebrew and arabic numerals): pi⁸ 1-4⁸</CITE>  
+> (*Comment*: Indicates a numeric sequence in which the first gathering is unsigned, followed by gatherings signed 1-4 in both Hebrew and arabic numerals)
 
 In case of doubt as to whether a sequence is numeric or alphabetic, assume a numeric sequence.
 
 > Example:  
-> <CITE>Signatures (in Hebrew characters): 2-38</CITE>  
+> <CITE>Signatures (in Hebrew numerals): 2-3⁸</CITE>  
 > (*Comment*: Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
-<a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  
+<a name="5.201.4.8">5.201.4.8</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  If considered important for clarity, follow a compressed signature statement by a total count of the gatherings in that sequence in square brackets (see also [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation-MHadditions/#5.201.4.93)).
 
-<a name="5.201.4.9">5.201.4.9</a> **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
+>Example:  
+><CITE>Signatures: pi1 α-γ² Α-2Λ²</CITE>
+>
+>or
+>
+><CITE>Signatures (in Greek characters): pi1 a-g² A-2L²</CITE>  
+> (*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
+
+>Example:  
+><CITE>Signatures: [aleph]-[shin]⁸, a-k⁸ </CITE>
+>
+>or 
+>
+><CITE>Signatures: ʼ-sh⁸ (in Hebrew alphabet), a-k⁸ </CITE>  
+>(Comment: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
+
+>Example:  
+><CITE>Signatures (in Church Slavic alphabet): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A3ŌT͡2 [=24]</CITE>
+
+<a name="5.201.4.9">5.201.4.9</a> **Directionality of sequence**. Include in the note an indication of the direction of a sequence, if it does not follow the reading direction of the script or text in that sequence, if there are sequences in opposite directions in the same resource, or if the directionality of the sequence is otherwise ambiguous or unusual.
+
+>Example:  
+><CITE>Signatures (right to left):  ):(⁸ A-2Y⁸ </CITE>
+
+<a name="5.201.4.91">5.201.4.91</a> **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
 
 
 |Greek|Α|Β|Γ|Δ|Ε|Ζ|Η|Θ|Ι|Κ|Λ|Μ|Ν|Ξ|Ο|Π|Ρ|Σ|Τ|Υ|Φ|Χ|Ψ|Ω|
 |Romanized|A|B|G|D|E|Z|Ē|Th|I|K|L|M|N|X|O|P|R|S|T|Y|Ph|Ch|Ps|Ō|
 
 > Example:  
-> <CITE>Signatures: pi1 α-γ2 Α-2Λ2</CITE>   
+> <CITE>Signatures: pi1 α-γ² Α-2Λ²</CITE>   
 >  
 > or  
 >  
-> <CITE>Signatures (in Greek characters): pi1 a-g2 A-2L2</CITE>  
-> (*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
+><CITE>Signatures (in Greek characters): pi1 a-g² A-2L²</CITE>  
+>(*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
 
-<a name="5.201.4.91">5.201.4.91</a> **Hebrew alphabetic signatures**. For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
+<a name="5.201.4.92">5.201.4.92</a> **Hebrew alphabetic signatures**. For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
 
 |Hebrew|א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת|
 |Romanized|ʼ|b|g|d|h|ṿ|z|ḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
 
 > Example:  
-> <CITE>Signatures: א-ש8, a-k8</CITE> 
+> <CITE>Signatures:  ש-א⁸, a-k⁸</CITE> 
 >   
 > or  
 >  
-> <CITE>Signatures: ʼ-sh8(in Hebrew characters), a-k8</CITE>  
+> <CITE>Signatures: ʼ-sh8(in Hebrew characters), a-k⁸</CITE>  
 >(*Comment*: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
-<a name="5.201.4.92">5.201.4.92</a> **Other nonroman alphabetic signatures**. For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
+<a name="5.201.4.93">5.201.4.93</a> **Other nonroman alphabetic signatures**. For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
 
 > Example:  
-> <CITE>Signatures: А-Ѵ2 [=41], 2А-2Ѵ2 [=41], 3А-3Ѿ2 [=24]</CITE>  
+> <CITE>Signatures: А-Ѵ² [=41], 2А-2Ѵ² [=41], 3А-3Ѿ² [=24]</CITE>  
 >  
 >or	  
 >  
 > <CITE>Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-3ŌT͡͡2 [=24]</CITE>
 
-<a name="5.201.4.93">5.201.4.93</a> **Full collation**. If considered important, make a note giving the full collation instead of a note recording only the signatures.
+<a name="5.201.4.94">5.201.4.94</a> **Full collation**. If considered important, make a note giving the full collation instead of a note recording only the signatures.
 
 > Example:  
-> <CITE>Collation: 8vo: A-H4; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</CITE>
+> <CITE>Collation: 8vo: A-H⁴; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</CITE>
