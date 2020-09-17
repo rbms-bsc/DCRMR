@@ -283,7 +283,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 
 > Example:  
 > <CITE>Signatures:  ש-א⁸, a-k⁸</CITE>  
-> <CITE>Signatures: ![Hebrew alphabetic signature](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Hebrew-alphabetic-signature.jpg "Hebrew alphabetic signature")  a-k⁸</CITE>
+> <CITE>Signatures: ![Hebrew alphabetic signature](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Hebrew-alphabetic-signature.jpg "Hebrew alphabetic signature"), a-k⁸</CITE>
 > 
 > or  
 >  
