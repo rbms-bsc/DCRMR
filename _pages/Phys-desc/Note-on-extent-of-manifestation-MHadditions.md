@@ -286,7 +286,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >   
 > or  
 >  
-> <CITE>Signatures: ʼ-sh8(in Hebrew characters), a-k⁸</CITE>  
+> <CITE>Signatures: ʼ-sh⁸(in Hebrew characters), a-k⁸</CITE>  
 >(*Comment*: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
 <a name="5.201.4.93">5.201.4.93</a> **Other nonroman alphabetic signatures**. For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
