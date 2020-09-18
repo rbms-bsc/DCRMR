@@ -76,8 +76,10 @@ sidebar:
 
 >Example:  
 ><CITE>Exhibited: "Illustrating the Imagination: Celebrating Children's Illustrators from the Cornish Colony and Today" at the Cornish Museum, Windsor, VT, 2009-2010</CITE>
+> 
+## 10.20.7 Specific items and copy numbers
 
-<a name="10.20.6.2">10.20.6.2</a> Features that may be recorded in this element include the names of persons or institutions associated with specific items, and copy numbers.
+<a name="10.20.7.1">10.20.7.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/), [7.20.8](/DCRMR/other-notes/Note-on-manifestation/##7208-limitation-statements) for recording limitation statements.
 
 >Example:  
 ><CITE>LC has no. 20</CITE>

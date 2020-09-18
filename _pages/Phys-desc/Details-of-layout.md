@@ -23,12 +23,12 @@ sidebar:
 
 ## 5.221.3 Notes on layout 
 
-<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) record their presence as details of layout if considered important (see [5.20.5](/DCRMR/phys-desc/Extent-of-manifestation/#5205-unnumbered-pages-or-leaves)).
+<a name="5.221.3.1">5.221.3.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) record their presence as details of layout if considered important (see [5.20.5.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.5.1)).
 
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>
 
-<a name="5.221.3.2">5.221.3.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#52014-signatures)) or full collation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
+<a name="5.221.3.2">5.221.3.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.20.4.1)) or full collation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
 
 <a name="5.221.3.3">5.221.3.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 

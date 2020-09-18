@@ -86,14 +86,35 @@ sidebar:
 >Example:  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
 
-# 7.20.8 Notes on dates not representing publication, distribution, or manufacture elements
+## 7.20.8 Limitation statements
 
-<a name="7.20.8.1">7.20.8.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.205.6.2](/DCRMR/ppdm/Date-of-publication/#4.205.6.2)).
+<a name="7.20.8.1">7.20.8.1</a> If the resource includes a statement as to a limited number of copies of the edition, give this statement of limitation in a note, preferably in quoted form.
 
-<a name="7.20.8.2">7.20.8.2</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.215.6.2](/DCRMR/ppdm/Date-of-distribution/#4.215.6.2)).
 
-<a name="7.20.8.3">7.20.8.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.255.7.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.7.2)).
+<a name="7.20.8.2">7.20.8.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
-# 7.20.9 Notes on imperfect exemplars
+>Example:  
+>"250 copies printed"--Pref.
 
-<a name="7.20.9.1">7.20.9.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.3.2](/DCRMR/general-rules/Data-provenance/#0.2.3.2)).
+>Example:  
+>"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso
+
+>Example:  
+>"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon.
+
+>Example:  
+>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."
+
+<a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/other-notes-Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/other-notes-Note-on-item/#10.20.7.1)). 
+
+# 7.20.9 Notes on dates not representing publication, distribution, or manufacture elements
+
+<a name="7.20.9.1">7.20.9.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.205.6.2](/DCRMR/ppdm/Date-of-publication/#4.205.6.2)).
+
+<a name="7.20.9.2">7.20.9.2</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.215.6.2](/DCRMR/ppdm/Date-of-distribution/#4.215.6.2)).
+
+<a name="7.20.9.3">7.20.9.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.255.7.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.7.2)).
+
+# 7.20.91 Notes on imperfect exemplars
+
+<a name="7.20.91.1">7.20.91.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.3.2](/DCRMR/general-rules/Data-provenance/#0.2.3.2)).

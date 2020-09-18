@@ -85,7 +85,7 @@ sidebar:
 >Date of publication: <CITE>[1650]</CITE>  
 >Note on publication statement: <CITE>Date of publication: derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>  
 
-<a name="4.205.4.3">4.205.4.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as ist appears.
+<a name="4.205.4.3">4.205.4.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears.
 
 **Alternative rule**. Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
@@ -185,7 +185,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.205.6.1">4.205.6.1</a> Supply in square brackets a conjectural date of publication based on any information available. Indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.7](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.7)).
 
-<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.8.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.8.1)).
+<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.9.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.1)).
 
 >Example:  
 >Date of publication: <CITE>[1814?]</CITE>  
