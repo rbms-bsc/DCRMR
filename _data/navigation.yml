@@ -26,27 +26,7 @@ docs:
 
   - title: "Introduction"
     url: /introduction/
-    children:
-      - title: "Scope and purpose"
-        url: /introduction/Scope-and-purpose/
-      - title: "Relationship to other standards"
-        url: /introduction/Relationship-to-other-standards/
-      - title: "Objectives and principles"
-        url: /introduction/Objectives-and-principles/
-      - title: "Options"
-        url: /introduction/Options/
-      - title: "Language preferences"
-        url: /introduction/Language-preferences/
-      - title: "Spelling and style"
-        url: /introduction/Spelling-and-style/
-      - title: "Acronyms"
-        url: /introduction/Acronyms/
-      - title: "Examples and notes"
-        url: /introduction/Examples-and-notes/
-      - title: "Integrity of the copy"
-        url: /introduction/Integrity-of-the-copy/
-      - title: "Precataloging decisions"
-        url: /introduction/Precataloging-decisions/
+
   - title: "General rules"
     url: /general-rules/
     children:
@@ -322,9 +302,3 @@ docs:
         url: /introduction/
       - title: "Abbreviations for Creators, Publishers, Printers, etc."
         url: /appendices/Appendix-j/
-
-  - title: "Glossary"
-    url: /glossary/
-        
-
-
