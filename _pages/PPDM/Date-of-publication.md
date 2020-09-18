@@ -103,7 +103,7 @@ sidebar:
 >Example:  
 >Date of publication: <CITE>1786 [i.e. 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
-> 
+
 <a name="4.205.4.7">4.205.4.7</a> *Optionally*, supply the actual date in square brackets.
 
 >Example:  
