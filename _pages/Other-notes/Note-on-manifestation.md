@@ -58,23 +58,23 @@ sidebar:
 <a name="7.20.5.2">7.20.5.2</a> If a complete listing of contents cannot be assembled by one of the above means, the cataloger may devise a contents note from any appropriate source or combination of sources.
 
 >Example:  
-> Contents: Love and peril / the Marquis of Lorne -- To be or not to be / Mrs. Alexander -- The melancholy hussar / Thomas Hardy
+> <CITE>Contents: Love and peril / the Marquis of Lorne -- To be or not to be / Mrs. Alexander -- The melancholy hussar / Thomas Hardy</CITE>
 
 >Example:  
->Contents: [from title page] I. John Watson Stewarts Almanack -- II. The English court registry -- III. Wilsons Dublin directory with a new correct plan of the city, forming the most complete lists published of the present civil, military, and naval establishments of Great Britain & Ireland
+><CITE>Contents: [from title page] I. John Watson Stewarts Almanack -- II. The English court registry -- III. Wilsons Dublin directory with a new correct plan of the city, forming the most complete lists published of the present civil, military, and naval establishments of Great Britain & Ireland</CITE>
 
 >Example:  
->Contents: [from title page] The life and death of the author / E.B. Esquire -- A discourse about the state of true happinesse -- Directions for a comfortable walking with God -- Instructions for a right comforting afflicted consciences, &c. -- His foure last things, death, iudgment, hell and heaven, &c. -- His funerall sermon / Nicholas Estwick Batchelou in Divinity
+><CITE>Contents: [from title page] The life and death of the author / E.B. Esquire -- A discourse about the state of true happinesse -- Directions for a comfortable walking with God -- Instructions for a right comforting afflicted consciences, &c. -- His foure last things, death, iudgment, hell and heaven, &c. -- His funerall sermon / Nicholas Estwick Batchelou in Divinity</CITE>
 
 >Example:  
->Contents: [from title page] Map showing location of Fort Matanzas -- First floor plan -- Second floor plan. Roof plan -- South elevation -- North elevation -- West elevation -- East elevation -- Section -- Details of tower -- [Stair details] -- Details of interior wooden stairs -- Section
+><CITE>Contents: [from title page] Map showing location of Fort Matanzas -- First floor plan -- Second floor plan. Roof plan -- South elevation -- North elevation -- West elevation -- East elevation -- Section -- Details of tower -- [Stair details] -- Details of interior wooden stairs -- Section</CITE>
 
 ## 7.20.6 Notes on made-up sets of a multipart monograph
 
 <a name="7.20.6.1">7.20.6.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edtition-Statement/#3.20.91.3)).
 
 >Example:  
->Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>
+>Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  
 >Edition statement: <CITE>First edition</CITE>
 
 ## 7.20.7 Notes on reissued or reprinted manifestations
@@ -94,16 +94,16 @@ sidebar:
 <a name="7.20.8.2">7.20.8.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
 >Example:  
->"250 copies printed"--Pref.
+><CITE>"250 copies printed"--Pref.</CITE>
 
 >Example:  
->"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso
+><CITE>"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso</CITE>
 
 >Example:  
->"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon.
+><CITE>"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon.</CITE>
 
 >Example:  
->"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."
+><CITE>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."</CITE>
 
 <a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/notes-on-items/Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/notes-on-items/Note-on-item/#10.20.7.1)). 
 

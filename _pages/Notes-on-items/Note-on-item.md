@@ -39,7 +39,7 @@ sidebar:
 
 <a name="10.20.3.3">10.20.3.3</a> The extent and depth of detail provided in note on item will be determined by the local policies of the cataloging agency. The rules set forth in this element are intended primarily to provide guidance and examples; the instructions are not to be seen as prescriptive.
 
-<a name="10.20.3.4">10.20.3.4</a> Include in note on item one or more of the following identifiers: a designation of the holding institution (e.g., a library’s name, acronym, or code), a designation of the item’s physical location (e.g., a shelfmark), or an indication of the item’s copy number (if the institution holds more than one copy). Such identifiers are especially recommended if item-specific description is to be contributed to a union catalog or other shared database.
+<a name="10.20.3.4">10.20.3.4</a> Include in note on item a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one copy) if considered important.
 
 ## 10.20.4 Statements relating to a substantially unchanged impression or state
 
