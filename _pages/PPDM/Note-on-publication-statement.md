@@ -115,22 +115,20 @@ sidebar:
 
 ## 4.206.8 Notes from Date of publication
 
-<a name="4.206.8.1">4.206.8.1</a> When following the alternative rule in [4.205.4.2](/DCRMR/ppdm/Date-of-publication/#4.205.4.2), include a transcription of the original chronogram in a note on publication statement if considered important (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.2](/DCRMR/ppdm/Date-of-publication/#4.205.4.2)).
+<a name="4.206.8.1">4.206.8.1</a> When following the option in [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3), include a transcription of the original chronogram in a note on publication statement if considered important (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3)).
 
 >Example:  
 >Date of publication: <CITE>[1650]</CITE>  
 >Note on publication statement: <CITE>Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>
 
-<a name="4.206.8.2">4.206.8.2</a> When following the alternative rule for very long dates in [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3), make a note on publication statement concerning the source and the original form of the [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3)).
+<a name="4.206.8.2">4.206.8.2</a> When following the option for very long dates in [4.205.4.5](/DCRMR/ppdm/Date-of-publication/#4.205.4.5), make a note on publication statement concerning the source and the original form of the [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.5](/DCRMR/ppdm/Date-of-publication/#4.205.4.5)).
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
 >Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
 >(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="4.206.8.3">4.206.8.3</a> Make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [4.205.4.4](/DCRMR/ppdm/Date-of-publication/#4.205.4.4)).
-
-**Alternative rule**. Make a note on publication statement to indicate the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.4](/DCRMR/ppdm/Date-of-publication/#4.205.4.4)).
+<a name="4.206.8.3">4.206.8.3</a> Make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [4.205.4.6](/DCRMR/ppdm/Date-of-publication/#4.205.4.6)).
 
 >Example:  
 >Date of publication: <CITE>1887 [i.e. 1899]</CITE>  
@@ -140,7 +138,7 @@ sidebar:
 >Date of publication: <CITE>1786 [i.e. 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="4.206.8.4">4.206.8.4</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.5](/DCRMR/ppdm/Date-of-publication/#4.205.4.5)).
+<a name="4.206.8.4">4.206.8.4</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.8](/DCRMR/ppdm/Date-of-publication/#4.205.4.8)).
 
 >Example:  
 >Date of publication: <CITE>1743 [i.e. 1744]</CITE>  
@@ -151,7 +149,7 @@ sidebar:
 >Date of publication: <CITE>Februar. 8. anno 1588 [i.e. 1589]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="4.206.8.5">4.206.8.5</a> If necessary, make a note on publication statement to justify all supplied dates when the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition (see [4.205.4.7](/DCRMR/ppdm/Date-of-publication/#4.205.4.7)).
+<a name="4.206.8.5">4.206.8.5</a> If necessary, make a note on publication statement to justify all supplied dates when the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition (see [4.205.4.92](/DCRMR/ppdm/Date-of-publication/#4.205.4.92)).
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  

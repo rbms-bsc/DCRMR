@@ -21,9 +21,9 @@ sidebar:
 
 <a name="4.21.2.1">4.21.2.1</a> A statement that identifies a place of distribution, a distributor, and a date of distribution of a published manifestation.
 
-## 4.21.3 Fictitious or incorrect information
+## 4.21.3 General rule
 
-<a name="4.21.3.1">4.21.3.1</a> If all information relating to the distribution statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see X.X.X.X).  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in square brackets.  Include the source of this information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [4.216.3.4](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.3.4)).
+<a name="4.21.4.1">4.21.4.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
 
 ## 4.21.4 Information covered by labels, etc.
 
@@ -33,7 +33,7 @@ sidebar:
 
 ## 4.21.5 Elements relating to publication, distribution vs. elements relating to manufacture
 
-<a name="4.21.5.1">4.21.5.1</a>  Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+<a name="4.21.5.1">4.21.5.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
 ## 4.21.6 Statements relating to distribution only
 

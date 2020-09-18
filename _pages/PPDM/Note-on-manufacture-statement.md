@@ -80,17 +80,15 @@ sidebar:
 
 ## 4.226.8 Notes from Date of manufacture
 
-<a name="4.226.8.1">4.226.8.1</a> When following the alternative rule in [4.225.4.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2)).
+<a name="4.226.8.1">4.226.8.1</a> When following the option in [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3)).
 
-<a name="4.226.8.2">4.226.8.2</a> When following the alternative rule for very long dates in [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3) make a note on manufacture statement concerning the source and the original form of the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) (see [4.225.5.3](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.3)).
+<a name="4.226.8.2">4.226.8.2</a> When following the option for very long dates in [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5) make a note on manufacture statement concerning the source and the original form of the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) (see [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
 
-<a name="4.226.8.3">4.226.8.3</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
+<a name="4.226.8.3">4.226.8.3</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a note on manufacture statement (see [4.225.5.6](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.6)).
 
-**Alternative rule**. Make a note to indicate the source of the information (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.4](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.4)).
+<a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.8](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.8)).
 
-<a name="4.226.8.4">4.226.8.4</a> If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on manufacture statement to indicate the basis for the supplied year (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.5.5](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.5)).
-
-<a name="4.226.8.5">4.226.8.5</a>  If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) requires more than a single adjustment or addition, justify all supplied dates with a note on manufacture statement if necessary (see [4.225.5.7](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.7)).
+<a name="4.226.8.5">4.226.8.5</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) requires more than a single adjustment or addition, justify all supplied dates with a note on manufacture statement if necessary (see [4.225.5.92](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.92)).
 
 <a name="4.226.8.6">4.226.8.6</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on manufacture statement (see [4.225.6.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.6.1)).
 
