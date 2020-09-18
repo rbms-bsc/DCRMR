@@ -105,7 +105,7 @@ sidebar:
 >Example:  
 >"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."
 
-<a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/other-notes-Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/other-notes-Note-on-item/#10.20.7.1)). 
+<a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/notes-on-items/Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/notes-on-items/Note-on-item/#10.20.7.1)). 
 
 # 7.20.9 Notes on dates not representing publication, distribution, or manufacture elements
 
