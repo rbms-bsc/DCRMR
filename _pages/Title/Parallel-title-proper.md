@@ -25,21 +25,21 @@ sidebar:
 
 ## 1.22.3 Order and source of parallel titles proper
 
-<a name="1.22.3.1">1.22.3.1</a> Transcribe Parallel titles proper in the order indicated by their sequence on, or by the layout of, the title page.
+<a name="1.22.3.1">1.22.3.1</a> Transcribe parallel titles proper in the order indicated by their sequence on, or by the layout of, the title page.
 
->Example: 
+>Example:  
 >Title proper: <CITE>Il mercurio italico, o sia, Ragguaglio generale intorno alla letterature, belle arti, utili scoperte, ec. di tutta l'Italia</CITE>  
 >Parallel title proper: <CITE>The Italian mercury, or, A general account concerning the literature, fine arts, useful discoveries, &c. of all Italy</CITE>
 
-<a name="1.22.3.2">1.22.3.2</a> If a  title in the original language appears elsewhere in the manifestation than on the title page, transcribe it in a [Note on title](/DCRMR/title/Note-on-title) if considered important.
+<a name="1.22.3.2">1.22.3.2</a> If a title in the original language appears elsewhere in the manifestation than on the title page, transcribe it in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.27.X.X](/DCRMR/title/Note-on-title/#1.27.X.X)).
 
 ## 1.22.4 Language of parallel titles and relationship to title proper
 
-<a name="1.22.4.1">1.22.4.1</a> Transcribe an original title in a language different from that of the [Title proper](/DCRMR/title/Title-proper) that appears on the title page as a Parallel title proper, unless it is grammatically inseparable from another part of the description.
+<a name="1.22.4.1">1.22.4.1</a> Transcribe an original title in a language different from that of the [Title proper](/DCRMR/title/Title-proper) that appears on the title page as a parallel title proper, unless it is grammatically inseparable from another part of the description.
 
 >Example:  
+>Title proper: <CITE>Fables</CITE>  
 >Parallel title proper: <CITE>Fabulae</CITE>  
->Title proper: <CITE>Fables</CITE>
 
 >Example:  
 >Title proper: <CITE>Tefilot lerosh hashanah or The evening and morning service for the beginning of the year</CITE>
@@ -52,4 +52,4 @@ sidebar:
 
 ## 1.22.5 Access points for parallel titles proper
 
-<a name="1.22.5.1">1.22.5.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. *Optionally,* provide access points for Parallel titles proper (see [1.20.X.X](/DCRMR/title/Title-of-manifestation/#1.20.X.X)).
+<a name="1.22.5.1">1.22.5.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. *Optionally*, provide access points for parallel titles proper (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/)).
