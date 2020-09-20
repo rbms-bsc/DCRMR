@@ -34,7 +34,7 @@ sidebar:
 >Example:    
 >Parallel title of series: <CITE>European university papers</CITE>    
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>   
->Title proper of series: <CITE>Europäische Hochschulschriftent</CITE>  
+>Title proper of series: <CITE>Europäische Hochschulschriften</CITE>  
 
 <a name="6.22.3.2">6.22.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, omit parallel series titles after the first using the mark of omission.
 
