@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.26.3 General rule
 
-<a name="1.26.3.1">1.26.3.1</a> Record titles of an item following the transcription guidelines, if considered important (see [0.5](/DCRMR/general-rules/Transcription/#0.5)).
+<a name="1.26.3.1">1.26.3.1</a> Record titles of an item following the [RBMS Transcription Guidelines](/DCRMR/general-rules/Transcription/) if considered important.
 
 ## 1.26.4 Access points for item-specific titles
 
@@ -33,4 +33,4 @@ sidebar:
 
 <a name="1.26.4.2">1.26.4.2</a> Use judgment in determining which forms of access will be most useful for the item in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
 
-<a name="1.26.4.3">1.26.4.3</a> *Optionally,* provide access for item-specific titles, such as a binder’s title. Identify the item using a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one copy) if considered important (see [10.20.3.4](/DCRMR/notes-on-items/Note-on-item/#10.20.3.4)).
+<a name="1.26.4.3">1.26.4.3</a> *Optionally*, provide access for item-specific titles, such as a binder’s title. Identify the item using a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one copy) if considered important (see [10.20.3.4](/DCRMR/notes-on-items/Note-on-item/#10.20.3.4)).
