@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acknowledgements
+title: Acknowledgments
 parent: Preface
 nav_order: 3
 ---

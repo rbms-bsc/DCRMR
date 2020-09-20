@@ -68,4 +68,4 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 
 [Future work](/DCRMR/preface/Future-work/)
 
-[Acknowledgements](/DCRMR/preface/Acknowledgements/)
+[Acknowledgments](/DCRMR/preface/Acknowledgments/)

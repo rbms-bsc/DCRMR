@@ -72,7 +72,7 @@ sidebar:
 
 ## 10.20.6 Exhibition history
 
-<a name="10.20.6.1">10.20.6.1</a> Record where and when the item has been exhibited if considered inmportant.
+<a name="10.20.6.1">10.20.6.1</a> Record where and when the item has been exhibited if considered important.
 
 >Example:  
 ><CITE>Exhibited: "Illustrating the Imagination: Celebrating Children's Illustrators from the Cornish Colony and Today" at the Cornish Museum, Windsor, VT, 2009-2010</CITE>
