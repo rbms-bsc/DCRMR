@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.205.3 General rule
 
-<a name="5.205.3.1">5.205.3.1</a> Make a note on details of color content (see [Colour content](/DCRMR/phys-desc/Colour-content/)) if considered important.
+<a name="5.205.3.1">5.205.3.1</a> Make a note on details of color content if considered important (see [Colour content](/DCRMR/phys-desc/Colour-content/)).
 
 ## 5.205.4 Details of printed color
 

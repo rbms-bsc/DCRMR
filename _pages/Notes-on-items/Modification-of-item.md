@@ -23,7 +23,7 @@ sidebar:
 
 <a name="10.21.2.1">10.21.2.1</a> A modification that is specific to an item and is assumed not to apply to other items exemplifying the same manifestation.
 
-<a name="10.21.2.2">10.21.2.2</a> **Related element**. See [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [5.233.3.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.3.1)) for information that applies to all copies or to particular groups of copies within an edition or issue.
+<a name="10.21.2.2">10.21.2.2</a> **Related element**. See [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) for information that applies to all copies or to particular groups of copies within an edition or issue (see [5.233.3.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.3.1)).
 
 ## 10.21.3 General rule
 

@@ -17,7 +17,7 @@ sidebar:
 
 <a name="6.01.2">6.01.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)).
 
-<a name="6.01.3">6.01.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)), if considered important. Record the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/), if the two differ. 
+<a name="6.01.3">6.01.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). Record the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/), if the two differ. 
 
 <a name="6.01.4">6.01.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)).
 

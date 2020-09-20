@@ -29,7 +29,7 @@ sidebar:
 
 ## 5.233.4 Combined physical descriptions for carriers
 
-<a name="5.233.4.1">5.233.4.1</a> Make a note to record descriptions that combine information on [Details of base material](/DCRMR/phys-desc/Details-of-base-material/) (see [5.2112.3.1](/DCRMR/phys-desc/Details-of-base-material/#5.211.3.1), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) (see [5.2122.3](/DCRMR/phys-desc/Details-of-applied-material/#5.2122.3.1), or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) (see [5.2132.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2132.3.1) if considered important.
+<a name="5.233.4.1">5.233.4.1</a> Make a note to record descriptions that combine information on [Details of base material](/DCRMR/phys-desc/Details-of-base-material/) ([5.2112.3.1](/DCRMR/phys-desc/Details-of-base-material/#5.211.3.1)), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) ([5.2122.3](/DCRMR/phys-desc/Details-of-applied-material/#5.2122.3.1)), or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) ([5.2132.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2132.3.1)) if considered important.
 
 ## 5.233.5 Descriptions of containers
 
