@@ -25,7 +25,7 @@ sidebar:
 
 <a name="4.203.2.2">4.203.2.2</a> Publication includes release and issuance.
 
-## 4.203.3 Name of publisher
+## 4.203.3 General rule
 
 <a name="4.203.3.1">4.203.3.1</a> Transcribe the names of publishers as part of this element.
 
@@ -64,7 +64,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 >Example:  
 ><CITE>Private plate issued exclusively to members of the Bibliophile Society</CITE>
 
-## 4.203.4 Publication statements containing grammatically inseparable place names or dates
+## 4.203.4 Names of publishers containing grammatically inseparable place names or dates
 
 <a name="4.203.4.1">4.203.4.1</a> If the [Publication statement](/DCRMR/ppdm/Publication-statement/) contains grammatically inseparable statements relating to [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) transcribe the information as part of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element. Supply the [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) in square brackets in the appropriate element. 
 
@@ -76,7 +76,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 >Publication statement: <CITE>Publish'd July 1st, 1790 by J. & J. Boydell, Cheapside & at the Shakespeare Gallery Pall Mall</CITE>  
 >Date of publication: <CITE>[July 1, 1790]</CITE>
 
-## 4.203.5 Publisher statements containing only addresses, signs, or initials
+## 4.203.5 Names of publishers containing only addresses, signs, or initials
 
 <a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name, transcribe the statement containing the address, sign, or initials as the [Publication statement](/DCRMR/ppdm/Publication-statement/). If the name of publisher can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.1)).
 
@@ -100,7 +100,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  
 >Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913</CITE>
 
-## 4.203.6 Fictitious or incorrect publisher statements 
+## 4.203.6 Fictitious or incorrect publisher names
 
 <a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.3)).
 
@@ -183,7 +183,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 
 <a name="4.203.95.1">4.203.95.1</a> If no publisher’s name can be conjectured, record “publisher not identified” in square brackets.
 
-## 4.203.96 Publisher transcribed as part of another element 
+## 4.203.96 Publisher names transcribed as part of another element 
 
 <a name="4.203.96.1">4.203.96.1</a> If no formal name of publisher appears on the manifestation, and the name of the publisher has already been transcribed as part of another element, supply it within square brackets.
 
@@ -191,6 +191,6 @@ If a statement such as “Privately printed” appears on the title page, transc
 >Name of publisher: <CITE>[Pour Symo[n] Vostre Libraire par Philippe Pigouchet]</CITE>  
 >(*Comment*: Title reads “Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”)
 
-## 4.203.97 Publisher name in more than one language or script
+## 4.203.97 Publisher names in more than one language or script
 
 <a name="4.203.97.1">4.203.97.1</a> If the name of the publisher appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the name that appears first. Transcribe the remaining names(s) as [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/).  Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [4.206.6.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.6.2)).
