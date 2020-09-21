@@ -74,7 +74,7 @@ sidebar:
 
 ## 4.216.5 Notes from Name of distributor
 
-<a name="4.216.5.1">4.216.5.1</a> *Optionally*, make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’s name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [4.213.5.1](/DCRMR/ppdm/Name-of-distributor/#4.213.5.1)).
+<a name="4.216.5.1">4.216.5.1</a> *Optionally*, make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’ name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [4.213.5.1](/DCRMR/ppdm/Name-of-distributor/#4.213.5.1)).
 
 <a name="4.216.5.2">4.216.5.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is based on a device (see [4.213.5.2](/DCRMR/ppdm/Name-of-distributor/#4.213.5.2)).
 
@@ -82,11 +82,11 @@ sidebar:
 
 <a name="4.216.5.4">4.216.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.8.1](/DCRMR/ppdm/Name-of-distributor/#4.213.8.1)).
 
-<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distibutor, give supporting evidence in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.9.1](/DCRMR/ppdm/Name-of-distributor/#4.213.9.1)).
+<a name="4.216.5.5">4.206.5.5</a> Make a note if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured by giving the information in a note. In any case of a supplied distributor, give supporting evidence in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.9.1](/DCRMR/ppdm/Name-of-distributor/#4.213.9.1)).
 
 ## 4.216.6 Notes from Parallel name of distributor
 
-<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distibutor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
+<a name="4.216.6.1">4.216.6.1</a> If parallel distributors' names are found on a different source as the name of distributor make a note on distribution statement if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
 
@@ -122,6 +122,6 @@ sidebar:
 
 <a name="4.216.8.9">4.216.8.9</a> When supplying a probable date or period of distribution according to one of the patterns shown in  [4.215.7.1](/DCRMR/ppdm/Date-of-distribution/#4.215.7.1), indicate the basis for the conjecture in a note on distribution (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.7.1](/DCRMR/ppdm/Date-of-distribution/#4.215.7.1)).
 
-<a name="4.216.8.91">4.216.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distibution does not correspond to the order of the volume numeration (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.8.2](/DCRMR/ppdm/Date-of-distribution/#4.215.8.2)).
+<a name="4.216.8.91">4.216.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.8.2](/DCRMR/ppdm/Date-of-distribution/#4.215.8.2)).
 
 <a name="4.216.8.92">4.206.8.92</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.9.1](/DCRMR/ppdm/Date-of-distribution/#4.215.9.1)).

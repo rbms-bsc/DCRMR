@@ -59,7 +59,7 @@ sidebar:
 + romanization
 + series
 + sources of information
-+ statements of responsibilty not on title page
++ statements of responsibility not on title page
 + title page counted as plate
 + title proper
 + transposition

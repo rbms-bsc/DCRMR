@@ -155,7 +155,7 @@ sidebar:
 >Note on distribution statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 ## 4.211.97 No place of distribution
-<a name="4.211.97.1">4.211.97.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if neccesary (see [4.216.4.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.4.3)).
+<a name="4.211.97.1">4.211.97.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [4.216.4.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.4.3)).
 
 >Example:  
 >Place of distribution: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
