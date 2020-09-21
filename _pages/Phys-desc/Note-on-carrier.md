@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1Q8D81XweOpyWFPu1FGkkypzUPYq7K969aPqZjAPYb44/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -32,4 +25,12 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.233.3 General rule
 
-<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a [note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [5.233.X.X](/DCRMR/phys-desc/Note-on-carrier/#5.233.X.X)). Record information pertaining to individual items as a [modification of item](/DCRMR/notes-on-items/Modification-of-item/) (see [8.21.X.X](/DCRMR/notes-on-items/Modification-of-item/#8.21.X.X)).
+<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a note on carrier. Record information pertaining to individual items as a [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) (see [10.21.2.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.2.2)).
+
+## 5.233.4 Combined physical descriptions for carriers
+
+<a name="5.233.4.1">5.233.4.1</a> Make a note to record descriptions that combine information on [Details of base material](/DCRMR/phys-desc/Details-of-base-material/) ([5.2112.3.1](/DCRMR/phys-desc/Details-of-base-material/#5.211.3.1)), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) ([5.2122.3](/DCRMR/phys-desc/Details-of-applied-material/#5.2122.3.1)), or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) ([5.2132.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2132.3.1)) if considered important.
+
+## 5.233.5 Descriptions of containers
+
+<a name="5.233.5.1">5.233.5.1</a>  Make a note to record descriptions of containers issued with the manifestation if considered important.

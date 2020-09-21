@@ -7,21 +7,11 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1QSJPb33T4EIJQCCDpFQWTDUdDk-D_x35hkt7qPtwRYQ/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation:
 
 <a name="0.3.1">0.3.1</a> Precede each mark of prescribed punctuation by a space and follow it by a space, with the following exceptions: the comma, period, closing parenthesis, and closing square bracket are not preceded by a space; the opening parenthesis and opening square bracket are not followed by a space.
+
+<a name="0.3.1.1">0.3.1.1</a> If adjacent elements are to be enclosed in square brackets, each is enclosed in its own pair of square brackets.
 
 <a name="0.3.2">0.3.2</a> End paragraphs with normal punctuation (usually the period).
 

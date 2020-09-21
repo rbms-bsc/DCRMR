@@ -7,25 +7,182 @@ sidebar:
   nav: "docs"
 ---
 
-## Table of Contents
-{: .no_toc }
+## Internal review errata
 
-[I. Scope and purpose](/DCRMR/introduction/Scope and purpose/)
+[Link to introduction errata](https://docs.google.com/document/d/17-0bvv70S3LwYd8BZiG7odso6RRMXySXn4QvOemTgEk/edit)
 
-[II. Relationship to other standards](/DCRMR/introduction/Relationship-to-other-standards/)
+## Table of contents
+{: .no_toc .text-delta }
 
-[III. Objectives and principles](/DCRMR/introduction/Objectives and principles/)
+1. TOC
+{:toc}
 
-[IV. Options](/DCRMR/introduction/Options/)
+## I. Scope and Purpose
 
-[V. Language preferences](/DCRMR/introduction/Language-preferences/)
+### I.1 Descriptive Cataloging of Rare Materials
 
-[VI. Spelling and style](/DCRMR/introduction/Spellin- and-style/)
+<a name="I.1.1">I.1.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany AACR2 and includes six format-specific manuals: books, serials, graphics, music, cartographic, and manuscripts. 
 
-[VII. Acronyms](/DCRMR/introduction/Acronyms/)
+### I.2 Descriptive Cataloging of Rare Materials (RDA Edition)
 
-[VIII. Examples and notes](/DCRMR/introduction/Examples-and-notes/)
+<a name="I.2">I.2.1</a> When completed, DCRMR will provide guidelines and rules for descriptive cataloging of rare materials in all formats. The initial release includes only  for descriptive cataloging of rare books, that is, printed textual monographs receiving special treatment within a repository.  for additional formats will be added as the RBMS RDA Editorial Group completes writing guidelines.
+DCRMR may be used for resources of any age or type of production. DCRMR is informed by long-standing Anglo-American practice in describing rare materials, as embodied in the DCRM suite of manuals. When creating RDA descriptions, use DCRMR. The [DCRM manuals](http://rbms.info/dcrm/) are still appropriate for descriptions based on AACR2.
 
-[IX. Integrity of the copy](/DCRMR/introduction/Integrity-of-the-copy/)
+### I.3 Need for special rules
 
-[X. Precataloging decisions](/DCRMR/introduction/Precataloging-decisions/)
+<a name="I.3.1">I.3.1</a> Resources in special collections often present situations not ordinarily encountered in the cataloging of typical modern publications (e.g., variation between copies, cancelled leaves, etc.) and may require additional details of description in order to identify significant characteristics (e.g., bibliographical format, typeface, etc.). Such details are important for two reasons. They permit the ready identification of copies of a resource (e.g., as editions, impressions, or issues), and they provide a more exact description of the resource as an artifact.
+
+### I.4 Scope of application
+
+<a name="I.4.1">I.4.1</a> DCRMR is especially appropriate for the description of printed resources produced before the introduction of machine printing in the nineteenth century, for item-level description of manuscripts, and for description of graphic materials collected for the purpose of detailed study. However, it may be used to describe any resource, including machine-press publications, artists’ books, private press books, and other contemporary manifestations. 
+Rare materials are those for which an agency chooses to provide a more detailed description. The treatment may be applied for any reason, including, but not limited to, age, rarity, fragility, enduring value, or importance as part of a collection. These rules may be applied categorically based on date or place of publication (e.g., all British and North American imprints published before 1831), or may be applied selectively, according to the administrative policy of the institution, which may choose to catalog some or all of its holdings at a more detailed level of description than that provided for in RDA. 
+
+### I.5 Application within the metadata description
+
+<a name="I.5.1">I.5.1</a> DCRMR contains rules for describing the resource, chiefly at the manifestation and item level, with  at the work or expression level as needed. It does not address the construction and assignment of access points, although brief  relating to access points do appear throughout. 
+
+## II. Relationship to other standards
+
+### II.1 RDA, LC-PCC PS, and other cataloging documentation
+
+<a name="II.1.1">II.1.1</a> DCRMR is a revision of the *Descriptive Cataloging of Rare Materials* suite (DCRM) based on RDA and the Library of Congress/Program for Cooperative Cataloging Policy Statements (LC-PCC PS). DCRMR deviates in substance from RDA and LC-PCC PS  only when required by the particular descriptive needs of rare materials. In matters of style, presentation, wording, and arrangement, DCRMR follows its own conventions. 
+
+DCRMR builds upon RDA data elements and guidelines. Refer to RDA for guidance and instructions on matters of description not covered in DCRMR. The relevant sections of RDA must be consulted for rules governing name and title access points. DCRMR is independent of the LC-PCC Policy Statements and does not assume application of LC-PCC PS. 
+
+For subject headings, numerous controlled vocabularies are available; within the United States, the Library of Congress Subject Headings are widely used. Consult classification documentation for assignment of call numbers. For genre/form headings and other terms of relevance to special collections cataloging, consult the [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}, the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"}, and other controlled vocabularies as needed (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}).
+
+### II.2 Metadata Encoding Standards
+
+<a name="II.2.1">II.2.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendixes. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
+
+## III. Objectives and principles
+
+The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging rules for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ *Functional Requirements for Bibliographic Records* (FRBR) and *Library Reference Model* (LRM), and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA *Statement of International Cataloguing Principles*. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR .
+
+### III.1 Functional objectives of DCRMR
+
+<a name="III.1.1">III.1.1</a> The primary objectives in cataloging special collections resources are no different from those in cataloging other resources. These objectives focus on meeting user needs to find, identify, select, obtain, and explore. However, users of special collections resources often bring specialized requirements to these tasks that cannot be fully met by general cataloging guidelines, such as those contained in RDA. In addition, the standard production practices assumed in general cataloging rules do not always apply to special collections resources. The following DCRMR objectives are designed to accommodate these important differences.
+
+#### III.1.1 Users must be able to investigate physical processes and post-production history and context exemplified in resources described
+
+<a name="III.1.1.1">III.1.1.1</a> Users of special collections resources routinely investigate a variety of artifactual and post-production aspects of materials. For example, they may want to locate resources that are related by printing methods, illustration processes, binding styles and structures, provenance, genre/form, etc. The ability of users to identify resources that fit these criteria depends upon full and accurate descriptions and the recording of appropriate access points and relationships.
+
+#### III.1.2 Users must be able to distinguish clearly among different manifestations of an expression of a work
+
+<a name="III.1.2.1">III.1.2.1</a> The ability to distinguish among different manifestations of an expression of a work is critical to the user tasks of identifying and selecting resources. Users of rare materials require full and faithful transcriptions, detailed physical descriptions, and careful recording of various distinguishing points in order to identify separate manifestations. 
+
+Additionally, users of special collections resources are typically interested in drawing finer distinctions among variants within manifestations than are users of other resources, including not simply between editions and issues but between variant impressions and states; many also need to distinguish between copies at the item level.
+
+#### III.1.3 Users must be able to perform most identification and selection tasks without direct access to the resources
+
+<a name="III.1.3.1">III.1.3.1</a> Users of special collections resources frequently perform identification and selection tasks under circumstances that require the description to stand as a detailed surrogate for the item (e.g., consultation from a distance, limited access due to the fragile condition of the item, inability to physically browse collections housed in restricted areas, etc.). Accuracy of descriptive representation increases subsequent efficiency for both users and collection managers. The same accuracy contributes to the long-term preservation of the materials themselves, by reducing unnecessary circulation and examination of materials that do not precisely meet users’ requirements.
+
+#### III.1.4 Users must be able to gain access to resources whose production or presentation characteristics differ from modern conventions
+
+<a name="III.1.4.1">III.1.4.1</a> In special collections resources, explicit evidence concerning details of publication and manufacture will often be lacking or insufficient to distinguish among different manifestations. That which is bibliographically significant may thus be obscured. In order to distinguish among manifestations, the  in DCRMR provide guidance for recording bibliographic evidence presented in forms that differ from modern conventions (e.g. signature statements).
+
+### III.2 Principles of DCRMR construction 
+
+To meet the objectives listed above, DCRMR relies upon the following six principles. These principles are influenced by the general principles of bibliographic description offered by Svenonius: user convenience; representation; sufficiency and necessity; standardization; and integration.
+
+#### III.2.1 Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work
+
+<a name="III.2.1.1">III.2.1.1</a> This principle derives from the general principle of user convenience and has implications for all elements of the bibliographic description. The principle relates to objective 2 stated above. 
+
+#### III.2.2 Rules provide for accurate representations of the resource as it describes itself, notably through  regarding transcription, transposition, and omission
+
+<a name="III.2.2.1">III.2.2.1</a> This principle derives from the general principles of representation (with its related subprinciple of accuracy) and of standardization. Precise representation is of particular relevance in those elements that require transcription (title and statement of responsibility, edition, publication, distribution, manufacture, and series), but should not be ignored in physical description and notes. The general principles of representation and standardization stand in greater tension with each other when cataloging rare materials. Faithfulness to both principles may require descriptive and annotative treatment necessarily exceeding the norms (and at times the vocabulary) established as sufficient for the description of general materials. The principle relates to objectives 3 and 4 stated above. 
+
+#### III.2.3 Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described
+
+<a name="III.2.3.1">III.2.3.1</a> This principle derives from the general principle of sufficiency and necessity (with its related subprinciple of significance). Application of the principle requires that rules for rare materials cataloging provide additional guidance on access points, particularly in cases where such information is not integral to the manifestation, expression, or work described.  for item-specific information appearing in notes may recommend standard forms for presentation of information (addressing the general principle of user convenience and its related subprinciple of common usage). Application of such  presumes both a user’s need for such information and a cataloger’s ability to properly describe such aspects. The principle relates to objective 1 stated above. 
+
+#### III.2.4 Rules provide for the inclusion of all elements of bibliographical significance
+
+<a name="III.2.4.1">III.2.4.1</a> General cataloging codes like RDA routinely strive for both brevity and clarity, principles affiliated with the general principle of sufficiency. In describing rare materials, too great an emphasis on brevity may become the occasion for insufficiency and lack of clarity. Brevity of description may be measured best against the functional requirements of the particular bibliographic description rather than against the average physical length of other bibliographic descriptions in the catalog. A natural tension exists between the requirements of accurate representation of an item and the requirements of sufficiency. Reference to the principle of user convenience may offer correct resolution of such tension. This principle is related to all of the objectives stated above. 
+
+#### III.2.5 Rules conform to the RDA Toolkit to the extent possible
+
+<a name="III.2.5.1">III.2.5.1</a> This principle relates to general principles of standardization and user convenience (with the latter’s subprinciple of common usage). DCRMR assumes that users of bibliographic descriptions constructed in accordance with its provisions operate in contexts where RDA and LC-PCC PS are the accepted standards for the cataloging of general materials. DCRMR does not introduce instructions that are not required by differences expected between special collections and general collections resources. 
+
+Although the latest version of the RDA Toolkit is still in beta at the time of this writing, the RDA Steering Committee (RSC) has scheduled the beta version to become the authorized version on December 15, 2020. Therefore, DCRMR uses existing RDA vocabulary in a manner consistent with the RDA Beta Toolkit; any additional specialized vocabulary necessary for description and access of rare materials occurs in a clear and consistent manner in DCRMR , appendices, and glossary entries. 
+
+The structure and numbering of DCRMR are new. Since the Beta Toolkit does not present elements in any given order, DCRMR introduces order based generally on ISBD, but grouping notes with the element they describe (e.g., Note on title has been added to the Title chapter) and adding chapters for statement of responsibility item-specific notes.
+
+#### III.2.6 Rules are compatible with the DCRM suite except in cases where changes are necessary to align more closely to the RDA Beta Toolkit or to conform to the above principles
+
+<a name="III.2.6.1">III.2.6.1</a> This principle relates to general principles of standardization and user convenience (with the latter’s subprinciple of common usage). Records created according to  in DCRM/AACR2 and DCRMR/RDA will co-exist in catalogs. Therefore, changes to DCRM cataloging practices were introduced only after careful consideration of the value or necessity of such changes. Although DCRMR  are compatible with the RDA Beta Toolkit, the text is an update to the  in the DCRM manuals rather than directly modeled on RDA. This is a departure from past practice; in DCRM, when an existing AACR2 rule satisfied the requirements of cataloging rare materials, DCRM text was modeled on AACR2 text, using carefully considered alternative wording only in cases where the language of AACR2 was not precise enough.
+
+## IV. Options
+
+<a name="IV.1">IV.1</a> Available options are indicated in one of three ways. 
+
+* “Alternative rule” designates an alternative option which affects all or several areas of the description, and which must be used consistently throughout. In DCRMR, alternative rules apply to the transcription of original punctuation and to the creation of separate records for  individual impressions, states, binding variants, or copies. 
+* *"Optionally"* introduces an alternative treatment of an element. 
+* "If considered important" indicates that more information may be added in a note, and thus signals choices for more or less depth in the description. This phrase covers the entire range between best practice on the one end, and highly specialized practices on the other. 
+
+<a name="IV.2">IV.2</a> The cataloging agency may wish to establish policies and guidelines on the application of options, leave the use of options to the discretion of the cataloger, or use a combination of the two.
+
+## V. Language preferences
+
+<a name="V.1">V.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [4.204.5.1](/DCRMR/ppdm/Place-of-publication/#4.201.5.1)-[4.201.6.1](/DCRMR/ppdm/Place-of-publication/#4.201.6.1), [4.201.95.1](/DCRMR/ppdm/Place-of-publication/#4.201.95.1)-[4.201.99.1](/DCRMR/ppdm/Place-of-publication/#4.201.99.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/other-notes/), and [Notes on items](/DCRMR/notes-on-items/).
+
+## VI. Spelling and style
+
+<a name="VI.1">VI.1</a> DCRMR uses the most recent edition of *Merriam-Webster’s Collegiate Dictionary* as its authority in matters of spelling and the most recent edition of the *Chicago Manual of Style* as its authority in matters of style.
+
+## VII. Acronyms
+
+|Abbreviation|Used for|
+|---|---|
+|3R Project	|RDA Toolkit Restructure and Redesign Project|
+|AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
+|BDRB	|*Bibliographic Description of Rare Books*|
+|BIBCO	|[Monographic Bibliographic Record Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
+|BIBFRAME|[Bibliographic Framework](https://www.loc.gov/bibframe/){:target="_blank"}|
+|BSC	|[Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/committees/bibliographic_standards/){:target="_blank"}|
+|BSR	|[BIBCO Standard Record](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
+|CC:DA	|[Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association](https://alcts.ala.org/ccdablog/){:target="_blank"}|
+|CONSER	|[Cooperative Online Serials Program](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
+|DCRB	|*Descriptive Cataloging of Rare Books*|
+|DCRM	|[Descriptive Cataloging of Rare Materials](http://rbms.info/dcrm/){:target="_blank"}|
+|DCRM(B)|[Descriptive Cataloging of Rare Materials (Books)](http://rbms.info/dcrm/dcrmb/){:target="_blank"}|
+|DCRM(C) |[Descriptive Cataloging of Rare Materials (Cartographic)](http://rbms.info/dcrm/dcrmc/){:target="_blank"}|
+|DCRM(G)|[Descriptive Cataloging of Rare Materials (Graphics)](http://rbms.info/dcrm/dcrmg/){:target="_blank"}|
+|DCRM(M)|[Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/dcrmm/){:target="_blank"}|
+|DCRM(MSS)|[Descriptive Cataloging of Rare Materials (Manuscripts](http://rbms.info/dcrm/dcrmmss/){:target="_blank"}|
+|DCRMR	|[Descriptive Cataloging of Rare Materials (RDA Edition)](/DCRMR/){:target="_blank"}|
+|DCRM(S)|[Descriptive Cataloging of Rare Materials (Serials)](http://rbms.info/dcrm/dcrms/){:target="_blank"}|
+|IFLA|[International Federation of Library Associations and Institutions](https://www.ifla.org/){:target="_blank"}|
+|ISBD	|International Standard Bibliographic Description|
+|FRBR	|Functional Requirements for Bibliographic Records|
+|LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
+|LC/PCC PS | [Library of Congress/Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
+|LCRI	|Library of Congress Rule Interpretations|
+|LRM	|[Library Reference Model](https://www.ifla.org/publications/node/11412){:target="_blank"}|
+|MARC	|[MAchine Readable Cataloging](https://www.loc.gov/marc/){:target="_blank"}|
+|PCC	|[Program for Cooperative Cataloging](https://www.loc.gov/aba/pcc/){:target="_blank"}|
+|RBMS	|[Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/){:target="_blank"}|
+|RBMS PS|RBMS Policy Statements|
+|RDA	|[RDA: Resource Description and Access](https://www.rdatoolkit.org/){:target="_blank"}| 
+|RSC  |[RDA Steering Committee](http://www.rda-rsc.org/){:target="_blank"}|
+
+## VIII. Examples and notes
+
+<a name="VIII.1">VIII.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
+
+<a name="VIII.2">VIII.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/other-notes/)).
+
+## IX. Integrity of the copy
+
+<a name="IX.1">IX.1</a> **Defects and sophistication**. A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the copy in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another copy, and the cataloger is not expected to verify the integrity of each leaf in a resource unless there is reason to suspect that the copy in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information.
+
+<a name="IX.2">IX.2</a> **Dust jackets**. In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a resource, and are included in these rules as preferred sources for edition, production, publication, distribution, manufacture, and series. Dust jackets often contain valuable information not found in any other source in the resource. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the copy of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
+
+## X. Precataloging decisions
+
+<a name="X.1">X.1</a> Development of this 'Precataloging decisions' introductory section is temporarily on hold, pending future developments. We will add this information as soon as we’re able. If you believe you’ve reached this in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+
+Kind regards,
+
+The RBMS RDA Editorial Group

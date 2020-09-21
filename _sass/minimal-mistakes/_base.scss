@@ -116,16 +116,18 @@ blockquote {
   padding-right: 0em;
   padding-bottom: 0em;
   padding-left: .5em;
+  font-variant: small-caps;
   border-left: 1.5em solid $background-color;
-  font-size: 12px; 
+  font-size: 17px; 
   table{
   border: 0px solid black;
   }
   cite {
-    font-family: $monospace;
+    font-family: $sans-serif;
     font-style: normal; 
+    font-variant: normal;
 	 font-weight: normal;  
-
+    font-size: 17 px;
     &:before {
       padding-right: 0px;
     }

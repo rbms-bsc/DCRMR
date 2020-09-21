@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/16blrsVgaA5Tuk6lU4HxJhxf42JLbtXColGIJgtxoz6U/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -22,7 +15,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 5.224.1 Element information
 
-<a name="5.224.1.1">5.224.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-4b9320ad-5cf8-31b7-aad2-7d4b60070bbb)
+<a name="5.224.1.1">5.224.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-4b9320ad-5cf8-31b7-aad2-7d4b60070bbb){:target="_blank"}
 
 <a name="5.224.1.2">5.224.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
@@ -52,8 +45,8 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>In yellow wrappers with illustrations on page [2] and [3], and publisher's advertisement on page [4]</CITE>
 
-<a name="5.224.3.2">5.224.3.2</a> *Optionally*, record specific types of binding using one or more terms from the [RDA Value Vocabularies, RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/),
- the [RBMS Controlled Vocabularies, Binding Terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm), or other controlled vocabularies. Indicate the source of the term.
+<a name="5.224.3.2">5.224.3.2</a> *Optionally*, record specific types of binding using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"},
+ the [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
 
 <a name="5.224.3.3">5.224.3.3</a> Details of a binding recorded here usually apply to all exemplars of a manifestation. Summaries of binding details that apply to particular groups of exemplars within an edition or issue may also be recorded.
 
@@ -63,6 +56,6 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>At least two variants exist: one bound in red cloth with white lettering and the other in gold cloth with orange lettering</CITE>
 
-<a name="5.224.3.4">5.224.3.4</a> Record details pertaining to the binding of individual items as [modification of item](/DCRMR/Notes-on-items/Modification-of-item/) if considered important (see [8.21.X.X](/DCRMR/Notes-on-items/Modification-of-item/#8.21.X.X)).
+<a name="5.224.3.4">5.224.3.4</a> Record details pertaining to the binding of individual items as [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) if considered important (see [10.21.5.1](/DCRMR/notes-on-items/Modification-of-item/#10.21.5.1)).
 
-
+<a name="5.224.3.5">5.224.3.5</a> Record details pertaining to containers issued with the manifestation as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [5.233.5.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.5.1)).

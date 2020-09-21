@@ -7,6 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.8 errata](https://docs.google.com/document/d/1ju48nhKEyJg4Rw9cxKTLF1FTSrc6Op080C9LoWxdJyY/edit)
+
 ## Table of Contents
 {: .no_toc }
 
@@ -16,10 +20,8 @@ sidebar:
 
 [Chapter 8.22 Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/)
 
-[Chapter 8.23 Item described in](/DCRMR/notes-on-items/Item-described-in/)
+[Chapter 8.23 Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/)
 
-[Chapter 8.24 Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/)
+[Chapter 8.24 Note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/)
 
-[Chapter 8.25 Note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/)
-
-[Chapter 8.26 Bound with](/DCRMR/notes-on-items/Bound-with/)
+[Chapter 8.25 Bound with](/DCRMR/notes-on-items/Bound-with/)

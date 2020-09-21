@@ -7,6 +7,10 @@ sidebar:
   nav: "docs"
 ---
 
+## Internal review errata
+
+[Link to ch.9 errata](https://docs.google.com/document/d/1S-ppDuSz0STqOURYVJ6tM5PmjqkF7g2ZPN7Cx3uVWZE/edit)
+
 ## 9.01 Sources of information
 
 <a name="9.01.1">9.01.1</a> Take information included in this area from any source. Do not enclose any information in square brackets.
@@ -21,5 +25,3 @@ sidebar:
 [Chapter 9.22 Term of availability](/DCRMR/identifiers/Term-of-availability/)
 
 [Chapter 9.23 Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
-
-[Chapter 9.24 Note on metadta work](/DCRMR/identifiers/Note-on-metadata-work/)

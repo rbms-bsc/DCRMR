@@ -136,4 +136,3 @@ Finally, I want to acknowledge our keepers of the text and editors. Audrey Pears
 
 Elizabeth Hobart  
 Editor, RBMS RDA Editorial Group  
-1 December 2020

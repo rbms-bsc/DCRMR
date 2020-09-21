@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1CkY58ZDiHyw1WG9lRAcgzXvCeigJyD1boss0zUb2gOM/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -34,28 +27,28 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 ## 7.223.4 References to published descriptions
 
-<a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/).
+<a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
 <a name="7.223.4.2">7.223.4.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
 >Example:   
 >Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
  
 >Example:  
 >Manifestation described in: <CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
 
 >Example:  
 >Manifestation described in: <CITE>Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
  
 >Example:  
 >Manifestation described in: <CITE>Detailed description of plates in: Abbey, J.R. Travel, 23</CITE>  
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment:* A publication in quarto)
+>(*Comment*: A publication in quarto)
 
 <a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/other-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1)).

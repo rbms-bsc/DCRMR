@@ -7,13 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/17jh_E1gGXsgXrSWIj9Ftfyg8vHCn3BUmxllXDi_VIuc/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -30,23 +23,19 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.20.2.2">4.20.2.2</a> A publication statement includes a statement about the publication, release, or issuing of a published manifestation.
 
-## 4.20.3 Fictitious or incorrect information
+## 4.20.3 General rule
 
-<a name="4.20.3.1">4.20.3.1</a> If all information relating to the publication statement appearing in the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note.  If the actual details are known, or can be reasonably surmised, supply them at the end of the transcription in aquare brackets.  Include the source of this information in a [note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.4)).  
-
->Example:  
->Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]</CITE>  
->Note on publication statement: <CITE>Corrected imprint from: Pia, P. Livres de l'Enfer</CITE>
+<a name="4.20.3.1">4.20.3.1</a> Transcribe the publication statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
 
 ## 4.20.4 Information covered by labels, etc.
 
-<a name="4.20.4.1">4.20.4.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.5)). 
+<a name="4.20.4.1">4.20.4.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.5)). 
 
 >Example:  
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
 >Note on publication statement: <CITE>Imprint from printed label affixed to top right corner of title page</CITE>
 
-<a name="4.20.4.2">4.20.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [8.20.X.X](/DCRMR/notes-on-items/Note-on-item/#8.20.X.X).
+<a name="4.20.4.2">4.20.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/notes-on-items/Note-on-item/) (see [10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)).
 
 ## 4.20.5 Elements relating to publication, distribution, etc. vs. elements relating to manufacture
 
@@ -90,7 +79,7 @@ Please use the comment feature in the Google Document or the Google Form linked 
 
 <a name="4.20.8.1">4.20.8.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.8.2">4.20.8.2</a> If a distribution or manufacture statement is grammatically separable, treat the statement as a [distribution statement](/DCRMR/ppdm/Distribution-statement/) or [manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
+<a name="4.20.8.2">4.20.8.2</a> If a distribution or manufacture statement is grammatically separable, treat the statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
 <a name="4.20.8.3">4.20.8.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 
@@ -103,16 +92,16 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
-<a name="4.20.8.4">4.20.8.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)). Often the layout of the source will suggest the appropriate treatment.
+<a name="4.20.8.4">4.20.8.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)). Often the layout of the source will suggest the appropriate treatment.
 
 >Example:  
 ><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
->(*Comment:* The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
+>(*Comment*: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
 >
 >but
 >
 ><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
->(*Comment:* The engraver statement containing the name of the publisher has been transcribed as the publication statement)
+>(*Comment*: The engraver statement containing the name of the publisher has been transcribed as the publication statement)
 
 ## 4.20.9 No publication statement
 
@@ -132,11 +121,11 @@ Please use the comment feature in the Google Document or the Google Form linked 
 >Example:  
 ><CITE>London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785</CITE>
 
-<a name="4.20.9.3">4.20.9.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [distribution statement](/DCRMR/ppdm/Distribution-statement/) or [manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
+<a name="4.20.9.3">4.20.9.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
 >Example:  
 ><CITE>London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
 
 ## 4.20.91 Transcribing dates of publication as part of the Publication statement
 
-<a name="4.20.91.1">4.20.91.1</a> Transcribe [dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [words](/DCRMR/general-rules/Transcription/) and [numbers](/DCRMR/general-rules/Transcription/).
+<a name="4.20.91.1">4.20.91.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).

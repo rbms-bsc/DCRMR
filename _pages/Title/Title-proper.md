@@ -7,7 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -16,7 +15,7 @@ sidebar:
 
 ## 1.1A1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4b9291c5-f525-37fd-b661-c469e763ce8a)
+[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4b9291c5-f525-37fd-b661-c469e763ce8a){:target="_blank"}
 
 ---
 
@@ -61,7 +60,7 @@ Source: [Library of Congress](https://www.loc.gov/resource/cph.3a06060/)
 
 ```The nursery frieze```
 
-**Comment: Title constructed from letters scattered in sequence among the illustrations.**
+**Comment: Title constructed from letters scattered in sequence among the illustrations**.
 Source: [OCLC 2013288](http://www.worldcat.org/oclc/2013288) 
 
 ## 1.1A5 Words considered part of the title proper

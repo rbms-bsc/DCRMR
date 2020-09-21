@@ -21,37 +21,15 @@ docs:
         url: /preface/Changes-from-DCRM(B)/
       - title: "Future work"
         url: /preface/Future-work/
-      - title: "Acknowledgements"
-        url: /preface/Acknowledgements/
+      - title: "Acknowledgments"
+        url: /preface/Acknowledgments/
 
   - title: "Introduction"
     url: /introduction/
-    children:
-      - title: "Scope and purpose"
-        url: /introduction/Scope-and-purpose/
-      - title: "Relationship to other standards"
-        url: /introduction/Relationship-to-other-standards/
-      - title: "Objectives and principles"
-        url: /introduction/Objectives-and-principles/
-      - title: "Options"
-        url: /introduction/Options/
-      - title: "Language preferences"
-        url: /introduction/Language-preferences/
-      - title: "Spelling and style"
-        url: /introduction/Spelling-and-style/
-      - title: "Acronyms"
-        url: /introduction/Acronyms/
-      - title: "Examples and notes"
-        url: /introduction/Examples-and-notes/
-      - title: "Integrity of the copy"
-        url: /introduction/Integrity-of-the-copy/
-      - title: "Precataloging decisions"
-        url: /introduction/Precataloging-decisions/
+
   - title: "General rules"
     url: /general-rules/
     children:
-      - title: "Scope"
-        url: /general-rules/Scope/
       - title: "Data provenance"
         url: /general-rules/Data-provenance/
       - title: "Prescribed punctuation"
@@ -73,8 +51,8 @@ docs:
         url: /title/Other-title-information/
       - title: "Parallel other title information"
         url: /title/Parallel-other-title-information/
-      - title: "Variant title"
-        url: /title/Variant title/
+      - title: "Variant title of manifestation"
+        url: /title/Variant-title-of-manifestation/
       - title: "Title of item"
         url: /title/Title-of-item/
       - title: "Note on title"
@@ -242,12 +220,20 @@ docs:
   - title: "Chapter 7. Other Notes"
     url: /other-notes/
     children:
+      - title: "Note on RDA entity"
+        url: /other-notes/Note-on-RDA-entity/
+      - title: "Note on work"
+        url: /other-notes/Note-on-work/
+      - title: "Note on expression"
+        url: /other-notes/Note-on-expression/
+      - title: "Language of expression"
+        url: /other-notes/Language-of-expression/
+      - title: "Script"
+        url: /other-notes/Script/
       - title: "Note on manifestation"
         url: /other-notes/Note-on-manifestation/
-      - title: "Related manifestation of RDA entity"
-        url: /other-notes/Related-manifestation-of-RDA-entity/
-      - title: "Manifestation dissertation statement"
-        url: /other-notes/Manifestation-dissertation-statement/
+      - title: "Accompanied by manifestation"
+        url: /other-notes/Accompanied-by-manifestation/
       - title: "Dissertation or thesis information"
         url: /other-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
@@ -258,8 +244,6 @@ docs:
         url: /other-notes/Year-degree-granted/
       - title: "Manifestation described in"
         url: /other-notes/Manifestation-described-in/
-      - title: "Note on RDA entity"
-        url: /other-notes/Note-on-RDA-entity/
       - title: "Summarization of content"
         url: /other-notes/Summarization-of-content/    
       - title: "Supplementary content"
@@ -276,8 +260,6 @@ docs:
         url: /notes-on-items/Modification-of-item/
       - title: "Custodial history of item"
         url: /notes-on-items/Custodial-history-of-item/
-      - title: "Item described in"
-        url: /notes-on-items/Item-described-in/
       - title: "Note on extent of item"
         url: /notes-on-items/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
@@ -296,8 +278,6 @@ docs:
         url: /identifiers/Term-of-availability/
       - title: "Note on identifier for manifestation"
         url: /identifiers/Note-on-identifier-for-manifestation/
-      - title: "Note on metadata work"
-        url: /identifiers/Note-on-metadata-work/
        
   - title: "Appendices"
     url: /appendices/
@@ -322,9 +302,3 @@ docs:
         url: /introduction/
       - title: "Abbreviations for Creators, Publishers, Printers, etc."
         url: /appendices/Appendix-j/
-
-  - title: "Glossary"
-    url: /glossary/
-        
-
-
