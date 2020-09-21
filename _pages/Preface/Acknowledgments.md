@@ -7,90 +7,126 @@ sidebar:
   nav: "docs"
 ---
 
-## Process for Gathering Public Review Comments.
-Please use the comment feature in the Google Document or the Google Form linked below to leave feedback for the DCRMR Public Review Process.  We greatly appreciate your time and expertise in reviewing the instructions and contents of this page.  If you have any questions on the DCRMR Public Review Process, would like to leave feedback directly with us, or have any technical difficulties, please do not hesitate to contact us at dcrm.rda@gmail.com  With kind regards from the DCRMR editorial team.
-
-[Link to Google Document](https://docs.google.com/document/d/1uogKpgTrmm7rkRymEmYUO6m9kbUtB3P4pMUu7Os6siA/edit){:target="_blank"}
-
-[Link to Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNtJkbY1mngdTcvCoB7zZcpaIuuKHvlbyiidP-QunDy14VcQ/viewform){:target="_blank"}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 Writing a standard is intensive work performed by dedicated volunteers. Every member of the editorial group has given their time to this effort while also working full time jobs and balancing their personal lives. The initial release of DCRMR was prepared in truly extraordinary circumstances. The release of the new RDA Toolkit in 2019 necessitated a full change in direction, leading the editorial group to create a new standard in roughly 18 months. During this time, we faced the COVID-19 pandemic,  uprisings across the United States, and environmental disasters. Throughout this, the editorial group worked tirelessly to bring this work to fruition. No one accepts editorial responsibilities anticipating these challenges. From the bottom of my heart, thank you to every member of the RBMS RDA Editorial Group from its inception to the present:
 
-|---|---|
-| Elizabeth Hobart, editor (2019-present) | Francis Lapka |
-| Michelle Mascaro, editor (2017-2020) | Deborah J. Leslie |
-| Amy Brown | Iris O’Brien |
-| kalan Knudson Davis | Tammy Druash |
-| Jessica Grzegorski | Ryan Hildebrand |
-| Elizabeth O’Keefe | Audrey Pearson |
-| Amy Tims |
++ Elizabeth Hobart, editor (2019-present)
++ Michelle Mascaro, editor (2017-2020)
++ Amy Brown 
++ kalan Knudson Davis
++ Tammy Druash
++ Jessica Grzegorski
++ Ryan Hildebrand
++ Francis Lapka 
++ Deborah J. Leslie
++ Iris O’Brien
++ Elizabeth O’Keefe
++ Audrey Pearson
++ Amy Tims
 
 This work was not performed solely by the editorial group. Thanks as well to all of the John Attig and Robert Maxwell for laying the foundation of this work and to all task force members through the development of this standard, including the Descriptive Cataloging of Rare Materials Task Force (2014-2017):
 
-|---|---|
-| Francis Lapka, chair | Linda Isaac |
-| Morag Boyd | Deborah J. Leslie |
-| Valerie Buck | Nancy Lorimer | 
-| Ellen Cordes | Michelle Mascaro |
-| Lori Dekydtspotter | Iris O’Brien |
-| Christine DeZelar-Tiedman | Elizabeth O’Keefe | 
-| Todd Fell | Audrey Pearson |
-| Jane Gillis | Aislinn Catherine Sotelo |
-| Matthew Haugen | Catherine Uecker |
++ Francis Lapka, chair 
++ Morag Boyd
++ Valerie Buck
++ Ellen Cordes
++ Lori Dekydtspotter 
++ Christine DeZelar-Tiedman
++ Todd Fell
++ Jane Gillis 
++ Matthew Haugen 
++ Linda Isaac
++ Deborah J. Leslie
++ Nancy Lorimer 
++ Michelle Mascaro  
++ Iris O’Brien
++ Elizabeth O’Keefe 
++ Audrey Pearson 
++ Aislinn Catherine Sotelo 
++ Catherine Uecker 
 
 The DCRM(B) for RDA Revision Group (2012-2014):
 
-|---|---|
-| Francis Lapka, chair | Iris O’Brien |
-| Morag Boyd | Aislinn Sotelo |
-| Lori Dekydtspotter | Catherine Uecker |
-| Robert Maxwell | |
++ Francis Lapka, chair 
++ Morag Boyd
++ Lori Dekydtspotter
++ Robert Maxwell
++ Iris O’Brien 
++ Aislinn Sotelo
++ Catherine Uecker
 
 And the DCRM-RDA Task Force (2014-2017):
 
-|---|---|
-| Deborah J. Leslie, co-chair | Ann Copeland |
-| Catherine Uecker, co-chair | Nancy Lorimer |
-| John Attig | Mary Mundy |
-| Randal S. Brandt | Elizabeth O’Keefe |
++ Deborah J. Leslie, co-chair
++ Catherine Uecker, co-chair 
++ John Attig 
++ Randal S. Brandt
++ Ann Copeland 
++ Nancy Lorimer
++ Mary Mundy 
++ Elizabeth O’Keefe
 
 In addition, support was provided by the examples group (a subgroup of the DCRM task force), which identified illustrative examples and identified sources:
 
-|---|---|
-| Morag Boyd | Linda Isaac |
-| Ellen Cordes | Iris O’Brien |
-| Lori Dekydtspotter | Catherine Uecker |
++ Morag Boyd 
++ Ellen Cordes 
++ Lori Dekydtspotter
++ Linda Isaac 
++ Iris O’Brien
++ Catherine Uecker
 
 And by the glossary group:
 
-Valerie Buck  
-Sarah Hoover  
-kalan Knudson Davis
++ Valerie Buck  
++ kalan Knudson Davis
++ Sarah Hoover  
 
 Thanks as well to the members of the Bibliographic Standards Committee since work began in 2010:
 
-|---|---|---|
-|Marcia Barrett | Alison Greenlee | Kate Moriarty |
-|Erin Blake | Matthew Haugen | Ann Myers | 
-|Amy Brown | Eileen Heeran | Jennifer K. Nelson |
-|Katelyn Borbely | Ryan Hildebrand | Margaret Nichols |  
-|Valerie Buck | Elizabeth Hobart | Iris O’Brien |
-|Brenna Bychowski | Linda Isaac | Allison Jai O’Dell | 
-|Jane Carpenter | Jason Kovari | Audrey Pearson |
-|Ann Copeland | Francis Lapka | Asheleigh Perry |
-|Ellen Cordes | Martha Lawler | Nina Schneider |
-|kalan Knudson Davis | Deborah J. Leslie | Stephen Skuce |
-|Lori Dekydtspotter | Nancy Lorimer | Aislinn Sotello |
-|Christine DeZelar-Tiedman | Nina Mamikunian | Brian Stearns |
-|Emily Epstein | Michelle Mascaro | Amy Tims |
-|Todd Fell | Melanie McGurr | Catherine Uecker |
-|Asheleigh Folsom | Honor Moody | Leslie Waggener |
++ Marcia Barrett
++ Erin Blake 
++ Amy Brown
++ Katelyn Borbely
++ Valerie Buck
++ Brenna Bychowski
++ Jane Carpenter
++ Ann Copeland 
++ Ellen Cordes 
++ kalan Knudson Davis
++ Lori Dekydtspotter
++ Christine DeZelar-Tiedman
++ Emily Epstein
++ Todd Fell
++ Asheleigh Folsom
++ Alison Greenlee
++ Matthew Haugen
++ Eileen Heeran 
++ Ryan Hildebrand
++ Elizabeth Hobart 
++ Linda Isaac
++ Jason Kovari 
++ Francis Lapka
++ Martha Lawler 
++ Deborah J. Leslie 
++ Nancy Lorimer
++ Nina Mamikunian
++ Michelle Mascaro
++ Melanie McGurr
++ Honor Moody
++ Kate Moriarty
++ Ann Myers 
++ Jennifer K. Nelson
++ Margaret Nichols
++ Iris O’Brien
++ Allison Jai O’Dell
++ Audrey Pearson
++ Asheleigh Perry 
++ Nina Schneider
++ Stephen Skuce
++ Aislinn Sotello
++ Brian Stearns
++ Amy Tims
++ Catherine Uecker
++ Leslie Waggener 
 
 Our heartfelt thanks to the following libraries for generously providing meeting space for editorial group meetings: the Newberry Library (January 2015), the Houghton Library (January 2016), Georgia State University Library (January 2017), and the Folger Shakespeare Library (June 2019). Our deep thanks also to the Lewis Walpole Library for hosting biannual meetings of the Descriptive Cataloging of Rare Materials Task Force from 2014-2017. A special thank you to Ellen Cordes in particular for arranging the Walpole meeting, without which the DCRM Task Force would not have been able to complete their charge.
 
@@ -101,20 +137,3 @@ Finally, I want to acknowledge our keepers of the text and editors. Audrey Pears
 Elizabeth Hobart  
 Editor, RBMS RDA Editorial Group  
 1 December 2020
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
