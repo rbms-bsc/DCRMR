@@ -25,4 +25,4 @@ sidebar:
 
 ## 6.24.3 General rule
 
-<a name="6.24.3.1">6.24.3.1</a> If there are parallel series titles (see [parallel title of series](/DCRMR/series/Parallel-title-of-series/#6.22.3.1)), transcribe the other title information after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit the associated other title information.  
+<a name="6.24.3.1">6.24.3.1</a> If there are parallel series titles (see [Parallel title of series](/DCRMR/series/Parallel-title-of-series/)), transcribe the other title information after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit the associated other title information.  
