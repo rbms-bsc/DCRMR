@@ -44,7 +44,7 @@ sidebar:
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
 
-<a name="1.21.3.2">1.21.3.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.27.X.X](/DCRMR/title/Note-on-title/#1.27.3.1)).
+<a name="1.21.3.2">1.21.3.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.27.3.1](/DCRMR/title/Note-on-title/#1.27.3.1)).
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
@@ -53,7 +53,6 @@ sidebar:
 ## 1.21.4 Forms of the title proper
 
 <a name="1.21.4.1">1.21.4.1</a> The title proper can take a variety of forms, some of which are exemplified below:
-
 
 <a name="1.21.4.2">1.21.4.2</a> Title proper inclusive of grammatically inseparable title information appearing before the chief title on the title page.
 
@@ -105,7 +104,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Example:  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
 >Note on title: <CITE>Title from Barbosa Machado.</CITE>  
->(*Comment*: A separate note is used to provide a full citation to Barbosa Machado)
+>(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/other-notes/Manifestation-described-in/) (see [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).)
 
 ## 1.21.7 Title proper with supplementary or section designation or title
 
@@ -141,9 +140,9 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 <a name="1.21.91.1">1.21.91.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information:
 
-transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note-on-manifestation](/DCRMR/other-notes/Note-on-manifestation/), [7.20.5](/other-notes/Note-on-manifestation/#7205-contents-notes))
+transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/), [7.20.5](/other-notes/Note-on-manifestation/#7205-contents-notes))
 
-**or** 	make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued-with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1))
+**or** 	make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1))
 
 **or**  	 devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper.
 
@@ -182,15 +181,14 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.95 Two or more works without a collective title on a single sheet
 
-<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works. If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1)).
+<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [7.20.5](/DCRMR/other-notes/Note-on-manifestation/#7205-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1)).
 
 ### 1.21.96 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
-<a name="1.21.96.1">1.21.96.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate metadata description or each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/notes-on-item/Bound-with/), [8.25.3.1](/DCRMR/notes-on-items/Bound-with/#8.25.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
+<a name="1.21.96.1">1.21.96.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/notes-on-item/Bound-with/), [8.25.3.1](/DCRMR/notes-on-items/Bound-with/#8.25.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
 
 ## 1.21.97 Access points for title proper
 
-<a name="1.21.97.1">1.21.97.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Provide access for the entire title proper exactly as transcribed, disregarding initial articles as required by filing rules (see [Title of manifestation](/DCRMR/title/Title-of-manifestation), [1.20.3](/DCRMR/title/Title-of-manifestation/#1203-title-access-points)). 
+<a name="1.21.97.1">1.21.97.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Provide access for the entire title proper exactly as transcribed, disregarding initial articles as required by filing rules (see [Title of manifestation](/DCRMR/title/Title-of-manifestation), [1.20.4](/DCRMR/title/Title-of-manifestation//#1204-title-access-points)). 
 
 <a name="1.21.97.2">1.21.97.2</a> For instructions on providing access points for variants of the title proper, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) ([1.25.4](/DCRMR/title/Variant-title-of-manifestation/#1254-access-points-for-variant-titles)).
-=======
