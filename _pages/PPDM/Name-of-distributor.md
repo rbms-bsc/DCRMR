@@ -21,7 +21,7 @@ sidebar:
 
 <a name="4.213.2.1">4.213.2.1</a> A nomen that is a name of an agent who is responsible for distributing a published manifestation.
 
-## 4.213.3 General Rule
+## 4.213.3 General rule
 
 <a name="4.213.3.1">4.213.3.1</a> Transcribe the names of distributors as part of this element.
 
@@ -44,14 +44,14 @@ sidebar:
 >Example:  
 ><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>
 
-## 4.213.4 Distributor statements containing grammatically inseparable place names or dates
+## 4.213.4 Names of distributors containing grammatically inseparable place names or dates
 
 <a name="4.213.4.1">4.213.4.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe the information as part of the name of distributor element. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), in square brackets in the appropriate element.
 
 >Example:  
 ><CITE>[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts</CITE>
 
-## 4.213.5 Distributor statements containing only addresses, signs, or initials
+## 4.213.5 Names of distributors containing only addresses, signs, or initials
 
 <a name="4.213.5.1">4.213.5.1</a> If only the address, sign, or initials of the distributor, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.5.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.1)).
 
@@ -60,7 +60,7 @@ sidebar:
 
 <a name="4.213.5.2">4.213.5.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.216.5.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.2)).
 
-## 4.213.6 Fictitious or incorrect distributor statements
+## 4.213.6 Fictitious or incorrect distributor names
 
 <a name="4.213.6.1">4.213.6.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.5.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.3)).
 
@@ -90,12 +90,10 @@ sidebar:
 
 <a name="4.213.95.1">4.213.95.1</a> If no distributor’s name can be conjectured, record  “distributor not identified” in square brackets.
 
-## 4.213.96 Distributor transcribed as part of another element 
+## 4.213.96 Distributor names transcribed as part of another element 
 
 <a name="4.213.96.1">4.213.96.1</a> If the name of the distributor does not appear in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/), but has already been transcribed as part of another element, supply it in a short identifiable form within square brackets.
 
-## 4.213.97 Distributor name in more than one language or script
+## 4.213.97 Distributor names in more than one language or script
 
 <a name="4.213.97.1">4.213.97.1</a> If the name of the distributor appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [4.216.6.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.6.2)).
-
-<a name="4.213.97.2">4.213.97.2</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if [Parallel names of distributors](/DCRMR/ppdm/Parallel-name-of-distributor/) are found on a different source as the name of distributor if considered important for identification (see [Parallel names of distributors](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) [4.216.6.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.6.1)).

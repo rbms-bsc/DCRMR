@@ -21,7 +21,7 @@ sidebar:
 
 <a name="4.223.2.1">4.223.2.1</a> A nomen that is a name of an agent who is responsible for printing, duplicating, casting, etc., a published manifestation.
 
-## 4.223.3 General Rule
+## 4.223.3 General rule
 
 <a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers,  together with any associated words or phrases, including addresses,  as part of this element when appropriate.  In general, do not omit levels in corporate hierarchy.
 

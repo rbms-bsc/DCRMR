@@ -21,7 +21,7 @@ sidebar:
 
 DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.5.31.5](/DCRMR/general-rules/Transcription/#0.5.31.5)). 
 
-If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"}) and consistently apply it throughout the resource description.
+If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.5.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
@@ -81,18 +81,9 @@ Make an explanatory note.
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
 >Note on title: <CITE>Title in the form of a rebus. Bute represented as a boot in the rebus.</CITE>
 
-### 0.5.18 [Key designations] 
-
-<a name="0.5.18.1">0.5.18.1</a> Transcribe accidentals (flat and sharp signs, etc.) directly following the key letters being modified. Do not insert a space. 
-
->Example:  
-><CITE>A&#9837; major</CITE>
-
-<a name="0.5.18.2">0.5.18.2</a> If minor keys are represented by lowercase letters in the chief source, transcribe them as lowercase. Otherwise, record any letter(s) representing the key in uppercase.
-
 ## 0.5.2 Capitalization and conversion of case
 
-### 0.5.21 Capitalization and conversaion of case: general rule
+### 0.5.21 Capitalization and conversion of case: general rule
 
 <a name="0.5.21.1">0.5.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
 
@@ -165,7 +156,6 @@ For guidance on recording the chronogram as a date element, see the instructions
 * For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [4.205.4.2](/DCRMR/ppdm/Date-of-publication/#4.205.4.2)
 * For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/ ), see [4.215.4.2](/DCRMR/ppdm/Date-of-distribution/#4.215.4.2)
 * For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [4.225.5.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2)
-* [Date of production]
 
 ## 0.5.3 Punctuation
 
@@ -200,16 +190,16 @@ For guidance on recording the chronogram as a date element, see the instructions
 * [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0538-punctuation-substituting-for-letters) (see [0.5.38.1](/DCRMR/general-rules/Transcription/#0.5.38.1))
 * [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#05385-punctuation-indicating-an-abbreviation) (see [0.5.385.1](/DCRMR/general-rules/Transcription/#0.5.385.1))
 
-<a name="0.5.31.5">0.5.31.5</a> **Nonnormalized transcription**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub:
+<a name="0.5.31.5">0.5.31.5</a> **Original punctuation**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0535-ellipses) (see [0.5.35.1](/DCRMR/general-rules/Transcription/#0.5.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#05355-square-brackets) (see [0.5.355.1](/DCRMR/general-rules/Transcription/#0.5.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0536-virgules) (see [0.5.36.1](/DCRMR/general-rules/Transcription/#0.5.36.1))
 * [Line endings](/DCRMR/general-rules/Transcription/#0537-line-endings) (see [0.5.37.1](/DCRMR/general-rules/Transcription/#0.5.37.1))
 
 >Example:  
-><CITE>Perdito & Perdita—or—the Man & Woman of the People</CITE>
+><CITE>Perdito & Perdita—or—the man & woman of the people</CITE>
 
-If a cataloging agency applies ISBD punctuation and the option for nonnormalized transcription is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
+If a cataloging agency applies ISBD punctuation and the option for transcribing original punctuation is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
 
 >Example:  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-street in the Strand., M,DCC,LI. [1751]</CITE>
@@ -248,7 +238,7 @@ If a cataloging agency applies ISBD punctuation and the option for nonnormalized
 
 ### 0.5.34 Punctuation within roman numerals
 
-<a name="0.5.34.1">0.5.34.1</a> Retain internal marks of punctuation appearing within roman numerals.
+<a name="0.5.34.1">0.5.34.1</a> **ALT note: GitHub issue** Retain internal marks of punctuation appearing within roman numerals.
 
 >Example:  
 ><CITE>M.DCC.LXXXIV</CITE>
@@ -276,13 +266,13 @@ If a cataloging agency applies ISBD punctuation and the option for nonnormalized
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets.</CITE>  
 >(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved.)
 
-<a name="0.5.355.2">0.5.355.2</a> *Alternative rule*. Omit the square brackets. Make an explanatory note, if considered important for identification.
+<a name="0.5.355.2">0.5.355.2</a> **Alternative rule**. Omit the square brackets. Make an explanatory note, if considered important for identification.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
 >Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets.</CITE>  
 >(*Source of information reads*: [MDCCLXXV])
 
-<a name="0.5.355.3">0.5.355.3</a> *Alternative rule*. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
+<a name="0.5.355.3">0.5.355.3</a> **Alternative rule**. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
 
 ### 0.5.36 Virgules
 
@@ -339,7 +329,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 ><CITE>Printed & sold by J. Preston</CITE>  
 >(*Source of information reads*: Printed & sold by J: Preston)
 
-<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0586-superscripts-and-subscripts), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1))
+<a name="0.5.385.2">0.5.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0586-superscripts-and-subscripts), [0.5.86.1](/DCRMR/general-rules/Transcription/#0.5.86.1).)
 
 >Example:
 ><CITE>Ie. recueil nouveaux</CITE>  
@@ -512,38 +502,6 @@ If considered important, give the omitted information in a note.
 
 <a name="5.5.52.2">0.5.52.2</a> If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element (see [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0592-grammatical-inseparability), [0.5.92.1](/DCRMR/general-rules/Transcription/#0.5.92.1)).
 
-For Dedications, see X.X.X.X. 
-
-**ALT note: where did dedications go? A search in the Drive folder for DCRM(B) Re-write doesn't get anything. in the RBMS PS, this said to look at 2.3.4.1, under Other Title Information**.
-
-**If dedications are no longer in Other title information (which it doesn't seem to be in the drafts), I propose either omitting it or the following, noting that it doesn't cleanly divide into Books - Not Books)**
-
-<a name="0.5.52.3">0.5.52.3</a> **Dedications**.
-
-Treat the dedication as information not considered part of any element  
-<u>if</u>  
-the entire resource is the preferred source of information (for example, maps, still images, globes)  
-<u>and</u>  
-the dedication has not been transcribed as a grammatically inseparable part of another element  
-<u>or</u>  
-the dedication is not visually connected to information transcribed as part of the title.
-
-Record a grammatically separable dedication that has been omitted from a transcribed element in a note.
-
-Treat the dedication as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X))  
-<u>if</u>  
-the entire resource is not the preferred source of information (for example, the resource has a title page)  
-<u>and</u>  
-the preferred source of information includes a dedication that has not already been transcribed as a grammatically inseparable part of another element.
-
-Treat the dedication as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X))  
-<u>if</u>  
-the dedication has not already been transcribed as a grammatically inseparable part of another element  
-<u>and</u>  
-the dedication is visually connected to information transcribed as part of the title.
-
-If treating the dedication as [Other title information](DCRMR/title/Other-title-information/) and any part of the dedication is omitted, use the mark of omission.
-
 ### 0.5.53 Information not taken from the preferred source of information
 
 <a name="0.5.53.1">0.5.53.1</a> If information is transcribed from a source other than the preferred source of information and the transcribed information is preceded or followed by grammatically separable information that is not considered part of the element, then omit the words that precede or follow. Do not use the mark of omission.
@@ -556,7 +514,8 @@ If considered important, give the omitted text in a note.
 
 >Example:  
 >Place of publication: <CITE>Impressum Lypczk</CITE>  
->Name of publisher: <CITE>per Arnoldum de Colonia, Anno nonagesimo quinto</CITE>  
+>Name of publisher: <CITE>per Arnoldum de Colonia</CITE>  
+>Date of publication: <CITE>Anno nonagesimo quinto</CITE>  
 >Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto.</CITE>
 
 ## 0.5.6 Interpolations
@@ -598,7 +557,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 ><CITE>Mr. [--ch?], Cornhill</CITE>  
->(*Comment*: Indecipherable signature above title on cover transcribed in a local note.)
+>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item][/DCRMR/notes-on-items/Note-on-item/].)
 
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
@@ -706,7 +665,7 @@ Make an explanatory note if considered important for identification.
 | Forms of W|
 | --- | --- | --- | --- |
 | **Source** | **Transcription** | **Example** | **Transcription of example** |
-| ![V V](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_V_V.png) | w | ![vvhole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VVhole.png) | vvhole |
+| ![V V](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_V_V.png) | w | ![vvhole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VVhole.png) | whole |
 | ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
 | ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
 
@@ -734,11 +693,7 @@ conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/T
 
 ### 0.5.84 Letters or words intended to be read more than once
 
-**ALT note: The text of the main instruction comes pre-3R RDA; I think we'll want to modify it because copyright. Post-3R RDA states: Condition: A letter or word appears only once but is intended to be read more than once. Option: Repeat the letter or word**.
-
-<a name="0.5.84.1">0.5.84.1</a> If a letter or word appears only once but the design of the source of information makes it clear that it is intended to be read more than once, repeat the letter or word.
-
-**ALT note: End of pre-3R RDA text**
+<a name="0.5.84.1">0.5.84.1</a> If a letter or word appears only once on the source of information but the layout makes it clear that it is intended to be read more than once, then repeat the letter or word.
 
 Make an explanatory note.
 
@@ -757,7 +712,7 @@ Make an explanatory note.
 >Example:  
 ><CITE>M. Vdr. Gucht sculp.</CITE>  
 >(*Source of information reads*: M. V.<sup>dr</sup> Gucht Sculp.)  
->(*Comment*: Engraver if Michael van der Gucht, also frequently known as Michael Vander Gucht)
+>(*Comment*: Engraver is Michael van der Gucht, also frequently known as Michael Vander Gucht)
 
 >Example:  
 ><CITE>Caroe. Watson</CITE>  
@@ -765,8 +720,6 @@ Make an explanatory note.
 >(*Comment*: Engraver is Caroline Watson)
 
 ### 0.5.88 Numbers expressed as numerals or words
-
-**ALT note: in the latter part of this section, we didn't deviate from pre-3R RDA. Post-3R RDA is less than helpful in [Guidelines on normalized transcription / Numbers](https://beta.rdatoolkit.org/en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a/p_mvj_cgs_b2b), giving options for "Transcribe a numeral as it appears", "Transcribe a numeral in a form preferred by an agent who creates the metadata unless the form is unclear", and "Transcribe a numeral as it appears and in an equivalent form preferred ...". The guidance for ordinals isn't a bad, but it's still all just options (at least there's only one)**.
 
 <a name="0.5.88.1">0.5.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
 
@@ -780,7 +733,7 @@ Make an explanatory note.
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
 <a name="0.5.88.2">0.5.88.2</a> 
-**ALT note: do we still need this enumeration? I spot-checked a few of these elements, and the instruction seems to be within the element instruction itself. Note that I haven't updated the element names or hyperlinked, since I don't know if we want to keep the list**.
+**ALT note: recommend deletion of 0.5.88.2. Recommend creation of list of transcribed elements to go at the beginning of Transcription; it would grow as different manuals are incorporated.**.
 Also transcribe numbers expressed as numerals or as words in the form in which they appear on the source of information in the following elements:
 * Numeric and/or alphabetic designation of first issue or part of sequence
 * Chronological designation of first issue or part of sequence
@@ -797,11 +750,13 @@ Also transcribe numbers expressed as numerals or as words in the form in which t
 * Numbering within series
 * Numbering within subseries
 
-<a name="0.5.88.3">0.5.88.3</a> *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](/DCRMR/general-rules/Transcription/#056-interpolations), [0.5.61.1](/DCRMR/general-rules/Transcription/#0.5.61.1)). 
+<a name="0.5.88.3">0.5.88.3</a> **ALT note: is this instruction necessary, or do instructions in PPDM chapter suffice? If retained, bring this instruction and Chapter 4 instructions into alignment.**
+
+ *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](/DCRMR/general-rules/Transcription/#056-interpolations), [0.5.61.1](/DCRMR/general-rules/Transcription/#0.5.61.1)). 
 
 <a name="0.5.88.4">0.5.88.4</a> When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
 
-**ALT note: the following text is straight from pre-3R RDA**.
+**ALT note: the following text is straight from pre-3R RDA; recommend deletion of 0.5.88.4 through the end of 0.5.88 -- out of scope, covering non-transcribed elements**.
 
 <u>1.8.2 Form of Numerals</u>
 
@@ -873,7 +828,7 @@ If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
 
 ## 0.5.9 Intra- and inter-element rules
 
-### 0.5.92 Grammatical inseparability
+### 0.5.94 Grammatical inseparability
 
 <a name="0.5.92.1">0.5.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
 
@@ -893,7 +848,7 @@ If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
 ><CITE>Number ... of A picture of the times, to be continued weekly, in a series of letters, addressed to the people of England</CITE>
 
 >Example:  
-><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.d</CITE>  
+><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
 >(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/).)
 
 <a name="0.5.92.2">0.5.92.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
@@ -904,11 +859,36 @@ If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
 
 ### 0.5.94 Order and transposition
 
-**ALT note: What do we do with order and transposition in an atomized, element-based environment? How do we frame this? I kept it as-is from the RBMS PS for now. I didn't do all of the numbering because I think we may end up re-working this section**.
+<a name="0.5.94.05">0.5.94.05</a> **ALT note: 0.5.94.05 is a draft in progress**
+
+DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf) (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
+
+* Title and statement of responsibility
+	* Title proper
+	* Other title information
+	* Statement of responsibility 
+* Edition
+	* Designation of edition
+	* Statement of responsibility related to edition  
+* Publication, production, distribution, manufacture
+	* Place of publication, etc.
+	* Name of publisher, etc.
+	* Date of publication, etc.
+* Series
+	* Title of series
+	* Other title information of series
+	* Statement of responsibility related to series
+	* Numbering within sequence
+
+DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note to be made about the transposition.
+
+DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction III.2.1](/DCRMR/introduction/Objectives-and-principles/#iii21-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction III.2.2](/DCRMR/introduction/Objectives-and-principles/#iii22-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission).
+
+The following general rules about order and transposition apply. See also [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0592-grammatical-inseparability), [0.5.92.1](/DCRMR/general-rules/Transcription/#0.5.92.1).
 
 <a name="0.5.94.1">0.5.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
-If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: 
+<a name="0.5.94.2">0.5.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: 
 case endings would be affected, 
 <u>or</u>
 the grammatical construction of the information would be disturbed, 
@@ -917,27 +897,24 @@ the text is otherwise grammatically inseparable from its surrounding elements,
 <u>or</u> 
 the data element  specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
 
-Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
+<a name="0.5.94.3">0.5.94.3</a> Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
 
-Do not use the mark of omission to indicate transposition. 
+<a name="0.5.94.4">0.5.94.4</a> Do not use the mark of omission to indicate transposition. 
 
-Make a note to indicate the order in which the transposed information appears in the source.
-
-**ALT note: Title proper, Other title information, and Statement of Responsibility don't have a handy super-element like Publication statement. Currently, I have the examples in this section as the ISBD formatted, like you'd see in a 245, followed by the example atomized into elements. Elizabeth noted that this makes it look like we're asking catalogers to repeat information. I'm happy to delete the atomized version, but I wanted to leave it in for now as a point of discussion**.
+<a name="0.5.94.5">0.5.94.5</a> Make a note to indicate the order in which the transposed information appears in the source.
 
 >Example: 
 ><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven.</CITE>  
->Title proper: <CITE>Symphony no. 6</CITE>  
->Other title information: <CITE>Pastoral</CITE>  
->Statement of responsibility: <CITE>by Ludwig van Beethoven</CITE>  
->Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page.</CITE>
+>Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page.</CITE>  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/). The example is formatted according to ISBD for clarity)
 
 >Example:  
-><CITE>The coast of the United States of North America : from New York to St. Augustine / drawn and regulated according the latest surveys and astronomical observations by Edmund Blunt ; D.R. Harrison, sc.</CITE>  
->Title proper: <CITE>The coast of the United States of North America</CITE>  
->Other title information: <CITE>from New York to St. Augustine</CITE>  
->Statement of responsibility: <CITE>drawn and regulated according the latest surveys and astronomical observations by Edmund Blunt ; D.R. Harrison, sc.</CITE>  
->Note on statement of responsibility: <CITE>Engraver statement appears at head of title, on the top right corner of the sheet.</CITE>
+><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes.</CITE>  
+>Note on statement of responsibility: <CITE>Author’s name transposed from head of title.</CITE>  
+>(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes.)  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/). The example is formatted according to ISBD for clarity)
+
+<a name="0.5.94.6">0.5.94.6</a> **ALT note: GitHub issue**
 
 <u>If</u>  
 information appears in scattered form on the preferred source of information but no transposition is needed  
@@ -948,9 +925,8 @@ make a note to indicate the placement.
 
 >Example:  
 ><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
->Title proper: <CITE>The country twenty five miles round New York</CITE>  
->Statement of responsibility: <CITE>drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
->Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map.</CITE>
+>Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map.</CITE>  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/). The example is formatted according to ISBD for clarity)
 
-If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
+<a name="0.5.94.7">0.5.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
 
