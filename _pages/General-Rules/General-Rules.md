@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: General Rules
+title: General rules
 permalink: /general-rules/
 sidebar:
   nav: "docs"

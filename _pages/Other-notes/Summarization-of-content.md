@@ -25,7 +25,7 @@ sidebar:
 
 <a name="7.231.3.1">7.231.3.1</a> Take information for this element from any source.
 
-## 7.231.4 General Rule
+## 7.231.4 General rule
 
 <a name="7.231.4.1">7.231.4.1</a> Give a brief abstract, summary, synopsis, etc. of the content of an expression if considered important.
 

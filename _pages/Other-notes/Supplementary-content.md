@@ -27,7 +27,7 @@ sidebar:
 
 <a name="7.232.3.1">7.232.3.1</a> Take information for this element from any source.
 
-## 7.232.4 General Rule
+## 7.232.4 General rule
 
 <a name="7.232.4.1">7.232.4.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
 

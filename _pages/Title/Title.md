@@ -17,9 +17,7 @@ sidebar:
 
 ## 1.02 Form and order of information
 
-<a name="1.02.1">1.02.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) information in the form and order in which it is presented on the preferred source of information, as instructed by [RBMS Transcription Guidelines](/DCRMR/general-rules/Transcription/). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
-
-
+<a name="1.02.1">1.02.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which it is presented on the preferred source of information, as instructed by [RBMS Transcription Guidelines](/DCRMR/general-rules/Transcription/). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
 <a name="1.02.2">1.02.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.27.X.X](/DCRMR/title/Note-on-title/#1.27.X.X)).
 
 >Example:  

@@ -12,6 +12,10 @@ sidebar:
 
 [Link to ch.5 errata](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit)
 
+## 5.01 Sources of information
+
+Take information for this element from the manifestation itself. Take additional information from any source. 
+
 ## Table of Contents
 {: .no_toc }
 
