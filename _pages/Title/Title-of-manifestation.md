@@ -23,16 +23,40 @@ sidebar:
 
 <a name="1.20.2.1">1.20.2.1</a> A nomen that is an appellation of manifestation in natural language and phrasing used in common discourse.
 
-## 1.20.3 Title access points
+## 1.20.3 Sources of information
 
-<a name="1.20.3.1">1.20.3.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Titles may apply to a resource at the work, expression, manifestation, or item level. While some title access will be handled by controlled forms, these instructions cover specific situations commonly encountered by rare materials catalogers, in which the provision of uncontrolled title access points is likely to be useful. 
+<a name="1.20.3.1">1.20.3.1</a> The preferred source of information for the title is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. (See [0.2.5](/DCRMR/general-rules/Data-provenance/#0.2.5)).
 
-<a name="1.20.3.2">1.20.3.2</a> Use judgment in determining which forms of title access will be most useful for the resource in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
+## 1.20.4 Form and order of information
 
-<a name="1.20.3.3">1.20.3.3</a> For instructions on providing access points for the title proper, see [Title proper](/DCRMR/title/Title-proper/).
+<a name="1.20.4.1">1.20.4.1</a> Transcribe title and statement of responsibility information in the form and order in which it is presented on the preferred source of information, as instructed by the transcription guidelines (see [0.5](/DCRMR/general-rules/Transcription#0.5)). The [Title proper](/DCRMR/title/Title-proper) is the first element of the description.
 
-<a name="1.20.3.4">1.20.3.4</a> For instructions on providing access points for parallel titles proper, see [Parallel title proper](/DCRMR/title/Parallel-title-proper/).
+<a name="1.20.4.2">1.20.4.2</a> Always make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation) to indicate the original position on the title page of transposed elements (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
 
-<a name="1.20.3.5">1.20.3.5</a> For instructions on providing access points for variant titles of a manifestation, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation).
+>Example:  
+>Title proper: <CITE>Prudence Palfrey</CITE>  
+>Statement of responsibility: <CITE>Thomas Bailey Aldrich</CITE>  
+>Note on manifestation: <CITE>Author's name at head of title.</CITE>  
+>*Comment*: The Statement of responsibility relating to the title proper appears before the Title proper on the title page.
 
-<a name="1.20.3.6">1.20.3.6</a> For instructions on providing access points for item-specific titles, see [Title of item](/DCRMR/title/Title-of-item/).
+## 1.20.5 Title information not appearing on title page
+
+<a name="1.20.5.1">1.20.5.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important.
+
+>Example:  
+>Note on title: <CITE>Running title: The womans lawyer</CITE>  
+>Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes prouision for woemen</CITE>
+
+## 1.20.6 Title access points
+
+<a name="1.20.6.1">1.20.6.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Titles may apply to a resource at the work, expression, manifestation, or item level. While some title access will be handled by controlled forms, these instructions cover specific situations commonly encountered by rare materials catalogers, in which the provision of uncontrolled title access points is likely to be useful. 
+ 
+<a name="1.20.6.2">1.20.6.2</a> Use judgment in determining which forms of title access will be most useful for the resource in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
+
+<a name="1.20.6.3">1.20.6.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.X.X](/DCRMR/title/Title-proper/#1.21.X.X).
+
+<a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.22.5](/DCRMR/title/Parallel-title-proper/#1.22.5).
+
+<a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Variant titles of a manifestation](/DCRMR/title/Variant-title-of-manifestation), see [1.25.4](/DCRMR/title/Variant-title-of-manifestation/#1.25.4).
+
+<a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Titles of item](/DCRMR/title/Title-of-item), see [1.26.4](/DCRMR/title/Title-of-item/#1.26.4).
