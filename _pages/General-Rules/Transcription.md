@@ -828,7 +828,7 @@ If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
 
 ## 0.5.9 Intra- and inter-element rules
 
-### 0.5.94 Grammatical inseparability
+### 0.5.92 Grammatical inseparability
 
 <a name="0.5.92.1">0.5.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
 
