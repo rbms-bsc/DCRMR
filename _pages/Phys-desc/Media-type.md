@@ -17,7 +17,7 @@ sidebar:
 
 <a name="5.231.1.1">5.231.1.1</a> [Link to RDA Toolkit]( https://beta.rdatoolkit.org/en-US_ala-aa1e8ea8-5d01-3ff4-bb86-81f00f916c27){:target="_blank"}
 
-##  5.231.2 RDA definition and scope
+## 5.231.2 RDA definition and scope
 
 <a name="5.231.2.1">5.231.2.1</a> A categorization reflecting the general type of intermediation device required to view, play, run, etc., the content of a manifestation.
 

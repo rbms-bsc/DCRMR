@@ -17,7 +17,7 @@ sidebar:
 
 <a name="5.213.1.1">5.213.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9bdf25b8-f2f7-31d1-a3a0-7f416e4bc667){:target="_blank"}
 
-##  5.213.2 RDA definition and scope
+## 5.213.2 RDA definition and scope
 
 <a name="5.213.2.1">5.213.2.1</a> A process used to produce a manifestation.
 

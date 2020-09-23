@@ -17,7 +17,7 @@ sidebar:
 
 <a name="5.232.1.1">5.232.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0dd63c0d-066f-3ddc-885a-ff83c25cf752){:target="_blank"}
 
-##  5.232.2 RDA definition and scope
+## 5.232.2 RDA definition and scope
 
 <a name="5.232.2.1">5.232.2.1</a> A categorization reflecting the format of the storage medium and housing of a carrier in combination with the type of intermediation device required to view, play, run, etc., the content of a manifestation.
 
