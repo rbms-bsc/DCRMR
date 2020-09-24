@@ -45,7 +45,7 @@ sidebar:
 
 ## 1.23.4 Other title information following a statement of responsibility relating to title proper
 
-<a name="1.23.4.1">1.23.4.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/#2.20.X.X)).
+<a name="1.23.4.1">1.23.4.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/) (see [2.20.97](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper//#22097-other-title-information-appearing-after-statements-of-responsibility)).
 
 ## 1.23.5 Other title information constituting a formal statement of contents
 
@@ -67,12 +67,11 @@ sidebar:
 
 ## 1.23.7 Statements about illustrations or volumes
 
-<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.20.5.1](/DCRMR/edition/Edition-statement/#3.20.5.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/), [2.20.X.X](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/#2.20.X.X)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
+<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.20.5.1](/DCRMR/edition/Edition-statement/#3.20.5.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/), [2.20.96.1](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/#2.20.96.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
 
 >Example:  
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
 >Other title information: <CITE>illustrated by sixty engravings</CITE>  
-
 
 If the statement appears following the statement of responsibility, transcribe it as a subsequent statement of responsibility.
 
