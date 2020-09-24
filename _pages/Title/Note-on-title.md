@@ -83,7 +83,7 @@ sidebar:
 
 ## 1.27.91 Transposition of other title information
 
-<a name="1.27.91.1">1.27.91.1</a> Make a note indicating the transposition of other title information that precedes the title proper on the title page (see [Other title information](/DCRMR/title/Other-title-information/), [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X)).
+<a name="1.27.91.1">1.27.91.1</a> Make a note indicating the transposition of other title information that precedes the title proper on the title page (see [Other title information](/DCRMR/title/Other-title-information/), [1.23.25.2](/DCRMR/title/Other-title-information/#1.23.25.2)).
 
 ## 1.27.92 Title information not appearing on title page
 
