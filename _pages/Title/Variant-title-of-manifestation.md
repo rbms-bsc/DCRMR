@@ -122,11 +122,11 @@ If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) 
 
 <a name="1.25.4.98">1.25.4.98</a> **Title proper with supplementary or section title (optional)**. Provide additional title access for a title that is supplementary to, or a section of, another work when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.7.1](/DCRMR/title/Title-proper/#1.21.7.1)).
 
-<a name="1.25.4.99">1.25.4.99</a> **Phrases about notes, appendixes, etc. (optional)**. Provide additional title access for phrases concerning notes, appendixes, etc., if the phrase is distinctive and the additional access seems useful (see [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X)).
+<a name="1.25.4.99">1.25.4.99</a> **Phrases about notes, appendixes, etc. (optional)**. Provide additional title access for phrases concerning notes, appendixes, etc., if the phrase is distinctive and the additional access seems useful (see [1.23.8](/DCRMR/title/Other-title-information/#1238-phrases-about-notes-appendixes-etc)).
 
 <a name="1.25.4.991">1.25.4.991</a> **First line of printing on single-sheet manifestations (optional)**. Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.92.1](/DCRMR/title/Title-proper/#1.21.92.1)).
 
-<a name="1.25.4.992">1.25.4.992</a> **Variant and other titles within the manifestation (optional)**. Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations comprised of more than one physical unit, and significant [Other title information](/DCRMR/title/Other-title-information) (see [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X)).
+<a name="1.25.4.992">1.25.4.992</a> **Variant and other titles within the manifestation (optional)**. Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations comprised of more than one physical unit, and significant other title information.
 
 >Example:  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  

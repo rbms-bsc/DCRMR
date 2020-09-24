@@ -25,20 +25,24 @@ sidebar:
 
 ## 2.22.3 Statement of responsibility in source other than title page 
 
-<a name="2.22.3.1">2.22.3.1</a> If a statement of responsibility appears in a source other than on the title page, give it and its source in a note (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)).
+<a name="2.22.3.1">2.22.3.1</a> If a statement of responsibility appears in a source other than on the title page, give it and its source in a note (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.4.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.4.1)).
 
 ## 2.22.4 Transposed statements of responsibility 
 
-<a name="2.22.4.1">2.22.4.1</a> Note the original position on the title page of statements of responsibility that have been transposed to the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) elements.
+<a name="2.22.4.1">2.22.4.1</a> Note the original position on the title page of statements of responsibility that have been transposed to the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) elements.
 
 <a name="2.22.4.2">2.22.4.2</a> Make a note to indicate the original position on the source of any transposed parallel statements of responsibility (see [Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/), [2.21.3.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#3.21.3.2)).
 
 ## 2.22.5 Ambiguous statements of responsibility
 
-<a name="2.22.5.1">2.22.5.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)).
+<a name="2.22.5.1">2.22.5.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.1)).
 
-<a name="2.22.5.2">2.22.5.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)).
+<a name="2.22.5.2">2.22.5.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.2)).
 
+## 2.22.6 Variant forms of names
 
+<a name="2.22.6.1">2.22.6.1</a> If considered important, make a note on variant forms of names of persons or bodies named in [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) if the variant forms clarify the names used in access points (see [2.20.93.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.93.1)).
 
+## 2.22.7 Other statements
 
+<a name="2.22.7.1">2.22.7.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsiblity relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.98.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.98.1)).
