@@ -17,7 +17,7 @@ sidebar:
 
 ## 0.5.0 General guidelines on transcription
 
-<a name="0.5.0.1">0.5.0.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition.
+<a name="0.5.0.1">0.5.0.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0594-order-and-transposition)).
 
 DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.5.31.5](/DCRMR/general-rules/Transcription/#0.5.31.5)). 
 
@@ -732,99 +732,9 @@ Make an explanatory note.
 >Example:  
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
-<a name="0.5.88.2">0.5.88.2</a> 
-**ALT note: recommend deletion of 0.5.88.2. Recommend creation of list of transcribed elements to go at the beginning of Transcription; it would grow as different manuals are incorporated.**.
-Also transcribe numbers expressed as numerals or as words in the form in which they appear on the source of information in the following elements:
-* Numeric and/or alphabetic designation of first issue or part of sequence
-* Chronological designation of first issue or part of sequence
-* Numeric and/or alphabetic designation of last issue or part of sequence
-* Chronological designation of last issue or part of sequence
-* Alternative numeric and/or alphabetic designation of first issue or part of sequence
-* Alternative chronological designation of first issue or part of sequence
-* Alternative numeric and/or alphabetic designation of last issue or part of sequence
-* Alternative chronological designation of last issue or part of sequence
-* Date of production
-* Date of publication
-* Date of distribution
-* Date of manufacture
-* Numbering within series
-* Numbering within subseries
-
-<a name="0.5.88.3">0.5.88.3</a> **ALT note: is this instruction necessary, or do instructions in PPDM chapter suffice? If retained, bring this instruction and Chapter 4 instructions into alignment.**
+<a name="0.5.88.3">0.5.88.3</a> **ALT note: instruction under discussion -- if retained, bring this instruction and Chapter 4 instructions into alignment.**
 
  *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](/DCRMR/general-rules/Transcription/#056-interpolations), [0.5.61.1](/DCRMR/general-rules/Transcription/#0.5.61.1)). 
-
-<a name="0.5.88.4">0.5.88.4</a> When recording numbers expressed as numerals or words in all other non-transcribed elements, apply the following guidelines:
-
-**ALT note: the following text is straight from pre-3R RDA; recommend deletion of 0.5.88.4 through the end of 0.5.88 -- out of scope, covering non-transcribed elements**.
-
-<u>1.8.2 Form of Numerals</u>
-
-Record numerals in the form preferred by the agency creating the data, unless the substitution would make the numbering less clear.
-
->Example: [RDA]  
-><CITE>tome 3</CITE>  
->Numbering within series on source of information reads: tome III
-
-Alternatives
-Record numerals in the form in which they appear on the source of information.
-
->Example: [RDA]  
-><CITE>tome III</CITE>
->Numbering within series
-
-[Alternative]
-
-Record the numerals in the form in which they appear on the source. Add the equivalent numerals in the form preferred by the agency creating the data. Indicate that the information was taken from a source outside the resource itself (see 2.2.4).
-
->Example: [RDA]  
-><CITE>tome III [3]</CITE>  
->Numbering within series on source of information reads: tome III
-
-<u>1.8.3 Numbers Expressed as Words</u>
-
-Substitute numerals for numbers expressed as words.
-
-<u>1.8.4 Inclusive Numbers</u>
-
-When recording inclusive dates and other inclusive numbers, record both the first and last number in full.
-
->Example: [RDA]  
-><CITE>1967–1972</CITE>
->Source of information reads: 1967–72
-
-<u>1.8.5 Ordinal Numbers</u>
-
-When recording ordinal numbers (expressed either as numerals or as words), record them as numerals and indicate that they are ordinal numbers following standard usage for the language:
-
-English language source. 
-When recording ordinal numbers from an English-language source, record them as numerals in the form 1st, 2nd, 3rd, 4th, etc.
-
-Chinese, Japanese, or Korean language source. 
-When recording ordinal numerals from a source in Chinese, Japanese, or Korean, record them as numerals accompanied by the character indicating that the numeral is ordinal.
-
->Example: [RDA]  
-><CITE>第8</CITE>  
->8th in Chinese
-
-Source in a language other than English, Chinese, Japanese, or Korean. 
-When recording ordinal numerals from a source in another language, record them as numerals and indicate that they are ordinal numbers following the usage of the language, if ascertainable.
-
->Example: [RDA]  
-><CITE>1er, 1re, 2e, 3e, etc.</CITE>  
->French
-
->Example: [RDA]  
-><CITE>1., 2., 3., etc.</CITE>  
->German
-
->Example: [RDA]
-><CITE>1o, 1a, 2o, 2a, 3o, 3a, etc.</CITE>
->Italian
-
-If the usage of a language cannot be ascertained, use the form 1., 2., 3., etc.
-
-**ALT note: end of pre-3R RDA text**
 
 ## 0.5.9 Intra- and inter-element rules
 
