@@ -42,7 +42,7 @@ sidebar:
 >Example:    
 ><CITE>Collection de documents historiques</CITE>  
 
-<a name="6.21.3.2">6.21.3.2</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/) (see [1.21.X.X](/DCRMR/title/Title-proper/#1.21.X.X)). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [6.22.X.X](/DCRMR/series/Parallel-title-of-series/#6.22.X.X)).
+<a name="6.21.3.2">6.21.3.2</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [6.22.3.1](/DCRMR/series/Parallel-title-of-series/#6.22.3.1)).
 
 <a name="6.21.3.3">6.21.3.3</a> If the series title includes a statement of responsibility or numbering that is an integral part of the title, transcribe it as part of the title of the series.
 
@@ -73,7 +73,7 @@ sidebar:
 >Title of series: <CITE>What every child should know library. The fourth series</CITE>    
 >Note on series statement: <CITE>Series title from head of title page; subseries title from endpapers</CITE>   
 
-<a name="6.21.4.2">6.21.4.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence) (see [6.27.X.X](/DCRMR/series/Numbering-within-sequence/#6.27.X.X)).
+<a name="6.21.4.2">6.21.4.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence) (see [6.27.3.4](/DCRMR/series/Numbering-within-sequence/#6.27.3.4)).
 
 >Example:    
 ><CITE>What every child should know library. The fourth series</CITE>    

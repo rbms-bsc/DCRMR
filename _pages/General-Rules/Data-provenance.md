@@ -42,7 +42,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 <a name="0.2.3.3">0.2.3.3</a> **Multipart monographs or serials**. If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
-<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply**. If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.63](/DCRMR/general-rules/Transcription/#0.5.63)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.20.X.X)).
+<a name="0.2.3.4">0.2.3.4</a>  **Resources for which the concept of perfect exemplar does not apply**. If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.5.63](/DCRMR/general-rules/Transcription/#0.5.63)). Make a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [7.20.91.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.91.1)).
 
 ### 0.2.4 Dust jackets
 
@@ -56,7 +56,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 Treat facing pages or pages on successive leaves in different languages or scripts as a single source of information.
 
-However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a [Note on title](/DCRMR/title/Note-on-title/) to indicate that the cover has been chosen as the preferred source (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
+However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a [Note on title](/DCRMR/title/Note-on-title/) to indicate that the cover has been chosen as the preferred source (see [1.27.3.1](/DCRMR/title/Note-on-title/#1.27.3.1)).
 
 >Example:  
 ><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</CITE>  
@@ -78,7 +78,7 @@ However, if the manifestation bears a cover or case issued with the resource tha
 + a cover integral to the resource
 + a source elsewhere within the resource
 
-Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source chosen as the title page substitute (see [1.26.X.X](/DCRMR/title/Note-on-title/#1.26.X.X)).
+Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source chosen as the title page substitute (see [1.27.3.1](/DCRMR/title/Note-on-title/#1.27.3.1)).
 
 Hereafter in these rules, “title page” means “title page or title page substitute.”
 
@@ -101,7 +101,7 @@ If the manifestation contains preferred sources in more than one language or scr
 + **Order of sources of information**  
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
-Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume (see X.X.X.X).
+Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume (see [Note-on-title](/DCRMR/title/Note-on-title/), [1.27.3.1](/DCRMR/title/Note-on-title/#1.27.3.1)).
 
 ## 0.2.6 Sources of information
 

@@ -118,3 +118,7 @@ sidebar:
 # 7.20.91 Notes on imperfect exemplars
 
 <a name="7.20.91.1">7.20.91.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.3.2](/DCRMR/general-rules/Data-provenance/#0.2.3.2)).
+
+# 7.20.92 Accompanying material
+
+<a name="7.20.92.1">7.20.92.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.295.4.2](/DCRMR/other-notes/Note-on-manifestation/#7.295.4.2)).

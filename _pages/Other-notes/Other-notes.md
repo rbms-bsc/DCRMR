@@ -34,7 +34,7 @@ sidebar:
 
 <a name="7.04.1">7.04.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/), notes on [Data provenance](/DCRMR/general-rules/Data-provenance/).  Required notes include:
 
-+ accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.X.X](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.X.X)  
++ accompanying material (see [Accompanied by manifestation](/DCRMR/other-notes/Accompanied-by-manifestation), [7.295.3.1](/DCRMR/other-notes/Accompanied-by-manifestation#7.295.3.1))  
 + advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1](/DCRMR/other-notes/Supplementary-content/#7.232.4.1) and [7.232.5.1](/DCRMR/other-notes/Supplementary-content/#7.232.5.1))
 + bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95))  
 + chronograms (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1))   

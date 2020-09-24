@@ -92,3 +92,9 @@ sidebar:
 
 >Example:  
 ><CITE>British Library copy at YA.1988.a.5946: identified as number 141 of a limited edition of 150 copies printed on laid Holland paper</CITE>
+
+## 10.20.8 Completed blanks in transcribed elements
+
+<a name="10.20.8.1">10.20.8.1</a> If a blank has been completed in the item being described, indicate this in a note if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.64.2](/DCRMR/general-rules/Transcription/#0.5.64.2)).
+
+<a name="10.20.8.2">10.20.8.2</a> Make a note to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.65.3](/DCRMR/general-rules/Transcription/#0.5.65.3)).

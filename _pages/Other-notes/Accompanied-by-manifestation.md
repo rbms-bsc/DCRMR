@@ -67,6 +67,6 @@ c.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [5.21.3.
 > Accompanied by: <CITE>2 folded maps</CITE>  
 > Details on illustrative content: <CITE>Maps in pocket on inside back cover</CITE>
 
-<a name="7.295.4.2">7.295.4.2</a> Otherwise, specify the location in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.29.X.X](/DCRMR/other-notes/Note-on-manifestation/#7.29.X.X)).
+<a name="7.295.4.2">7.295.4.2</a> Otherwise, specify the location in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.92.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.92.1)).
 
 <a name="7.295.4.3">7.295.4.3</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 

@@ -64,6 +64,12 @@ sidebar:
 
 In case of doubt as to whether a number appearing in the publication is series numbering, transcribe the numbering in a [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) (see [11.23.3.1](/DCRMR/identifiers/Note-on-identifier-for-manifestation/#11.23.3.1)).
 
+<a name="6.27.3.4">6.27.3.4</a> If a phrase such as “new series,” “second series,” etc., appears with a numbered series, transcribe the phrase as part of numbering within sequence (see [Title of series](/DCRMR/series/Title-of-series/), [6.21.4.2](/DCRMR/series/Title-of-series/#6.21.4.2)).
+
+>Example:    
+>Numbering within sequence: <CITE>Killaly chapbooks ; 2nd series, no. 6</CITE>    
+>(*Comment*: Series is numbered; transcribed as part of the Numbering within sequence element)  
+
 ## 6.27.4 Numbering relating to parallel title of series
 
 <a name="6.27.4.1">6.27.4.1</a> If there is one or more [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) and the series numbering also appears in more than one language or script, transcribe each number after the title of series to which it relates (following any other title information or any statement of responsibility associated with the title).

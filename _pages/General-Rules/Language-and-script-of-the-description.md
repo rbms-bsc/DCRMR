@@ -29,7 +29,7 @@ sidebar:
 
 For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-141.html){:target="_blank"}.
 
-<a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.X.X](/DCRMR/sor/Statement-of-responsibility//#2.20.X.X), [4.201.7.1](/DCRMR/ppdm/Place-of-publication/#4.201.7.1), [4.201.8.2](/DCRMR/ppdm/Place-of-publication/#4.201.8.2), [4.203.7.2](/DCRMR/ppdm/Name-of-publisher/#4.203.7.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
+<a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.X.X](/DCRMR/title/Other-title-information/#1.23.X.X), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X), [4.201.7.1](/DCRMR/ppdm/Place-of-publication/#4.201.7.1), [4.201.8.2](/DCRMR/ppdm/Place-of-publication/#4.201.8.2), [4.203.7.2](/DCRMR/ppdm/Name-of-publisher/#4.203.7.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
 <a name="0.4.1.4">0.4.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
 

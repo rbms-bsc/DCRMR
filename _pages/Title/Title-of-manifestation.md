@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.20.3 Title information not appearing on title page
 
-<a name="1.20.3.1">1.20.3.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.27.X.X](/DCRMR/title/Note-on-title/#1.27.X.X)).
+<a name="1.20.3.1">1.20.3.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.27.92.1](/DCRMR/title/Note-on-title/#1.27.92.1)).
 
 >Example:  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes prouision for woemen</CITE>  
@@ -37,7 +37,7 @@ sidebar:
  
 <a name="1.20.4.2">1.20.4.2</a> Use judgment in determining which forms of title access will be most useful for the resource in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
 
-<a name="1.20.4.3">1.20.4.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.X.X](/DCRMR/title/Title-proper/#1.21.X.X).
+<a name="1.20.4.3">1.20.4.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.97](/DCRMR/title/Title-proper/#12197-access-points-for-title-proper).
 
 <a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.22.5](/DCRMR/title/Parallel-title-proper/#1225-access-points-for-parallel-titles-proper).
 

@@ -29,7 +29,7 @@ sidebar:
 
 # 4.225.4-4.225.91 Alternative rules
 
-If a decision has been made to create a seperate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see x.x), follow the alternative rules below.
+If a decision has been made to create a seperate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#x-precataloging-decisions)), follow the alternative rules below.
 
 ## 4.225.4 Alternative rules for Date of manufacture
 

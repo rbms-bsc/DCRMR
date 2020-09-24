@@ -35,9 +35,9 @@ sidebar:
 
 ## 2.22.5 Ambiguous statements of responsibility
 
-<a name="2.22.5.1">2.22.5.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.22.X.X](/DCRMR/sor/Statement-of-responsibility/#2.22.X.X)).
+<a name="2.22.5.1">2.22.5.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)).
 
-<a name="2.22.5.2">2.22.5.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.22.X.X](/DCRMR/sor/Statement-of-responsibility/#2.22.X.X)).
+<a name="2.22.5.2">2.22.5.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/), [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)).
 
 
 
