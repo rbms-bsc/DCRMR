@@ -92,7 +92,7 @@ sidebar:
 >Example:  
 ><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
-<a name="4.20.8.4">4.20.8.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) (see [2.20.X.X](/DCRMR/sor/Statement-of-responsibility/#2.20.X.X)). Often the layout of the source will suggest the appropriate treatment.
+<a name="4.20.8.4">4.20.8.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.20.96.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.96.2)). Often the layout of the source will suggest the appropriate treatment.
 
 >Example:  
 ><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
