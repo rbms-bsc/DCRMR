@@ -43,7 +43,7 @@ If a decision has been made to create a seperate bibliographic description for a
 
 <a name="4.225.5.1">4.225.5.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
 
-<a name="4.225.5.2">4.225.5.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
+<a name="4.225.5.2">4.225.5.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
 <a name="4.225.5.3">4.225.5.3</a> *Optionally*, Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
 

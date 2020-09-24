@@ -66,7 +66,7 @@ sidebar:
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>
 
-<a name="4.205.4.2">4.205.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in Roman numerals in square brackets.
+<a name="4.205.4.2">4.205.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date include the date in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
