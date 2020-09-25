@@ -182,3 +182,10 @@ sidebar:
 >Note on publication statement:  <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
 
 <a name="4.206.8.91">4.206.8.91</a> Make a note on publication statement giving additional [Dates of publication](/DCRMR/ppdm/Date-of-publication/) if parts of a manifestation have individual title pages bearing [Dates of publication](/DCRMR/ppdm/Date-of-publication/) that differ from the date pertaining to the whole manifestation (see [4.205.9.1](/DCRMR/ppdm/Date-of-publication/#4.205.9.1)).
+
+## 4.206.9 Publication details not included in the manifestation
+
+<a name="4.206.9.1">4.206.9.1</a> Make a note on publication details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+
+>Example:  
+><CITE>No more published.</CITE>

@@ -125,3 +125,10 @@ sidebar:
 <a name="4.216.8.91">4.216.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.8.2](/DCRMR/ppdm/Date-of-distribution/#4.215.8.2)).
 
 <a name="4.216.8.92">4.206.8.92</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.9.1](/DCRMR/ppdm/Date-of-distribution/#4.215.9.1)).
+
+## 4.216.9 Distribution details not included in the manifestation
+
+<a name="4.216.9.1">4.216.9.1</a> Make a note on distribution details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+
+>Example:  
+><CITE>Price three pence</CITE>

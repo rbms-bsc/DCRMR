@@ -99,3 +99,10 @@ sidebar:
 <a name="4.226.8.9">4.226.8.9</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.9.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.9.2)).
 
 <a name="4.226.8.91">4.226.8.91</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on manufacture statement (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [4.225.91.1](/DCRMR/ppdm/Date-of-manufacture/#4.225.91.1)).
+
+## 4.226.9 Manufacture details not included in the manifestation
+
+<a name="4.226.9.1">4.226.9.1</a> Make a note on manufacture details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+
+>Example:  
+><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures.</CITE>

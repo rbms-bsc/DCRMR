@@ -191,6 +191,8 @@ If a statement such as “Privately printed” appears on the title page, transc
 >Name of publisher: <CITE>[Pour Symo[n] Vostre Libraire par Philippe Pigouchet]</CITE>  
 >(*Comment*: Title reads “Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”)
 
+If transcribing a publisher name as part of another element, do not abridge or expand the Name of publisher simply because it repeats or omits information given elsewhere in the description.
+
 ## 4.203.97 Publisher names in more than one language or script
 
 <a name="4.203.97.1">4.203.97.1</a> If the name of the publisher appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the name that appears first. Transcribe the remaining names(s) as [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/).  Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [4.206.6.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.6.2)).
