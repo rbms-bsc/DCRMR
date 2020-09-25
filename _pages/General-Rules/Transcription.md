@@ -15,6 +15,28 @@ sidebar:
 
 # 0.5 Transcription
 
+## 0.5.01 Transcribed elements
+
+Chapter 1: Title  
+
+[Title proper](/DCRMR/title/Title-proper/) &bull; [Parallel title proper](/DCRMR/title/Parallel-title-proper/) &bull; [Other title information](/DCRMR/title/Other-title-information/) &bull; [Parallel other title information](https://rbms-bsc.github.io/DCRMR/title/Parallel-other-title-information/)
+
+Chapter 2: Statement of responsibility  
+
+[Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) &bull; [Parallel statement of responsibility relating to tribal proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/)
+
+Chapter 3: Edition  
+
+[Designation of edition](/DCRMR/edition/Designation-of-edition/) &bull; [Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/) &bull; [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) &bull; [Parallel statement of responsibility relating to edition](/Parallel-statement-of-responsibility-relating-to-edition/) &bull; [Designation of named revision of edition](/Designation-of-named-revision-of-edition/) &bull; [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) &bull; [Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/) &bull; [Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
+
+Chapter 5: Production, publication, distribution, manufacture  
+
+[Place of publication](/DCRMR/ppdm/Place-of-publication/) &bull; [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) &bull; [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) &bull; [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/) &bull; [Date of publication](/DCRMR/ppdm/Date-of-publication/) &bull; [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) &bull; [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) &bull; [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) &bull; [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/) &bull; [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) &bull; [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) &bull; [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) &bull; [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) &bull; [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/) &bull; [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/)
+
+Chapter 8: Series  
+
+[Title of series](/DCRMR/series/Title-of-series/) &bull; [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) &bull; [Other title information of series](/DCRMR/series/Other-title-information-of-series/) &bull; [Parallel other title information of series](/DCRMR/series/Parallel-other-title-information-of-series/) &bull; [Statement of responsibility related to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) &bull; [Parallel statement of responsibility related to series](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/) &bull; [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/)
+
 ## 0.5.0 General guidelines on transcription
 
 <a name="0.5.0.1">0.5.0.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0594-order-and-transposition)).
@@ -731,9 +753,12 @@ Make an explanatory note.
 >Example:  
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
-<a name="0.5.88.3">0.5.88.3</a> **ALT note: instruction under discussion -- if retained, bring this instruction and Chapter 4 instructions into alignment.**
-
- *Optionally*, for dates of publication, distribution, and manufacture add the equivalent numerals in the form preferred by the agency creating the data, if considered important for identification. Indicate that the information was taken from a source outside the resource itself (see [Interpolations](/DCRMR/general-rules/Transcription/#056-interpolations), [0.5.61.1](/DCRMR/general-rules/Transcription/#0.5.61.1)). 
+<a name="0.5.88.3">0.5.88.3</a> For dates of publication, distribution, and manufacture transcribe the date as it appears. If the date is not in arabic numerals, add the equivalent year in arabic numerals in square brackets.
+ 
+See the instructions for specific types of dates as follows:
+* For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [4.205.4](/DCRMR/ppdm/Date-of-publication/#42054-transcription-involving-adjustments-or-additions)
+* For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), see [4.215.4](/DCRMR/ppdm/Date-of-distribution/#42154-transcription-involving-adjustments-or-additions)
+* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [4.225.5](/DCRMR/ppdm/Date-of-manufacture/#42255-transcription-involving-adjustments-or-additions)
 
 ## 0.5.9 Intra- and inter-element rules
 
@@ -768,9 +793,7 @@ Make an explanatory note.
 
 ### 0.5.94 Order and transposition
 
-<a name="0.5.94.05">0.5.94.05</a> **ALT note: 0.5.94.05 is a draft in progress**
-
-DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf) (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
+<a name="0.5.94.05">0.5.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf) (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
 
 * Title and statement of responsibility
 	* Title proper
@@ -789,7 +812,7 @@ DCRMR calls for descriptive information from the resource to be transcribed into
 	* Statement of responsibility related to series
 	* Numbering within sequence
 
-DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note to be made about the transposition.
+DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
 
 DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction III.2.1](/DCRMR/introduction/Objectives-and-principles/#iii21-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction III.2.2](/DCRMR/introduction/Objectives-and-principles/#iii22-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission).
 
