@@ -86,6 +86,8 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 In case of doubt, assume the set was not issued as such.
 
+If the manifestation was issued as such, transcribe all edition statements. Indicate the edition statements corresponding to individual volumes through encoded data and/or a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.8.1](/DCRMR/edition/Note-on-edition-statement/#3.29.8.1). 
+
 >Example:  
 >Edition statement: <CITE>v. 1: The second edition</CITE>  
 >Edition statement: <CITE>v. 2: The first edition</CITE>  

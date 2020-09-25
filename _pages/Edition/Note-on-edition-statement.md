@@ -80,7 +80,7 @@ sidebar:
 
 ## 3.29.8 Edition statements on multipart monographs
 
-<a name="3.29.8.1">3.29.8.1</a> If the [Edition statement](/DCRMR/edition/Edition-statement/) varies or does not appear on all volumes of a multipart monograph, and it was issued as such, make a note on edition statement explaining which edition statement appears on which volume and/or indicating the absence of edition statements, if considered important.
+<a name="3.29.8.1">3.29.8.1</a> If the [Edition statement](/DCRMR/edition/Edition-statement/) varies or does not appear on all volumes of a multipart monograph, and it was issued as such, make a note on edition statement explaining which edition statement appears on which volume and/or indicating the absence of edition statements if considered important (see [3.20.91.1](/DCRMR/edition/Edition-statement/#3.20.91.1)).
 
 >Example:  
 > <CITE>V. 2 issued without an edition statement</CITE>
