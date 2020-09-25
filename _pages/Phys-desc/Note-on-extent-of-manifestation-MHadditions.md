@@ -221,6 +221,9 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 > Example:  
 > <CITE>Signatures (in Hebrew numerals): 1-32⁴ 1-27⁶ 1-18⁶</CITE>
 
+>Example:
+> <CITE>Signatures (in Hindu-Arabic numerals): 1-12⁸</CITE>
+
 > Example:  
 > <CITE>Signatures (in Church Slavic Cyrillic numerals): 1-25⁸ 26⁶ 1-22⁸ 23⁶(-23<sub>6</sub>) 24⁸</CITE>
 
@@ -255,7 +258,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >(Comment: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
 >Example:  
-><CITE>Signatures (in Church Slavic alphabet): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A3ŌT͡2 [=24]</CITE>
+><CITE>Signatures (in Church Slavic alphabet): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A3ŌT͡² [=24]</CITE>
 
 <a name="5.201.4.9">5.201.4.9</a> **Directionality of sequence**. Include in the note an indication of the direction of a sequence, if it does not follow the reading direction of the script or text in that sequence, if there are sequences in opposite directions in the same resource, or if the directionality of the sequence is otherwise ambiguous or unusual.
 
