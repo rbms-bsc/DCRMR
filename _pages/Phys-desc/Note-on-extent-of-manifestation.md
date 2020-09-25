@@ -257,8 +257,12 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 ><CITE>Signatures: ʼ-sh⁸ (in Hebrew alphabet), a-k⁸ </CITE>  
 >(Comment: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
->Example:  
-><CITE>Signatures (in Church Slavic alphabet): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A3ŌT͡² [=24]</CITE>
+> Example:  
+> <CITE>Signatures: А-Ѵ² [=41], 2А-2Ѵ² [=41], 3А-3Ѿ² [=24]</CITE>  
+>  
+>or	  
+>  
+> <CITE>Signatures (in Church Slavic characters): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A-3ŌT͡͡² [=24]</CITE>
 
 <a name="5.201.4.9">5.201.4.9</a> **Directionality of sequence**. Include in the note an indication of the direction of a sequence, if it does not follow the reading direction of the script or text in that sequence, if there are sequences in opposite directions in the same resource, or if the directionality of the sequence is otherwise ambiguous or unusual.
 
