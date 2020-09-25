@@ -221,7 +221,7 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 > Example:  
 > <CITE>Signatures (in Hebrew numerals): 1-32⁴ 1-27⁶ 1-18⁶</CITE>
 
->Example:
+>Example:  
 > <CITE>Signatures (in Hindu-Arabic numerals): 1-12⁸</CITE>
 
 > Example:  
@@ -285,7 +285,6 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 |Romanized|ʼ|b|g|d|h|ṿ|z|ḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
 
 > Example:  
-> <CITE>Signatures:  ש-א⁸, a-k⁸</CITE>  
 > <CITE>Signatures: ![Hebrew alphabetic signature](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Hebrew-alphabetic-signature.jpg "Hebrew alphabetic signature")⁸, a-k⁸</CITE>
 > 
 > or  
