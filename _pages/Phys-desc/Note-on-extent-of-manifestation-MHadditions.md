@@ -300,7 +300,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >  
 >or	  
 >  
-> <CITE>Signatures (in Church Slavic characters): A-Ẏ2 [=41], 2A-2Ẏ2 [=41], 3A-3ŌT͡͡2 [=24]</CITE>
+> <CITE>Signatures (in Church Slavic characters): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A-3ŌT͡͡² [=24]</CITE>
 
 <a name="5.201.4.94">5.201.4.94</a> **Full collation**. If considered important, make a note giving the full collation instead of a note recording only the signatures.
 
