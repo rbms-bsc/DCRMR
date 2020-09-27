@@ -41,7 +41,7 @@ sidebar:
 <a name="4.206.3.4">4.206.3.4</a> Make an explanatory note on publication statement if all information relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) appearing in the manifestation is known to be fictitious or incorrect (see [4.20.5.1](/DCRMR/ppdm/Publication-statement/#4.20.3.1)).
 
 >Example:  
->Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [i.e. Brussels : Jules Gay, 1866]</CITE>  
+>Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [that is, Brussels : Jules Gay, 1866]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint from: Pia, P. Livres de l'Enfer</CITE>
 
 <a name="4.206.3.5">4.206.3.5</a> Make a note on publication statement if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [4.20.4.1](/DCRMR/ppdm/Publication-statement/#4.20.4.1)). 
@@ -57,7 +57,7 @@ sidebar:
 <a name="4.206.4.2">4.206.4.2</a> Make a note on publication statement giving the basis for the correction if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appearing on the manifestation is known to be fictitious or incorrect (see [4.201.96.1](/DCRMR/ppdm/Place-of-publication/#4.201.96.1)).
 
 >Example:  
->Place of publication: <CITE>Londres [i.e. Paris]</CITE>  
+>Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 <a name="4.206.4.3">4.206.4.3</a> Make a note on publication statement if no [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
@@ -85,7 +85,7 @@ sidebar:
 <a name="4.206.5.3">4.206.5.3</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [4.203.6.1](/DCRMR/ppdm/Name-of-publisher/#4.203.6.1)).
 
 >Example:  
->Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]</CITE>  
+>Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement:  <CITE>Corrected publisher from Koeman</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
@@ -131,37 +131,37 @@ sidebar:
 <a name="4.206.8.3">4.206.8.3</a> Make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [4.205.4.6](/DCRMR/ppdm/Date-of-publication/#4.205.4.6)).
 
 >Example:  
->Date of publication: <CITE>1887 [i.e. 1899]</CITE>  
+>Date of publication: <CITE>1887 [that is, 1899]</CITE>  
 >Note on publication statement: <CITE>Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899</CITE>
 
 >Example:  
->Date of publication: <CITE>1786 [i.e. 1788]</CITE>  
+>Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
 <a name="4.206.8.4">4.206.8.4</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.8](/DCRMR/ppdm/Date-of-publication/#4.205.4.8)).
 
 >Example:  
->Date of publication: <CITE>1743 [i.e. 1744]</CITE>  
+>Date of publication: <CITE>1743 [that is, 1744]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
 >(*Comment*: "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
 >Example:  
->Date of publication: <CITE>Februar. 8. anno 1588 [i.e. 1589]</CITE>  
+>Date of publication: <CITE>Februar. 8. anno 1588 [that is, 1589]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
 <a name="4.206.8.5">4.206.8.5</a> If necessary, make a note on publication statement to justify all supplied dates when the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition (see [4.205.4.92](/DCRMR/ppdm/Date-of-publication/#4.205.4.92)).
 
 >Example:  
->Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  
+>Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 >Example:  
->Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, i.e. 1539]</CITE>  
+>Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, that is, 1539]</CITE>  
 >Note on publication statement:  <CITE>Place of publication and name of printer from colophon, which gives 1539 as the date of printing</CITE>
 
 >Example:  
->Date of publication: <CITE>M.DC.XXV [1625, i.e. 1626]</CITE>  
+>Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
 <a name="4.206.8.6">4.206.8.6</a> Make a note on publication statement giving the source of the supplied [Date of publication](/DCRMR/ppdm/Date-of-publication/) and any needed explanation if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known (see [4.205.5.1](/DCRMR/ppdm/Date-of-publication/#4.205.5.1)).

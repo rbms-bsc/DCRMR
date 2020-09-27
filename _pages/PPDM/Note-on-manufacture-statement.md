@@ -43,7 +43,7 @@ sidebar:
 <a name="4.226.4.3">4.226.4.3</a> Make a note giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [4.221.5.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.5.2)).
 
 >Example:  
->Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
+>Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC).</CITE>  
 >(*Comment*: The formal citation for STC  is given in a References to published descriptions note)
 

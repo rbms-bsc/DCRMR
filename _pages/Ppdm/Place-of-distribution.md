@@ -78,7 +78,7 @@ sidebar:
 <a name="4.211.6.1">4.211.6.1</a>  If a place name is found only in an abbreviated form on the manifestation, transcribe it as found. Supply in square brackets the full form of the name, or the remainder of the name, if considered necessary for identification.
 
 >Example:  
-><CITE>Mpls [i.e. Minneapolis]</CITE>
+><CITE>Mpls [that is, Minneapolis]</CITE>
 
 >Example:  
 ><CITE>Rio [de Janeiro]</CITE>
@@ -151,7 +151,7 @@ sidebar:
 <a name="4.211.96.1">4.211.96.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.4.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.4.2)).
 
 >Example:  
-><CITE>Londres [i.e. Paris]</CITE>  
+><CITE>Londres [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 ## 4.211.97 No place of distribution
@@ -164,10 +164,10 @@ sidebar:
 <a name="4.211.97.2">4.211.97.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the date of distribution if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
 
 >Example:  
-><CITE>[Christiania i.e. Oslo]</CITE>
+><CITE>[Christiania, that is, Oslo]</CITE>
 
 >Example:  
-><CITE>[Leona Vicario i.e. Saltillo, Coahuila, Mexico]</CITE>
+><CITE>[Leona Vicario, that is, Saltillo, Coahuila, Mexico]</CITE>
 
 ## 4.211.98 Place of distribution supplied based on address or sign
 

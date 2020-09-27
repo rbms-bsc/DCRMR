@@ -91,7 +91,7 @@ sidebar:
 <a name="5.201.3.91">5.201.3.91</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.93.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.93.1)).
 
 > Example:  
-> Extent of manifestation: <CITE>[10], 199 [i.e. 203], [33] pages, [3] folded leaves of plates</CITE>  
+> Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>The folded leaves are letterpress tables not included in signature statement</CITE>
 
 <a name="5.201.3.92">5.201.3.92</a> Always record the presence of double leaves in a note on extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.94.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.94.1)).

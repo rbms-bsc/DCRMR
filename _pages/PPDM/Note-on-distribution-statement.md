@@ -48,7 +48,7 @@ sidebar:
 <a name="4.216.4.2">4.216.4.2</a> Make an explanatory note if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [4.211.96.1](/DCRMR/ppdm/Place-of-distribution/#4.211.96.1)).
 
 >Example:  
->Place of distribution: <CITE>Londres [i.e. Paris]</CITE>  
+>Place of distribution: <CITE>Londres [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 <a name="4.216.4.3">4.216.4.3</a> Make a note if no [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.211.97.1](/DCRMR/ppdm/Place-of-distribution/#4.211.97.1)).
@@ -105,7 +105,7 @@ sidebar:
 <a name="4.216.8.4">4.216.8.4</a> When following the option in [4.215.4.7](/DCRMR/ppdm/Date-of-distribution/#4.215.4.7), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.4.7](/DCRMR/ppdm/Date-of-distribution/#4.215.4.7)).
 
 >Example:  
->Date of distribution: <CITE>1689 [i.e.1690]</CITE>  
+>Date of distribution: <CITE>1689 [that is, 1690]</CITE>  
 >Note on distribution statement: <CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
 <a name="4.216.8.5">4.216.8.5</a> If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, make a note on distribution statement to indicate the basis for the supplied year (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.4.8](/DCRMR/ppdm/Date-of-distribution/#4.215.4.8)).
@@ -115,7 +115,7 @@ sidebar:
 <a name="4.216.8.7">4.216.8.7</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on distribution statement (see [4.215.5.1](/DCRMR/ppdm/Date-of-distribution/#4.215.5.1)).
 
 >Example:  
->Date of distribution: <CITE>MDLII [1552 i.e. 1652]</CITE>  
+>Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
 >Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series.</CITE>
 
 <a name="4.216.8.8">4.216.8.8</a> When supplying a conjectural [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) based on any information available, indicate the basis for the conjecture in a note on distribution statement (see [4.215.6.1](/DCRMR/ppdm/Date-of-distribution/#4.215.6.1)).

@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.21.3 General rule
 
-<a name="3.21.3.1">3.21.3.1</a> Transcribe a statement relating to an edition or issue of a  resource as it appears, according to the [General rules](/DCRMR/general-rules/Transcription/) (see [0.5.0](/DCRMR/general-rules/Transcription/#050-general-guidelines-on-transcription)). Include any explanatory words or phrases appearing with the Designation of edition.
+<a name="3.21.3.1">3.21.3.1</a> Transcribe a statement relating to an edition or issue of a  resource as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). Include any explanatory words or phrases appearing with the Designation of edition.
 
 ## 3.21.4 Words considered part of the Designation of edition
 

@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.26.3 General rule
 
-<a name="1.26.3.1">1.26.3.1</a> Record titles of an item following the [RBMS Transcription Guidelines](/DCRMR/general-rules/Transcription/) if considered important.
+<a name="1.26.3.1">1.26.3.1</a> Record titles of an item as instructed in [Transcription](/DCRMR/general-rules/Transcription/) if considered important.  
 
 ## 1.26.4 Access points for item-specific titles
 

@@ -80,7 +80,7 @@ sidebar:
 <a name="4.201.6.1">4.201.6.1</a> If a place name is found only in an abbreviated form on the manifestation, transcribe it as found. Supply in square brackets the full form of the name, or the remainder of the name, if considered necessary for identification.
 
 >Example:  
-><CITE>Mpls [i.e. Minneapolis]</CITE>
+><CITE>Mpls [that is, Minneapolis]</CITE>
 
 >Example:  
 ><CITE>Rio [de Janeiro]</CITE>
@@ -153,7 +153,7 @@ sidebar:
 <a name="4.201.96.1">4.201.96.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.4.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.2)).
 
 >Example:  
->Place of publication: <CITE>Londres [i.e. Paris]</CITE>  
+>Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
 ## 4.201.97 No place of publication
@@ -166,10 +166,10 @@ sidebar:
 <a name="4.201.97.2">4.201.97.2</a> If the place name of the publication has changed over time, supply the place name appropriate to the [Date of publication](/DCRMR/ppdm/Date-of-publication/) if known (e.g., Leningrad, not Saint Petersburg, for works resources in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
 
 >Example:  
-><CITE>[Christiania i.e. Oslo]</CITE>
+><CITE>[Christiania, that is, Oslo]</CITE>
 
 >Example:  
-><CITE>[Leona Vicario i.e. Saltillo, Coahuila, Mexico]</CITE>
+><CITE>[Leona Vicario, that is, Saltillo, Coahuila, Mexico]</CITE>
 
 ## 4.201.98 Place of publication supplied based on address or sign
 

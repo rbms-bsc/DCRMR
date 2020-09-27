@@ -45,7 +45,7 @@ Additionally, users of special collections resources are typically interested in
 
 <a name="III.2.1.1">III.2.1.1</a> This principle derives from the general principle of user convenience and has implications for all elements of the bibliographic description. The principle relates to objective 2 stated above. 
 
-### III.2.2 Rules provide for accurate representations of the resource as it describes itself, notably through  regarding transcription, transposition, and omission
+### III.2.2 Rules provide for accurate representations of the resource as it describes itself, notably through regarding transcription, transposition, and omission
 
 <a name="III.2.2.1">III.2.2.1</a> This principle derives from the general principles of representation (with its related subprinciple of accuracy) and of standardization. Precise representation is of particular relevance in those elements that require transcription (title and statement of responsibility, edition, publication, distribution, manufacture, and series), but should not be ignored in physical description and notes. The general principles of representation and standardization stand in greater tension with each other when cataloging rare materials. Faithfulness to both principles may require descriptive and annotative treatment necessarily exceeding the norms (and at times the vocabulary) established as sufficient for the description of general materials. The principle relates to objectives 3 and 4 stated above. 
 

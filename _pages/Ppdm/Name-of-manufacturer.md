@@ -96,10 +96,10 @@ sidebar:
 <a name="4.223.6.2">4.223.6.2</a> **Alternative rule**. If the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
 
 >Example:  
-><CITE>printed by Edes & Gill, for Buckley [i.e., Bulkeley] Emerson, of Newbury-Port</CITE>
+><CITE>printed by Edes & Gill, for Buckley [that is, Bulkeley] Emerson, of Newbury-Port</CITE>
 
 >Example:  
->Name of manufacturer: <CITE>printed by James Robertson [i.e. William A. Rind]</CITE>  
+>Name of manufacturer: <CITE>printed by James Robertson [that is, William A. Rind]</CITE>  
 >Note on manufacture statement: <CITE>"Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, 'praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly...'" (Tremaine)</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 

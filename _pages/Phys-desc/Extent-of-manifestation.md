@@ -274,7 +274,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [5.20.8.2]
 > <CITE>x, 395 pages, approximately 70 leaves of plates (some folded)</CITE>
 
 >Example:  
-> Extent of manifestation: <CITE>[10], 199 [i.e. 203], [33] pages, [3] folded leaves of plates</CITE>  
+> Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>The folded leaves are letterpress tables not included in signature statement</CITE>
 
 ### 5.20.94 Double leaves
@@ -382,7 +382,7 @@ For a normally imposed single-folded (i.e., four-page) sheet (see [5.20.4.1](/DC
 > <CITE>4 volumes ([4], 527, [1]; 12, 548; 8, 533, [3]; 4, 499, [1] pages)</CITE><CITE><CITE>  
 
 >Example:  
-> <CITE>2 volumes (4, lvi, 265 [i.e., 267], [1] pages, [1] leaf of plates; [6], 3-294 pages, [4] leaves of plates)</CITE>  
+> <CITE>2 volumes (4, lvi, 265 [that is, 267], [1] pages, [1] leaf of plates; [6], 3-294 pages, [4] leaves of plates)</CITE>  
 
 >Example:  
 > <CITE>4 volumes (vi, [2], 590 pages, [2] leaves of plates; [4], 493, [1] pages, [2] leaves of plates; [4], 519, [1] pages, [6] leaves of plates; [4], 516, [20] pages, [16] leaves of plates)</CITE>  

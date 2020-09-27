@@ -105,7 +105,7 @@ If a statement such as “Privately printed” appears on the title page, transc
 <a name="4.203.6.1">4.203.6.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.3)).
 
 >Example:  
->Name of publisher:<CITE>Chez Hubert Jaillot aux deux Globes [i.e. Pieter Mortier]</CITE>  
+>Name of publisher:<CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement: <CITE>Corrected publisher from Koeman</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 

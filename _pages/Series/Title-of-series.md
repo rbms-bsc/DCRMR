@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.21.3 Title proper of series
 
-<a name="6.21.3.1">6.21.3.1</a> Transcribe the title of the series as it appears in the manifestation, according to the transcription guidelines (see [Transcription](/DCRMR/general-rules/Transcription/)).
+<a name="6.21.3.1">6.21.3.1</a> Transcribe the title of the series as it appears in the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  

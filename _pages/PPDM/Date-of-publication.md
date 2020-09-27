@@ -97,7 +97,7 @@ sidebar:
 <a name="4.205.4.6">4.205.4.6</a> **Fictitious or incorrect dates**. If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.3)). 
 
 >Example:  
->Date of publication: <CITE>1887 [i.e. 1899]</CITE>  
+>Date of publication: <CITE>1887 [that is, 1899]</CITE>  
 >Note on publication statement: <CITE>Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899</CITE>
 
 >Example:  
@@ -107,31 +107,31 @@ sidebar:
 <a name="4.205.4.7">4.205.4.7</a> *Optionally*, supply the actual date in square brackets.
 
 >Example:  
-><CITE>1703 [i.e. 1730]</CITE>
+><CITE>1703 [that is, 1730]</CITE>
 
 >Example:  
-><CITE>Octr. 42 [i.e. 24], 1799</CITE>
+><CITE>Octr. 42 [that is, 24], 1799</CITE>
 
 <a name="4.205.4.8">4.205.4.8</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a note on publication statement to indicate the basis for the supplied year (see [4.206.8.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
 >Example:  
->Date of publication: <CITE>1743 [i.e. 1744]</CITE>  
+>Date of publication: <CITE>1743 [that is, 1744]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
 >(*Comment*: "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
 
 >Example:  
->Date of publication: <CITE>Februar. 8. anno 1588 [i.e. 1589]</CITE>  
+>Date of publication: <CITE>Februar. 8. anno 1588 [that is, 1589]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
 If two dates appear on the manifestation, representing both Julian (Old Style) and Gregorian (New Style) dating, transcribe both dates, separated by a slash. Supply the Gregorian year in square brackets, if necessary.
 
 >Example:  
-><CITE>1690/1 [i.e. 1691]</CITE>
+><CITE>1690/1 [that is, 1691]</CITE>
 
 >Example:  
-><CITE>1690/1691 [i.e. 1691]</CITE>
+><CITE>1690/1691 [that is, 1691]</CITE>
 
 <a name="4.205.4.9">4.205.4.9</a> **Dates not of the Julian or Gregorian calendar**.  If the date of publication is based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian year(s) in square brackets.  For manifestations issued before 1582, supply the equivalent Julian date(s). For later manifestations, supply the equivalent Gregorian date(s).
 
@@ -160,16 +160,16 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 <a name="4.205.4.92">4.205.4.92</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.8.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.5)).
 
 >Example:  
->Date of publication: <CITE>MDCXIII [1613, i.e. 1693]</CITE>  
+>Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 >Example:  
->Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, i.e. 1539]</CITE>  
+>Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, that is, 1539]</CITE>  
 >Note on publication statement: <CITE>Place of publication and name of printer from colophon, which gives 1539 as the date of printing</CITE>
 
 >Example:  
->Date of publication: <CITE>M.DC.XXV [1625, i.e. 1626]</CITE>  
+>Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
 ## 4.205.5 Date of publication supplied from reference sources
