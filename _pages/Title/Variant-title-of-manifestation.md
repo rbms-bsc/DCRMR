@@ -29,11 +29,11 @@ sidebar:
 
 ## 1.25.4 Access points for variant titles
 
-<a name="1.25.4.1">1.25.4.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access points may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.20.3](/DCRMR/title/Title-of-manifestation/#1203-title-access-points)).
+<a name="1.25.4.1">1.25.4.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access points may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.20.4](/DCRMR/title/Title-of-manifestation/#1204-title-access-points)).
 
 <a name="1.25.4.2">1.25.4.2</a> Title access points considered optional are labeled as such.
 
-<a name="1.25.4.3">1.25.4.3</a> **Title proper in nonroman script**. If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.4.2](/DCRM/general-rules/Language-and-script-of-the-description/#0.4.2)).
+<a name="1.25.4.3">1.25.4.3</a> **Title proper in nonroman script**. If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.4.2](/DCRM/general-rules/Language-and-script-of-the-description/#042-romanization)).
 
 >Example:  
 >Title proper: <CITE>平家 物語</CITE>  
@@ -58,7 +58,7 @@ If it differs from title access points already provided, also provide title acce
 >Variant title of manifestation: <CITE>M. Accii Plauti quae supersunt Comoediae</CITE>  
 >(*Source of information reads*: M. AccI Plauti quae supersunt Comoediae)
 
-<a name="1.25.4.6">1.25.4.6</a> **Title proper containing characters as substitutes for letters (optional)**. If a [Title proper](/DCRMR/title/Title-proper) contains hyphens or other characters as substitutes for letters, and the meaning of the characters is known, provide additional access to the decoded form of the title (see [0.5.38](/DCRMR/general-rules/Transcription/#0.5.38)).
+<a name="1.25.4.6">1.25.4.6</a> **Title proper containing characters as substitutes for letters (optional)**. If a [Title proper](/DCRMR/title/Title-proper) contains hyphens or other characters as substitutes for letters, and the meaning of the characters is known, provide additional access to the decoded form of the title (see [0.5.38](/DCRMR/general-rules/Transcription/#0538-punctuation-substituting-for-letters)).
 
 <a name="1.25.4.7">1.25.4.7</a> **Title proper with inserted spacing**. If any spacing has been inserted in the transcription of the first five words of the [Title proper](/DCRMR/title/Title-proper), provide additional title access for the form of title with the words closed up (see [0.5.43](/DCRMR/general-rules/Transcription/#0543-spacing-between-words)).
 

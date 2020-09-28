@@ -49,7 +49,7 @@ sidebar:
 
 ## 1.23.5 Other title information constituting a formal statement of contents
 
-<a name="1.23.5.1">1.23.5.1</a> If other title information, or some portion of it, constitutes a formal statement of the contents of the work, and is grammatically separable from the title proper and other title information, transcribe it in a [Note on manifestation](/DCRMR/Other-notes/Note-on-manifestation/) if considered important (see [7.20.5.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.5.1)). When these formal statements are omitted from the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/) elements, use the mark of omission.
+<a name="1.23.5.1">1.23.5.1</a> If other title information, or some portion of it, constitutes a formal statement of the contents of the work, and is grammatically separable from the title proper and other title information, transcribe it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) if considered important (see [7.20.5.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.5.1)). When these formal statements are omitted from the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/) elements, use the mark of omission.
 
 >Example:  
 >Title proper: <CITE>The spinning wheel's garland : containing several excellent new songs ...</CITE>  
@@ -59,7 +59,7 @@ sidebar:
 
 ## 1.23.6 Persons or bodies not explicitly named
 
-<a name="1.23.6.1">1.23.6.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to the title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-the-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
+<a name="1.23.6.1">1.23.6.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
 
 >Example:  
 >Title proper: <CITE>The folowing of Christ</CITE>  
@@ -67,7 +67,7 @@ sidebar:
 
 ## 1.23.7 Statements about illustrations or volumes
 
-<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.20.5.1](/DCRMR/edition/Edition-statement/#3.20.5.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/), [2.20.96.1](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/#2.20.96.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
+<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.20.5.1](/DCRMR/edition/Edition-statement/#3.20.5.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.96.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.96.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
 
 >Example:  
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
