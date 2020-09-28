@@ -40,7 +40,7 @@ sidebar:
 
 [Chapter 1.25 Parallel other title information](/DCRMR/title/Parallel-other-title-information/)
 
-[Chapter 1.25 Variant title](/DCRMR/title/Variant-title/)
+[Chapter 1.25 Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/)
 
 [Chapter 1.26 Title of item](/DCRMR/title/Title-of-item/)
 
