@@ -556,7 +556,7 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 >Example:  
 ><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  
->(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in) note (see [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).
+>(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in) note (see [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).)
 
 >Example:  
 ><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  
