@@ -38,6 +38,8 @@ sidebar:
  
 <a name="1.27.3.2">1.27.3.2</a> Always make a note to indicate the original position on the title page of transposed elements (see [1.02.2](/DCRMR/title/#1.02.2)).
 
+<a name="1.27.3.3">1.27.3.3</a> For multipart monographs, if the description is not based on the first part, identify the part used as the basis of the description.
+
 ## 1.27.4 Title proper with grammatically inseparable designation
 
 <a name="1.27.4.1">1.27.4.1</a> If a manifestation is in more than one volume and the title proper of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply in square brackets after the first designation a hyphen and the final designation, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a note about the later designation(s) (see [Title proper](/DCRMR/title/Title-proper/), [1.21.5.1](/DCRMR/title/Title-proper/#1.21.5.1)).
