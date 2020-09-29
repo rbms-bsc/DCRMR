@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-## Table of Contents
+## Contents:
 {: .no_toc .text-delta }
 
 1. TOC

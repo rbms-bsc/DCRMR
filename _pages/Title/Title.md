@@ -27,7 +27,7 @@ sidebar:
 >Note on manifestation: <CITE>Author's name at head of title.</CITE>  
 >(*Comment*: The Statement of responsibility relating to the title proper appears before the Title proper on the title page.)
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 1.20 Title of manifestation](/DCRMR/title/Title-of-manifestation/)

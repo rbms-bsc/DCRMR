@@ -59,7 +59,7 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 
 2018-2019 RBMS Policy Statements Editorial Group
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Background](/DCRMR/preface/Background/)

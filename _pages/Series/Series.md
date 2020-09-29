@@ -23,7 +23,7 @@ sidebar:
 
 <a name="6.01.5">6.01.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but reference sources provide evidence that the book was issued as part of a publisher’s series, do not record a supplied [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). Record the series as an authorized access point if considered important for identification or access (see [Authorized access point for RDA entity](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9badaad7-0d00-3f72-9ae9-d414344e21a5)).
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 6.20 Series statement](/DCRMR/series/Series-statement/)

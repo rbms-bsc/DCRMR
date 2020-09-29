@@ -15,7 +15,7 @@ sidebar:
 
 <a name="9.01.1">9.01.1</a> Take information included in this area from any source. Do not enclose any information in square brackets.
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 9.20 Identifier for manifestation](/DCRMR/identifiers/Identifier-for-manifestation/)

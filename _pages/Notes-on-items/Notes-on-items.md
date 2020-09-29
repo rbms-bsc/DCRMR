@@ -11,7 +11,7 @@ sidebar:
 
 [Link to ch.8 errata](https://docs.google.com/document/d/1ju48nhKEyJg4Rw9cxKTLF1FTSrc6Op080C9LoWxdJyY/edit)
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 8.20 Note on item](/DCRMR/notes-on-items/Note-on-item/)

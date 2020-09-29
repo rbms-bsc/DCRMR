@@ -20,7 +20,7 @@ sidebar:
 
 <a name="3.02.1">3.02.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific guidelines.
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 3.20 Edition statement](/DCRMR/edition/Edition-statement/)

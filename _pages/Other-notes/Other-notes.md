@@ -65,7 +65,7 @@ sidebar:
 + transposition
 + 
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 7.20 Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)

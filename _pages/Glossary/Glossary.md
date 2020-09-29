@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Num](/DCRMR/glossary/Num/)

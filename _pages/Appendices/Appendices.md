@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/appendices/Appendix-a/)

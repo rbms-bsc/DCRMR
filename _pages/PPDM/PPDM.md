@@ -44,7 +44,7 @@ sidebar:
 >Distribution statement: <CITE>[Bristol] : sold by Lasbury, Bristol</CITE>
 
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 4.20 Publication statement](/DCRMR/ppdm/Publication-statement/)

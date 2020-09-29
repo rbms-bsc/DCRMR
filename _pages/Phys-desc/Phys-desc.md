@@ -16,7 +16,7 @@ sidebar:
 
 Take information for this element from the manifestation itself. Take additional information from any source. 
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 5.20 Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/)

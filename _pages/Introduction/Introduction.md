@@ -11,7 +11,7 @@ sidebar:
 
 [Link to introduction errata](https://docs.google.com/document/d/17-0bvv70S3LwYd8BZiG7odso6RRMXySXn4QvOemTgEk/edit)
 
-## Table of contents
+## Contents:
 {: .no_toc .text-delta }
 
 1. TOC

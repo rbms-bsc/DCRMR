@@ -21,7 +21,7 @@ sidebar:
 
 <a name="2.02.2">2.02.2</a> Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page of transposed elements (see [2.22.4.1](/DCRMR/title/Note-on-statement-of-responsibility/#2.22.4.1)).
 
-## Table of Contents
+## Contents:
 {: .no_toc }
 
 [Chapter 2.20 Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
