@@ -54,7 +54,7 @@ The DCRM(B) for RDA Revision Group (2012-2014):
 + Aislinn Sotelo
 + Catherine Uecker
 
-And the DCRM-RDA Task Force (2014-2017):
+And the DCRM-RDA Task Force (2011-2012):
 
 + Deborah J. Leslie, co-chair
 + Catherine Uecker, co-chair 
