@@ -82,6 +82,8 @@ And by the glossary group:
 
 Thanks as well to the members of the Bibliographic Standards Committee since work began in 2010:
 
++ Elizabeth Adams
++ Emily Baldoni
 + Marcia Barrett
 + Erin Blake 
 + Amy Brown
@@ -94,10 +96,13 @@ Thanks as well to the members of the Bibliographic Standards Committee since wor
 + kalan Knudson Davis
 + Lori Dekydtspotter
 + Christine DeZelar-Tiedman
++ Tammy Druash
++ Matthew Ducmanas
 + Emily Epstein
 + Todd Fell
 + Asheleigh Folsom
 + Alison Greenlee
++ Jessica Grzegorski
 + Matthew Haugen
 + Eileen Heeran 
 + Ryan Hildebrand
@@ -107,11 +112,15 @@ Thanks as well to the members of the Bibliographic Standards Committee since wor
 + Francis Lapka
 + Martha Lawler 
 + Deborah J. Leslie 
++ Rafael Antonio Linares Blasini
 + Nancy Lorimer
++ Jennifer MacDonald
 + Nina Mamikunian
 + Michelle Mascaro
++ Danijela Matkovic
 + Melanie McGurr
 + Honor Moody
++ Philippe Mongeau
 + Kate Moriarty
 + Ann Myers 
 + Jennifer K. Nelson
@@ -120,13 +129,16 @@ Thanks as well to the members of the Bibliographic Standards Committee since wor
 + Allison Jai O’Dell
 + Audrey Pearson
 + Asheleigh Perry 
++ Lauren Reno
 + Nina Schneider
++ Jessie Sherwood
 + Stephen Skuce
 + Aislinn Sotello
 + Brian Stearns
 + Amy Tims
 + Catherine Uecker
 + Leslie Waggener 
++ Brittney Washington
 
 Our heartfelt thanks to the following libraries for generously providing meeting space for editorial group meetings: the Newberry Library (January 2015), the Houghton Library (January 2016), Georgia State University Library (January 2017), and the Folger Shakespeare Library (June 2019). Our deep thanks also to the Lewis Walpole Library for hosting biannual meetings of the Descriptive Cataloging of Rare Materials Task Force from 2014-2017. A special thank you to Ellen Cordes in particular for arranging the Walpole meeting, without which the DCRM Task Force would not have been able to complete their charge.
 
