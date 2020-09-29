@@ -78,12 +78,12 @@ sidebar:
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
->Note on publication statement: <CITE>Date of publication: derived from chronogram in statement of responsibility</CITE>  
+>Note on publication statement: <CITE>Date of publication derived from chronogram in statement of responsibility</CITE>  
 >(*Comment*: Chronogram already transcribed in statement of responsibility as: "PetrVs AnICh AgrICoLa DoMo OberperfassensIs") 
 
 >Example:  
 >Date of publication: <CITE>[1650]</CITE>  
->Note on publication statement: <CITE>Date of publication: derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>  
+>Note on publication statement: <CITE>Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>  
 
 <a name="4.205.4.4">4.205.4.4</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears.
 

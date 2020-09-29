@@ -42,7 +42,7 @@ sidebar:
 
 <a name="7.23.5.1">7.23.5.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/other-notes/Notes-on-expression/) ([7.19.7.1](/DCRMR/other-notes/Note-on-expression/#7.19.7.1)).
 
-<a name="7.23.5.2">7.23.5.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/Manifestation-described-in/).
+<a name="7.23.5.2">7.23.5.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/).
 
 <a name="7.23.5.3">7.23.5.3</a> Make a note relating to the bibliographic history of the RDA entity if considered important.
 
