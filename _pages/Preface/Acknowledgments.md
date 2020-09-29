@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Acknowledgements 
-permalink: preface/Acknowledgements/
+title: Acknowledgments 
+permalink: preface/Acknowledgments/
 sidebar:
   nav: "docs"
 ---
