@@ -24,7 +24,7 @@ sidebar:
 
 ## 4.206.3 Notes from Publication statements
 
-<a name="4.206.3.1">4.206.3.1</a> Make a note on publication statement if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="4.206.3.1">4.206.3.1</a> Make a note on publication statement if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 <a name="4.206.3.2">4.206.3.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) but is considered important (see [4.30.3.3](/DCRMR/ppdm/#4.01.3)).
 

@@ -24,7 +24,7 @@ sidebar:
 
 ## 4.226.3 Note from manufacture statements
 
-<a name="4.226.3.1">4.226.3.1</a>  Make a note on manufacture statement if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="4.226.3.1">4.226.3.1</a>  Make a note on manufacture statement if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 <a name="4.226.3.2">4.226.3.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) but is considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 

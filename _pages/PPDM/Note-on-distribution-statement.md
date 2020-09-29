@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.216.3 Notes from Distribution statements
 
-<a name="4.216.3.1">4.216.3.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the title page (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="4.216.3.1">4.216.3.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
 <a name="4.216.3.2">4.216.3.2</a> Make a note about information not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 
