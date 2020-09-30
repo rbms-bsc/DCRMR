@@ -92,4 +92,4 @@ sidebar:
 
 ## 1.27.92 Title information not appearing on title page
 
-<a name="1.27.92.1">1.27.92.1</a> Transcribe title information not appearing on the title page in a note if considered important (see [Title of manifesatation](/DCRMR/title/Title-of-manifestation/), [1.20.3.1](/DCRMR/title/Title-of-manifestation/#1.20.3.1)).
+<a name="1.27.92.1">1.27.92.1</a> Transcribe title information not appearing on the title page in a note if considered important (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/), [1.20.3.1](/DCRMR/title/Title-of-manifestation/#1.20.3.1)).
