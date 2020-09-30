@@ -114,11 +114,11 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Title proper: <CITE>Faust. Part one.</CITE>  
 >Note on title: <CITE> Title page reads: Part one. Faust.</CITE>
 
+If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/).
+
 ## 1.21.8 Abridgments of the title proper
 
 <a name="1.21.8.1">1.21.8.1</a> **General rule**. Abridge a long title proper only if it can be done without loss of essential information. Do not omit any of the first five words. Indicate omissions by the mark of omission. 
-
-If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/).
 
 <a name="1.21.8.2">1.21.8.2</a> Extend the transcription of the title proper through at least the end of the [Chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but in no event within the first five words of the chief title.
 
