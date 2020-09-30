@@ -73,6 +73,8 @@ sidebar:
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
 
+<a name="4.213.7.3a">4.213.7.a3</a> If the name of a distributor associated with an earlier edition appears together with the name of the actual distributor of the edition being described, transcribe the names as a single element in the order in which they appear.
+
 <a name="4.213.7.3">4.213.7.3</a> If both the place and distributor associated with an earlier edition appear together with the place and publisher of the edition being described, transcribe each distributor with the place to which it corresponds.
 
 >Example:  
