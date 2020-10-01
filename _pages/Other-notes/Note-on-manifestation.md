@@ -53,6 +53,8 @@ sidebar:
 
 ## 7.20.5 Contents notes
 
+<a name="7.20.5.1a">7.20.5.1a</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a publication without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/other-notes/Supplementary-content).
+
 <a name="7.20.5.1">7.20.5.1</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) and its subelements.  In such cases, record “[from title page]” at the beginning of the contents note.  If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
 
 <a name="7.20.5.2">7.20.5.2</a> If a complete listing of contents cannot be assembled by one of the above means, the cataloger may devise a contents note from any appropriate source or combination of sources.
