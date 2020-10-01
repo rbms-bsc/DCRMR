@@ -39,7 +39,7 @@ sidebar:
 >Example:  
 ><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
 
-*Optional omission*: omit addresses and insignificant information in the middle or at the end unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (for example, the purpose of capturing book trade data). Indicate all omissions by the mark of omission.
+<a name="4.213.3.3">4.213.3.3</a> *Optional omission*: omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
 
 >Example:  
 ><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>
@@ -62,21 +62,25 @@ sidebar:
 
 ## 4.213.6 Fictitious or incorrect distributor names
 
-<a name="4.213.6.1">4.213.6.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.5.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.3)).
+<a name="4.213.6.1">4.213.6.1</a> If the name of distributor is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.5.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.3)).
+
+<a name="4.213.6.2">4.213.6.2</a> **Alternative rule**. If the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.5.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.5.3)).
 
 ## 4.213.7 Two or more names of distributors
 
-<a name="4.213.7.1">4.213.7.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of publication only when they are not linked by connecting words or phrases.
+<a name="4.213.7.1">4.213.7.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of distribution only when they are not linked by connecting words or phrases.
 
-<a name="4.213.7.2">4.213.7.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers (or firms) in the supplied phrase.
+<a name="4.213.7.2">4.213.7.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors (or firms) in the supplied phrase.
 
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
 
-<a name="4.213.7.3">4.213.7.3</a> If both the place and distributor associated with an earlier edition appear together with the place and publisher of the edition being described, transcribe each distributor with the place to which it corresponds.
+<a name="4.213.7.3">4.213.7.3</a> If both the place and distributor associated with an earlier edition appear together with the place and distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
 
 >Example:  
 ><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
+> 
+<a name="4.213.7.4">4.213.7.4</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier edition appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
 
 ## 4.213.8 Names of distributors in multipart monographs
 
@@ -92,9 +96,9 @@ sidebar:
 
 ## 4.213.96 Distributor names transcribed as part of another element 
 
-<a name="4.213.96.1">4.213.96.1</a> If the name of the distributor does not appear in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/), but has already been transcribed as part of another element, supply it in a short identifiable form within square brackets.
+<a name="4.213.96.1">4.213.96.1</a> If the name of the distributor does not appear in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
-If transcribing a distributor name as part of another element, do not abridge or expand the Name of distributor simply because it repeats or omits information given elsewhere in the description.
+If transcribing a distributor name as part of another element, do not abridge or expand the name of distributor simply because it repeats or omits information given elsewhere in the description.
 
 ## 4.213.97 Distributor names in more than one language or script
 

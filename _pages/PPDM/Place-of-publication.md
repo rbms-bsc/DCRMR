@@ -139,9 +139,9 @@ sidebar:
 
 >Example:  
 >Place of publication: <CITE>Stuttgart ; Tübingen</CITE>  
->Note on distribution statement: <CITE>Place of publication in v. 33-40: Stuttgart ; Augsburg</CITE>
+>Note on publication statement: <CITE>Place of publication in v. 33-40: Stuttgart ; Augsburg</CITE>
 
-## 4.201.95 Place names that are grammatically inseparable parts of other areas, etc.
+## 4.201.95 Place names that are grammatically inseparable parts of other elements
 
 <a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the statement of publication and is transcribed there, supply the place of publication in square brackets. Use a modern English form of the name, if there is one.
 
@@ -156,8 +156,12 @@ sidebar:
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
+<a name="4.201.96.2">4.201.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.4.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.3))
+
+<a name="4.201.96.3">4.201.96.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
+
 ## 4.201.97 No place of publication
-<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed [Publication statement](/DCRMR/ppdm/Publication-statement/) if one is present. Provide a justification for the supplied place in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.3)).
+<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed [Publication statement](/DCRMR/ppdm/Publication-statement/) if one is present. Provide a justification for the supplied place in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.4)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
@@ -173,7 +177,7 @@ sidebar:
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. Transcribe the address or sign in the [Publication statement](/DCRMR/ppdm/Publication-statement/).  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.4)).
+<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. Transcribe the address or sign in the [Publication statement](/DCRMR/ppdm/Publication-statement/).  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  

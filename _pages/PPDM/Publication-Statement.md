@@ -15,7 +15,7 @@ sidebar:
 
 ## 4.20.1 Element information
 
-[Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0f7b5665-dec5-371a-8b7b-d49f1c5080a7){:target="_blank"}
+<a name="4.20.1.1">4.20.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0f7b5665-dec5-371a-8b7b-d49f1c5080a7){:target="_blank"}
 
 ## 4.20.2 RDA Definition and scope
 
@@ -79,7 +79,7 @@ sidebar:
 
 <a name="4.20.8.1">4.20.8.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
-<a name="4.20.8.2">4.20.8.2</a> If a distribution or manufacture statement is grammatically separable, treat the statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
+<a name="4.20.8.2">4.20.8.2</a> If a distribution or manufacture statement is grammatically separable, treat the distribution statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or manufacture statement as a [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
 <a name="4.20.8.3">4.20.8.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
 
