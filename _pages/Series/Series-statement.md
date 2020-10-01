@@ -25,10 +25,6 @@ sidebar:
 
 <a name="6.20.2.2">6.20.2.2</a> A series statement includes any or all of title of series, other title information of series, statement of responsibility relating to series, and numbering within sequence.
 
-## 6.20.3 Form and Order of Information
-
-<a name="6.20.3.1">6.20.3.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
-
 ## 6.20.4 More than One Series Statement
 
 <a name="6.20.4.1">6.20.4.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a publication, transcribe each statement separately.
