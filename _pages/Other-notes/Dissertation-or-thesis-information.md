@@ -27,6 +27,6 @@ sidebar:
 
 <a name="9.212.3.1">9.212.3.1</a> If the manifestation being described is a dissertation or thesis presented in partial fulfillment of the requirements for an academic degree, record if known the [Academic degree](/DCRMR/other-notes/Academic-degree/), [Degree granting institution](/DCRMR/other-notes/Degree-granting-institution/), and [Year degree](/DCRMR/other-notes/Year-degree-granted/) granted. 
 
-<a name="9.212.3.1a">9.212.3.1a</a> If the manifestation is a revision or abridgment of a thesis, state this.
+<a name="9.212.3.2">9.212.3.2</a> If the manifestation is a revision or abridgment of a thesis, state this.
 
-<a name="9.213.3.1b">9.212.3.1b</a> If the manifestation lacks a formal thesis statement, a bibliographic history note may be made.
+<a name="9.213.3.3">9.212.3.3</a> If the manifestation lacks a formal thesis statement, a bibliographic history note may be made.
