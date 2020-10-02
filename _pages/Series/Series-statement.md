@@ -25,9 +25,9 @@ sidebar:
 
 <a name="6.20.2.2">6.20.2.2</a> A series statement includes any or all of title of series, other title information of series, statement of responsibility relating to series, and numbering within sequence.
 
-## 6.20.4 More than one series statement
+## 6.20.3 More than one series statement
 
-<a name="6.20.4.1">6.20.4.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a publication, transcribe each statement separately.
+<a name="6.20.3.1 6.20.3.1">6.20.3.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a publication, transcribe each statement separately.
 
 >Example:  
 ><CITE>American poets profile series ; 1</CITE>  
