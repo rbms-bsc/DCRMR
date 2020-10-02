@@ -96,23 +96,17 @@ sidebar:
 
 ## 2.20.91 Qualifications in statements of responsibility
 
-<a name="2.20.91.1">2.20.91.1</a> Qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the statement of responsibility, using the mark of omission, unless:
-
-the qualifications are necessary grammatically   
-
-**or**	the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.)  
-
-**or**	the statement of responsibility represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
+<a name="2.20.91.1">2.20.91.1</a> Qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the statement of responsibility, using the mark of omission, unless the qualifications are necessary grammatically; or the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.); or the statement of responsibility represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
 
 ## 2.20.92 Ambiguous statements of responsibility
 
-<a name="2.20.92.1">2.20.92.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to clarify the role if considered important (see [2.22.5.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.5.1)).
+<a name="2.20.92.1">2.20.92.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to clarify the role if considered important (see [2.22.6.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.6.1)).
 
-<a name="2.20.92.2">2.20.92.2</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) about expansions, explanations, and corrections of statements of responsibility when needed for clarity (see [2.22.5.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.5.2)).
+<a name="2.20.92.2">2.20.92.2</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) about expansions, explanations, and corrections of statements of responsibility when needed for clarity (see [2.22.6.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.6.2)).
 
 ## 2.20.93 Variant forms of names
 
-<a name="2.20.93.1">2.20.93.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) on variant forms of names of persons or bodies named in statements of responsibility if the variant forms clarify the names used in access points (see [2.22.6.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.6.1)).
+<a name="2.20.93.1">2.20.93.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) on variant forms of names of persons or bodies named in statements of responsibility if the variant forms clarify the names used in access points (see [2.22.7.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.7.1)).
 
 ## 2.20.94 Nouns and noun phrases
 
@@ -141,8 +135,8 @@ the qualifications are necessary grammatically
 >Example:  
 ><CITE>by Sir William Dugdale knt. Garter Principal King of Arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>
 
-*Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other works given equal prominence with the title of the first work, see [Two or more expressions named on the preferred source of information](/DCRMR/title/Title-proper/#1219-two-or-more-expressions-named-on-the-preferred-source-of-information).
+<a name="2.20.97.2">2.20.97.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other works given equal prominence with the title of the first work, see [Two or more expressions named on the preferred source of information](/DCRMR/title/Title-proper/#1219-two-or-more-expressions-named-on-the-preferred-source-of-information).
 
 ## 2.20.98 Other statements
 
-<a name="2.20.98.1">2.20.98.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description (see [2.22.7.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.7.1)). Give the authority for the information, if necessary.
+<a name="2.20.98.1">2.20.98.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description (see [2.22.8.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.8.1)). Give the authority for the information, if necessary.
