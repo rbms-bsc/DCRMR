@@ -122,7 +122,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 <a name="1.21.8.1a">1.21.8.1a</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title.
 
-<a name="1.21.8.2">1.21.8.2</a> Extend the transcription of the title proper through at least the end of the [Chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but in no event within the first five words of the chief title.
+<a name="1.21.8.3">1.21.8.3</a> Extend the transcription of the title proper through at least the end of the [Chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but in no event within the first five words of the chief title.
 
 ## 1.21.9 - 1.21.91 Manifestations without a collective title 
 
