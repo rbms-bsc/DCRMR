@@ -33,24 +33,24 @@ sidebar:
 
 <a name="2.22.4.2">2.22.4.2</a> Make a note to indicate the original position on the source of any transposed parallel statements of responsibility (see [Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/), [2.21.3.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.21.3.2)).
 
-## 2.22.4a Attributions
+## 2.22.5 Attributions
 
-<a name="2.22.4.1a">2.22.4.1a</a> If a statement of responsibility for a person or corporate body connected with the work does not appear in the manifestation, and an attribution is available, give the information in a note on statement of responsibility, if considered important. Include the authority for the attribution whenever possible.
+<a name="2.22.5.1">2.22.5.1</a> If a statement of responsibility for a person or corporate body connected with the work does not appear in the manifestation, and an attribution is available, give the information in a note on statement of responsibility, if considered important. Include the authority for the attribution whenever possible.
 
-<a name="2.22.4.1b>2.22.4.1b</a> If a statement of responsibility recorded in the title proper and statement of responsibility elements is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution, if considered important. Give the authority for the information whenever possible.
+<a name="2.22.5.2>2.22.5.2</a> If a statement of responsibility recorded in the title proper and statement of responsibility elements is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution, if considered important. Give the authority for the information whenever possible.
 
-<a name="2.22.4.1c">2.22.4.1c</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
+<a name="2.22.5.3">2.22.5.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
 
-## 2.22.5 Ambiguous statements of responsibility
+## 2.22.6 Ambiguous statements of responsibility
 
-<a name="2.22.5.1">2.22.5.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.1)).
+<a name="2.22.6.1">2.22.6.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.1)).
 
-<a name="2.22.5.2">2.22.5.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.2)).
+<a name="2.22.6.2">2.22.6.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.92.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.92.2)).
 
-## 2.22.6 Variant forms of names
+## 2.22.7 Variant forms of names
 
-<a name="2.22.6.1">2.22.6.1</a> If considered important, make a note on variant forms of names of persons or bodies named in [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) if the variant forms clarify the names used in access points (see [2.20.93.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.93.1)).
+<a name="2.22.7.1">2.22.7.1</a> If considered important, make a note on variant forms of names of persons or bodies named in [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) if the variant forms clarify the names used in access points (see [2.20.93.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.93.1)).
 
-## 2.22.7 Other statements
+## 2.22.8 Other statements
 
-<a name="2.22.7.1">2.22.7.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsiblity relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.98.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.98.1)).
+<a name="2.22.8.1">2.22.8.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsiblity relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.98.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.98.1)).
