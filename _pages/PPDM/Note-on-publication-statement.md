@@ -60,7 +60,7 @@ sidebar:
 > 
 <a name="4.206.4.3">4.206.4.3</a> When following the option in [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2/), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2))
 
-<a name="4.206.4.4">4.206.4.4</a> Make a note on publication statement if no [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
+<a name="4.206.4.4">4.206.4.4</a> Make a note if no [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
@@ -105,7 +105,7 @@ sidebar:
 
 ## 4.206.6 Notes from Parallel name of publisher
 
-<a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publisher names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1)).
+<a name="4.206.6.1">4.206.6.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1)).
 
 <a name="4.206.6.2">4.206.6.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
 
@@ -175,9 +175,9 @@ sidebar:
 
 <a name="4.206.8.8">4.206.8.8</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note (see [4.205.6.1](/DCRMR/ppdm/Date-of-publication/#4.205.6.1)).
 
-<a name="4.206.8.9">4.206.8.8</a> Make a note on publication statement indicating the basis for the conjecture when supplying a probable date or period of publication according to one of the patterns shown in [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1) (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1)).
+<a name="4.206.8.9">4.206.8.9</a> Make a note on publication statement indicating the basis for the conjecture when supplying a probable date or period of publication according to one of the patterns shown in [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1) (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1)).
 
-<a name="4.206.8.9">4.206.8.9</a> When supplying a probable date or period of publication according to one of the patterns shown in  [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1), indicate the basis for the conjecture in a note (see [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
+<a name="4.206.8.91">4.206.8.91</a> When supplying a probable date or period of publication according to one of the patterns shown in  [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1), indicate the basis for the conjecture in a note (see [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
 
 >Example:  
 >Date of publication: <CITE>1560-1564</CITE>  
