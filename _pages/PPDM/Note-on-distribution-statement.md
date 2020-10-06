@@ -51,7 +51,7 @@ sidebar:
 
 <a name="4.216.4.3">4.216.4.3</a> When following the option in [4.211.96.2](/DCRMR/ppdm/Place-of-distribution/#4.211.96.2), give the basis for the correction or clarification in a note (see [4.221.96.2](/DCRMR/ppdm/Place-of-distribution/#4.211.96.2)).
 
-<a name="4.216.4.4">4.216.4.4</a> Make a note if no [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.211.97.1](/DCRMR/ppdm/Place-of-distribution/#4.211.97.1)).
+<a name="4.216.4.4">4.216.4.4</a> Make a note when supplying a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and justification for the supplied place is necessary (see [4.211.97.1](/DCRMR/ppdm/Place-of-distribution/#4.211.97.1)).
 
 >Example:  
 >Place of distribution: <CITE>[Cambridge, Mass.]</CITE>  

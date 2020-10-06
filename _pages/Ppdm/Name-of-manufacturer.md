@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.223.3 General rule
 
-<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers as part of this element when appropriate.  
+<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers.
 
 >Example:  
 ><CITE>printed at the Patriot Office, Arcade, Lowther Street</CITE>
@@ -56,7 +56,7 @@ sidebar:
 
 ## 4.223.4 Names of manufacturers containing grammatically inseparable place names or dates
 
-<a name="4.223.4.1">4.223.4.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) contains grammatically inseparable statements relating to [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), transcribe the information as part of the name of manufacturer element. Supply the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), in square brackets in the appropriate element.
+<a name="4.223.4.1">4.223.4.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) contains grammatically inseparable statements relating to [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), transcribe the information as part of the name of manufacturer element. Supply the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) in square brackets in the appropriate element.
 
 >Example:  
 ><CITE>printed in June 1700 by John Reid printer, and are to be sold at John Vallange's, Mrs. Ogstoun's and Thomas Carruthers stationers in Edinburgh, their shops, [1700]</CITE>

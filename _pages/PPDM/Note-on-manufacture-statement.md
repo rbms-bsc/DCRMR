@@ -42,8 +42,6 @@ sidebar:
 
 <a name="4.226.4.4">4.226.4.4</a> Make a note when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [4.221.98.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.98.1)).
 
-<a name="4.226.4.4">4.226.4.4</a> Make a note when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [4.221.98.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.98.1)).
-
 <a name="4.226.4.5">4.226.4.5</a> Make a note if the reason for supplying the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) is not apparent from the rest of the description to indicate the source of the information (see [4.221.99.3](/DCRMR/ppdm/Place-of-manufacture/#4.221.99.3)).
 
 ## 4.226.5 Notes from Name of manufacturer

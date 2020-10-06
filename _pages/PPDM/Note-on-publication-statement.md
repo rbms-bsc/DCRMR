@@ -57,10 +57,10 @@ sidebar:
 >Example:  
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
-> 
+
 <a name="4.206.4.3">4.206.4.3</a> When following the option in [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2/), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2)).
 
-<a name="4.206.4.4">4.206.4.4</a> Make a note if no [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
+<a name="4.206.4.4">4.206.4.4</a> Make a note when supplying a [Place of publication](/DCRMR/ppdm/Place-of-publication/) and justification for the supplied place is necessary (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
@@ -173,17 +173,15 @@ sidebar:
 
 <a name="4.206.8.8">4.206.8.8</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note (see [4.205.6.1](/DCRMR/ppdm/Date-of-publication/#4.205.6.1)).
 
-<a name="4.206.8.9">4.206.8.9</a> Make a note on publication statement indicating the basis for the conjecture when supplying a probable date or period of publication according to one of the patterns shown in [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1) (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1)).
+<a name="4.206.8.9">4.206.8.9</a> When supplying a probable date or period of publication according to one of the patterns shown in [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1), indicate the basis for the conjecture in a note (see [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1)).
 
-<a name="4.206.8.91">4.206.8.91</a> When supplying a probable date or period of publication according to one of the patterns shown in  [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1), indicate the basis for the conjecture in a note (see [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
+<a name="4.206.8.91">4.206.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
 
 >Example:  
 >Date of publication: <CITE>1560-1564</CITE>  
 >Note on publication statement:  <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
 
-<a name="4.206.8.91">4.206.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
-
-<a name="4.206.8.92">4.206.8.91</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.9.1](/DCRMR/ppdm/Date-of-publication/#4.205.9.1)).
+<a name="4.206.8.92">4.206.8.92</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.9.1](/DCRMR/ppdm/Date-of-publication/#4.205.9.1)).
 
 ## 4.206.9 Publication details not included in the manifestation
 

@@ -144,7 +144,7 @@ sidebar:
 >Example:  
 ><CITE>Bey Johan Waesberge, und der Witwe Elizaei Weyerstraet</CITE>
 
-<a name="4.203.7.2">4.203.7.2</a>  *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Publication statement](/DCRMR/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
+<a name="4.203.7.2">4.203.7.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Publication statement](/DCRMR/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase.
 
 >Example:  
 ><CITE>Oliver Ditson & Co., C.H. Ditson & Co., Lyon & Healy [and 4 others]</CITE>

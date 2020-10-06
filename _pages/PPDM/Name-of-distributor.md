@@ -46,7 +46,7 @@ sidebar:
 
 ## 4.213.4 Names of distributors containing grammatically inseparable place names or dates
 
-<a name="4.213.4.1">4.213.4.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe the information as part of the name of distributor element. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), in square brackets in the appropriate element.
+<a name="4.213.4.1">4.213.4.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe the information as part of the name of distributor element. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
 
 >Example:  
 ><CITE>[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts</CITE>

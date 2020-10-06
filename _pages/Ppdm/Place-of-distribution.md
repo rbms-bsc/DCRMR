@@ -167,7 +167,7 @@ sidebar:
 >Place of distribution: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
 >Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="4.211.97.2">4.211.97.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the date of distribution if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
+<a name="4.211.97.2">4.211.97.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
 
 >Example:  
 ><CITE>[Christiania, that is, Oslo]</CITE>
