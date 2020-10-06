@@ -54,7 +54,7 @@ sidebar:
 
 <a name="4.215.4.4">4.215.4.4</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
-<a name="4.215.4.5">4.215.4.5</a> *Optionally*, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
+<a name="4.215.4.5">4.215.4.5</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
 
 <a name="4.215.4.6">4.215.4.6</a> **Fictitious or incorrect dates**. If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
