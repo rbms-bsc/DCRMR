@@ -783,7 +783,7 @@ See the instructions for specific types of dates as follows:
 
 >Example:  
 ><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
->(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/).)
+>(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/).)
 
 <a name="0.5.92.2">0.5.92.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
 
