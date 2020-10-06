@@ -25,7 +25,7 @@ sidebar:
 
 <a name="4.216.3.1">4.216.3.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
-<a name="4.216.3.2">4.216.3.2</a> Make a note on distribution statment if information not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
+<a name="4.216.3.2">4.216.3.2</a> Make a note on distribution statement if information is not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
 
 <a name="4.216.3.3">4.216.3.3</a> Make a note on distribution statement if [Distribution statments](/DCRMR/ppdm/Distribution-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
@@ -86,7 +86,7 @@ sidebar:
 
 ## 4.216.6 Notes from Parallel name of distributor
 
-<a name="4.216.6.1">4.216.6.1</a> Make a note if parallel distributor names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
+<a name="4.216.6.1">4.216.6.1</a> Make a note if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
 
 <a name="4.216.6.2">4.216.6.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
 
@@ -124,7 +124,7 @@ sidebar:
 
 <a name="4.216.8.91">4.216.8.91</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.8.2](/DCRMR/ppdm/Date-of-distribution/#4.215.8.2)).
 
-<a name="4.216.8.92">4.206.8.92</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.9.1](/DCRMR/ppdm/Date-of-distribution/#4.215.9.1)).
+<a name="4.216.8.92">4.206.8.92</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on distribution statement (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [4.215.9.1](/DCRMR/ppdm/Date-of-distribution/#4.215.9.1)).
 
 ## 4.216.9 Distribution details not included in the manifestation
 
