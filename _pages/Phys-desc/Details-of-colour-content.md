@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.205.1 Element information
 
-<a name="5.205.1.1">5.205.1.1</a> [Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
+<a name="5.205.1.1">5.205.1.1</a> Link to RDA Toolkit
 
 <a name="5.205.1.2">5.205.1.2</a> [Source of information](/DCRMR/phys-desc/)
 

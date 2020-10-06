@@ -27,7 +27,7 @@ Chapter 2: Statement of responsibility
 
 Chapter 3: Edition  
 
-[Designation of edition](/DCRMR/edition/Designation-of-edition/) &bull; [Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/) &bull; [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) &bull; [Parallel statement of responsibility relating to edition](/Parallel-statement-of-responsibility-relating-to-edition/) &bull; [Designation of named revision of edition](/Designation-of-named-revision-of-edition/) &bull; [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) &bull; [Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/) &bull; [Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
+[Designation of edition](/DCRMR/edition/Designation-of-edition/) &bull; [Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/) &bull; [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) &bull; [Parallel statement of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/) &bull; [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) &bull; [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) &bull; [Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/) &bull; [Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
 
 Chapter 5: Production, publication, distribution, manufacture  
 
@@ -150,7 +150,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 | u (vowel or consonant) anywhere in word | V |
 | v (vowel or consonant) anywhere in word | V |
 
-<a name="0.5.23.3">0.5.23.3</a> If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title](/DCRMR/title/Variant-title) using alternative forms of the title proper as needed (see [1.25.4.4](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.4)).
+<a name="0.5.23.3">0.5.23.3</a> If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the title proper as needed (see [1.25.4.4](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.4)).
 
 <a name="0.5.23.4">0.5.23.4</a> If the manifestation uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v, transcribe the letters as i and v respectively.
 
@@ -446,7 +446,7 @@ ET ITALIAE)
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-<a name="0.5.44.2">0.5.44.2</a> If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.4.8](/DCRMR/title/Variant-title/#1.25.4.8)).
+<a name="0.5.44.2">0.5.44.2</a> If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.4.8](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.8)).
 
 ### 0.5.45 Initials, etc.
 
@@ -814,7 +814,7 @@ See the instructions for specific types of dates as follows:
 
 DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
 
-DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction III.2.1](/DCRMR/introduction/Objectives-and-principles/#iii21-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction III.2.2](/DCRMR/introduction/Objectives-and-principles/#iii22-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission).
+DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction III.2.1](/DCRMR/introduction/#iii21-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction III.2.2](/DCRMR/introduction/Objectives-and-principles/#iii22-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission).
 
 The following general rules about order and transposition apply. See also [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0592-grammatical-inseparability), [0.5.92.1](/DCRMR/general-rules/Transcription/#0.5.92.1).
 
@@ -838,7 +838,7 @@ the data element  specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6).
 >Example: 
 ><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven.</CITE>  
 >Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page.</CITE>  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/). The example is formatted according to ISBD for clarity)
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 >Example:  
 ><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes.</CITE>  

@@ -187,7 +187,7 @@ sidebar:
 
 ## 4.203.96 Publisher names transcribed as part of another element 
 
-<a name="4.203.96.1">4.203.96.1</a> If the name of the publisher does not appear in the [Publisher statement](/DCRMR/ppdm/Publisher-statement/), but has already been transcribed as part of another element, supply it within square brackets.
+<a name="4.203.96.1">4.203.96.1</a> If the name of the publisher does not appear in the [Publication statement](/DCRMR/ppdm/Publication-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
 >Example:  
 >Name of publisher: <CITE>[Pour Symo[n] Vostre Libraire par Philippe Pigouchet]</CITE>  
