@@ -38,7 +38,7 @@ sidebar:
 + advertisements (see [Supplementary content](/DCRMR/other-notes/Supplementary-content/), [7.232.4.1](/DCRMR/other-notes/Supplementary-content/#7.232.4.1) and [7.232.5.1](/DCRMR/other-notes/Supplementary-content/#7.232.5.1))
 + bibliographic volumes different from physical volumes (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.3.95](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.3.95))  
 + chronograms (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.1); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1))   
-+ collection-level records (see [Appendix B](/DCRMR/appendices/Appendix-b/), [X.X.X.X](/DCRMR/appendices/Appendix-b/#X.X.X.X))   
++ collection-level records (see [Appendix B](/DCRMR/appendices/Appendix-b/))   
 + conjectural dates of publication, distribution, and manufacture (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [4.206.8.7](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.7); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.7](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.7); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.8.7](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.7))
 + date of publication  
 + devised titles  
