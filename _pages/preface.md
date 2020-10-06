@@ -18,16 +18,18 @@ The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set inten
 
 ## RBMS RDA Editorial Group
 
-# Chief Editor
+# Editor
 
-Elizabeth Hobart, Special Collections Cataloging Librarian, PennState University Libraries
+Elizabeth Hobart, Special Collections Cataloging Librarian, Pennsylvania State University Libraries
 
 # Editorial Group Members
 Amy Brown, Head, Special Collections Technical Services, Boston College
 
+Tammy Druash, Resource Description Librarian, University of North Florida
+
 Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 
-Francis Lapka, Senior Catalogue Librarian, Yale Center for British Art
+Ryan Hildebrand, Special Collections and Authorities Cataloger, University of Oregon
 
 Deborah J. Leslie, Senior Cataloger, Folger Shakespeare Library
 
