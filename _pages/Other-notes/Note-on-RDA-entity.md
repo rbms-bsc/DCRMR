@@ -25,8 +25,8 @@ sidebar:
 
 + See [Note on work](/DCRMR/other-notes/Note-on-work/)
 + See [Note on expression](/DCRMR/other-notes/Note-on-expression/)
-+ See [Note on manifestation](/DCRMR/other-noes/Note-on-manifestation/)
-+ See [Note on item](/DCRMR/other-notes/Note-on-item/)
++ See [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)
++ See [Note on item](/DCRMR/notes-on-items/Note-on-item/)
 
 ## 7.23.25 Sources of information
 
@@ -40,7 +40,7 @@ sidebar:
 
 ## 7.23.5 Notes on bibliographic history
 
-<a name="7.23.5.1">7.23.5.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/other-notes/Notes-on-expression/) ([7.19.7.1](/DCRMR/other-notes/Note-on-expression/#7.19.7.1)).
+<a name="7.23.5.1">7.23.5.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/other-notes/Note-on-expression/) ([7.19.7.1](/DCRMR/other-notes/Note-on-expression/#7.19.7.1)).
 
 <a name="7.23.5.2">7.23.5.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/).
 

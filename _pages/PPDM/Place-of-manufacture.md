@@ -61,7 +61,7 @@ sidebar:
 
 <a name="4.221.8.5">4.221.8.5</a> If a place of manufacturer associated with an earlier manifestation appears together with the actual place of manufacture of the manifestation being described, transcribe the places as a single element in the order in which they appear.
 
-<a name="4.221.8.6">4.221.8.6</a> If both the place and [Name of manufacture](/DCRMR/ppdm/Name-of-manufacture/) associated with an earlier manifestation appear together with the place and [Name of manufacture](/DCRMR/ppdm/Name-of-manufacture/) of the manifestation being described, transcribe each place with the manufacturer to which it corresponds.
+<a name="4.221.8.6">4.221.8.6</a> If both the place and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) associated with an earlier manifestation appear together with the place and [Name of manufacture](/DCRMR/ppdm/Name-of-manufacture/) of the manifestation being described, transcribe each place with the manufacturer to which it corresponds.
 
 ## 4.221.9 Places of manufacture in multipart monographs
 

@@ -114,7 +114,7 @@ sidebar:
 >Note on publication statement: <CITE>The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.203.6.2">4.203.6.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on publisher statement](/DCRMR/ppdm/Note-on-publisher-statement/) (see [4.206.5.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.3)).
+<a name="4.203.6.2">4.203.6.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.3)).
 
 ## 4.203.7 Two or more names of publishers
 

@@ -28,7 +28,7 @@ sidebar:
 
 <a name="7.03.2">7.03.2</a> If the description in other manifestation elements does not clearly identify the resource being cataloged, make whatever notes are necessary for unambiguous identification. When appropriate, refer to detailed descriptions in standard catalogs or bibliographies. Provide sufficient information to identify the specific source, whether using a general note, a formal “References” note giving the source in prescribed form, or some combination of the two (see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/), [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).
 
-<a name="7.03.3">7.03.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from lists of controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml{:target="_blank"}) or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html{:target="_blank"}). Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/{:target="_blank"})) may also be used.
+<a name="7.03.3">7.03.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from lists of controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat){:target="_blank"}) may also be used.
 
 ## 7.04 Required notes
 
@@ -69,8 +69,6 @@ sidebar:
 {: .no_toc }
 
 [Chapter 7.20 Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)
-
-[Chapter 7.21 Related manifestation of RDA entity](/DCRMR/other-notes/Related-manifestation-of-RDA-entity/)
 
 [Chapter 7.212 Dissertation or thesis information](/DCRMR/other-notes/Dissertation-or-thesis-information/)
 

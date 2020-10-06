@@ -59,7 +59,7 @@ sidebar:
 
 ## 1.23.6 Persons or bodies not explicitly named
 
-<a name="1.23.6.1">1.23.6.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsiblity-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
+<a name="1.23.6.1">1.23.6.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
 
 >Example:  
 >Title proper: <CITE>The folowing of Christ</CITE>  

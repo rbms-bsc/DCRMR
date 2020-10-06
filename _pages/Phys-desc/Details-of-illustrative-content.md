@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.203.1 Element information
 
-<a name="5.203.1.1">5.203.1.1</a> [Link to RDA Toolkit](https://linktotoolkit){:target="_blank"}
+<a name="5.203.1.1">5.203.1.1</a> Link to RDA Toolkit
 
 ## 5.203.2 RDA definition and scope
 

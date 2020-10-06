@@ -14,8 +14,6 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Chapter 0.1 Scope](/DCRMR/general-rules/Scope/)
-
 [Chapter 0.2 Data provenance](/DCRMR/general-rules/Data-provenance/)
 
 [Chapter 0.3 Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation/)

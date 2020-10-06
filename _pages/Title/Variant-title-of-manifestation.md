@@ -33,7 +33,7 @@ sidebar:
 
 <a name="1.25.4.2">1.25.4.2</a> Title access points considered optional are labeled as such.
 
-<a name="1.25.4.3">1.25.4.3</a> **Title proper in nonroman script**. If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.4.2](/DCRM/general-rules/Language-and-script-of-the-description/#042-romanization)).
+<a name="1.25.4.3">1.25.4.3</a> **Title proper in nonroman script**. If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.4.2](/DCRMR/general-rules/Language-and-script-of-the-description/#042-romanization)).
 
 >Example:  
 >Title proper: <CITE>平家 物語</CITE>  

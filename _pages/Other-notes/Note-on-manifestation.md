@@ -31,9 +31,9 @@ sidebar:
  + [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/)
  + [Note on copyright date](/DCRMR/ppdm/Note-on-copyright-date/)
  + [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)
- + [Note on dimensions of manifestation](/DCRMR/ppdm/Note-on-dimensions-of-manifestation/)
+ + [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)
  + [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/)
- + [Note on series statement](/DCRMR/ppdm/Note-on-series-statement/)
+ + [Note on series statement](/DCRMR/series/Note-on-series-statement/)
  + [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
 
 ## 7.20.3 General rule
@@ -73,7 +73,7 @@ sidebar:
 
 ## 7.20.6 Notes on made-up sets of a multipart monograph
 
-<a name="7.20.6.1">7.20.6.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edtition-Statement/#3.20.91.3)).
+<a name="7.20.6.1">7.20.6.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edition-statement/#3.20.91.3)).
 
 >Example:  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  

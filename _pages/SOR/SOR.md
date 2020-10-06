@@ -19,7 +19,7 @@ sidebar:
 
 <a name="2.02.1">2.02.1</a> Transcribe [Title](/DCRMR/title/) and statement of responsibility information in the form and order in which it is presented on the preferred source of information, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
-<a name="2.02.2">2.02.2</a> Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page of transposed elements (see [2.22.4.1](/DCRMR/title/Note-on-statement-of-responsibility/#2.22.4.1)).
+<a name="2.02.2">2.02.2</a> Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page of transposed elements (see [2.22.4.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.4.1)).
 
 ## Contents:
 {: .no_toc }
