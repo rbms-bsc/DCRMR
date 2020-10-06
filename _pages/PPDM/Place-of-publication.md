@@ -44,7 +44,7 @@ sidebar:
 
 ## 4.201.4 Place of publication with initial prepositions, etc.
 
-<a name="4.201.4.1">4.201.4.1</a> Include in the transcription any prepositions appearing before the place of publication, as well as any accompanying words or phrases associated with the place name.
+<a name="4.201.4.1">4.201.4.1</a> Include in the transcription any prepositions appearing before the place of publication as well as any accompanying words or phrases associated with the place name.
 
 >Example:  
 ><CITE>A Lyon</CITE>
@@ -87,7 +87,7 @@ sidebar:
 
 ## 4.201.7 Supplied larger jurisdictions
 
-<a name="4.201.7.1">4.201.7.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern English form of the name, if there is one. Use the abbreviations listed in [RDA Toolkit: Abbreviations and symbols](https://beta.rdatoolkit.org/Resource?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c){:target="_blank"}.  
+<a name="4.201.7.1">4.201.7.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern English form of the name, if there is one. Use the abbreviations listed in [RDA Toolkit: Resources: Abbreviations and symbols](https://beta.rdatoolkit.org/Resource?externalId=en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c){:target="_blank"}.  
 
 >Example:  
 ><CITE>Cambridge [England]</CITE>
@@ -128,7 +128,7 @@ sidebar:
 >Example:  
 ><CITE>Philadelphia printed, London reprinted</CITE>
 
-<a name="4.201.8.6">4.201.8.6</a> If both the place of publication and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) associated with an earlier manifestation appear together with the place of publication and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the manifestation being described, transcribe each place with the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) to which it corresponds.
+<a name="4.201.8.6">4.201.8.6</a> If both the place and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) associated with an earlier manifestation appear together with the place and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the manifestation being described, transcribe each place with the publisher to which it corresponds.
 
 >Example:  
 ><CITE>London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by him at his bookstore, also by West & Richardson, Cummings, Hilliard & Co., Boston, and Wilder & Campbell, New-York</CITE>
@@ -143,7 +143,7 @@ sidebar:
 
 ## 4.201.95 Place names that are grammatically inseparable parts of other elements
 
-<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, or appears only as a grammatically inseparable part of the statement of publication and is transcribed there, supply the place of publication in square brackets. Use a modern English form of the name, if there is one.
+<a name="4.201.95.1">4.201.95.1</a> If the place of publication appears only as a grammatically inseparable part of another area and is transcribed there, supply the place of publication in square brackets. Use a modern English form of the name, if there is one.
 
 >Example:  
 ><CITE>[Munich] : Durch Peter Clement, Kunstführer zu München</CITE>
