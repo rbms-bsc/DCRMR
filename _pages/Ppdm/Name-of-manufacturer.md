@@ -137,7 +137,7 @@ sidebar:
 
 ## 4.223.96 Manufacturer names transcribed as part of another element 
 
-<a name="4.223.96.1">4.223.96.1</a> If the name of the manufacturer does not appear in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), but has already been transcribed as part of another element, supply it in a short identifiable form within square brackets.
+<a name="4.223.96.1">4.223.96.1</a> If the name of the manufacturer does not appear in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
 If transcribing a manufacturer's  name as part of another element, do not abridge or expand the name of manufacturer simply because it repeats or omits information given elsewhere in the description.
 
