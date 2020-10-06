@@ -177,7 +177,7 @@ sidebar:
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. Transcribe the address or sign in the [Publication statement](/DCRMR/ppdm/Publication-statement/).  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
+<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
@@ -213,7 +213,7 @@ sidebar:
 >Example:  
 ><CITE>[South America?]</CITE>
 
-<a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place of publication is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information.
+<a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information.
 (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
 
 >Example:  
@@ -225,4 +225,4 @@ sidebar:
 ><CITE>[Place of publication not identified]</CITE>
 
 ## 4.201.995 Place names in more than one language or script
-<a name="4.201.995.1">4.201.995.1</a> If the place of publication appears in more than one language or script, transcribe the place of publication in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place of publication that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [4.206.4.6](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.6)). 
+<a name="4.201.995.1">4.201.995.1</a> If the place of publication appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place of publication that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [4.206.4.6](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.6)). 
