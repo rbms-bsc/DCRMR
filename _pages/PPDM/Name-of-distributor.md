@@ -39,7 +39,7 @@ sidebar:
 >Example:  
 ><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
 
-<a name="4.213.3.3">4.213.3.3</a> *Optional omission*: omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
+<a name="4.213.3.3">4.213.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
 
 >Example:  
 ><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>

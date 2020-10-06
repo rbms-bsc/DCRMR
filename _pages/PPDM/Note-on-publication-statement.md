@@ -58,15 +58,13 @@ sidebar:
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 > 
-<a name="4.206.4.3">4.206.4.3</a> When following the option in [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2/), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2))
+<a name="4.206.4.3">4.206.4.3</a> When following the option in [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2/), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2)).
 
 <a name="4.206.4.4">4.206.4.4</a> Make a note if no [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears on the manifestation but is known by providing a justification for the supplied place (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
 >Note on publication statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
-
-<a name="4.206.4.5">4.206.4.5</a> Make a note on publication statement justifying the [Place of publication](/DCRMR/ppdm/Place-of-publication/) on the manifestation when it appears only an address or description of a trade sign (see [4.201.98.1](/DCRMR/ppdm/Place-of-publication/#4.201.98.1)).
 
 <a name="4.206.4.5">4.206.4.5</a> Make a note on publication statement if the reason for supplying the [Place of publication](/DCRMR/ppdm/Place-of-publication/) is not apparent from the rest of the description and indicate the source of the information (see [4.201.99.3](/DCRMR/ppdm/Place-of-publication/#4.201.99.3)).
 
