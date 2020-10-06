@@ -23,13 +23,9 @@ sidebar:
 
 ## 4.221.3 General rule
 
-<a name="4.221.3.1">4.221.3.1</a> Transcribe names of places associated with printers and other manufacturers as part of this element when appropriate. 
+<a name="4.221.3.1">4.221.3.1</a> Transcribe place names associated with the printers and other manufacturers as part of this element.
 
 <a name="4.221.3.2">4.221.3.2</a> Transcribe the place of manufacture as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
-
-<a name="4.221.3.2">4.221.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/).
-
-<a name="4.221.3.3">4.221.3.3</a> *Optionally*, omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 ## 4.221.4 Places of manufacture with initial prepositions, etc.
 
@@ -94,11 +90,11 @@ sidebar:
 ## 4.221.97 No place of manufacture
 <a name="4.221.97.1">4.221.97.1</a> If no place of manufacture appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed manufacturer if one is present. Provide a justification for the supplied place in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
 
-<a name="4.221.97.2">4.221.97.2</a> If the name of the place of manufacture has changed over time, supply the name appropriate to the date of manufacture if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction.
+<a name="4.221.97.2">4.221.97.2</a> If the name of the place of manufacture has changed over time, supply the name appropriate to the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction.
 
 ## 4.221.98 Place of manufacture supplied based on address or sign
 
-<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the name of manufacture element ; see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacture/#4.223.5.1)). When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
+<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
 
 ## 4.221.99 Place of manufacture uncertain or unknown
 
