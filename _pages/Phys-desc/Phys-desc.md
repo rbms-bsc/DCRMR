@@ -27,9 +27,9 @@ Take information for this element from the manifestation itself. Take additional
 
 [Chapter 5.203 Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/)
 
-[Chapter 5.204 Colour content](/DCRMR/phys-desc/Colour-content/)
+[Chapter 5.204 Color content](/DCRMR/phys-desc/Color-content/)
 
-[Chapter 5.205 Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/)
+[Chapter 5.205 Details of color content](/DCRMR/phys-desc/Details-of-color-content/)
 
 [Chapter 5.21 Dimensions](/DCRMR/phys-desc/Dimensions/)
 

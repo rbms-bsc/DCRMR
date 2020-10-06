@@ -44,7 +44,7 @@ sidebar:
 
 a.	[Extent of the manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [5.20.3.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.1)) 
 
-b.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [5.202.7.1](/DCRMR/phys-desc/Illustrative-content/#5.202.7.1)); [Colour content](/DCRMR/phys-desc/Colour-content) (see [5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)), etc.
+b.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [5.202.7.1](/DCRMR/phys-desc/Illustrative-content/#5.202.7.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)), etc.
 
 c.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [5.21.3.1](/DCRMR/phys-desc/Dimensions/#5.21.3.1))
 

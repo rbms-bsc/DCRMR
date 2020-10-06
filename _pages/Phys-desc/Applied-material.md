@@ -31,7 +31,7 @@ sidebar:
 ><CITE>ink</CITE>
 
 >Example:  
-><CITE>watercolour</CITE>
+><CITE>watercolor</CITE>
 
 <a name="5.212.3.2">5.212.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 

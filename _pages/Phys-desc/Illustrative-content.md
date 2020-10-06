@@ -45,11 +45,11 @@ sidebar:
 
 ## 5.202.6 Color illustrations
 
-<a name="5.202.6.1">5.202.6.1</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for color content of illustrations.
+<a name="5.202.6.1">5.202.6.1</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)) for controlled terms for color content of illustrations.
 
-<a name="5.202.6.2">5.202.6.2</a> See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.3.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.3.1)) for fuller details on color content of illustrations.
+<a name="5.202.6.2">5.202.6.2</a> See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.3.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.3.1)) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [Colour content](/DCRMR/phys-desc/Colour-content/) ([5.204.6.1](/DCRMR/phys-desc/Colour-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of colour content](/DCRMR/phys-desc/Details-of-colour-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-colour-content/#5.205.5.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/notes-on-items/Note-on-item) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)) for hand-colored manifestations not issued as such.
+<a name="5.202.6.3">5.202.6.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.5.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/notes-on-items/Note-on-item) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)) for hand-colored manifestations not issued as such.
 
 # 5.202.7 General rule
 
