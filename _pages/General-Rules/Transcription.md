@@ -858,7 +858,7 @@ make a note to indicate the placement.
 >Example:  
 ><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
 >Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map.</CITE>  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/). The example is formatted according to ISBD for clarity)
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.5.94.7">0.5.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
 

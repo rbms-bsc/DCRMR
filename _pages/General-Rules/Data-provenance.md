@@ -15,7 +15,7 @@ sidebar:
 
 ## 0.2.1 Recording a content standard
 
-<a name="0.2.1.1">0.2.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
+<a name="0.2.1.1">0.2.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/Appendices/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
 
 ## 0.2.2-0.2.4 Basis of the description
 
