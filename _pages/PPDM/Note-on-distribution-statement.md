@@ -43,7 +43,7 @@ sidebar:
 >Place of distribution: <CITE>Stuttgart ; Tübingen</CITE>  
 >Note on distribution statement: <CITE>Place of distribution in v. 33-40: Stuttgart ; Augsburg</CITE>
 
-<a name="4.216.4.2">4.216.4.2</a> Make an explanatory note if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [4.211.96.1](/DCRMR/ppdm/Place-of-distribution/#4.211.96.1)).
+<a name="4.216.4.2">4.216.4.2</a> Make a note on distribution statement giving the basis for the correction if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [4.211.96.1](/DCRMR/ppdm/Place-of-distribution/#4.211.96.1)).
 
 >Example:  
 >Place of distribution: <CITE>Londres [that is, Paris]</CITE>  

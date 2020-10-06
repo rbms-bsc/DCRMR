@@ -36,7 +36,7 @@ sidebar:
 
 <a name="4.226.4.1">4.226.4.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) changes in the course of publication by giving the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) of the later part(s) (see [4.221.9.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.9.1)).
 
-<a name="4.226.4.2">4.226.4.2</a> Make an explanatory note if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [4.221.96.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.1)).
+<a name="4.226.4.2">4.226.4.2</a> Make a note on manufacture statement giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [4.221.96.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.1)).
 
 <a name="4.226.4.3">4.226.4.3</a> When following the option at [4.221.96.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.2), give the basis for the correction or clarification in a note (see [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.96.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.2)
 
