@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.223.3 General rule
 
-<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers,  together with any associated words or phrases, including addresses, as part of this element when appropriate.  In general, do not omit levels in corporate hierarchy.
+<a name="4.223.3.1">4.223.3.1</a> Transcribe the names of printers and other manufacturers as part of this element when appropriate.  
 
 >Example:  
 ><CITE>printed at the Patriot Office, Arcade, Lowther Street</CITE>
