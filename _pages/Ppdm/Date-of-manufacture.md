@@ -45,11 +45,11 @@ If a decision has been made to create a seperate bibliographic description for a
 
 <a name="4.225.5.2">4.225.5.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
-<a name="4.225.5.3">4.225.5.3</a> *Optionally*, Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
+<a name="4.225.5.3">4.225.5.3</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.1)).
 
 <a name="4.225.5.4">4.225.5.4</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
-<a name="4.225.5.5">4.225.5.5</a> *Optionally*, Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and the original form of the date (see [4.226.8.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.2)).
+<a name="4.225.5.5">4.225.5.5</a> *Optionally*, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and the original form of the date (see [4.226.8.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.2)).
 
 <a name="4.225.5.6">4.225.5.6</a> **Fictitious or incorrect dates**. If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.3)).
 
