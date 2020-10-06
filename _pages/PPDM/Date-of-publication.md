@@ -87,7 +87,10 @@ sidebar:
 
 <a name="4.205.4.4">4.205.4.4</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears.
 
-<a name="4.205.4.5">4.205.4.5</a> *Optionally,* substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and the original form of the date (see [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
+<a name="4.205.4.5">4.205.4.5</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on publication statement]/DCRMR/ppdm/Note-on-publication-statement, [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
+
+
+concerning the source and the original form of the date (see 
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
