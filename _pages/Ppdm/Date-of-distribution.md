@@ -50,15 +50,15 @@ sidebar:
 
 <a name="4.215.4.2">4.215.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
-<a name="4.215.4.3">4.215.4.3</a> *Optionally*, Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a note explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
+<a name="4.215.4.3">4.215.4.3</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
 
 <a name="4.215.4.4">4.215.4.4</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
-<a name="4.215.4.5">4.215.4.5</a> *Optionally*, Substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) concerning the source and the original form of the statement (see [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
+<a name="4.215.4.5">4.215.4.5</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.8.2](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.2)).
 
 <a name="4.215.4.6">4.215.4.6</a> **Fictitious or incorrect dates**. If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
-<a name="4.215.4.7">4.215.4.7</a> *Optionally*, Supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
+<a name="4.215.4.7">4.215.4.7</a> *Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [4.216.8.3](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.3)).
 
 >Example:  
 >Date of distribution: <CITE>1689 [that is, 1690]</CITE>  
@@ -104,7 +104,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.8](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.8)).
 
-<a name="4.215.6.2">4.215.6.2</a>  If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.9.2](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.2)).
+<a name="4.215.6.2">4.215.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.9.2](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.2)).
 
 ## 4.215.7 Patterns for supplying a conjectural date
 
@@ -129,8 +129,10 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.215.8.1">4.215.8.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 
-<a name="4.215.8.2">4.215.8.2</a> Record the date of each volume in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [4.216.8.91](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.91)).
+<a name="4.215.8.2">4.215.8.2</a> Record the date of each volume in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important. Such a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [4.216.8.91](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.91)).
 
 ## 4.215.9 Date of distribution on part pages
 
-<a name="4.215.9.1">4.215.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.92](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.92)). If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.6](#4.215.4.6).
+<a name="4.215.9.1">4.215.9.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.92](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.92)). 
+
+If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.6](#4.215.4.6).

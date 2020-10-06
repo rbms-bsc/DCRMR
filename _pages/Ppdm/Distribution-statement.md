@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.21.3 General rule
 
-<a name="4.21.4.1">4.21.4.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="4.21.3.1">4.21.3.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
 
 ## 4.21.4 Information covered by labels, etc.
 
