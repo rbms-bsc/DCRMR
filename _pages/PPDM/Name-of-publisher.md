@@ -43,7 +43,7 @@ sidebar:
 >Example:  
 ><CITE>Published by Thomas Bradford, printer, bookseller & stationer, no. 8, South Front-Street</CITE>
 
-<a name="4.203.3.3">4.203.3.3</a> *Optional omission*: omit addresses and insignificant information appearing with the publisher's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
+<a name="4.203.3.3">4.203.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the publisher's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
 
 >Example:  
 ><CITE>Published by Ackermann and Co. ...</CITE>  
@@ -66,7 +66,7 @@ sidebar:
 
 ## 4.203.4 Names of publishers containing grammatically inseparable place names or dates
 
-<a name="4.203.4.1">4.203.4.1</a> If the [Publication statement](/DCRMR/ppdm/Publication-statement/) contains grammatically inseparable statements relating to [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) transcribe the information as part of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element. Supply the [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) in square brackets in the appropriate element. 
+<a name="4.203.4.1">4.203.4.1</a> If the [Publication statement](/DCRMR/ppdm/Publication-statement/) contains grammatically inseparable statements relating to [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/), transcribe the information as part of the name of publisher element. Supply the [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) in square brackets in the appropriate element. 
 
 >Example:  
 >Publication statement: <CITE>Verlag der Vereins-Buchhandlung in Berlin</CITE>  
@@ -78,7 +78,7 @@ sidebar:
 
 ## 4.203.5 Names of publishers containing only addresses, signs, or initials
 
-<a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the distributor, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.1)).
+<a name="4.203.5.1">4.203.5.1</a> If only the address, sign, or initials of the publisher, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.5.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.5.1)).
 
 >Example:  
 >Publication statement: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
@@ -158,7 +158,7 @@ sidebar:
 >Example:  
 ><CITE>Carter and Hendee [and 20 others in 18 places]</CITE>
 
-<a name="4.203.7.3">4.203.7.3</a> If both the place and publisher associated with an earlier edition appears together with the name of the actual publisher of the edition being described, transcribe the names as a single element in the order in which they appear.
+<a name="4.203.7.3">4.203.7.3</a> If both the place and publisher associated with an earlier edition appear together with the place and publisher of the edition being described, transcribe each publisher with the place to which it corresponds.
 
 >Example:  
 ><CITE>Published by the Surveyor General, pursuant to an act of the legislature, Stone & Clark, republishers, 1839</CITE>
@@ -187,7 +187,7 @@ sidebar:
 
 ## 4.203.96 Publisher names transcribed as part of another element 
 
-<a name="4.203.96.1">4.203.96.1</a> If the name of the distributor does not appear in the [Publisher statement](/DCRMR/ppdm/Publisher-statement/), and the name of the publisher has already been transcribed as part of another element, supply it within square brackets.
+<a name="4.203.96.1">4.203.96.1</a> If the name of the publisher does not appear in the [Publisher statement](/DCRMR/ppdm/Publisher-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
 >Example:  
 >Name of publisher: <CITE>[Pour Symo[n] Vostre Libraire par Philippe Pigouchet]</CITE>  
