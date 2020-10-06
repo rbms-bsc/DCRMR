@@ -50,7 +50,7 @@ sidebar:
 
 <a name="4.215.4.2">4.215.4.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
-<a name="4.215.4.3">4.215.4.3</a> *Optionally*, Substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
+<a name="4.215.4.3">4.215.4.3</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [4.216.8.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.1)).
 
 <a name="4.215.4.4">4.215.4.4</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
