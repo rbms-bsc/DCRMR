@@ -31,7 +31,7 @@ sidebar:
 >Example:  
 ><CITE>printed by S. Gosnell, Little Queen Street, Holborn</CITE>
 
-<a name="4.223.3.2">4.223.3.2</a> Transcribe the name of the manufacturer, together with any associated words or phrases, as it appears on the manifestation.
+<a name="4.223.3.2">4.223.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of name of manufacturer.
 
 >Example:  
 ><CITE>Kidder and Wright, music compositors</CITE>
@@ -48,7 +48,7 @@ sidebar:
 >Example:  
 ><CITE>printed by John Macock and Francis Tyton, printers to the House of Lords</CITE>
 
-<a name="4.223.3.3">4.223.3.3</a> *Optional omission*: omit addresses and insignificant information appearing with the manufacturer’s name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
+<a name="4.223.3.3">4.223.3.3</a> *Optionally*, omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  

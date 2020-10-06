@@ -23,7 +23,7 @@ sidebar:
 
 ## 4.201.3 General rule
 
-<a name="4.201.3.1">4.201.3.1</a> Transcribe the place names associated with the publication, release, or issuing of a published manifestation as part of this element. 
+<a name="4.201.3.1">4.201.3.1</a> Transcribe place names associated with the publication, release, or issuing of a published manifestation as part of this element. 
 
 <a name="4.201.3.2">4.201.3.2</a> Transcribe the place of publication as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
