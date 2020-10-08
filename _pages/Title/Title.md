@@ -15,6 +15,31 @@ sidebar:
 
 <a name="1.01.1">1.01.1</a> The [Preferred source of information for the title](/DCRMR/general-rules/Data-provenance/#026-sources-of-information) is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 
 
+## 1.01a Element order
+
+<a name="1.01a.1">1.01a.1</a> General element order of title and statement of responsibility elements, punctuated according to ISBD:
+
+>Title proper : other title information / statement of responsibility
+
+<a name="1.01a.2">1.01a.2</a> Parallel title proper and parallel other title information are transcribed in the order in which they appear on the preferred source of information.
+
+>Title proper = Parallel title : other title information = parallel other title information
+
+>Title proper : other title information = Parallel title : parallel other title information
+
+<a name="1.01a.3">1.01a.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the statement of responsibility after all the title information.
+
+>Title proper = Parallel title : other title information  = parallel other title information / statement of responsibility
+
+>Title proper : other title information = Parallel title : parallel other title information / statement of responsibility
+
+<a name="1.01a.4">1.01a.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. 
+
+>Title proper : other title information / statement of responsibility = Parallel title : parallel other title information / parallel statement of responsibility
+
+<a name="1.01a.5">1.01a.5</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
+
+
 ## 1.02 Form and order of information
 
 <a name="1.02.1">1.02.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which it is presented on the preferred source of information, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
@@ -25,7 +50,7 @@ sidebar:
 >Title proper: <CITE>Prudence Palfrey</CITE>  
 >Statement of responsibility: <CITE>Thomas Bailey Aldrich</CITE>  
 >Note on manifestation: <CITE>Author's name at head of title.</CITE>  
->(*Comment*: The Statement of responsibility relating to the title proper appears before the Title proper on the title page.)
+>(*Comment*: The [Statement of responsibility relating to the title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) appears before the [Title proper](/DCRMR/title/Title-proper/) on the title page.)
 
 ## Contents:
 {: .no_toc }

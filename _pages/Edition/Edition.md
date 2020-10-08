@@ -16,6 +16,34 @@ sidebar:
 
 <a name="3.01.1">3.01.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.6](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#026-sources-of-information)), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)). Do not take an edition statement from a source outside the manifestation itself.
 
+## 3.01a Element order
+
+<a name="3.01a.1">3.01a.1</a> General element order, punctuated according to ISBD:
+
+>Designation of edition, designation of named revision of an edition  / statement of responsibility related to edition
+
+<a name="3.01a.2">3.01a.2</a> Parallel designation of edition and parallel designation of named revision of an edition are transcribed in the order in which they appear on the preferred source of information.
+
+> Designation of edition, designation of named revision of an edition = Parallel designation of edition, parallel designation of named revision of an edition
+
+> Designation of edition = Parallel designation of edition, designation of named revision of an edition = parallel designation of named revision of edition
+
+<a name="3.01a.3">3.01a.3</a> Transcribe the statement of responsibility related to edition after the Designation of edition.
+
+> Designation of edition / statement of responsibility related to edition
+
+<a name="3.01a.4">3.01a.4</a> Transcribe statement of responsibility relating to a named revision of an edition following the statement relating to the revision.
+
+> Designation of named revision of an edition / statement of responsibility relating to named revision of an edition
+
+<a name="3.01a.5">3.01a.5</a> If the publication has parallel edition statements but a statement of responsibility relating to the edition in only one language or script, transcribe the statement of responsibility after all the edition statements.
+
+> Designation of edition, designation of named revision of an edition = Parallel designation of edition, parallel designation of named revision of an edition / statement of responsibility relating to edition
+
+<a name="3.01a.6">3.01a.6</a> If the publication has parallel edition statements and statements of responsibility relating to the edition or to named revisions of editions in more than one language or script, transcribe each statement of responsibility after each edition statement to which it relates.
+
+> Designation of edition, designation of named revision of an edition / statement of responsibility related to edition = Parallel designation of edition, parallel designation of named revision of an edition / parallel statement of responsibility relating to edition
+
 ## 3.02 Form and order of information
 
 <a name="3.02.1">3.02.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific guidelines.

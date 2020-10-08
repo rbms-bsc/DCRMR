@@ -22,6 +22,19 @@ sidebar:
 
 <a name="4.01.4">4.01.4</a> Make a note on publication, distribution, manufacture, or copyright details that are not included in other elements if they are considered important (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [4.206.9.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.9.1); [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [4.216.9.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.9.1); [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [4.226.9.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.9.1); [Note on copyright date](/DCRMR/ppdm/Note-on-copyright-date/), [4.232.3.3](/DCRMR/ppdm/Note-on-copyright-date/#4.232.3.3)).
 
+## 4.01a Element order
+
+Note: only the elements related to publication are explicated below. The same order applies to elements related to distribution and manufacture.
+
+<a name="4.01a.1">4.01a.1</a> General element order, punctuated according to ISBD:
+
+>Place of publication : Name of publisher, Date of publication
+
+<a name="4.01a.2">4.01a.2</a> Transcribe a parallel place of publication following the place of publication. Transcribe a parallel name of publisher following the name of publisher.
+
+> Place of publication = Parallel place of publication : Name of publisher = Parallel name of publisher, Date of publication
+
+
 ## 4.02 Form and order of information
 
 <a name="4.02.1">4.02.1</a> Transcribe production, publication, distribution, or manufacture elements as they appear on the preferred source of information, unless instructed otherwise by specific rules, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).

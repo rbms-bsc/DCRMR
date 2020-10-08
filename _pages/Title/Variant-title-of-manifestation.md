@@ -82,9 +82,7 @@ If it differs from title access points already provided, also provide title acce
 >Title proper: <CITE>This certifies that [blank] by a contribution of [blank] is a member for life of the American Tract Society</CITE>  
 >Variant title of manifestation: <CITE>This certifies that by a contribution of is a member for life of the American Tract Society</CITE>
 
-<a name="1.25.4.92">1.25.4.92</a> **Title proper with corrected misprint**.  
-
-If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) contains a misprint that has been corrected in the transcription through the insertion of **[that is, ...]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been printed correctly (see [0.5.72](/DCRMR/general-rules/Transcription/#0572-misprints-and-unintentional-inaccuracies)).
+<a name="1.25.4.92">1.25.4.92</a> **Title proper with corrected misprint**. If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) contains a misprint that has been corrected in the transcription through the insertion of **[that is, ...]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been printed correctly (see [0.5.72](/DCRMR/general-rules/Transcription/#0572-misprints-and-unintentional-inaccuracies)).
 
 >Example:    
 >Title proper: <CITE>The notted [that is, noted] history of Mother Grim</CITE>  

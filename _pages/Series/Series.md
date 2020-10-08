@@ -23,6 +23,56 @@ sidebar:
 
 <a name="6.01.5">6.01.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but reference sources provide evidence that the book was issued as part of a publisher’s series, do not record a supplied [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). Record the series as an authorized access point if considered important for identification or access (see [Authorized access point for RDA entity](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9badaad7-0d00-3f72-9ae9-d414344e21a5)).
 
+## 6.01a Element order
+
+Note: subseries is transcribed as part of the Title of series element.
+
+<a name="6.01a.1">6.01a.1</a> General element order, punctuated according to ISBD:
+
+>Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence
+
+<a name="6.01a.2">6.01a.2</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries.
+
+>Title of series. Subseries
+
+<a name="6.01a.3">6.01a.3</a> If there are parallel series titles, transcribe each subseries after the series title to which it relates.
+
+> Title of series. Subseries = Parallel title of series. Parallel subseries
+
+<a name="6.01a.4">6.01a.4</a> Transcribe other title information relating to the series following title of series. If there are parallel series titles, transcribe the other title information after the series title to which relates.
+
+>Title of series : other title information of series = Parallel title of series
+
+>Title of series : other title information of series = Parallel title of series: parallel other title information of series
+
+<a name="6.01a.5">6.01a.5</a> Transcribe a statement of responsibility relating to the series following the series title.
+
+> Title of series : other title information of series / statement of responsibility relating to series
+
+<a name="6.01a.6">6.01a.6</a> If there are parallel series titles but the statement of responsibility relating to series appears in only one language or script, transcribe the statement of responsibility after the last parallel title, following any other title information associated with the title.
+
+> Title of series : other title information of series = Parallel title of series: parallel other title information of series / statement of responsibility related to series.
+
+<a name="6.01a.7">6.01a.7</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the series title (or other title information) to which it relates.
+
+> Title of series : other title information of series / statement of responsibility related to series = Parallel title of series: parallel other title information of series / parallel statement of responsibility related to series
+
+<a name="6.01a.8">6.01a.8</a> If series numbering is present, transcribe it as the last element in the series statement. 
+
+> Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence
+
+<a name="6.01a.9">6.01a.9</a> If there are parallel series titles and the series numbering also appears in more than one language or script, transcribe each number after the series title to which it relates (following any other title information or any statement of responsibility associated with the title).
+
+> Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence = Parallel title of series: parallel other title information of series / parallel statement of responsibility related to series ; numbering within sequence [relating to parallel title of series]
+
+<a name="6.01a.91">6.01a.91</a> If the series numbering appears only once, transcribe it after the series title to which it relates. 
+
+> Title of series ; numbering within sequence [related to Title within series] = Parallel title of series
+
+<a name="6.01a.92">6.01a.92</a> However, if the numbering relates to all, more than one, or none of the series titles, transcribe it at the end of the series statement.
+
+Title of series = Parallel title of series ; numbering within sequence [relating to both the title of the series and the parallel title of the series]
+
 ## 6.02 Form and order of information 
 
 <a name="6.02.1">6.02.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.

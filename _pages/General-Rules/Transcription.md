@@ -579,7 +579,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 ><CITE>Mr. [--ch?], Cornhill</CITE>  
->(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item][/DCRMR/notes-on-items/Note-on-item/].)
+>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/notes-on-items/Note-on-item/).)
 
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  

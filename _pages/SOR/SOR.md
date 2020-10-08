@@ -15,6 +15,10 @@ sidebar:
 
 <a name="2.02.1">2.02.1</a> The [Preferred source of information for the statement of responsibility](/DCRMR/general-rules/Data-provenance/#026-sources-of-information) is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 
 
+## 2.01a Element order
+
+<a name="2.01a.1">2.01a.1</a> Element order for statement of responsibility elements is integrated with the instructions for title elements; see [Title: Element order](/DCRMR/title/#101a-element-order) ([1.01a](/DCRMR/title/#101a-element-order)).
+
 ## 2.02 Form and order of information
 
 <a name="2.02.1">2.02.1</a> Transcribe [Title](/DCRMR/title/) and statement of responsibility information in the form and order in which it is presented on the preferred source of information, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).

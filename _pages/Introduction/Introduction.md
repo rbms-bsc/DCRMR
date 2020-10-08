@@ -39,7 +39,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ### I.5 Application within the metadata description
 
-<a name="I.5.1">I.5.1</a> DCRMR contains rules for describing the resource, chiefly at the manifestation and item level, with  at the work or expression level as needed. It does not address the construction and assignment of access points, although brief  relating to access points do appear throughout. 
+<a name="I.5.1">I.5.1</a> DCRMR contains rules for describing the resource, chiefly at the manifestation and item level, with instructions at the work or expression level as needed. It does not address the construction and assignment of access points, although brief  relating to access points do appear throughout. 
 
 ## II. Relationship to other standards
 
@@ -125,7 +125,7 @@ The structure and numbering of DCRMR are new. Since the Beta Toolkit does not pr
 
 ## V. Language preferences
 
-<a name="V.1">V.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [4.204.5.1](/DCRMR/ppdm/Place-of-publication/#4.201.5.1)-[4.201.6.1](/DCRMR/ppdm/Place-of-publication/#4.201.6.1), [4.201.95.1](/DCRMR/ppdm/Place-of-publication/#4.201.95.1)-[4.201.99.1](/DCRMR/ppdm/Place-of-publication/#4.201.99.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/other-notes/), and [Notes on items](/DCRMR/notes-on-items/).
+<a name="V.1">V.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [4.204.5.1](/DCRMR/ppdm/Place-of-publication/#4.201.5.1)-[4.201.6.1](/DCRMR/ppdm/Place-of-publication/#4.201.6.1), [4.201.95.1](/DCRMR/ppdm/Place-of-publication/#4.201.95.1)-[4.201.99.1](/DCRMR/ppdm/Place-of-publication/#4.201.99.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/other-notes/), and [Notes on items](/DCRMR/notes-on-items/)).
 
 ## VI. Spelling and style
 
@@ -137,14 +137,14 @@ The structure and numbering of DCRMR are new. Since the Beta Toolkit does not pr
 |---|---|
 |3R Project	|RDA Toolkit Restructure and Redesign Project|
 |AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
-|BDRB	|*Bibliographic Description of Rare Books*|
+|BDRB	|[Bibliographic Description of Rare Books](https://catalog.hathitrust.org/Record/007413360){:target="_blank"}|
 |BIBCO	|[Monographic Bibliographic Record Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
 |BIBFRAME|[Bibliographic Framework](https://www.loc.gov/bibframe/){:target="_blank"}|
 |BSC	|[Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/committees/bibliographic_standards/){:target="_blank"}|
 |BSR	|[BIBCO Standard Record](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
 |CC:DA	|[Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association](https://alcts.ala.org/ccdablog/){:target="_blank"}|
 |CONSER	|[Cooperative Online Serials Program](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
-|DCRB	|*Descriptive Cataloging of Rare Books*|
+|DCRB	|[Descriptive Cataloging of Rare Books](https://catalog.hathitrust.org/Record/002570058){:target="_blank"}|
 |DCRM	|[Descriptive Cataloging of Rare Materials](http://rbms.info/dcrm/){:target="_blank"}|
 |DCRM(B)|[Descriptive Cataloging of Rare Materials (Books)](http://rbms.info/dcrm/dcrmb/){:target="_blank"}|
 |DCRM(C) |[Descriptive Cataloging of Rare Materials (Cartographic)](http://rbms.info/dcrm/dcrmc/){:target="_blank"}|
@@ -171,7 +171,7 @@ The structure and numbering of DCRMR are new. Since the Beta Toolkit does not pr
 
 <a name="VIII.1">VIII.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
-<a name="VIII.2">VIII.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/other-notes/)).
+<a name="VIII.2">VIII.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/other-notes/#7.04.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/other-notes/)).
 
 ## IX. Integrity of the copy
 

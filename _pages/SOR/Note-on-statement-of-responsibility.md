@@ -37,7 +37,7 @@ sidebar:
 
 <a name="2.22.5.1">2.22.5.1</a> If a statement of responsibility for a person or corporate body connected with the work does not appear in the manifestation, and an attribution is available, give the information in a note on statement of responsibility, if considered important. Include the authority for the attribution whenever possible.
 
-<a name="2.22.5.2>2.22.5.2</a> If a statement of responsibility recorded in the title proper and statement of responsibility elements is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution, if considered important. Give the authority for the information whenever possible.
+<a name="2.22.5.2">2.22.5.2</a> If a statement of responsibility recorded in the title proper and statement of responsibility elements is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution, if considered important. Give the authority for the information whenever possible.
 
 <a name="2.22.5.3">2.22.5.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
 
