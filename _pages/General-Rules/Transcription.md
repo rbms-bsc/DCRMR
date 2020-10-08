@@ -846,14 +846,8 @@ the data element  specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6).
 >(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes.)  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
-<a name="0.5.94.6">0.5.94.6</a> **ALT note: GitHub issue**
-
-<u>If</u>  
-information appears in scattered form on the preferred source of information but no transposition is needed  
-<u>and</u>  
-information about the specific placement of the scattered information is considered important for identification  
-<u>then</u>  
-make a note to indicate the placement.
+<a name="0.5.94.6">0.5.94.6</a>
+If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important for identification then make a note to indicate the placement.
 
 >Example:  
 ><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
