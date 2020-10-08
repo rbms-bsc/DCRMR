@@ -41,7 +41,7 @@ If a decision has been made to create a seperate bibliographic description for a
 
 ## 4.225.5 Transcription involving adjustments or additions
 
-<a name="4.225.5.1">4.225.5.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.225.5.1">4.225.5.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.34](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) and [0.5.42.3](/DCRMR/general-rules/Transcription/#0.5.42.3)).  Supply the year in arabic numerals in square brackets.
 
 <a name="4.225.5.2">4.225.5.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 

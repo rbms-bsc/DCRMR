@@ -55,7 +55,7 @@ sidebar:
 
 ## 4.205.4 Transcription involving adjustments or additions
 
-<a name="4.205.4.1">4.205.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.205.4.1">4.205.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.34](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) and [0.5.42.3](/DCRMR/general-rules/Transcription/#0.5.42.3)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>anno Domini MDCXIV [1614]</CITE> 
@@ -87,7 +87,7 @@ sidebar:
 
 <a name="4.205.4.4">4.205.4.4</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears.
 
-<a name="4.205.4.5">4.205.4.5</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on publication statement]/DCRMR/ppdm/Note-on-publication-statement, [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
+<a name="4.205.4.5">4.205.4.5</a> *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [4.206.8.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.2)).
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
@@ -101,7 +101,7 @@ sidebar:
 >Note on publication statement: <CITE>Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899</CITE>
 
 >Example:  
->Date of publication: <CITE>1786 [i.e. 1788]</CITE>  
+>Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
 <a name="4.205.4.7">4.205.4.7</a> *Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [4.206.8.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.4)).
@@ -222,7 +222,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 4.205.8 Date of publication multipart monographs
 
-<a name="4.205.8.1">4.205.8.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date od publication of the volume, part, or fascicle published first and the date of publication of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="4.205.8.1">4.205.8.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of publication of the volume, part, or fascicle published first and the date of publication of the volume, part, or fascicle published last, and connect them with a hyphen.
 
 >Example:  
 ><CITE>MDXIII-MDXXIIII [1513-1524]</CITE>
@@ -240,4 +240,4 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.205.9.1">4.205.9.1</a> If parts of a manifestation have individual title pages bearing dates of publication that differ from the date pertaining to the whole manifestation, give these additional dates of publication in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.92](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.92)). 
 
-If, however, one of these dates is a more accurate reflection of the actual date of publication, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.205.4.6](#4.205.4.6).
+If, however, one of these dates is a more accurate reflection of the actual date of publication, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.205.4.6](/DCRMR/ppdm/Date-of-publication/#4.205.4.6).

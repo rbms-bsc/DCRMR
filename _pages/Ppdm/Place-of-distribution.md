@@ -138,7 +138,7 @@ sidebar:
 <a name="4.211.9.1">4.211.9.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.4.1](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.4.1)).
 
 >Example:  
->Place of distribution:<CITE>Stuttgart ; Tübingen</CITE>  
+>Place of distribution: <CITE>Stuttgart ; Tübingen</CITE>  
 >Note on distribution statement: <CITE>Place of distribution in v. 33-40: Stuttgart ; Augsburg</CITE>
 
 ## 4.211.95 Place names that are grammatically inseparable parts of other elements 

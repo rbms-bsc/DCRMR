@@ -78,7 +78,7 @@ sidebar:
 <a name="4.221.96.2">4.221.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
 
 >Example:  
->Place of manufacture: <CITE>Cosmopoli [i.e. London]</CITE>  
+>Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The imprint is fictitious; printed in London by Richard Field (cf. STC)</CITE>  
 >(*Comment*: The formal citation for STC  is given in a References to published descriptions note)
 

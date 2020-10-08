@@ -217,7 +217,7 @@ sidebar:
 (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
 
 >Example:  
-><CITE>Place of publication suggested by Alden</CITE>
+>Note on publication statement: <CITE>Place of publication suggested by Alden</CITE>
 
 <a name="4.201.99.4">4.201.99.4</a> If no place of publication can be conjectured, record "Place of publication not identified" in square brackets.
 

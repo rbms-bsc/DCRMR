@@ -40,7 +40,7 @@ sidebar:
 
 ## 4.215.4 Transcription involving adjustments or additions
 
-<a name="4.215.4.1">4.215.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Omit internal spaces and punctuation (see [Transcription](/DCRMR/general-rules/Transcription/)). Supply the year in arabic numerals in square brackets.
+<a name="4.215.4.1">4.215.4.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.34](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) and [0.5.42.3](/DCRMR/general-rules/Transcription/#0.5.42.3)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>in the year M.DCC.LXXV [1775]</CITE>
@@ -62,7 +62,7 @@ sidebar:
 
 >Example:  
 >Date of distribution: <CITE>1689 [that is, 1690]</CITE>  
->Note on distribution statement:<CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
+>Note on distribution statement: <CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
 <a name="4.215.4.8">4.215.4.8</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [4.216.8.5](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 

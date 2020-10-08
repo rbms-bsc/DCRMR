@@ -260,7 +260,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 ### 0.5.34 Punctuation within roman numerals
 
-<a name="0.5.34.1">0.5.34.1</a> **ALT note: GitHub issue** Retain internal marks of punctuation appearing within roman numerals.
+<a name="0.5.34.1">0.5.34.1</a> Retain internal marks of punctuation appearing within roman numerals.
 
 >Example:  
 ><CITE>M.DCC.LXXXIV</CITE>
