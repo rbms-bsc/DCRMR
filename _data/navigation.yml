@@ -238,16 +238,6 @@ docs:
         url: /additional-notes/Note-on-RDA-entity/
       - title: "Note on work"
         url: /additional-notes/Note-on-work/
-      - title: "Note on expression"
-        url: /additional-notes/Note-on-expression/
-      - title: "Language of expression"
-        url: /additional-notes/Language-of-expression/
-      - title: "Script"
-        url: /additional-notes/Script/
-      - title: "Note on manifestation"
-        url: /additional-notes/Note-on-manifestation/
-      - title: "Accompanied by manifestation"
-        url: /additional-notes/Accompanied-by-manifestation/
       - title: "Dissertation or thesis information"
         url: /additional-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
@@ -256,10 +246,20 @@ docs:
         url: /additional-notes/Degree-granting-institution/      
       - title: "Year degree granted"
         url: /additional-notes/Year-degree-granted/
-      - title: "Manifestation described in"
-        url: /additional-notes/Manifestation-described-in/
+      - title: "Note on expression"
+        url: /additional-notes/Note-on-expression/
+      - title: "Language of expression"
+        url: /additional-notes/Language-of-expression/
+      - title: "Script"
+        url: /additional-notes/Script/        
       - title: "Summarization of content"
-        url: /additional-notes/Summarization-of-content/    
+        url: /additional-notes/Summarization-of-content/  
+      - title: "Note on manifestation"
+        url: /additional-notes/Note-on-manifestation/
+      - title: "Accompanied by manifestation"
+        url: /additional-notes/Accompanied-by-manifestation/        
+      - title: "Manifestation described in"
+        url: /additional-notes/Manifestation-described-in/        
       - title: "Supplementary content"
         url: /additional-notes/Supplementary-content/
       - title: "Issued with"
