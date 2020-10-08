@@ -65,4 +65,4 @@ sidebar:
 >Example:  
 >Details of illustrative content: <CITE>Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket</CITE>
 
-<a name="5.203.3.7">5.203.3.7</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.5.1)) for hand-colored manifestations issued as such and [Note on item](/DCRMR/notes-on-items/Note-on-item) ([10.20.2.2](/DCRMR/notes-on-items/Note-on-item/#10.20.2.2)) for hand-colored manifestations not issued as such.
+<a name="5.203.3.7">5.203.3.7</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.5.1)) for hand-colored manifestations issued as such and [Note on item](/DCRMR/additional-notes/Note-on-item) ([10.20.2.2](/DCRMR/additional-notes/Note-on-item/#10.20.2.2)) for hand-colored manifestations not issued as such.

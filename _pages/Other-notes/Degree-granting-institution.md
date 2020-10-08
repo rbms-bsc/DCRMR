@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Degree granting institution
-permalink: other-notes/Degree-granting-institution/
+permalink: additional-notes/Degree-granting-institution/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="9.221.1.1">9.221.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6b773e5e-858a-3718-b3fa-856467d8f415){:target="_blank"}
 
-<a name="9.221.1.2">9.221.1.2</a> [Source of information](/DCRMR/other-notes/)
+<a name="9.221.1.2">9.221.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 9.221.2 RDA definition and scope
 

@@ -25,7 +25,7 @@ sidebar:
 
 ## 4.225.3 General rule
 
-<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/notes-on-items/Note-on-item/) if considered important (see [10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)).
+<a name="4.225.3.1">4.225.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [10.20.3.1](/DCRMR/additional-notes/Note-on-item/#10.20.3.1)).
 
 # 4.225.4-4.225.91 Alternative rules
 
@@ -75,7 +75,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.225.7.1">4.225.7.1</a> Supply in square brackets a conjectural date of manufacture based on any information available. Indicate the basis for the conjecture in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.8](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.8)).
 
-<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.8.3](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.3)).
+<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.20.8.3](/DCRMR/additional-notes/Note-on-manifestation/#7.20.9.3)).
 
 ## 4.225.8 Patterns for supplying a conjectural date
 

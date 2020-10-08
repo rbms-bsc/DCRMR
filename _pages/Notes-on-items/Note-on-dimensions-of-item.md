@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on dimensions of item
-permalink: notes-on-items/Note-on-dimensions-of-item/
+permalink: additional-notes/Note-on-dimensions-of-item/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="8.24.1.1">8.24.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-0dc4d724-4898-34e3-94d2-4cbb44f77776){:target="_blank"}
 
-<a name="8.24.1.2">8.24.1.2</a> [Source of information](/DCRMR/notes-on-items/)
+<a name="8.24.1.2">8.24.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 8.24.2 RDA definition and scope
 
@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.24.3 General rule
 
-<a name="8.24.3.1">8.24.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/notes-on-items/Note-on-item/) ([10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)). 
+<a name="8.24.3.1">8.24.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([10.20.3.1](/DCRMR/additional-notes/Note-on-item/#10.20.3.1)). 
 
 <a name="8.24.3.2">8.24.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [5.21.3.3](/DCRMR/phys-desc/Dimensions/#5.21.3.3)).
 

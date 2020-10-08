@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Script
-permalink: other-notes/Script/
+permalink: additional-notes/Script/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="7.192.1.1">7.192.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-a89bae56-7f62-3c32-bd61-51fc145b0385){:target="_blank"}
 
-<a name="7.192.1.2">7.192.1.2</a> [Source of information](/DCRMR/other-notes/)
+<a name="7.192.1.2">7.192.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 7.192.2 RDA definition and scope
 

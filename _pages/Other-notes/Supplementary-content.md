@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Supplementary content
-permalink: other-notes/Supplementary-content/
+permalink: additional-notes/Supplementary-content/
 sidebar:
   nav: "docs"
 ---

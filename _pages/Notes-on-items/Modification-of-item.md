@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Modification of item
-permalink: notes-on-items/Modification-of-item/
+permalink: additional-notes/Modification-of-item/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="10.21.1.1">10.21.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-0933d5b6-bbe5-3c50-87cb-5a54df6d2580){:target="_blank"}
 
-<a name="10.21.1.2">10.21.1.2</a> [Source of information](/DCRMR/notes-on-items/)
+<a name="10.21.1.2">10.21.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 10.21.2 RDA definition and scope
 
@@ -27,7 +27,7 @@ sidebar:
 
 ## 10.21.3 General rule
 
-<a name="10.21.3.1">10.21.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/notes-on-items/Note-on-item/).
+<a name="10.21.3.1">10.21.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/).
 
 <a name="10.21.3.2">10.21.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 
@@ -46,7 +46,7 @@ sidebar:
 >Example:  
 ><CITE>Folger copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/), [8.23.3.2](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.3.2)).
+<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/), [8.23.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#8.23.3.2)).
 
 ## 10.21.4 Provenance evidence
 
@@ -81,7 +81,7 @@ sidebar:
 >Example:  
 ><CITE>University College Cork copy annotated "To W.C.C. from J J McC Xmas 1901" and in a different hand "From Jas J. M'Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950"</CITE>
 
-<a name="10.21.4.3">10.21.4.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/), [10.22.3.1](/DCRMR/notes-on-items/Custodial-history-of-item/#10.22.3.1)).
+<a name="10.21.4.3">10.21.4.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/), [10.22.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#10.22.3.1)).
 
 ## 10.21.5 Bindings
 

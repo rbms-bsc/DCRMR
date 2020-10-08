@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on work
-permalink: other-notes/Note-on-work/
+permalink: additional-notes/Note-on-work/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="7.18.1.1">7.18.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-521fa629-f515-3247-9db0-f03e8736bf15){:target="_blank"}
 
-<a name="7.18.1.2">7.18.1.2</a> [Source of information](/DCRMR/other-notes/)
+<a name="7.18.1.2">7.18.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 7.18.2 RDA definition and scope
 

@@ -38,6 +38,7 @@ docs:
         url: /general-rules/Language-and-script-of-the-description/
       - title: "Transcription"
         url: /general-rules/Transcription/
+        
   - title: "Chapter 1. Title"
     url: /title/
     children:
@@ -56,7 +57,8 @@ docs:
       - title: "Title of item"
         url: /title/Title-of-item/
       - title: "Note on title"
-        url: /title/Note-on-title/        
+        url: /title/Note-on-title/       
+        
   - title: "Chapter 2. Statement of Responsibility"
     url: /sor/
     children:
@@ -91,7 +93,13 @@ docs:
       - title: "Note on edition statement"
         url: /edition/Note-on-edition-statement/
         
-  - title: "Chapter 4. Production Publication Distribution Manufacture"
+  - title: "Chapter 4. Mathematical details"
+    url: /mathematical-details/
+    children:
+      - title: "Details of cartographic content"
+        url: /mathematical-details/details of cartographic content/
+        
+  - title: "Chapter 5. Production Publication Distribution Manufacture"
     url: /ppdm/
     children:
       - title: "Publication statement"
@@ -141,7 +149,7 @@ docs:
       - title: "Note on copyright date"
         url: /ppdm/Note-on-copyright-date/
         
-  - title: "Chapter 5. Physical Description"
+  - title: "Chapter 6. Physical Description"
     url: /phys-desc/
     children:
       - title: "Extent of manifestation"
@@ -195,7 +203,13 @@ docs:
       - title: "Note on carrier"
         url: /phys-desc/Note-on-carrier/
         
-  - title: "Chapter 6. Series"
+  - title: "Chapter 7. Numbering of serials"
+    url: /numbering-of-serials/
+    children:
+      - title: "Numbering of sequence"
+        url: /numbering-of-serials/Numbering-of-sequence/
+        
+  - title: "Chapter 8. Series"
     url: /series/
     children:
       - title: "Series statement"
@@ -217,7 +231,7 @@ docs:
       - title: "Note on series statement"
         url: /series/Note-on-series-statement/
        
-  - title: "Chapter 7. Other Notes"
+  - title: "Chapter 9. Additional Notes"
     url: /other-notes/
     children:
       - title: "Note on RDA entity"
@@ -250,10 +264,6 @@ docs:
         url: /other-notes/Supplementary-content/
       - title: "Issued with"
         url: /other-notes/Issued-with/
-        
-  - title: "Chapter 8. Notes on items"
-    url: /notes-on-items/
-    children:
       - title: "Note on item"
         url: /notes-on-items/Note-on-item/
       - title: "Modification of item"
@@ -267,7 +277,7 @@ docs:
       - title: "Bound with"
         url: /notes-on-items/Bound-with/
         
-  - title: "Chapter 9. Identifiers"
+  - title: "Chapter 10. Identifiers"
     url: /identifiers/
     children:
       - title: "Identifier for manifestation"

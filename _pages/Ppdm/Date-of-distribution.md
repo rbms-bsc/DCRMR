@@ -104,7 +104,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.215.6.1">4.215.6.1</a> Supply in square brackets a conjectural date of distribution based on any information available. Indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [4.216.8.8](/DCRMR/ppdm/Note-on-distribution-statement/#4.216.8.8)).
 
-<a name="4.215.6.2">4.215.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.9.2](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.2)).
+<a name="4.215.6.2">4.215.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of distribution, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.20.9.2](/DCRMR/additional-notes/Note-on-manifestation/#7.20.9.2)).
 
 ## 4.215.7 Patterns for supplying a conjectural date
 

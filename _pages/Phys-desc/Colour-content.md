@@ -41,7 +41,7 @@ sidebar:
 
 <a name="5.204.4.1">5.204.4.1</a> “Hand-colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
-<a name="5.204.4.2">5.204.4.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item](/DCRMR/notes-on-items/Modification-of-item/), [10.21.3.2](/DCRMR/notes-on-items/Modification-of-item/#10.21.3.2)).
+<a name="5.204.4.2">5.204.4.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item](/DCRMR/additional-notes/Modification-of-item/), [10.21.3.2](/DCRMR/additional-notes/Modification-of-item/#10.21.3.2)).
 
 <a name="5.204.4.3">5.204.4.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in color content or [Details of color content](/DCRMR/phys-desc/Details-of-color-content/).
 

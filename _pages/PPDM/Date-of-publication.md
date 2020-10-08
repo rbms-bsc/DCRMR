@@ -185,7 +185,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.205.6.1">4.205.6.1</a> Supply in square brackets a conjectural date of publication based on any information available. Indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.8.8](/DCRMR/ppdm/Note-on-publication-statement/#4.206.8.8)).
 
-<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.20.9.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.9.1)).
+<a name="4.205.6.2">4.205.6.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.20.9.1](/DCRMR/additional-notes/Note-on-manifestation/#7.20.9.1)).
 
 >Example:  
 >Date of publication: <CITE>[1814?]</CITE>  

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Issued with
-permalink: other-notes/Issued-with/
+permalink: additional-notes/Issued-with/
 sidebar:
   nav: "docs"
 ---
@@ -23,7 +23,7 @@ sidebar:
 
 <a name="7.233.2.2">7.233.2.2</a> **DCRMR elaboration**. Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated and have separate signatures, but which have been issued together by the publisher, distributor, etc. If the pagination, foliation, or signatures of separately titled parts are continuous with the part being described (see [Part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}).
 
-<a name="7.233.2.3">7.233.2.3</a> For manifestations bound together subsequent to publication, rather than issued together by the publisher, distributor, etc. (see [Bound with](/DCRMR/notes-on-items/Bound-with/)).
+<a name="7.233.2.3">7.233.2.3</a> For manifestations bound together subsequent to publication, rather than issued together by the publisher, distributor, etc. (see [Bound with](/DCRMR/additional-notes/Bound-with/)).
 
 ## 7.233.25 Sources of information
 

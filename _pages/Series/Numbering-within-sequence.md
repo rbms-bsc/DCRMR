@@ -60,7 +60,7 @@ sidebar:
 
 >Example:  
 >Note on series statement: <CITE>Number "6" appears at head of title page; issued as part of the American tract series; see Bibliography of American literature</CITE>  
->(*Comment*: Making a note on the number is required; providing the additional information from Bibliography of American literature is optional. A separate note is used to provide a full citation for the reference to Bibliography of American Literature (see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/), [7.233.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.233.4.1)).)    
+>(*Comment*: Making a note on the number is required; providing the additional information from Bibliography of American literature is optional. A separate note is used to provide a full citation for the reference to Bibliography of American Literature (see [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/), [7.233.4.1](/DCRMR/additional-notes/Manifestation-described-in/#7.233.4.1)).)    
 
 In case of doubt as to whether a number appearing in the publication is series numbering, transcribe the numbering in a [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) (see [11.23.3.1](/DCRMR/identifiers/Note-on-identifier-for-manifestation/#11.23.3.1)).
 

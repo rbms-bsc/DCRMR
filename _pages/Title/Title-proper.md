@@ -104,7 +104,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Example:  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
 >Note on title: <CITE>Title from Barbosa Machado.</CITE>  
->(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/other-notes/Manifestation-described-in/) (see [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).)
+>(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [7.223.4.1](/DCRMR/additional-notes/Manifestation-described-in/#7.223.4.1)).)
 
 ## 1.21.7 Title proper with supplementary or section designation or title
 
@@ -142,9 +142,9 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 <a name="1.21.91.1">1.21.91.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information:
 
-transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/), [7.20.5](/DCRMR/other-notes/Note-on-manifestation/#7205-contents-notes))
+transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/), [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes))
 
-**or** 	make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1))
+**or** 	make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with](/DCRMR/additional-notes/Issued-with/), [7.233.3.1](/DCRMR/additional-notes/Issued-with/#7.233.3.1))
 
 **or**  	 devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper.
 
@@ -179,15 +179,15 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.94 Two or more works with a collective title on a single sheet
 
-<a name="1.21.94.1">1.21.94.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) contents note for the works (see [7.20.5](/DCRMR/other-notes/Note-on-manifestation/#7205-contents-notes)).
+<a name="1.21.94.1">1.21.94.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes)).
 
 ### 1.21.95 Two or more works without a collective title on a single sheet
 
-<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [7.20.5](/DCRMR/other-notes/Note-on-manifestation/#7205-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/other-notes/Issued-with/), [7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1)).
+<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/additional-notes/Issued-with/), [7.233.3.1](/DCRMR/additional-notes/Issued-with/#7.233.3.1)).
 
 ### 1.21.96 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
-<a name="1.21.96.1">1.21.96.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/notes-on-items/Bound-with/), [8.25.3.1](/DCRMR/notes-on-items/Bound-with/#8.25.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
+<a name="1.21.96.1">1.21.96.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/additional-notes/Bound-with/), [8.25.3.1](/DCRMR/additional-notes/Bound-with/#8.25.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
 
 ## 1.21.97 Access points for title proper
 

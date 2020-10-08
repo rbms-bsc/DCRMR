@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Manifestation described in
-permalink: other-notes/Manifestation-described-in/
+permalink: additional-notes/Manifestation-described-in/
 sidebar:
   nav: "docs"
 ---
@@ -51,4 +51,4 @@ sidebar:
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
 >(*Comment*: A publication in quarto)
 
-<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/other-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/other-notes/Note-on-RDA-entity/#7.23.4.1)).
+<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/additional-notes/Note-on-RDA-entity/#7.23.4.1)).

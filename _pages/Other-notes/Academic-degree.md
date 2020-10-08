@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Academic degree
-permalink: other-notes/Academic-degree/
+permalink: additional-notes/Academic-degree/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="9.22.1.1">9.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d84a7372-256e-3de6-b44e-684d4b760705){:target="_blank"}
 
-<a name="9.22.1.2">9.22.1.2</a> [Source of information](/DCRMR/other-notes/)
+<a name="9.22.1.2">9.22.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 9.22.2 RDA definition and scope
 

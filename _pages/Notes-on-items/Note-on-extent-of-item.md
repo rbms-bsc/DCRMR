@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on extent of item
-permalink: notes-on-items/Note-on-extent-of-item/
+permalink: additional-notes/Note-on-extent-of-item/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="8.23.1.1">8.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-fd17be6e-c18b-3ae3-92c5-21b0c2c09e48){:target="_blank"}
 
-<a name="8.23.1.2">8.23.1.2</a> [Source of information](/DCRMR/notes-on-items/)
+<a name="8.23.1.2">8.23.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 8.23.2 RDA definition and scope
 
@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.23.3 General rule
 
-<a name="8.23.3.1">8.23.3.1</a> For general rules on constructing item specific notes (see [Note on item](/DCRMR/notes-on-items/Note-on-item/), [10.20.3.1](/DCRMR/notes-on-items/Note-on-item/#10.20.3.1)).
+<a name="8.23.3.1">8.23.3.1</a> For general rules on constructing item specific notes (see [Note on item](/DCRMR/additional-notes/Note-on-item/), [10.20.3.1](/DCRMR/additional-notes/Note-on-item/#10.20.3.1)).
 
 <a name="8.23.3.2">8.23.3.2</a> Record item-specific imperfections that alter its extent, if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.95.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.95.1)).
 

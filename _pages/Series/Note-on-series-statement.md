@@ -62,4 +62,4 @@ sidebar:
 ><CITE>Numbered: (1174)</CITE>    
 >(*Comment*: Publisher’s item number on a stereograph. These can be difficult to distinguish from series numbering)  
 
-<a name="6.28.3.4">6.28.3.4</a> Give information about a series in which the publication has been issued previously in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) if considered important (see [7.20.7.2](/DCRMR/other-notes/Note-on-manifestation/#7.20.7.2)).
+<a name="6.28.3.4">6.28.3.4</a> Give information about a series in which the publication has been issued previously in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [7.20.7.2](/DCRMR/additional-notes/Note-on-manifestation/#7.20.7.2)).

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on item
-permalink: notes-on-items/Note-on-item/
+permalink: additional-notes/Note-on-item/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="10.20.1.1">10.20.1.1</a> [Link to RDA Toolkit](https://docs.google.com/document/d/1JSf-40uCef9J2DL9e39146yMejO84KI92EpSADEgnYY/edit){:target="_blank"}
 
-<a name="10.20.1.2">10.20.1.2</a> [Source of information](/DCRMR/notes-on-items/)
+<a name="10.20.1.2">10.20.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 10.20.2 RDA definition and scope
 
@@ -25,15 +25,15 @@ sidebar:
 
 <a name="10.20.2.2">10.20.2.2</a> **Related elements**. See:
 
-+ [Modification of item](/DCRMR/notes-on-items/Modification-of-item/) for item specific alterations; provenance evidence; and item-specific binding details; etc.
-+ [Custodial history of item](/DCRMR/notes-on-items/Custodial-history-of-item/) for summaries of the past ownership of an item.
-+ [Bound with](/DCRMR/notes-on-items/Bound-with/) for items bound together subsequent to publication.
-+ [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued.
-+ [Note on dimensions of item](/DCRMR/notes-on-items/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource.
++ [Modification of item](/DCRMR/additional-notes/Modification-of-item/) for item specific alterations; provenance evidence; and item-specific binding details; etc.
++ [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/) for summaries of the past ownership of an item.
++ [Bound with](/DCRMR/additional-notes/Bound-with/) for items bound together subsequent to publication.
++ [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued.
++ [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource.
 
 ## 10.20.3 General rule
 
-<a name="10.20.3.1">10.20.3.1</a> Make a note on item for any special features of the item being described when they are considered important. Item-specific information is highly desirable in the context of rare materials cataloging, which puts greater emphasis on materials as artifacts than is usual in general cataloging practice. Notes on item can also provide warrant for recording relationships (e.g., names of former owners or binders) or genre terms, (e.g., various kinds of provenance evidence, binding characteristics, etc.). Carefully distinguish notes on item from [Notes on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that record information valid for all items exemplifying the manifestation being cataloged.
+<a name="10.20.3.1">10.20.3.1</a> Make a note on item for any special features of the item being described when they are considered important. Item-specific information is highly desirable in the context of rare materials cataloging, which puts greater emphasis on materials as artifacts than is usual in general cataloging practice. Notes on item can also provide warrant for recording relationships (e.g., names of former owners or binders) or genre terms, (e.g., various kinds of provenance evidence, binding characteristics, etc.). Carefully distinguish notes on item from [Notes on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) that record information valid for all items exemplifying the manifestation being cataloged.
 
 <a name="10.20.3.2">10.20.3.2</a> For many older publications, however, it will not be readily ascertainable whether the characteristics of a single item are in fact shared by other exemplars of the manifestation. In case of doubt, consider that the characteristics of the item in hand are not shared by other items exemplifying the manifestation.
 
@@ -79,7 +79,7 @@ sidebar:
 
 ## 10.20.7 Specific items and copy numbers
 
-<a name="10.20.7.1">10.20.7.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) ([7.20.8](/DCRMR/other-notes/Note-on-manifestation/##7208-limitation-statements)) for recording limitation statements.
+<a name="10.20.7.1">10.20.7.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) ([7.20.8](/DCRMR/additional-notes/Note-on-manifestation/##7208-limitation-statements)) for recording limitation statements.
 
 >Example:  
 ><CITE>LC has no. 20</CITE>

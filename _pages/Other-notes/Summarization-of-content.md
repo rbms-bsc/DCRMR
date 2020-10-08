@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Summarization of content
-permalink: other-notes/Summarization-of-content/
+permalink: additional-notes/Summarization-of-content/
 sidebar:
   nav: "docs"
 ---

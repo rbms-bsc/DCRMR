@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on manifestation
-permalink: other-notes/Note-on-manifestation/
+permalink: additional-notes/Note-on-manifestation/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="7.20.1.1">7.20.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-2f069b6a-bc80-3498-ba25-28ec7d8672c2){:target="_blank"}
 
-<a name="7.20.1.2">7.20.1.2</a> [Source of information](/DCRMR/other-notes/)
+<a name="7.20.1.2">7.20.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 7.20.2 RDA definition and scope
 
@@ -53,7 +53,7 @@ sidebar:
 
 ## 7.20.5 Contents notes
 
-<a name="7.20.5.1">7.20.5.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a publication without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/other-notes/Supplementary-content).
+<a name="7.20.5.1">7.20.5.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a publication without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content).
 
 <a name="7.20.5.2">7.20.5.2</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) and its subelements.  In such cases, record “[from title page]” at the beginning of the contents note.  If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
 
@@ -107,7 +107,7 @@ sidebar:
 >Example:  
 ><CITE>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."</CITE>
 
-<a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/notes-on-items/Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/notes-on-items/Note-on-item/#10.20.7.1)). 
+<a name="7.20.8.3">7.20.8.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/), if considered important (see [10.20.7.1](/DCRMR/additional-notes/Note-on-item/#10.20.7.1)). 
 
 # 7.20.9 Notes on dates not representing publication, distribution, or manufacture elements
 
@@ -123,4 +123,4 @@ sidebar:
 
 # 7.20.92 Accompanying material
 
-<a name="7.20.92.1">7.20.92.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) (see [7.295.4.2](/DCRMR/other-notes/Note-on-manifestation/#7.295.4.2)).
+<a name="7.20.92.1">7.20.92.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.295.4.2](/DCRMR/additional-notes/Note-on-manifestation/#7.295.4.2)).

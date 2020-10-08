@@ -556,7 +556,7 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 >Example:  
 ><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  
->(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in) note (see [7.223.4.1](/DCRMR/other-notes/Manifestation-described-in/#7.223.4.1)).)
+>(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in) note (see [7.223.4.1](/DCRMR/additional-notes/Manifestation-described-in/#7.223.4.1)).)
 
 >Example:  
 ><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  
@@ -579,7 +579,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 ><CITE>Mr. [--ch?], Cornhill</CITE>  
->(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/notes-on-items/Note-on-item/).)
+>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/).)
 
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
@@ -602,7 +602,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.5.64.1">0.5.64.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets. Make an explanatory note.
 
-<a name="0.5.64.2">0.5.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/notes-on-items/Note-on-item), if considered important (see [10.20.8.1](/DCRMR/notes-on-items/Note-on-item/#10.20.8.1)).
+<a name="0.5.64.2">0.5.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item), if considered important (see [10.20.8.1](/DCRMR/additional-notes/Note-on-item/#10.20.8.1)).
 
 >Example:  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
@@ -634,7 +634,7 @@ Make an explanatory note.
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
 >Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript.</CITE>
 
-<a name="0.5.65.3">0.5.65.3</a> Make a [Note on item](/DCRMR/notes-on-items/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [10.20.8.2](/DCRMR/notes-on-items/Note-on-item/#10.20.8.2)).
+<a name="0.5.65.3">0.5.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [10.20.8.2](/DCRMR/additional-notes/Note-on-item/#10.20.8.2)).
 				
 ## 0.5.7 Inaccuracies, misprints, etc.
 

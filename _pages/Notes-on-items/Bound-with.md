@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Bound with
-permalink: notes-on-items/Bound-with/
+permalink: additional-notes/Bound-with/
 sidebar:
   nav: "docs"
 ---
@@ -17,7 +17,7 @@ sidebar:
 
 <a name="8.25.1.1">8.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-8d40285a-4a24-3b4f-9792-681d99d9a8bc){:target="_blank"}
 
-<a name="8.25.1.2">8.25.1.2</a> [Source of information](/DCRMR/notes-on-items/)
+<a name="8.25.1.2">8.25.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
 ## 8.25.2 RDA definition and scope
 
@@ -25,7 +25,7 @@ sidebar:
 
 <a name="8.25.2.2">8.25.2.2</a> **DCRMR elaboration**. Use this relationship element to reference the related items bound together subsequent to publication. 
 
-<a name="8.25.2.3">8.25.2.3</a> **Related elements**. See [Issued with](/DCRMR/other-notes/Issued-with/) for items issued together by the publisher on the same carrier.
+<a name="8.25.2.3">8.25.2.3</a> **Related elements**. See [Issued with](/DCRMR/additional-notes/Issued-with/) for items issued together by the publisher on the same carrier.
 
 ## 8.25.3 General rule
 

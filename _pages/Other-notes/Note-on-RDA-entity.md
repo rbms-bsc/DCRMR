@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Note on RDA entity
-permalink: other-notes/Note-on-RDA-entity/
+permalink: additional-notes/Note-on-RDA-entity/
 sidebar:
   nav: "docs"
 ---
@@ -23,10 +23,10 @@ sidebar:
 
 <a name="7.23.2.2">7.23.2.2</a>  **Related elements**.
 
-+ See [Note on work](/DCRMR/other-notes/Note-on-work/)
-+ See [Note on expression](/DCRMR/other-notes/Note-on-expression/)
-+ See [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/)
-+ See [Note on item](/DCRMR/notes-on-items/Note-on-item/)
++ See [Note on work](/DCRMR/additional-notes/Note-on-work/)
++ See [Note on expression](/DCRMR/additional-notes/Note-on-expression/)
++ See [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
++ See [Note on item](/DCRMR/additional-notes/Note-on-item/)
 
 ## 7.23.25 Sources of information
 
@@ -40,9 +40,9 @@ sidebar:
 
 ## 7.23.5 Notes on bibliographic history
 
-<a name="7.23.5.1">7.23.5.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/other-notes/Note-on-expression/) ([7.19.7.1](/DCRMR/other-notes/Note-on-expression/#7.19.7.1)).
+<a name="7.23.5.1">7.23.5.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/additional-notes/Note-on-expression/) ([7.19.7.1](/DCRMR/additional-notes/Note-on-expression/#7.19.7.1)).
 
-<a name="7.23.5.2">7.23.5.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/other-notes/Manifestation-described-in/).
+<a name="7.23.5.2">7.23.5.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/).
 
 <a name="7.23.5.3">7.23.5.3</a> Make a note relating to the bibliographic history of the RDA entity if considered important.
 

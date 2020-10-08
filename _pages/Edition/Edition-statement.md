@@ -76,7 +76,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 <a name="3.20.9.1">3.20.9.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets, usually reissued with a collective title page), and one or more parts have edition statements, make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.29.7.1](/DCRMR/edition/Note-on-edition-statement/#3.29.7.1)).
 
-<a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [Note on item](/DCRMR/notes-on-items/Note-on-item) (see [10.20.5.1](/DCRMR/notes-on-items/Note-on-item/#10.20.5.1)).
+<a name="3.20.9.2">3.20.9.2</a> If edition statements of parts vary between exemplars of manifestation, make a note on edition statement describing the situation and record the edition statements of the item in hand relating to parts in the [Note on item](/DCRMR/additional-notes/Note-on-item) (see [10.20.5.1](/DCRMR/additional-notes/Note-on-item/#10.20.5.1)).
 
 ## 3.20.91 Edition statements on multipart monographs
 
@@ -103,7 +103,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 
 <a name="3.20.91.3">3.20.91.3</a> If the multipart monograph is known or assumed to be a made-up set describe the monograph using one of the following methods:
 
-1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/notes-on-items/Note-on-extent-of-item/) (see [8.23.3.2](/DCRMR/notes-on-items/Note-on-extent-of-item/#8.23.3.2)).
+1) Make separate descriptions for each edition. In each description, indicate that the set is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) (see [8.23.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#8.23.3.2)).
 
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  
@@ -115,7 +115,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 >Note on extent of item: <CITE>Note on extent of item: Library's copy imperfect; v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
 >(*Comment*: The second of two descriptions associated with the made-up set)
 
-2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [Note on manifestation](/DCRMR/other-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.6.1](/DCRMR/other-notes/Note-on-manifestation/#7.20.6.1)).
+2) Describe the set, basing the description on the first or preponderant edition. Indicate in the [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) that the description is based on a made-up set (see [7.20.6.1](/DCRMR/additional-notes/Note-on-manifestation/#7.20.6.1)).
 
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  
