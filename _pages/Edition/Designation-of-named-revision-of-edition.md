@@ -68,7 +68,7 @@ sidebar:
 
 >Example:    
 >Designation of named revision of edition: <CITE>[1st printing]</CITE>  
->Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"[2] .</CITE>
+>Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1".</CITE>
 
 ## 3.25.5 Designations of named revision of edition in more than one language and script
 

@@ -21,9 +21,9 @@ sidebar:
 
 ## 8.25.2 RDA definition and scope
 
-<a name="8.25.2.1">8.25.2.1</a> *RDA*: An item that is physically combined or joined with an item.
+<a name="8.25.2.1">8.25.2.1</a> An item that is physically combined or joined with an item.
 
-<a name="8.25.2.2">8.25.2.2</a> *DCRMR elaboration*: use this relationship element to reference the related items bound together subsequent to publication. 
+<a name="8.25.2.2">8.25.2.2</a> **DCRMR elaboration**. Use this relationship element to reference the related items bound together subsequent to publication. 
 
 <a name="8.25.2.3">8.25.2.3</a> **Related elements**. See [Issued with](/DCRMR/other-notes/Issued-with/) for items issued together by the publisher on the same carrier.
 
@@ -58,4 +58,4 @@ sidebar:
 >Example:  
 ><CITE>University of Chicago Library's copy is bound with 12 other titles on American history</CITE>
 
-<a name="8.25.3.4">8.25.3.4</a> *Optionally*, catalogers may record an [Authorized access point for item](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3a6ddd4-9a32-3185-bdf8-b767e44489a2) for the related item in addition to the note.
+<a name="8.25.3.4">8.25.3.4</a> *Optionally*, catalogers may record an [Authorized access point for item](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3a6ddd4-9a32-3185-bdf8-b767e44489a2){:target="_blank"} for the related item in addition to the note.

@@ -48,11 +48,13 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 >Example:  
 >Title proper: <CITE>Old New York, or, Reminiscences of the past sixty years : </CITE>  
 >Other title information: <CITE> being an enlarged and revised edition of the anniversary discourse delivered before the New York Historical Society … </CITE>  
+
+>Example:  
 >Statement of responsibility: <CITE> nunc iterum non mediocri studio atque diligentia a pluribus mendis purgata </CITE> 
 
 ## 3.20.6 Edition statements with grammatically inseparable information
 
-<a name="3.20.6.1">3.20.6.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/) ([1.21.3.1](/DCRMR/title/Title-proper/)) transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) statement. If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.2.2](/DCRMR/title/Other-title-information/#1.23.2.2)).
+<a name="3.20.6.1">3.20.6.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/) transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) statement (see [1.21.3.1](/DCRMR/title/Title-proper/)). If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.2.2](/DCRMR/title/Other-title-information/#1.23.2.2)).
 
 >Example:  
 > <CITE>A new edition in two volumes</CITE>
@@ -94,6 +96,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 >Note on edition statement: <CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition.</CITE>
 
 <a name="3.20.91.2">3.20.91.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) indicating the absence of edition statements if considered important (see [3.29.8.1](/DCRMR/edition/Note-on-edition-statement/#3.29.8.1)).
+
 >Example:      
 >Edition statement: <CITE>The second edition</CITE>  
 >Note on edition statement: <CITE>Volumes 2-3 issued without the edition statement</CITE>

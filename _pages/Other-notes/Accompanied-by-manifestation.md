@@ -21,9 +21,9 @@ sidebar:
 
 ## 7.295.2 RDA definition and scope
 
-<a name="7.295.2.1">7.295.2.1</a> *RDA*: A manifestation that is issued with another manifestation, without any relationship to its content.
+<a name="7.295.2.1">7.295.2.1</a> A manifestation that is issued with another manifestation, without any relationship to its content.
 
-<a name="7.295.2.2">7.295.2.2</a> *DCRMR elaboration*: A manifestation physically separate from and issued simultaneously (or nearly so) with another manifestation and intended to be used together with it.
+<a name="7.295.2.2">7.295.2.2</a> **DCRMR elaboration**. A manifestation physically separate from and issued simultaneously (or nearly so) with another manifestation and intended to be used together with it.
 
 <a name="7.295.2.3">7.295.2.3</a> **Related element**. See [Issued with](/DCRMR/other-notes/Issued-with/) ([7.233.3.1](/DCRMR/other-notes/Issued-with/#7.233.3.1)) for manifestations issued on the same carrier.
 

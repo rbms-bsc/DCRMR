@@ -321,7 +321,7 @@ If the portfolio or case was not issued with the resource, record the extent in 
 
 > Example:  
 > <CITE>1 sheet (3 pages)</CITE>   
-> (*Comment*: Folded sheet with title and colophon printed as  two pages on “outside;” all text printed as one page occupying the entire “inside”)  
+> (*Comment*: Folded sheet with title and colophon printed as  two pages on “outside”; all text printed as one page occupying the entire “inside”)  
 
 > Example:  
 > <CITE>1 sheet (1 page)</CITE>    
@@ -345,7 +345,7 @@ If the portfolio or case was not issued with the resource, record the extent in 
 > Extent of manifestation: <CITE>1 folded sheet ([4] panels)</CITE>  
 > Details of layout: <CITE>A folded sheet with four panels on each side; 17 x 40 cm, folded to 17 x 10 cm</CITE>  
 
-For a normally imposed single-folded (i.e., four-page) sheet (see [5.20.4.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.4.1)).
+For a normally imposed single-folded (i.e., four-page) sheet see [5.20.4.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.4.1).
 
 ## 5.20.98-5.20.993 Manifestations in more than one physical unit
 

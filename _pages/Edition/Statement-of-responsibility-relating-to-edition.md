@@ -50,6 +50,8 @@ sidebar:
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
 >Note on statement of responsibility: <CITE>The statement "by John Whitehurst" appears on the title page after the edition statement</CITE>  
 >(*Comment*: Statement of responsibility applies to all editions.)
+>(*Comment*: Information in transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
+); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity.)
 
 ## 3.23.5 Phrases about notes, appendixes, etc.
 
@@ -67,7 +69,7 @@ sidebar:
 >Designation of edition: <CITE>The fourth edition, corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>
 
 >Example:  
-> Designation of edition: <CITE>A new edition / </CITE>  
+> Designation of edition: <CITE>A new edition </CITE>  
 > Statement of responsibility relating to edition: <CITE>by Grace Webster, to which is added a life of the author</CITE>
 
 <a name="3.23.5.3">3.23.5.3</a> If such phrases have been transposed from a position preceding the [Designation of edition](/DCRMR/edition/Designation-of-edition/), provide details of the transposition in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).

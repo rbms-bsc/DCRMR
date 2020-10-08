@@ -185,9 +185,10 @@ Indicate partial duplications of an alphabet (see Gaskell, page 331) by using su
 
 > Example:  
 > <CITE>Signatures: <sup>pi</sup>A⁴ A-D⁴  <sup>chi</sup>D⁴ E-F⁴</CITE> 
-> 
-> or  
->
+
+or  
+
+>Example:  
 > <CITE>Signatures: [superscript pi]A⁴ A-D⁴ [superscript chi]D⁴ E-F⁴</CITE> 
 
 <a name="5.201.4.4">5.201.4.4</a> **Non-conventional Latin alphabet**. If the gatherings are signed with roman letters according to a pattern other than the conventional 23-letter Latin alphabet (i.e., A-Z, less I or J, U or V, and W), make this explicit by recording the additional letters in the signature statement.
