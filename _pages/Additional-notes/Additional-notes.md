@@ -68,22 +68,44 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Chapter 7.20 Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
+[Chapter 10.05 Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/)
 
-[Chapter 7.212 Dissertation or thesis information](/DCRMR/additional-notes/Dissertation-or-thesis-information/)
+[Chapter 10.1 Note on work](/DCRMR/additional-notes/Note-on-work/)
 
-[Chapter 7.22 Academic degree](/DCRMR/additional-notes/Academic-degree/)
+[Chapter 10.12 Dissertation or thesis information](/DCRMR/additional-notes/Dissertation-or-thesis-information/)
 
-[Chapter 7.221 Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/)
+[Chapter 10.121 Academic degree](/DCRMR/additional-notes/Academic-degree/)
 
-[Chapter 7.222 Year degree granted](/DCRMR/additional-notes/Year-degree-granted/)
+[Chapter 10.122 Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/)
 
-[Chapter 7.223 Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
+[Chapter 10.123 Year degree granted](/DCRMR/additional-notes/Year-degree-granted/)
 
-[Chapter 7.23 Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/)
+[Chapter 10.2 Note on expression](/DCRMR/additional-notes/Note-on-expression/)
 
-[Chapter 7.231 Summarization of content](/DCRMR/additional-notes/Summarization-of-content/)
+[Chapter 10.23 Language of expression](/DCRMR/additional-notes/Language-of-expression/)
 
-[Chapter 7.232 Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
+[Chapter 10.24 Script](/DCRMR/additional-notes/Script/)
 
-[Chapter 7.233 Issued with](/DCRMR/additional-notes/Issued-with/)
+[Chapter 10.25 Summarization of content](/DCRMR/additional-notes/Summarization-of-content/)
+
+[Chapter 10.3 Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
+
+[Chapter 9.31 Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
+
+[Chapter 10.33 Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
+
+[Chapter 10.34 Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
+
+[Chapter 10.35 Issued with](/DCRMR/additional-notes/Issued-with/)
+
+[Chapter 10.4 Note on item](/DCRMR/additional-notes/Note-on-item/)
+
+[Chapter 10.41 Modification of item](/DCRMR/additional-notes/Modification-of-item/)
+
+[Chapter 10.42 Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/)
+
+[Chapter 10.43 Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/)
+
+[Chapter 10.44 Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/)
+
+[Chapter 10.45 Bound with](/DCRMR/additional-notes/Bound-with/)
