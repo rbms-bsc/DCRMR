@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ## 7.20.1 Element information

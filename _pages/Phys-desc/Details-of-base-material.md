@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 ## 5.2112.1 Manifestation: Details of base material

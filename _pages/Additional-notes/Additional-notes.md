@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Other notes
+title: Additional notes
 permalink: additional-notes/
 permalink: /additional-notes/
 sidebar:
