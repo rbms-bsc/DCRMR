@@ -232,50 +232,50 @@ docs:
         url: /series/Note-on-series-statement/
        
   - title: "Chapter 9. Additional Notes"
-    url: /other-notes/
+    url: /additional-notes/
     children:
       - title: "Note on RDA entity"
-        url: /other-notes/Note-on-RDA-entity/
+        url: /additional-notes/Note-on-RDA-entity/
       - title: "Note on work"
-        url: /other-notes/Note-on-work/
+        url: /additional-notes/Note-on-work/
       - title: "Note on expression"
-        url: /other-notes/Note-on-expression/
+        url: /additional-notes/Note-on-expression/
       - title: "Language of expression"
-        url: /other-notes/Language-of-expression/
+        url: /additional-notes/Language-of-expression/
       - title: "Script"
-        url: /other-notes/Script/
+        url: /additional-notes/Script/
       - title: "Note on manifestation"
-        url: /other-notes/Note-on-manifestation/
+        url: /additional-notes/Note-on-manifestation/
       - title: "Accompanied by manifestation"
-        url: /other-notes/Accompanied-by-manifestation/
+        url: /additional-notes/Accompanied-by-manifestation/
       - title: "Dissertation or thesis information"
-        url: /other-notes/Dissertation-or-thesis-information/
+        url: /additional-notes/Dissertation-or-thesis-information/
       - title: "Academic degree"
-        url: /other-notes/Academic-degree/
+        url: /additional-notes/Academic-degree/
       - title: "Degree granting institution"
-        url: /other-notes/Degree-granting-institution/      
+        url: /additional-notes/Degree-granting-institution/      
       - title: "Year degree granted"
-        url: /other-notes/Year-degree-granted/
+        url: /additional-notes/Year-degree-granted/
       - title: "Manifestation described in"
-        url: /other-notes/Manifestation-described-in/
+        url: /additional-notes/Manifestation-described-in/
       - title: "Summarization of content"
-        url: /other-notes/Summarization-of-content/    
+        url: /additional-notes/Summarization-of-content/    
       - title: "Supplementary content"
-        url: /other-notes/Supplementary-content/
+        url: /additional-notes/Supplementary-content/
       - title: "Issued with"
-        url: /other-notes/Issued-with/
+        url: /additional-notes/Issued-with/
       - title: "Note on item"
-        url: /notes-on-items/Note-on-item/
+        url: /additional-notes/Note-on-item/
       - title: "Modification of item"
-        url: /notes-on-items/Modification-of-item/
+        url: /additional-notes/Modification-of-item/
       - title: "Custodial history of item"
-        url: /notes-on-items/Custodial-history-of-item/
+        url: /additional-notes/Custodial-history-of-item/
       - title: "Note on extent of item"
-        url: /notes-on-items/Note-on-extent-of-item/
+        url: /additional-notes/Note-on-extent-of-item/
       - title: "Note on dimensions of item"
-        url: /notes-on-items/Note-on-dimensions-of-item/
+        url: /additional-notes/Note-on-dimensions-of-item/
       - title: "Bound with"
-        url: /notes-on-items/Bound-with/
+        url: /additional-notes/Bound-with/
         
   - title: "Chapter 10. Identifiers"
     url: /identifiers/
