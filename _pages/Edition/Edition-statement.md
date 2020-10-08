@@ -10,10 +10,10 @@ sidebar:
 ## Contents:
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
-## 3.20.1 Element information
+## 3.20.1 Element information 
 
 <a name="3.20.1.1">3.20.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-fbd459c0-2eff-3c1f-a983-6cf86b379574){:target="_blank"}
 
