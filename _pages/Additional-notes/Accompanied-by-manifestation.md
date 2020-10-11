@@ -69,6 +69,6 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 > Accompanied by manifestation: <CITE>Accompanied by: 2 folded maps</CITE>  
 > Details on illustrative content: <CITE>Maps in pocket on inside back cover</CITE>
 
-<a name="9.31.31.2">9.31.31.2</a> Otherwise, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.20.92.1](/DCRMR/additional-notes/Note-on-manifestation/#7.20.92.1)).
+<a name="9.31.31.2">9.31.31.2</a> Otherwise, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.38.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.1)).
 
 <a name="9.31.31.3">9.31.31.3</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 

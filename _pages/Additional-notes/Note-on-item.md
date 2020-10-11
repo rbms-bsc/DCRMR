@@ -82,7 +82,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.34 Specific items and copy numbers
 
-<a name="9.4.34.1">9.4.34.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) ([7.20.8](/DCRMR/additional-notes/Note-on-manifestation/##7208-limitation-statements)) for recording limitation statements.
+<a name="9.4.34.1">9.4.34.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) ([9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements)) for recording limitation statements.
 
 >Example:  
 ><CITE>LC has no. 20</CITE>

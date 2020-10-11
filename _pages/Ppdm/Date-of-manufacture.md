@@ -75,7 +75,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="4.225.7.1">4.225.7.1</a> Supply in square brackets a conjectural date of manufacture based on any information available. Indicate the basis for the conjecture in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.8.8](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.8.8)).
 
-<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.20.8.3](/DCRMR/additional-notes/Note-on-manifestation/#7.20.9.3)).
+<a name="4.225.7.2">4.225.7.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.36.3](/DCRMR/additional-notes/Note-on-manifestation/#9.3.36.3)).
 
 ## 4.225.8 Patterns for supplying a conjectural date
 

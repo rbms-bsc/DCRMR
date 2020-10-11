@@ -142,7 +142,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 <a name="1.21.91.1">1.21.91.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information:
 
-transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/), [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes))
+transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/), [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes))
 
 **or** 	make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with](/DCRMR/additional-notes/Issued-with/), [9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1))
 
@@ -179,11 +179,11 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.94 Two or more works with a collective title on a single sheet
 
-<a name="1.21.94.1">1.21.94.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes)).
+<a name="1.21.94.1">1.21.94.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
 
 ### 1.21.95 Two or more works without a collective title on a single sheet
 
-<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [7.20.5](/DCRMR/additional-notes/Note-on-manifestation/#7205-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/additional-notes/Issued-with/), [9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/additional-notes/Issued-with/), [9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
 
 ### 1.21.96 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
