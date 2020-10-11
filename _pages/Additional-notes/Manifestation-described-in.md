@@ -7,29 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#bookmark=id.cs065in77mn4){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 7.223.1 Element information
+## 9.32.1 Element information
 
-<a name="7.223.1.1">7.223.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-51744638-bd0b-3aac-a958-4be04d024ce4){:target="_blank"}
+<a name="9.32.1.1">9.32.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-51744638-bd0b-3aac-a958-4be04d024ce4){:target="_blank"}
 
-## 7.223.2 RDA Definition and scope
+<a name="9.32.1.2">9.32.1.2</a> [Sources of information](/DCRMR/Additional-notes/)
 
-<a name="7.223.2.1">7.223.2.1</a> A work that describes a manifestation.
+## 9.32.2 RDA Definition and scope
 
-## 7.223.3 Sources of information
+<a name="9.32.2.1">9.32.2.1</a> A work that describes a manifestation.
 
-<a name="7.223.3.1">7.223.3.1</a> Take information for this element from any source.
+## 9.32.31 References to published descriptions
 
-## 7.223.4 References to published descriptions
+<a name="9.32.31.1">9.32.31.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
-<a name="7.223.4.1">7.223.4.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
-
-<a name="7.223.4.2">7.223.4.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
+<a name="9.32.31.2">9.32.31.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
 >Example:   
 >Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
@@ -51,4 +51,4 @@ sidebar:
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
 >(*Comment*: A publication in quarto)
 
-<a name="7.223.4.3">7.223.4.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/additional-notes/Note-on-RDA-entity/#7.23.4.1)).
+<a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/), [7.23.4.1](/DCRMR/additional-notes/Note-on-RDA-entity/#7.23.4.1)).
