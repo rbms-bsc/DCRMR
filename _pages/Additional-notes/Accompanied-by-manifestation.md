@@ -25,7 +25,7 @@ sidebar:
 
 <a name="7.295.2.2">7.295.2.2</a> **DCRMR elaboration**. A manifestation physically separate from and issued simultaneously (or nearly so) with another manifestation and intended to be used together with it.
 
-<a name="7.295.2.3">7.295.2.3</a> **Related element**. See [Issued with](/DCRMR/additional-notes/Issued-with/) ([7.233.3.1](/DCRMR/additional-notes/Issued-with/#7.233.3.1)) for manifestations issued on the same carrier.
+<a name="7.295.2.3">7.295.2.3</a> **Related element**. See [Issued with](/DCRMR/additional-notes/Issued-with/) ([9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) for manifestations issued on the same carrier.
 
 ## 7.295.25 Sources of information
 
