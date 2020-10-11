@@ -46,7 +46,7 @@ sidebar:
 >Example:  
 ><CITE>Folger copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/), [8.23.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#8.23.3.2)).
+<a name="10.21.3.3">10.21.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/), [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
 ## 10.21.4 Provenance evidence
 
