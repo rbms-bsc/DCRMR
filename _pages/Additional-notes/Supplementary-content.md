@@ -7,29 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#heading=h.xyfq63w90j4v){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 7.232.1 Element information
+## 9.33.1 Element information
 
-<a name="7.232.1.1">7.232.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-9d596c05-acc2-39b5-b52a-3274c90ab41d){:target="_blank"}
+<a name="9.33.1.1">9.33.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-9d596c05-acc2-39b5-b52a-3274c90ab41d){:target="_blank"}
 
-## 7.232.2 RDA Definition and scope
+<a name="9.33.1.2">9.33.1.2</a> [Sources of information](/DCRMR/Additional-notes/)
 
-<a name="7.232.2.1">7.232.2.1</a> An indication of content that updates or complements the primary content of an expression.
+## 9.33.2 RDA Definition and scope
 
-<a name="7.232.2.2">7.232.2.2</a> Supplementary content includes an index, a bibliography, an appendix, etc.
+<a name="9.33.2.1">9.33.2.1</a> An indication of content that updates or complements the primary content of an expression.
 
-## 7.232.3 Sources of information
+<a name="9.33.2.2">9.33.2.2</a> Supplementary content includes an index, a bibliography, an appendix, etc.
 
-<a name="7.232.3.1">7.232.3.1</a> Take information for this element from any source.
+## 9.33.3 General rule
 
-## 7.232.4 General rule
-
-<a name="7.232.4.1">7.232.4.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
+<a name="9.33.3.1">9.33.3.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
 
 >Example:  
 ><CITE>Includes bibliographical references (pages 43-58)</CITE>
@@ -56,9 +56,9 @@ sidebar:
 >Example:  
 ><CITE>Final unnumbered sequence contains: 'An abstract of the penal-laws'</CITE>
 
-## 7.232.5 Errata leaves and slips
+## 9.33.31 Errata leaves and slips
 
-<a name="7.232.5.1">7.232.5.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the publication if considered important.
+<a name="9.33.31.1">9.33.31.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the publication if considered important.
 
 >Example:  
 ><CITE>Errata on last leaf</CITE>
