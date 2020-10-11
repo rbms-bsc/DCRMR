@@ -53,7 +53,7 @@ part of a statement being transcribed in the production, publication, distributi
 
 ## 3.21.6 Statements relating to a substantially unchanged impression or state
 
-<a name="3.21.6.1">3.21.6.1</a> Omit statements relating to a substantially unchanged impression or state from the transcription without using the mark of omission.  Record such statements as [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [10.20.4.1](/DCRMR/additional-notes/Note-on-item/#10.20.4.1)).
+<a name="3.21.6.1">3.21.6.1</a> Omit statements relating to a substantially unchanged impression or state from the transcription without using the mark of omission.  Record such statements as [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
 
 <a name="3.21.6.2">3.21.6.2</a> **Alternative rule**. If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#x-precataloging-decisions), [X.1](/DCRMR/introduction/#x-precataloging-decisions)), and the manifestation lacks a designation of edition, then transcribe statements containing words such as “impression” or “printing” as a designation of edition. If the manifestation has a designation of edition, then transcribe such statements as a [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) (see [3.25.3.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.25.3.1)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)).
 
@@ -91,7 +91,7 @@ part of a statement being transcribed in the production, publication, distributi
 ><CITE>Second [edition]</CITE>
 
 <a name="3.21.8.3">3.21.8.3</a> If such a statement signals a substantially unchanged impression of an edition,
-omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [10.20.4.1](/DCRMR/additional-notes/Note-on-item/#10.20.4.1)).
+omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
 
 >Example:  
 >Optional note on item: <CITE>Library's copy: "Fifth ten thousand"</CITE>

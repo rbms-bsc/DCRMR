@@ -602,7 +602,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.5.64.1">0.5.64.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets. Make an explanatory note.
 
-<a name="0.5.64.2">0.5.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item), if considered important (see [10.20.8.1](/DCRMR/additional-notes/Note-on-item/#10.20.8.1)).
+<a name="0.5.64.2">0.5.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item), if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
 
 >Example:  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
@@ -634,7 +634,7 @@ Make an explanatory note.
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
 >Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript.</CITE>
 
-<a name="0.5.65.3">0.5.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [10.20.8.2](/DCRMR/additional-notes/Note-on-item/#10.20.8.2)).
+<a name="0.5.65.3">0.5.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy, if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
 ## 0.5.7 Inaccuracies, misprints, etc.
 

@@ -35,7 +35,7 @@ sidebar:
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
 >Note on publication statement: <CITE>Imprint from printed label affixed to top right corner of title page</CITE>
 
-<a name="4.20.4.2">4.20.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [10.20.3.1](/DCRMR/additional-notes/Note-on-item/#10.20.3.1)).
+<a name="4.20.4.2">4.20.4.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 4.20.5 Elements relating to publication, distribution, etc. vs. elements relating to manufacture
 

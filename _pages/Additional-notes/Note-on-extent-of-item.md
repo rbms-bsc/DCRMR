@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.43.3 General rule
 
-<a name="9.43.3.1">9.43.3.1</a> For general rules on constructing item specific notes (see [Note on item](/DCRMR/additional-notes/Note-on-item/), [10.20.3.1](/DCRMR/additional-notes/Note-on-item/#10.20.3.1)).
+<a name="9.43.3.1">9.43.3.1</a> For general rules on constructing item specific notes (see [Note on item](/DCRMR/additional-notes/Note-on-item/), [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 <a name="9.43.3.2">9.43.3.2</a> Record item-specific imperfections that alter its extent, if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [5.20.95.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.95.1)).
 
