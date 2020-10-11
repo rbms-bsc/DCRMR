@@ -90,7 +90,7 @@ sidebar:
 
 [Chapter 10.3 Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
 
-[Chapter 9.31 Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
+[Chapter 10.31 Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
 
 [Chapter 10.33 Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
 
