@@ -123,4 +123,4 @@ sidebar:
 
 # 7.20.92 Accompanying material
 
-<a name="7.20.92.1">7.20.92.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [7.295.4.2](/DCRMR/additional-notes/Note-on-manifestation/#7.295.4.2)).
+<a name="7.20.92.1">7.20.92.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.31.31.2](/DCRMR/additional-notes/Note-on-manifestation/#9.31.31.2)).
