@@ -7,29 +7,31 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 8 errata page](https://docs.google.com/document/d/1-ZWQGu_ouVQ7UluDNDk86hr2_aBqsUzI6Re9MU3KVqo/edit#heading=h.g2ovt66r2nqd){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 6.27.1 Element information
+## 8.27.1 Element information
 
-<a name="6.27.1.1">6.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-04e52191-96ac-3870-ac6a-de37540f45f5){:target="_blank"}
+<a name="8.27.1.1">8.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-04e52191-96ac-3870-ac6a-de37540f45f5){:target="_blank"}
 
-<a name="6.27.1.2">6.27.1.2</a> [Source of information](/DCRMR/series/)
+<a name="8.27.1.2">8.27.1.2</a> [Source of information](/DCRMR/series/)
 
-## 6.27.2 RDA definition and scope
+## 8.27.2 RDA definition and scope
 
-<a name="6.27.2.1">6.27.2.1</a> A nomen that is a designation that is assigned to a manifestation to identify its position in a sequence of individual parts of a larger manifestation or parts or issues of a larger work.
+<a name="8.27.2.1">8.27.2.1</a> A nomen that is a designation that is assigned to a manifestation to identify its position in a sequence of individual parts of a larger manifestation or parts or issues of a larger work.
 
-<a name="6.27.2.2">6.27.2.2</a> Numbering may include dates or other timespans, alphanumeric or other characters, and an accompanying caption.
+<a name="8.27.2.2">8.27.2.2</a> Numbering may include dates or other timespans, alphanumeric or other characters, and an accompanying caption.
 
-## 6.27.3 Series numbering
+## 8.27.31 Series numbering
 
-<a name="6.27.3.1">6.27.3.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
+<a name="8.27.31.1">8.27.31.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
 
-<a name="6.27.3.2">6.27.3.2</a> Transcribe the numbering as it appears in the manifestation. Do not use any abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
+<a name="8.27.31.2">8.27.31.2</a> Transcribe the numbering as it appears in the manifestation. Do not use any abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
 
 >Example:  
 >Numbering within sequence: <CITE>núm. II</CITE>  
@@ -56,7 +58,7 @@ sidebar:
 >Numbering within sequence: <CITE>tome troisième</CITE>    
 >Title of series: <CITE>Oeuvres philosophiques de Mr. D. Hume</CITE>      
 
-<a name="6.27.3.3">6.27.3.3</a> If there is series numbering but no series title, transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.3](/DCRMR/series/Note-on-series-statement/#8.29.31.3)). Provide any additional information about the series (e.g., as found in reference sources) in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.2](/DCRMR/series/Note-on-series-statement/#8.29.31.2)). 
+<a name="8.27.31.3">8.27.31.3</a> If there is series numbering but no series title, transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.3](/DCRMR/series/Note-on-series-statement/#8.29.31.3)). Provide any additional information about the series (e.g., as found in reference sources) in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.2](/DCRMR/series/Note-on-series-statement/#8.29.31.2)). 
 
 >Example:  
 >Note on series statement: <CITE>Number "6" appears at head of title page; issued as part of the American tract series; see Bibliography of American literature</CITE>  
@@ -64,15 +66,15 @@ sidebar:
 
 In case of doubt as to whether a number appearing in the publication is series numbering, transcribe the numbering in a [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) (see [11.23.3.1](/DCRMR/identifiers/Note-on-identifier-for-manifestation/#11.23.3.1)).
 
-<a name="6.27.3.4">6.27.3.4</a> If a phrase such as “new series,” “second series,” etc., appears with a numbered series, transcribe the phrase as part of numbering within sequence (see [Title of series](/DCRMR/series/Title-of-series/), [6.21.4.2](/DCRMR/series/Title-of-series/#6.21.4.2)).
+<a name="8.27.31.4">8.27.31.4</a> If a phrase such as “new series,” “second series,” etc., appears with a numbered series, transcribe the phrase as part of numbering within sequence (see [Title of series](/DCRMR/series/Title-of-series/), [6.21.4.2](/DCRMR/series/Title-of-series/#6.21.4.2)).
 
 >Example:    
 >Numbering within sequence: <CITE>Killaly chapbooks ; 2nd series, no. 6</CITE>    
 >(*Comment*: Series is numbered; transcribed as part of the Numbering within sequence element)  
 
-## 6.27.4 Numbering relating to parallel title of series
+## 8.27.32 Numbering relating to parallel title of series
 
-<a name="6.27.4.1">6.27.4.1</a> If there is one or more [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) and the series numbering also appears in more than one language or script, transcribe each number after the title of series to which it relates (following any other title information or any statement of responsibility associated with the title).
+<a name="8.27.32.1">8.27.32.1</a> If there is one or more [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) and the series numbering also appears in more than one language or script, transcribe each number after the title of series to which it relates (following any other title information or any statement of responsibility associated with the title).
 
 >Example:  
 >Series statement: <CITE>Nachschlagewerke und Quellen zur Kunst ; Teil 6 = Art reference works and sources ; Part 6</CITE>    
@@ -86,10 +88,10 @@ In case of doubt as to whether a number appearing in the publication is series n
 >Series statement: <CITE>O.B.E.M.A ; No. 12 = O.B.E.M.A. ; Nr. 12</CITE>    
 >(*Comment*: Information is transcribed in three elements: [Title of series](/DCRMR/series/Title-of-series/); [Parallel title of series](/DCRMR/series/Parallel-title-of-series/); and Numbering within sequence. The example is formatted according to ISBD for clarity)    
 
-<a name="6.27.4.2">6.27.4.2</a> If the series numbering appears only once, transcribe it after the title of series to which it relates. However, if the numbering relates to all, more than one, or none of the title of series, transcribe it at the end of the series statement.
+<a name="8.27.32.2">8.27.32.2</a> If the series numbering appears only once, transcribe it after the title of series to which it relates. However, if the numbering relates to all, more than one, or none of the title of series, transcribe it at the end of the series statement.
 
 >Example:  
 >Series statement: <CITE>Série bilingue = Bilingual series ; 5</CITE>   
 >(*Comment*: Information is transcribed in three elements: [Title of series](/DCRMR/series/Title-of-series/); [Parallel title of series](/DCRMR/series/Parallel-title-of-series/); and Numbering within sequence. The example is formatted according to ISBD for clarity)   
 
-<a name="6.27.4.3">6.27.4.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated numbers.
+<a name="8.27.32.3">8.27.32.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated numbers.
