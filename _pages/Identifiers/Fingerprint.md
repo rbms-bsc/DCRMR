@@ -7,25 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 10 errata page](https://docs.google.com/document/d/1S-ppDuSz0STqOURYVJ6tM5PmjqkF7g2ZPN7Cx3uVWZE/edit#heading=h.j2lan2eg1gxb){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 9.24.1 Element information
+## 10.21.1 Element information
 
-<a name="9.24.1.1">9.24.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4267b9ea-5015-36eb-b56a-c66f4b104f6f){:target="_blank"}
+<a name="10.21.1.1">10.21.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4267b9ea-5015-36eb-b56a-c66f4b104f6f){:target="_blank"}
 
-<a name="9.24.1.2">9.24.1.2</a> [Source of information](/DCRMR/identifiers/)
+<a name="10.21.1.2">10.21.1.2</a> [Source of information](/DCRMR/identifiers/)
 
-## 9.24.2 RDA definition and scope
+## 10.21.2 RDA definition and scope
 
-<a name="9.24.2.1">9.24.2.1</a> A nomen that is an identifier for manifestation of an early printed resource that consists of a sequence of characters from sources of information specified by an established scheme
+<a name="10.21.2.1">10.21.2.1</a> A nomen that is an identifier for manifestation of an early printed resource that consists of a sequence of characters from sources of information specified by an established scheme
 
-## 9.24.3 General rule
+## 10.21.3 General rule
 
-<a name="9.24.3.1">9.24.3.1</a> If considered important, record the fingerprint derived according to a published standard. Identify the scheme used for recording the fingerprint. (For further information on this method of identification and recommended forms of recording it, see *Fingerprints* = *Empreintes* = *Impronte*, supplemented by *Nouvelles des empreintes* = *Fingerprint Newsletter*, or Vriesema, P.C.A. “The STCN Fingerprint.”)
+<a name="10.21.3.1">10.21.3.1</a> If considered important, record the fingerprint derived according to a published standard. Identify the scheme used for recording the fingerprint. (For further information on this method of identification and recommended forms of recording it, see *Fingerprints* = *Empreintes* = *Impronte*, supplemented by *Nouvelles des empreintes* = *Fingerprint Newsletter*, or Vriesema, P.C.A. “The STCN Fingerprint.”)
 
 >Example:  
 > <CITE>163704 - b1 A2 ,$en : b2 I2 a,$</CITE>  
