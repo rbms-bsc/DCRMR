@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.22.3 General rule
 
-<a name="6.22.3.1">6.22.3.1</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as parallel title of series. Make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)).
+<a name="6.22.3.1">6.22.3.1</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as parallel title of series. Make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
 >Example:    
 >Parallel title of series: <CITE>Villes du Canada, vues à vol d'oiseau</CITE>    

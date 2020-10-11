@@ -64,7 +64,7 @@ sidebar:
 
 ## 6.21.4 Subseries
 
-<a name="6.21.4.1">6.21.4.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). 
+<a name="6.21.4.1">6.21.4.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). 
 
 >Example:    
 ><CITE>Parlour library. Shilling series</CITE>  

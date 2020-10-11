@@ -27,7 +27,7 @@ sidebar:
 
 ## 6.27.3 Series numbering
 
-<a name="6.27.3.1">6.27.3.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.1](/DCRMR/series/Note-on-series-statement/#6.28.3.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
+<a name="6.27.3.1">6.27.3.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
 
 <a name="6.27.3.2">6.27.3.2</a> Transcribe the numbering as it appears in the manifestation. Do not use any abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
 
@@ -56,7 +56,7 @@ sidebar:
 >Numbering within sequence: <CITE>tome troisième</CITE>    
 >Title of series: <CITE>Oeuvres philosophiques de Mr. D. Hume</CITE>      
 
-<a name="6.27.3.3">6.27.3.3</a> If there is series numbering but no series title, transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [6.28.3.3](/DCRMR/series/Note-on-series-statement/#6.28.3.3)). Provide any additional information about the series (e.g., as found in reference sources) in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [6.28.3.2](/DCRMR/series/Note-on-series-statement/#6.28.3.2)). 
+<a name="6.27.3.3">6.27.3.3</a> If there is series numbering but no series title, transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.3](/DCRMR/series/Note-on-series-statement/#8.29.31.3)). Provide any additional information about the series (e.g., as found in reference sources) in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.2](/DCRMR/series/Note-on-series-statement/#8.29.31.2)). 
 
 >Example:  
 >Note on series statement: <CITE>Number "6" appears at head of title page; issued as part of the American tract series; see Bibliography of American literature</CITE>  
