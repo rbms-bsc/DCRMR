@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.233.3 General rule
 
-<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a note on carrier. Record information pertaining to individual items as a [Modification of item](/DCRMR/additional-notes/Modification-of-item/) (see [10.21.2.2](/DCRMR/additional-notes/Modification-of-item/#10.21.2.2)).
+<a name="5.233.3.1">5.233.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a note on carrier. Record information pertaining to individual items as a [Modification of item](/DCRMR/additional-notes/Modification-of-item/) (see [9.41.25.1](/DCRMR/additional-notes/Modification-of-item/#9.41.25.1)).
 
 ## 5.233.4 Combined physical descriptions for carriers
 

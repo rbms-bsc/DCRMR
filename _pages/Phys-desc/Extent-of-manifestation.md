@@ -135,7 +135,7 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 > Extent of manifestation: <CITE>[52], 156, [4] pages</CITE>  
 > Supplementary content: <CITE>Publisher's advertisements on [4] pages at end</CITE>
 
-<a name="5.20.7.3">5.20.7.3</a> Describe advertisements that do not fall into any of these categories as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [10.21.3.2](/DCRMR/additional-notes/Modification-of-item/#10.21.3.2)).
+<a name="5.20.7.3">5.20.7.3</a> Describe advertisements that do not fall into any of these categories as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 ### 5.20.8 Multiple sequences of numbering
 

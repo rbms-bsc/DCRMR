@@ -44,4 +44,4 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>British Library copy: Part of King George III's Library. Donated to the nation by King George IV (1762-1830)</CITE>
 
-<a name="9.42.3.2">9.42.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [10.21.4.1](/DCRMR/additional-notes/Modification-of-item/#10.21.4.1)).
+<a name="9.42.3.2">9.42.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.33.1](/DCRMR/additional-notes/Modification-of-item/#9.41.33.1)).

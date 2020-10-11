@@ -70,7 +70,7 @@ sidebar:
 
 <a name="5.205.5.3">5.205.5.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one copy is representative of the coloring scheme for all copies. 
 
-<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [10.21.3.2](/DCRMR/additional-notes/Modification-of-item/#10.21.3.2)).
+<a name="5.205.5.4">5.205.5.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 ## 5.205.6 Base material
 
