@@ -7,27 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#heading=h.2zrd6tt6nwhi){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 7.192.1 Element information
+## 9.24.1 Element information
 
-<a name="7.192.1.1">7.192.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-a89bae56-7f62-3c32-bd61-51fc145b0385){:target="_blank"}
+<a name="9.24.1.1">9.24.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-a89bae56-7f62-3c32-bd61-51fc145b0385){:target="_blank"}
 
-<a name="7.192.1.2">7.192.1.2</a> [Source of information](/DCRMR/additional-notes/)
+<a name="9.24.1.2">9.24.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
-## 7.192.2 RDA definition and scope
+## 9.24.2 RDA definition and scope
 
-<a name="7.192.2.1">7.192.2.1</a> A set of characters or symbols used to express written language content of an expression.
+<a name="9.24.2.1">9.24.2.1</a> A set of characters or symbols used to express written language content of an expression.
 
-## 7.192.3 General rule
+## 9.24.3 General rule
 
-<a name="7.192.3.1">7.192.3.1</a> Make a note on the script of the expression if considered important.
+<a name="9.24.3.1">9.24.3.1</a> Make a note on the script of the expression if considered important.
 
-<a name="7.192.3.2">7.192.3.2</a> Always note the presence of nonroman script in the publication if it has been transcribed only in romanized form in the description (see [Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description), [0.4.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.4.2.1)).
+<a name="9.24.3.2">9.24.3.2</a> Always note the presence of nonroman script in the publication if it has been transcribed only in romanized form in the description (see [Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description), [0.4.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.4.2.1)).
 
 >Example:  
 ><CITE>Church Slavic in Cyrillic script</CITE>
