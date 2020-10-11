@@ -7,25 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 8 errata page](https://docs.google.com/document/d/1-ZWQGu_ouVQ7UluDNDk86hr2_aBqsUzI6Re9MU3KVqo/edit#heading=h.lvgjy2nv9fj9){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 6.25.1 Element information
+## 8.25.1 Element information
 
-<a name="6.25.1.1">6.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-03903371-8ef8-3e8a-88c9-45421e6de05b){:target="_blank"}
+<a name="8.25.1.1">8.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-03903371-8ef8-3e8a-88c9-45421e6de05b){:target="_blank"}
 
-<a name="6.25.1.2">6.25.1.2</a> [Source of information](/DCRMR/series/)
+<a name="8.25.1.2">8.25.1.2</a> [Source of information](/DCRMR/series/)
 
-## 6.25.2 RDA definition and scope
+## 8.25.2 RDA definition and scope
 
-<a name="6.25.2.1">6.25.2.1</a> A statement of responsibility that is associated with a series.
+<a name="8.25.2.1">8.25.2.1</a> A statement of responsibility that is associated with a series.
 
-## 6.25.3 General rule
+## 8.25.3 General rule
 
-<a name="6.25.3.1">6.25.3.1</a> Transcribe a statement of responsibility relating to the series, if present. If the statement of responsibility does not appear after the series title in the source, transpose as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the statement of responsibility is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
+<a name="8.25.3.1">8.25.3.1</a> Transcribe a statement of responsibility relating to the series, if present. If the statement of responsibility does not appear after the series title in the source, transpose as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the statement of responsibility is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [6.21.3.3](/DCRMR/series/Title-of-series/#6.21.3.3)).
 
 >Example:    
 >Series statement: <CITE>Serie de libros de lectura / Mantilla</CITE>  
