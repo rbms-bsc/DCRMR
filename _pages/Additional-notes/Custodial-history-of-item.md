@@ -7,25 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#bookmark=id.6mqly0z76e2u){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 10.22.1 Element information
+## 9.42.1 Element information
 
-<a name="10.22.1.1">10.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-bacfb41d-9379-3b1c-bf1a-c0cb428b63f4){:target="_blank"}
+<a name="9.42.1.1">9.42.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-bacfb41d-9379-3b1c-bf1a-c0cb428b63f4){:target="_blank"}
 
-<a name="10.22.1.2">10.22.1.2</a> [Source of information](/DCRMR/additional-notes/)
+<a name="9.42.1.2">9.42.1.2</a> [Source of information](/DCRMR/additional-notes/)
 
-## 10.22.2 RDA definition and scope
+## 9.42.2 RDA definition and scope
 
-<a name="10.22.2.1">10.22.2.1</a> A record of previous ownership or custodianship of an item, including agent, place, and timespan.
+<a name="9.42.2.1">9.42.2.1</a> A record of previous ownership or custodianship of an item, including agent, place, and timespan.
 
-## 10.22.3 General rule
+## 9.42.3 General rule
 
-<a name="10.22.3.1">10.22.3.1</a> Record details of an item’s custodial history if considered important. Include the names of former owners and approximate dates, whenever possible.
+<a name="9.42.3.1">9.42.3.1</a> Record details of an item’s custodial history if considered important. Include the names of former owners and approximate dates, whenever possible.
 
 >Example:  
 ><CITE>Former owner: Alfred Barrion</CITE>
@@ -42,4 +44,4 @@ sidebar:
 >Example:  
 ><CITE>British Library copy: Part of King George III's Library. Donated to the nation by King George IV (1762-1830)</CITE>
 
-<a name="10.22.3.2">10.22.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [10.21.4.1](/DCRMR/additional-notes/Modification-of-item/#10.21.4.1)).
+<a name="9.42.3.2">9.42.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [10.21.4.1](/DCRMR/additional-notes/Modification-of-item/#10.21.4.1)).
