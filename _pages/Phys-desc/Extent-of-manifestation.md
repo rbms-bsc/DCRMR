@@ -109,7 +109,7 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 
 ### 5.20.6 Errata leaves
 
-<a name="5.20.6.1">5.20.6.1</a> Include errata leaves (but not errata slips) in the extent statement whether or not they are conjugate with another leaf of the manifestation. Record the presence of errata leaves and errata slips as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [7.232.5.1](/DCRMR/additional-notes/Supplementary-content/#7.232.5.1)).
+<a name="5.20.6.1">5.20.6.1</a> Include errata leaves (but not errata slips) in the extent statement whether or not they are conjugate with another leaf of the manifestation. Record the presence of errata leaves and errata slips as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [9.33.31.1](/DCRMR/additional-notes/Supplementary-content/#9.33.31.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>[2], 46, [2] pages</CITE>  
@@ -125,7 +125,7 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 * or connected by a catchword;  
 * or otherwise integral to the manifestation.  
 
-<a name="5.20.7.2">5.20.7.2</a> Record the presence of pages that contain only advertisements as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [7.232.4.1](/DCRMR/additional-notes/Supplementary-content/#7.232.4.1)).
+<a name="5.20.7.2">5.20.7.2</a> Record the presence of pages that contain only advertisements as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>iv, 188, [2] pages</CITE>  
