@@ -85,7 +85,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>University College Cork copy annotated "To W.C.C. from J J McC Xmas 1901" and in a different hand "From Jas J. M'Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950"</CITE>
 
-<a name="9.41.33.3">9.41.33.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/), [10.22.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#10.22.3.1)).
+<a name="9.41.33.3">9.41.33.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/), [9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1)).
 
 ## 9.41.35 Bindings
 
