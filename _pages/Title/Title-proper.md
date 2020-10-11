@@ -104,7 +104,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Example:  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
 >Note on title: <CITE>Title from Barbosa Machado.</CITE>  
->(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [7.223.4.1](/DCRMR/additional-notes/Manifestation-described-in/#7.223.4.1)).)
+>(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)).)
 
 ## 1.21.7 Title proper with supplementary or section designation or title
 
