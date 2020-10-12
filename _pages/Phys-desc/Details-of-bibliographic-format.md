@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.295.3 General rule 
 
-<a name="6.295.3.1">6.295.3.1</a> Record details of [Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [5.222.3.3](/DCRMR/phys-desc/Bibliographic-format/#5.222.3.3)).
+<a name="6.295.3.1">6.295.3.1</a> Record details of [Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [6.29.3.3](/DCRMR/phys-desc/Bibliographic-format/#6.29.3.3)).
 
 >Example:  
 ><CITE>Volume 1 is folio; volume 2 is 12mo</CITE>
