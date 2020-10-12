@@ -70,7 +70,7 @@ sidebar:
 
 ## 5.21.6 Differing sizes
 
-<a name="5.21.6.1">5.21.6.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [5.2101.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#5.2101.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.3](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.3)).
+<a name="5.21.6.1">5.21.6.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.3](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.3)).
 
 <a name="5.21.6.2">5.21.6.2</a> If the volumes of a multipart set differ in size, record the smallest or smaller size and the largest or larger size, separated by a hyphen.
 
