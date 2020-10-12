@@ -48,7 +48,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [5.202.7.1](/DCRMR/phys-desc/Illustrative-content/#5.202.7.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)), etc.
 
-3.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [5.21.3.1](/DCRMR/phys-desc/Dimensions/#5.21.3.1))
+3.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [6.24.3.1](/DCRMR/phys-desc/Dimensions/#6.24.3.1))
 
 >Example:  
 > <CITE>Accompanied by: 1 atlas (38 pages, 19 leaves of plates : colored maps ; 37 cm)</CITE>
