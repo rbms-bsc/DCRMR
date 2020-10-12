@@ -39,7 +39,7 @@ sidebar:
 
 ## 5.202.5 Graphic processes or techniques
 
-<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [5.213.3.1](/DCRMR/phys-desc/Production-method/#5.213.3.1)).  
+<a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
 
 <a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4)). 
 
