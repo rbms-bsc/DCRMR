@@ -30,5 +30,4 @@ sidebar:
 >Example:  
 ><CITE>Type 76G</CITE>
 
-<a name="5.223.3.2">5.223.3.2</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size](/DCRMR/phys-desc/Details-of-font-size/), [5.2232.3.1](/DCRMR/phys-desc/Details-of-font-size/#5.2232.3.1)).
-
+<a name="5.223.3.2">5.223.3.2</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size](/DCRMR/phys-desc/Details-of-font-size/), [6.315.3.1](/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)).
