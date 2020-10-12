@@ -7,25 +7,26 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.k6ceuqa04blg){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 5.22.1 Element information
+## 6.28.1 Element information
 
-<a name="5.22.1.1">5.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9f019737-be7b-32e0-b5ca-9604d2bc4255){:target="_blank"}
+<a name="6.28.1.1">6.28.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9f019737-be7b-32e0-b5ca-9604d2bc4255){:target="_blank"}
 
-<a name="5.22.1.2">5.22.1.2</a> [Source of information](/DCRMR/phys-desc/) 
+<a name="6.28.1.2">6.28.1.2</a> [Source of information](/DCRMR/phys-desc/) 
 
-## 5.22.2 RDA Definition and scope
+## 6.28.2 RDA Definition and scope
 
-<a name="5.22.2.1">5.22.2.1</a> An arrangement of text, images, tactile notation, etc., in a manifestation.
+<a name="6.28.2.1">6.28.2.1</a> An arrangement of text, images, tactile notation, etc., in a manifestation.
 
+## 6.28.3 General rule 
 
-## 5.22.3 General rule 
+<a name="6.28.3.1">6.28.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies: RDA Layout](http://www.rdaregistry.info/termList/layout/){:target="_blank"} and indicate the source.
 
-<a name="5.22.3.1">5.22.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies: RDA Layout](http://www.rdaregistry.info/termList/layout/){:target="_blank"} and indicate the source.
-
-<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
+<a name="6.28.3.2">6.28.3.2</a> Record more detailed descriptions of layout in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
