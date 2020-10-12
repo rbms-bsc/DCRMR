@@ -89,7 +89,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.41.35 Bindings
 
-<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [5.224.3.1](/DCRMR/phys-desc/Type-of-binding/#5.224.3.1)).
+<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
 
 <a name="9.41.35.2">9.41.35.2</a> Indicate any errors in binding if considered important.
 
