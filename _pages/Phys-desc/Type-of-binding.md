@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.32.2.1">6.32.2.1</a> A method used to bind a published or unpublished manifestation.
 
-## 5.224.3 General rule 
+## 6.32.3 General rule 
 
 <a name="6.32.3.1">6.32.3.1</a> Describe details of a publisher-issued binding if considered important.
 
