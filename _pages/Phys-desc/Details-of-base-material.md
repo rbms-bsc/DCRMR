@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.255.3 General rule  
 
-<a name="6.255.3.1">6.255.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [5.211.3.3](/DCRMR/phys-desc/Base-material/#5.211.3.3)).
+<a name="6.255.3.1">6.255.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [6.25.3.3](/DCRMR/phys-desc/Base-material/#6.25.3.3)).
 
 >Example:  
 ><CITE>Printed on vellum</CITE>
