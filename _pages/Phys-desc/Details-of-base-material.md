@@ -7,25 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.foacvwox5oia){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 5.2112.1 Manifestation: Details of base material
+## 6.255.1 Manifestation: Details of base material
 
-<a name="5.2112.1.1">5.2112.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35){:target="_blank"}
+<a name="6.255.1.1">6.255.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35){:target="_blank"}
 
-<a name="5.2112.1.2">5.2112.1.2</a> [Source of information](/DCRMR/phys-desc)
+<a name="6.255.1.2">6.255.1.2</a> [Source of information](/DCRMR/phys-desc)
 
-## 5.2112.2 RDA Definition and Scope
+## 6.255.2 RDA Definition and Scope
 
-<a name="5.2112.2.1">5.2112.2.1</a> Details of an underlying physical material of a manifestation.
+<a name="6.255.2.1">6.255.2.1</a> Details of an underlying physical material of a manifestation.
 
-## 5.2112.3 General rule  
+## 6.255.3 General rule  
 
-<a name="5.2112.3.1">5.211.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [5.211.3.3](/DCRMR/phys-desc/Base-material/#5.211.3.3)).
+<a name="6.255.3.1">6.255.3.1</a> Record details of [Base material](/DCRMR/phys-desc/Base-material/) if considered important (see [5.211.3.3](/DCRMR/phys-desc/Base-material/#5.211.3.3)).
 
 >Example:  
 ><CITE>Printed on vellum</CITE>
