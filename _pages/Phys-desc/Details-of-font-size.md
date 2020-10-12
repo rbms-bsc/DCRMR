@@ -7,20 +7,24 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.35qv7ipun34x){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 5.2232.1 Element information
+## 6.315.1 Element information
 
-<a name="5.2232.1.1">5.2232.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-d818f2c6-cced-357b-87ca-a4b482a249c4){:target="_blank"}
+<a name="6.315.1.1">6.315.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-d818f2c6-cced-357b-87ca-a4b482a249c4){:target="_blank"}
 
-## 5.2232.2 RDA Definition and scope
+<a name="6.315.1.2">6.315.1.2</a> [Sources of information](/DCRMR/phys-desc/)
 
-<a name="5.2232.2.1">5.2232.2.1</a> Details of a size of the type that is used to represent the characters and symbols in a manifestation.
+## 6.315.2 RDA Definition and scope
 
-## 5.2232.3 General rule 
+<a name="6.315.2.1">6.315.2.1</a> Details of a size of the type that is used to represent the characters and symbols in a manifestation.
 
-<a name="5.2232.3.1">5.2232.3.1</a> Record details of font size if considered important (see [Font size](/DCRMR/phys-desc/Font-size/), [5.223.3.2](/DCRMR/phys-desc/Font-size/#5.223.3.2)).
+## 6.315.3 General rule 
+
+<a name="6.315.3.1">6.315.3.1</a> Record details of font size if considered important (see [Font size](/DCRMR/phys-desc/Font-size/), [5.223.3.2](/DCRMR/phys-desc/Font-size/#5.223.3.2)).
