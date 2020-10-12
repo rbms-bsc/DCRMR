@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 1.	[Extent of the manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [5.20.3.1](/DCRMR/phys-desc/Extent-of-manifestation/#5.20.3.1)) 
 
-2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [5.202.7.1](/DCRMR/phys-desc/Illustrative-content/#5.202.7.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)), etc.
+2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [6.22.3.1](/DCRMR/phys-desc/Illustrative-content/#6.22.3.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)), etc.
 
 3.	[Dimensions](/DCRMR/phys-desc/Dimensions/) of the manifestation (see [6.24.3.1](/DCRMR/phys-desc/Dimensions/#6.24.3.1))
 

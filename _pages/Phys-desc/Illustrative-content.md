@@ -31,15 +31,15 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.22.21 DCRM Elaboration on scope
 
-### 5.202.3 Ornaments, etc.
+### 6.23.211 Ornaments, etc.
 
 <a name="6.23.211.1">6.23.211.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
 
-## 6.23.213 Illustrated title pages
+### 6.23.213 Illustrated title pages
 
 <a name="6.23.213.1">6.23.213.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
 
-## 6.23.215 Graphic processes or techniques
+### 6.23.215 Graphic processes or techniques
 
 <a name="6.23.215.1">6.23.215.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
 
