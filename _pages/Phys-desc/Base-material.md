@@ -35,4 +35,4 @@ sidebar:
 >Example:  
 ><CITE>Japan vellum</CITE>
 
-<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material](/DCRMR/phys-desc/Details-of-base-material/), [5.2112.3.1](/DCRMR/phys-desc/Details-of-base-material/#5.2112.3.1)).
+<a name="5.211.3.3">5.211.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material](/DCRMR/phys-desc/Details-of-base-material/), [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)).
