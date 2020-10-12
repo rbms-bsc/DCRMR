@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.41.25 Related element
 
-<a name="9.41.25.1">9.41.25.1</a> See [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) for information that applies to all copies or to particular groups of copies within an edition or issue (see [5.233.3.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.3.1)).
+<a name="9.41.25.1">9.41.25.1</a> See [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) for information that applies to all copies or to particular groups of copies within an edition or issue (see [6.355.3.1](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.1)).
 
 ## 9.41.3 General rule
 

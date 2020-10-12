@@ -58,4 +58,4 @@ sidebar:
 
 <a name="5.224.3.4">5.224.3.4</a> Record details pertaining to the binding of individual items as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)).
 
-<a name="5.224.3.5">5.224.3.5</a> Record details pertaining to containers issued with the manifestation as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [5.233.5.1](/DCRMR/phys-desc/Note-on-carrier/#5.233.5.1)).
+<a name="5.224.3.5">5.224.3.5</a> Record details pertaining to containers issued with the manifestation as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [6.355.32.1](/DCRMR/phys-desc/Note-on-carrier/#6.355.32.1)).
