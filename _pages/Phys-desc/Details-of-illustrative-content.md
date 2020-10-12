@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.225.2.1">6.225.2.1</a> Details of content intended to illustrate the primary content of an expression.
 
-## 5.203.3 General rule
+## 6.225.3 General rule
 
 <a name="6.225.3.1">6.225.3.1</a> Give fuller details of illustrative content if considered important. 
 
