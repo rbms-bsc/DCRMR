@@ -31,17 +31,17 @@ sidebar:
 
 ## 5.202.3 Ornaments, etc.
 
-<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.2)). 
+<a name="5.202.3.1">5.202.3.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
 
 ## 5.202.4 Illustrated title pages
 
-<a name="5.202.4.1">5.202.4.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.3)).
+<a name="5.202.4.1">5.202.4.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
 
 ## 5.202.5 Graphic processes or techniques
 
 <a name="5.202.5.1">5.202.5.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
 
-<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.4)). 
+<a name="5.202.5.2">5.202.5.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
 
 ## 5.202.6 Color illustrations
 
@@ -102,7 +102,7 @@ sidebar:
 
 # 5.202.9 Illustrations in pockets and on endpapers
 
-<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/additional-notes/Supplementary-content/), [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/), [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.5)).  
+<a name="5.202.9.1">5.202.9.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/additional-notes/Supplementary-content/), [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/), [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.5)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -110,7 +110,7 @@ sidebar:
 
 # 5.202.91 Illustrations on endpapers
 
-<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [5.203.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#5.203.3.6)).  
+<a name="5.202.91.1">5.202.91.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.6)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
