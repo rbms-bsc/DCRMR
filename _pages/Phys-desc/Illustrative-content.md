@@ -47,9 +47,9 @@ sidebar:
 
 <a name="5.202.6.1">5.202.6.1</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)) for controlled terms for color content of illustrations.
 
-<a name="5.202.6.2">5.202.6.2</a> See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.3.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.3.1)) for fuller details on color content of illustrations.
+<a name="5.202.6.2">5.202.6.2</a> See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.3.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.3.1)) for fuller details on color content of illustrations.
 
-<a name="5.202.6.3">5.202.6.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([5.205.5.1](/DCRMR/phys-desc/Details-of-color-content/#5.205.5.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)) for hand-colored manifestations not issued as such.
+<a name="5.202.6.3">5.202.6.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([5.204.6.1](/DCRMR/phys-desc/Color-content/#5.204.6.1)) for controlled terms for hand-coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)) for hand-colored manifestations not issued as such.
 
 # 5.202.7 General rule
 
