@@ -39,4 +39,4 @@ sidebar:
 ><CITE>etching</CITE>  
 >(*Comment*: Print done in aquatint with some etching)
 
-<a name="5.213.3.3">5.213.3.3</a> Make a note recording more detailed descriptions of the processes or techniques used to produce a manifestation in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) if considered important (see [5.2132.3.1](/DCRMR/phys-desc/Details-of-production-method/#5.2132.3.1)).
+<a name="5.213.3.3">5.213.3.3</a> Make a note recording more detailed descriptions of the processes or techniques used to produce a manifestation in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) if considered important (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
