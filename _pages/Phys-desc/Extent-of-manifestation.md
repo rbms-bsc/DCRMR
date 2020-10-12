@@ -74,7 +74,7 @@ See [5.20.96](/DCRMR/phys-desc/Extent-of-manifestation/#52096-sheets-rolls-cases
 
 ### 5.20.5 Unnumbered pages or leaves
 
-<a name="5.20.5.1">5.20.5.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) (see [5.221.3.1](/DCRMR/phys-desc/Details-of-layout/#5.221.3.1)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
+<a name="5.20.5.1">5.20.5.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
 
 > Example:  
 > <CITE>[4], 52 pages</CITE>
@@ -331,7 +331,7 @@ If the portfolio or case was not issued with the resource, record the extent in 
 > <CITE>1 sheet ([1] page)</CITE>   
 > (*Comment*: Broadside or other sheet printed on one side, unnumbered)  
 
-<a name="5.20.97.2">5.20.97.2</a> For a manifestation consisting of a single sheet folded into multiple panels,  record the number of physical panels on one side of the sheet when unfolded. Include both blank panels and panels containing text or illustrations in the count. Enclose the number in square brackets if the panels are unnumbered. Record features of the sheet’s layout (including the numbering of the panels) in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [5.221.3.1](/DCRMR/phys-desc/Details-of-layout/#5.221.3.1)).
+<a name="5.20.97.2">5.20.97.2</a> For a manifestation consisting of a single sheet folded into multiple panels,  record the number of physical panels on one side of the sheet when unfolded. Include both blank panels and panels containing text or illustrations in the count. Enclose the number in square brackets if the panels are unnumbered. Record features of the sheet’s layout (including the numbering of the panels) in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>1 folded sheet ([18] panels)</CITE>  

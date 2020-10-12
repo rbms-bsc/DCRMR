@@ -28,4 +28,4 @@ sidebar:
 
 <a name="5.22.3.1">5.22.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies: RDA Layout](http://www.rdaregistry.info/termList/layout/){:target="_blank"} and indicate the source.
 
-<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [5.221.3.1](/DCRMR/phys-desc/Details-of-layout/#5.221.3.1)).
+<a name="5.22.3.2">5.22.3.2</a> Record more detailed descriptions of layout in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
