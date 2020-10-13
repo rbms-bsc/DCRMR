@@ -73,7 +73,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.31.35 Place names that are grammatically inseparable parts of other elements 
 
-<a name="5.31.35.1">5.31.35.1</a> If the place of manufacture appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of manufacture in square brackets (see [4.22.7.3](/DCRMR/ppdm/Manufacture-statement/#4.22.7.3)). Use a modern English form of the name, if there is one.
+<a name="5.31.35.1">5.31.35.1</a> If the place of manufacture appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of manufacture in square brackets (see [5.29.34.3](/DCRMR/ppdm/Manufacture-statement/#5.29.34.3)). Use a modern English form of the name, if there is one.
 
 ## 5.31.36 Fictitious or incorrect places of manufacture
 

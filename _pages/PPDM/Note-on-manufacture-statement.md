@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.31.3">5.34.31.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
 
-<a name="5.34.31.4">5.34.31.4</a>  Make a note if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [4.22.4.1](/DCRMR/ppdm/Manufacture-statement/#4.22.4.1)). 
+<a name="5.34.31.4">5.34.31.4</a>  Make a note if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.29.31.1](/DCRMR/ppdm/Manufacture-statement/#5.29.31.1)). 
 
 ## 5.34.32 Notes from Place of manufacture
 

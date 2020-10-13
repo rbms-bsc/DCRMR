@@ -88,7 +88,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.216 Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/)
 
-[Chapter 4.22 Manufacture statement](/DCRMR/ppdm/Manufacture-statement/)
+[Chapter 5.29 Manufacture statement](/DCRMR/ppdm/Manufacture-statement/)
 
 [Chapter 5.31 Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/)
 
