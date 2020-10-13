@@ -49,28 +49,28 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.33 Notes from Name of manufacturer
 
-<a name="5.34.33.1">5.34.33.1</a> *Optionally*, make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1)).
+<a name="5.34.33.1">5.34.33.1</a> *Optionally*, make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
 
-<a name="5.34.33.2">5.34.33.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [4.223.5.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.2)).
+<a name="5.34.33.2">5.34.33.2</a> Make a note as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
 >Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
 
-<a name="5.34.33.3">5.34.33.3</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [4.223.6.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.6.1)).
+<a name="5.34.33.3">5.34.33.3</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis in the note (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
 
-<a name="5.34.33.4">5.34.33.4</a> When following the option at [4.223.6.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.223.6.2), make a note giving the basis for the correction or clarification (see [4.223.6.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.6.2)).
+<a name="5.34.33.4">5.34.33.4</a> When following the option at [5.32.33.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.32.33.2), make a note giving the basis for the correction or clarification (see [5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2)).
 
-<a name="5.34.33.5">5.34.33.5</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, transcribe the [Manufacturer statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.8.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.8.1)).
+<a name="5.34.33.5">5.34.33.5</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, transcribe the [Manufacturer statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 
-<a name="5.34.33.6">5.34.33.6</a> Make a note if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.9.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.9.1)).
+<a name="5.34.33.6">5.34.33.6</a> Make a note if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
 
 ## 5.34.34 Notes from Parallel name of manufacturer
 
-<a name="5.34.34.1">5.34.34.1</a> Make a note if parallel manufacturer names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.2)).
+<a name="5.34.34.1">5.34.34.1</a> Make a note if parallel manufacturer names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1)).
 
-<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacuter](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
+<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacuter](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
 
 ## 5.34.35 Notes from Parallel place of manufacture
 

@@ -94,7 +94,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.222 Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/)
 
-[Chapter 4.223 Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/)
+[Chapter 5.32 Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/)
 
 [Chapter 5.325 Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)
 

@@ -94,7 +94,7 @@ sidebar:
 
 ## 4.221.98 Place of manufacture supplied based on address or sign
 
-<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
+<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
 
 ## 4.221.99 Place of manufacture uncertain or unknown
 
