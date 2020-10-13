@@ -92,7 +92,7 @@ sidebar:
 >Note on publication statement: <CITE>The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.230.8.1](/DCRMR/ppdm/Name-of-publisher/#4.203.8.1)).
+<a name="4.206.5.4">4.206.5.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.8.1](/DCRMR/ppdm/Name-of-publisher/#4.203.8.1)).
 
 <a name="4.206.5.5">4.206.5.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied publisher, give supporting evidence in a note (see [4.203.9.1](/DCRMR/ppdm/Name-of-publisher/#4.203.9.1)).
 
