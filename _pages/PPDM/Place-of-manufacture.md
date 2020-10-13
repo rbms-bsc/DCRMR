@@ -65,7 +65,7 @@ sidebar:
 
 ## 4.221.9 Places of manufacture in multipart monographs
 
-<a name="4.221.9.1">4.221.9.1</a> If the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication, give the place of manufacture of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.1)).
+<a name="4.221.9.1">4.221.9.1</a> If the manifestation is issued in more than one physical part, and the place of manufacture changes in the course of publication, give the place of manufacture of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.32.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.1)).
 
 ## 4.221.95 Place names that are grammatically inseparable parts of other elements 
 
@@ -73,9 +73,9 @@ sidebar:
 
 ## 4.221.96 Fictitious or incorrect places of manufacture
 
-<a name="4.221.96.1">4.221.96.1</a> If the place of manufacture appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.2)).
+<a name="4.221.96.1">4.221.96.1</a> If the place of manufacture appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.32.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.2)).
 
-<a name="4.221.96.2">4.221.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.4.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.3)).
+<a name="4.221.96.2">4.221.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.32.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.3)).
 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
@@ -88,13 +88,13 @@ sidebar:
 ><CITE>Lugduni [Lyon]</CITE>
 
 ## 4.221.97 No place of manufacture
-<a name="4.221.97.1">4.221.97.1</a> If no place of manufacture appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed manufacturer if one is present. Provide a justification for the supplied place in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
+<a name="4.221.97.1">4.221.97.1</a> If no place of manufacture appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed manufacturer if one is present. Provide a justification for the supplied place in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
 
 <a name="4.221.97.2">4.221.97.2</a> If the name of the place of manufacture has changed over time, supply the name appropriate to the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction.
 
 ## 4.221.98 Place of manufacture supplied based on address or sign
 
-<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [4.226.4.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.4)).
+<a name="4.221.98.1">4.221.98.1</a> Supply in square brackets the name of the place of manufacture using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [4.223.5.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.5.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
 
 ## 4.221.99 Place of manufacture uncertain or unknown
 
@@ -102,10 +102,10 @@ sidebar:
 
 <a name="4.221.99.2">4.221.99.2</a> If no city of manufacture can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern English form of the name, if there is one, all in square brackets.
 
-<a name="4.221.99.3">4.221.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [4.226.4.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.4.5)). 
+<a name="4.221.99.3">4.221.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.5)). 
 
 <a name="4.221.99.4">4.221.99.4</a> If no place of manufacture can be conjectured, record “Place of manufacture not identified” in square brackets.
 
 ## 4.221.995 Place names in more than one language or script
 
-<a name="4.221.995.1">4.221.995.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel statements of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [4.226.7.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.7.1)).
+<a name="4.221.995.1">4.221.995.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel statements of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).

@@ -66,7 +66,7 @@ sidebar:
 
 ## 4.223.5 Names of manufacturers containing only addresses, signs, or initials
 
-<a name="4.223.5.1">4.223.5.1</a> If only the address, sign, or initials of the manufacturer, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of manufacturer. If the manufacturer’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.1](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.1)).
+<a name="4.223.5.1">4.223.5.1</a> If only the address, sign, or initials of the manufacturer, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of manufacturer. If the manufacturer’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Cuchet] Rue et Hôtel serpente</CITE>  
@@ -82,7 +82,7 @@ sidebar:
 >Note on manufacture statement: <CITE>Printed by R. Badger according to the STC</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the manufacturer description)
 
-<a name="4.223.5.2">4.223.5.2</a> If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [4.226.5.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.2)).
+<a name="4.223.5.2">4.223.5.2</a> If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [5.34.33.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.2)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
@@ -91,9 +91,9 @@ sidebar:
 
 ## 4.223.6 Fictitious name of manufacturer
 
-<a name="4.223.6.1">4.223.6.1</a> If the name of manufacturer is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.3](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.3)).
+<a name="4.223.6.1">4.223.6.1</a> If the name of manufacturer is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.3)).
 
-<a name="4.223.6.2">4.223.6.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.4](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.4)).
+<a name="4.223.6.2">4.223.6.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.4)).
 
 >Example:  
 ><CITE>printed by Edes & Gill, for Buckley [that is, Bulkeley] Emerson, of Newbury-Port</CITE>
@@ -121,11 +121,11 @@ sidebar:
 
 ## 4.223.8 Names of manufacturers in multipart monographs
 
-<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.5](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.5)).
+<a name="4.223.8.1">4.223.8.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.5)).
 
 ## 4.223.9 Supplied and conjectured names of manufacturers
 
-<a name="4.223.9.1">4.223.9.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [4.226.5.6](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.5.6)).
+<a name="4.223.9.1">4.223.9.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.6)).
 
 ## 4.223.95 No supplied name of manufacturer
 
@@ -143,4 +143,4 @@ If transcribing a manufacturer's  name as part of another element, do not abridg
 
 ## 4.223.97 Manufacturer names in more than one language or script
 
-<a name="4.223.97.1">4.223.97.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [4.226.6.2](/DCRMR/ppdm/Note-on-manufacture-statement/#4.226.6.2)).
+<a name="4.223.97.1">4.223.97.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
