@@ -17,7 +17,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 
 ## 10.23.1 Element information
 
-<a name="10.23.1.1">10.23.1.1</a> [Link to RDA Toolkit](https://docs.google.com/document/d/10Yf7gG7DYq6kHGka-oq2ofS87oQ5G-6-GQWzBzOFpu4/edit){:target="_blank"}
+<a name="10.23.1.1">10.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6675ffdb-720d-3cba-a10a-4ff166ec6f6d){:target="_blank"}
 
 <a name="10.23.1.2">10.23.1.2</a> [Sources of information](/DCRMR/identifiers/)
 
