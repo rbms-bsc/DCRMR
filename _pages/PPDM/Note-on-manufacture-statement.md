@@ -37,15 +37,15 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.32 Notes from Place of manufacture
 
-<a name="5.34.32.1">5.34.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) changes in the course of publication by giving the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) of the later part(s) (see [4.221.9.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.9.1)).
+<a name="5.34.32.1">5.34.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) changes in the course of publication by giving the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) of the later part(s) (see [5.31.34.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.34.1)).
 
-<a name="5.34.32.2">5.34.32.2</a> Make a note on manufacture statement giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [4.221.96.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.1)).
+<a name="5.34.32.2">5.34.32.2</a> Make a note on manufacture statement giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [5.31.36.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.1)).
 
-<a name="5.34.32.3">5.34.32.3</a> When following the option at [4.221.96.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.2), give the basis for the correction or clarification in a note (see [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.96.2](/DCRMR/ppdm/Place-of-manufacture/#4.221.96.2)).
+<a name="5.34.32.3">5.34.32.3</a> When following the option at [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2), give the basis for the correction or clarification in a note (see [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2)).
 
-<a name="5.34.32.4">5.34.32.4</a> Make a note when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [4.221.98.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.98.1)).
+<a name="5.34.32.4">5.34.32.4</a> Make a note when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
-<a name="5.34.32.5">5.34.32.5</a> Make a note if the reason for supplying the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) is not apparent from the rest of the description to indicate the source of the information (see [4.221.99.3](/DCRMR/ppdm/Place-of-manufacture/#4.221.99.3)).
+<a name="5.34.32.5">5.34.32.5</a> Make a note if the reason for supplying the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) is not apparent from the rest of the description to indicate the source of the information (see [5.31.385.3](/DCRMR/ppdm/Place-of-manufacture/#5.31.385.3)).
 
 ## 5.34.33 Notes from Name of manufacturer
 
@@ -74,7 +74,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.35 Notes from Parallel place of manufacture
 
-<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.995.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.995.1))
+<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
 
 ## 5.34.36 Notes from Date of manufacture
 
