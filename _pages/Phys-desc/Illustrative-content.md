@@ -158,7 +158,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.37.2">6.22.37.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally*, when the illustrations are chiefly of a particular type (see [5.202.8.3](/DCRMR/phys-desc/Illustrative-content/#5.202.8.3)), precede the term specifying the particular type with "chiefly".              
+*Optionally*, when the illustrations are chiefly of a particular type (see [ 6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".              
 >Example:  
 > <CITE>chiefly illustrations</CITE>
 
