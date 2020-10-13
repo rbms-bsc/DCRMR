@@ -78,7 +78,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.211 Place of distribution](/DCRMR/ppdm/Place-of-distribution/)
 
-[Chapter 4.212 Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/)
+[Chapter 5.265 Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/)
 
 [Chapter 4.213 Name of distributor](/DCRMR/ppdm/Name-of-distributor/)
 

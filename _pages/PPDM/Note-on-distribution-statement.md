@@ -92,7 +92,7 @@ sidebar:
 
 ## 4.216.7 Notes from Parallel place of distribution
 
-<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [4.212.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#4.212.3.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
+<a name="4.216.7.1">4.216.7.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
 
 ## 4.216.8 Notes from Date of distribution
 
