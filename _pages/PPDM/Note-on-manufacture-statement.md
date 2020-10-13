@@ -74,7 +74,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.35 Notes from Parallel place of manufacture
 
-<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [4.222.3.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#4.222.3.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.995.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.995.1))
+<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [4.221.995.1](/DCRMR/ppdm/Place-of-manufacture/#4.221.995.1))
 
 ## 5.34.36 Notes from Date of manufacture
 
