@@ -68,9 +68,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.34 Notes from Parallel name of manufacturer
 
-<a name="5.34.34.1">5.34.34.1</a> Make a note if parallel manufacturer names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [4.224.3.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#4.224.3.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.2)).
+<a name="5.34.34.1">5.34.34.1</a> Make a note if parallel manufacturer names are found on a different source as the name of manufacture if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.2](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.2)).
 
-<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacuter](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [4.224.3.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#4.224.3.2)).
+<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacuter](/DCRMR/ppdm/Name-of-manufacturer/), [4.223.97.1](/DCRMR/ppdm/Name-of-manufacturer/#4.223.97.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
 
 ## 5.34.35 Notes from Parallel place of manufacture
 
