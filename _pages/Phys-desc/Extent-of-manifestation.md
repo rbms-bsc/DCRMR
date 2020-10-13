@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.21.2.1">6.21.2.1</a> A number and type of unit or subunit of a manifestation.
 
-<a name="6.21.2.2">6.21.2.2</a> [Source of information](/DCRMR/phys-desc/)
+<a name="6.21.2.2">6.21.2.2</a> [Sources of information](/DCRMR/phys-desc/)
 
 ## 6.21.4 Extent of text
 

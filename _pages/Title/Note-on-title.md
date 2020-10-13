@@ -17,7 +17,7 @@ sidebar:
 
 <a name="1.27.1.1">1.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-612acb20-84fb-3558-86b9-f75430e39843){:target="_blank"}
 
-<a name="1.27.1.2">1.27.1.2</a> [Source of information](/DCRMR/title/)
+<a name="1.27.1.2">1.27.1.2</a> [Sources of information](/DCRMR/title/)
 
 <a name="1.27.1.3">1.27.1.3</a> Notes on title are required unless qualified by "if considered important."
 

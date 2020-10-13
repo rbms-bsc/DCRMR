@@ -17,7 +17,7 @@ sidebar:
 
 <a name="4.203.1.1">4.203.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-8fb9e501-1ef9-3b1f-9afa-078737576947){:target="_blank"}
 
-<a name="4.203.1.2">4.203.1.2</a> [Source of information](/DCRMR/ppdm/)
+<a name="4.203.1.2">4.203.1.2</a> [Sources of information](/DCRMR/ppdm/)
 
 ## 4.203.2 RDA Definition and scope
 

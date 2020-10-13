@@ -17,7 +17,7 @@ sidebar:
 
 <a name="3.27.1.1">3.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-25f4533f-8def-3228-a74f-4a1f0d57426f){:target="_blank"}
 
-<a name="3.27.1.2">3.27.1.2</a> [Source of information](/DCRMR/edition/)
+<a name="3.27.1.2">3.27.1.2</a> [Sources of information](/DCRMR/edition/)
 
 ## 3.27.2 RDA definition and scope
 
