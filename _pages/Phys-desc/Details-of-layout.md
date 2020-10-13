@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>
 
-<a name="6.285.31.2">6.285.31.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.20.4.1)) or full collation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [5.201.4.93](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#5.201.4.93)).
+<a name="6.285.31.2">6.285.31.2</a> **Alternative rule**. Record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.31.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.1)) or full collation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.31.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.85)).
 
 <a name="6.285.31.3">6.285.31.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 
