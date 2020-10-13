@@ -177,7 +177,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 For guidance on recording the chronogram as a date element, see the instructions for specific types of dates as follows:
 * For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [4.205.4.2](/DCRMR/ppdm/Date-of-publication/#4.205.4.2)
 * For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/ ), see [4.215.4.2](/DCRMR/ppdm/Date-of-distribution/#4.215.4.2)
-* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [4.225.5.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.5.2)
+* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)
 
 ## 0.5.3 Punctuation
 
@@ -758,7 +758,7 @@ Make an explanatory note.
 See the instructions for specific types of dates as follows:
 * For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [4.205.4](/DCRMR/ppdm/Date-of-publication/#42054-transcription-involving-adjustments-or-additions)
 * For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), see [4.215.4](/DCRMR/ppdm/Date-of-distribution/#42154-transcription-involving-adjustments-or-additions)
-* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [4.225.5](/DCRMR/ppdm/Date-of-manufacture/#42255-transcription-involving-adjustments-or-additions)
+* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [5.33.352](/DCRMR/ppdm/Date-of-manufacture/#533352-transcription-involving-adjustments-or-additions)
 
 ## 0.5.9 Intra- and inter-element rules
 

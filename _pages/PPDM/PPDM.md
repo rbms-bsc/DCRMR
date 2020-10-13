@@ -98,7 +98,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.224 Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)
 
-[Chapter 4.225 Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/)
+[Chapter 5.33 Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/)
 
 [Chapter 5.34 Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/)
 

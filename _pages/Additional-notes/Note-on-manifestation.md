@@ -119,7 +119,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.36.2">9.3.36.2</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.215.6.2](/DCRMR/ppdm/Date-of-distribution/#4.215.6.2)).
 
-<a name="9.3.36.3">9.3.36.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.255.7.2](/DCRMR/ppdm/Date-of-manufacture/#4.225.7.2)).
+<a name="9.3.36.3">9.3.36.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
 
 # 9.3.37 Notes on imperfect exemplars
 
