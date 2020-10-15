@@ -177,7 +177,7 @@ sidebar:
 
 ## 4.211.98 Place of distribution supplied based on address or sign
 
-<a name="4.211.98.1">4.211.98.1</a> Supply in square brackets the name of the place of distribution using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [4.213.5.1](/DCRMR/ppdm/Name-of-distributor/#4.213.5.1).) When supplying the place, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
+<a name="4.211.98.1">4.211.98.1</a> Supply in square brackets the name of the place of distribution using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
