@@ -97,7 +97,7 @@ docs:
     url: /mathematical-details/
     children:
       - title: "Details of cartographic content"
-        url: /mathematical-details/details of cartographic content/
+        url: /mathematical-details/Details-of-cartographic-content/
         
   - title: "Chapter 5. Production Publication Distribution Manufacture"
     url: /ppdm/
