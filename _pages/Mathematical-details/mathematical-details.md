@@ -3,6 +3,7 @@ layout: single
 type: docs
 title: Mathematical details
 permalink: /mathematical-details/
+permalink: mathematical-details/
   nav: "docs"
 ---
 
