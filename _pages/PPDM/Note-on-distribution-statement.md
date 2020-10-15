@@ -90,9 +90,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.34 Notes from Parallel name of distributor
 
-<a name="5.285.34.1">5.285.34.1</a> Make a note if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
+<a name="5.285.34.1">5.285.34.1</a> Make a note if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.2](/DCRMR/ppdm/Name-of-distributor/#4.213.97.2)).
 
-<a name="5.285.34.2">5.285.34.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [4.214.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#4.214.3.2)).
+<a name="5.285.34.2">5.285.34.2</a> Make a note if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [4.213.97.1](/DCRMR/ppdm/Name-of-distributor/#4.213.97.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
 ## 5.285.35 Notes from Parallel place of distribution
 
