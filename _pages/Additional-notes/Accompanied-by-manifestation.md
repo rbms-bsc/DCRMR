@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.31.1.1">9.31.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-c700044a-97ee-3f4b-8ac3-2139c2e827ca){:target="_blank"}
 
-<a name="9.31.1.2">9.31.1.2</a> [Sources of information](/DCRMR/additional-notes/)
+<a name="9.31.1.2">9.31.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
 ## 9.31.2 RDA definition and scope
 

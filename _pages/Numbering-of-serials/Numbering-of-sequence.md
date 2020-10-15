@@ -3,7 +3,6 @@ layout: single
 type: docs
 title: Numbering of serials
 permalink: numbering-of-serials/Numbering-of-sequence/
-permalink: /numbering-of-serials/
 sidebar:
   nav: "docs"
 ---

@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.45.1.1">9.45.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-8d40285a-4a24-3b4f-9792-681d99d9a8bc){:target="_blank"}
 
-<a name="9.45.1.2">9.45.1.2</a> [Sources of information](/DCRMR/additional-notes/)
+<a name="9.45.1.2">9.45.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
 ## 9.45.2 RDA definition and scope
 
@@ -43,7 +43,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 2. the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
 
-3. the primary [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+3. the primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
 
 4. the [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 

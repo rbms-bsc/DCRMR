@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.27.1.1">6.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9bdf25b8-f2f7-31d1-a3a0-7f416e4bc667){:target="_blank"}
 
-<a name="6.27.1.2">6.27.1.2</a> [Sources of information](/DCRMR/phys-desc/)
+<a name="6.27.1.2">6.27.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
 ## 6.27.2 RDA definition and scope
 
