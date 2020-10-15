@@ -35,12 +35,12 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.34.3 General rule
 
-<a name="9.34.3.1">9.34.3.1</a>  Record this relationship as a [Structured note](https://rbms-bsc.github.io/DCRMR/404), beginning with “Issued with” followed by a colon. List the related manifestations, in the order in which they are found. In the case of bound volumes, list all related manifestations in the description for the first manifestation and, in general, only the first manifestations in the descriptions for the subsequent manifestations. 
+<a name="9.34.3.1">9.34.3.1</a>  Record this relationship as a structured note beginning with “Issued with” followed by a colon. List the related manifestations, in the order in which they are found. In the case of bound volumes, list all related manifestations in the description for the first manifestation and, in general, only the first manifestations in the descriptions for the subsequent manifestations. 
 
 <a name="9.34.3.2">9.34.3.2</a> For each manifestation listed, give only the elements listed below:
 1. the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)
 1. the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
-1. the primary [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+1. the primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
 the manifestation [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
 >Example:  
