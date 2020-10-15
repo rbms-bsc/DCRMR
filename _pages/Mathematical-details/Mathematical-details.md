@@ -2,8 +2,8 @@
 layout: single
 type: docs
 title: Details of cartographic content
-permalink: /mathematical-details/
 permalink: mathematical-details/
+permalink: /mathematical-details/
   nav: "docs"
 ---
 
