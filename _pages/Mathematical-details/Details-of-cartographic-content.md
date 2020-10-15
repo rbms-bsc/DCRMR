@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Mathematical details
+title: Details of cartographic content
 permalink: mathematical-details/Details-of-cartographic-content/
 sidebar:
   nav: "docs"
