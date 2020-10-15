@@ -54,7 +54,7 @@ sidebar:
 
 >Example:  
 ><CITE>In Boston, printed</CITE>  
->(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of [4.215.3.2](/DCRMR/ppdm/Date-of-distribution/#4.215.3.2) “printed” is here transcribed with the place)
+>(*Comment*: Title page reads: “In Boston, printed. 1705.” Following provisions of [5.28.3.2](/DCRMR/ppdm/Date-of-distribution/#5.28.3.2) “printed” is here transcribed with the place)
 
 >Example:  
 ><CITE>Printed at Bennington</CITE>

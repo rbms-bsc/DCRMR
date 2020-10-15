@@ -84,7 +84,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.214 Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)
 
-[Chapter 4.215 Date of distribution](/DCRMR/ppdm/Date-of-distribution/)
+[Chapter 5.28 Date of distribution](/DCRMR/ppdm/Date-of-distribution/)
 
 [Chapter 5.285 Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/)
 
