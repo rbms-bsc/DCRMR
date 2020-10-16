@@ -106,9 +106,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.34 Notes from Parallel name of publisher
 
-<a name="5.24.34.1">5.24.34.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1)).
+<a name="5.24.34.1">5.24.34.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1)).
 
-<a name="5.24.34.2">5.24.34.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [4.204.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#4.204.3.2)).
+<a name="5.24.34.2">5.24.34.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
 
 ## 5.24.35 Notes from Parallel place of publication
 
