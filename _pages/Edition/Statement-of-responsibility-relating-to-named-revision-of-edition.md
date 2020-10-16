@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 <a name="x3.25.3.1">x3.25.3.1</a> Transcribe a statement of responsibility relating to a named revision of an edition as such.
 
-<a name="x3.25.3.2">x3.25.3.2</a>  Transcribe such statements of responsibility according to the instructions for [Statement of responsibility relating to an edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) (see [3.23.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.3.1)).
+<a name="x3.25.3.2">x3.25.3.2</a>  Transcribe such statements of responsibility according to the instructions for [Statement of responsibility relating to an edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) (see [x3.23.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#x3.23.3.1)).
 
 ## x3.25.31 Statements of responsibility relating to named edition in more than one language or script
 
