@@ -74,7 +74,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.206 Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
 
-[Chapter 4.21 Distribution statement](/DCRMR/ppdm/Distribution-statement/)
+[Chapter 5.25 Distribution statement](/DCRMR/ppdm/Distribution-statement/)
 
 [Chapter 5.26 Place of distribution](/DCRMR/ppdm/Place-of-distribution/)
 

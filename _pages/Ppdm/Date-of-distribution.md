@@ -137,4 +137,4 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="5.28.36.1">5.28.36.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.9](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.9)). 
 
-If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.215.4.6](#4.215.4.6).
+If, however, one of these dates is a more accurate reflection of the actual date of distribution, than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.28.31.4](#5.28.31.4).

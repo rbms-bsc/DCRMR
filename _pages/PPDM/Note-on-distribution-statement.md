@@ -37,7 +37,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
 >Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
 
-<a name="5.285.31.5">5.285.31.5</a> Make a note if any of the original details relating to the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [4.21.4.1](/DCRMR/ppdm/Distribution-statement/#4.21.4.1)).
+<a name="5.285.31.5">5.285.31.5</a> Make a note if any of the original details relating to the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.25.32.1](/DCRMR/ppdm/Distribution-statement/#5.25.32.1)).
 
 ## 5.285.32 Notes from Place of distribution
 

@@ -145,7 +145,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.35 Place names that are grammatically inseparable parts of other elements 
 
-<a name="5.26.35.1">5.26.35.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [4.21.7.3](/DCRMR/ppdm/Distribution-statement/#4.21.7.3)). Use a modern English form of the name, if there is one.
+<a name="5.26.35.1">5.26.35.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern English form of the name, if there is one.
 
 >Example:  
 ><CITE>[Munich] : Durch Peter Clement, Kunstführer zu München</CITE>

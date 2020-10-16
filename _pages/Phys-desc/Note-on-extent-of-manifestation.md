@@ -92,13 +92,13 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > Extent of manifestation: <CITE>112 pages, [1] leaf of plates</CITE>  
 > Note on extent of manifestation: <CITE>Plate has engraved title page on recto and blank verso</CITE>
 
-<a name="6.215.3.6">6.215.3.6</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [4.21.427.1](/DCRMR/phys-desc/Extent-of-manifestation/#4.21.427.1)).
+<a name="6.215.3.6">6.215.3.6</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [6.21.427.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.427.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>The folded leaves are letterpress tables not included in signature statement</CITE>
 
-<a name="6.215.3.65">6.215.3.65</a> Always record the presence of double leaves in a note on extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [4.21.4275.1](/DCRMR/phys-desc/Extent-of-manifestation/#4.21.4275.1)).
+<a name="6.215.3.65">6.215.3.65</a> Always record the presence of double leaves in a note on extent of manifestation (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [6.21.4275.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4275.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>[2], 86, [2] pages</CITE>  

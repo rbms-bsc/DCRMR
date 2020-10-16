@@ -233,7 +233,7 @@ If the manifestation is numbered as leaves, but printed as pages (see [6.21.424.
 
 #### 6.21.426 Leaves or pages of plates
 
-<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. For a  plate folded and bound at the inner margin (see [4.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#4214275-double-leaves)). Count unnumbered leaves or pages of plates without regard for the terms used to describe the rest of the manifestation (accordingly, leaves of plates may follow sequences of pages and pages of plates may follow sequences of leaves).
+<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. For a  plate folded and bound at the inner margin (see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#6214275-double-leaves)). Count unnumbered leaves or pages of plates without regard for the terms used to describe the rest of the manifestation (accordingly, leaves of plates may follow sequences of pages and pages of plates may follow sequences of leaves).
 
 > Example:  
 > <CITE>viii, 132 pages, iv pages of plates</CITE> 
@@ -265,9 +265,9 @@ If the manifestation is numbered as leaves, but printed as pages (see [6.21.424.
 
 <a name="6.21.426.5">6.21.426.5</a> As a last resort, if a manifestation’s gatherings cannot be ascertained, or it is otherwise difficult to tell whether a leaf constitutes a plate, record it in terms of pages or leaves of plates if unnumbered and pages or leaves of text if included in the numbering sequence of the text.
 
-#### 4.21.427 Folded leaves
+#### 6.21.427 Folded leaves
 
-<a name="4.21.427.1">4.21.427.1</a> Record folded leaves as leaves or pages of plates. Count a plate folded and bound at the inner margin as two leaves of plates. Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves if considered important (see [6.215.3.6](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.6)).
+<a name="6.21.427.1">6.21.427.1</a> Record folded leaves as leaves or pages of plates. Count a plate folded and bound at the inner margin as two leaves of plates. Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves if considered important (see [6.215.3.6](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.6)).
 
 >Example:  
 > <CITE>[8], 30, [8], 31-213, [3] pages, [3] folded leaves of plates</CITE>
@@ -282,9 +282,9 @@ If the manifestation is numbered as leaves, but printed as pages (see [6.21.424.
 > Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>The folded leaves are letterpress tables not included in signature statement</CITE>
 
-#### 4.21.4275 Double leaves
+#### 6.21.4275 Double leaves
 
-<a name="4.21.4275.1">4.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.3.65](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.65)).
+<a name="6.21.4275.1">6.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.3.65](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.65)).
 
 >Example:  
 > Extent of manifestation: <CITE>[2], 86, [2] pages</CITE>  
