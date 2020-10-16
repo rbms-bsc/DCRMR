@@ -45,7 +45,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [that is, Brussels : Jules Gay, 1866]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint from: Pia, P. Livres de l'Enfer</CITE>
 
-<a name="5.24.31.5">5.24.31.5</a> Make a note if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [4.20.4.1](/DCRMR/ppdm/Publication-statement/#4.20.4.1)). 
+<a name="5.24.31.5">5.24.31.5</a> Make a note if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1)). 
 
 >Example:  
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
