@@ -135,7 +135,7 @@ sidebar:
 
 ## 4.201.9 Places of publication in multipart monographs
 
-<a name="4.201.9.1">4.201.9.1</a> If the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication, give the place of publication of the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.4.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.1)).
+<a name="4.201.9.1">4.201.9.1</a> If the manifestation is issued in more than one physical part, and the place of publication changes in the course of publication, give the place of publication of the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.1)).
 
 >Example:  
 >Place of publication: <CITE>Stuttgart ; Tübingen</CITE>  
@@ -150,18 +150,18 @@ sidebar:
 
 ## 4.201.96 Fictitious or incorrect places of publication
 
-<a name="4.201.96.1">4.201.96.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.4.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.2)).
+<a name="4.201.96.1">4.201.96.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.2)).
 
 >Example:  
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
-<a name="4.201.96.2">4.201.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.4.3](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.3))
+<a name="4.201.96.2">4.201.96.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3))
 
 <a name="4.201.96.3">4.201.96.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
 
 ## 4.201.97 No place of publication
-<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed [Publication statement](/DCRMR/ppdm/Publication-statement/) if one is present. Provide a justification for the supplied place in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.4](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.4)).
+<a name="4.201.97.1">4.201.97.1</a> If no place of publication appears on the manifestation but is known, supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed [Publication statement](/DCRMR/ppdm/Publication-statement/) if one is present. Provide a justification for the supplied place in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.4)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
@@ -177,7 +177,7 @@ sidebar:
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
+<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
@@ -214,7 +214,7 @@ sidebar:
 ><CITE>[South America?]</CITE>
 
 <a name="4.201.99.3">4.201.99.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information.
-(see [4.206.4.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.5)).
+(see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
 
 >Example:  
 >Note on publication statement: <CITE>Place of publication suggested by Alden</CITE>
@@ -225,4 +225,4 @@ sidebar:
 ><CITE>[Place of publication not identified]</CITE>
 
 ## 4.201.995 Place names in more than one language or script
-<a name="4.201.995.1">4.201.995.1</a> If the place of publication appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [4.206.4.6](/DCRMR/ppdm/Note-on-publication-statement/#4.206.4.6)). 
+<a name="4.201.995.1">4.201.995.1</a> If the place of publication appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)). 

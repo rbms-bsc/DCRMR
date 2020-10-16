@@ -29,7 +29,7 @@ sidebar:
 
 ## 4.20.4 Information covered by labels, etc.
 
-<a name="4.20.4.1">4.20.4.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [4.206.3.5](/DCRMR/ppdm/Note-on-publication-statement/#4.206.3.5)). 
+<a name="4.20.4.1">4.20.4.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
 
 >Example:  
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  

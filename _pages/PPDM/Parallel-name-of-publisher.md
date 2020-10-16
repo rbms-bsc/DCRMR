@@ -23,8 +23,8 @@ sidebar:
 
 ## 4.204.3 Publisher statements in more than one language or script
 
-<a name="4.204.3.1">4.204.3.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [4.206.6.1](/DCRMR/ppdm/Note-on-publication-statement/#4.206.6.1)).
+<a name="4.204.3.1">4.204.3.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement), [5.24.34.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.1)).
 
-<a name="4.204.3.2">4.204.3.2</a> Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) to indicate the original position on the source of any transposed statements (see [4.206.6.2](/DCRMR/ppdm/Note-on-publication-statement/#4.206.6.2)).
+<a name="4.204.3.2">4.204.3.2</a> Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) to indicate the original position on the source of any transposed statements (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)).
 
 <a name="4.204.3.3">4.204.3.3</a> *Optional omission*: if it is considered that the names are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel publishers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted names in the supplied phrase.
