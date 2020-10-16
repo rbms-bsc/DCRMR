@@ -125,7 +125,7 @@ The structure and numbering of DCRMR are new. Since the Beta Toolkit does not pr
 
 ## V. Language preferences
 
-<a name="V.1">V.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [4.201.5.1](/DCRMR/ppdm/Place-of-publication/#4.201.5.1)-[4.201.6.1](/DCRMR/ppdm/Place-of-publication/#4.201.6.1), [4.201.95.1](/DCRMR/ppdm/Place-of-publication/#4.201.95.1)-[4.201.99.1](/DCRMR/ppdm/Place-of-publication/#4.201.99.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/additional-notes/), and [Notes on items](/DCRMR/additional-notes/)).
+<a name="V.1">V.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1(/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.1](/DCRMR/ppdm/Place-of-publication/#5.21.385.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/additional-notes/), and [Notes on items](/DCRMR/additional-notes/)).
 
 ## VI. Spelling and style
 

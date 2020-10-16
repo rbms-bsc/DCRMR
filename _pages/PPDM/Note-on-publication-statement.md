@@ -53,25 +53,25 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.32 Notes from Place of publication
 
-<a name="5.24.32.1">5.24.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [4.201.9.1](/DCRMR/ppdm/Place-of-publication/#4.201.9.1)).
+<a name="5.24.32.1">5.24.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
 
-<a name="5.24.32.2">5.24.32.2</a> Make a note on publication statement giving the basis for the correction if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appearing on the manifestation is known to be fictitious or incorrect (see [4.201.96.1](/DCRMR/ppdm/Place-of-publication/#4.201.96.1)).
+<a name="5.24.32.2">5.24.32.2</a> Make a note on publication statement giving the basis for the correction if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appearing on the manifestation is known to be fictitious or incorrect (see [5.21.36.1](/DCRMR/ppdm/Place-of-publication/#5.21.36.1)).
 
 >Example:  
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
-<a name="5.24.32.3">5.24.32.3</a> When following the option in [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2/), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.96.2](/DCRMR/ppdm/Place-of-publication/#4.201.96.2)).
+<a name="5.24.32.3">5.24.32.3</a> When following the option in [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
 
-<a name="5.24.32.4">5.24.32.4</a> Make a note when supplying a [Place of publication](/DCRMR/ppdm/Place-of-publication/) and justification for the supplied place is necessary (see [4.201.97.1](/DCRMR/ppdm/Place-of-publication/#4.201.97.1)).
+<a name="5.24.32.4">5.24.32.4</a> Make a note when supplying a [Place of publication](/DCRMR/ppdm/Place-of-publication/) and justification for the supplied place is necessary (see [5.21.37.1](/DCRMR/ppdm/Place-of-publication/#5.21.37.1)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
 >Note on publication statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.24.32.5">5.24.32.5</a> Make a note on publication statement if the reason for supplying the [Place of publication](/DCRMR/ppdm/Place-of-publication/) is not apparent from the rest of the description and indicate the source of the information (see [4.201.99.3](/DCRMR/ppdm/Place-of-publication/#4.201.99.3)).
+<a name="5.24.32.5">5.24.32.5</a> Make a note on publication statement if the reason for supplying the [Place of publication](/DCRMR/ppdm/Place-of-publication/) is not apparent from the rest of the description and indicate the source of the information (see [5.21.385.3](/DCRMR/ppdm/Place-of-publication/#5.21.385.3)).
 
-<a name="5.24.32.6">5.24.32.6</a> Make a note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script and the original position of elements was transposed (see [4.201.995.1](/DCRMR/ppdm/Place-of-publication/#4.201.995.1)).
+<a name="5.24.32.6">5.24.32.6</a> Make a note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script and the original position of elements was transposed (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
 ## 5.24.33 Notes from Name of publisher
 
@@ -112,7 +112,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.35 Notes from Parallel place of publication
 
-<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2) and [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.995.1](/DCRMR/ppdm/Place-of-publication/#4.201.995.1)).
+<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2) and [Place of publication](/DCRMR/ppdm/Place-of-publication/), [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
 ## 5.24.36 Notes from Date of publication
 
