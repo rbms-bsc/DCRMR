@@ -37,4 +37,4 @@ sidebar:
 >Example:  
 ><CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>
 
-<a name="3.24.3.4">3.24.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).
+<a name="3.24.3.4">3.24.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).

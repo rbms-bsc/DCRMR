@@ -72,7 +72,7 @@ sidebar:
 > Designation of edition: <CITE>A new edition </CITE>  
 > Statement of responsibility relating to edition: <CITE>by Grace Webster, to which is added a life of the author</CITE>
 
-<a name="3.23.5.3">3.23.5.3</a> If such phrases have been transposed from a position preceding the [Designation of edition](/DCRMR/edition/Designation-of-edition/), provide details of the transposition in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).
+<a name="3.23.5.3">3.23.5.3</a> If such phrases have been transposed from a position preceding the [Designation of edition](/DCRMR/edition/Designation-of-edition/), provide details of the transposition in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).
 
 ## 3.23.6 Statements of responsibility relating to edition in more than one language or script
 
@@ -80,4 +80,4 @@ sidebar:
 
 <a name="3.23.6.2">3.23.6.2</a> If a statement of responsibility relating to edition appears on the manifestation in more than one language or script, record the statement in the language or script of the title proper. If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/) (see [3.24.3.3](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.24.3.3)).
 
-<a name="3.23.6.3">3.23.6.3</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).
+<a name="3.23.6.3">3.23.6.3</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).

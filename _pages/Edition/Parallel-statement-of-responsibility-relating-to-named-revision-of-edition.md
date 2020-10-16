@@ -31,4 +31,4 @@ sidebar:
 
 <a name="3.28.3.3">3.28.3.3</a> Transcribe the remaining statement(s) as parallel statements of responsibility relating to named revision of edition.
 
-<a name="3.28.3.4">3.28.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the resource of any transposed parallel statements of responsibility relating to named revision of edition (see [3.29.3.2](/DCRMR/edition/Note-on-edition-statement/#3.29.3.2)).
+<a name="3.28.3.4">3.28.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the resource of any transposed parallel statements of responsibility relating to named revision of edition (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).

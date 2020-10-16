@@ -14,7 +14,7 @@ sidebar:
 
 ## 3.01 Sources of information
 
-<a name="3.01.1">3.01.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.6](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#026-sources-of-information)), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.29.3.1](/DCRMR/edition/Note-on-edition-statement/#3.29.3.1)). Do not take an edition statement from a source outside the manifestation itself.
+<a name="3.01.1">3.01.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.6](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#026-sources-of-information)), in that order of preference. If an edition elements are transcribed from elsewhere than the title page, indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)). Do not take an edition statement from a source outside the manifestation itself.
 
 ## 3.01a Element order
 
@@ -69,4 +69,4 @@ sidebar:
 
 [Chapter 3.28 Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
 
-[Chapter 3.29 Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
+[Chapter 3.26 Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
