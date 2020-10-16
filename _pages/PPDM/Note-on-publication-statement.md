@@ -112,7 +112,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.35 Notes from Parallel place of publication
 
-<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [4.202.3.2](/DCRMR/ppdm/Parallel-place-of-publication/#4.202.3.2) and [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.995.1](/DCRMR/ppdm/Place-of-publication/#4.201.995.1)).
+<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2) and [Place of publication](/DCRMR/ppdm/Place-of-publication/), [4.201.995.1](/DCRMR/ppdm/Place-of-publication/#4.201.995.1)).
 
 ## 5.24.36 Notes from Date of publication
 
