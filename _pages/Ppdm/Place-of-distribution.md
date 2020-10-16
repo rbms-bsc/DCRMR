@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 5 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.ayl9u07z0mhy).{:target="_blank"}
+Please comment about errata on the [Chapter 5 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.ayl9u07z0mhy){:target="_blank"}.
 
 ## Contents:
 {: .no_toc .text-delta }

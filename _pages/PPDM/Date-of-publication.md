@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 5 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.fuf4pymxdbzc).{:target="_blank"}
+Please comment about errata on the [Chapter 5 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.fuf4pymxdbzc){:target="_blank"}.
 
 ## Contents:
 {: .no_toc .text-delta }
@@ -76,7 +76,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-*Optionally*, Substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
+*Optionally*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
