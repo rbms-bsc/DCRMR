@@ -41,27 +41,27 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.32 Notes from Place of distribution
 
-<a name="5.285.32.1">5.285.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) changes in the course of publication by giving the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) of the later part(s) (see [4.211.9.1](/DCRMR/ppdm/Place-of-distribution/#4.211.9.1)).
+<a name="5.285.32.1">5.285.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) changes in the course of publication by giving the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) of the later part(s) (see [5.26.34.1](/DCRMR/ppdm/Place-of-distribution/#5.26.34.1)).
 
 >Example:  
 >Place of distribution: <CITE>Stuttgart ; Tübingen</CITE>  
 >Note on distribution statement: <CITE>Place of distribution in v. 33-40: Stuttgart ; Augsburg</CITE>
 
-<a name="5.285.32.2">5.285.32.2</a> Make a note on distribution statement giving the basis for the correction if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [4.211.96.1](/DCRMR/ppdm/Place-of-distribution/#4.211.96.1)).
+<a name="5.285.32.2">5.285.32.2</a> Make a note on distribution statement giving the basis for the correction if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [5.26.36.1](/DCRMR/ppdm/Place-of-distribution/#5.26.36.1)).
 
 >Example:  
 >Place of distribution: <CITE>Londres [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
 
-<a name="5.285.32.3">5.285.32.3</a> When following the option in [4.211.96.2](/DCRMR/ppdm/Place-of-distribution/#4.211.96.2), give the basis for the correction or clarification in a note (see [5.31.36.2](/DCRMR/ppdm/Place-of-distribution/#5.31.36.2)).
+<a name="5.285.32.3">5.285.32.3</a> When following the option in [5.26.36.2](/DCRMR/ppdm/Place-of-distribution/#5.26.36.2), give the basis for the correction or clarification in a note (see [5.31.36.2](/DCRMR/ppdm/Place-of-distribution/#5.31.36.2)).
 
-<a name="5.285.32.4">5.285.32.4</a> Make a note when supplying a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and justification for the supplied place is necessary (see [4.211.97.1](/DCRMR/ppdm/Place-of-distribution/#4.211.97.1)).
+<a name="5.285.32.4">5.285.32.4</a> Make a note when supplying a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and justification for the supplied place is necessary (see [5.26.37.1](/DCRMR/ppdm/Place-of-distribution/#5.26.37.1)).
 
 >Example:  
 >Place of distribution: <CITE>[Cambridge, Mass.]</CITE>  
 >Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.285.32.5">5.285.32.5</a> Make a note when supplying a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and justification for the supplied place is necessary (see [4.211.98.1](/DCRMR/ppdm/Place-of-distribution/#4.211.98.1)).
+<a name="5.285.32.5">5.285.32.5</a> Make a note when supplying a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and justification for the supplied place is necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)).
 
 >Example:  
 > <CITE>[Paris]</CITE>  
@@ -71,7 +71,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ><CITE>[London]</CITE>  
 >(*Comment*: Imprint reads: “sold in St. Paul’s Church Yard”)
 
-<a name="5.285.32.5">5.285.32.6</a> Make a note if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [4.211.99.3](/DCRMR/ppdm/Place-of-distribution/#4.211.99.3)).
+<a name="5.285.32.5">5.285.32.6</a> Make a note if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
 
 >Example:  
 ><CITE>Place of publication suggested by Alden</CITE>
@@ -96,7 +96,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.35 Notes from Parallel place of distribution
 
-<a name="5.285.35.1">5.285.35.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [4.211.995.1](/DCRMR/ppdm/Place-of-distribution/#4.211.995.1)).
+<a name="5.285.35.1">5.285.35.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
 ## 5.285.36 Notes from Date of distribution
 
