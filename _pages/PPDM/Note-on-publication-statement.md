@@ -116,20 +116,20 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.36 Notes from Date of publication
 
-<a name="5.24.36.1">5.24.36.1</a> When following the option in [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3), include a transcription of the original chronogram in a note on publication statement if considered important (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.3](/DCRMR/ppdm/Date-of-publication/#4.205.4.3)).
+<a name="5.24.36.1">5.24.36.1</a> When following the option in [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2), include a transcription of the original chronogram in a note on publication statement if considered important (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2)).
 
 >Example:  
 >Date of publication: <CITE>[1650]</CITE>  
 >Note on publication statement: <CITE>Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>
 
-<a name="5.24.36.2">5.24.36.2</a> When following the option for very long dates in [4.205.4.5](/DCRMR/ppdm/Date-of-publication/#4.205.4.5), make a note on publication statement concerning the source and the original form of the [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [4.205.4.5](/DCRMR/ppdm/Date-of-publication/#4.205.4.5)).
+<a name="5.24.36.2">5.24.36.2</a> When following the option for very long dates in [5.23.31.3](/DCRMR/ppdm/Date-of-publication/#5.23.31.3), make a note on publication statement concerning the source and the original form of the [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [5.23.31.3](/DCRMR/ppdm/Date-of-publication/#5.23.31.3)).
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
 >Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
 >(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="5.24.36.3">5.24.36.3</a> Make a note if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [4.205.4.6](/DCRMR/ppdm/Date-of-publication/#4.205.4.6)).
+<a name="5.24.36.3">5.24.36.3</a> Make a note if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
 
 >Example:  
 >Date of publication: <CITE>1887 [that is, 1899]</CITE>  
@@ -139,9 +139,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="5.24.36.4">5.24.36.4</a> When following the option in [4.205.4.7](/DCRMR/ppdm/Date-of-publication/#4.205.4.7), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.7](/DCRMR/ppdm/Date-of-publication/#4.205.4.7)).
+<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
 
-<a name="5.24.36.5">5.24.36.5</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.4.8](/DCRMR/ppdm/Date-of-publication/#4.205.4.8)).
+<a name="5.24.36.5">5.24.36.5</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5)).
 
 >Example:  
 >Date of publication: <CITE>1743 [that is, 1744]</CITE>  
@@ -152,7 +152,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>Februar. 8. anno 1588 [that is, 1589]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="5.24.36.6">5.24.36.6</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition, make a note on the source of supplied dates (see [4.205.4.92](/DCRMR/ppdm/Date-of-publication/#4.205.4.92)).
+<a name="5.24.36.6">5.24.36.6</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition, make a note on the source of supplied dates (see [5.23.31.7](/DCRMR/ppdm/Date-of-publication/#5.23.31.7)).
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
@@ -167,24 +167,24 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note (see [4.205.5.1](/DCRMR/ppdm/Date-of-publication/#4.205.5.1)).
+<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note (see [5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
 
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
 
-<a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note (see [4.205.6.1](/DCRMR/ppdm/Date-of-publication/#4.205.6.1)).
+<a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
-<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1), indicate the basis for the conjecture in a note (see [4.205.7.1](/DCRMR/ppdm/Date-of-publication/#4.205.7.1)).
+<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note (see [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
 
-<a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.8.2](/DCRMR/ppdm/Date-of-publication/#4.205.8.2)).
+<a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
 
 >Example:  
 >Date of publication: <CITE>1560-1564</CITE>  
 >Note on publication statement:  <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
 
-<a name="5.24.36.9">5.24.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [4.205.9.1](/DCRMR/ppdm/Date-of-publication/#4.205.9.1)).
+<a name="5.24.36.9">5.24.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on publication statement (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1)).
 
 ## 5.24.37 Publication details not included in the manifestation
 

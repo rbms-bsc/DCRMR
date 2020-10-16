@@ -70,7 +70,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.204 Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)
 
-[Chapter 4.205 Date of publication](/DCRMR/ppdm/Date-of-publication/)
+[Chapter 5.23 Date of publication](/DCRMR/ppdm/Date-of-publication/)
 
 [Chapter 4.24 Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
 

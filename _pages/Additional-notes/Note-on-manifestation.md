@@ -115,7 +115,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 # 9.3.36 Notes on dates not representing publication, distribution, or manufacture elements
 
-<a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [4.205.6.2](/DCRMR/ppdm/Date-of-publication/#4.205.6.2)).
+<a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2)).
 
 <a name="9.3.36.2">9.3.36.2</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2)).
 
