@@ -61,7 +61,7 @@ sidebar:
 
 [Chapter 3.24 Parallel statement of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/)
 
-[Chapter 3.25 Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/)
+[Chapter 3.24 Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/)
 
 [Chapter 3.245 Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/)
 
