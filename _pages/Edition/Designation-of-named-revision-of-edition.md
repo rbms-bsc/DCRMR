@@ -7,25 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 3 errata page](https://docs.google.com/document/d/1DqZ9-Ti8K8sHmcmPWpP4tH-ENfIOKGhHwR9XuZ9HwOk/edit#heading=h.j1nngsj0tmkl){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 3.25.1 Element information
+## x3.24.1 Element information
 
-<a name="3.25.1.1">3.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-bff10bfe-3a8b-3895-a3f4-09a81b7678df){:target="_blank"}
+<a name="x3.24.1.1">x3.24.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-bff10bfe-3a8b-3895-a3f4-09a81b7678df){:target="_blank"}
 
-<a name="3.25.1.2">3.25.1.2</a> [Sources of information](/DCRMR/edition/)
+<a name="x3.24.1.2">x3.24.1.2</a> [Sources of information](/DCRMR/edition/)
 
-## 3.25.2 RDA definition and scope
+## x3.24.2 RDA definition and scope
 
-<a name="3.25.2.1">3.25.2.1</a> A word, character, or group of words or characters, that identifies a particular revision of a named edition.
+<a name="x3.24.2.1">x3.24.2.1</a> A word, character, or group of words or characters, that identifies a particular revision of a named edition.
 
-## 3.25.3 Statement relating to a named revision of an edition
+## x3.24.31 Statement relating to a named revision of an edition
 
-<a name="3.25.3.1">3.25.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.3.1](/DCRMR/edition/Designation-of-edition/#3.21.3.1)).
+<a name="x3.24.31.1">x3.24.31.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.3.1](/DCRMR/edition/Designation-of-edition/#3.21.3.1)).
 
 >Example:    
 >Designation of named revision of edition: <CITE>Carefully revised and additions made in 1848</CITE>  
@@ -36,13 +38,13 @@ sidebar:
 >Designation of named revision of edition: <CITE>corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>  
 >Designation of edition: <CITE>the fourth edition</CITE>
 
-<a name="3.25.3.2">3.25.3.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed designation of a named revision of edition (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).
+<a name="x3.24.31.2">x3.24.31.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed designation of a named revision of edition (see [x3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.2)).
 
-## 3.25.4 Statements relating to a substantially unchanged impression or state
+## x3.24.32 Statements relating to a substantially unchanged impression or state
 
-<a name="3.25.4.1">3.25.4.1</a> Do not transcribe a statement relating to a reissue of an edition if it represents a substantially unchanged impression of that edition. Omit the impression statement without using the mark of omission. A [Note on item](/DCRMR/additional-notes/Note-on-item/) may be made about such statements if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
+<a name="x3.24.32.1">x3.24.32.1</a> Do not transcribe a statement relating to a reissue of an edition if it represents a substantially unchanged impression of that edition. Omit the impression statement without using the mark of omission. A [Note on item](/DCRMR/additional-notes/Note-on-item/) may be made about such statements if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
 
-<a name="3.25.4.2">3.25.4.2</a> **Alternative rule**. If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#x-precataloging-decisions), [X.1](/DCRMR/introduction/#x-precataloging-decisions)), and the manifestation has a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe statements related to a substantially unchanged impression of that edition as a designation of a named revision of an edition. If the manifestation lacks a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe such statements as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
+<a name="x3.24.32.2">x3.24.32.2</a> **Alternative rule**. If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#x-precataloging-decisions), [X.1](/DCRMR/introduction/#x-precataloging-decisions)), and the manifestation has a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe statements related to a substantially unchanged impression of that edition as a designation of a named revision of an edition. If the manifestation lacks a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe such statements as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.21.6.2](/DCRMR/edition/Designation-of-edition/#3.21.6.2)).  Indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
 
 >Example:   
 >Designation of named revision of edition: <CITE> Fourth printing</CITE>  
@@ -64,12 +66,12 @@ sidebar:
 >Designation of edition: <CITE>First Ace edition</CITE>  
 >Note on edition statement: <CITE>“Third printing / December 1983” from title page verso</CITE>
 
-<a name="3.25.4.3">3.25.4.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
+<a name="x3.24.32.3">x3.24.32.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
 
 >Example:    
 >Designation of named revision of edition: <CITE>[1st printing]</CITE>  
 >Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1".</CITE>
 
-## 3.25.5 Designations of named revision of edition in more than one language and script
+## x3.24.33 Designations of named revision of edition in more than one language and script
 
-<a name="3.25.5.1">3.25.5.1</a> If a designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [ x3.245.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/# x3.245.3.1)).  Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
+<a name="x3.24.33.1">x3.24.33.1</a> If a designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [ x3.245.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/# x3.245.3.1)).  Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [x3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#x3.26.31.1)).
