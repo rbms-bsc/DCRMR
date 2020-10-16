@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.31 Statements relating to a substantially unchanged impression or state
 
-<a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the information is considered important (see [x3.22.33.1](/DCRMR/edition/Designation-of-edition/#x3.22.33.1)).
+<a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the information is considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
 
 >Example:  
 ><CITE>“Ninth printing, December, 1954,” on title page verso</CITE>
