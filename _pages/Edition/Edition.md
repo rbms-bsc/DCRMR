@@ -53,7 +53,7 @@ sidebar:
 
 [Chapter 3.20 Edition statement](/DCRMR/edition/Edition-statement/)
 
-[Chapter 3.21 Designation of edition](/DCRMR/edition/Designation-of-edition/)
+[Chapter 3.22 Designation of edition](/DCRMR/edition/Designation-of-edition/)
 
 [Chapter 3.225 Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
 
