@@ -51,7 +51,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Chapter 3.20 Edition statement](/DCRMR/edition/Edition-statement/)
+[Chapter 3.21 Edition statement](/DCRMR/edition/Edition-statement/)
 
 [Chapter 3.22 Designation of edition](/DCRMR/edition/Designation-of-edition/)
 

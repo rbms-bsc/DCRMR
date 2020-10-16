@@ -77,7 +77,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.3.33 Notes on made-up sets of a multipart monograph
 
-<a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edition-statement/#3.20.91.3)).
+<a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
 
 >Example:  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  

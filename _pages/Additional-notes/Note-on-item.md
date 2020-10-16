@@ -71,7 +71,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.32 Edition statements on nonce collections
 
-<a name="9.4.32.1">9.4.32.1</a> If [Edition statements](https://rbms-bsc.github.io/DCRMR/edition/Edition-statement/) of parts in a nonce collection vary between copies, record the edition statements of the item in hand as a note on item (see [3.20.9.2](/DCRMR/edition/Edition-statement/#3.20.9.2)).
+<a name="9.4.32.1">9.4.32.1</a> If [Edition statements](https://rbms-bsc.github.io/DCRMR/edition/Edition-statement/) of parts in a nonce collection vary between copies, record the edition statements of the item in hand as a note on item (see [3.21.36.2](/DCRMR/edition/Edition-statement/#3.21.36.2)).
 
 ## 9.4.33 Exhibition history
 

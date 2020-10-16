@@ -68,7 +68,7 @@ sidebar:
 
 ## 1.23.7 Statements about illustrations or volumes
 
-<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.20.5.1](/DCRMR/edition/Edition-statement/#3.20.5.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.96.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.96.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
+<a name="1.23.7.1">1.23.7.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.21.32.1](/DCRMR/edition/Edition-statement/#3.21.32.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.20.96.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.96.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
 
 >Example:  
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
