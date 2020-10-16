@@ -75,15 +75,15 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.33 Notes from Name of publisher
 
-<a name="5.24.33.1">5.24.33.1</a> *Optionally*, make a note on publication statement if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1)).
+<a name="5.24.33.1">5.24.33.1</a> *Optionally*, make a note on publication statement if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1)).
 
-<a name="5.24.33.2">5.24.33.2</a> As necessary, make a note on publication statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is based on a device (see [4.203.5.2](/DCRMR/ppdm/Name-of-publisher/#4.203.5.2)).
+<a name="5.24.33.2">5.24.33.2</a> As necessary, make a note on publication statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is based on a device (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
 
 >Example:  
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  
 >Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913`</CITE>
 
-<a name="5.24.33.3">5.24.33.3</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [4.203.6.1](/DCRMR/ppdm/Name-of-publisher/#4.203.6.1)).
+<a name="5.24.33.3">5.24.33.3</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1)).
 
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
@@ -95,9 +95,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on publication statement: <CITE>The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="5.24.33.4">5.24.33.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.8.1](/DCRMR/ppdm/Name-of-publisher/#4.203.8.1)).
+<a name="5.24.33.4">5.24.33.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
-<a name="5.24.33.5">5.24.33.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied publisher, give supporting evidence in a note (see [4.203.9.1](/DCRMR/ppdm/Name-of-publisher/#4.203.9.1)).
+<a name="5.24.33.5">5.24.33.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied publisher, give supporting evidence in a note (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
 
 >Example:  
 >Name of publisher: <CITE>[Anton Koberger]</CITE>  
@@ -106,9 +106,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.34 Notes from Parallel name of publisher
 
-<a name="5.24.34.1">5.24.34.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1)).
+<a name="5.24.34.1">5.24.34.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
 
-<a name="5.24.34.2">5.24.34.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [4.203.97.1](/DCRMR/ppdm/Name-of-publisher/#4.203.97.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
+<a name="5.24.34.2">5.24.34.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.22.39.1)).
 
 ## 5.24.35 Notes from Parallel place of publication
 

@@ -242,4 +242,4 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="5.23.36.1">5.23.36.1</a> If parts of a manifestation have individual title pages bearing dates of publication that differ from the date pertaining to the whole manifestation, give these additional dates of publication in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.9](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.9)). 
 
-If, however, one of these dates is a more accurate reflection of the actual date of publication, than the date pertaining to the whole manifestation, give it as a correction as instructed in [4.205.4.6](/DCRMR/ppdm/Date-of-publication/#4.205.4.6).
+If, however, one of these dates is a more accurate reflection of the actual date of publication, than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4).

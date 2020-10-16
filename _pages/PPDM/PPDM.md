@@ -66,7 +66,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 [Chapter 4.202 Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/)
 
-[Chapter 4.203 Name of publisher](/DCRMR/ppdm/Name-of-publisher/)
+[Chapter 5.22 Name of publisher](/DCRMR/ppdm/Name-of-publisher/)
 
 [Chapter 5.225 Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)
 

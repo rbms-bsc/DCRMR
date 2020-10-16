@@ -177,7 +177,7 @@ sidebar:
 
 ## 4.201.98 Place of publication supplied based on address or sign
 
-<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [4.203.5.1](/DCRMR/ppdm/Name-of-publisher/#4.203.5.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
+<a name="4.201.98.1">4.201.98.1</a> Supply in square brackets the name of the place of publication using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
