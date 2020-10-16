@@ -55,7 +55,7 @@ sidebar:
 
 [Chapter 3.21 Designation of edition](/DCRMR/edition/Designation-of-edition/)
 
-[Chapter 3.22 Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
+[Chapter 3.225 Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
 
 [Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)
 
