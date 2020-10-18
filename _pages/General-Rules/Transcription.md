@@ -150,7 +150,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 | u (vowel or consonant) anywhere in word | V |
 | v (vowel or consonant) anywhere in word | V |
 
-<a name="0.5.23.3">0.5.23.3</a> If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the title proper as needed (see [1.25.4.4](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.4)).
+<a name="0.5.23.3">0.5.23.3</a> If any letterform within the first five words of the title has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the title proper as needed (see [1.25.3515.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)).
 
 <a name="0.5.23.4">0.5.23.4</a> If the manifestation uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v, transcribe the letters as i and v respectively.
 
@@ -165,7 +165,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 >Example:  
 ><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>
 
-<a name="0.5.24.2">0.5.24.2</a> If the letter occurs within the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.4.5](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.5)).
+<a name="0.5.24.2">0.5.24.2</a> If the letter occurs within the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)).
 
 ### 0.5.25 Chronograms
 
@@ -341,7 +341,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
 >(*Source of information reads*:  Clara H_____d)
 
-<a name="0.5.38.4">0.5.38.4</a> If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.4.6](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.6)). 
+<a name="0.5.38.4">0.5.38.4</a> If punctuation substituting for letters occurs in the first five words of the title proper (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
 
 ### 0.5.385 Punctuation indicating an abbreviation
 
@@ -432,7 +432,7 @@ ET ITALIAE)
 ><CITE>La morte d'Orfeo</CITE>  
 >(*Source of information reads*: LAMORTE D'ORFEO)
 
-<a name="0.5.43.2">0.5.43.2</a> If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.4.7](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.7)).
+<a name="0.5.43.2">0.5.43.2</a> If the missing spaces occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
 
 ### 0.5.44 Variant spellings
 
@@ -446,7 +446,7 @@ ET ITALIAE)
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-<a name="0.5.44.2">0.5.44.2</a> If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.4.8](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.8)).
+<a name="0.5.44.2">0.5.44.2</a> If the variant or archaic spellings occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
 
 ### 0.5.45 Initials, etc.
 
@@ -614,7 +614,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer.</CITE>  
 >Note on item (optional): <CITE>Library's copy has blanks supplied in manuscript: State of [New York] / drawn by [Fannie Ufford]</CITE>  
 
-<a name="0.5.64.3">0.5.64.3</a> If the blank occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title without the interpolated word “[blank]” (see [1.25.4.91](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.91)).
+<a name="0.5.64.3">0.5.64.3</a> If the blank occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
 
 ### 0.5.65 Blank spaces for initial letters
 
@@ -654,13 +654,13 @@ Make an explanatory note.
 >Example:  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
-<a name="0.5.72.2">0.5.72.2</a> If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.25.4.92](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.92)).
+<a name="0.5.72.2">0.5.72.2</a> If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
 <a name="0.5.72.3">0.5.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
 
 <a name="0.5.72.4">0.5.72.4</a> *Optionally*, transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling.
 
-If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been printed or written correctly (see [1.25.4.92](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.92)).
+If the misprint or misspelling occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been printed or written correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
 ### 0.5.73 Deliberate misspellings
 
@@ -670,7 +670,7 @@ If the misprint or misspelling occurs in the first five words of the title prope
 >Title proper: <CITE>The Summer Shower, or, Mademoiselle Par, a Pluye</CITE>  
 >Note on title: <CITE>For "Par, a Pluye" read "parapluie".</CITE>
 
-If considered important, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.4.93](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.93)).
+If considered important, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
 ### 0.5.74 Turned and approximated letters
 
@@ -691,7 +691,7 @@ Make an explanatory note if considered important for identification.
 | ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
 | ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
 
-<a name="0.5.74.3">0.5.74.3</a> If the characters used to approximate a different character occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed if considered important (see [1.25.4.94](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.94)).
+<a name="0.5.74.3">0.5.74.3</a> If the characters used to approximate a different character occur in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed if considered important (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
 
 ## 0.5.8 Other transcription rules
 
@@ -710,7 +710,7 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 <a name="0.5.82.3">0.5.82.3</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
 conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/Transcription/#0562-conjectural-and-indecipherable-text) (see [0.5.62.1](/DCRMR/general-rules/Transcription/#0.5.62.1)).
 
-<a name="0.5.82.4">0.5.82.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.4.95](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.95)).  
+<a name="0.5.82.4">0.5.82.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the title proper, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
 
 ### 0.5.84 Letters or words intended to be read more than once
 

@@ -64,7 +64,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.36 Variations in title
 
-<a name="1.29.36.1">1.29.36.1</a> Make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) if considered important (see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/), [1.25.4.992](/DCRMR/title/Variant-title-of-manifestation/#1.25.4.992)). 
+<a name="1.29.36.1">1.29.36.1</a> Make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) if considered important (see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/), [1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)). 
 
 >Example:  
 ><CITE>Title on added title page: La naturaleza descubierta en su modo de ensenar las lenguas a los hombres</CITE>

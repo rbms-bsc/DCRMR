@@ -193,4 +193,4 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 <a name="1.21.97.1">1.21.97.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Provide access for the entire title proper exactly as transcribed, disregarding initial articles as required by filing rules (see [Title of manifestation](/DCRMR/title/Title-of-manifestation), [1.20.4](/DCRMR/title/Title-of-manifestation//#1204-title-access-points)). 
 
-<a name="1.21.97.2">1.21.97.2</a> For instructions on providing access points for variants of the title proper, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) ([1.25.4](/DCRMR/title/Variant-title-of-manifestation/#1254-access-points-for-variant-titles)).
+<a name="1.21.97.2">1.21.97.2</a> For instructions on providing access points for variants of the title proper, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) ([1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles)).
