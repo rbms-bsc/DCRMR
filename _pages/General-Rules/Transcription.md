@@ -13,8 +13,6 @@ sidebar:
 - TOC
 {:toc}
 
-# 0.4 Transcription
-
 ## 0.4.01 Transcribed elements
 
 Chapter 1: Title  
