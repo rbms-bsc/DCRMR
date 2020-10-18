@@ -55,7 +55,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Chapter 1.20 Title of manifestation](/DCRMR/title/Title-of-manifestation/)
+[Chapter 1.2 Title of manifestation](/DCRMR/title/Title-of-manifestation/)
 
 [Chapter 1.21 Title proper](/DCRMR/title/Title-proper/)
 

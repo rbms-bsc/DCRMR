@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.25.35 Access points for variant titles
 
-<a name="1.25.35.1">1.25.35.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access points may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.20.4](/DCRMR/title/Title-of-manifestation/#1204-title-access-points)).
+<a name="1.25.35.1">1.25.35.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access points may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.2.32](/DCRMR/title/Title-of-manifestation/#1232-title-access-points)).
 
 <a name="1.25.35.2">1.25.35.2</a> Title access points considered optional are labeled as such.
 

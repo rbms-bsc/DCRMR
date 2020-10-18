@@ -96,4 +96,4 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.39 Title information not appearing on title page
 
-<a name="1.29.39.1">1.29.39.1</a> Transcribe title information not appearing on the title page in a note if considered important (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/), [1.20.3.1](/DCRMR/title/Title-of-manifestation/#1.20.3.1)).
+<a name="1.29.39.1">1.29.39.1</a> Transcribe title information not appearing on the title page in a note if considered important (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/), [1.2.31.1](/DCRMR/title/Title-of-manifestation/#1.2.31.1)).
