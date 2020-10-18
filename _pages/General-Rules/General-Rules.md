@@ -9,7 +9,7 @@ sidebar:
 
 ## Internal review errata
 
-[Link to introduction errata](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit)
+Please comment about errata on the [General rules errata page](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit#heading=h.7mu4198ohxet){:target="_blank"}.
 
 ## Contents:
 {: .no_toc }
