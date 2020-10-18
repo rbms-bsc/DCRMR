@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [Chapter 1 errata page](https://docs.google.com/document/d/1ZQrHST262NmyQBIjqDihNGPaU_Y9rKCN2wiRPtwm-D8/edit#heading=h.6lfszhs98aze){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -25,9 +27,9 @@ sidebar:
 
 <a name="1.21.2.2">1.21.2.2</a> An alternative title is treated as part of a title proper.
 
-## 1.21.3 Words considered part of the title proper
+## 1.21.31 Words considered part of the title proper
 
-<a name="1.21.3.1">1.21.3.1</a> The title proper is the first element of the description. Title information preceding the [Chief title](/DCRMR/glossary/C/#chief-title) on the preferred source of information is considered part of the title proper if it is grammatically inseparable from the chief title. If the chief title is preceded or followed in the source by other elements of information, transpose these elements to their appropriate elements in the description unless case endings would be affected, the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from the title proper. In the latter cases, transcribe the information as part of the title proper.
+<a name="1.21.31.1">1.21.31.1</a> The title proper is the first element of the description. Title information preceding the [Chief title](/DCRMR/glossary/C/#chief-title) on the preferred source of information is considered part of the title proper if it is grammatically inseparable from the chief title. If the chief title is preceded or followed in the source by other elements of information, transpose these elements to their appropriate elements in the description unless case endings would be affected, the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from the title proper. In the latter cases, transcribe the information as part of the title proper.
 
 >Example:  
 ><CITE>The post-humous works of Robert Hooke</CITE>  
@@ -44,35 +46,35 @@ sidebar:
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
 
-<a name="1.21.3.2">1.21.3.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
+<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
 >Note on title: <CITE>Title from docket</CITE>  
 
-## 1.21.4 Forms of the title proper
+## 1.21.32 Forms of the title proper
 
-<a name="1.21.4.1">1.21.4.1</a> The title proper can take a variety of forms, some of which are exemplified below:
+<a name="1.21.32.1">1.21.32.1</a> The title proper can take a variety of forms, some of which are exemplified below:
 
-<a name="1.21.4.2">1.21.4.2</a> Title proper inclusive of grammatically inseparable title information appearing before the chief title on the title page.
+<a name="1.21.32.2">1.21.32.2</a> Title proper inclusive of grammatically inseparable title information appearing before the chief title on the title page.
 
 >Example:  
 ><CITE>Here after foloweth a litel boke called Colyn Cloute</CITE>  
 >(*Comment*: “Colyn Cloute” is the chief title)
 
-<a name="1.21.4.3">1.21.4.3</a> Title proper inclusive of an alternative title.
+<a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title.
 
 >Example:  
 ><CITE>Christianographie, or, The description of the multitude and sundry sorts of Christians in the world not subject to the pope</CITE>  
 
-<a name="1.21.4.4">1.21.4.4</a> Title proper consisting solely of the name of a responsible person or body.  
+<a name="1.21.32.4">1.21.32.4</a> Title proper consisting solely of the name of a responsible person or body.  
 
 >Example:  
 ><CITE>Salustius</CITE>  
 
-## 1.21.5 Title proper with grammatically inseparable designation
+## 1.21.33 Title proper with grammatically inseparable designation
 
-<a name="1.21.5.1">1.21.5.1</a> If a manifestation is in more than one volume and the title proper of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply in square brackets after the first designation a hyphen and the final designation, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. 
+<a name="1.21.33.1">1.21.33.1</a> If a manifestation is in more than one volume and the title proper of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply in square brackets after the first designation a hyphen and the final designation, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. 
 
 >Example:  
 ><CITE>Thomas Masterson his first[-second] booke of arithmeticke</CITE>  
@@ -88,9 +90,9 @@ sidebar:
 
 If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a [Note on title](/DCRMR/title/Note-on-title/) about the later designation(s) (see [1.29.32.1](/DCRMR/title/Note-on-title/#1.29.32.1)).
 
-## 1.21.6 No title
+## 1.21.34 No title
 
-<a name="1.21.6.1">1.21.6.1</a> If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, or supply a title from a reference source; use this devised or supplied title, enclosed in square brackets, as the title proper. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
+<a name="1.21.34.1">1.21.34.1</a> If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, or supply a title from a reference source; use this devised or supplied title, enclosed in square brackets, as the title proper. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
 
 >Example:  
 >Title proper: <CITE>Ye true-born Englishmen proceed, our trifling crimes detect</CITE>  
@@ -106,9 +108,9 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Note on title: <CITE>Title from Barbosa Machado.</CITE>  
 >(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)).)
 
-## 1.21.7 Title proper with supplementary or section designation or title
+## 1.21.35 Title proper with supplementary or section designation or title
 
-<a name="1.21.7.1">1.21.7.1</a> If the title proper for a work that is supplementary to, or a section of, another work appears in two or more grammatically separable parts, transcribe the title of the main work first, followed by the designation(s) and/or title(s) of the supplement(s) or section(s) in order of their dependence.  Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the original position on the preferred source of information of any transposed title elements (see [1.29.34.1](/DCRMR/title/Note-on-title/#1.29.34.1)).
+<a name="1.21.35.1">1.21.35.1</a> If the title proper for a work that is supplementary to, or a section of, another work appears in two or more grammatically separable parts, transcribe the title of the main work first, followed by the designation(s) and/or title(s) of the supplement(s) or section(s) in order of their dependence.  Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the original position on the preferred source of information of any transposed title elements (see [1.29.34.1](/DCRMR/title/Note-on-title/#1.29.34.1)).
 
 >Example:  
 >Title proper: <CITE>Faust. Part one.</CITE>  
@@ -116,31 +118,31 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 
 If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/).
 
-## 1.21.8 Abridgments of the title proper
+## 1.21.36 Abridgments of the title proper
 
-<a name="1.21.8.1">1.21.8.1</a> **General rule**. Abridge a long title proper only if it can be done without loss of essential information. Do not omit any of the first five words. Indicate omissions by the mark of omission. 
+<a name="1.21.36.1">1.21.36.1</a> **General rule**. Abridge a long title proper only if it can be done without loss of essential information. Do not omit any of the first five words. Indicate omissions by the mark of omission. 
 
-<a name="1.21.8.2">1.21.8.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title.
+<a name="1.21.36.2">1.21.36.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title.
 
-<a name="1.21.8.3">1.21.8.3</a> Extend the transcription of the title proper through at least the end of the [Chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but in no event within the first five words of the chief title.
+<a name="1.21.36.3">1.21.36.3</a> Extend the transcription of the title proper through at least the end of the [Chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but in no event within the first five words of the chief title.
 
-## 1.21.9 - 1.21.91 Manifestations without a collective title 
+## 1.21.37 Manifestations without a collective title 
 
-### 1.21.9 Two or more expressions named on the preferred source of information
+### 1.21.371 Two or more expressions named on the preferred source of information
 
-<a name="1.21.9.1">1.21.9.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter, that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
+<a name="1.21.371.1">1.21.371.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter, that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
 
 >Example:  
 ><CITE>Les Akanças : prologue mélo-dramatique, en un acte et en prose ; suivi Des Espagnols dans la Floride : pantomime en trois actes et à spectacle</CITE>
 
-<a name="1.21.9.2">1.21.9.2</a> **By different persons or bodies**. If the individual expressions are by different persons or bodies (or different combinations thereof), or the authorship is in doubt, precede each title other than the first by a period and one space, unless a linking word or phrase is already present. Precede each statement of responsibility by a space-slash-space.
+<a name="1.21.371.2">1.21.371.2</a> **By different persons or bodies**. If the individual expressions are by different persons or bodies (or different combinations thereof), or the authorship is in doubt, precede each title other than the first by a period and one space, unless a linking word or phrase is already present. Precede each statement of responsibility by a space-slash-space.
 
 >Example:  
 ><CITE>The serving-man become a queen. Jockey of the green. The lass of Richmond Hill</CITE>
 
-### 1.21.91 One or more expressions not named on the preferred source of information
+### 1.21.372 One or more expressions not named on the preferred source of information
 
-<a name="1.21.91.1">1.21.91.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information:
+<a name="1.21.372.1">1.21.372.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information:
 
 transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/), [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes))
 
@@ -151,11 +153,11 @@ transcribe the title and statement of responsibility from the preferred source o
 >Example:  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
 
-## 1.21.92 - 1.21.96 Single-sheet manifestations
+## 1.21.38 Single-sheet manifestations
 
-### 1.21.92 General rule
+### 1.21.381 General rule
 
-<a name="1.21.92.1">1.21.92.1</a> In general, transcribe the information presented beginning with the first line of printing. If the printing is arranged in columns with no information preceding the body of the text, begin the transcription with the top line of the extreme left column (extreme right column in the case of languages that are read right to left). Retain in the transcription dates, addresses, and other information necessary for identification. Use judgment, but in case of doubt, start the transcription with the first words of printed text on the sheet. If the initial text is grammatically independent of the succeeding material and is one of the following, however, begin the transcription after it without using the mark of omission:
+<a name="1.21.381.1">1.21.381.1</a> In general, transcribe the information presented beginning with the first line of printing. If the printing is arranged in columns with no information preceding the body of the text, begin the transcription with the top line of the extreme left column (extreme right column in the case of languages that are read right to left). Retain in the transcription dates, addresses, and other information necessary for identification. Use judgment, but in case of doubt, start the transcription with the first words of printed text on the sheet. If the initial text is grammatically independent of the succeeding material and is one of the following, however, begin the transcription after it without using the mark of omission:
 
 + caption to an illustration
 + copyright statement
@@ -171,26 +173,26 @@ transcribe the title and statement of responsibility from the preferred source o
 
 If the initial text has been omitted, indicate the nature and position of the omitted material in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.1](/DCRMR/title/Note-on-title/#1.29.35.1)).
 
-### 1.21.93 Title proper of a single-sheet manifestation
+### 1.21.382 Title proper of a single-sheet manifestation
 
-<a name="1.21.93.1">1.21.93.1</a> If there is a word or phrase obviously intended as the [Title of the manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
+<a name="1.21.382.1">1.21.382.1</a> If there is a word or phrase obviously intended as the [Title of the manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
 
-<a name="1.21.93.2">1.21.93.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
+<a name="1.21.382.2">1.21.382.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
 
-### 1.21.94 Two or more works with a collective title on a single sheet
+### 1.21.383 Two or more works with a collective title on a single sheet
 
-<a name="1.21.94.1">1.21.94.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
+<a name="1.21.383.1">1.21.383.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
 
-### 1.21.95 Two or more works without a collective title on a single sheet
+### 1.21.384 Two or more works without a collective title on a single sheet
 
-<a name="1.21.95.1">1.21.95.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/additional-notes/Issued-with/), [9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.384.1">1.21.384.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title statement the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with](/DCRMR/additional-notes/Issued-with/), [9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
 
-### 1.21.96 Two or more works with separate publication, distribution, etc., statements on a single sheet
+### 1.21.385 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
-<a name="1.21.96.1">1.21.96.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/additional-notes/Bound-with/), [9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
+<a name="1.21.385.1">1.21.385.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with](/DCRMR/additional-notes/Bound-with/), [9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.95.1](/DCRMR/title/Title-proper/#1.21.95.1), and include a note indicating that they were “possibly intended to be separated.”
 
-## 1.21.97 Access points for title proper
+## 1.21.39 Access points for title proper
 
-<a name="1.21.97.1">1.21.97.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Provide access for the entire title proper exactly as transcribed, disregarding initial articles as required by filing rules (see [Title of manifestation](/DCRMR/title/Title-of-manifestation), [1.20.4](/DCRMR/title/Title-of-manifestation//#1204-title-access-points)). 
+<a name="1.21.39.1">1.21.39.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Provide access for the entire title proper exactly as transcribed, disregarding initial articles as required by filing rules (see [Title of manifestation](/DCRMR/title/Title-of-manifestation), [1.20.4](/DCRMR/title/Title-of-manifestation//#1204-title-access-points)). 
 
-<a name="1.21.97.2">1.21.97.2</a> For instructions on providing access points for variants of the title proper, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) ([1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles)).
+<a name="1.21.39.2">1.21.39.2</a> For instructions on providing access points for variants of the title proper, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) ([1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles)).
