@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.31 Note on the source of the title proper
 
-<a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is a title page substitute, e.g., the caption title, docket title, etc. (see [1.21.3.2](/DCRMR/title/Title-proper/#1.21.3.2)).
+<a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is a title page substitute, e.g., the caption title, docket title, etc. (see [1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)).
 
 >Example:  
 ><CITE>Title from caption, page [3].</CITE>
@@ -44,23 +44,23 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.32 Title proper with grammatically inseparable designation
 
-<a name="1.29.32.1">1.29.32.1</a> If a manifestation is in more than one volume and the title proper of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply in square brackets after the first designation a hyphen and the final designation, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a note about the later designation(s) (see [Title proper](/DCRMR/title/Title-proper/), [1.21.5.1](/DCRMR/title/Title-proper/#1.21.5.1)).
+<a name="1.29.32.1">1.29.32.1</a> If a manifestation is in more than one volume and the title proper of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply in square brackets after the first designation a hyphen and the final designation, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a note about the later designation(s) (see [Title proper](/DCRMR/title/Title-proper/), [1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1)).
 
 ## 1.29.33 No title
 
-<a name="1.29.33.1">1.29.33.1</a> Make a note indicating whether the title proper is taken from the opening words of the text or has been devised by the cataloger (see [Title proper](/DCRMR/title/Title-proper/), [1.21.6.1](/DCRMR/title/Title-proper/#1.21.6.1)).
+<a name="1.29.33.1">1.29.33.1</a> Make a note indicating whether the title proper is taken from the opening words of the text or has been devised by the cataloger (see [Title proper](/DCRMR/title/Title-proper/), [1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)).
 
 ## 1.29.34 Title proper with supplementary or section designation or title
 
-<a name="1.29.34.1">1.29.34.1</a> Make a note indicating the original position on the title page of any transposed elements within a title proper with supplementary or section designation of title (see [Title proper](/DCRMR/title/Title-proper/), [1.21.7.1](/DCRMR/title/Title-proper/#1.21.7.1)).
+<a name="1.29.34.1">1.29.34.1</a> Make a note indicating the original position on the title page of any transposed elements within a title proper with supplementary or section designation of title (see [Title proper](/DCRMR/title/Title-proper/), [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
 ## 1.29.35 Title proper of single sheet publications
 
-<a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet publication has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper](/DCRMR/title/Title-proper/), [1.21.92.1](/DCRMR/title/Title-proper/#1.21.92.1)).
+<a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet publication has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper](/DCRMR/title/Title-proper/), [1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
 
-<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as title but not appearing in the first line of printing is selected as the title, make a note recording at least the first five words of the first line of printing (see [Title proper](/DCRMR/title/Title-proper/), [1.21.93.1](/DCRMR/title/Title-proper/#1.21.93.1)).
+<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as title but not appearing in the first line of printing is selected as the title, make a note recording at least the first five words of the first line of printing (see [Title proper](/DCRMR/title/Title-proper/), [1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)).
 
-<a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet publication if considered important (see [Title proper](/DCRMR/title/Title-proper/), [1.21.93.2](/DCRMR/title/Title-proper/#1.21.93.2)).
+<a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet publication if considered important (see [Title proper](/DCRMR/title/Title-proper/), [1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)).
 
 ## 1.29.36 Variations in title
 

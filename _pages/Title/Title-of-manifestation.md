@@ -37,7 +37,7 @@ sidebar:
  
 <a name="1.20.4.2">1.20.4.2</a> Use judgment in determining which forms of title access will be most useful for the resource in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
 
-<a name="1.20.4.3">1.20.4.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.97](/DCRMR/title/Title-proper/#12197-access-points-for-title-proper).
+<a name="1.20.4.3">1.20.4.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.39](/DCRMR/title/Title-proper/#12139-access-points-for-title-proper).
 
 <a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper).
 

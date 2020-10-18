@@ -56,7 +56,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.21.33 Edition statements with grammatically inseparable information
 
-<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/) transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) statement (see [1.21.3.1](/DCRMR/title/Title-proper/)). If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
+<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the designation of edition statement according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/) transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) statement (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with an designation of edition statement, transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
 
 >Example:  
 > <CITE>A new edition in two volumes</CITE>

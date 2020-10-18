@@ -140,15 +140,15 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ### 1.25.357 Title proper with transposed elements (optional)
 
-<a name="1.25.357.1">1.25.357.1</a> If an element appearing before the [Title proper](/DCRMR/title/Title-proper) has been transposed, provide additional title access for the element or for the title inclusive of the preceding element. If the preceding element has not been transposed, so that the [Title proper](/DCRMR/title/Title-proper) includes it, provide additional title access for the title without the preceding element (see [1.21.3.1](/DCRMR/title/Title-proper/#1.21.3.1) and [0.5.94](/DCRMR/general-rules/Transcription/#0594-order-and-transposition)).
+<a name="1.25.357.1">1.25.357.1</a> If an element appearing before the [Title proper](/DCRMR/title/Title-proper) has been transposed, provide additional title access for the element or for the title inclusive of the preceding element. If the preceding element has not been transposed, so that the [Title proper](/DCRMR/title/Title-proper) includes it, provide additional title access for the title without the preceding element (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1) and [0.5.94](/DCRMR/general-rules/Transcription/#0594-order-and-transposition)).
 
 ### 1.25.3575 Title proper inclusive of an alternative title (optional)
 
-<a name="1.25.3575.1">1.25.3575.1</a> Provide additional title access for an alternative title (see [1.21.4.3](/DCRMR/title/Title-proper/#1.21.4.3)).
+<a name="1.25.3575.1">1.25.3575.1</a> Provide additional title access for an alternative title (see [1.21.32.3](/DCRMR/title/Title-proper/#1.21.32.3)).
 
 ### 1.25.358 Title proper with supplementary or section title (optional)
 
-<a name="1.25.358.1">1.25.358.1</a> Provide additional title access for a title that is supplementary to, or a section of, another work when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.7.1](/DCRMR/title/Title-proper/#1.21.7.1)).
+<a name="1.25.358.1">1.25.358.1</a> Provide additional title access for a title that is supplementary to, or a section of, another work when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
 ### 1.25.3585 Phrases about notes, appendixes, etc. (optional)
 
@@ -156,7 +156,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ### 1.25.359 First line of printing on single-sheet manifestations (optional)
 
-<a name="1.25.359.1">1.25.359.1</a> Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.92.1](/DCRMR/title/Title-proper/#1.21.92.1)).
+<a name="1.25.359.1">1.25.359.1</a> Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
 
 ### 1.25.3593 Variant and other titles within the manifestation (optional)
 

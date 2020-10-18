@@ -58,7 +58,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Other title information: <CITE>containing several excellent new songs ...</CITE>  
 >Note on manifestation:  <CITE>Contents: (from title page) I. The good housewife's coat of arms -- II. The spinning wheels glory -- III. The taylor disappointed of his bride -- IV. The changeable world</CITE>  
 
-<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other works are given equal prominence with the first-named work (see [1.21.9](/DCRMR/title/Title-proper/#1219-two-or-more-expressions-named-on-the-preferred-source-of-information)).
+<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other works are given equal prominence with the first-named work (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
 ## 1.23.34 Persons or bodies not explicitly named
 
