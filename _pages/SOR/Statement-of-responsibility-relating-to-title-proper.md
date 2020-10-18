@@ -50,14 +50,14 @@ sidebar:
 
 ## 2.20.4 Statements of responsibility on other sources
 
-<a name="2.20.4.1">2.20.4.1</a> If a statement of responsibility appears appears elsewhere in the manifestation than on the preferred source of information, or is taken from outside the manifestation, record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.22.3.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.3.1)).
+<a name="2.20.4.1">2.20.4.1</a> If a statement of responsibility appears appears elsewhere in the manifestation than on the preferred source of information, or is taken from outside the manifestation, record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
 
 >Example:  
 ><CITE>Preface signed: Thomas Hopkins</CITE>  
  
 ## 2.20.5 Transposition of statements of responsibility
 
-<a name="2.20.5.1">2.20.5.1</a> If a statement of responsibility precedes the title proper in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper) (see [1.21.3](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.02.2](/DCRMR/sor/#2.02.2) and [2.22.4.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.4.1)).
+<a name="2.20.5.1">2.20.5.1</a> If a statement of responsibility precedes the title proper in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper) (see [1.21.3](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.02.2](/DCRMR/sor/#2.02.2) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 ## 2.20.6 Single statements of responsibility with two or more names
 
@@ -100,13 +100,13 @@ sidebar:
 
 ## 2.20.92 Ambiguous statements of responsibility
 
-<a name="2.20.92.1">2.20.92.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to clarify the role if considered important (see [2.22.6.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.6.1)).
+<a name="2.20.92.1">2.20.92.1</a> If the relationship between the title of a work and the person(s) or body (bodies) named in the statement of responsibility is not clear, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to clarify the role if considered important (see [2.29.34.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.34.1)).
 
-<a name="2.20.92.2">2.20.92.2</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) about expansions, explanations, and corrections of statements of responsibility when needed for clarity (see [2.22.6.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.6.2)).
+<a name="2.20.92.2">2.20.92.2</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) about expansions, explanations, and corrections of statements of responsibility when needed for clarity (see [2.29.34.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.34.2)).
 
 ## 2.20.93 Variant forms of names
 
-<a name="2.20.93.1">2.20.93.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) on variant forms of names of persons or bodies named in statements of responsibility if the variant forms clarify the names used in access points (see [2.22.7.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.7.1)).
+<a name="2.20.93.1">2.20.93.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) on variant forms of names of persons or bodies named in statements of responsibility if the variant forms clarify the names used in access points (see [2.29.35.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.35.1)).
 
 ## 2.20.94 Nouns and noun phrases
 
@@ -139,4 +139,4 @@ sidebar:
 
 ## 2.20.98 Other statements
 
-<a name="2.20.98.1">2.20.98.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description (see [2.22.8.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.8.1)). Give the authority for the information, if necessary.
+<a name="2.20.98.1">2.20.98.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description (see [2.29.36.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.36.1)). Give the authority for the information, if necessary.

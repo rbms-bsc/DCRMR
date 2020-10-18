@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.23.31 Transposition of statements of responsibility not relating to edition
 
-<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the designation of edition, transpose it to the statement of responsibility relating to title proper in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.22.4.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.4.1)).
+<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the designation of edition, transpose it to the statement of responsibility relating to title proper in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  

@@ -32,4 +32,4 @@ sidebar:
 >Example:  
 ><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter ... = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>
 
-<a name="2.21.3.2">2.21.3.2</a> Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source of any transposed statements (see [2.22.4.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.22.4.2)).  
+<a name="2.21.3.2">2.21.3.2</a> Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source of any transposed statements (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
