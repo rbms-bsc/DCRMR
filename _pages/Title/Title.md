@@ -61,7 +61,7 @@ sidebar:
 
 [Chapter 1.22 Parallel title proper](/DCRMR/title/Parallel-title-proper/)
 
-[Chapter 1.24 Other title information](/DCRMR/title/Other-title-information/)
+[Chapter 1.235 Other title information](/DCRMR/title/Other-title-information/)
 
 [Chapter 1.25 Parallel other title information](/DCRMR/title/Parallel-other-title-information/)
 
