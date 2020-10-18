@@ -45,7 +45,7 @@ sidebar:
 
 ## 1.23.4 Other title information following a statement of responsibility relating to title proper
 
-<a name="1.23.4.1">1.23.4.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.03](/DCRMR/sor/#203-form-and-order-of-information)).
+<a name="1.23.4.1">1.23.4.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.01.3](/DCRMR/sor/#2013-form-and-order-of-information)).
 
 ## 1.23.5 Other title information constituting a formal statement of contents
 
