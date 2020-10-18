@@ -10,4 +10,4 @@ sidebar:
 ## This information has moved.
 
 
-The contents of the Appendix G has been moved to [Transcription](/DCRMR/general-rules/Transcription), [0.5.15](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0515-early-letterforms-and-symbols).
+The contents of the Appendix G has been moved to [Transcription](/DCRMR/general-rules/Transcription), [0.4.15](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0415-early-letterforms-and-symbols).

@@ -42,7 +42,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.28.31 Transcription involving adjustments or additions
 
-<a name="5.28.31.1">5.28.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.34](/DCRMR/general-rules/Transcription/#0534-punctuation-within-roman-numerals) and [0.5.42.3](/DCRMR/general-rules/Transcription/#0.5.42.3)). Supply the year in arabic numerals in square brackets.
+<a name="5.28.31.1">5.28.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>in the year M.DCC.LXXV [1775]</CITE>

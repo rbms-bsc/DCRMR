@@ -76,7 +76,7 @@ part of a statement being transcribed in the production, publication, distributi
 
 ## 3.22.35 Designations of edition with special characters or a numeric emphasis
 
-<a name="3.22.35.1">3.22.35.1</a> If a designation of edition consists entirely or chiefly of characters that are neither numeric nor alphabetic, transcribe the characters as they appear if the necessary typographical facilities are available. For characters that cannot be reproduced, substitute the names or descriptions of the characters in square brackets (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.14.1](/DCRMR/general-rules/Transcription/#0.5.14.1)).
+<a name="3.22.35.1">3.22.35.1</a> If a designation of edition consists entirely or chiefly of characters that are neither numeric nor alphabetic, transcribe the characters as they appear if the necessary typographical facilities are available. For characters that cannot be reproduced, substitute the names or descriptions of the characters in square brackets (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.14.1](/DCRMR/general-rules/Transcription/#0.4.14.1)).
 
 >Example:  
 ><CITE>&&& edition</CITE>

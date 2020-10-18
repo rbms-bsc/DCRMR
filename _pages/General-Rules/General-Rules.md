@@ -20,4 +20,4 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 [Chapter 0.4 Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description/)
 
-[Chapter 0.5 Transcription](/DCRMR/general-rules/Transcription/)
+[Chapter 0.4 Transcription](/DCRMR/general-rules/Transcription/)

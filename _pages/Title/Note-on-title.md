@@ -77,7 +77,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.29.36.2">1.29.36.2</a> If nonroman text has been transcribed in the title proper without parallel romanization (e.g., as transcribed from the source), give a romanization of the title proper if considered important.
 
-<a name="1.29.36.3">1.29.36.3</a> Make an explanatory note about cataloger-supplied letters or words (e.g., when special marks of contraction have been used by the printer in continuance of the manuscript tradition) if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.5.16](/DCRMR/general-rules/Transcription/#0516-brevigraphs)).
+<a name="1.29.36.3">1.29.36.3</a> Make an explanatory note about cataloger-supplied letters or words (e.g., when special marks of contraction have been used by the printer in continuance of the manuscript tradition) if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs)).
 
 >Example:  
 ><CITE>Brevigraphs in title have been expanded</CITE>
