@@ -10,7 +10,9 @@ sidebar:
 
 ## Internal review errata
 
-[Link to preface errata](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit)
+Please comment about errata on the [Preface errata page](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit#heading=h.c50jsz6kczus){:target="_blank"}.
+
+---
 
 DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right. 
 
