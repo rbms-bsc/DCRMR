@@ -43,4 +43,4 @@ sidebar:
 
 <a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Variant titles of a manifestation](/DCRMR/title/Variant-title-of-manifestation), see [1.25.4](/DCRMR/title/Variant-title-of-manifestation/#1254-access-points-for-variant-titles).
 
-<a name="1.20.4.4">1.20.4.4</a> For instructions on providing access points for [Titles of item](/DCRMR/title/Title-of-item), see [1.26.4](/DCRMR/title/Title-of-item/#1264-access-points-for-item-specific-titles).
+<a name="1.20.4.4">1.20.4.4</a> For instructions on providing access points for [Titles of item](/DCRMR/title/Title-of-item), see [1.27.31](/DCRMR/title/Title-of-item/#12731-access-points-for-item-specific-titles).

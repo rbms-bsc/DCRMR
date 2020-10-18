@@ -67,6 +67,6 @@ sidebar:
 
 [Chapter 1.25 Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/)
 
-[Chapter 1.26 Title of item](/DCRMR/title/Title-of-item/)
+[Chapter 1.27 Title of item](/DCRMR/title/Title-of-item/)
 
 [Chapter 1.29 Note on title](/DCRMR/title/Note-on-title/)

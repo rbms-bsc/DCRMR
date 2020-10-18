@@ -13,7 +13,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 ## 8.01.1 Sources of information 
 
-<a name="8.01.1.1">8.01.1.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item](/DCRMR/title/Title-of-item/), [1.26.4.3](/DCRMR/title/Title-of-item/#1.26.4.3)).
+<a name="8.01.1.1">8.01.1.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item](/DCRMR/title/Title-of-item/), [1.27.31.3](/DCRMR/title/Title-of-item/#1.27.31.3)).
 
 <a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
