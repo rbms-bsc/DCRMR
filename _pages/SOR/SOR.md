@@ -28,7 +28,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Chapter 2.20 Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
+[Chapter 2.21 Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
 
 [Chapter 2.215 Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/)
 
