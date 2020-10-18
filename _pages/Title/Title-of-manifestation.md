@@ -39,7 +39,7 @@ sidebar:
 
 <a name="1.20.4.3">1.20.4.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.97](/DCRMR/title/Title-proper/#12197-access-points-for-title-proper).
 
-<a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.22.5](/DCRMR/title/Parallel-title-proper/#1225-access-points-for-parallel-titles-proper).
+<a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper).
 
 <a name="1.20.6.4">1.20.6.4</a> For instructions on providing access points for [Variant titles of a manifestation](/DCRMR/title/Variant-title-of-manifestation), see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
 

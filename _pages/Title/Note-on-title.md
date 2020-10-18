@@ -86,7 +86,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.37 Parallel titles
 
-<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper](/DCRMR/title/Parallel-title-proper/), [1.22.3.2](/DCRMR/title/Parallel-title-proper/#1.22.3.2)).
+<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper](/DCRMR/title/Parallel-title-proper/), [1.215.31.2](/DCRMR/title/Parallel-title-proper/#1.215.31.2)).
 
 <a name="1.29.37.2">1.29.37.2</a> For instructions on providing access points for parallel titles, see [Parallel title proper](/DCRMR/title/Parallel-title-proper/). For instructions on providing access points for other title information, see [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/).
 
