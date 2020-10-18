@@ -171,7 +171,7 @@ The structure and numbering of DCRMR are new. Since the Beta Toolkit does not pr
 
 <a name="VIII.1">VIII.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
-<a name="VIII.2">VIII.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/additional-notes/#7.04.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/additional-notes/)).
+<a name="VIII.2">VIII.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [9.01.5.1](/DCRMR/additional-notes/#9.01.5.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/additional-notes/)).
 
 ## IX. Integrity of the copy
 

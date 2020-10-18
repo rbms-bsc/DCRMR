@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
 
-<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
+<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1) and [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  

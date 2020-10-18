@@ -27,11 +27,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.31 Notes from Publication statements
 
-<a name="5.24.31.1">5.24.31.1</a> Make a note if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="5.24.31.1">5.24.31.1</a> Make a note if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
-<a name="5.24.31.2">5.24.31.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) if considered important (see [4.30.3.3](/DCRMR/ppdm/#4.01.3)).
+<a name="5.24.31.2">5.24.31.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) if considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
-<a name="5.24.31.3">5.24.31.3</a> Make a note on publication statement if [Publication statements](/DCRMR/ppdm/Publication-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="5.24.31.3">5.24.31.3</a> Make a note on publication statement if [Publication statements](/DCRMR/ppdm/Publication-statement/) are transposed indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
 
 >Example:  
 >Publication statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
@@ -188,7 +188,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.37 Publication details not included in the manifestation
 
-<a name="5.24.37.1">5.24.37.1</a> Make a note on publication details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+<a name="5.24.37.1">5.24.37.1</a> Make a note on publication details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
 ><CITE>No more published.</CITE>

@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.36.31.2">5.36.31.2</a> If a date of [Date of publication](/DCRMR/ppdm/Date-of-publication/), [Date of distribution](/DCRMR/ppdm/Date-of-publication/), does not appear on the manifestation, and the [Copyright date](/DCRMR/ppdm/Copyright-date/) or deposit does not represent the probable date of publication, provide an explanation for the supplied date in a note on copyright date (see [Copyright date](/DCRMR/ppdm/Copyright-date/), [5.35.31.3](/DCRMR/ppdm/Copyright-date/#5.35.31.3)).
 
-<a name="5.36.31.3">5.36.31.3</a> Make a note on copyright details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+<a name="5.36.31.3">5.36.31.3</a> Make a note on copyright details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
 ><CITE>"Entered according to Act of Congress, in the year 1853, by O.K. Kingsbury"--Title page verso</CITE>

@@ -27,11 +27,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.31 Notes from Manufacture statements
 
-<a name="5.34.31.1">5.34.31.1</a>  Make a note if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the preferred source of information (see [4.01.2](/DCRMR/ppdm/#4.01.2)).
+<a name="5.34.31.1">5.34.31.1</a>  Make a note if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
-<a name="5.34.31.2">5.34.31.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
+<a name="5.34.31.2">5.34.31.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) if considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
-<a name="5.34.31.3">5.34.31.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="5.34.31.3">5.34.31.3</a>  Make a note on manufacture statement if [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
 
 <a name="5.34.31.4">5.34.31.4</a>  Make a note if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.29.31.1](/DCRMR/ppdm/Manufacture-statement/#5.29.31.1)). 
 
@@ -102,7 +102,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.37 Manufacture details not included in the manifestation
 
-<a name="5.34.37.1">5.34.37.1</a> Make a note on manufacture details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+<a name="5.34.37.1">5.34.37.1</a> Make a note on manufacture details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
 ><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures.</CITE>

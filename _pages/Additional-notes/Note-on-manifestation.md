@@ -123,7 +123,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 # 9.3.37 Notes on imperfect exemplars
 
-<a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.3.2](/DCRMR/general-rules/Data-provenance/#0.2.3.2)).
+<a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 
 # 9.3.38 Accompanying material
 

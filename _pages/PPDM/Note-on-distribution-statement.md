@@ -27,11 +27,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.31 Notes from Distribution statements
 
-<a name="5.285.31.1">5.285.31.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the preferred source of information (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="5.285.31.1">5.285.31.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
-<a name="5.285.31.2">5.285.31.2</a> Make a note on distribution statement if information is not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [4.01.3](/DCRMR/ppdm/#4.01.3)).
+<a name="5.285.31.2">5.285.31.2</a> Make a note on distribution statement if information is not transcribed in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) if considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
-<a name="5.285.31.3">5.285.31.3</a> Make a note on distribution statement if [Distribution statments](/DCRMR/ppdm/Distribution-statement/) are transposed indicating the original position of the transposed elements (see [4.02.2](/DCRMR/ppdm/#4.02.2)).
+<a name="5.285.31.3">5.285.31.3</a> Make a note on distribution statement if [Distribution statments](/DCRMR/ppdm/Distribution-statement/) are transposed indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
 
 >Example:  
 >Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
@@ -132,7 +132,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.37 Distribution details not included in the manifestation
 
-<a name="5.285.37.1">5.285.37.1</a> Make a note on distribution details that are not included in other elements if they are considered important (see [4.01.4](/DCRMR/ppdm/#4.01.4)).
+<a name="5.285.37.1">5.285.37.1</a> Make a note on distribution details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
 ><CITE>Price three pence</CITE>
