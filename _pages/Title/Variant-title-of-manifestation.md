@@ -124,7 +124,7 @@ If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) 
 
 <a name="1.25.4.991">1.25.4.991</a> **First line of printing on single-sheet manifestations (optional)**. Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.92.1](/DCRMR/title/Title-proper/#1.21.92.1)).
 
-<a name="1.25.4.992">1.25.4.992</a> **Variant and other titles within the manifestation (optional)**. Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations comprised of more than one physical unit, and significant other title information (see also [Note on title](/DCRMR/title/Note-on-title), [1.27.8.1](/DCRMR/title/Note-on-title/#1.27.8.1)).
+<a name="1.25.4.992">1.25.4.992</a> **Variant and other titles within the manifestation (optional)**. Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations comprised of more than one physical unit, and significant other title information (see also [Note on title](/DCRMR/title/Note-on-title), [1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
 
 >Example:  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  

@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.20.3 Title information not appearing on title page
 
-<a name="1.20.3.1">1.20.3.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.27.92.1](/DCRMR/title/Note-on-title/#1.27.92.1)).
+<a name="1.20.3.1">1.20.3.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
 
 >Example:  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes prouision for woemen</CITE>  

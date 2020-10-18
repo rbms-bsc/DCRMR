@@ -44,7 +44,7 @@ sidebar:
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
 
-<a name="1.21.3.2">1.21.3.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.27.3.1](/DCRMR/title/Note-on-title/#1.27.3.1)).
+<a name="1.21.3.2">1.21.3.2</a> **Note on the source of the title proper**. Make a note on the source of the title proper if it is from a title page substitute (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.2.5.4](/DCRMR/general-rules/Data-provenance/#0.2.5.4) and [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
@@ -86,11 +86,11 @@ sidebar:
 >Le tiers volume de l'histoire et cronique de messire Iehan Froissart  
 >Le quart volume de l'histoire et cronique de messire Iehan Froissart)  
 
-If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a [Note on title](/DCRMR/title/Note-on-title/) about the later designation(s) (see [1.27.4.1](/DCRMR/title/Note-on-title/#1.27.4.1)).
+If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a [Note on title](/DCRMR/title/Note-on-title/) about the later designation(s) (see [1.29.32.1](/DCRMR/title/Note-on-title/#1.29.32.1)).
 
 ## 1.21.6 No title
 
-<a name="1.21.6.1">1.21.6.1</a> If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, or supply a title from a reference source; use this devised or supplied title, enclosed in square brackets, as the title proper. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the title proper (see [1.27.5.1](/DCRMR/title/Note-on-title/#1.27.5.1)).
+<a name="1.21.6.1">1.21.6.1</a> If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, or supply a title from a reference source; use this devised or supplied title, enclosed in square brackets, as the title proper. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
 
 >Example:  
 >Title proper: <CITE>Ye true-born Englishmen proceed, our trifling crimes detect</CITE>  
@@ -108,7 +108,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 
 ## 1.21.7 Title proper with supplementary or section designation or title
 
-<a name="1.21.7.1">1.21.7.1</a> If the title proper for a work that is supplementary to, or a section of, another work appears in two or more grammatically separable parts, transcribe the title of the main work first, followed by the designation(s) and/or title(s) of the supplement(s) or section(s) in order of their dependence.  Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the original position on the preferred source of information of any transposed title elements (see [1.27.6.1](/DCRMR/title/Note-on-title/#1.27.6.1)).
+<a name="1.21.7.1">1.21.7.1</a> If the title proper for a work that is supplementary to, or a section of, another work appears in two or more grammatically separable parts, transcribe the title of the main work first, followed by the designation(s) and/or title(s) of the supplement(s) or section(s) in order of their dependence.  Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the original position on the preferred source of information of any transposed title elements (see [1.29.34.1](/DCRMR/title/Note-on-title/#1.29.34.1)).
 
 >Example:  
 >Title proper: <CITE>Faust. Part one.</CITE>  
@@ -169,13 +169,13 @@ transcribe the title and statement of responsibility from the preferred source o
 + price
 + tabular material
 
-If the initial text has been omitted, indicate the nature and position of the omitted material in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.27.7.1](/DCRMR/title/Note-on-title/#1.27.7.1)).
+If the initial text has been omitted, indicate the nature and position of the omitted material in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.1](/DCRMR/title/Note-on-title/#1.29.35.1)).
 
 ### 1.21.93 Title proper of a single-sheet manifestation
 
-<a name="1.21.93.1">1.21.93.1</a> If there is a word or phrase obviously intended as the [Title of the manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.27.7.2](/DCRMR/title/Note-on-title/#1.27.7.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
+<a name="1.21.93.1">1.21.93.1</a> If there is a word or phrase obviously intended as the [Title of the manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
 
-<a name="1.21.93.2">1.21.93.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.27.7.3](/DCRMR/title/Note-on-title/#1.27.7.3)).
+<a name="1.21.93.2">1.21.93.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
 
 ### 1.21.94 Two or more works with a collective title on a single sheet
 

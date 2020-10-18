@@ -44,7 +44,7 @@ sidebar:
 
 <a name="1.02.1">1.02.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which it is presented on the preferred source of information, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
 
-<a name="1.02.2">1.02.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.27.3.2](/DCRMR/title/Note-on-title/#1.27.3.2)).
+<a name="1.02.2">1.02.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 
 >Example:  
 >Title proper: <CITE>Prudence Palfrey</CITE>  
@@ -69,4 +69,4 @@ sidebar:
 
 [Chapter 1.26 Title of item](/DCRMR/title/Title-of-item/)
 
-[Chapter 1.27 Note on title](/DCRMR/title/Note-on-title/)
+[Chapter 1.29 Note on title](/DCRMR/title/Note-on-title/)
