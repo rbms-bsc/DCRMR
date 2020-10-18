@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [General reules errata page](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit#heading=h.gvx2eozefa9k){:target="_blank"}.
+Please comment about errata on the [General rules errata page](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit#heading=h.gvx2eozefa9k){:target="_blank"}.
 
 ---
 ## x0.2.01 Prescribed punctuation
