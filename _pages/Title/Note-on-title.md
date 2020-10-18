@@ -92,7 +92,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.38 Transposition of other title information
 
-<a name="1.29.38.1">1.29.38.1</a> Make a note indicating the transposition of other title information that precedes the title proper on the title page (see [Other title information](/DCRMR/title/Other-title-information/), [1.23.25.2](/DCRMR/title/Other-title-information/#1.23.25.2)).
+<a name="1.29.38.1">1.29.38.1</a> Make a note indicating the transposition of other title information that precedes the title proper on the title page (see [Other title information](/DCRMR/title/Other-title-information/), [1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)).
 
 ## 1.29.39 Title information not appearing on title page
 

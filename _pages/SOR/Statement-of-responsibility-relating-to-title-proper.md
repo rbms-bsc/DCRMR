@@ -61,7 +61,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 <a name="2.21.33.1">2.21.33.1</a> Transcribe a single statement of responsibility as such whether the two or more persons or corporate bodies named in it perform the same function or different functions.
 
-<a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single statement of responsibility (unless grammatically inseparable from the [Title proper](/DCRMR/title/Title-proper/) ([1.21.5.1](/DCRMR/title/Title-proper/#1.21.5.1)) or [Other title information](/DCRMR/title/Other-title-information/) ([1.23.91.1](/DCRMR/title/Other-title-information/#1.23.91.1))).
+<a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single statement of responsibility (unless grammatically inseparable from the [Title proper](/DCRMR/title/Title-proper/) ([1.21.5.1](/DCRMR/title/Title-proper/#1.21.5.1)) or [Other title information](/DCRMR/title/Other-title-information/) ([1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1))).
 
 >Example:  
 ><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt</CITE>
@@ -116,7 +116,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ## 2.21.375 Persons or bodies not explicitly named
 
-<a name="2.21.375.1">2.21.375.1</a> Transcribe statements indicating responsibility that do not explicitly name a person or body as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.6.1](/DCRMR/title/Other-title-information/#1.23.6.1)).
+<a name="2.21.375.1">2.21.375.1</a> Transcribe statements indicating responsibility that do not explicitly name a person or body as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.34.1](/DCRMR/title/Other-title-information/#1.23.34.1)).
 
 >Example:  
 >Title proper: <CITE>The folowing of Christ</CITE>  

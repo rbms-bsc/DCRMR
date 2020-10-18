@@ -152,7 +152,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ### 1.25.3585 Phrases about notes, appendixes, etc. (optional)
 
-<a name="1.25.3585.1">1.25.3585.1</a> Provide additional title access for phrases concerning notes, appendixes, etc., if the phrase is distinctive and the additional access seems useful (see [1.23.8](/DCRMR/title/Other-title-information/#1238-phrases-about-notes-appendixes-etc)).
+<a name="1.25.3585.1">1.25.3585.1</a> Provide additional title access for phrases concerning notes, appendixes, etc., if the phrase is distinctive and the additional access seems useful (see [1.23.36](/DCRMR/title/Other-title-information/#12336-phrases-about-notes-appendixes-etc)).
 
 ### 1.25.359 First line of printing on single-sheet manifestations (optional)
 
