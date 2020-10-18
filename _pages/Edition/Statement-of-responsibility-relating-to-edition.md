@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.23.3 General rule
 
-<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements (see [2.21.3](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2213-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)).
+<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements (see [2.215.31](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)).
 
 >Example:  
 ><CITE>with notes of various authors by Thomas Newton</CITE>

@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 <a name="2.29.32.1">2.29.32.1</a> Note the original position on the title page of statements of responsibility that have been transposed to the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) elements (see [2.20.5.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.20.5.1)).
 
-<a name="2.29.32.2">2.29.32.2</a> Make a note to indicate the original position on the source of any transposed parallel statements of responsibility (see [Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/), [2.21.3.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.21.3.2)).
+<a name="2.29.32.2">2.29.32.2</a> Make a note to indicate the original position on the source of any transposed parallel statements of responsibility (see [Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/), [2.215.31.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.2)).
 
 ## 2.29.33 Attributions
 
