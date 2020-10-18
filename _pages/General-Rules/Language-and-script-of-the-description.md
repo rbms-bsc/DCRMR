@@ -7,15 +7,17 @@ sidebar:
   nav: "docs"
 ---
 
+Please comment about errata on the [General rules errata page](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit#heading=h.r4t8kkmuizr0){:target="_blank"}.
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-## 0.4.1 General rule
+## x0.3.1 General rule
 
-<a name="0.4.1.1">0.4.1.1</a> For the following elements, transcribe information from the manifestation itself in the language and script (wherever feasible) in which it appears there. “Script” does not refer to writing styles such as gothic, italic, secretary hand, etc., but to a writing system: an alphabet, syllabary, logographic system, etc.
+<a name="x0.3.1.1">x0.3.1.1</a> For the following elements, transcribe information from the manifestation itself in the language and script (wherever feasible) in which it appears there. “Script” does not refer to writing styles such as gothic, italic, secretary hand, etc., but to a writing system: an alphabet, syllabary, logographic system, etc.
 
 + Title
 + Statement of responsibility
@@ -25,17 +27,17 @@ sidebar:
 + Manufacture statement
 + Series statement
 
-<a name="0.4.1.2">0.4.1.2</a> For guidance on transcribing pre-modern letterforms and symbols see [0.5.10](/DCRMR/general-rules/Transcription/#0.5.10).
+<a name="x0.3.1.2">x0.3.1.2</a> For guidance on transcribing pre-modern letterforms and symbols see [0.4.15](/DCRMR/general-rules/Transcription/#0415-early-letterforms-and-symbols).
 
 For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-141.html){:target="_blank"}.
 
-<a name="0.4.1.3">0.4.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.29](/DCRMR/title/Other-title-information/#12329-order-and-source-of-other-title-information), [2.01.3](/DCRMR/sor/#2013-form-and-order-of-information), [5.21.325.1](/DCRMR/ppdm/Place-of-publication/#5.21.325.1), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
+<a name="x0.3.1.3">x0.3.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g., [1.23.29](/DCRMR/title/Other-title-information/#12329-order-and-source-of-other-title-information), [2.01.3](/DCRMR/sor/#2013-form-and-order-of-information), [5.21.325.1](/DCRMR/ppdm/Place-of-publication/#5.21.325.1), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
-<a name="0.4.1.4">0.4.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
+<a name="x0.3.1.4">x0.3.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
 
-## 0.4.2 Romanization
+## x0.3.2 Romanization
 
-<a name="0.4.2.1">0.4.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Make a note on [Script](/DCRMR/additional-notes/Script/) to indicate that the romanized text appears in nonroman script (see [9.24.3.2](/DCRMR/additional-notes/Script/#9.24.3.2)).
+<a name="x0.3.2.1">x0.3.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Make a note on [Script](/DCRMR/additional-notes/Script/) to indicate that the romanized text appears in nonroman script (see [9.24.3.2](/DCRMR/additional-notes/Script/#9.24.3.2)).
 
 >Example:  
 ><CITE>Source: ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις</CITE>  
@@ -47,7 +49,7 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 >Transcription: <CITE><CITE>Hendecasyllabōn</CITE>  
 >Note on manifestation: <CITE>In the title, the ō in Hendecasyllabōn is printed in Greek script</CITE>
 
-<a name="0.4.2.2">0.4.2.2</a> *Optionally*, if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
+<a name="x0.3.2.2">x0.3.2.2</a> *Optionally*, if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
 
 >Example:  
 >Note on manifestation: <CITE>Romanization supplied by cataloger</CITE>
