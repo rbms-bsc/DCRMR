@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.24.3.1">9.24.3.1</a> Make a note on the script of the expression if considered important.
 
-<a name="9.24.3.2">9.24.3.2</a> Always note the presence of nonroman script in the publication if it has been transcribed only in romanized form in the description (see [Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description), [x0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#x0.3.2.1)).
+<a name="9.24.3.2">9.24.3.2</a> Always note the presence of nonroman script in the publication if it has been transcribed only in romanized form in the description (see [Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description), [0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)).
 
 >Example:  
 ><CITE>Church Slavic in Cyrillic script</CITE>

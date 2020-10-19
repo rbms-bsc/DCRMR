@@ -170,7 +170,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 <a name="I.01.7.1">I.01.7.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
-<a name="I.01.7.2">I.01.7.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [7.04.1](/DCRMR/additional-notes/#7.04.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/additional-notes/)).
+<a name="I.01.7.2">I.01.7.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [9.01.5.1](/DCRMR/additional-notes/#9.01.5.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/additional-notes/)).
 
 ## I.01.8 Integrity of the copy
 

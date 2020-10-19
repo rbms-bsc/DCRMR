@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.33.35 Alternative rules
 
-<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a seperate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#x-precataloging-decisions)), follow the alternative rules below.
+<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a seperate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#i019-precataloging-decisions), [I.01.9.1](/DCRMR/introduction/#I.01.9.1)), follow the alternative rules below.
 
 ### 5.33.351 Alternative rules for Date of manufacture
 
