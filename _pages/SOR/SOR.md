@@ -17,7 +17,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ## 2.01.2 Element order
 
-<a name="2.01.2.1">2.01.2.1</a> Element order for statement of responsibility elements is integrated with the instructions for title elements; see [Title: Element order](/DCRMR/title/#101a-element-order) ([1.01a](/DCRMR/title/#101a-element-order)).
+<a name="2.01.2.1">2.01.2.1</a> Element order for statement of responsibility elements is integrated with the instructions for title elements; see [Title: Element order](/DCRMR/title/#1012-element-order) ([1.01.2](/DCRMR/title/#1012-element-order)).
 
 ## 2.01.3 Form and order of information
 
