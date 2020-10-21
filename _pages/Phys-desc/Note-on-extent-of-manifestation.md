@@ -23,7 +23,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ##  6.215.2 RDA definition and scope
 
-<a name=" 6.215.2.1"> 6.215.2.1</a> A note on manifestation that provides information on the extent of a manifestation.
+<a name="6.215.2.1">6.215.2.1</a> A note on manifestation that provides information on the extent of a manifestation.
 
 ## 6.215.3 General rule
 

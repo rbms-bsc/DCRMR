@@ -107,7 +107,7 @@ Make an explanatory note.
 
 ### 0.4.21 Capitalization and conversion of case: general rule
 
-<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-f32d79b7-2177-300c-ae09-639ac89b5d49 "RDA: Capitalization") in the RDA Toolkit, with the following exceptions. 
+<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b{:target="_blank"}) in the RDA Toolkit, with the following exceptions. 
 
 For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and V](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v) ([0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)).
 
@@ -793,7 +793,7 @@ See the instructions for specific types of dates as follows:
 
 ### 0.4.94 Order and transposition
 
-<a name="0.4.94.05">0.4.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf) (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
+<a name="0.4.94.05">0.4.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"} (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
 
 * Title and statement of responsibility
 	* Title proper
