@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 <a name="8.01.1.4">8.01.1.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
-<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but reference sources provide evidence that the book was issued as part of a publisher’s series, do not record a supplied [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). Record the series as an authorized access point if considered important for identification or access (see [Authorized access point for RDA entity](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9badaad7-0d00-3f72-9ae9-d414344e21a5)).
+<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but reference sources provide evidence that the book was issued as part of a publisher’s series, do not record a supplied [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). Record the series as an authorized access point if considered important for identification or access (see [Authorized access point for RDA entity](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9badaad7-0d00-3f72-9ae9-d414344e21a5 ){:target="_blank"}).
 
 ## 8.01.2 Element order
 
@@ -39,39 +39,39 @@ Note: subseries is transcribed as part of the Title of series element.
 
 > Title of series. Subseries = Parallel title of series. Parallel subseries
 
-<a name="8.01.2.4">8.01.2.4</a> Transcribe other title information relating to the series following title of series. If there are parallel series titles, transcribe the other title information after the series title to which relates.
+<a name="8.01.2.4">8.01.2.4</a> Transcribe other title information relating to the series following title of series. If there are parallel series titles, transcribe the other title information after the series title to which it relates.
 
->Title of series : other title information of series = Parallel title of series
+>Title of series : Other title information of series = Parallel title of series
 
->Title of series : other title information of series = Parallel title of series: parallel other title information of series
+>Title of series : Other title information of series = Parallel title of series: parallel other title information of series
 
 <a name="8.01.2.5">8.01.2.5</a> Transcribe a statement of responsibility relating to the series following the series title.
 
-> Title of series : other title information of series / statement of responsibility relating to series
+> Title of series : Other title information of series / Statement of responsibility relating to series
 
 <a name="8.01.2.6">8.01.2.6</a> If there are parallel series titles but the statement of responsibility relating to series appears in only one language or script, transcribe the statement of responsibility after the last parallel title, following any other title information associated with the title.
 
-> Title of series : other title information of series = Parallel title of series: parallel other title information of series / statement of responsibility related to series.
+> Title of series : Other title information of series = Parallel title of series: parallel other title information of series / Statement of responsibility related to series.
 
 <a name="8.01.2.7">8.01.2.7</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the series title (or other title information) to which it relates.
 
-> Title of series : other title information of series / statement of responsibility related to series = Parallel title of series: parallel other title information of series / parallel statement of responsibility related to series
+> Title of series : Other title information of series / Statement of responsibility related to series = Parallel title of series : Parallel other title information of series / Parallel statement of responsibility related to series
 
 <a name="8.01.2.8">8.01.2.8</a> If series numbering is present, transcribe it as the last element in the series statement. 
 
-> Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence
+> Title of series : Other title information of series / Statement of responsibility related to series ; Numbering within sequence
 
 <a name="8.01.2.9">8.01.2.9</a> If there are parallel series titles and the series numbering also appears in more than one language or script, transcribe each number after the series title to which it relates (following any other title information or any statement of responsibility associated with the title).
 
-> Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence = Parallel title of series: parallel other title information of series / parallel statement of responsibility related to series ; numbering within sequence [relating to parallel title of series]
+> Title of series : Other title information of series / Statement of responsibility related to series ; Numbering within sequence = Parallel title of series : Parallel other title information of series / Parallel statement of responsibility related to series ; Numbering within sequence [relating to parallel title of series]
 
 <a name="8.01.2.91">8.01.2.91</a> If the series numbering appears only once, transcribe it after the series title to which it relates. 
 
-> Title of series ; numbering within sequence [related to Title within series] = Parallel title of series
+> Title of series ; Numbering within sequence [related to Title within series] = Parallel title of series
 
 <a name="8.01.2.92">8.01.2.92</a> However, if the numbering relates to all, more than one, or none of the series titles, transcribe it at the end of the series statement.
 
-Title of series = Parallel title of series ; numbering within sequence [relating to both the title of the series and the parallel title of the series]
+> Title of series = Parallel title of series ; Numbering within sequence [relating to both the Title of series and the Parallel title of series]
 
 ## 8.01.3 Form and order of information 
 

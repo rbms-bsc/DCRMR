@@ -72,7 +72,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.215.3.43">6.215.3.43</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation.
+<a name="6.215.3.43">6.215.3.43</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation.  (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation), [6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.24.424.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
