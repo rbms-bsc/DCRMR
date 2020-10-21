@@ -19,23 +19,23 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.01.2.1">1.01.2.1</a> General element order of title and statement of responsibility elements, punctuated according to ISBD:
 
->Title proper : other title information / statement of responsibility
+>Title proper : Other title information / Statement of responsibility
 
 <a name="1.01.2.2">1.01.2.2</a> Parallel title proper and parallel other title information are transcribed in the order in which they appear on the preferred source of information.
 
->Title proper = Parallel title : other title information = parallel other title information
+>Title proper = Parallel title : Other title information = Parallel other title information
 
->Title proper : other title information = Parallel title : parallel other title information
+>Title proper : Other title information = Parallel title : Parallel other title information
 
 <a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the statement of responsibility after all the title information.
 
->Title proper = Parallel title : other title information  = parallel other title information / statement of responsibility
+>Title proper = Parallel title : Other title information  = Parallel other title information / Statement of responsibility
 
->Title proper : other title information = Parallel title : parallel other title information / statement of responsibility
+>Title proper : Other title information = Parallel title : Parallel other title information / Statement of responsibility
 
 <a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. 
 
->Title proper : other title information / statement of responsibility = Parallel title : parallel other title information / parallel statement of responsibility
+>Title proper : Other title information / Statement of responsibility = Parallel title : Parallel other title information / Parallel statement of responsibility
 
 <a name="1.01.2.5">1.01.2.5</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
