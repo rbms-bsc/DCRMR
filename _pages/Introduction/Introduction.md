@@ -25,7 +25,7 @@ Please comment about errata on the [Introduction errata page](https://docs.googl
 
 ### I.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
 
-<a name="I.01.12.1">I.01.12.1</a> When completed, DCRMR will provide guidelines and rules for descriptive cataloging of rare materials in all formats. The initial release includes only  for descriptive cataloging of rare books, that is, printed textual monographs receiving special treatment within a repository.  Additional formats will be added as the RBMS RDA Editorial Group completes writing guidelines. DCRMR may be used for resources of any age or type of production. DCRMR is informed by long-standing Anglo-American practice in describing rare materials, as embodied in the DCRM suite of manuals. When creating RDA descriptions, use DCRMR. The [DCRM manuals](http://rbms.info/dcrm/) are still appropriate for descriptions based on AACR2.
+<a name="I.01.12.1">I.01.12.1</a> When completed, DCRMR will provide guidelines and rules for descriptive cataloging of rare materials in all formats. The initial release includes only  for descriptive cataloging of rare books, that is, printed textual monographs receiving special treatment within a repository.  Additional formats will be added as the RBMS RDA Editorial Group completes writing guidelines. DCRMR may be used for resources of any age or type of production. DCRMR is informed by long-standing Anglo-American practice in describing rare materials, as embodied in the DCRM suite of manuals. When creating RDA descriptions, use DCRMR. The [DCRM manuals](http://rbms.info/dcrm/){:target="_blank"} are still appropriate for descriptions based on AACR2.
 
 ### I.01.13 Need for special rules
 
@@ -124,7 +124,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ## I.01.5 Language preferences
 
-<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1(/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.1](/DCRMR/ppdm/Place-of-publication/#5.21.385.1), [Physical description](/DCRMR/phys-desc/), [Other notes](/DCRMR/additional-notes/), and [Notes on items](/DCRMR/additional-notes/)).
+<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1](/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.1](/DCRMR/ppdm/Place-of-publication/#5.21.385.1), [Physical description](/DCRMR/phys-desc/), and [Additional notes](/DCRMR/additional-notes/)).
 
 ## I.01.55 Spelling and style
 
@@ -138,23 +138,24 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 |AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
 |BDRB	|[Bibliographic Description of Rare Books](https://catalog.hathitrust.org/Record/007413360){:target="_blank"}|
 |BIBCO	|[Monographic Bibliographic Record Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
-|BIBFRAME|[Bibliographic Framework](https://www.loc.gov/bibframe/){:target="_blank"}|
+|BIBFRAME|[Bibliographic Framework Initiative](https://www.loc.gov/bibframe/){:target="_blank"}|
 |BSC	|[Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/committees/bibliographic_standards/){:target="_blank"}|
 |BSR	|[BIBCO Standard Record](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
 |CC:DA	|[Committee on Cataloging: Description and Access, Association for Library Collections and Technical Services, American Library Association](https://alcts.ala.org/ccdablog/){:target="_blank"}|
 |CONSER	|[Cooperative Online Serials Program](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
+|CSR    |[CONSER Standard Record](https://www.loc.gov/aba/pcc/conser/issues/CSR.html){:target="_blank"}|
 |DCRB	|[Descriptive Cataloging of Rare Books](https://catalog.hathitrust.org/Record/002570058){:target="_blank"}|
 |DCRM	|[Descriptive Cataloging of Rare Materials](http://rbms.info/dcrm/){:target="_blank"}|
 |DCRM(B)|[Descriptive Cataloging of Rare Materials (Books)](http://rbms.info/dcrm/dcrmb/){:target="_blank"}|
 |DCRM(C) |[Descriptive Cataloging of Rare Materials (Cartographic)](http://rbms.info/dcrm/dcrmc/){:target="_blank"}|
 |DCRM(G)|[Descriptive Cataloging of Rare Materials (Graphics)](http://rbms.info/dcrm/dcrmg/){:target="_blank"}|
 |DCRM(M)|[Descriptive Cataloging of Rare Materials (Music)](http://rbms.info/dcrm/dcrmm/){:target="_blank"}|
-|DCRM(MSS)|[Descriptive Cataloging of Rare Materials (Manuscripts](http://rbms.info/dcrm/dcrmmss/){:target="_blank"}|
+|DCRM(MSS)|[Descriptive Cataloging of Rare Materials (Manuscripts)](http://rbms.info/dcrm/dcrmmss/){:target="_blank"}|
 |DCRMR	|[Descriptive Cataloging of Rare Materials (RDA Edition)](/DCRMR/){:target="_blank"}|
 |DCRM(S)|[Descriptive Cataloging of Rare Materials (Serials)](http://rbms.info/dcrm/dcrms/){:target="_blank"}|
 |IFLA|[International Federation of Library Associations and Institutions](https://www.ifla.org/){:target="_blank"}|
-|ISBD	|International Standard Bibliographic Description|
-|FRBR	|Functional Requirements for Bibliographic Records|
+|ISBD	|International Standard Bibliographic Description(https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"}|
+|FRBR	|Functional Requirements for Bibliographic Records(https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
 |LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
 |LC/PCC PS | [Library of Congress/Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
 |LCRI	|Library of Congress Rule Interpretations|
@@ -170,13 +171,13 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 <a name="I.01.7.1">I.01.7.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the rule in question. A word, phrase, element, or entire area may be illustrated.
 
-<a name="I.01.7.2">I.01.7.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [9.01.5.1](/DCRMR/additional-notes/#9.01.5.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Other notes](/DCRMR/additional-notes/)).
+<a name="I.01.7.2">I.01.7.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [9.01.5.1](/DCRMR/additional-notes/#9.01.5.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Additional notes](/DCRMR/additional-notes/)).
 
 ## I.01.8 Integrity of the copy
 
-<a name="I.01.8.1">I.01.8.1</a> **Defects and sophistication**. A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the copy in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another copy, and the cataloger is not expected to verify the integrity of each leaf in a resource unless there is reason to suspect that the copy in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information.
+<a name="I.01.8.1">I.01.8.1</a> **Defects and sophistication**. A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the copy in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information.
 
-<a name="I.01.8.2">I.01.8.2</a> **Dust jackets**. In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a resource, and are included in these rules as preferred sources for edition, production, publication, distribution, manufacture, and series. Dust jackets often contain valuable information not found in any other source in the resource. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the copy of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
+<a name="I.01.8.2">I.01.8.2</a> **Dust jackets**. In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a resource, and are included in these rules as preferred sources for edition, production, publication, distribution, manufacture, and series. Dust jackets often contain valuable information not found in any other source in the resource. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the exemplar of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
 
 ## I.01.9 Precataloging decisions
 
