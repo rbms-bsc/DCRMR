@@ -78,7 +78,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > Extent of manifestation: <CITE>16 pages</CITE>  
 > Note on extent of manifestation: <CITE>Pages 4-16 also numbered 196-208</CITE>
 
-<a name="6.215.3.45">6.215.3.45</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.4)).
+<a name="6.215.3.45">6.215.3.45</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
 
 <a name="6.215.3.47">6.215.3.47</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important (see [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), [6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
 
@@ -179,7 +179,7 @@ If the gatherings are signed with other unavailable characters, substitute a des
 > <CITE>Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴</CITE>   
 > (*Comment*: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
 
-<a name="6.215.31.3">6.215.31.3</a> **Special uses of pi and chi**. Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [6.215.31.7](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.7)).
+<a name="6.215.31.3">6.215.31.3</a> **Special uses of pi and chi**. Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [6.215.31.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.8)).
 
 > Example:  
 > <CITE>Signatures: pi⁴ A-C⁴ chi² D-Z⁴</CITE>

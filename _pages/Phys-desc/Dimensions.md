@@ -72,7 +72,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.24.335 Differing sizes
 
-<a name="6.24.335.1">6.24.335.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.3](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.3)).
+<a name="6.24.335.1">6.24.335.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 <a name="6.24.335.2">6.24.335.2</a> If the volumes of a multipart set differ in size, record the smallest or smaller size and the largest or larger size, separated by a hyphen.
 
@@ -97,7 +97,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>24 x 38 cm</CITE>  
 > Note on dimensions of item: <CITE>Folded by later owner to 24 x 19 cm</CITE>
 
-<a name="6.24.35.4">6.24.35.4</a> When describing sheets designed to be used as folded (see [5.21.7.2](/DCRMR/phys-desc/Dimensions/#5.21.7.2)), record the height of the sheet when folded.
+<a name="6.24.35.4">6.24.35.4</a> When describing sheets designed to be used as folded (see [6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-publications)), record the height of the sheet when folded.
 
 >Example:  
 ><CITE>18 cm</CITE>  
@@ -111,6 +111,6 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.24.37.2">6.24.37.2</a> If the container was not issued with the resource, do not record the dimensions of the container in the dimensions element.  In situations of uncertainty, assume that the container was not issued with the resource. Record the dimensions of the container in a [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) if considered important (see [9.44.3.4](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.4)). 
 
-<a name="6.24.37.3">6.24.37.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container (see [6.24.33](/DCRMR/phys-desc/Dimensions/#62433-volumes)).
+<a name="6.24.37.3">6.24.37.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container.
 
 <a name="6.24.37.4">6.24.37.4</a> If the containers differ in size, record the dimensions of the smallest or smaller and the largest or larger size.

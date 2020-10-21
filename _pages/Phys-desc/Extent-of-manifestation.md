@@ -25,8 +25,6 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.21.2.1">6.21.2.1</a> A number and type of unit or subunit of a manifestation.
 
-<a name="6.21.2.2">6.21.2.2</a> [Sources of information](/DCRMR/phys-desc/)
-
 ## 6.21.4 Extent of text
 
 ### 6.21.42 Manifestations in one physical unit
@@ -177,7 +175,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
+<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
@@ -208,7 +206,7 @@ b)	Record the number of pages, leaves, or columns in the main sequence and the t
 
 c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
 
-If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)  if considered important (see [6.215.3.47](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.47)).
+If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)  if considered important (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
 
 #### 6.21.4245 Expansions or corrections
 
@@ -220,7 +218,7 @@ If one of these methods is employed, record all of the sequences in a [Note on e
 > Extent of manifestation: <CITE>564 [that is, 56] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Leaf 56 wrongly numbered 564</CITE> 
 
-If the manifestation is numbered as leaves, but printed as pages (see [6.21.424.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.2)).
+If the manifestation is numbered as leaves, but printed as pages, record the numbering as leaves. Do not correct the numbering (see [6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
 
 #### 6.21.425 Lack of numbering
 

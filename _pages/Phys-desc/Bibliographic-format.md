@@ -17,7 +17,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.29.1 Element information
 
-<a name="6.29.1.1">6.29.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-bfeb2cbe-ffdc-34b7-a147-c590b4e03997/0eed449d-7160-41a7-9b89-ee46d870fc71){:target="_blank"}
+<a name="6.29.1.1">6.29.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-bfeb2cbe-ffdc-34b7-a147-c590b4e03997){:target="_blank"}
 
 <a name="6.29.1.2">6.29.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
