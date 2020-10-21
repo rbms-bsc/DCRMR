@@ -175,7 +175,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.4)).
+<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.43](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.43)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
@@ -187,7 +187,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 > Extent of manifestation: <CITE>pages [1], 432-488</CITE>  
 > (*Comment*: An offprint from Memoirs of the Literary and Philosophical Society of Manchester, volume 4, part 2, Manchester, 1796)
 
-<a name="6.21.424.6">6.21.424.6</a> If a manifestation contains  multiple sequences of numbered or unnumbered pages, leaves, or columns, preferably record all of the sequences in the form and sequence presented. 
+<a name="6.21.424.6">6.21.424.6</a> If a manifestation contains multiple sequences of numbered or unnumbered pages, leaves, or columns, preferably record all of the sequences in the form and sequence presented. 
 
 > Example:  
 > <CITE>xiv pages, xv-xlii, 496 columns, [1], 498-534, [2] pages</CITE>  
@@ -206,7 +206,7 @@ b)	Record the number of pages, leaves, or columns in the main sequence and the t
 
 c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
 
-If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)  if considered important (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
+If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
 
 #### 6.21.4245 Expansions or corrections
 
