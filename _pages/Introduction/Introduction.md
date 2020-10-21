@@ -154,8 +154,8 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 |DCRMR	|[Descriptive Cataloging of Rare Materials (RDA Edition)](/DCRMR/){:target="_blank"}|
 |DCRM(S)|[Descriptive Cataloging of Rare Materials (Serials)](http://rbms.info/dcrm/dcrms/){:target="_blank"}|
 |IFLA|[International Federation of Library Associations and Institutions](https://www.ifla.org/){:target="_blank"}|
-|ISBD	|International Standard Bibliographic Description(https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"}|
-|FRBR	|Functional Requirements for Bibliographic Records(https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
+|ISBD	|[International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"}|
+|FRBR	|[Functional Requirements for Bibliographic Records](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
 |LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
 |LC/PCC PS | [Library of Congress/Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
 |LCRI	|Library of Congress Rule Interpretations|
