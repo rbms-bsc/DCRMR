@@ -107,7 +107,7 @@ Make an explanatory note.
 
 ### 0.4.21 Capitalization and conversion of case: general rule
 
-<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b){:target="_blank"} in the RDA Toolkit, with the following exceptions. 
+<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"} in the RDA Toolkit, with the following exceptions. 
 
 For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and V](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v) ([0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)).
 
