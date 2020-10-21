@@ -29,7 +29,7 @@ Note: subseries is transcribed as part of the Title of series element.
 
 <a name="8.01.2.1">8.01.2.1</a> General element order, punctuated according to ISBD:
 
->Title of series : other title information of series / statement of responsibility related to series ; numbering within sequence
+>Title of series : Other title information of series / Statement of responsibility related to series ; Numbering within sequence
 
 <a name="8.01.2.2">8.01.2.2</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries.
 
