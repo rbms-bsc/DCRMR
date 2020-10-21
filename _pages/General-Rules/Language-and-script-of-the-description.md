@@ -31,7 +31,7 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-141.html){:target="_blank"}.
 
-<a name="0.3.1.3">0.3.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g. [2.21.335.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.221.355.1), [5.21.325.1](/DCRMR/ppdm/Place-of-publication/#5.21.325.1), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
+<a name="0.3.1.3">0.3.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these rules (e.g. [2.21.335.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.355.1), [5.21.325.1](/DCRMR/ppdm/Place-of-publication/#5.21.325.1), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
 <a name="0.3.1.4">0.3.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
 
