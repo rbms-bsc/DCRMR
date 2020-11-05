@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Statement of Responsibility
+title: Chapter 2. Statement of responsibility
 permalink: /sor/
 sidebar:
   nav: "docs"

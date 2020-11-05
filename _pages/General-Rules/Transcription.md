@@ -205,7 +205,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement.)
 
-<a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub, as appropriate:
+<a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following subinstructions, as appropriate:
 * [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
@@ -511,7 +511,7 @@ ET ITALIAE)
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
 
-<a name="0.4.51.3">0.4.51.3</a> *Exception*. Some element  specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
+<a name="0.4.51.3">0.4.51.3</a> *Exception*. Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
 
 >Example:  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
@@ -827,7 +827,7 @@ the grammatical construction of the information would be disturbed,
 <u>or</u>
 the text is otherwise grammatically inseparable from its surrounding elements, 
 <u>or</u> 
-the data element  specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
+the data element instructions specify otherwise (see RBMS PS 2.3.4 and 2.4.1.6). 
 
 <a name="0.4.94.3">0.4.94.3</a> Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Statement of responsibility relating to title proper
+title: 2.21 Statement of responsibility relating to title proper
 permalink: sor/Statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"
@@ -128,7 +128,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 <a name="2.21.38.2">2.21.38.2</a> If a statement with grammatically inseparable elements contains information relating both to the publication, distribution, or manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the [Publication statement](/DCRMR/ppdm/Publication-statement/), [Distribution statement](/DCRMR/ppdm/Distribution-statement/), or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) or as a statement of responsibility (see [5.2.34.4](/DCRMR/ppdm/Publication-statement/#5.2.34.4), [5.25.34.4](/DCRMR/ppdm/Distribution-statement/#5.25.34.4) [5.29.34.4](/DCRMR/ppdm/Manufacture-statement/#5.29.34.4)). Often the layout of the source will suggest the appropriate treatment.
 
-## 2.21.385 Other title information appearing after Statements of responsibility 
+## 2.21.385 Other title information appearing after statements of responsibility 
 
 <a name="2.21.385.1">2.21.385.1</a> If other title information appears after a statement of responsibility, transcribe it as a subsequent statement of responsibility.
 
