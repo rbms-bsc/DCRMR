@@ -59,7 +59,7 @@ docs:
       - title: "Note on title"
         url: /title/Note-on-title/       
         
-  - title: "Chapter 2. Statement of responsibility"
+  - title: "2 Statement of responsibility"
     url: /sor/
     children:
       - title: "2.21 Statement of responsibility relating to title proper"
