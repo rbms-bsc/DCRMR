@@ -59,14 +59,14 @@ docs:
       - title: "Note on title"
         url: /title/Note-on-title/       
         
-  - title: "2 Statement of responsibility"
+  - title: "2 — Statement of responsibility"
     url: /sor/
     children:
-      - title: "2.21 Statement of responsibility relating to title proper"
+      - title: "2.21 — Statement of responsibility relating to title proper"
         url: /sor/Statement-of-responsibility-relating-to-title-proper/
-      - title: "2.215 Parallel statement of responsibility relating to title proper"
+      - title: "2.215 — Parallel statement of responsibility relating to title proper"
         url: /sor/Parallel-statement-of-responsibility-relating-to-title-proper/
-      - title: "2.29 Note on statement of responsibility"
+      - title: "2.29 — Note on statement of responsibility"
         url: /sor/Note-on-statement-of-responsibility/
         
   - title: "Chapter 3. Edition"

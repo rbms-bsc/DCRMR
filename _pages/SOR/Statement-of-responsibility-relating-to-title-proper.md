@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 2.21 Statement of responsibility relating to title proper
+title: 2.21 — Statement of responsibility relating to title proper
 permalink: sor/Statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"

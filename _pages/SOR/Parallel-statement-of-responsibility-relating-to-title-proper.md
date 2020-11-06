@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 2.215 Parallel statement of responsibility relating to title proper
+title: 2.215 — Parallel statement of responsibility relating to title proper
 permalink: sor/Parallel-statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"
