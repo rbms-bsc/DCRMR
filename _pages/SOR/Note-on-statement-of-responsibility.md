@@ -56,3 +56,9 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 ## 2.29.36 Other statements
 
 <a name="2.29.36.1">2.29.36.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsiblity relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.21.39.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.39.1)).
+
+---
+
+**[<-- Previous page: Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/)**
+
+**[Next page: Edition -->](/DCRMR/edition/)**

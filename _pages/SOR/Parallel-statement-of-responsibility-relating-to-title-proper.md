@@ -35,3 +35,9 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 ><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter ... = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>
 
 <a name="2.215.31.3">2.215.31.3</a> Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source of any transposed statements (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
+
+---
+
+**[<-- Previous page: Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)**
+
+**[Next page: Note on statement of responsibility -->](/DCRMR/sor/Note-on-statement-of-responsibility/)**
