@@ -341,7 +341,7 @@
 
   @include breakpoint(max-width $large - 1px) {
     label {
-      position: relative;
+      position: sticky;
       display: inline-block;
       padding: 0.5em 2.5em 0.5em 1em;
       color: $gray;

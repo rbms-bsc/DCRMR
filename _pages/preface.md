@@ -68,7 +68,7 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 
 [Background](/DCRMR/preface/Background/)
 
-[Changes from DCRM(B)](/DCRMR/preface/Changes-from-DCRM(B))
+[Changes from DCRM(B)](/DCRMR/preface/Changes-from-DCRM(B)/)
 
 [Future work](/DCRMR/preface/Future-work/)
 

@@ -11,7 +11,7 @@ Please comment about errata on the [Preface errata page](https://docs.google.com
 
 ---
 
-Writing a standard is intensive work performed by dedicated volunteers. Every member of the editorial group has given their time to this effort while also working full time jobs and balancing their personal lives. The initial release of DCRMR was prepared in truly extraordinary circumstances. The release of the new RDA Toolkit in 2019 necessitated a full change in direction, leading the editorial group to create a new standard in roughly 18 months. During this time, we faced the COVID-19 pandemic,  uprisings across the United States, and environmental disasters. Throughout this, the editorial group worked tirelessly to bring this work to fruition. No one accepts editorial responsibilities anticipating these challenges. From the bottom of my heart, thank you to every member of the RBMS RDA Editorial Group from its inception to the present:
+Writing a standard is intensive work performed by dedicated volunteers. Every member of the editorial group has given their time to this effort while also working full time jobs and balancing their personal lives. The initial release of DCRMR was prepared in truly extraordinary circumstances. The release of the new RDA Toolkit in 2019 necessitated a full change in direction, leading the editorial group to create a new standard in less than two years. During this time, we faced the COVID-19 pandemic,  uprisings across the United States, and environmental disasters. Throughout this, the editorial group worked tirelessly to bring this work to fruition. No one accepts editorial responsibilities anticipating these challenges. From the bottom of my heart, thank you to every member of the RBMS RDA Editorial Group from its inception to the present:
 
 + Elizabeth Hobart, editor (2019-present)
 + Michelle Mascaro, editor (2017-2020)
@@ -27,7 +27,7 @@ Writing a standard is intensive work performed by dedicated volunteers. Every me
 + Audrey Pearson
 + Amy Tims
 
-This work was not performed solely by the editorial group. Thanks as well to all of the John Attig and Robert Maxwell for laying the foundation of this work and to all task force members through the development of this standard, including the Descriptive Cataloging of Rare Materials Task Force (2014-2017):
+This work was not performed solely by the editorial group. Thanks as well to John Attig and Robert Maxwell for laying the foundation of this work and to all task force members through the development of this standard, including the Descriptive Cataloging of Rare Materials Task Force (2014-2017):
 
 + Francis Lapka, chair 
 + Morag Boyd
@@ -69,7 +69,7 @@ And the DCRM-RDA Task Force (2011-2012):
 + Mary Mundy 
 + Elizabeth O’Keefe
 
-In addition, support was provided by the examples group (a subgroup of the DCRM task force), which identified illustrative examples and identified sources:
+In addition, support was provided by the examples group (a subgroup of the DCRM Task Force), which identified illustrative examples and identified sources:
 
 + Morag Boyd 
 + Ellen Cordes 
