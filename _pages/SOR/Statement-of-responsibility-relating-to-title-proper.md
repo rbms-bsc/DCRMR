@@ -143,6 +143,4 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ---
 
-**[<-- Previous page: Statement of responsiblity](/DCRMR/sor/)**
-
-**[Next page: Parallel statement of responsibility relating to title proper -->](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/)**
+**<-- [Previous page](/DCRMR/sor/)**  •••  **[Next page](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/) -->**

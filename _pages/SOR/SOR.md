@@ -36,6 +36,6 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ---
 
-**[<-- Previous page: Note on title](/DCRMR/title/Note-on-title/)**
+**<-- Previous page [1.29 — Note on title](/DCRMR/title/Note-on-title/)**
 
-**[Next page: Statement of responsibility relating to title proper -->](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)**
+**Next page --> [2.21 — Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)**
