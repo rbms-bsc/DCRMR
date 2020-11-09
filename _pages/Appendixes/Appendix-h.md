@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Appendix C. Collection-level records
-permalink: appendices/Appendix-c/
+title: Appendix H. Individual and special issues of serials
+permalink: appendixes/Appendix-h/
 sidebar:
   nav: "docs"
 ---

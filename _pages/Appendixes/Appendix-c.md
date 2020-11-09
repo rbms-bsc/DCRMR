@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Appendix D. Minimal-level records
-permalink: appendices/Appendix-d/
+title: Appendix C. Collection-level records
+permalink: appendixes/Appendix-c/
 sidebar:
   nav: "docs"
 ---

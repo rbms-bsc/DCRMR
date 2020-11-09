@@ -1,12 +1,11 @@
 ---
 layout: single
 type: docs
-title: Appendix A. MARC 21 Descriptive Conventions Code
-permalink: appendices/Appendix-a/
+title: Appendix D. Minimal-level records
+permalink: appendixes/Appendix-d/
 sidebar:
   nav: "docs"
 ---
-
 
 ## This page is under construction
 

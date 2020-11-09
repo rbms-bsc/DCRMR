@@ -1,12 +1,11 @@
 ---
 layout: single
 type: docs
-title: Appendix B. Collection-level records
-permalink: appendices/Appendix-b/
+title: Appendix E. Variations requiring a new record
+permalink: appendixes/Appendix-e/
 sidebar:
   nav: "docs"
 ---
-
 
 ## This page is under construction
 

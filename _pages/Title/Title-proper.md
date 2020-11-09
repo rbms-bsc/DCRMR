@@ -116,7 +116,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Title proper: <CITE>Faust. Part one.</CITE>  
 >Note on title: <CITE> Title page reads: Part one. Faust.</CITE>
 
-If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/).
+If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendixes/Appendix-h/).
 
 ## 1.21.36 Abridgments of the title proper
 
