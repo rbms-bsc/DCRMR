@@ -1,12 +1,11 @@
 ---
 layout: single
 type: docs
-title: Appendix B. Collection-level records
-permalink: appendixes/Appendix-b/
+title: Appendix H. Individual and special issues of serials
+permalink: appendices/Appendix-h/
 sidebar:
   nav: "docs"
 ---
-
 
 ## This page is under construction
 

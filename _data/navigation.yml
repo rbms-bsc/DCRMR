@@ -289,7 +289,7 @@ docs:
       - title: "10.23 — Note on identifier for manifestation"
         url: /identifiers/Note-on-identifier-for-manifestation/
        
-  - title: "Appendixes"
+  - title: "Appendices"
     url: /appendices/
     children:
       - title: "A — MARC 21 Descriptive Conventions Code"

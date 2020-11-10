@@ -55,9 +55,9 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >(*Comment*: Information in transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
 ); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity.)
 
-## 3.23.32 Phrases about notes, appendixes, etc.
+## 3.23.32 Phrases about notes, appendices, etc.
 
-<a name="3.23.32.1">3.23.32.1</a> If there are phrases about notes, appendixes, and such supplementary matter and they apply to the edition in hand but not necessarily to all editions of the work, transcribe them as statements of responsibility relating to the edition only in the case when the phrase names or otherwise identifies a person or corporate body and appears in the same source as the [Designation of edition](/DCRMR/edition/Designation-of-edition/).
+<a name="3.23.32.1">3.23.32.1</a> If there are phrases about notes, appendices, and such supplementary matter and they apply to the edition in hand but not necessarily to all editions of the work, transcribe them as statements of responsibility relating to the edition only in the case when the phrase names or otherwise identifies a person or corporate body and appears in the same source as the [Designation of edition](/DCRMR/edition/Designation-of-edition/).
 
 >Example:  
 ><CITE>Editio altera, ab innumeris erroribus emendata / huic editioni accessere Jacobi Bongarsii excerptiones chronologicae ad Justini historias accommodatae</CITE>

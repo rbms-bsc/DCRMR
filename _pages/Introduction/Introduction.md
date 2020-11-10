@@ -52,7 +52,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ### I.01.22 Metadata Encoding Standards
 
-<a name="I.01.22.1">I.01.22.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendixes. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
+<a name="I.01.22.1">I.01.22.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendices. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
 
 ## I.01.3 Objectives and principles
 
@@ -104,7 +104,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 <a name="I.01.325.1">I.01.325.1</a> This principle relates to general principles of standardization and user convenience (with the latter’s subprinciple of common usage). DCRMR assumes that users of bibliographic descriptions constructed in accordance with its provisions operate in contexts where RDA and LC-PCC PS are the accepted standards for the cataloging of general materials. DCRMR does not introduce instructions that are not required by differences expected between special collections and general collections resources. 
 
-<a name="I.01.325.2">I.01.325.2</a> DCRMR uses existing RDA vocabulary in a manner consistent with the RDA Toolkit; any additional specialized vocabulary necessary for description and access of rare materials occurs in a clear and consistent manner in DCRMR instructions, appendixes, and glossary entries. 
+<a name="I.01.325.2">I.01.325.2</a> DCRMR uses existing RDA vocabulary in a manner consistent with the RDA Toolkit; any additional specialized vocabulary necessary for description and access of rare materials occurs in a clear and consistent manner in DCRMR instructions, appendices, and glossary entries. 
 
 <a name="I.01.325.3">I.01.325.3</a>. The structure and numbering of DCRMR are new. Since the revised Toolkit does not present elements in any given order, DCRMR introduces order based generally on ISBD, but grouping notes with the element they describe (e.g., Note on title has been added to the Title chapter) and adding a chapter for statement of responsibility.
 

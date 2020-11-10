@@ -17,7 +17,7 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 ## 0.1.1 Recording a content standard
 
-<a name="0.1.1.1">0.1.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/appendixes/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
+<a name="0.1.1.1">0.1.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/appendices/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
 
 ## 0.1.2 Basis of the description
 

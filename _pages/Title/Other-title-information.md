@@ -81,9 +81,9 @@ If the statement appears following the statement of responsibility, transcribe i
 >Example:  
 >Statement of responsibilty relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>
 
-## 1.23.36 Phrases about notes, appendixes, etc.
+## 1.23.36 Phrases about notes, appendices, etc.
 
-<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendixes, and such accompanying matter in the order indicated by the sequence on the title page. If such information appears before the statement of responsibility, transcribe it as other title information.
+<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendices, and such accompanying matter in the order indicated by the sequence on the title page. If such information appears before the statement of responsibility, transcribe it as other title information.
 
 <a name="1.23.36.2">1.23.36.2</a> If such information appears after the statement of responsibility, transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
 

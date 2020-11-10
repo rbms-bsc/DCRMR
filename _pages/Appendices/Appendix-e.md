@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Appendix K. Instruction mappings from DCRM to DCRMR
-permalink: appendixes/Appendix-k/
+title: Appendix E. Variations requiring a new record
+permalink: appendices/Appendix-e/
 sidebar:
   nav: "docs"
 ---
