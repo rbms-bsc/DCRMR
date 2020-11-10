@@ -24,39 +24,39 @@ docs:
       - title: "Acknowledgments"
         url: /preface/Acknowledgments/
 
-  - title: "Introduction"
+  - title: "I.01 — Introduction"
     url: /introduction/
 
-  - title: "General rules"
+  - title: "0 — General rules"
     url: /general-rules/
     children:
-      - title: "Data provenance"
+      - title: "0.1 — Data provenance"
         url: /general-rules/Data-provenance/
-      - title: "Prescribed punctuation"
+      - title: "0.2 — Prescribed punctuation"
         url: /general-rules/Prescribed-punctuation/
-      - title: "Language and script of the description"
+      - title: "0.3 — Language and script of the description"
         url: /general-rules/Language-and-script-of-the-description/
-      - title: "Transcription"
+      - title: "0.4 — Transcription"
         url: /general-rules/Transcription/
         
-  - title: "Chapter 1. Title"
+  - title: "1 — Title"
     url: /title/
     children:
-      - title: "Title of manifestation"
+      - title: "1.2 — Title of manifestation"
         url: /title/Title-of-manifestation/
-      - title: "Title proper"
+      - title: "1.21 — Title proper"
         url: /title/Title-proper/
-      - title: "Parallel title proper"
+      - title: "1.215 — Parallel title proper"
         url: /title/Parallel-title-proper/
-      - title: "Other title information"
+      - title: "1.23 — Other title information"
         url: /title/Other-title-information/
-      - title: "Parallel other title information"
+      - title: "1.235 — Parallel other title information"
         url: /title/Parallel-other-title-information/
-      - title: "Variant title of manifestation"
+      - title: "1.25 — Variant title of manifestation"
         url: /title/Variant-title-of-manifestation/
-      - title: "Title of item"
+      - title: "1.27 — Title of item"
         url: /title/Title-of-item/
-      - title: "Note on title"
+      - title: "1.29 — Note on title"
         url: /title/Note-on-title/       
         
   - title: "2 — Statement of responsibility"
@@ -69,244 +69,242 @@ docs:
       - title: "2.29 — Note on statement of responsibility"
         url: /sor/Note-on-statement-of-responsibility/
         
-  - title: "Chapter 3. Edition"
+  - title: "3 — Edition"
     url: /edition/
     children:
-      - title: "Edition statement"
+      - title: "3.21 — Edition statement"
         url: /edition/Edition-statement/
-      - title: "Designation of edition"
+      - title: "3.22 — Designation of edition"
         url: /edition/Designation-of-edition/
-      - title: "Parallel designation of edition"
+      - title: "3.225 — Parallel designation of edition"
         url: /edition/Parallel-designation-of-edition/
-      - title: "Statement of responsibility relating to edition"
+      - title: "3.23 — Statement of responsibility relating to edition"
         url: /edition/Statement-of-responsibility-relating-to-edition/
-      - title: "Parallel statement of responsibility relating to edition"
+      - title: "3.235 — Parallel statement of responsibility relating to edition"
         url: /edition/Parallel-statement-of-responsibility-relating-to-edition/
-      - title: "Designation of named revision of edition"
+      - title: "3.24 — Designation of named revision of edition"
         url: /edition/Designation-of-named-revision-of-edition/
-      - title: "Parallel designation of named revision of edition"
+      - title: "3.245 — Parallel designation of named revision of edition"
         url: /edition/Parallel-designation-of-named-revision-of-edition/
-      - title: "Statement of responsibility relating to named revision of edition"
+      - title: "3.25 — Statement of responsibility relating to named revision of edition"
         url: /edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
-      - title: "Parallel statement of responsibility relating to named revision of edition"
+      - title: "3.255 — Parallel statement of responsibility relating to named revision of edition"
         url: /edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
-      - title: "Note on edition statement"
+      - title: "3.26 — Note on edition statement"
         url: /edition/Note-on-edition-statement/
         
-  - title: "Chapter 4. Mathematical details"
+  - title: "4 — Mathematical details"
     url: /mathematical-details/
     children:
-      - title: "Details of cartographic content"
+      - title: "4.21 — Details of cartographic content"
         url: /mathematical-details/Details-of-cartographic-content/
         
-  - title: "Chapter 5. Production Publication Distribution Manufacture"
+  - title: "5 — Production Publication Distribution Manufacture"
     url: /ppdm/
     children:
-      - title: "Publication statement"
+      - title: "5.2 — Publication statement"
         url: /ppdm/Publication-statement/
-      - title: "Place of publication"
+      - title: "5.21 — Place of publication"
         url: /ppdm/Place-of-publication/
-      - title: "Parallel place of publication"
+      - title: "5.215 — Parallel place of publication"
         url: /ppdm/Parallel-place-of-publication/
-      - title: "Name of publisher"
+      - title: "5.22 — Name of publisher"
         url: /ppdm/Name-of-publisher/
-      - title: "Parallel name of publisher"
+      - title: "5.225 — Parallel name of publisher"
         url: /ppdm/Parallel-name-of-publisher/
-      - title: "Date of publication"
+      - title: "5.23 — Date of publication"
         url: /ppdm/Date-of-publication/
-      - title: "Note on publication statement"
+      - title: "5.24 — Note on publication statement"
         url: /ppdm/Note-on-publication-statement/
-      - title: "Distribution statement"
+      - title: "5.25 — Distribution statement"
         url: /ppdm/Distribution-statement/
-      - title: "Place of distribution"
+      - title: "5.26 — Place of distribution"
         url: /ppdm/Place-of-distribution/
-      - title: "Parallel place of distribution"
+      - title: "5.265 — Parallel place of distribution"
         url: /ppdm/Parallel-place-of-distribution/
-      - title: "Name of distributor"
+      - title: "5.27 — Name of distributor"
         url: /ppdm/Name-of-distributor/
-      - title: "Parallel name of distributor"
+      - title: "5.275 — Parallel name of distributor"
         url: /ppdm/Parallel-name-of-distributor/
-      - title: "Date of distribution"
+      - title: "5.28 — Date of distribution"
         url: /ppdm/Date-of-distribution/
-      - title: "Note on distribution statement"
+      - title: "5.285 — Note on distribution statement"
         url: /ppdm/Note-on-distribution-statement/
-      - title: "Manufacture statement"
+      - title: "5.29 — Manufacture statement"
         url: /ppdm/Manufacture-statement/
-      - title: "Place of manufacture"
+      - title: "5.31 — Place of manufacture"
         url: /ppdm/Place-of-manufacture/
-      - title: "Parallel place of manufacture"
+      - title: "5.315 — Parallel place of manufacture"
         url: /ppdm/Parallel-place-of-manufacture/
-      - title: "Name of manufacturer"
+      - title: "5.32 — Name of manufacturer"
         url: /ppdm/Name-of-manufacturer/
-      - title: "Parallel name of manufacturer"
+      - title: "5.325 — Parallel name of manufacturer"
         url: /ppdm/Parallel-name-of-manufacturer/
-      - title: "Date of manufacture"
+      - title: "5.33 — Date of manufacture"
         url: /ppdm/Date-of-manufacture/
-      - title: "Note on manufacture statement"
+      - title: "5.34 — Note on manufacture statement"
         url: /ppdm/Note-on-manufacture-statement/
-      - title: "Copyright date"
+      - title: "5.35 — Copyright date"
         url: /ppdm/Copyright-date/
-      - title: "Note on copyright date"
+      - title: "5.36 — Note on copyright date"
         url: /ppdm/Note-on-copyright-date/
         
-  - title: "Chapter 6. Physical Description"
+  - title: "6 — Physical Description"
     url: /phys-desc/
     children:
-      - title: "Extent of manifestation"
+      - title: "6.21 — Extent of manifestation"
         url: /phys-desc/Extent-of-manifestation/
-      - title: "Note on extent of manifestation"
+      - title: "6.215 — Note on extent of manifestation"
         url: /phys-desc/Note-on-extent-of-manifestation/
-      - title: "Illustrative content"
+      - title: "6.22 — Illustrative content"
         url: /phys-desc/Illustrative-content/
-      - title: "Details of illustrative content"
+      - title: "6.225 — Details of illustrative content"
         url: /phys-desc/Details-of-illustrative-content/
-      - title: "Color content"
+      - title: "6.23 — Color content"
         url: /phys-desc/Color-content/
-      - title: "Details of color content"
+      - title: "6.235 — Details of color content"
         url: /phys-desc/Details-of-color-content/
-      - title: "Dimensions"
+      - title: "6.24 — Dimensions"
         url: /phys-desc/Dimensions/
-      - title: "Note on dimensions of manifestation"
+      - title: "6.245 — Note on dimensions of manifestation"
         url: /phys-desc/Note-on-dimensions-of-manifestation/
-      - title: "Base material"
+      - title: "6.25 — Base material"
         url: /phys-desc/Base-material/
-      - title: "Details of base material"
+      - title: "6.255 — Details of base material"
         url: /phys-desc/Details-of-base-material/
-      - title: Applied material
+      - title: "6.26 — Applied material"
         url: /phys-desc/Applied-material/
-      - title: "Details of applied material"
+      - title: "6.265 — Details of applied material"
         url: /phys-desc/Details-of-applied-material/
-      - title: "Production method"
+      - title: "6.27 — Production method"
         url: /phys-desc/Production-method/
-      - title: "Details of production method"
+      - title: "6.275 — Details of production method"
         url: /phys-desc/Details-of-production-method/
-      - title: "Layout"
+      - title: "6.28 — Layout"
         url: /phys-desc/Layout/
-      - title: "Details of layout"
+      - title: "6.285 — Details of layout"
         url: /phys-desc/Details-of-layout/
-      - title: "Bibliographic format"
+      - title: "6.29 — Bibliographic format"
         url: /phys-desc/Bibliographic-format/
-      - title: "Details of bibliographic format"
+      - title: "6.295 — Details of bibliographic format"
         url: /phys-desc/Details-of-bibliographic-format/
-      - title: "Font size"
+      - title: "6.31 — Font size"
         url: /phys-desc/Font-size/
-      - title: "Details of font size"
+      - title: "6.315 — Details of font size"
         url: /phys-desc/Details-of-font-size/
-      - title: "Type of binding"
+      - title: "6.32 — Type of binding"
         url: /phys-desc/Type-of-binding/
-      - title: "Content type"
+      - title: "6.33 — Content type"
         url: /phys-desc/Content-type/
-      - title: "Media type"
+      - title: "6.34 — Media type"
         url: /phys-desc/Media-type/
-      - title: "Carrier type"
+      - title: "6.35 — Carrier type"
         url: /phys-desc/Carrier-type/
-      - title: "Note on carrier"
+      - title: "6.355 — Note on carrier"
         url: /phys-desc/Note-on-carrier/
         
-  - title: "Chapter 7. Numbering of serials"
+  - title: "7 — Numbering of serials"
     url: /numbering-of-serials/
     children:
-      - title: "Numbering of sequence"
+      - title: "7.21 — Numbering of sequence"
         url: /numbering-of-serials/Numbering-of-sequence/
         
-  - title: "Chapter 8. Series"
+  - title: "8 — Series"
     url: /series/
     children:
-      - title: "Series statement"
+      - title: "8.2 — Series statement"
         url: /series/Series-statement/
-      - title: "Title of series"
+      - title: "8.21 — Title of series"
         url: /series/Title-of-series/
-      - title: "Parallel title of series"
+      - title: "8.215 — Parallel title of series"
         url: /series/Parallel-title-of-series/
-      - title: "Other title information of series"
+      - title: "8.23 — Other title information of series"
         url: /series/Other-title-information-of-series/
-      - title: "Parallel other title information of series"
+      - title: "8.235 — Parallel other title information of series"
         url: /series/Parallel-other-title-information-of-series/
-      - title: "Statement of responsibility relating to series"
+      - title: "8.25 — Statement of responsibility relating to series"
         url: /series/Statement-of-responsibility-relating-to-series/
-      - title: "Parallel statement of responsibility relating to series"
+      - title: "8.255 — Parallel statement of responsibility relating to series"
         url: /series/Parallel-statement-of-responsibility-relating-to-series/
-      - title: "Numbering within sequence"
+      - title: "8.27 — Numbering within sequence"
         url: /series/Numbering-within-sequence/
-      - title: "Note on series statement"
+      - title: "8.29 — Note on series statement"
         url: /series/Note-on-series-statement/
        
-  - title: "Chapter 9. Additional Notes"
+  - title: "9 — Additional Notes"
     url: /additional-notes/
     children:
-      - title: "Note on RDA entity"
+      - title: "9.05 — Note on RDA entity"
         url: /additional-notes/Note-on-RDA-entity/
-      - title: "Note on work"
+      - title: "9.1 — Note on work"
         url: /additional-notes/Note-on-work/
-      - title: "Dissertation or thesis information"
+      - title: "9.12 — Dissertation or thesis information"
         url: /additional-notes/Dissertation-or-thesis-information/
-      - title: "Academic degree"
+      - title: "9.121 — Academic degree"
         url: /additional-notes/Academic-degree/
-      - title: "Degree granting institution"
+      - title: "9.122 — Degree granting institution"
         url: /additional-notes/Degree-granting-institution/      
-      - title: "Year degree granted"
+      - title: "9.123 — Year degree granted"
         url: /additional-notes/Year-degree-granted/
-      - title: "Note on expression"
+      - title: "9.2 — Note on expression"
         url: /additional-notes/Note-on-expression/
-      - title: "Language of expression"
+      - title: "9.23 — Language of expression"
         url: /additional-notes/Language-of-expression/
-      - title: "Script"
+      - title: "9.24 — Script"
         url: /additional-notes/Script/        
-      - title: "Summarization of content"
+      - title: "9.25 — Summarization of content"
         url: /additional-notes/Summarization-of-content/  
-      - title: "Note on manifestation"
+      - title: "9.3 — Note on manifestation"
         url: /additional-notes/Note-on-manifestation/
-      - title: "Accompanied by manifestation"
+      - title: "9.31 — Accompanied by manifestation"
         url: /additional-notes/Accompanied-by-manifestation/        
-      - title: "Manifestation described in"
+      - title: "9.32 — Manifestation described in"
         url: /additional-notes/Manifestation-described-in/        
-      - title: "Supplementary content"
+      - title: "9.33 — Supplementary content"
         url: /additional-notes/Supplementary-content/
-      - title: "Issued with"
+      - title: "9.34 — Issued with"
         url: /additional-notes/Issued-with/
-      - title: "Note on item"
+      - title: "9.4 — Note on item"
         url: /additional-notes/Note-on-item/
-      - title: "Modification of item"
+      - title: "9.41 — Modification of item"
         url: /additional-notes/Modification-of-item/
-      - title: "Custodial history of item"
+      - title: "9.42 — Custodial history of item"
         url: /additional-notes/Custodial-history-of-item/
-      - title: "Note on extent of item"
+      - title: "9.43 — Note on extent of item"
         url: /additional-notes/Note-on-extent-of-item/
-      - title: "Note on dimensions of item"
+      - title: "9.44 — Note on dimensions of item"
         url: /additional-notes/Note-on-dimensions-of-item/
-      - title: "Bound with"
+      - title: "9.45 — Bound with"
         url: /additional-notes/Bound-with/
         
-  - title: "Chapter 10. Identifiers"
+  - title: "10 — Identifiers"
     url: /identifiers/
     children:
-      - title: "Identifier for manifestation"
+      - title: "10.2 — Identifier for manifestation"
         url: /identifiers/Identifier-for-manifestation/
-      - title: "Fingerprint"
+      - title: "10.21 — Fingerprint"
         url: /identifiers/Fingerprint/
-      - title: "Term of availability"
+      - title: "10.22 — Term of availability"
         url: /identifiers/Term-of-availability/
-      - title: "Note on identifier for manifestation"
+      - title: "10.23 — Note on identifier for manifestation"
         url: /identifiers/Note-on-identifier-for-manifestation/
        
-  - title: "Appendices"
+  - title: "Appendixes"
     url: /appendices/
     children:
-      - title: "MARC 21 Descriptive Conventions Code"
+      - title: "A — MARC 21 Descriptive Conventions Code"
         url: /appendices/Appendix-a/
-      - title: "Collection-level records"
+      - title: "B — Collection-level records"
         url: /appendices/Appendix-b/
-      - title: "Core-level records"
+      - title: "C — Core-level records"
         url: /appendices/Appendix-c/
-      - title: "Minimal-level records"
+      - title: "D — Minimal-level records"
         url: /appendices/Appendix-d/
-      - title: "Variations requiring a new record"
+      - title: "E — Variations requiring a new record"
         url: /appendices/Appendix-e/
-      - title: "Early letterforms and symbols"
-        url: /appendices/Appendix-g/
-      - title: "Individual and special issues of serials"
+      - title: "H — Individual and special issues of serials"
         url: /appendices/Appendix-h/
-      - title: "Abbreviations for Creators, Publishers, Printers, etc."
+      - title: "J — Abbreviations for Creators, Publishers, Printers, etc."
         url: /appendices/Appendix-j/
-      - title: "Mapping from DCRM(B) to DCRMR"
+      - title: "K — Mapping from DCRM(B) to DCRMR"
         url: /appendices/Appendix-k/
