@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Carrier type
+title: 6.35 — Carrier type
 permalink: phys-desc/Carrier-type/
 sidebar:
   nav: "docs"

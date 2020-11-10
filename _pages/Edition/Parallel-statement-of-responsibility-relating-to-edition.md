@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel statement of responsibility relating to edition
+title: 3.235 — Parallel statement of responsibility relating to edition
 permalink: edition/Parallel-statement-of-responsibility-relating-to-edition/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix D. Minimal-level records
+title: Appendix D — Minimal-level records
 permalink: appendices/Appendix-d/
 sidebar:
   nav: "docs"

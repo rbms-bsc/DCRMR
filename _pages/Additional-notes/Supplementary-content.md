@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Supplementary content
+title: 9.33 — Supplementary content
 permalink: additional-notes/Supplementary-content/
 sidebar:
   nav: "docs"

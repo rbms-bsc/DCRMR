@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Series statement
+title: 8.2 — Series statement
 permalink: series/Series-statement/
 sidebar:
   nav: "docs"

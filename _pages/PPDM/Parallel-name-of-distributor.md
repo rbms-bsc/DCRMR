@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel name of distributor
+title: 5.275 — Parallel name of distributor
 permalink: ppdm/Parallel-name-of-distributor/
 sidebar:
   nav: "docs"

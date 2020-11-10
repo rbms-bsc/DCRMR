@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel place of distribution
+title: 5.265 — Parallel place of distribution
 permalink: ppdm/Parallel-place-of-distribution/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel statement of responsibility relating to series
+title: 8.255 — Parallel statement of responsibility relating to series
 permalink: series/Parallel-statement-of-responsibility-relating-to-series/
 sidebar:
   nav: "docs"

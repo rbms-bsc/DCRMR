@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Place of manufacture
+title: 5.31 — Place of manufacture
 permalink: ppdm/Place-of-manufacture/
 sidebar:
   nav: "docs"

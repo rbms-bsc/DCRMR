@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Numbering within sequence
+title: 8.27 — Numbering within sequence
 permalink: series/Numbering-within-sequence/
 sidebar:
   nav: "docs"

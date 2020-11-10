@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Issued with
+title: 9.34 — Issued with
 permalink: additional-notes/Issued-with/
 sidebar:
   nav: "docs"

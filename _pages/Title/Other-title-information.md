@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Other title information
+title: 1.23 — Other title information
 permalink: title/Other-title-information/
 sidebar:
   nav: "docs"

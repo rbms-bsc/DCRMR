@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on carrier
+title: 6.355 — Note on carrier
 permalink: phys-desc/Note-on-carrier/
 sidebar:
   nav: "docs"

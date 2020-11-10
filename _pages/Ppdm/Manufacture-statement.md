@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Manufacture statement
+title: 5.29 — Manufacture statement
 permalink: ppdm/Manufacture-statement/
 sidebar:
   nav: "docs"

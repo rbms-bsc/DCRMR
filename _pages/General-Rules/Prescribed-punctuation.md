@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Prescribed punctuation
+title: 0.2 — Prescribed punctuation
 permalink: general-rules/Prescribed-punctuation/
 sidebar:
   nav: "docs"

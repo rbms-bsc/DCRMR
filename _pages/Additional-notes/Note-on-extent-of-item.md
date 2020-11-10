@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on extent of item
+title: 9.43 — Note on extent of item
 permalink: additional-notes/Note-on-extent-of-item/
 sidebar:
   nav: "docs"

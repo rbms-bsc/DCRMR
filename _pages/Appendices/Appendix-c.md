@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix C. Collection-level records
+title: Appendix C — Collection-level records
 permalink: appendices/Appendix-c/
 sidebar:
   nav: "docs"

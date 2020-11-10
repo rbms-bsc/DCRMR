@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Script
+title: 9.24 — Script
 permalink: additional-notes/Script/
 sidebar:
   nav: "docs"

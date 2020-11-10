@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Edition
+title: 3 — Edition
 permalink: /edition/
 permalink: edition/
 sidebar:

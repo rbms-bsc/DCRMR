@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Layout
+title: 6.28 — Layout
 permalink: phys-desc/Layout/
 sidebar:
   nav: "docs"

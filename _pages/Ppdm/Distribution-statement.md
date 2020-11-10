@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Distribution statement
+title: 5.25 — Distribution statement
 permalink: ppdm/Distribution-statement/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on item
+title: 9.4 — Note on item
 permalink: additional-notes/Note-on-item/
 sidebar:
   nav: "docs"

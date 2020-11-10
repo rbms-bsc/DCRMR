@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of illustrative content
+title: 6.225 — Details of illustrative content
 permalink: phys-desc/Details-of-illustrative-content/
 sidebar:
   nav: "docs"

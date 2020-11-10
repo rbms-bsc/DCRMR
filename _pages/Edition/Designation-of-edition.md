@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Designation of edition
+title: 3.22 — Designation of edition
 permalink: edition/Designation-of-edition/
 sidebar:
   nav: "docs"

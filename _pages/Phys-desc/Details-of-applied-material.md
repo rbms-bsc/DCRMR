@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of applied material
+title: 6.265 — Details of applied material
 permalink: phys-desc/Details-of-applied-material/
 sidebar:
   nav: "docs"

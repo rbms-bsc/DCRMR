@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Place of distribution
+title: 5.26 — Place of distribution
 permalink: ppdm/Place-of-distribution/
 sidebar:
   nav: "docs"

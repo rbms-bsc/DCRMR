@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Dimensions
+title: 6.24 — Dimensions
 permalink: phys-desc/Dimensions/
 sidebar:
   nav: "docs"

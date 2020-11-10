@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel other title information
+title: 1.235 — Parallel other title information
 permalink: title/Parallel-other-title-information/
 sidebar:
   nav: "docs"

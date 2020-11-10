@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Fingerprint
+title: 10.21 — Fingerprint
 permalink: identifiers/Fingerprint/
 sidebar:
   nav: "docs"

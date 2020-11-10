@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Manifestation described in
+title: 9.32 — Manifestation described in
 permalink: additional-notes/Manifestation-described-in/
 sidebar:
   nav: "docs"

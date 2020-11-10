@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Dissertation or thesis information
+title: 9.12 — Dissertation or thesis information
 permalink: additional-notes/Dissertation-or-thesis-information/
 sidebar:
   nav: "docs"

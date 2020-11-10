@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Numbering of sequence
+title: 7.21 — Numbering of sequence
 permalink: numbering-of-serials/Numbering-of-sequence/
 sidebar:
   nav: "docs"

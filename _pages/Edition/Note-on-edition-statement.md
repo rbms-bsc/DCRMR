@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on edition statement
+title: 3.26 — Note on edition statement
 permalink: edition/Note-on-edition-statement/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on publication statement
+title: 5.24 — Note on publication statement
 permalink: ppdm/Note-on-publication-statement/
 sidebar:
   nav: "docs"

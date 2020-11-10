@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Glossary N
-permalink: /glossary/N/
+permalink: glossary/N/
 sidebar:
   nav: "docs"
 ---

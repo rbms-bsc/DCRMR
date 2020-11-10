@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel name of publisher
+title: 5.225 — Parallel name of publisher
 permalink: ppdm/Parallel-name-of-publisher/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Name of manufacturer
+title: 5.32 — Name of manufacturer
 permalink: ppdm/Name-of-manufacturer/
 sidebar:
   nav: "docs"

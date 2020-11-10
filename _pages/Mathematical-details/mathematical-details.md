@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Mathematical details
+title: 4 — Mathematical details
 permalink: /mathematical-details/
 permalink: mathematical-details/
 sidebar:

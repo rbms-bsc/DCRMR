@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Language of expression
+title: 9.23 — Language of expression
 permalink: additional-notes/Language-of-expression/
 sidebar:
   nav: "docs"

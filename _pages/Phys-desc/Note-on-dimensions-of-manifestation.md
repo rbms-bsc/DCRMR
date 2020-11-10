@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on dimensions of manifestation
+title: 6.245 — Note on dimensions of manifestation
 permalink: phys-desc/Note-on-dimensions-of-manifestation/
 sidebar:
   nav: "docs"

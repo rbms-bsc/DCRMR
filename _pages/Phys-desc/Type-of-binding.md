@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Type of binding
+title: 6.32 — Type of binding
 permalink: phys-desc/Type-of-binding/
 sidebar:
   nav: "docs"

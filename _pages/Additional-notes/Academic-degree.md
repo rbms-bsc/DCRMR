@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Academic degree
+title: 9.121 — Academic degree
 permalink: additional-notes/Academic-degree/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Content type
+title: 6.33 — Content type
 permalink: phys-desc/Content-type/
 sidebar:
   nav: "docs"

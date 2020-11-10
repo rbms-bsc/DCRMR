@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on manifestation
+title: 9.3 — Note on manifestation
 permalink: additional-notes/Note-on-manifestation/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Numbering of serials
+title: 7 — Numbering of serials
 permalink: /numbering-of-serials/
 permalink: numbering-of-serials/
 sidebar:

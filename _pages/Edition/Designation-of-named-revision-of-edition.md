@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Designation of named revision of edition
+title: 3.24 — Designation of named revision of edition
 permalink: edition/Designation-of-named-revision-of-edition/
 sidebar:
   nav: "docs"

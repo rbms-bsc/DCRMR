@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on expression
+title: 9.2 — Note on expression
 permalink: additional-notes/Note-on-expression/
 sidebar:
   nav: "docs"

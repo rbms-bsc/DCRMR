@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Accompanied by manifestation
+title: 9.31 — Accompanied by manifestation
 permalink: additional-notes/Accompanied-by-manifestation/
 sidebar:
   nav: "docs"

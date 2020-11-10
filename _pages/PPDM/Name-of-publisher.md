@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Name of publisher
+title: 5.22 — Name of publisher
 permalink: ppdm/Name-of-publisher/
 sidebar:
   nav: "docs"

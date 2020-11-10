@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel designation of edition
+title: 3.225 — Parallel designation of edition
 permalink: edition/Parallel-designation-of-edition/
 sidebar:
   nav: "docs"

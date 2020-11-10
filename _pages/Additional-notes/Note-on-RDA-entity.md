@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on RDA entity
+title: 9.05 — Note on RDA entity
 permalink: additional-notes/Note-on-RDA-entity/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix A. MARC 21 Descriptive Conventions Code
+title: Appendix A — MARC 21 Descriptive Conventions Code
 permalink: appendices/Appendix-a/
 sidebar:
   nav: "docs"

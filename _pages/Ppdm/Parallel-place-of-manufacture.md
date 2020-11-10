@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel place of manufacture
+title: 5.315 — Parallel place of manufacture
 permalink: ppdm/Parallel-place-of-manufacture/
 sidebar:
   nav: "docs"

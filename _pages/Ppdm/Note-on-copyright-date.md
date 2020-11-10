@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Note on copyright date
+title: 5.36 — Note on copyright date
 permalink: ppdm/Note-on-copyright-date/
 sidebar:
   nav: "docs"

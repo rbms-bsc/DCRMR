@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Physical Description
+title: 6 — Physical Description
 permalink: phys-desc/
 permalink: /phys-desc/
 sidebar:

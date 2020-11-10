@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Title proper
+title: 1.21 — Title proper
 permalink: title/Title-proper/
 sidebar:
   nav: "docs"

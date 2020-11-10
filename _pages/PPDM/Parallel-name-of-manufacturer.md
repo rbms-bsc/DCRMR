@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel name of manufacturer
+title: 5.325 — Parallel name of manufacturer
 permalink: ppdm/Parallel-name-of-manufacturer/
 sidebar:
   nav: "docs"

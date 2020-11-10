@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Year degree granted
+title: 9.123 — Year degree granted
 permalink: additional-notes/Year-degree-granted/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of base material
+title: 6.255 — Details of base material
 permalink: phys-desc/Details-of-base-material/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix K. Instruction mappings from DCRM to DCRMR
+title: Appendix K — Instruction mappings from DCRM to DCRMR
 permalink: appendices/Appendix-k/
 sidebar:
   nav: "docs"

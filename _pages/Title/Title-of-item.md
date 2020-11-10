@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Title of item
+title: 1.27 — Title of item
 permalink: title/Title-of-item/
 sidebar:
   nav: "docs"

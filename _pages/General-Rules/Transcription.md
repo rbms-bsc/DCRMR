@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Transcription
+title: 0.4 — Transcription
 permalink: general-rules/Transcription/
 sidebar:
   nav: "docs"

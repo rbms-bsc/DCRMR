@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Font size
+title: 6.31 — Font size
 permalink: phys-desc/Font-size/
 sidebar:
   nav: "docs"

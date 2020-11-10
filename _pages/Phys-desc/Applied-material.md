@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Applied material
+title: 6.26 — Applied material
 permalink: phys-desc/Applied-material/
 sidebar:
   nav: "docs"

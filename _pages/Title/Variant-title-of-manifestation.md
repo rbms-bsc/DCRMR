@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Variant title of manifestation
+title: 1.25 — Variant title of manifestation
 permalink: title/Variant-title-of-manifestation/
 sidebar:
   nav: "docs"

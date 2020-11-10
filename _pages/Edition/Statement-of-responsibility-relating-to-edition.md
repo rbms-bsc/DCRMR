@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Statement of responsibility relating to edition
+title: 3.23 — Statement of responsibility relating to edition
 permalink: edition/Statement-of-responsibility-relating-to-edition/
 sidebar:
   nav: "docs"

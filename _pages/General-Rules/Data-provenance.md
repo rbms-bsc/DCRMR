@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Data provenance
+title: 0.1 — Data provenance
 permalink: general-rules/Data-provenance/
 sidebar:
   nav: "docs"

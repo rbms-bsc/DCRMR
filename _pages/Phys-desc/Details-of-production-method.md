@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of production method
+title: 6.275 — Details of production method
 permalink: phys-desc/Details-of-production-method/
 sidebar:
   nav: "docs"

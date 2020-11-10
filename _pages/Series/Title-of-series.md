@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Title of series
+title: 8.21 — Title of series
 permalink: series/Title-of-series/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Extent of manifestation
+title: 6.21 — Extent of manifestation
 permalink: phys-desc/Extent-of-manifestation/
 sidebar:
   nav: "docs"

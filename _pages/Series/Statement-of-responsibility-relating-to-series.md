@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Statement of responsibility relating to series
+title: 8.25 — Statement of responsibility relating to series
 permalink: series/Statement-of-responsibility-relating-to-series/
 sidebar:
   nav: "docs"

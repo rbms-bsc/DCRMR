@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Language and script of the description
+title: 0.3 — Language and script of the description
 permalink: general-rules/Language-and-script-of-the-description/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Modification of item
+title: 9.41 — Modification of item
 permalink: additional-notes/Modification-of-item/
 sidebar:
   nav: "docs"

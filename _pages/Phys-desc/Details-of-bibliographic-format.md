@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of bibliographic format
+title: 6.295 — Details of bibliographic format
 permalink: phys-desc/Details-of-bibliographic-format/
 sidebar:
   nav: "docs"

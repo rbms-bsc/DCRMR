@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Term of availability
+title: 10.22 — Term of availability
 permalink: identifiers/Term-of-availability/
 sidebar:
   nav: "docs"

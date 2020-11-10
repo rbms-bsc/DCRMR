@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix J. Abbreviations for Creators, Publishers, Printers, etc.
+title: Appendix J — Abbreviations for Creators, Publishers, Printers, etc.
 permalink: appendices/Appendix-j/
 sidebar:
   nav: "docs"

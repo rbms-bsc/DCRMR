@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Details of layout
+title: 6.285 — Details of layout
 permalink: phys-desc/Details-of-layout/
 sidebar:
   nav: "docs"

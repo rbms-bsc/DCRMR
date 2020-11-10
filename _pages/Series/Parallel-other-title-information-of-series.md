@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Parallel other title information of series
+title: 8.235 — Parallel other title information of series
 permalink: series/Parallel-other-title-information-of-series/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Date of manufacture
+title: 5.33 — Date of manufacture
 permalink: ppdm/Date-of-manufacture/
 sidebar:
   nav: "docs"

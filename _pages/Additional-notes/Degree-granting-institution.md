@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Degree granting institution
+title: 9.122 — Degree granting institution
 permalink: additional-notes/Degree-granting-institution/
 sidebar:
   nav: "docs"

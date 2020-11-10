@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Media type
+title: 6.34 — Media type
 permalink: phys-desc/Media-type/
 sidebar:
   nav: "docs"

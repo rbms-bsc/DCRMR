@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Identifier for manifestation
+title: 10.2 — Identifier for manifestation
 permalink: identifiers/Identifier-for-manifestation/
 sidebar:
   nav: "docs"

@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Bound with
+title: 9.45 — Bound with
 permalink: additional-notes/Bound-with/
 sidebar:
   nav: "docs"

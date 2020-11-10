@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Color content
+title: 6.23 — Color content
 permalink: phys-desc/Color-content/
 sidebar:
   nav: "docs"

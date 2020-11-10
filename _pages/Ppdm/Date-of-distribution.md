@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Date of distribution
+title: 5.28 — Date of distribution
 permalink: ppdm/Date-of-distribution/
 sidebar:
   nav: "docs"

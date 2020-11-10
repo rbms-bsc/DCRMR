@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix H. Individual and special issues of serials
+title: Appendix H — Individual and special issues of serials
 permalink: appendices/Appendix-h/
 sidebar:
   nav: "docs"
