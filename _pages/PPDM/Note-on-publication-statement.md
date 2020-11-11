@@ -45,7 +45,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [that is, Brussels : Jules Gay, 1866]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint from: Pia, P. Livres de l'Enfer</CITE>
 
-<a name="5.24.31.5">5.24.31.5</a> Make a note if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1)). 
+<a name="5.24.31.5">5.24.31.5</a> Make a note on publication statement if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1)). 
 
 >Example:  
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
@@ -95,9 +95,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on publication statement: <CITE>The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
-<a name="5.24.33.4">5.24.33.4</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
+<a name="5.24.33.4">5.24.33.4</a> Make a note on publication statement if the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, transcribe the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the first or earliest part and give the [Publication statement](/DCRMR/ppdm/Publication-statement/) of the later part(s) (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
-<a name="5.24.33.5">5.24.33.5</a> Make a note if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied publisher, give supporting evidence in a note (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
+<a name="5.24.33.5">5.24.33.5</a> Make a note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied publisher, give supporting evidence in a note (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
 
 >Example:  
 >Name of publisher: <CITE>[Anton Koberger]</CITE>  
@@ -106,9 +106,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.34 Notes from Parallel name of publisher
 
-<a name="5.24.34.1">5.24.34.1</a> Make a note if parallel publisher names are found on a different source as the name of publisher if considered important for identification (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
+<a name="5.24.34.1">5.24.34.1</a> Make a note on publication statement if parallel publisher names are from a different source than the name of publisher (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
 
-<a name="5.24.34.2">5.24.34.2</a> Make a note if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.22.39.1)).
+<a name="5.24.34.2">5.24.34.2</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.22.39.1)).
 
 ## 5.24.35 Notes from Parallel place of publication
 
@@ -129,7 +129,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
 >(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="5.24.36.3">5.24.36.3</a> Make a note if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
+<a name="5.24.36.3">5.24.36.3</a> Make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
 
 >Example:  
 >Date of publication: <CITE>1887 [that is, 1899]</CITE>  
@@ -139,7 +139,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
+<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), make a note on publication statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
 
 <a name="5.24.36.5">5.24.36.5</a> Make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5)).
 
@@ -174,11 +174,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
 
-<a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
+<a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
 <a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note (see [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
 
-<a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
+<a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note on publication statement if considered important. Such a note is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
 
 >Example:  
 >Date of publication: <CITE>1560-1564</CITE>  

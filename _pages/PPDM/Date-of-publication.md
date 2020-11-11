@@ -68,7 +68,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>
 
-<a name="5.23.31.2">5.23.31.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date include the date in arabic numerals in square brackets.
+<a name="5.23.31.2">5.23.31.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, substitute for the chronogram the date in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
@@ -159,7 +159,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>publié le 9 thermidor l'an 2e de la Rép. f. [27 July 1794]</CITE>  
 >(*Comment*: Date follows French Revolutionary calendar)  
 
-<a name="5.23.31.7">5.23.31.7</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.36.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.6)).
+<a name="5.23.31.7">5.23.31.7</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) for source of supplied dates (see [5.24.36.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.6)).
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
@@ -209,18 +209,18 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 | Conjectural date | Pattern |
 | --- | ---| --- |
-| , [1560?]	| probable date | 
-| , [approximately 1580] |approximate date | 
-|, [approximately 1580?] |probable approximate date|
-|, [not before 1479] |terminal date|
-|, [not after 21 Aug. 1492]	|terminal date|
-|, [1727 or 1728] |one year or the other|
-|, [between 1711 and 1749] |span certain|
-|, [between 1711 and 1749?] |span uncertain|
-|, [between 1670 and 1680] |decade certain|
-|, [between 1670 and 1680?] |probable decade|
-|, [between 1600 and 1700] |century certain|
-|, [between 1600 and 1700?] |probable century|
+| [1560?]	| probable date | 
+| [approximately 1580] |approximate date | 
+|[approximately 1580?] |probable approximate date|
+|[not before 1479] |terminal date|
+|[not after 21 Aug. 1492]	|terminal date|
+|[1727 or 1728] |one year or the other|
+|[between 1711 and 1749] |span certain|
+|[between 1711 and 1749?] |span uncertain|
+|[between 1670 and 1680] |decade certain|
+|[between 1670 and 1680?] |probable decade|
+|[between 1600 and 1700] |century certain|
+|[between 1600 and 1700?] |probable century|
 
 ## 5.23.35 Date of publication multipart monographs
 
@@ -242,4 +242,4 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="5.23.36.1">5.23.36.1</a> If parts of a manifestation have individual title pages bearing dates of publication that differ from the date pertaining to the whole manifestation, give these additional dates of publication in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.9](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.9)). 
 
-If, however, one of these dates is a more accurate reflection of the actual date of publication, than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4).
+If, however, one of these dates is a more accurate reflection of the actual date of publication than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4).

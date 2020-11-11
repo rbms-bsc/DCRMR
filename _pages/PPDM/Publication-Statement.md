@@ -41,7 +41,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.2.31.2">5.2.31.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-## 5.2.32 Elements relating to publication, distribution, etc. vs. elements relating to manufacture
+## 5.2.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
 <a name="5.2.32.1">5.2.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
@@ -79,7 +79,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.2.335.2">5.2.335.2</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
-## 5.2.34 Statements relating to publication, distribution, etc. and to manufacture
+## 5.2.34 Statements relating to publication and to distribution or manufacture
 
 <a name="5.2.34.1">5.2.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
