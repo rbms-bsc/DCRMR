@@ -59,6 +59,4 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ---
 
-**<-- [2.215 — Parallel statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/)**
-
-**[3 — Edition](/DCRMR/edition/) -->**
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "2.215 — Parallel statement of responsibility relating to title proper")](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3 — Edition")](/DCRMR/edition/)

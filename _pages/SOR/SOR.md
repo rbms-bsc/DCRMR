@@ -36,6 +36,4 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ---
 
-**<-- Previous page [1.29 — Note on title](/DCRMR/title/Note-on-title/)**
-
-**Next page --> [2.21 — Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)**
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.29 — Note on title")](/DCRMR/title/Note-on-title/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "2.21 — Statement of responsibility relating to title proper")](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
