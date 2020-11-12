@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.2.1.1">1.2.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-6d73e093-3928-3314-ad35-cc4afb3e3e3b){:target="_blank"}
 
-<a name="1.2.1.2">1.2.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.2.1.2">1.2.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 ## 1.2.2 RDA definition and scope
 
@@ -46,3 +46,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 <a name="1.2.32.5">1.2.32.5</a> For instructions on providing access points for [Variant titles of a manifestation](/DCRMR/title/Variant-title-of-manifestation), see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
 
 <a name="1.2.32.6">1.2.32.6</a> For instructions on providing access points for [Titles of item](/DCRMR/title/Title-of-item), see [1.27.31](/DCRMR/title/Title-of-item/#12731-access-points-for-item-specific-titles).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1 — Title")](/DCRMR/title/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.21 — Title proper")](/DCRMR/title/Title-proper/)

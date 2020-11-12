@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.25.1.1">1.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f8142e73-8120-32a4-909a-e1c5b691e3e0){:target="_blank"}
 
-<a name="1.25.1.2">1.25.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.25.1.2">1.25.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 ## 1.25.2 RDA definition and scope
 
@@ -170,3 +170,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 ### 1.25.3595 Variant titles of a collection (optional)
 
 <a name="1.25.3595.1">1.25.3595.1</a> Record variant titles by which a collection may be known if they differ substantially from the [Title proper](/DCRMR/title/Title-proper) and provide useful access points. If most or all of the items in the collection have the same title information and it is considered important, make an added entry for the title.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.235 — Parallel other title information")](/DCRMR/title/Parallel-other-title-information/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.27 — Title of item")](/DCRMR/title/Title-of-item/)

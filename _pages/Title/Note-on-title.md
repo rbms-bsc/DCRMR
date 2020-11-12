@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.29.1.1">1.29.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-612acb20-84fb-3558-86b9-f75430e39843){:target="_blank"}
 
-<a name="1.29.1.2">1.29.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.29.1.2">1.29.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 <a name="1.29.1.3">1.29.1.3</a> Notes on title are required unless qualified by "if considered important."
 
@@ -97,3 +97,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 ## 1.29.39 Title information not appearing on title page
 
 <a name="1.29.39.1">1.29.39.1</a> Transcribe title information not appearing on the title page in a note if considered important (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/), [1.2.31.1](/DCRMR/title/Title-of-manifestation/#1.2.31.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.27 — Title of item")](/DCRMR/title/Title-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "2 — Statement of responsibility")](/DCRMR/sor/)

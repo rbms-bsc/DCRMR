@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.23.1.1">1.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-d12e7ee9-4a94-3ea6-8bb5-5e3ec97a91e9){:target="_blank"}
 
-<a name="1.23.1.2">1.23.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.23.1.2">1.23.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 ## 1.23.2 RDA definition and scope
 
@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.23.29.1">1.23.29.1</a> Transcribe other title information appearing on the title page in the order indicated by the sequence on, or layout of, the title page.
 
-<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the title proper on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1.02.2) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1.02.2) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
 <a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description, transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
@@ -102,3 +102,7 @@ If the statement appears following the statement of responsibility, transcribe i
 >Title proper: <CITE>Constitutiones legitime seu legatine regionis Anglicane</CITE>  
 >Other title information: <CITE>cu[m] subtilissima interpretatione d[omi]ni Johannis de Athon</CITE>  
 >(*Comment*: Statement of responsibility transcribed as part of other title information because of genitive case ending)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.215 — Parallel title proper")](/DCRMR/title/Parallel-title-proper/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.235 — Parallel other title information")](/DCRMR/title/Parallel-other-title-information/)

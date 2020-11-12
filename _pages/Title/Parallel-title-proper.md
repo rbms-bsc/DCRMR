@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.215.1.1">1.215.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-01595b77-9820-3a0a-8488-ac6ee64cca09){:target="_blank"}
 
-<a name="1.215.1.2">1.215.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.215.1.2">1.215.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 ## 1.215.2 RDA definition and scope
 
@@ -54,4 +54,8 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.215.33 Access points for parallel titles proper
 
-<a name="1.215.33.1">1.215.33.1</a> Title access plays an important role in enabling users to identify and locate special collections materials.  *Optionally*, provide access points for parallel titles proper (see [Title of manifestation](/DCRMR/title/Title-of-manifestation/)).
+<a name="1.215.33.1">1.215.33.1</a> Title access plays an important role in enabling users to identify and locate special collections materials.  *Optionally*, provide access points for parallel titles proper (see [Title of manifestation, 1.2.32](/DCRMR/title/Title-of-manifestation/#1232-title-access-points)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.21 — Title proper")](/DCRMR/title/Title-proper/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.23 — Other title information")](/DCRMR/title/Other-title-information/)

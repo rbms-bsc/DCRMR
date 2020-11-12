@@ -19,7 +19,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.235.1.1">1.235.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-80c7de78-1700-38d0-8703-a4779c9ed064){:target="_blank"}
 
-<a name="1.235.1.2">1.235.1.2</a> [Sources of information](/DCRMR/title/)
+<a name="1.235.1.2">1.235.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
 ## 1.235.2 RDA definition and scope
 
@@ -31,3 +31,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 >Example:  
 > [NEEDS EXAMPLE}
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.23 — Other title information")](/DCRMR/title/Other-title-information/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.25 — Variant title of manifestation")](/DCRMR/title/Variant-title-of-manifestation/)
