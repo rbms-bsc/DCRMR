@@ -19,6 +19,8 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.27.1.1">5.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d34564b0-6a8a-384f-b966-a9638b234d89){:target="_blank"}
 
+<a name="5.27.1.2">5.27.1.2</a> [Sources of information](/DCRMR/ppdm/)
+
 ## 5.27.2 RDA Definition and scope
 
 <a name="5.27.2.1">5.27.2.1</a> A nomen that is a name of an agent who is responsible for distributing a published manifestation.
@@ -41,7 +43,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
 
-<a name="5.27.3.3">5.27.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). Include all omissions by the mark of omission.
+<a name="5.27.3.3">5.27.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
 ><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>
@@ -55,7 +57,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.27.32 Names of distributors containing only addresses, signs, or initials
 
-<a name="5.27.32.1">5.27.32.1</a> If only the address, sign, or initials of the distributor, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.27.32.1">5.27.32.1</a> If only the address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 >Example:  
 ><CITE>to be sold at the signe of the Blacke Beare [by Edward Blount] in Pauls Church-yard</CITE>
@@ -72,12 +74,12 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of distribution only when they are not linked by connecting words or phrases.
 
-<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors (or firms) in the supplied phrase.
+<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase.
 
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
 
-<a name="5.27.34.3">5.27.34.3</a> If both the place and distributor associated with an earlier edition appear together with the place and distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
+<a name="5.27.34.3">5.27.34.3</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier edition appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
 
 >Example:  
 ><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
@@ -86,15 +88,15 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.27.35 Names of distributors in multipart monographs
 
-<a name="5.27.35.1">5.27.35.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  distributor changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.4)).
+<a name="5.27.35.1">5.27.35.1</a> If the manifestation is issued in more than one physical part and the name of distributor or the distributor’s form of name changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.4)).
 
 ## 5.27.36 Supplied and conjectured names of distributors
 
-<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor give supporting evidence in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.5)).
+<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known and if considered important. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor give supporting evidence in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.5)).
 
 ## 5.27.37 No supplied name of distributor
 
-<a name="5.27.37.1">5.27.37.1</a> If no distributor’s name can be conjectured, record  “distributor not identified” in square brackets.
+<a name="5.27.37.1">5.27.37.1</a> If no distributor’s name can be conjectured, record  “distributor not identified” in square brackets if considered important.
 
 ## 5.27.38 Distributor names transcribed as part of another element 
 

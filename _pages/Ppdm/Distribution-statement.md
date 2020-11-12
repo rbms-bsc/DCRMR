@@ -23,7 +23,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.25.2 RDA Definition and scope
 
-<a name="5.25.2.1">5.25.2.1</a> A statement that identifies a place of distribution, a distributor, and a date of distribution of a published manifestation.
+<a name="5.25.2.1">5.25.2.1</a> A statement that identifies a place of distribution, a distributor, or a date of distribution of a published manifestation.
 
 ## 5.25.3 General rule
 
@@ -33,9 +33,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.25.31.1">5.25.31.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [5.285.31.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.4)).
 
-<a name="5.25.31.2">5.25.31.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record is as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.25.31.2">5.25.31.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-## 5.25.32 Elements relating to publication, distribution vs. elements relating to manufacture
+## 5.25.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
 <a name="5.25.32.1">5.25.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 

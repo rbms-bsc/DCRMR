@@ -19,9 +19,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.26.1.1">5.26.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-5e4b0696-b177-34a4-9671-7cb0cdec37bd){:target="_blank"}
 
+<a name="5.26.1.2">5.26.1.2</a> [Sources of information](/DCRMR/ppdm/)
+
 ## 5.26.2 RDA Definition and scope
 
-<a name="5.26.2.1">5.26.2.1</a> A place associated with the distribution of a published manifestation.
+<a name="5.26.2.1">5.26.2.1</a> A place that is associated with the distribution of a published manifestation.
 
 ## 5.26.3 General rule
 
@@ -66,7 +68,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.32 Supplied modern forms of place names
 
-<a name="5.26.32.1">5.26.32.1</a> If considered necessary for identification and if known, supply in square brackets the modern form of the name of the place. Use an English form of the name, if there is one.
+<a name="5.26.32.1">5.26.32.1</a> If considered necessary for identification and if known, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 ><CITE>Christiania [Oslo]</CITE>
@@ -89,7 +91,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.325 Supplied larger jurisdictions
 
-<a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern English form of the name, if there is one. Use the abbreviations listed in [RDA Toolkit: Resources: Abbreviations and symbols](https://beta.rdatoolkit.org/en-US_ala-aacfb802-7f30-3bcd-8311-3f8b52c0c42c){:target="_blank"}. 
+<a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. Use the abbreviations listed in [RDA Toolkit: Abbreviations for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
 
 >Example:  
 ><CITE>Cambridge [England]</CITE>
@@ -145,14 +147,14 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.35 Place names that are grammatically inseparable parts of other elements 
 
-<a name="5.26.35.1">5.26.35.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern English form of the name, if there is one.
+<a name="5.26.35.1">5.26.35.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 ><CITE>[Munich] : Durch Peter Clement, Kunstführer zu München</CITE>
 
 ## 5.26.36 Fictitious or incorrect places of distribution
 
-<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern English form of name, if there is one, and give the basis for the correction in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
+<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
 
 >Example:  
 ><CITE>Londres [that is, Paris]</CITE>  
@@ -160,10 +162,10 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
 
-<a name="5.26.36.3">5.26.36.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use the form of the name in the language preferred by the agency creating the data.
+<a name="5.26.36.3">5.26.36.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
 
 ## 5.26.37 No place of distribution
-<a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern English form of the name, if there is one, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)).
+<a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)).
 
 >Example:  
 >Place of distribution: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
@@ -179,7 +181,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.38 Place of distribution supplied based on address or sign
 
-<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets the name of the place of distribution using a modern English form of the name, if there is one, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
+<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
@@ -191,7 +193,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.385 Place of distribution uncertain or unknown
 
-<a name="5.26.385.1">5.26.385.1</a> If the place of distribution is uncertain, supply the name of the probable place of distribution with a question mark, using a modern English form of the name, if there is one, all in square brackets.
+<a name="5.26.385.1">5.26.385.1</a> If the place of distribution is uncertain and is considered important, supply the name of the probable place of distribution with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Amsterdam?]</CITE>
@@ -202,7 +204,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>[Saint Petersburg?]</CITE>
 
-<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern English form of the name, if there is one, all in square brackets.
+<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Canada]</CITE>
@@ -228,4 +230,4 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the name of the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the title proper, or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel statements of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
