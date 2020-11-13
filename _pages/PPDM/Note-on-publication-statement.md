@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.31 Notes from Publication statements
 
-<a name="5.24.31.1">5.24.31.1</a> Make a note if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
+<a name="5.24.31.1">5.24.31.1</a> Make a note on publication statement if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
 <a name="5.24.31.2">5.24.31.2</a> Make a note on publication statement if information is not transcribed in the [Publication statement](/DCRMR/ppdm/Publication-statement/) if considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
@@ -53,7 +53,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.32 Notes from Place of publication
 
-<a name="5.24.32.1">5.24.32.1</a> Make a note if the manifestation is issued in more than one physical part, and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
+<a name="5.24.32.1">5.24.32.1</a> Make a note on publication statement if the manifestation is issued in more than one physical part, and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
 
 <a name="5.24.32.2">5.24.32.2</a> Make a note on publication statement giving the basis for the correction if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appearing on the manifestation is known to be fictitious or incorrect (see [5.21.36.1](/DCRMR/ppdm/Place-of-publication/#5.21.36.1)).
 
@@ -63,7 +63,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.24.32.3">5.24.32.3</a> When following the option in [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2), give the basis for the correction or clarification in a note (see [Place of publication](/DCRMR/ppdm/Place-of-publication/), [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
 
-<a name="5.24.32.4">5.24.32.4</a> Make a note when supplying a [Place of publication](/DCRMR/ppdm/Place-of-publication/) and justification for the supplied place is necessary (see [5.21.37.1](/DCRMR/ppdm/Place-of-publication/#5.21.37.1)).
+<a name="5.24.32.4">5.24.32.4</a> Make a note on publication statement when supplying a [Place of publication](/DCRMR/ppdm/Place-of-publication/) and justification for the supplied place is necessary (see [5.21.37.1](/DCRMR/ppdm/Place-of-publication/#5.21.37.1)).
 
 >Example:  
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  

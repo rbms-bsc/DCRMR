@@ -45,11 +45,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Published by Thomas Bradford, printer, bookseller & stationer, no. 8, South Front-Street</CITE>
 
-<a name="5.22.3.3">5.22.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the publisher's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission..
+<a name="5.22.3.3">5.22.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the publisher's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
 ><CITE>Published by Ackermann and Co. ...</CITE>  
->(*Comment*: full publisher’s name reads: Published by Ackermann and Co., 96 Strand)
+>(*Comment*: Full publisher’s name reads: Published by Ackermann and Co., 96 Strand)
 
 >Example:  
 ><CITE>A la librairie de J. Carez, éditeur  ...</CITE>  
@@ -109,7 +109,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.22.33.2">5.22.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.3)).
 
 >Example:  
->Name of publisher:<CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
+>Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement: <CITE>Corrected publisher from Koeman</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
