@@ -27,11 +27,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.33.3 General rule
 
-<a name="5.33.3.1">5.33.3.1</a> Transcribe a date of impression or other manufacture as part of this element only if it has not been treated as the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), etc. and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.33.3.1">5.33.3.1</a> Transcribe dates of impression or other manufacture as part of this element only if it has not been treated as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.33.35 Alternative rules
 
-<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a seperate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#i019-precataloging-decisions), [I.01.9.1](/DCRMR/introduction/#I.01.9.1)), follow the alternative rules below.
+<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#i019-precataloging-decisions), [I.01.9.1](/DCRMR/introduction/#I.01.9.1)), follow the alternative rules below.
 
 ### 5.33.351 Alternative rules for Date of manufacture
 
@@ -47,13 +47,13 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.33.352.2">5.33.352.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
-*Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.1)).
+*Optionally*, substitute for the chronogram the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include a transcription of the original chronogram in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important (see [5.34.36.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.1)).
 
-<a name="5.33.352.3">5.33.352.3</a> **Very long dates**. If the statement of the date on the preferred source of information is very long, generally transcribe it as it appears. 
+<a name="5.33.352.3">5.33.352.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
 *Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/),  [5.34.36.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.2)).
 
-<a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.35.36.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.35.36.3)).
+<a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.3)).
 
 *Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)).
 
@@ -71,7 +71,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ### 5.33.353 Date of manufacture supplied from reference sources
 
-<a name="5.33.353.1">5.33.353.1</a> If the date of manufacture does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.35.36.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.35.36.7)).
+<a name="5.33.353.1">5.33.353.1</a> If the date of manufacture does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.7)).
 
 ### 5.33.354 Conjectural date of manufacture
 
@@ -85,27 +85,27 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 | Conjectural date | Pattern |
 | --- | ---| --- |
-| , [1560?]	| probable date | 
-| , [approximately 1580] |approximate date | 
-|, [approximately 1580?] |probable approximate date|
-|, [not before 1479] |terminal date|
-|, [not after 21 Aug. 1492]	|terminal date|
-|, [1727 or 1728] |one year or the other|
-|, [between 1711 and 1749] |span certain|
-|, [between 1711 and 1749?] |span uncertain|
-|, [between 1670 and 1680] |decade certain|
-|, [between 1670 and 1680?] |probable decade|
-|, [between 1600 and 1700] |century certain|
-|, [between 1600 and 1700?] |probable century|
+|[1560?]	| probable date | 
+|[approximately 1580] |approximate date | 
+|[approximately 1580?] |probable approximate date|
+|[not before 1479] |terminal date|
+|[not after 21 Aug. 1492]	|terminal date|
+|[1727 or 1728] |one year or the other|
+|[between 1711 and 1749] |span certain|
+|[between 1711 and 1749?] |span uncertain|
+|[between 1670 and 1680] |decade certain|
+|[between 1670 and 1680?] |probable decade|
+|[between 1600 and 1700] |century certain|
+|[between 1600 and 1700?] |probable century|
 
 ### 5.33.355 Date of manufacture multipart monographs
 
-<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of manufacture of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 
-<a name="5.33.355.2">5.33.355.2</a> Record the date of each volume in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#45.34.36.8)).
+<a name="5.33.355.2">5.33.355.2</a> Record the date of manufacture of each volume in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.8)).
 
 ### 5.33.356 Date of manufacture on part pages
 
-<a name="5.33.356.1">5.33.356.1</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.9](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.9)). 
+<a name="5.33.356.1">5.33.356.1</a> If parts of a manifestation have individual title pages bearing dates of manufacture that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.9](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.9)). 
 
-If, however, one of these dates is a more accurate reflection of the actual date of manufacture, than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.33.352.4](#5.33.352.4).
+If, however, one of these dates of manufacture is a more accurate reflection of the actual date of manufacture than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.33.352.4](#5.33.352.4).

@@ -17,6 +17,8 @@ sidebar:
 
 <a name="5.315.1.1">5.315.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-39b430be-31ff-3456-bf49-d1fdf7c823a0){:target="_blank"}
 
+<a name="5.315.1.2">5.315.1.2</a> [Sources of information](/DCRMR/ppdm/)
+
 ## 5.315.2 RDA Definition and scope
 
 <a name="5.315.2.1">5.315.2.1</a> A place of manufacture in another language or script.

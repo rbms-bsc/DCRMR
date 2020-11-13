@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.32.3 General rule
 
-<a name="5.32.3.1">5.32.3.1</a> Transcribe the names of printers and other manufacturers.
+<a name="5.32.3.1">5.32.3.1</a> Transcribe the names of printers and other manufacturers as part of this element.
 
 >Example:  
 ><CITE>printed at the Patriot Office, Arcade, Lowther Street</CITE>
@@ -52,11 +52,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>printed by John Macock and Francis Tyton, printers to the House of Lords</CITE>
 
-<a name="5.32.3.3">5.32.3.3</a> *Optionally*, omit addresses and insignificant information in the middle or at the end of the place of manufacture, unless the information aids in identifying or dating the resource or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
+<a name="5.32.3.3">5.32.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the manufacturer’s name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  
->(*Comment*: full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross.)
+>(*Comment*: Full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross.)
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 
@@ -70,7 +70,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.32.32 Names of manufacturers containing only addresses, signs, or initials
 
-<a name="5.32.32.1">5.32.32.1</a> If only the address, sign, or initials of the manufacturer, appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of manufacturer. If the manufacturer’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
+<a name="5.32.32.1">5.32.32.1</a> If only the address, sign, or initials of the manufacturer appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of manufacturer. If the manufacturer’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Cuchet] Rue et Hôtel serpente</CITE>  
@@ -125,25 +125,25 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
-<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name or form of name of the  manufacturer changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.5)).
+<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.5)).
 
 ## 5.32.36 Supplied and conjectured names of manufacturers
 
 <a name="5.32.36.1">5.32.36.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.6)).
 
-## 5.32.37 No supplied name of manufacturer
-
-<a name="5.32.37.1">5.32.37.1</a> If no manufacturer’s name can be conjectured, record  “manufacturer not identified” in square brackets.
-
 >Example:  
 >Name of manufacturer: <CITE>[Barthelemy Multeau le jeune?]</CITE>  
 >Note on manufacture statement: <CITE>Printer conjectured from the privilege at end, in which the Archbishop cedes the privilege to "Barth. Multeau le jeune."</CITE>
 
-## 5.32.38 Manufacturer names transcribed as part of another element 
+## 5.32.37 No supplied name of manufacturer
+
+<a name="5.32.37.1">5.32.37.1</a> If no manufacturer’s name can be conjectured, record “manufacturer not identified” in square brackets if considered important.
+
+## 5.32.38 Manufacturer names transcribed as part of another element
 
 <a name="5.32.38.1">5.32.38.1</a> If the name of the manufacturer does not appear in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
-If transcribing a manufacturer's  name as part of another element, do not abridge or expand the name of manufacturer simply because it repeats or omits information given elsewhere in the description.
+If transcribing a manufacturer name as part of another element, do not abridge or expand the name of manufacturer simply because it repeats or omits information given elsewhere in the description.
 
 ## 5.32.39 Manufacturer names in more than one language or script
 

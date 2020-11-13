@@ -23,7 +23,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.29.2 RDA Definition and scope
 
-<a name="5.29.2.1">5.29.2.1</a> A statement that identifies a place of manufacture, a manufacturer, and a date of manufacture of a published manifestation.
+<a name="5.29.2.1">5.29.2.1</a> A statement that identifies a place of manufacture, a manufacturer, or a date of manufacture of a published manifestation.
+
+<a name="5.29.2.2">5.29.2.2</a> A manufacture statement includes a statement about the printing, duplicating, casting, etc., of a published manifestation.
 
 ## 5.29.3 General rule
 
@@ -35,7 +37,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.29.31.2">5.29.31.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-## 5.29.32 Elements relating to publication, distribution vs. elements relating to manufacture
+## 5.29.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
 <a name="5.29.32.1">5.29.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
