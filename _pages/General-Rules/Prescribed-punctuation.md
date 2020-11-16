@@ -9,8 +9,7 @@ sidebar:
 
 Please comment about errata on the [General rules errata page](https://docs.google.com/document/d/1T4iC_8YWU6Y8pe466XbW37xof42fOaxsWP5ig69-49M/edit#heading=h.gvx2eozefa9k){:target="_blank"}.
 
----
-## x0.2.01 Prescribed punctuation
+## 0.2.01 Prescribed punctuation
 
 The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation:
 
@@ -57,3 +56,8 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 ## Identifiers
 
 <a name="0.2.95.1">0.2.95.1</a> Precede this element by a period-space-dash-space or start a new paragraph. Precede each repetition of this element by a period-space-dash-space. Precede terms of availability by a colon. Enclose a qualification to the standard number or terms of availability in parentheses.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0.1 — Data provenance
+")](/DCRMR/general-rules/Data-provenance/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.3 — Language and script of the description")](/DCRMR/general-rules/Language-and-script-of-the-description/)

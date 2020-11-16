@@ -152,3 +152,7 @@ For additional guidance on sources of information for individual elements, see i
 >(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
 
 <a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0 — General rules")](/DCRMR/general-rules/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.1 — Data provenance")](/DCRMR/general-rules/Data-provenance/)

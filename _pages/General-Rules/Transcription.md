@@ -856,3 +856,6 @@ If information appears in scattered form on the preferred source of information 
 
 <a name="0.4.94.7">0.4.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source, if considered important for identification or selection.
 
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0.3 — Language and script of the description")](/DCRMR/general-rules/Language-and-script-of-the-description/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1 — Title")](/DCRMR/title/)

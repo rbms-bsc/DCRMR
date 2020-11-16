@@ -14,10 +14,14 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 ## Contents:
 {: .no_toc }
 
-[Chapter 0.1 Data provenance](/DCRMR/general-rules/Data-provenance/)
+[0.1 — Data provenance](/DCRMR/general-rules/Data-provenance/)
 
-[Chapter 0.2 Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation/)
+[0.2 — Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation/)
 
-[Chapter 0.3 Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description/)
+[0.3 — Language and script of the description](/DCRMR/general-rules/Language-and-script-of-the-description/)
 
-[Chapter 0.4 Transcription](/DCRMR/general-rules/Transcription/)
+[0.4 — Transcription](/DCRMR/general-rules/Transcription/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "I.01 — Introduction")](/DCRMR/introduction/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0 — General rules")](/DCRMR/general-rules/)

@@ -73,3 +73,7 @@ In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM
 [Future work](/DCRMR/preface/Future-work/)
 
 [Acknowledgments](/DCRMR/preface/Acknowledgments/)
+
+---
+
+[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Background")](/DCRMR/preface/Background/)

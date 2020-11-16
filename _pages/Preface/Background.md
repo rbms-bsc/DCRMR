@@ -19,4 +19,6 @@ In 2012, BSC formed the DCRM(B) for RDA Revision Group to complete this work. In
 
 In 2017, editorial work on the RBMS Policy Statements was absorbed by the BSC. At this time, the RDA Steering Committee was revising the RDA Toolkit in response to the RDA Restructure and Redesign (3R) Project. As a result, BSC decided to put policy statement revisions on hold. In 2019, the RDA Steering Committee released a stabilized English language version of the 3R Toolkit. However, the substantial changes to the Toolkit meant that the draft policy statements could not be used in their current form, leading to a change in direction. Following ALA Annual in 2019, a decision was made to rewrite the DCRM suite as a single RDA-compliant integrating resource and write lightweight policy statements to link from the Toolkit to the revised DCRM. In February 2020, this new manual was officially named DCRMR.
 
+---
 
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Preface")](/DCRMR/preface/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Changes from DCRM(B)")](/DCRMR/preface/Changes-from-DCRM(B)/)

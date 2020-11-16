@@ -186,3 +186,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Acknowledgments")](/DCRMR/preface/Acknowledgments/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0 — General rules")](/DCRMR/general-rules/)

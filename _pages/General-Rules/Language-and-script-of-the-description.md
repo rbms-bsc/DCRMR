@@ -53,3 +53,8 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 
 >Example:  
 >Note on manifestation: <CITE>Romanization supplied by cataloger</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0.2 — Prescribed punctuation
+")](/DCRMR/general-rules/Prescribed-punctuation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.4 — Transcription")](/DCRMR/general-rules/Transcription/)
