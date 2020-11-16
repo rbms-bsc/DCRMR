@@ -14,3 +14,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "4 — Mathematical details")](/DCRMR/mathematical-details/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5 — Production Publication Distribution Manufacture")](/DCRMR/ppdm/)

@@ -15,3 +15,8 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.26 — Note on edition statement")](/DCRMR/edition/Note-on-edition-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "4.21 — Details of cartographic content")](/DCRMR/mathematical-details/Details-of-cartographic-content/)
+
