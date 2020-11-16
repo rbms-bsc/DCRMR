@@ -83,3 +83,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 <a name="3.23.33.2">3.23.33.2</a> If a statement of responsibility relating to edition appears on the manifestation in more than one language or script, record the statement in the language or script of the title proper. If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/) (see [3.235.3.3](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.3)).
 
 <a name="3.23.33.3">3.23.33.3</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.225 — Parallel designation of edition")](/DCRMR/edition/Parallel-designation-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.235 — Parallel statement of responsibility relating to edition")](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/)

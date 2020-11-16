@@ -122,3 +122,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3 — Edition")](/DCRMR/edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.22 — Designation of edition")](/DCRMR/edition/Designation-of-edition/)

@@ -40,3 +40,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 ><CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>
 
 <a name="3.235.3.4">3.235.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.23 — Statement of responsibility relating to edition")](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.24 — Designation of named revision of edition")](/DCRMR/edition/Designation-of-named-revision-of-edition/)

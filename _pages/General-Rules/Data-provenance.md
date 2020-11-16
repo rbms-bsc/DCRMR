@@ -155,4 +155,4 @@ For additional guidance on sources of information for individual elements, see i
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0 — General rules")](/DCRMR/general-rules/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.1 — Data provenance")](/DCRMR/general-rules/Data-provenance/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "0 — General rules")](/DCRMR/general-rules/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.2 — Prescribed punctuation")](/DCRMR/general-rules/Prescribed-punctuation/)

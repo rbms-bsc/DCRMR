@@ -51,22 +51,26 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 ## Contents:
 {: .no_toc }
 
-[Chapter 3.21 Edition statement](/DCRMR/edition/Edition-statement/)
+[3.21 — Edition statement](/DCRMR/edition/Edition-statement/)
 
-[Chapter 3.22 Designation of edition](/DCRMR/edition/Designation-of-edition/)
+[3.22 — Designation of edition](/DCRMR/edition/Designation-of-edition/)
 
-[Chapter 3.225 Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
+[3.225 — Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/)
 
-[Chapter 3.23 Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)
+[3.23 — Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)
 
-[Chapter 3.235 Parallel statement of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/)
+[3.235 — Parallel statement of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/)
 
-[Chapter 3.24 Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/)
+[3.24 — Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/)
 
-[Chapter 3.245 Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/)
+[3.245 — Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/)
 
-[Chapter 3.25 Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/)
+[3.25 — Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/)
 
-[Chapter 3.255 Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
+[3.255 — Parallel statement of responsibility relating to named revision of edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/)
 
-[Chapter 3.26 Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
+[3.26 — Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "2.29 — Note on statement of responsibility")](/DCRMR/sor/Note-on-statement-of-responsibility/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.21 — Edition statement")](/DCRMR/edition/Edition-statement/)

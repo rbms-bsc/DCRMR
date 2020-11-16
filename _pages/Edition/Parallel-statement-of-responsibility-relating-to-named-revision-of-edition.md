@@ -34,3 +34,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 <a name="3.255.3.3">3.255.3.3</a> Transcribe the remaining statement(s) as parallel statements of responsibility relating to named revision of edition.
 
 <a name="3.255.3.4">3.255.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the resource of any transposed parallel statements of responsibility relating to named revision of edition (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.25 — Statement of responsibility relating to named revision of edition")](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.26 — Note on edition statement")](/DCRMR/edition/Note-on-edition-statement/)

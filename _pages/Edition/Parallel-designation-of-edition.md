@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 <a name="3.225.3.2">3.225.3.2</a> Transcribe the remaining statement(s) as Parallel designations of edition.
 
 <a name="3.225.3.3">3.225.3.3</a> *Optionally*, if it is considered that the Parallel designations of edition are too numerous to record exhaustively, and some may be omitted without significant loss of identification, all Parallel designations of editions after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.22 — Designation of edition")](DCRMR/edition/Designation-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.23 — Statement of responsibility relating to edition")](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)

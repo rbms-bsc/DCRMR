@@ -129,3 +129,7 @@ appropriate statement in square brackets, as needed. Indicate the basis for the 
 ## 3.22.36 Designations of edition in more than one language and script
 
 <a name="3.22.36.1">3.22.36.1</a> If a Designation of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the title proper. If this criterion does not apply, transcribe the statement that appears first in the manifestation. Transcribe the remaining statement(s) as [Parallel designations of edition](/DCRMR/edition/Parallel-designation-of-edition/) (see [3.225.3.1](/DCRMR/edition/Parallel-designation-of-edition/#3.225.3.1)). Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.21 — Edition statement")](/DCRMR/edition/Edition-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.225 — Parallel designation of edition")](/DCRMR/edition/Parallel-designation-of-edition/)

@@ -85,3 +85,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 >Example:  
 > <CITE>V. 2 issued without an edition statement</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.255 — Parallel statement of responsibility relating to named revision of edition")](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "4 — Mathematical details")](/DCRMR/mathematical-details/)
