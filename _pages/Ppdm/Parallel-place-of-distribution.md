@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.265.31.2">5.265.31.2</a> Transcribe any remaining [Place of distribution](/DCRMR/PPDM/Place-of-distribution/) as parallel places of distribution. If a parallel place of distribution is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important for identification (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [5.285.36.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.1)).
 
 <a name="5.265.31.3">5.265.31.3</a> *Optionally*, if the parallel places of distribution are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of distribution after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.26 — Place of distribution")](/DCRMR/ppdm/Place-of-distribution/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.27 — Name of distributor")](/DCRMR/ppdm/Name-of-distributor/)

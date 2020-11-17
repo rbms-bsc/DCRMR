@@ -107,3 +107,7 @@ If transcribing a distributor name as part of another element, do not abridge or
 ## 5.27.39 Distributor names in more than one language or script
 
 <a name="5.27.39.1">5.27.39.1</a> If the name of the distributor appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.265 — Parallel place of distribution")](/DCRMR/ppdm/Parallel-place-of-distribution/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.275 — Parallel name of distributor")](/DCRMR/ppdm/Parallel-name-of-distributor/)

@@ -35,3 +35,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>"Entered according to Act of Congress, in the year 1853, by O.K. Kingsbury"--Title page verso</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.35 — Copyright date")](/DCRMR/ppdm/Copyright-date/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6 — Physical Description")](/DCRMR/phys-desc/)

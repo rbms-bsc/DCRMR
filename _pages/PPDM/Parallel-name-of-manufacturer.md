@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.325.31.2">5.325.31.2</a> Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)). 
 
 <a name="5.325.31.3">5.325.31.3</a> *Optionally*, if it is considered that the names are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel manufacturers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted names in the supplied phrase.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.32 — Name of manufacturer")](/DCRMR/ppdm/Name-of-manufacturer/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.33 — Date of manufacture")](/DCRMR/ppdm/Date-of-manufacture/)

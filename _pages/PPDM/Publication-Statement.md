@@ -133,3 +133,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ## 5.2.36 Transcribing dates of publication as part of the Publication statement
 
 <a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5 — Production Publication Distribution Manufacture")](/DCRMR/ppdm/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/)

@@ -61,3 +61,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
 
 <a name="5.25.34.4">5.25.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.24 — Note on publication statement")](/DCRMR/ppdm/Note-on-publication-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.26 — Place of distribution")](/DCRMR/ppdm/Place-of-distribution/)

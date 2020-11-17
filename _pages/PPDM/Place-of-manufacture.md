@@ -113,3 +113,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ## 5.31.39 Place names in more than one language or script
 
 <a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.29 — Manufacture statement")](/DCRMR/ppdm/Manufacture-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.315 — Parallel place of manufacture")](/DCRMR/ppdm/Parallel-place-of-manufacture/)

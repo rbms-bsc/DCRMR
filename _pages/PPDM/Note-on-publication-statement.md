@@ -192,3 +192,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>No more published.</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.23 — Date of publication")](/DCRMR/ppdm/Date-of-publication/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.25 — Distribution statement")](/DCRMR/ppdm/Distribution-statement/)

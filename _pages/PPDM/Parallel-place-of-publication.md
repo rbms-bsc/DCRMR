@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.215.31.2">5.215.31.2</a> Transcribe remaining [Places of publication](/DCRMR/ppdm/Place-of-publication/) as parallel places of publication.  If a parallel place of publication is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important for identification (see [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/), [5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 
 <a name="5.215.31.3">5.215.31.3</a> *Optionally*, if the parallel places of publication are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of publication after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.22 — Name of publisher")](/DCRMR/ppdm/Name-of-publisher/)

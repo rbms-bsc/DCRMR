@@ -36,3 +36,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.35.31.3">5.35.31.3</a> If a date of [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation, and the date of copyright or deposit does not represent the probable date of publication, record it nonetheless in the copyright date element, and supply a more accurate date of publication in square brackets. Provide an explanation for the supplied date in a [Note on copyright date](/DCRMR/ppdm/Note-on-copyright-date/) (see [5.36.31.2](/DCRMR/ppdm/Note-on-copyright-date/#5.36.31.2)).
 
 <a name="5.35.31.4">5.35.31.4</a> If the manifestation bears both a [Date of publication](/DCRMR/ppdm/Date-of-publication/) and a date of copyright or deposit, the latter information may be recorded in the copyright date element if considered important.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.34 — Note on manufacture statement")](/DCRMR/ppdm/Note-on-manufacture-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.36 — Note on copyright date")](/DCRMR/ppdm/Note-on-copyright-date/)

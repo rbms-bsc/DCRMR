@@ -106,3 +106,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures.</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.33 — Date of manufacture")](/DCRMR/ppdm/Date-of-manufacture/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.35 — Copyright date")](/DCRMR/ppdm/Copyright-date/)

@@ -30,3 +30,7 @@ sidebar:
 <a name="5.315.31.2">5.315.31.2</a> Transcribe remaining [Places of manufacture](/DCRMR/ppdm/Place-of-manufacture/) as parallel places of manufacture. If a parallel place of manufacture is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important for identification (see [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/), [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
 <a name="5.315.31.3">5.315.31.3</a> *Optionally*, if the parallel places of manufacture are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel places of manufacture after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.31 — Place of manufacture")](/DCRMR/ppdm/Place-of-manufacture/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.32 — Name of manufacturer")](/DCRMR/ppdm/Name-of-manufacturer/)

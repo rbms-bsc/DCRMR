@@ -59,48 +59,52 @@ Note: only the elements related to publication are explicated below. The same or
 ## Contents:
 {: .no_toc }
 
-[Chapter 5.2 Publication statement](/DCRMR/ppdm/Publication-statement/)
+[5.2 — Publication statement](/DCRMR/ppdm/Publication-statement/)
 
-[Chapter 5.21 Place of publication](/DCRMR/ppdm/Place-of-publication/)
+[5.21 — Place of publication](/DCRMR/ppdm/Place-of-publication/)
 
-[Chapter 5.215 Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/)
+[5.215 — Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/)
 
-[Chapter 5.22 Name of publisher](/DCRMR/ppdm/Name-of-publisher/)
+[5.22 — Name of publisher](/DCRMR/ppdm/Name-of-publisher/)
 
-[Chapter 5.225 Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)
+[5.225 — Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)
 
-[Chapter 5.23 Date of publication](/DCRMR/ppdm/Date-of-publication/)
+[5.23 — Date of publication](/DCRMR/ppdm/Date-of-publication/)
 
-[Chapter 4.24 Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
+[5.24 — Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
 
-[Chapter 5.25 Distribution statement](/DCRMR/ppdm/Distribution-statement/)
+[5.25 — Distribution statement](/DCRMR/ppdm/Distribution-statement/)
 
-[Chapter 5.26 Place of distribution](/DCRMR/ppdm/Place-of-distribution/)
+[5.26 — Place of distribution](/DCRMR/ppdm/Place-of-distribution/)
 
-[Chapter 5.265 Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/)
+[5.265 — Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/)
 
-[Chapter 5.27 Name of distributor](/DCRMR/ppdm/Name-of-distributor/)
+[5.27 — Name of distributor](/DCRMR/ppdm/Name-of-distributor/)
 
-[Chapter 5.275 Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)
+[5.275 — Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)
 
-[Chapter 5.28 Date of distribution](/DCRMR/ppdm/Date-of-distribution/)
+[5.28 — Date of distribution](/DCRMR/ppdm/Date-of-distribution/)
 
-[Chapter 5.285 Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/)
+[5.285 — Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/)
 
-[Chapter 5.29 Manufacture statement](/DCRMR/ppdm/Manufacture-statement/)
+[5.29 — Manufacture statement](/DCRMR/ppdm/Manufacture-statement/)
 
-[Chapter 5.31 Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/)
+[5.31 — Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/)
 
-[Chapter 5.315 Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/)
+[5.315 — Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/)
 
-[Chapter 5.32 Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/)
+[5.32 — Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/)
 
-[Chapter 5.325 Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)
+[5.325 — Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)
 
-[Chapter 5.33 Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/)
+[5.33 — Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/)
 
-[Chapter 5.34 Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/)
+[5.34 — Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/)
 
-[Chapter 5.35 Copyright date](/DCRMR/ppdm/Copyright-date/)
+[5.35 — Copyright date](/DCRMR/ppdm/Copyright-date/)
 
-[Chapter 5.36 Note on copyright date](/DCRMR/ppdm/Note-on-copyright-date/)
+[5.36 — Note on copyright date](/DCRMR/ppdm/Note-on-copyright-date/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "4.21 — Details of cartographic content")](/DCRMR/mathematical-details/Details-of-cartographic-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.2 — Publication statement")](/DCRMR/ppdm/Publication-statement/)

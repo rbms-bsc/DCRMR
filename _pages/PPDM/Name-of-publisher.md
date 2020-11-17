@@ -200,3 +200,7 @@ If transcribing a publisher name as part of another element, do not abridge or e
 ## 5.22.39 Publisher names in more than one language or script
 
 <a name="5.22.39.1">5.22.39.1</a> If the name of the publisher appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the name that appears first. Transcribe the remaining statements(s) as parallel statements (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.215 — Parallel place of publication")](/DCRMR/ppdm/Parallel-place-of-publication/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.225 — Parallel name of publisher")](/DCRMR/ppdm/Parallel-name-of-publisher/)

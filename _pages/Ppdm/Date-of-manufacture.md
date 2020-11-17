@@ -109,3 +109,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 <a name="5.33.356.1">5.33.356.1</a> If parts of a manifestation have individual title pages bearing dates of manufacture that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.9](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.9)). 
 
 If, however, one of these dates of manufacture is a more accurate reflection of the actual date of manufacture than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.33.352.4](#5.33.352.4).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.325 — Parallel name of manufacturer")](/DCRMR/ppdm/Parallel-name-of-manufacturer/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.34 — Note on manufacture statement")](/DCRMR/ppdm/Note-on-manufacture-statement/)

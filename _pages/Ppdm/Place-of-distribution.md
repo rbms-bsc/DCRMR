@@ -231,3 +231,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ## 5.26.39 Place names in more than one language or script
 
 <a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.25 — Distribution statement")](/DCRMR/ppdm/Distribution-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.265 — Parallel place of distribution")](/DCRMR/ppdm/Parallel-place-of-distribution/)

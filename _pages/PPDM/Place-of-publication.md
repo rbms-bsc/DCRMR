@@ -232,3 +232,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ## 5.21.39 Place names in more than one language or script
 
 <a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place of publication that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)). 
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.2 — Publication statement")](/DCRMR/ppdm/Publication-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.215 — Parallel place of publication")](/DCRMR/ppdm/Parallel-place-of-publication/)

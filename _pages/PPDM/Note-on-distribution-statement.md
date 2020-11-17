@@ -136,3 +136,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Price three pence</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.28 — Date of distribution")](/DCRMR/ppdm/Date-of-distribution/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.29 — Manufacture statement")](/DCRMR/ppdm/Manufacture-statement/)
