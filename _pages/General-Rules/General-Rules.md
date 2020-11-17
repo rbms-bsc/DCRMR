@@ -24,4 +24,4 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "I.01 — Introduction")](/DCRMR/introduction/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0 — General rules")](/DCRMR/general-rules/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "I.01 — Introduction")](/DCRMR/introduction/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "0.1 — Data provenance")](/DCRMR/general-rules/Data-provenance/)
