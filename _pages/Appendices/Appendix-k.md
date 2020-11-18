@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix K — Instruction mappings from DCRM to DCRMR
+title: K — Instruction mappings from DCRM to DCRMR
 permalink: appendices/Appendix-k/
 sidebar:
   nav: "docs"
@@ -15,3 +15,6 @@ Kind regards,
 
 The RBMS RDA Editorial Group
 
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/) 

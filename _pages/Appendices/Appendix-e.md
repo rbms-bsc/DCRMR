@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix E — Variations requiring a new record
+title: E — Variations requiring a new record
 permalink: appendices/Appendix-e/
 sidebar:
   nav: "docs"
@@ -14,3 +14,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "D — Minimal-level records")](/DCRMR/appendices/Appendix-d/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "H — Individual and special issues of serials")](/DCRMR/appendices/Appendix-h/)

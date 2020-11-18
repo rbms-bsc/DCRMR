@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix H — Individual and special issues of serials
+title: H — Individual and special issues of serials
 permalink: appendices/Appendix-h/
 sidebar:
   nav: "docs"
@@ -14,3 +14,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "E — Variations requiring a new record")](/DCRMR/appendices/Appendix-e/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/)

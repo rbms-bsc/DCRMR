@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix D — Minimal-level records
+title: D — Minimal-level records
 permalink: appendices/Appendix-d/
 sidebar:
   nav: "docs"
@@ -14,3 +14,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "C — Core-level records")](/DCRMR/appendices/Appendix-c/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "E — Variations requiring a new record")](/DCRMR/appendices/Appendix-e/)

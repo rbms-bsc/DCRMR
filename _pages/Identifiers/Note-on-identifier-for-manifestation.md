@@ -31,3 +31,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 
 >Example:  
 > <CITE>“No. 195” appears in lower left corner of plate</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.22 — Term of availability")](/DCRMR/identifiers/Term-of-availability/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Appendices")](/DCRMR/appendices/)

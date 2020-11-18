@@ -18,10 +18,14 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 ## Contents:
 {: .no_toc }
 
-[Chapter 10.2 Identifier for manifestation](/DCRMR/identifiers/Identifier-for-manifestation/)
+[10.2 — Identifier for manifestation](/DCRMR/identifiers/Identifier-for-manifestation/)
 
-[Chapter 10.21 Fingerprint](/DCRMR/identifiers/Fingerprint/)
+[10.21 — Fingerprint](/DCRMR/identifiers/Fingerprint/)
 
-[Chapter 10.22 Term of availability](/DCRMR/identifiers/Term-of-availability/)
+[10.22 — Term of availability](/DCRMR/identifiers/Term-of-availability/)
 
-[Chapter 10.23 Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
+[10.23 — Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.45 — Bound with")](/DCRMR/additional-notes/Bound-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "10.2 — Identifier for manifestation")](/DCRMR/identifiers/Identifier-for-manifestation/)

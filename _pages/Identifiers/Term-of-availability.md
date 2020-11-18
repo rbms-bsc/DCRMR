@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 ## 10.22.31 Qualification
 
 <a name="10.22.31.1">10.22.31.1</a> *Optionally*, add qualifications (including the type of binding) to the terms of availability.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.21 — Fingerprint")](/DCRMR/identifiers/Fingerprint/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "10.23 — Note on identifier for manifestation")](/DCRMR/identifiers/Note-on-identifier-for-manifestation/)

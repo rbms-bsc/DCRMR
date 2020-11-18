@@ -42,3 +42,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 ## 10.2.32 Qualification  
 
 <a name="10.2.32.1">10.2.32.1</a> *Optionally*, add qualifications (including the type of binding) to the ISBN. Additionally, if volumes in a set have different ISBNs, follow each ISBN with the designation of the volume to which it applies.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.22 — Term of availability")](/DCRMR/identifiers/Term-of-availability/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Appendices")](/DCRMR/appendices/)

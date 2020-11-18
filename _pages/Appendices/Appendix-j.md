@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix J — Abbreviations for Creators, Publishers, Printers, etc.
+title: J — Abbreviations for creators, publishers, printers, etc.
 permalink: appendices/Appendix-j/
 sidebar:
   nav: "docs"
@@ -55,6 +55,6 @@ Philadelphia Print Shop. Glossary of Printmaking Nomenclature and Abbreviations,
 
 Zigrosser, Carl, and Christa M. Gaehde. A Guide to the Collecting and Care of Original Prints. New York: Crown Publishers, 1965.
 
+---
 
-
-
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "H — Individual and special issues of serials")](/DCRMR/appendices/Appendix-h/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "K — Mapping from DCRM(B) to DCRMR")](/DCRMR/appendices/Appendix-k/)

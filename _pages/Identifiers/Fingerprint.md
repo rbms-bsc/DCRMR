@@ -36,3 +36,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 >Example:  
 > <CITE>p.n, n,re t.n. waOh 7 1651A</CITE>  
 > <CITE>Content standard: fei</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.2 — Identifier for manifestation")](/DCRMR/identifiers/Identifier-for-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "10.22 — Term of availability")](/DCRMR/identifiers/Term-of-availability/)

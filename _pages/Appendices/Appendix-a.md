@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix A — MARC 21 Descriptive Conventions Code
+title: A — MARC 21 Descriptive Conventions Code
 permalink: appendices/Appendix-a/
 sidebar:
   nav: "docs"
@@ -15,3 +15,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Appendices")](/DCRMR/appendices/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "B — Collection-level records")](/DCRMR/appendices/Appendix-b/)

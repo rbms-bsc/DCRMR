@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: Appendix B — Collection-level records
+title: B — Collection-level records
 permalink: appendices/Appendix-b/
 sidebar:
   nav: "docs"
@@ -15,3 +15,7 @@ Development of this page is temporarily on hold, pending future developments. We
 Kind regards,
 
 The RBMS RDA Editorial Group
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "A — MARC 21 Descriptive Conventions Code")](/DCRMR/appendices/Appendix-a/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "C — Core-level records")](/DCRMR/appendices/Appendix-c/)
