@@ -52,7 +52,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 ## 0.1.3 Preferred source of information
 
-### 0.1.31 Resources consisting of more than one page, leaf, sheet, or card
+### 0.1.31 Manifestations consisting of more than one page, leaf, sheet, or card
 
 <a name="0.1.31.1">0.1.31.1</a> For resources that consist of more than one page, leaf, sheet, or card, use the title page, title sheet, or title card as the preferred source of information. If information traditionally given on the title page is given on two facing pages or on pages on successive leaves, with or without repetition, treat all of these pages as the preferred source and make a note.
 
@@ -67,7 +67,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 >Note on title: <CITE>Title, edition statement, and imprint taken from printed wrapper.</CITE>
 >Title page reads: <CITE>Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846</CITE>
 
-### 0.1.32 Single-sheet resources
+### 0.1.32 Single-sheet manifestations
 
 <a name="0.1.32.1">0.1.32.1</a> If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
 

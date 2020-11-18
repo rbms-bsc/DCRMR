@@ -130,7 +130,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
 
-## 5.2.36 Transcribing dates of publication as part of the Publication statement
+## 5.2.36 Transcribing dates of publication as part of the publication statement
 
 <a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).
 

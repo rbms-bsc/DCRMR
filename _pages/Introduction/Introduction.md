@@ -17,7 +17,7 @@ Please comment about errata on the [Introduction errata page](https://docs.googl
 - TOC
 {:toc}
 
-## I.01.1 Scope and Purpose
+## I.01.1 Scope and purpose
 
 ### I.01.11 Descriptive Cataloging of Rare Materials
 

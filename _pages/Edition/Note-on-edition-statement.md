@@ -45,7 +45,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 > <CITE>Edition statement precedes author’s name on title page</CITE>
 
-## 3.26.32 No Edition statement
+## 3.26.32 No edition statement
 
 <a name="3.26.32.1">3.26.32.1</a> Record edition information, such as an [Edition statement](/DCRMR/edition/Edition-statement/) that is provided by a reference source, for resources not containing an edition statement, but known to contain significant changes from other editions as a note on edition statement (see [3.21.31.1](/DCRMR/edition/Edition-statement/#3.21.31.1)).
 
@@ -54,7 +54,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 <a name="3.26.32.2">3.26.32.2</a> Note statements referring to other editions (e.g. as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
 
-## 3.26.33 Two or more works on the preferred source of information with at least one Edition statement
+## 3.26.33 Two or more works on the preferred source of information with at least one edition statement
 
 <a name="3.26.33.1">3.26.33.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an [Edition statement](/DCRMR/edition/Edition-statement/) associated with it that is not grammatically linked to another element and has been transcribed as individual Edition statements, make a note on edition statement indicating the work to which each edition statement corresponds (see [3.21.34.1](/DCRMR/edition/Edition-statement/#3.21.34.1)).
 

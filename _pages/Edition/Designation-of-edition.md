@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 <a name="3.22.3.1">3.22.3.1</a> Transcribe a statement relating to an edition or issue of a  resource as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). Include any explanatory words or phrases appearing with the Designation of edition.
 
-## 3.22.31 Words considered part of the Designation of edition
+## 3.22.31 Words considered part of the designation of edition
 
 <a name="3.22.31.1">3.22.31.1</a> Designations of edition normally include either the word “edition” (or its equivalent in other languages), or a related term such as “revision” or “issue.” 
 
@@ -62,7 +62,7 @@ part of a statement being transcribed in the production, publication, distributi
 >Example:  
 ><CITE>Third printing January, 1975</CITE>
 
-## 3.22.34 Recording Designation of edition
+## 3.22.34 Recording designation of edition
 
 <a name="3.22.34.1">3.22.34.1</a> Record a designation of edition by applying the basic instructions at [3.21.3.1](/DCRMR/edition/Designation-of-edition/#3.21.3.1).  
 

@@ -105,7 +105,7 @@ Make an explanatory note.
 
 ## 0.4.2 Capitalization and conversion of case
 
-### 0.4.21 Capitalization and conversion of case: general rule
+### 0.4.21 General rule
 
 <a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"} in the RDA Toolkit, with the following exceptions. 
 
@@ -181,7 +181,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 
 ## 0.4.3 Punctuation
 
-### 0.4.31 Punctuation: general rule
+### 0.4.31 General rule
 
 <a name="0.4.31.1">0.4.31.1</a> Use modern punctuation conventions instead of transcribing punctuation as it appears on the source. 
 
@@ -491,7 +491,7 @@ ET ITALIAE)
 
 ## 0.4.5 Omissions
 
-### 0.4.51 Omissions: general rule
+### 0.4.51 General rule
 
 <a name="0.4.51.1">0.4.51.1</a> Indicate omissions in a quoted note or transcribed element by using the mark of omission. When using the mark of omission, generally give it with a space on either side. 
 
@@ -542,7 +542,7 @@ If considered important, give the omitted text in a note.
 
 ## 0.4.6 Interpolations
 
-### 0.4.61 Interpolations: general rule
+### 0.4.61 General rule
 
 <a name="0.4.61.1">0.4.61.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
 
