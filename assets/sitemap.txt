@@ -1,5 +1,3 @@
-urllist.txt
-
 https://rbms-bsc.github.io/DCRMR/
 https://rbms-bsc.github.io/DCRMR/Search/
 https://rbms-bsc.github.io/DCRMR/preface/
