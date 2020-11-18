@@ -22,7 +22,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; other notes than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules, and, generally, in the order in which they are listed here. If a particular note is of primary importance, it may be given first, regardless of its order in this list. When appropriate, combine two or more notes to make one note.
 
-## 9.01.4 General rules
+## 9.01.4 General rule
 
 <a name="9.01.4.1">9.01.4.1</a> Notes qualify and amplify the formal description, and are especially important for recording types of information not accounted for in other data elements. Notes can therefore deal with any aspect of the resource.
 

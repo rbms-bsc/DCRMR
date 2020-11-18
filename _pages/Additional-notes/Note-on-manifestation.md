@@ -75,7 +75,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>Contents: [from title page] Map showing location of Fort Matanzas -- First floor plan -- Second floor plan. Roof plan -- South elevation -- North elevation -- West elevation -- East elevation -- Section -- Details of tower -- [Stair details] -- Details of interior wooden stairs -- Section</CITE>
 
-## 9.3.33 Notes on made-up sets of a multipart monograph
+## 9.3.33 Note on made-up sets of a multipart monograph
 
 <a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
 
@@ -83,7 +83,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  
 >Edition statement: <CITE>First edition</CITE>
 
-## 9.3.34 Notes on reissued or reprinted manifestations
+## 9.3.34 Note on reissued or reprinted manifestations
 
 <a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description (see also [Reprinted as manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
@@ -113,7 +113,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/), if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
 
-# 9.3.36 Notes on dates not representing publication, distribution, or manufacture elements
+# 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
 
 <a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2)).
 
@@ -121,7 +121,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.36.3">9.3.36.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
 
-# 9.3.37 Notes on imperfect exemplars
+# 9.3.37 Note on imperfect exemplars
 
 <a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 

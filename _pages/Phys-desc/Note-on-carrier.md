@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.355.31.1">6.355.31.1</a> Make a note to record descriptions that combine information on [Details of base material](/DCRMR/phys-desc/Details-of-base-material/) ([6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) ([6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)), or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) ([6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)) if considered important.
 
-## 6.355.32 Descriptions of containers
+## 6.355.32 Description of accompanying containers
 
 <a name="6.355.32.1">6.355.32.1</a>  Make a note to record descriptions of containers issued with the manifestation if considered important.
 

@@ -39,7 +39,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>Adaptation of: Breviarium monasticum</CITE>
 
-## 9.1.32 Notes on sequential works
+## 9.1.32 Note on sequential works
 
 <a name="9.1.32.1">9.1.32.1</a> Make a note on the fact that the work is part of a sequence of works, unless apparent from the rest of the description (see also [Succeeded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-948e6981-db86-3738-bc36-6650ff6330f1){:target="_blank"} and [Preceded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-e9b23ff8-cfc6-3a5a-a9ef-8019a8aaf1f0){:target="_blank"}).
 

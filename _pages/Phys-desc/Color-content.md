@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.23.2.2">6.23.2.2</a> Black, white, single color shades of black, single color tints of white, and single color tones of gray are considered to be single colors.
 
-## 6.23.21 DCRM Elaboration on scope
+## 6.23.21 DCRMR elaboration of scope
 
 ### 6.23.211 Printed color
 

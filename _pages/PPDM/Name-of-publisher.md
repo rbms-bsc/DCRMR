@@ -78,7 +78,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Publication statement: <CITE>Publish'd July 1st, 1790 by J. & J. Boydell, Cheapside & at the Shakespeare Gallery Pall Mall</CITE>  
 >Date of publication: <CITE>[July 1, 1790]</CITE>
 
-## 5.22.32 Names of publishers containing only addresses, signs, or initials
+## 5.22.32 Publishers identified by addresses, signs, or initials 
 
 <a name="5.22.32.1">5.22.32.1</a> If only the address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
@@ -102,7 +102,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  
 >Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913</CITE>
 
-## 5.22.33 Fictitious or incorrect publisher names
+## 5.22.33 Fictitious or incorrect names of publisher
 
 <a name="5.22.33.1">5.22.33.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.3)).
 
@@ -183,11 +183,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on publication statement: <CITE>Imprint from Goff.</CITE>  
 >(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
 
-## 5.22.37 No supplied name of publisher
+## 5.22.37 Name of publisher cannot be supplied
 
 <a name="5.22.37.1">5.22.37.1</a> If no publisher’s name can be conjectured, record “publisher not identified” in square brackets.
 
-## 5.22.38 Publisher names transcribed as part of another element
+## 5.22.38 Name of publisher transcribed as part of another element
 
 <a name="5.22.38.1">5.22.38.1</a> If the name of the publisher does not appear in the [Publication statement](/DCRMR/ppdm/Publication-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
@@ -197,7 +197,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 If transcribing a publisher name as part of another element, do not abridge or expand the name of publisher simply because it repeats or omits information given elsewhere in the description.
 
-## 5.22.39 Publisher names in more than one language or script
+## 5.22.39 Name of publisher in more than one language or script
 
 <a name="5.22.39.1">5.22.39.1</a> If the name of the publisher appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the name that appears first. Transcribe the remaining statements(s) as parallel statements (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)).
 

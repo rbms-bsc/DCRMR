@@ -79,7 +79,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>24-28 cm</CITE>
 
-## 6.24.35 Single-sheet publications
+## 6.24.35 Single-sheet manifestations
 
 <a name="6.24.35.1">6.24.35.1</a> For a single-sheet publication issued unfolded, record the height x width. 
 
@@ -97,7 +97,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>24 x 38 cm</CITE>  
 > Note on dimensions of item: <CITE>Folded by later owner to 24 x 19 cm</CITE>
 
-<a name="6.24.35.4">6.24.35.4</a> When describing sheets designed to be used as folded (see [6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-publications)), record the height of the sheet when folded.
+<a name="6.24.35.4">6.24.35.4</a> When describing sheets designed to be used as folded (see [6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations)), record the height of the sheet when folded.
 
 >Example:  
 ><CITE>18 cm</CITE>  

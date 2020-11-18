@@ -25,13 +25,13 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 <a name="8.255.2.1">8.255.2.1</a> A statement of responsibility relating to series in another language or script.
 
-## 8.255.31 Parallel statement of responsibility relating to series
+## 8.255.3 Parallel statement of responsibility relating to series
 
-<a name="8.255.31.1">8.255.31.1</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/) but the statement of responsibility relating to the series appears in only one language or script, transcribe the statement of responsibility after the last parallel title (following any other title information associated with the title). 
+<a name="8.255.3.1">8.255.3.1</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/) but the statement of responsibility relating to the series appears in only one language or script, transcribe the statement of responsibility after the last parallel title (following any other title information associated with the title). 
 
-<a name="8.255.31.2">8.255.31.2</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the series title (or other title information) to which it relates.
+<a name="8.255.3.2">8.255.3.2</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the series title (or other title information) to which it relates.
 
-<a name="8.255.31.3">8.255.31.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated statements of responsibility.
+<a name="8.255.3.3">8.255.3.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated statements of responsibility.
 
 ---
 

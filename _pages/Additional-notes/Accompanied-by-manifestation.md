@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.31.2.1">9.31.2.1</a> A manifestation that is issued with another manifestation, without any relationship to its content.
 
-## 9.31.21 DCRMR elaboration on scope
+## 9.31.21 DCRMR elaboration of scope
 
 <a name="9.31.21.1">9.31.21.1</a> A manifestation physically separate from and issued simultaneously (or nearly so) with another manifestation and intended to be used together with it.
 

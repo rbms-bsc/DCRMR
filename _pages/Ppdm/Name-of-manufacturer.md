@@ -93,7 +93,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
 >(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
 
-## 5.32.33 Fictitious name of manufacturer
+## 5.32.33 Fictitious or incorrect names of manufacturer
 
 <a name="5.32.33.1">5.32.33.1</a> If the name of manufacturer is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.3)).
 
@@ -135,17 +135,17 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Name of manufacturer: <CITE>[Barthelemy Multeau le jeune?]</CITE>  
 >Note on manufacture statement: <CITE>Printer conjectured from the privilege at end, in which the Archbishop cedes the privilege to "Barth. Multeau le jeune."</CITE>
 
-## 5.32.37 No supplied name of manufacturer
+## 5.32.37 Name of manufacturer cannot be supplied
 
 <a name="5.32.37.1">5.32.37.1</a> If no manufacturer’s name can be conjectured, record “manufacturer not identified” in square brackets if considered important.
 
-## 5.32.38 Manufacturer names transcribed as part of another element
+## 5.32.38 Name of manufacturer transcribed as part of another element
 
 <a name="5.32.38.1">5.32.38.1</a> If the name of the manufacturer does not appear in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
 If transcribing a manufacturer name as part of another element, do not abridge or expand the name of manufacturer simply because it repeats or omits information given elsewhere in the description.
 
-## 5.32.39 Manufacturer names in more than one language or script
+## 5.32.39 Name of manufacturer in more than one language or script 
 
 <a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
 

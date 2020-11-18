@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.34.2.1">9.34.2.1</a> A manifestation that is issued on the same carrier as a manifestation being described.
 
-## 9.34.21 DCRMR elaboration on scope
+## 9.34.21 DCRMR elaboration of scope
 
 <a name="9.34.21.1">9.34.21.1</a> Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated and have separate signatures, but which have been issued together by the publisher, distributor, etc. If the pagination, foliation, or signatures of separately titled parts are continuous with the part being described (see [Part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}).
 

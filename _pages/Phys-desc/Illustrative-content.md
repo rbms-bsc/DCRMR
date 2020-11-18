@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.2.3">6.22.2.3</a> Tables containing only words and/or numerical data are excluded.
 
-## 6.22.21 DCRM Elaboration on scope
+## 6.22.21 DCRMR elaboration of scope
 
 ### 6.22.211 Ornaments, etc.
 

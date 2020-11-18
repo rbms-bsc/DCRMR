@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.21.42 Manifestations in one physical unit
 
-#### 6.21.421 Manifestations in one physical unit: general rule
+#### 6.21.421 General rule
 
 <a name="6.21.421.1">6.21.421.1</a> Record every leaf in the volume or other physical unit as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. Do not record leaves added as part of the binding or the binding itself.
 
@@ -74,7 +74,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > <CITE>[4] pages</CITE>  
 > Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank.</CITE>
 
-See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-cases-portfolios-etc)-[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-publications) for all other single-sheet publications.
+See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-cases-portfolios-etc)-[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
 
 #### 6.21.4225 Unnumbered pages or leaves
 
@@ -292,7 +292,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 > Extent of manifestation: <CITE>[4], 28 pages, [86] leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>Some plates printed on double leaves.</CITE>  
 
-#### 6.21.428 Incomplete publications
+#### 6.21.428 Incomplete manifestations 
 
 <a name="6.21.428.1">6.21.428.1</a> If a volume, or an individual sequence of pages or leaves within a volume, lacks pages or leaves at its end—or an unpaginated or unfoliated volume or sequence lacks any pages or leaves—and the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record the number of the last numbered or unnumbered page, leaf, or column using the appropriate term followed by ”(incomplete).” If pages or leaves appear to be missing from both the first and last part of the volume, and the extent of the complete volume cannot be ascertained, record the first and last numbers of the pages, leaves, or columns preceded by the appropriate term. Record in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) that the extent is based on an incomplete exemplar (see [6.215.3.7](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.7)).  Record the imperfection in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) (see [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
@@ -310,7 +310,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 If the portfolio or case was not issued with the resource, record the extent in terms of pages, leaves, columns, sheets, or volumes as appropriate. In situations of uncertainty, assume that the portfolio or case was not issued with the resource. Record the presence of the case or portfolio in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) if considered important (see [9.43.3.3](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.3)).
 
-#### 6.21.429 Single-sheet publications
+#### 6.21.429 Single-sheet manifestations
 
 <a name="6.21.429.1">6.21.429.1</a> For a manifestation consisting of a single sheet designed to be used unfolded (whether issued folded or unfolded), add a statement of pagination based on the number of pages printed, not counting blanks, in parentheses.
 
@@ -352,7 +352,7 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 
 ### 6.21.43 Manifestations in more than one physical unit
 
-#### 6.21.431 Manifestations in more than one physical unit: general rule
+#### 6.21.431 General rule
 
 <a name="6.21.431.1">6.21.431.1</a> If a manifestation is issued in more than one physical unit,  record the number of physical units in arabic numerals followed by the appropriate designation for the unit (see also [6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
 

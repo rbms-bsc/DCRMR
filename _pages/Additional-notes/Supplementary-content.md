@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.33.1.2">9.33.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
-## 9.33.2 RDA Definition and scope
+## 9.33.2 RDA definition and scope
 
 <a name="9.33.2.1">9.33.2.1</a> An indication of content that updates or complements the primary content of an expression.
 

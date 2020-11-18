@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: I.01 — Introduction
+title: Introduction
 permalink: /introduction/
 sidebar:
   nav: "docs"
