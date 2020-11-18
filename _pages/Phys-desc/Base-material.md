@@ -38,3 +38,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>Japan vellum</CITE>
 
 <a name="6.25.3.3">6.25.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material](/DCRMR/phys-desc/Details-of-base-material/), [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.245 — Note on dimensions of manifestation")](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.255 — Details of base material")](/DCRMR/phys-desc/Details-of-base-material/)

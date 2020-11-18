@@ -28,3 +28,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## 6.265.3 General rule 
 
 <a name="6.265.3.1">6.265.3.1</a> Record details of applied material if considered important.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.26 — Applied material")](/DCRMR/phys-desc/Applied-material/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.27 — Production method")](/DCRMR/phys-desc/Production-method/)

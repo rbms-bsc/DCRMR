@@ -36,3 +36,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Production method: <CITE>printing</CITE>  
 >Production method: <CITE>engraving</CITE>  
 >Details of production method: <CITE>First quire is in letterpress; rest is engraved</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.27 — Production method")](/DCRMR/phys-desc/Production-method/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.28 — Layout")](/DCRMR/phys-desc/Layout/)

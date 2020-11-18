@@ -77,3 +77,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## 6.235.35 Base material
 
 <a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g. paper) if considered important (see [Color content](/DCRMR/phys-desc/Color-content/), [6.23.215.1](/DCRMR/phys-desc/Color-content/#6.23.215.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.23 — Color content")](/DCRMR/phys-desc/Color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.24 — Dimensions")](/DCRMR/phys-desc/Dimensions/)

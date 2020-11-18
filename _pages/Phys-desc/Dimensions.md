@@ -114,3 +114,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.24.37.3">6.24.37.3</a> If the resource is in more than one container, and the containers are all of the same size, record the dimensions of a single container.
 
 <a name="6.24.37.4">6.24.37.4</a> If the containers differ in size, record the dimensions of the smallest or smaller and the largest or larger size.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.245 — Note on dimensions of manifestation")](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)

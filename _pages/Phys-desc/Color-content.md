@@ -73,3 +73,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 >Color content: <CITE>hand colored</CITE>    
 >Details of color content: <CITE>Wood engravings hand-colored, as issued</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.225 — Details of illustrative content")](/DCRMR/phys-desc/Details-of-illustrative-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/)

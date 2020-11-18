@@ -392,3 +392,8 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 #### 6.21.437 Discontinued publications
 
 <a name="6.21.437.1">6.21.437.1</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, describe the incomplete set as appropriate (i.e., record paging for a single volume or the number of volumes for multiple volumes). Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) indicating that no more units have been issued (see [6.215.3.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.9)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6 — Physical Description")](/DCRMR/phys-desc/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.215 — Note on extent of manifestation")](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)
+

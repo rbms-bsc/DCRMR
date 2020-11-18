@@ -30,3 +30,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.245.3.1">6.245.3.1</a> Make any notes on the dimensions of a manifestation if considered important. For general rules on constructing manifestation-specific notes (see [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/), [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
 
 <a name="6.245.3.2">6.245.3.2</a> If a volume as issued contains separate text blocks of varying dimensions, record the height (or height x width) of the text blocks in a note on dimensions of manifestation if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [6.24.335.1](/DCRMR/phys-desc/Dimensions/#6.24.335.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.24 — Dimensions")](/DCRMR/phys-desc/Dimensions/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.25 — Base material")](/DCRMR/phys-desc/Base-material/)

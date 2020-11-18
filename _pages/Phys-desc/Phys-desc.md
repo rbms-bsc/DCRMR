@@ -19,52 +19,57 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## Contents:
 {: .no_toc }
 
-[Chapter 6.21 Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/)
+[6.21 — Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/)
 
-[Chapter 6.215 Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)
+[6.215 — Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/)
 
-[Chapter 6.22 Illustrative content](/DCRMR/phys-desc/Illustrative-content/)
+[6.22 — Illustrative content](/DCRMR/phys-desc/Illustrative-content/)
 
-[Chapter 6.225 Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/)
+[6.225 — Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/)
 
-[Chapter 6.23 Color content](/DCRMR/phys-desc/Color-content/)
+[6.23 — Color content](/DCRMR/phys-desc/Color-content/)
 
-[Chapter 6.235 Details of color content](/DCRMR/phys-desc/Details-of-color-content/)
+[6.235 — Details of color content](/DCRMR/phys-desc/Details-of-color-content/)
 
-[Chapter 6.24 Dimensions](/DCRMR/phys-desc/Dimensions/)
+[6.24 — Dimensions](/DCRMR/phys-desc/Dimensions/)
 
-[Chapter 6.245 Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)
+[6.245 — Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)
 
-[Chapter 6.25 Base material](/DCRMR/phys-desc/Base-material/)
+[6.25 — Base material](/DCRMR/phys-desc/Base-material/)
 
-[Chapter 6.255 Details of base material](/DCRMR/phys-desc/Details-of-base-material/)
+[6.255 — Details of base material](/DCRMR/phys-desc/Details-of-base-material/)
 
-[Chapter 6.26 Applied material](/DCRMR/phys-desc/Applied-material/)
+[6.26 — Applied material](/DCRMR/phys-desc/Applied-material/)
 
-[Chapter 6.265 Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/)
+[6.265 — Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/)
 
-[Chapter 6.27 Production method](/DCRMR/phys-desc/Production-method/)
+[6.27 — Production method](/DCRMR/phys-desc/Production-method/)
 
-[Chapter 6.275 Details of production method](/DCRMR/phys-desc/Details-of-production-method/)
+[6.275 — Details of production method](/DCRMR/phys-desc/Details-of-production-method/)
 
-[Chapter 6.28 Layout](/DCRMR/phys-desc/Layout/)
+[6.28 — Layout](/DCRMR/phys-desc/Layout/)
 
-[Chapter 6.285 Details of layout](/DCRMR/phys-desc/Details-of-layout/)
+[6.285 — Details of layout](/DCRMR/phys-desc/Details-of-layout/)
 
-[Chapter 6.29 Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/)
+[6.29 — Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/)
 
-[Chapter 6.295 Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/)
+[6.295 — Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/)
 
-[Chapter 6.31 Font size](/DCRMR/phys-desc/Font-size/)
+[6.31 — Font size](/DCRMR/phys-desc/Font-size/)
 
-[Chapter 6.315 Details of font size](/DCRMR/phys-desc/Details-of-font-size/)
+[6.315 — Details of font size](/DCRMR/phys-desc/Details-of-font-size/)
 
-[Chapter 6.32 Type of binding](/DCRMR/phys-desc/Type-of-binding/)
+[6.32 — Type of binding](/DCRMR/phys-desc/Type-of-binding/)
 
-[Chapter 6.33 Content type](/DCRMR/phys-desc/Content-type/)
+[6.33 — Content type](/DCRMR/phys-desc/Content-type/)
 
-[Chapter 6.34 Media type](/DCRMR/phys-desc/Media-type/)
+[6.34 — Media type](/DCRMR/phys-desc/Media-type/)
 
-[Chapter 6.35 Carrier type](/DCRMR/phys-desc/Carrier-type/)
+[6.35 — Carrier type](/DCRMR/phys-desc/Carrier-type/)
 
-[Chapter 6.355 Note on carrier](/DCRMR/phys-desc/Note-on-carrier/)
+[6.355 — Note on carrier](/DCRMR/phys-desc/Note-on-carrier/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.36 — Note on copyright date")](/DCRMR/ppdm/Note-on-copyright-date/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.21 — Extent of manifestation")](/DCRMR/phys-desc/Extent-of-manifestation/)
+

@@ -164,3 +164,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 > <CITE>chiefly maps</CITE>  
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.215 — Note on extent of manifestation")](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.225 — Details of illustrative content")](/DCRMR/phys-desc/Details-of-illustrative-content/)
+

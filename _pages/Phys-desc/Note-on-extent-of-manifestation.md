@@ -313,3 +313,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 
 > Example:  
 > <CITE>Collation: 8vo: A-H⁴; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.21 — Extent of manifestation")](/DCRMR/phys-desc/Extent-of-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.22 — Illustrative content")](/DCRMR/phys-desc/Illustrative-content/)

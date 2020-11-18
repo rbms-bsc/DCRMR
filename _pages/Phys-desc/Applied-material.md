@@ -45,3 +45,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.26.3.4">6.26.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record *mixed materials.*
 
 <a name="6.26.3.5">6.26.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation in details of applied material if considered important (see [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/), [6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.255 — Details of base material")](/DCRMR/phys-desc/Details-of-base-material/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.265 — Details of applied material")](/DCRMR/phys-desc/Details-of-applied-material/)

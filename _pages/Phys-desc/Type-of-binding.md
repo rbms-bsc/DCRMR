@@ -61,3 +61,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.32.3.4">6.32.3.4</a> Record details pertaining to the binding of individual items as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)).
 
 <a name="6.32.3.5">6.32.3.5</a> Record details pertaining to containers issued with the manifestation as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [6.355.32.1](/DCRMR/phys-desc/Note-on-carrier/#6.355.32.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.315 — Details of font size")](/DCRMR/phys-desc/Details-of-font-size/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.33 — Content type")](/DCRMR/phys-desc/Content-type/)

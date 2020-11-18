@@ -37,3 +37,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>"Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper."</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.25 — Base material")](/DCRMR/phys-desc/Base-material/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.26 — Applied material")](/DCRMR/phys-desc/Applied-material/)

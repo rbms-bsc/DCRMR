@@ -31,3 +31,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Volume 1 is folio; volume 2 is 12mo</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.29 — Bibliographic format")](/DCRMR/phys-desc/Bibliographic-format/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.31 — Font size")](/DCRMR/phys-desc/Font-size/)

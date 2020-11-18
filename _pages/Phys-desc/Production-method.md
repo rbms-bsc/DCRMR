@@ -44,3 +44,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >(*Comment*: Print done in aquatint with some etching)
 
 <a name="6.27.3.4">6.27.3.4</a> Make a note recording more detailed descriptions of the processes or techniques used to produce a manifestation in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) if considered important (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.265 — Details of applied material")](/DCRMR/phys-desc/Details-of-applied-material/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/)

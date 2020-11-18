@@ -70,3 +70,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Details of illustrative content: <CITE>Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket</CITE>
 
 <a name="6.225.3.7">6.225.3.7</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand-colored manifestations issued as such and [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.25.1](/DCRMR/additional-notes/Note-on-item/#9.4.25.1)) for hand-colored manifestations not issued as such.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.22 — Illustrative content")](/DCRMR/phys-desc/Illustrative-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.23 — Color content")](/DCRMR/phys-desc/Color-content/)

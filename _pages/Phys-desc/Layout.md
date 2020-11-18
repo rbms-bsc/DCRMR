@@ -30,3 +30,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.28.3.1">6.28.3.1</a> *Optionally*, record specific types of layout using one or more terms from the [RDA Value Vocabularies: RDA Layout](http://www.rdaregistry.info/termList/layout/){:target="_blank"} and indicate the source.
 
 <a name="6.28.3.2">6.28.3.2</a> Record more detailed descriptions of layout in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.285 — Details of layout")](/DCRMR/phys-desc/Details-of-layout/)

@@ -56,3 +56,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.29.3.2">6.29.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
 <a name="6.29.3.3">6.29.3.3</a> Record more detailed descriptions of bibliographic format in details of bibliographic format if considered important (see [Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/), [6.295.3.1](/DCRMR/phys-desc/Details-of-bibliographic-format/#6.295.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.285 — Details of layout")](/DCRMR/phys-desc/Details-of-layout/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.295 — Details of bibliographic format")](/DCRMR/phys-desc/Details-of-bibliographic-format/)

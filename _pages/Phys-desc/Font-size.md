@@ -33,3 +33,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>Type 76G</CITE>
 
 <a name="6.31.3.2">6.31.3.2</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size](/DCRMR/phys-desc/Details-of-font-size/), [6.315.3.1](/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.295 — Details of bibliographic format")](/DCRMR/phys-desc/Details-of-bibliographic-format/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.315 — Details of font size")](/DCRMR/phys-desc/Details-of-font-size/)

@@ -36,3 +36,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## 6.355.32 Descriptions of containers
 
 <a name="6.355.32.1">6.355.32.1</a>  Make a note to record descriptions of containers issued with the manifestation if considered important.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.35 — Carrier type")](/DCRMR/phys-desc/Carrier-type/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "7 — Numbering of serials")](/DCRMR/numbering-of-serials/)
+

@@ -44,3 +44,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Printed in 2 columns divided by a row of printers' ornaments</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.28 — Layout")](/DCRMR/phys-desc/Layout/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.29 — Bibliographic format")](/DCRMR/phys-desc/Bibliographic-format/)

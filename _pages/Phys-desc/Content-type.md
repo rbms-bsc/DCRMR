@@ -28,3 +28,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## 6.33.3 General rule
 
 <a name="6.33.3.1">6.33.3.1</a> Record the media type of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.32 — Type of binding")](/DCRMR/phys-desc/Type-of-binding/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.34 — Media type")](/DCRMR/phys-desc/Media-type/)
+
