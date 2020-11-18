@@ -37,3 +37,6 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 >Other title information of series: <CITE>Yo Semite and Pacific Coast</CITE>  
 >Title proper of series: <CITE>Watkins' new boudoir series</CITE>
 
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.215 — Parallel title of series")](/DCRMR/series/Parallel-title-of-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.235 — Parallel other title information of series")](/DCRMR/series/Parallel-other-title-information-of-series/)

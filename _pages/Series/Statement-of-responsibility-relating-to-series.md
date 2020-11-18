@@ -43,3 +43,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 >Series statement: <CITE>Annales. Zoologie / Musée du Congo</CITE>  
 >Note on series statement: <CITE>Series statement of responsibility precedes series title on series title page</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.235 — Parallel other title information of series")](/DCRMR/series/Parallel-other-title-information-of-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.255 — Parallel statement of responsibility relating to series")](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/)

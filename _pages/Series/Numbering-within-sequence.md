@@ -95,3 +95,7 @@ In case of doubt as to whether a number appearing in the publication is series n
 >(*Comment*: Information is transcribed in three elements: [Title of series](/DCRMR/series/Title-of-series/); [Parallel title of series](/DCRMR/series/Parallel-title-of-series/); and Numbering within sequence. The example is formatted according to ISBD for clarity)   
 
 <a name="8.27.32.3">8.27.32.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated numbers.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.255 — Parallel statement of responsibility relating to series")](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.29 — Note on series statement")](/DCRMR/series/Note-on-series-statement/)

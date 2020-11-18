@@ -80,20 +80,24 @@ Note: subseries is transcribed as part of the Title of series element.
 ## Contents:
 {: .no_toc }
 
-[Chapter 8.2 Series statement](/DCRMR/series/Series-statement/)
+[8.2 — Series statement](/DCRMR/series/Series-statement/)
 
-[Chapter 8.21 Title of series](/DCRMR/series/Title-of-series/)
+[8.21 — Title of series](/DCRMR/series/Title-of-series/)
 
-[Chapter 8.215 Parallel title of series](/DCRMR/series/Parallel-title-of-series/)
+[8.215 — Parallel title of series](/DCRMR/series/Parallel-title-of-series/)
 
-[Chapter 8.23 Other title information of series](/DCRMR/series/Other-title-information-of-series/)
+[8.23 — Other title information of series](/DCRMR/series/Other-title-information-of-series/)
 
-[Chapter 8.235 Parallel other title information of series](/DCRMR/series/Parallel-other-title-information-of-series/)
+[8.235 — Parallel other title information of series](/DCRMR/series/Parallel-other-title-information-of-series/)
 
-[Chapter 8.25 Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/)
+[8.25 — Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/)
 
-[Chapter 8.255 Parallel statement of responsibility relating to series](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/)
+[8.255 — Parallel statement of responsibility relating to series](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/)
 
-[Chapter 8.27 Numbering within sequence](/DCRMR/series/Numbering-within-sequence/)
+[8.27 — Numbering within sequence](/DCRMR/series/Numbering-within-sequence/)
 
-[Chapter 8.29 Note on series statement](/DCRMR/series/Note-on-series-statement/)
+[8.29 — Note on series statement](/DCRMR/series/Note-on-series-statement/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "7.21 — Numbering of sequence")](/DCRMR/numbering-of-serials/Numbering-of-sequence/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8 — Series")](/DCRMR/series/)

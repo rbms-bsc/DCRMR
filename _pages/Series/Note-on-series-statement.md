@@ -65,3 +65,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 >(*Comment*: Publisher’s item number on a stereograph. These can be difficult to distinguish from series numbering)  
 
 <a name="8.29.31.4">8.29.31.4</a> Give information about a series in which the publication has been issued previously in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.34.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.34.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.27 — Numbering within sequence")](/DCRMR/series/Numbering-within-sequence/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9 — Additional notes")](/DCRMR/additional-notes/)

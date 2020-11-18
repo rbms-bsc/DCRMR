@@ -43,3 +43,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 ## 8.215.31 Parallel subseries titles
 
 <a name="8.215.31.1">8.215.31.1</a> If there are both parallel series titles and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.21 — Title of series")](/DCRMR/series/Title-of-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.23 — Other title information of series")](/DCRMR/series/Other-title-information-of-series/)

@@ -28,3 +28,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 ## 8.235.3 General rule
 
 <a name="8.235.3.1">8.235.3.1</a> If there are parallel series titles (see [Parallel title of series](/DCRMR/series/Parallel-title-of-series/)), transcribe the other title information after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit the associated other title information.  
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.23 — Other title information of series")](/DCRMR/series/Other-title-information-of-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.25 — Statement of responsibility relating to series")](/DCRMR/series/Statement-of-responsibility-relating-to-series/)

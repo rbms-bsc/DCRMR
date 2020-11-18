@@ -33,3 +33,6 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 <a name="8.255.31.3">8.255.31.3</a> If any parallel titles of series have been omitted from the transcription, also omit their associated statements of responsibility.
 
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.25 — Statement of responsibility relating to series")](/DCRMR/series/Statement-of-responsibility-relating-to-series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.27 — Numbering within sequence")](/DCRMR/series/Numbering-within-sequence/)

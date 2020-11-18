@@ -34,3 +34,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 >Example:  
 ><CITE>American poets profile series ; 1</CITE>  
 ><CITE>Thunder City Press poetry series ; number 19</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8 — Series")](/DCRMR/series/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8.21 — Title of series")](/DCRMR/series/Title-of-series/)
