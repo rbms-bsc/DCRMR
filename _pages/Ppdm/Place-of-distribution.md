@@ -165,6 +165,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.26.36.3">5.26.36.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
 
 ## 5.26.37 No place of distribution
+
 <a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)).
 
 >Example:  

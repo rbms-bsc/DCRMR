@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.2.1">5.34.2.1</a> A note on manifestation that provides information on the manufacture of a manifestation.
 
-## 5.34.31 Notes from Manufacture statements
+## 5.34.31 Note on manufacture statement
 
 <a name="5.34.31.1">5.34.31.1</a>  Make a note on manufacture statement if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.31.4">5.34.31.4</a>  Make a note on manufacture statement if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.29.31.1](/DCRMR/ppdm/Manufacture-statement/#5.29.31.1)). 
 
-## 5.34.32 Notes from Place of manufacture
+## 5.34.32 Note on place of manufacture
 
 <a name="5.34.32.1">5.34.32.1</a> Make a note on manufacture statement if the manifestation is issued in more than one physical part, and the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) changes in the course of publication by giving the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) of the later part(s) (see [5.31.34.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.34.1)).
 
@@ -47,7 +47,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.32.5">5.34.32.5</a> Make a note on manufacture statement if the reason for supplying the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) is not apparent from the rest of the description and indicate the source of the information (see [5.31.385.3](/DCRMR/ppdm/Place-of-manufacture/#5.31.385.3)).
 
-## 5.34.33 Notes from Name of manufacturer
+## 5.34.33 Note on name of manufacturer
 
 <a name="5.34.33.1">5.34.33.1</a> *Optionally*, make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
 
@@ -66,17 +66,17 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.33.6">5.34.33.6</a> Make a note if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
 
-## 5.34.34 Notes from Parallel name of manufacturer
+## 5.34.34 Note on parallel name of manufacturer
 
 <a name="5.34.34.1">5.34.34.1</a> Make a note on manufacture statement if parallel manufacturer names are found on a different source as the name of manufacturer if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1)).
 
 <a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
 
-## 5.34.35 Notes from Parallel place of manufacture
+## 5.34.35 Note on parallel place of manufacture
 
 <a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
 
-## 5.34.36 Notes from Date of manufacture
+## 5.34.36 Note on date of manufacture
 
 <a name="5.34.36.1">5.34.36.1</a> When following the option in [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)).
 

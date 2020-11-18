@@ -54,7 +54,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.29.34.1">1.29.34.1</a> Make a note indicating the original position on the title page of any transposed elements within a title proper with supplementary or section designation of title (see [Title proper](/DCRMR/title/Title-proper/), [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
-## 1.29.35 Title proper of single sheet manifestations
+## 1.29.35 Title proper of single-sheet manifestations
 
 <a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet publication has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper](/DCRMR/title/Title-proper/), [1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
 

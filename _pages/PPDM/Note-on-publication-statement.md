@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.24.2.1">5.24.2.1</a> A note on manifestation that provides information on the publication of a manifestation.
 
-## 5.24.31 Notes from Publication statements
+## 5.24.31 Note on publication statement
 
 <a name="5.24.31.1">5.24.31.1</a> Make a note on publication statement if any part of the [Publication statement](/DCRMR/ppdm/Publication-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
@@ -51,7 +51,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
 >Note on publication statement: <CITE>Imprint from printed label affixed to top right corner of title page</CITE>
 
-## 5.24.32 Notes from Place of publication
+## 5.24.32 Note on place of publication
 
 <a name="5.24.32.1">5.24.32.1</a> Make a note on publication statement if the manifestation is issued in more than one physical part, and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
 
@@ -73,7 +73,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.24.32.6">5.24.32.6</a> Make a note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script and the original position of elements was transposed (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
-## 5.24.33 Notes from Name of publisher
+## 5.24.33 Note on name of publisher
 
 <a name="5.24.33.1">5.24.33.1</a> *Optionally*, make a note on publication statement if only the address, sign, or initials of the publisher appear in lieu of the name, the publisher’s name can be identified and supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1)).
 
@@ -104,17 +104,17 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Note on Publication statement: <CITE>Imprint from Goff.</CITE>  
 >(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
 
-## 5.24.34 Notes from Parallel name of publisher
+## 5.24.34 Note on parallel name of publisher
 
 <a name="5.24.34.1">5.24.34.1</a> Make a note on publication statement if parallel publisher names are from a different source than the name of publisher (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
 
 <a name="5.24.34.2">5.24.34.2</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher](/DCRMR/ppdm/Name-of-publisher), [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/), [5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.22.39.1)).
 
-## 5.24.35 Notes from Parallel place of publication
+## 5.24.35 Note on parallel place of publication
 
 <a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/), [5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2) and [Place of publication](/DCRMR/ppdm/Place-of-publication/), [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
-## 5.24.36 Notes from Date of publication
+## 5.24.36 Note on date of publication
 
 <a name="5.24.36.1">5.24.36.1</a> When following the option in [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2), include a transcription of the original chronogram in a note on publication statement if considered important (see [Date of publication](/DCRMR/ppdm/Date-of-publication/), [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2)).
 

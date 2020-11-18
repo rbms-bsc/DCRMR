@@ -94,7 +94,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known and if considered important. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor give supporting evidence in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.5)).
 
-## 5.27.37 No supplied name of distributor
+## 5.27.37 Name of distributor cannot be supplied
 
 <a name="5.27.37.1">5.27.37.1</a> If no distributor’s name can be conjectured, record  “distributor not identified” in square brackets if considered important.
 

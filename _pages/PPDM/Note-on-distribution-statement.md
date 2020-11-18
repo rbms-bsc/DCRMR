@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.285.2.1">5.285.2.1</a> A note on manifestation that provides information on the distribution of a manifestation.
 
-## 5.285.31 Notes from Distribution statements
+## 5.285.31 Note on distribution statement
 
 <a name="5.285.31.1">5.285.31.1</a>  Make a note if any part of the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
@@ -39,7 +39,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.285.31.5">5.285.31.5</a> Make a note on distribution statement if any of the original details relating to the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.25.31.1](/DCRMR/ppdm/Distribution-statement/#5.25.31.1)).
 
-## 5.285.32 Notes from Place of distribution
+## 5.285.32 Note on place of distribution
 
 <a name="5.285.32.1">5.285.32.1</a> Make a note on distribution statement if the manifestation is issued in more than one physical part, and the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) changes in the course of publication by giving the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) of the later part(s) (see [5.26.34.1](/DCRMR/ppdm/Place-of-distribution/#5.26.34.1)).
 
@@ -76,7 +76,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Place of publication suggested by Alden</CITE>
 
-## 5.285.33 Notes from Name of distributor
+## 5.285.33 Note on name of distributor
 
 <a name="5.285.33.1">5.285.33.1</a> *Optionally*, make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’ name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
 
@@ -88,17 +88,17 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.285.33.5">5.285.33.5</a> If considered important make a note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
 
-## 5.285.34 Notes from Parallel name of distributor
+## 5.285.34 Note on parallel name of distributor
 
 <a name="5.285.34.1">5.285.34.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
 
 <a name="5.285.34.2">5.285.34.2</a> Make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
-## 5.285.35 Notes from Parallel place of distribution
+## 5.285.35 Note on parallel place of distribution
 
 <a name="5.285.35.1">5.285.35.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
-## 5.285.36 Notes from Date of distribution
+## 5.285.36 Note on date of distribution
 
 <a name="5.285.36.1">5.285.36.1</a> When following the option in [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2), include a transcription of the original chronogram in a note on distribution statement if considered important (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)).
 

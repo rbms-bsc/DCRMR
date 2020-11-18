@@ -1,7 +1,7 @@
 ---
 layout: single
 type: docs
-title: 5 — Production Publication Distribution Manufacture
+title: 5 — Production, Publication, Distribution, Manufacture
 permalink: ppdm/
 permalink: /ppdm/
 sidebar:
