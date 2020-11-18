@@ -128,3 +128,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 # 9.3.38 Accompanying material
 
 <a name="9.3.38.1">9.3.38.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.31.31.2](/DCRMR/additional-notes/Note-on-manifestation/#9.31.31.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.25 — Summarization of content")](/DCRMR/additional-notes/Summarization-of-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.31 — Accompanied by manifestation")](/DCRMR/additional-notes/Accompanied-by-manifestation/)

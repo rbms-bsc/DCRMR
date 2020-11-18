@@ -52,3 +52,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >(*Comment*: A publication in quarto)
 
 <a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/), [9.05.3.1](/DCRMR/additional-notes/Note-on-RDA-entity/#9.05.3.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.31 — Accompanied by manifestation")](/DCRMR/additional-notes/Accompanied-by-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/)

@@ -36,3 +36,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Title in Greek script</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.23 — Language of expression")](/DCRMR/additional-notes/Language-of-expression/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.25 — Summarization of content")](/DCRMR/additional-notes/Summarization-of-content/)

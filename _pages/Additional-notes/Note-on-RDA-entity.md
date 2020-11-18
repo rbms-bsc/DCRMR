@@ -57,3 +57,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française. Cf. IV:2, 9093</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9 — Additional notes")](/DCRMR/additional-notes/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.1 — Note on work")](/DCRMR/additional-notes/Note-on-work/)

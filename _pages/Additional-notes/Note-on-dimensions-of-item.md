@@ -46,3 +46,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ><CITE>Folded by later owner to 24 x 19 cm</CITE>
 
 <a name="9.44.3.4">9.44.3.4</a> Record the dimensions of a container not issued with the resource in a note on dimensions of item, if considered important (see [Dimensions](/DCRMR/phys-desc/Dimensions/), [6.24.37.2](/DCRMR/phys-desc/Dimensions/#6.24.37.2)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.43 — Note on extent of item")](/DCRMR/additional-notes/Note-on-extent-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.45 — Bound with")](/DCRMR/additional-notes/Bound-with/)

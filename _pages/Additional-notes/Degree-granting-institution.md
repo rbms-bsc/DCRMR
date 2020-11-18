@@ -34,3 +34,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Universität Tübingen</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.121 — Academic degree")](/DCRMR/additional-notes/Academic-degree/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.123 — Year degree granted")](/DCRMR/additional-notes/Year-degree-granted/)

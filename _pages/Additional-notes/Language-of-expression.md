@@ -37,3 +37,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 >Text in romanized Arabic
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.2 — Note on expression")](/DCRMR/additional-notes/Note-on-expression/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.24 — Script")](/DCRMR/additional-notes/Script/)

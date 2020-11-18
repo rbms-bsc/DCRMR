@@ -48,3 +48,6 @@ the manifestation [Publication statement](/DCRMR/ppdm/Publication-statement/) as
 
 <a name="9.34.3.3">9.34.3.3</a> *Optionally*, catalogers may record an [Access point for manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"} for the related manifestation(s) in addition to the note.
 
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.4 — Note on item")](/DCRMR/additional-notes/Note-on-item/)

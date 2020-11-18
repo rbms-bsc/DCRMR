@@ -45,3 +45,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ><CITE>British Library copy: Part of King George III's Library. Donated to the nation by King George IV (1762-1830)</CITE>
 
 <a name="9.42.3.2">9.42.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.33.1](/DCRMR/additional-notes/Modification-of-item/#9.41.33.1)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.43 — Note on extent of item")](/DCRMR/additional-notes/Note-on-extent-of-item/)

@@ -72,3 +72,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.31.31.2">9.31.31.2</a> Otherwise, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.38.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.1)).
 
 <a name="9.31.31.3">9.31.31.3</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.3 — Note on manifestation")](/DCRMR/additional-notes/Note-on-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.32 — Manifestation described in")](/DCRMR/additional-notes/Manifestation-described-in/)

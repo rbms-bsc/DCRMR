@@ -46,3 +46,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Grolier Club's copy bound in four volumes</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.42 — Custodial history of item")](/DCRMR/additional-notes/Custodial-history-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.44 — Note on dimensions of item")](/DCRMR/additional-notes/Note-on-dimensions-of-item/)

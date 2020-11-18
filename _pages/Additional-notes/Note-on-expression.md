@@ -70,3 +70,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Revision of: 2nd ed., 1869</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.123 — Year degree granted")](/DCRMR/additional-notes/Year-degree-granted/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.23 — Language of expression")](/DCRMR/additional-notes/Language-of-expression/)

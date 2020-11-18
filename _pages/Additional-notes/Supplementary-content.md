@@ -71,3 +71,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Errata on page [47]</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.32 — Manifestation described in")](/DCRMR/additional-notes/Manifestation-described-in/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.34 — Issued with")](/DCRMR/additional-notes/Issued-with/)

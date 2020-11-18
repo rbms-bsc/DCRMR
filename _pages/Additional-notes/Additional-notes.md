@@ -68,44 +68,48 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ## Contents:
 {: .no_toc }
 
-[Chapter 9.05 Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/)
+[9.05 — Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/)
 
-[Chapter 9.1 Note on work](/DCRMR/additional-notes/Note-on-work/)
+[9.1 — Note on work](/DCRMR/additional-notes/Note-on-work/)
 
-[Chapter 9.12 Dissertation or thesis information](/DCRMR/additional-notes/Dissertation-or-thesis-information/)
+[9.12 — Dissertation or thesis information](/DCRMR/additional-notes/Dissertation-or-thesis-information/)
 
-[Chapter 9.121 Academic degree](/DCRMR/additional-notes/Academic-degree/)
+[9.121 — Academic degree](/DCRMR/additional-notes/Academic-degree/)
 
-[Chapter 9.122 Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/)
+[9.122 — Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/)
 
-[Chapter 9.123 Year degree granted](/DCRMR/additional-notes/Year-degree-granted/)
+[9.123 — Year degree granted](/DCRMR/additional-notes/Year-degree-granted/)
 
-[Chapter 9.2 Note on expression](/DCRMR/additional-notes/Note-on-expression/)
+[9.2 — Note on expression](/DCRMR/additional-notes/Note-on-expression/)
 
-[Chapter 9.23 Language of expression](/DCRMR/additional-notes/Language-of-expression/)
+[9.23 — Language of expression](/DCRMR/additional-notes/Language-of-expression/)
 
-[Chapter 9.24 Script](/DCRMR/additional-notes/Script/)
+[9.24 — Script](/DCRMR/additional-notes/Script/)
 
-[Chapter 9.25 Summarization of content](/DCRMR/additional-notes/Summarization-of-content/)
+[9.25 — Summarization of content](/DCRMR/additional-notes/Summarization-of-content/)
 
-[Chapter 9.3 Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
+[9.3 — Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
 
-[Chapter 9.31 Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
+[9.31 — Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
 
-[Chapter 9.32 Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
+[9.32 — Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
 
-[Chapter 9.33 Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
+[9.33 — Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
 
-[Chapter 9.34 Issued with](/DCRMR/additional-notes/Issued-with/)
+[9.34 — Issued with](/DCRMR/additional-notes/Issued-with/)
 
-[Chapter 9.4 Note on item](/DCRMR/additional-notes/Note-on-item/)
+[9.4 — Note on item](/DCRMR/additional-notes/Note-on-item/)
 
-[Chapter 9.41 Modification of item](/DCRMR/additional-notes/Modification-of-item/)
+[9.41 — Modification of item](/DCRMR/additional-notes/Modification-of-item/)
 
-[Chapter 9.42 Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/)
+[9.42 — Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/)
 
-[Chapter 9.43 Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/)
+[9.43 — Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/)
 
-[Chapter 9.44 Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/)
+[9.44 — Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/)
 
-[Chapter 9.45 Bound with](/DCRMR/additional-notes/Bound-with/)
+[9.45 — Bound with](/DCRMR/additional-notes/Bound-with/)
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "8.29 — Note on series statement")](/DCRMR/series/Note-on-series-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.05 — Note on RDA entity")](/DCRMR/additional-notes/Note-on-RDA-entity/)

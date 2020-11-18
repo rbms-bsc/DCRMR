@@ -44,3 +44,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
  
 >Example:  
 ><CITE>Prospectus for: Pope, Alexander. Essay on criticism. London, 1745</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.24 — Script")](/DCRMR/additional-notes/Script/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.3 — Note on manifestation")](/DCRMR/additional-notes/Note-on-manifestation/)

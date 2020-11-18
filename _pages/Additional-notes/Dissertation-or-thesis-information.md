@@ -32,3 +32,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.12.3.2">9.12.3.2</a> If the manifestation is a revision or abridgment of a thesis, state this.
 
 <a name="9.12.3.3">9.12.3.3</a> If the manifestation lacks a formal thesis statement, a bibliographic history note may be made.
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.1 — Note on work")](/DCRMR/additional-notes/Note-on-work/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.121 — Academic degree")](/DCRMR/additional-notes/Academic-degree/)

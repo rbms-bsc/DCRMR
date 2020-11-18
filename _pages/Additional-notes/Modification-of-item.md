@@ -128,3 +128,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Binding: Bound in gold-tooled calf, perhaps 18th-century, with ornamental devices on both covers and remnants of blue silk ties; includes binding waste from a medieval manuscript fragment (15th-century), used as spine lining; content suggests that it was a charter or deed</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.4 — Note on item")](/DCRMR/additional-notes/Note-on-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.42 — Custodial history of item")](/DCRMR/additional-notes/Custodial-history-of-item/)

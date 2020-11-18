@@ -34,3 +34,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Thesis (doctoral)</CITE>
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.12 — Dissertation or thesis information")](/DCRMR/additional-notes/Dissertation-or-thesis-information/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.122 — Degree granting institution")](/DCRMR/additional-notes/Degree-granting-institution/)

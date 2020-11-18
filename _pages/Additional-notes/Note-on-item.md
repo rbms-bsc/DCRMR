@@ -101,3 +101,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a note if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)).
 
 <a name="9.4.35.2">9.4.35.2</a> Make a note to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)).
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.34 — Issued with")](/DCRMR/additional-notes/Issued-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/)
