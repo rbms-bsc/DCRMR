@@ -42,7 +42,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.05.31 Notes on bibliographic history
 
-<a name="9.05.31.1">9.05.31.1</a> In citing another edition of the same work, see [Note on expression](/DCRMR/additional-notes/Note-on-expression/) ([9.2.34.1](/DCRMR/additional-notes/Note-on-expression/#9.2.34.1)).
+<a name="9.05.31.1">9.05.31.1</a> In citing another edition of the same work, see [Note on expression, 9.2.34.1](/DCRMR/additional-notes/Note-on-expression/#9.2.34.1)).
 
 <a name="9.05.31.2">9.05.31.2</a> In citing bibliographies and catalogs, see [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/).
 

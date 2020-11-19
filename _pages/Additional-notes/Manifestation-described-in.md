@@ -51,7 +51,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Note on publication statement: <CITE>Publication date from BAL</CITE>  
 >(*Comment*: A publication in quarto)
 
-<a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity](/DCRMR/additional-notes/Note-on-RDA-entity/), [9.05.3.1](/DCRMR/additional-notes/Note-on-RDA-entity/#9.05.3.1)).
+<a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity, 9.05.3.1](/DCRMR/additional-notes/Note-on-RDA-entity/#9.05.3.1)).
 
 ---
 

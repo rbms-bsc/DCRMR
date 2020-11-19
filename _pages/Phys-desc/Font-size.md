@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>Type 76G</CITE>
 
-<a name="6.31.3.2">6.31.3.2</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size](/DCRMR/phys-desc/Details-of-font-size/), [6.315.3.1](/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)).
+<a name="6.31.3.2">6.31.3.2</a> Make a note recording more detailed descriptions of font size if considered important (see [Details of font size, 6.315.3.1](/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)).
 
 ---
 

@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.33.35 Alternative rules
 
-<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions](/DCRMR/introduction/#i019-precataloging-decisions), [I.01.9.1](/DCRMR/introduction/#I.01.9.1)), follow the alternative rules below.
+<a name="5.33.35.1">5.33.35.1</a> If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or copy within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)), follow the alternative rules below.
 
 ### 5.33.351 Alternative rules for Date of manufacture
 
@@ -43,7 +43,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ###  5.33.352 Transcription involving adjustments or additions
 
-<a name="5.33.352.1">5.33.352.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).  Supply the year in arabic numerals in square brackets.
+<a name="5.33.352.1">5.33.352.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [Transcription, 0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).  Supply the year in arabic numerals in square brackets.
 
 <a name="5.33.352.2">5.33.352.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 

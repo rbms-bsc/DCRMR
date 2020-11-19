@@ -77,7 +77,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.3.33 Note on made-up sets of a multipart monograph
 
-<a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
+<a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement, 3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
 
 >Example:  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  
@@ -87,7 +87,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description (see also [Reprinted as manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
-<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the publication has been issued previously if considered important (see [Note on series statement](/DCRMR/series/Note-on-series-statement/), [8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
+<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the publication has been issued previously if considered important (see [Note on series statement, 8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
 
 >Example:  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
@@ -123,7 +123,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 # 9.3.37 Note on imperfect exemplars
 
-<a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance](/DCRMR/general-rules/Data-provenance/), [0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
+<a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 
 # 9.3.38 Accompanying material
 

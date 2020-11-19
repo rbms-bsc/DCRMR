@@ -33,17 +33,17 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.22.211 Ornaments, etc.
 
-<a name="6.22.211.1">6.22.211.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
+<a name="6.22.211.1">6.22.211.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
 
 ### 6.22.213 Illustrated title pages
 
-<a name="6.22.213.1">6.22.213.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
+<a name="6.22.213.1">6.22.213.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
 
 ### 6.22.215 Graphic processes or techniques
 
 <a name="6.22.215.1">6.22.215.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
 
-<a name="6.22.215.2">6.22.215.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
+<a name="6.22.215.2">6.22.215.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
 
 ## 6.22.217 Color illustrations
 
@@ -104,7 +104,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 # 6.22.33 Illustrations in pockets and on endpapers
 
-<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content](/DCRMR/additional-notes/Supplementary-content/), [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/), [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.5)).  
+<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation, 9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.5)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -112,7 +112,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 # 6.22.335 Illustrations on endpapers
 
-<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/), [6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.6)).  
+<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.6)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -158,7 +158,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.37.2">6.22.37.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally*, when the illustrations are chiefly of a particular type (see [ 6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".              
+*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".              
 >Example:  
 > <CITE>chiefly illustrations</CITE>
 

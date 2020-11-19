@@ -44,7 +44,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 > <CITE>95 x 120 mm</CITE>
 
-<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/)  (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
+<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 ## 6.24.33 Volumes
 

@@ -19,7 +19,7 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 Chapter 1: Title  
 
-[Title proper](/DCRMR/title/Title-proper/) &bull; [Parallel title proper](/DCRMR/title/Parallel-title-proper/) &bull; [Other title information](/DCRMR/title/Other-title-information/) &bull; [Parallel other title information](https://rbms-bsc.github.io/DCRMR/title/Parallel-other-title-information/)
+[Title proper](/DCRMR/title/Title-proper/) &bull; [Parallel title proper](/DCRMR/title/Parallel-title-proper/) &bull; [Other title information](/DCRMR/title/Other-title-information/) &bull; [Parallel other title information](/DCRMR/title/Parallel-other-title-information/)
 
 Chapter 2: Statement of responsibility  
 
@@ -49,7 +49,7 @@ If nonnormalized transcription is considered important, follow [RDA Guidelines o
 
 ### 0.4.12 Letters and diacritical marks
 
-<a name="0.4.12.1">0.4.12.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [Early letterforms and symbols](/DCRMR/general-rules/Transcription/#0415-early-letterforms-and-symbols), [0.4.15.1](/DCRMR/general-rules/Transcription/#0.4.15.1)).
+<a name="0.4.12.1">0.4.12.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [Early letterforms and symbols, 0.4.15.1](/DCRMR/general-rules/Transcription/#0.4.15.1)).
 
 <a name="0.4.12.2">0.4.12.2</a> *Optionally*, when converting uppercase to lowercase, add diacritical marks that are not present on the source of information in accordance with the pattern of usage in the text.
 
@@ -176,7 +176,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 
 For guidance on recording the chronogram as a date element, see the instructions for specific types of dates as follows:
 * For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2)
-* For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/ ), see [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)
+* For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), see [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)
 * For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)
 
 ## 0.4.3 Punctuation
@@ -351,7 +351,7 @@ Do not supply marks of punctuation to indicate line-breaks.
 ><CITE>Printed & sold by J. Preston</CITE>  
 >(*Source of information reads*: Printed & sold by J: Preston)
 
-<a name="0.4.385.2">0.4.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts](/DCRMR/general-rules/Transcription/#0486-superscripts-and-subscripts), [0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1).)
+<a name="0.4.385.2">0.4.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts, 0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1).)
 
 >Example:
 ><CITE>Ie. recueil nouveaux</CITE>  
@@ -511,7 +511,7 @@ ET ITALIAE)
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
 
-<a name="0.4.51.3">0.4.51.3</a> *Exception*. Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
+<a name="0.4.51.3">0.4.51.3</a> *Exception*. Some element instructions specify to indicate certain omissions by concisely summarizing the text omitted (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher, 5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
 
 >Example:  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
@@ -522,7 +522,7 @@ ET ITALIAE)
 
 If considered important, give the omitted information in a note.
 
-<a name="5.5.52.2">0.4.52.2</a> If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element (see [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability), [0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1)).
+<a name="5.5.52.2">0.4.52.2</a> If such information is grammatically inseparable from a transcribed element, however, transcribe it as part of that element (see [Grammatical inseparability, 0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1)).
 
 ### 0.4.53 Information not taken from the preferred source of information
 
@@ -816,7 +816,7 @@ DCRMR calls for information to be transposed to conform to the order above; for 
 
 DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction I.01.321.1](/DCRMR/introduction/#i01321-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction I.01.322.1](/DCRMR/introduction/#i01322-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through--regarding-transcription-transposition-and-omission)).
 
-The following general rules about order and transposition apply. See also [Grammatical inseparability](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability), [0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1).
+The following general rules about order and transposition apply. See also [Grammatical inseparability, 0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1).
 
 <a name="0.4.94.1">0.4.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 

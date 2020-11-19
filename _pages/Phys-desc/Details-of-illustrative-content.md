@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 > Details of illustrative content: <CITE>With an engraved frontispiece portrait of the author by George Vertue, and plates after Hogarth's designs</CITE>
 
-<a name="6.225.3.2">6.225.3.2</a> Make a note on ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets if considered important (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [6.22.211.1](/DCRMR/phys-desc/Illustrative-content/#6.22.211.1)). 
+<a name="6.225.3.2">6.225.3.2</a> Make a note on ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets if considered important (see [Illustrative content, 6.22.211.1](/DCRMR/phys-desc/Illustrative-content/#6.22.211.1)). 
 
 >Example:  
 ><CITE>Woodcut head- and tail-pieces; woodcut factotums</CITE>
@@ -49,18 +49,18 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Illustrative content: <CITE>1 illustration</CITE>  
 >Details of illustrative content: <CITE>Illustration is a title page vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background</CITE>
 
-<a name="6.225.3.4">6.225.3.4</a> Make a note describing in more detail graphic processes or techniques used in producing illustrative content if considered important (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [6.22.215.2](/DCRMR/phys-desc/Illustrative-content/#6.22.215.2)). 
+<a name="6.225.3.4">6.225.3.4</a> Make a note describing in more detail graphic processes or techniques used in producing illustrative content if considered important (see [Illustrative content, 6.22.215.2](/DCRMR/phys-desc/Illustrative-content/#6.22.215.2)). 
 
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-<a name="6.225.3.5">6.225.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
+<a name="6.225.3.5">6.225.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>  
 
-<a name="6.225.3.6">6.225.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content](/DCRMR/phys-desc/Illustrative-content/), [6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
+<a name="6.225.3.6">6.225.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

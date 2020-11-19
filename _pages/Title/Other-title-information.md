@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.23.29.1">1.23.29.1</a> Transcribe other title information appearing on the title page in the order indicated by the sequence on, or layout of, the title page.
 
-<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1.02.2) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1.02.2) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
 <a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description, transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
@@ -70,7 +70,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.23.35 Statements about illustrations or volumes
 
-<a name="1.23.35.1">1.23.35.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement](/DCRMR/edition/Edition-statement/), [3.21.32.1](/DCRMR/edition/Edition-statement/#3.21.32.1) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), [2.21.38.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
+<a name="1.23.35.1">1.23.35.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement, 3.21.32.1](/DCRMR/edition/Edition-statement/#3.21.32.1) and [Statement of responsibility relating to title proper, 2.21.38.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
 
 >Example:  
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
@@ -79,7 +79,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 If the statement appears following the statement of responsibility, transcribe it as a subsequent statement of responsibility.
 
 >Example:  
->Statement of responsibilty relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>
+>Statement of responsibility relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>
 
 ## 1.23.36 Phrases about notes, appendices, etc.
 

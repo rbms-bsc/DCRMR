@@ -33,17 +33,17 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.23.211.1">6.23.211.1</a> Treat illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
 
-<a name="6.23.211.2">6.23.211.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/), [6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
+<a name="6.23.211.2">6.23.211.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
 
-<a name="6.23.211.3">6.23.211.3</a> In general, do not record printed color unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/), [6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)). 
+<a name="6.23.211.3">6.23.211.3</a> In general, do not record printed color unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)). 
 
-<a name="6.23.211.4">6.23.211.4</a> For incunabula, make a note on color printing if present (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/), [6.235.31.3](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.3)).
+<a name="6.23.211.4">6.23.211.4</a> For incunabula, make a note on color printing if present (see [Details of color content, 6.235.31.3](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.3)).
 
 ### 6.23.213 Hand coloring in printed resources
 
 <a name="6.23.213.1">6.23.213.1</a> “Hand-colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
-<a name="6.23.213.2">6.23.213.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item](/DCRMR/additional-notes/Modification-of-item/), [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="6.23.213.2">6.23.213.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 <a name="6.23.213.3">6.23.213.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in color content or [Details of color content](/DCRMR/phys-desc/Details-of-color-content/).
 
@@ -53,7 +53,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.23.215 Color of base material
 
-<a name="6.23.215.1">6.23.215.1</a> Do not record the presence of color in base materials (e.g. paper) as color content. Make a note if considered important (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/), [6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
+<a name="6.23.215.1">6.23.215.1</a> Do not record the presence of color in base materials (e.g. paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ## 6.23.3 General rule
 

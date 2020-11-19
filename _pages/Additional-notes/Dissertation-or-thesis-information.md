@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.12.3 General rule
 
-<a name="9.12.3.1">9.12.3.1</a> If the manifestation being described is a dissertation or thesis presented in partial fulfillment of the requirements for an academic degree, record if known the [Academic degree](/DCRMR/additional-notes/Academic-degree/), [Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/), and [Year degree](/DCRMR/additional-notes/Year-degree-granted/) granted. 
+<a name="9.12.3.1">9.12.3.1</a> If the manifestation being described is a dissertation or thesis presented in partial fulfillment of the requirements for an academic degree, record if known the [Academic degree](/DCRMR/additional-notes/Academic-degree/), [Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/), and [Year degree granted](/DCRMR/additional-notes/Year-degree-granted/). 
 
 <a name="9.12.3.2">9.12.3.2</a> If the manifestation is a revision or abridgment of a thesis, state this.
 

@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.315.3 General rule 
 
-<a name="6.315.3.1">6.315.3.1</a> Record details of font size if considered important (see [Font size](/DCRMR/phys-desc/Font-size/), [6.31.3.2](/DCRMR/phys-desc/Font-size/#6.31.3.2)).
+<a name="6.315.3.1">6.315.3.1</a> Record details of font size if considered important (see [Font size, 6.31.3.2](/DCRMR/phys-desc/Font-size/#6.31.3.2)).
 
 ---
 

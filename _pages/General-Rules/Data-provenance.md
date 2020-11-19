@@ -113,7 +113,7 @@ If the manifestation contains preferred sources in more than one language or scr
 + **Order of sources of information**  
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
-Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume (see [Note on title](/DCRMR/title/Note-on-title/), [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
+Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume (see [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 ## 0.1.5 Sources of information
 

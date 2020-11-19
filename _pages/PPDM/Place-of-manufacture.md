@@ -92,6 +92,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 ><CITE>Lugduni [Lyon]</CITE>
 
 ## 5.31.37 No place of manufacture
+
 <a name="5.31.37.1">5.31.37.1</a> If no place of manufacture appears on the manifestation but is known and is considered important, supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed manufacturer if one is present. Provide a justification for the supplied place in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
 
 <a name="5.31.37.2">5.31.37.2</a> If the name of the place of manufacture has changed over time, supply the name appropriate to the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction.

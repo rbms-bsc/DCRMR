@@ -84,37 +84,37 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.285.33.3">5.285.33.3</a> Make a note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
 
-<a name="5.285.33.4">5.285.33.4</a> Make a note on distribution statement if the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
+<a name="5.285.33.4">5.285.33.4</a> Make a note on distribution statement if the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, transcribe the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the first or earliest part and give the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) of the later part(s) in a note (see [Name of distributor, 5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
 
-<a name="5.285.33.5">5.285.33.5</a> If considered important make a note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a note (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
+<a name="5.285.33.5">5.285.33.5</a> If considered important make a note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a note (see [Name of distributor, 5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
 
 ## 5.285.34 Note on parallel name of distributor
 
-<a name="5.285.34.1">5.285.34.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
+<a name="5.285.34.1">5.285.34.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
 
-<a name="5.285.34.2">5.285.34.2</a> Make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/), [5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
+<a name="5.285.34.2">5.285.34.2</a> Make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
 ## 5.285.35 Note on parallel place of distribution
 
-<a name="5.285.35.1">5.285.35.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/), [5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
+<a name="5.285.35.1">5.285.35.1</a> Make a note on distributor statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution, 5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution, 5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
 ## 5.285.36 Note on date of distribution
 
-<a name="5.285.36.1">5.285.36.1</a> When following the option in [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2), include a transcription of the original chronogram in a note on distribution statement if considered important (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)).
+<a name="5.285.36.1">5.285.36.1</a> When following the option in [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2), include a transcription of the original chronogram in a note on distribution statement if considered important (see [Date of distribution, 5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)).
 
 <a name="5.285.36.2">5.285.36.2</a> When following the option for very long dates in [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3) make a note on distribution statement concerning the source and the original form of the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) (see [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3)).
 
 <a name="5.285.36.3">5.285.36.3</a> Make a note on distribution statement if the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) is known to be fictitious or incorrect by supplying the actual date (see [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)).
 
-<a name="5.285.36.4">5.285.36.4</a> When following the option in [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)).
+<a name="5.285.36.4">5.285.36.4</a> When following the option in [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of distribution, 5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)).
 
 >Example:  
 >Date of distribution: <CITE>1689 [that is, 1690]</CITE>  
 >Note on distribution statement: <CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
-<a name="5.285.36.5">5.285.36.5</a> Make a note on distribution statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been distributed in the following year according to the Gregorian calendar (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.31.5](/DCRMR/ppdm/Date-of-distribution/#5.28.31.5)).
+<a name="5.285.36.5">5.285.36.5</a> Make a note on distribution statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been distributed in the following year according to the Gregorian calendar (see [Date of distribution, 5.28.31.5](/DCRMR/ppdm/Date-of-distribution/#5.28.31.5)).
 
-<a name="5.285.36.6">5.285.36.6</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) requires more than a single adjustment or addition, make a note on distribution statement on the source of supplied dates (see  [5.28.31.7](/DCRMR/ppdm/Date-of-distribution/#5.28.31.7)).
+<a name="5.285.36.6">5.285.36.6</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) requires more than a single adjustment or addition, make a note on distribution statement on the source of supplied dates (see [5.28.31.7](/DCRMR/ppdm/Date-of-distribution/#5.28.31.7)).
 
 <a name="5.285.36.7">5.285.36.7</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note on distribution statement (see [5.28.32.1](/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)).
 
@@ -124,11 +124,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.285.36.73">5.285.36.73</a> When supplying a conjectural [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) based on any information available, indicate the basis for the conjecture in a note on distribution statement (see [5.28.33.1](/DCRMR/ppdm/Date-of-distribution/#5.28.33.1)).
 
-<a name="5.285.36.75">5.285.36.75</a> When supplying a probable date or period of distribution according to one of the patterns shown in  [5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1), indicate the basis for the conjecture in a note (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1)).
+<a name="5.285.36.75">5.285.36.75</a> When supplying a probable date or period of distribution according to one of the patterns shown in  [5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1), indicate the basis for the conjecture in a note (see [Date of distribution, 5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1)).
 
-<a name="5.285.36.8">5.285.36.8</a> Record the date of each volume in a note on distribution statement if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)).
+<a name="5.285.36.8">5.285.36.8</a> Record the date of each volume in a note on distribution statement if considered important. Such a note is particularly useful when the order of distribution does not correspond to the order of the volume numeration (see [Date of distribution, 5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)).
 
-<a name="5.285.36.9">5.285.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on distribution statement (see [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), [5.28.36.1](/DCRMR/ppdm/Date-of-distribution/#5.28.36.1)).
+<a name="5.285.36.9">5.285.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on distribution statement (see [Date of distribution, 5.28.36.1](/DCRMR/ppdm/Date-of-distribution/#5.28.36.1)).
 
 ## 5.285.37 Distribution details not included in the manifestation
 

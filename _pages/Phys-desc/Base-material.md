@@ -37,7 +37,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>Japan vellum</CITE>
 
-<a name="6.25.3.3">6.25.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material](/DCRMR/phys-desc/Details-of-base-material/), [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)).
+<a name="6.25.3.3">6.25.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material, 6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)).
 
 ---
 

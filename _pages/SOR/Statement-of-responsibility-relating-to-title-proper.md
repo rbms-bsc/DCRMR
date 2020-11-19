@@ -55,13 +55,13 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
  
 ## 2.21.32 Transposition of statements of responsibility
 
-<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility precedes the title proper in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#1213-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.02.2](/DCRMR/sor/#2.02.2) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility precedes the title proper in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.02.2](/DCRMR/sor/#2.02.2) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 ## 2.21.33 Single statements of responsibility with two or more names
 
 <a name="2.21.33.1">2.21.33.1</a> Transcribe a single statement of responsibility as such whether the two or more persons or corporate bodies named in it perform the same function or different functions.
 
-<a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single statement of responsibility (unless grammatically inseparable from the [Title proper](/DCRMR/title/Title-proper/) ([1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1)) or [Other title information](/DCRMR/title/Other-title-information/) ([1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1))).
+<a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single statement of responsibility (unless grammatically inseparable from the [Title proper, 1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1) or [Other title information, 1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)).
 
 >Example:  
 ><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt</CITE>

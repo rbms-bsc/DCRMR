@@ -44,7 +44,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.28.31 Transcription involving adjustments or additions
 
-<a name="5.28.31.1">5.28.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
+<a name="5.28.31.1">5.28.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [Transcription, 0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>in the year M.DCC.LXXV [1775]</CITE>
@@ -58,7 +58,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.28.31.3">5.28.31.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears. 
 
-*Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [5.285.36.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.2)).
+*Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on distribution statement, 5.285.36.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.2)).
 
 <a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)).
 

@@ -41,7 +41,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.32.2">5.34.32.2</a> Make a note on manufacture statement giving the basis for the correction if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [5.31.36.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.1)).
 
-<a name="5.34.32.3">5.34.32.3</a> When following the option at [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2), give the basis for the correction or clarification in a note (see [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2)).
+<a name="5.34.32.3">5.34.32.3</a> When following the option at [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2), give the basis for the correction or clarification in a note (see [Place of manufacture, 5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2)).
 
 <a name="5.34.32.4">5.34.32.4</a> Make a note on manufacture statement when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
@@ -62,43 +62,43 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.33.4">5.34.33.4</a> When following the option at [5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2), make a note giving the basis for the correction or clarification (see [5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2)).
 
-<a name="5.34.33.5">5.34.33.5</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, transcribe the [Manufacturer statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
+<a name="5.34.33.5">5.34.33.5</a> Make a note if the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, transcribe the [Manufacturer statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a note (see [Name of manufacturer, 5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 
-<a name="5.34.33.6">5.34.33.6</a> Make a note if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
+<a name="5.34.33.6">5.34.33.6</a> Make a note if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note (see [Name of manufacturer, 5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
 
 ## 5.34.34 Note on parallel name of manufacturer
 
-<a name="5.34.34.1">5.34.34.1</a> Make a note on manufacture statement if parallel manufacturer names are found on a different source as the name of manufacturer if considered important for identification (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1)).
+<a name="5.34.34.1">5.34.34.1</a> Make a note on manufacture statement if parallel manufacturer names are found on a different source as the name of manufacturer if considered important for identification (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer, 5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1)).
 
-<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/), [5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
+<a name="5.34.34.2">5.34.34.2</a> Make a note if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the original position of elements were transposed (see [Name of manufacturer, 5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
 
 ## 5.34.35 Note on parallel place of manufacture
 
-<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/), [5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
+<a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture, 5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture, 5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
 
 ## 5.34.36 Note on date of manufacture
 
-<a name="5.34.36.1">5.34.36.1</a> When following the option in [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)).
+<a name="5.34.36.1">5.34.36.1</a> When following the option in [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2) include a transcription of the original chronogram in a note on manufacture statement if considered important (see [Date of manufacture, 5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)).
 
 <a name="5.34.36.2">5.34.36.2</a> When following the option for very long dates in [5.33.352.3](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.3) make a note on manufacture statement concerning the source and the original form of the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) (see [5.33.352.3](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.3)).
 
 <a name="5.34.36.3">5.34.36.3</a> Make a note if the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect by supplying the actual date (see [5.33.352.4](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.4)).
 
-<a name="5.34.36.4">5.34.36.4</a> When following the option in [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
+<a name="5.34.36.4">5.34.36.4</a> When following the option in [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1), make a note to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of manufacture, 5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
 
-<a name="5.34.36.5">5.34.36.5</a> Make a note on manufacture statement indicating the basis for the supplied year if the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been manufactured in the following year according to the Gregorian calendar (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.352.5](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.5)).
+<a name="5.34.36.5">5.34.36.5</a> Make a note on manufacture statement indicating the basis for the supplied year if the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been manufactured in the following year according to the Gregorian calendar (see [Date of manufacture, 5.33.352.5](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.5)).
 
-<a name="5.34.36.6">5.34.36.6</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) requires more than a single adjustment or addition, make a note on the source of supplied dates  (see [5.33.352.7](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.7)).
+<a name="5.34.36.6">5.34.36.6</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) requires more than a single adjustment or addition, make a note on the source of supplied dates (see [5.33.352.7](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.7)).
 
 <a name="5.34.36.7">5.34.36.7</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) does not appear on the manifestation but is known, give the source of the supplied date and any needed explanation in a note (see [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
 
 <a name="5.34.36.73">5.34.36.73</a> When supplying a conjectural [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) based on any information available, indicate the basis for the conjecture in a note (see [5.33.354.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.1)).
 
-<a name="5.34.36.75">5.34.36.75</a> When supplying a probable date or period of manufacture according to one of the patterns shown in  [5.33.3545.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.3545.1), indicate the basis for the conjecture in a note (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.3545.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.3545.1)).
+<a name="5.34.36.75">5.34.36.75</a> When supplying a probable date or period of manufacture according to one of the patterns shown in  [5.33.3545.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.3545.1), indicate the basis for the conjecture in a note (see [Date of manufacture, 5.33.3545.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.3545.1)).
 
-<a name="5.34.36.8">5.34.36.8</a> Record the date of each volume in a note if considered important. Such a note on manufacture statement is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.355.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.355.2)).
+<a name="5.34.36.8">5.34.36.8</a> Record the date of each volume in a note if considered important. Such a note on manufacture statement is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [Date of manufacture, 5.33.355.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.355.2)).
 
-<a name="5.34.36.9">5.34.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on manufacture statement (see [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), [5.33.356.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.356.1)).
+<a name="5.34.36.9">5.34.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, give these additional dates in a note on manufacture statement (see [Date of manufacture, 5.33.356.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.356.1)).
 
 ## 5.34.37 Manufacture details not included in the manifestation
 

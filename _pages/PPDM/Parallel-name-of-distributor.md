@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.275.31 Distributor statements in more than one language or script
 
-<a name="5.275.31.1">5.275.31.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important for identification (see [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/), [5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
+<a name="5.275.31.1">5.275.31.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important for identification (see [Note on distribution statement, 5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
 
 <a name="5.275.31.2">5.275.31.2</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)). 
 

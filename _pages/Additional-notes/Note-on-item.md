@@ -82,7 +82,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.34 Specific items and copy numbers
 
-<a name="9.4.34.1">9.4.34.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) ([9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements)) for recording limitation statements.
+<a name="9.4.34.1">9.4.34.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation, 9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements)) for recording limitation statements.
 
 >Example:  
 ><CITE>LC has no. 20</CITE>
@@ -98,9 +98,9 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.35 Completed blanks in transcribed elements
 
-<a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a note if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)).
+<a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a note if considered important (see [Transcription, 0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)).
 
-<a name="9.4.35.2">9.4.35.2</a> Make a note to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription](/DCRMR/general-rules/Transcription/), [0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)).
+<a name="9.4.35.2">9.4.35.2</a> Make a note to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription, 0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)).
 
 ---
 

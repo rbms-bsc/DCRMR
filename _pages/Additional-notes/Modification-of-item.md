@@ -50,7 +50,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>Folger copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="9.41.3.3">9.41.3.3</a> For notes on missing pages or leaves (see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/), [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
+<a name="9.41.3.3">9.41.3.3</a> For notes on missing pages or leaves (see [Note on extent of item, 9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
 ## 9.41.33 Provenance evidence
 
@@ -85,11 +85,11 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>University College Cork copy annotated "To W.C.C. from J J McC Xmas 1901" and in a different hand "From Jas J. M'Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950"</CITE>
 
-<a name="9.41.33.3">9.41.33.3</a> For summaries of the past ownership of an item (see [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/), [9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1)).
+<a name="9.41.33.3">9.41.33.3</a> For summaries of the past ownership of an item (see [Custodial history of item, 9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1)).
 
 ## 9.41.35 Bindings
 
-<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding](/DCRMR/phys-desc/Type-of-binding/), [6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
+<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding, 6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
 
 <a name="9.41.35.2">9.41.35.2</a> Indicate any errors in binding if considered important.
 

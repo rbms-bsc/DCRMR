@@ -64,7 +64,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 #### 6.21.422 Normally imposed single sheets
 
-<a name="6.21.422.1">6.21.422.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.3.3](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.3)).
+<a name="6.21.422.1">6.21.422.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed (see [Note on extent of manifestation, 6.215.3.3](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.3)).
 
 >Example:  
 > Extent of manifestation: <CITE>1, [3] pages</CITE>  
@@ -282,7 +282,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.4275 Double leaves
 
-<a name="6.21.4275.1">6.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/), [6.215.3.65](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.65)).
+<a name="6.21.4275.1">6.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation, 6.215.3.65](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.65)).
 
 >Example:  
 > Extent of manifestation: <CITE>[2], 86, [2] pages</CITE>  
