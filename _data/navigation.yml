@@ -99,9 +99,11 @@ docs:
       - title: "4.21 — Details of cartographic content"
         url: /mathematical-details/Details-of-cartographic-content/
         
-  - title: "5 — Production Publication Distribution Manufacture"
+  - title: "5 — Production, Publication, Distribution, Manufacture"
     url: /ppdm/
     children:
+      - title: "5.1 — Production statement"
+        url: /ppdm/Production-statement/
       - title: "5.2 — Publication statement"
         url: /ppdm/Publication-statement/
       - title: "5.21 — Place of publication"

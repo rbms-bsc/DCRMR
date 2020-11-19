@@ -59,6 +59,8 @@ Note: only the elements related to publication are explicated below. The same or
 ## Contents:
 {: .no_toc }
 
+[5.1 — Production statement](/DCRMR/ppdm/Production-statement/)
+
 [5.2 — Publication statement](/DCRMR/ppdm/Publication-statement/)
 
 [5.21 — Place of publication](/DCRMR/ppdm/Place-of-publication/)
@@ -107,4 +109,4 @@ Note: only the elements related to publication are explicated below. The same or
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "4.21 — Details of cartographic content")](/DCRMR/mathematical-details/Details-of-cartographic-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.2 — Publication statement")](/DCRMR/ppdm/Publication-statement/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "4.21 — Details of cartographic content")](/DCRMR/mathematical-details/Details-of-cartographic-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.1 — Production statement")](/DCRMR/ppdm/Production-statement/)
