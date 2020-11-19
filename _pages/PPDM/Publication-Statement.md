@@ -136,4 +136,4 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.1 — Production statement")](/DCRMR/ppdm/Production-statment/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.1 — Production statement")](/DCRMR/ppdm/Production-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/)
