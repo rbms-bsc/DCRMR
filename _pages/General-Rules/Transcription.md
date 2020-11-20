@@ -101,7 +101,7 @@ Make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
->Note on title: <CITE>Title in the form of a rebus. Bute represented as a boot in the rebus.</CITE>
+>Note on title: <CITE>Title in the form of a rebus. Bute represented as a boot in the rebus</CITE>
 
 ## 0.4.2 Capitalization and conversion of case
 
@@ -277,21 +277,21 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 >Example:  
 >Title proper: <CITE>...it felt like i knew you...</CITE>  
->Note on title: <CITE>Ellipses in title appear on the source.</CITE>
+>Note on title: <CITE>Ellipses in title appear on the source</CITE>
 
 ### 0.4.355 Square brackets
 
 <a name="0.4.355.1">0.4.355.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note if considered important for identification.
 
 >Example:  
->Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved.</CITE>  
->Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets.</CITE>  
+>Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
+>Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
 >(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved.)
 
 <a name="0.4.355.2">0.4.355.2</a> **Alternative rule**. Omit the square brackets. Make an explanatory note if considered important for identification.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
->Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets.</CITE>  
+>Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets</CITE>  
 >(*Source of information reads*: [MDCCLXXV])
 
 <a name="0.4.355.3">0.4.355.3</a> **Alternative rule**. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
@@ -532,13 +532,13 @@ If considered important, give the omitted text in a note.
 
 >Example:  
 >Designation of edition: <CITE>The second edition</CITE>  
->Note on edition statement: <CITE>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley’s designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed.</CITE>
+>Note on edition statement: <CITE>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley’s designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed</CITE>
 
 >Example:  
 >Place of publication: <CITE>Impressum Lypczk</CITE>  
 >Name of publisher: <CITE>per Arnoldum de Colonia</CITE>  
 >Date of publication: <CITE>Anno nonagesimo quinto</CITE>  
->Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto.</CITE>
+>Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto</CITE>
 
 ## 0.4.6 Interpolations
 
@@ -583,7 +583,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
->Note on title: <CITE>Last word of the title is illegible; the conjecture is based on image content.</CITE>
+>Note on title: <CITE>Last word of the title is illegible; the conjecture is based on image content</CITE>
 
 ### 0.4.63 Lacunae in imperfect copies 
 
@@ -592,11 +592,11 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Example:  
 >Place of publication: <CITE>En Barcelona</CITE>  
 >Name of publisher: <CITE>Por Sebastian Mateu[...]</CITE>  
->Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint.</CITE>
+>Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint</CITE>
 
 >Example:  
 >Title proper: <CITE>[...] modern minstrels</CITE>  
->Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern".</CITE>  
+>Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern"</CITE>  
 
 ### 0.4.64 Blank spaces intended for completion
 
@@ -606,12 +606,12 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
->Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer.</CITE>  
->Note on item (optional): <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755.</CITE>
+>Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer</CITE>  
+>Note on item (optional): <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
 
 >Example:
 >Statement of responsibility: <CITE>drawn by [blank]</CITE>  
->Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer.</CITE>  
+>Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer</CITE>  
 >Note on item (optional): <CITE>Library's copy has blanks supplied in manuscript: State of [New York] / drawn by [Fannie Ufford]</CITE>  
 
 <a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
@@ -624,15 +624,15 @@ Make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>[M]issae familiares</CITE>  
->Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
->Note on item (optional): <CITE>Library's copy: Initial letter executed in red and blue ink.</CITE>
+>Note on title: <CITE>Space for initial letter of first word of title left blank by printer</CITE>  
+>Note on item (optional): <CITE>Library's copy: Initial letter executed in red and blue ink</CITE>
 
 <a name="0.4.65.2">0.4.65.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets.
 
 >Example:  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
->Note on title: <CITE>Space for initial letter of first word of title left blank by printer.</CITE>  
->Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript.</CITE>
+>Note on title: <CITE>Space for initial letter of first word of title left blank by printer</CITE>  
+>Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript</CITE>
 
 <a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
@@ -668,7 +668,7 @@ If the misprint or misspelling occurs in the first five words of the [Title prop
 
 >Example:  
 >Title proper: <CITE>The Summer Shower, or, Mademoiselle Par, a Pluye</CITE>  
->Note on title: <CITE>"Par, a Pluye" is meant to be read as "parapluie".</CITE>
+>Note on title: <CITE>"Par, a Pluye" is meant to be read as "parapluie"</CITE>
 
 If considered important, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
@@ -678,7 +678,7 @@ If considered important, record a [Variant title of manifestation](/DCRMR/title/
 
 >Example:  
 >Title proper: <CITE>Queen</CITE>  
->Note on title: <CITE>The "u" in "Queen" in the title is turned.</CITE>
+>Note on title: <CITE>The "u" in "Queen" in the title is turned</CITE>
 
 <a name="0.4.74.2">0.4.74.2</a> Transcribe characters used to approximate a different character (e.g., when VV and vv letterforms have been used to represent the single letter W or w) as the intended character. 
 
@@ -720,7 +720,7 @@ Make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>Here comes Santa Claus</CITE>  
->Note on title: <CITE>Title words alternate vertically and horizontally, intersecting with shared letters, as in a crossword puzzle.</CITE>
+>Note on title: <CITE>Title words alternate vertically and horizontally, intersecting with shared letters, as in a crossword puzzle</CITE>
 
 ### 0.4.86 Superscripts and subscripts
 
@@ -830,13 +830,13 @@ case endings would be affected, or the grammatical construction of the informati
 <a name="0.4.94.5">0.4.94.5</a> Make a note to indicate the order in which the transposed information appears in the source.
 
 >Example: 
-><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven.</CITE>  
->Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page.</CITE>  
+><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven</CITE>  
+>Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page</CITE>  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 >Example:  
-><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes.</CITE>  
->Note on statement of responsibility: <CITE>Author’s name transposed from head of title.</CITE>  
+><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes</CITE>  
+>Note on statement of responsibility: <CITE>Author’s name transposed from head of title</CITE>  
 >(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes.)  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
@@ -844,8 +844,8 @@ case endings would be affected, or the grammatical construction of the informati
 If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important for identification then make a note to indicate the placement.
 
 >Example:  
-><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill.</CITE>  
->Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map.</CITE>  
+><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill</CITE>  
+>Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map</CITE>  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.7">0.4.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source if considered important for identification or selection.
