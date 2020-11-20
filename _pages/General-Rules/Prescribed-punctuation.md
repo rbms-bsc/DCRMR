@@ -21,11 +21,13 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.01.4">0.2.01.4</a> If an entire element is omitted from the bibliographic description (e.g., because it is not present in the source), also omit its corresponding prescribed punctuation. Do not use the mark of omission.
 
-<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space (. -- ) unless the element begins a new paragraph.
+<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space `( . -- )` unless the element begins a new paragraph.
+
+<a name="0.2.01.6">0.2.01.6</a> For more detailed instructions on punctuation for each ISBD area of description than those provided below, see the Element order section of each chapter (see [Title](/DCRMR/title/#1012-element-order), [Statement of responsibility](/DCRMR/sor/#2012-element-order), [Edition](/DCRMR/edition/#3012-element-order), [Mathematical details](/DCRMR/mathematical-details/), [Production, Publication, Distribution, Manufacture](/DCRMR/ppdm/#5012-element-order), [Physical description](/DCRMR/phys-desc/), [Numbering of serials](/DCRMR/numbering-of-serials/), [Series](/DCRMR/series/#8012-element-order), [Additional notes](/DCRMR/additional-notes/), and [Identifiers](/DCRMR/identifiers/).
 
 ## 0.2.1 Title 
 
-<a name="0.2.1.1">0.2.1.1</a> Precede the title of a supplement or section by a period. Precede each parallel title by an equal sign. Precede each unit of other title information by a colon.
+<a name="0.2.1.1">0.2.1.1</a> Precede the title of a supplement or section by a period. Precede each parallel title by an equals sign. Precede each unit of other title information by a colon.
 
 <a name="0.2.1.2">0.2.1.2</a> For manifestations with no collective title, separate the titles by a space-semicolon-space if the works are all by the same entity, even if the titles are linked by a collective word or phrase. If the individual works are by different entities or the authorship is in doubt, precede each title other than the first by a period and one space, unless a linking word or phrase is already present. Precede each statement of responsibility by a space-slash-space.
 
@@ -43,7 +45,7 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 ## 0.2.6 Physical description
 
-<a name="0.2.6.1">0.2.6.1</a> Precede an illustration statement by a colon. Precede the size by a semicolon. Enclose bibliographic format in parentheses. Precede a statement of accompanying material by a plus sign. Enclose physical details of accompanying material in parentheses.
+<a name="0.2.6.1">0.2.6.1</a> Precede an illustration statement by a colon. Precede the dimensions by a semicolon. Enclose bibliographic format in parentheses. Precede a statement of accompanying material by a plus sign. Enclose physical details of accompanying material in parentheses.
 
 ## 0.2.8 Series
 
@@ -53,7 +55,7 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.9.1">0.2.9.1</a> Start a new paragraph for each note. End each paragraph with a period or other mark of final punctuation. Separate introductory wording from the main content of a note by a colon followed but not preceded by a space. 
 
-## Identifiers
+## 0.2.95 Identifiers
 
 <a name="0.2.95.1">0.2.95.1</a> Precede this element by a period-space-dash-space or start a new paragraph. Precede each repetition of this element by a period-space-dash-space. Precede terms of availability by a colon. Enclose a qualification to the standard number or terms of availability in parentheses.
 
