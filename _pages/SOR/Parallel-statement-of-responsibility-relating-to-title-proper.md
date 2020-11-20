@@ -27,14 +27,14 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ## 2.215.31 Statements of responsibility following titles in more than one language or script 
 
-<a name="2.215.31.1">2.215.31.1</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the statement of responsibility after all the title information.
+<a name="2.215.31.1">2.215.31.1</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe it as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the title information.
 
 <a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
 >Example:  
 ><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter ... = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>
 
-<a name="2.215.31.3">2.215.31.3</a> Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source of any transposed statements (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
+<a name="2.215.31.3">2.215.31.3</a> Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source of any transposed statements of responsibility (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
 
 ---
 
