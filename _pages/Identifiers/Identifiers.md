@@ -13,7 +13,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 
 ## 10.01.1 Sources of information
 
-<a name="10.01.1.1">10.01.1.1</a> Take information included in this area from any source. Do not enclose any information in square brackets.
+<a name="10.01.1.1">10.01.1.1</a> Take information for all identifier elements from any source. Do not enclose any information in square brackets.
 
 ## Contents:
 {: .no_toc }

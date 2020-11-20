@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 
 ## 10.22.3 General rule
 
-<a name="10.22.3.1">10.22.3.1</a> *Optionally*, if the publication bears a price or other terms of availability, record the information. 
+<a name="10.22.3.1">10.22.3.1</a> *Optionally*, if the manifestation bears a price or other terms of availability, record the information. 
 
 ## 10.22.31 Qualification
 

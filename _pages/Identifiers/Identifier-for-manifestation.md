@@ -35,8 +35,6 @@ Please comment about errata on the [Chapter 10 errata page](https://docs.google.
 
 >Example:   
 > <CITE>ISBN 0-379-00550-6 (set)</CITE>  
-
->Example:  
 > <CITE>ISBN 0-379-00551-4 (v. 1)</CITE>
 
 ## 10.2.32 Qualification  
