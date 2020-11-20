@@ -29,13 +29,13 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.23.29.1">1.23.29.1</a> Transcribe other title information appearing on the title page in the order indicated by the sequence on, or layout of, the title page.
 
-<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1.02.2) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
-<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description, transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description, transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).  For instructions on recording [Other title information](/DCRMR/title/Other-title-information/) following statement of responsibility, see [1.23.32.1](/DCRMR/title/Other-title-information/#1.23.32.1).
 
 ## 1.23.31 Other title information beginning with prepositions, conjunctions, etc.
 
-<a name="1.23.31.1">1.23.31.1</a> **General rule**. Transcribe other title information that appears following the title proper as other title information, even if it begins with a preposition, conjunction, prepositional phrase, etc.
+<a name="1.23.31.1">1.23.31.1</a> **General rule**. Transcribe other title information that appears following the [Title proper](/DCRMR/title/Title-proper/) as other title information, even if it begins with a preposition, conjunction, prepositional phrase, etc.
 
 >Example:  
 >Title proper: <CITE>The English Parliament represented in a vision</CITE>  
@@ -58,7 +58,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Other title information: <CITE>containing several excellent new songs ...</CITE>  
 >Note on manifestation:  <CITE>Contents: (from title page) I. The good housewife's coat of arms -- II. The spinning wheels glory -- III. The taylor disappointed of his bride -- IV. The changeable world</CITE>  
 
-<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other works are given equal prominence with the first-named work (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
+<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other expressions are given equal prominence with the first-named expression in a manifestation (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
 ## 1.23.34 Persons or bodies not explicitly named
 
@@ -76,20 +76,20 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
 >Other title information: <CITE>illustrated by sixty engravings</CITE>  
 
-If the statement appears following the statement of responsibility, transcribe it as a subsequent statement of responsibility.
+If the statement appears following the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility.
 
 >Example:  
 >Statement of responsibility relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>
 
 ## 1.23.36 Phrases about notes, appendices, etc.
 
-<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendices, and such accompanying matter in the order indicated by the sequence on the title page. If such information appears before the statement of responsibility, transcribe it as other title information.
+<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendices, and such accompanying matter in the order indicated by the sequence on the title page. If such information appears before the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as other title information.
 
-<a name="1.23.36.2">1.23.36.2</a> If such information appears after the statement of responsibility, transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
+<a name="1.23.36.2">1.23.36.2</a> If such information appears after the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
 
 ## 1.23.37 Abridgment of other title information
 
-<a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.5.1](/DCRMR/title/Other-title-information/#1.23.5.1)).
+<a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
 
 >Example:  
 ><CITE>with occasional notes ; to which is added, an appendix ... ; the whole illustrated by a map of Egypt and part of Syria ....</CITE>

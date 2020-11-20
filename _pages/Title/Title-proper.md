@@ -132,7 +132,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ### 1.21.371 Two or more expressions named on the preferred source of information
 
-<a name="1.21.371.1">1.21.371.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter, that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
+<a name="1.21.371.1">1.21.371.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
 
 >Example:  
 ><CITE>Les Akanças : prologue mélo-dramatique, en un acte et en prose ; suivi Des Espagnols dans la Floride : pantomime en trois actes et à spectacle</CITE>
@@ -144,7 +144,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ### 1.21.372 One or more expressions not named on the preferred source of information
 
-<a name="1.21.372.1">1.21.372.1</a> If the manifestation has no collective title, and one or more expressions contained in the publication are not named on the preferred source of information: transcribe the title and statement of responsibility from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) or make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) or devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper.
+<a name="1.21.372.1">1.21.372.1</a> If the manifestation has no collective title, and one or more expressions contained in the manifestation are not named on the preferred source of information: transcribe the title and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) or make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) or devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper.
 
 >Example:  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
@@ -176,11 +176,11 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.383 Two or more works with a collective title on a single sheet
 
-<a name="1.21.383.1">1.21.383.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note for the works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
+<a name="1.21.383.1">1.21.383.1</a> If there are two or more works printed on a single sheet having a collective title, transcribe only the collective title as the title proper. Make a formal or informal contents note for the works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
 
 ### 1.21.384 Two or more works without a collective title on a single sheet
 
-<a name="1.21.384.1">1.21.384.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) contents note and include in it the titles of the additional works (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.384.1">1.21.384.1</a> If there are two or more works printed on a single sheet that does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
 
 ### 1.21.385 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
