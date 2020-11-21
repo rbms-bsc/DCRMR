@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.23.3 General rule
 
-<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper)) for the transcription of such statements (see [2.215.31](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)).
+<a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper) for the transcription of such statements.
 
 >Example:  
 ><CITE>with notes of various authors by Thomas Newton</CITE>
@@ -42,17 +42,17 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Designation of edition:  <CITE>The second edition</CITE>  
 >Statement of responsibility relating to edition: <CITE>revised and corrected</CITE>
 
-<a name="3.23.3.3">3.23.3.3</a> In determining the extent of the designation of edition and the beginning of the statement of responsibility relating to the edition, it may be necessary to take into account the layout, punctuation, and typography of the preferred source of information  as well as the sense of the text. Such words as "Revised and enlarged," when appearing with the name of a person or body, might be transcribed either as part of the designation of edition or as part of the statement of responsibility relating to the edition, depending on their presentation on the preferred source of information.
+<a name="3.23.3.3">3.23.3.3</a> In determining the extent of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the beginning of the statement of responsibility relating to the edition, it may be necessary to take into account the layout, punctuation, and typography of the preferred source of information as well as the sense of the text. Such words as "Revised and enlarged," when appearing with the name of a person or body, might be transcribed either as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) or as part of the statement of responsibility relating to the edition, depending on their presentation on the preferred source of information.
 
 ## 3.23.31 Transposition of statements of responsibility not relating to edition
 
-<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the designation of edition, transpose it to the statement of responsibility relating to title proper in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transpose it to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
 >Note on statement of responsibility: <CITE>The statement "by John Whitehurst" appears on the title page after the edition statement</CITE>  
->(*Comment*: Statement of responsibility applies to all editions.)
->(*Comment*: Information in transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
+>(*Comment*: Statement of responsibility applies to all editions.)  
+>(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
 ); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity.)
 
 ## 3.23.32 Phrases about notes, appendices, etc.
@@ -78,9 +78,9 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.23.33 Statements of responsibility relating to edition in more than one language or script
 
-<a name="3.23.33.1">3.23.33.1</a> If there are designations of edition in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) (see [3.23.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.3.1)).
+<a name="3.23.33.1">3.23.33.1</a> If there are [Designations of edition](/DCRMR/edition/Designation-of-edition/) in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the statement of responsibility relating to edition (see [3.23.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.3.1)).
 
-<a name="3.23.33.2">3.23.33.2</a> If a statement of responsibility relating to edition appears on the manifestation in more than one language or script, record the statement in the language or script of the title proper. If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/) (see [3.235.3.3](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.3)).
+<a name="3.23.33.2">3.23.33.2</a> If a statement of responsibility relating to edition appears on the manifestation in more than one language or script, record the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, record the statement that appears first. Transcribe other statements of responsibility as [Parallel statements of responsibility relating to edition](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/) (see [3.235.3.3](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.3)).
 
 <a name="3.23.33.3">3.23.33.3</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 

@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 3 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.2d6ykbwnxqcw){:target="_blank"}.
+Please comment about errata on the [Chapter 3 errata page](https://docs.google.com/document/d/1DqZ9-Ti8K8sHmcmPWpP4tH-ENfIOKGhHwR9XuZ9HwOk/edit){:target="_blank"}.
 
 ## Contents:
 {: .no_toc .text-delta }
@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.26.31 Source and position of edition statement
 
-<a name="3.26.31.1">3.26.31.1</a> Note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3.01.1), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) and [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
+<a name="3.26.31.1">3.26.31.1</a> Note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3.01.1), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) and [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
 
 >Example:  
 > <CITE>The statement “corrected printing” from colophon</CITE>
@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>    
 >Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>  
->(*Comment*: Example follows alternative rule to a create separate bibliographic description for an individual impression, or state.)
+>(*Comment*: Example follows alternative rule to a create a separate bibliographic description for an individual impression or state.)
 
 <a name="3.26.31.2">3.26.31.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.21.3.2](/DCRMR/edition/Edition-statement/#3.21.3.2), [3.22.36.1](/DCRMR/edition/Designation-of-edition/#3.22.36.1), [3.255.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.255.3.4), [3.23.32.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.3), [3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3), [3.235.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.4), [3.24.31.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.2), and [3.25.31.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.31.3)).
 
@@ -52,7 +52,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 ><CITE>“Sixth edition”--Tchemerizine, v. 6, p. 117-131</CITE>
 
-<a name="3.26.32.2">3.26.32.2</a> Note statements referring to other editions (e.g. as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
+<a name="3.26.32.2">3.26.32.2</a> Note statements referring to other editions (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
 
 ## 3.26.33 Two or more works on the preferred source of information with at least one edition statement
 
@@ -60,18 +60,18 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 >Example:  
 > Note on edition statement: <CITE>4th edition of Winnipeg Manitoba street atlas, new edition of Manitoba back road atlas. </CITE>  
-> Title statement: <CITE>Winnipeg & Manitoba street atlas ; Manitoba back road atlas</CITE>  
+> Title proper: <CITE>Winnipeg & Manitoba street atlas ; Manitoba back road atlas</CITE>  
 > Edition statement (1st work): <CITE>4th edition</CITE>  
 >Edition statement (2nd work): <CITE>New edition, includes street atlas</CITE>  
 >(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover.)  
 
 ## 3.26.34 Edition statements relating to issues or parts
 
-<a name="3.26.34.1">3.26.34.1</a> Make a note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are edition statements relating to the whole as well as to part.  Record the edition statement relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.21.35.2](/DCRMR/edition/Edition-statement/#3.21.35.2)).
+<a name="3.26.34.1">3.26.34.1</a> Make a note on edition statement relating to issues or parts of a multipart monograph, if the manifestation consists of multiple issues or parts and there are edition statements relating to the whole as well as to the parts.  Record the edition statement relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.21.35.2](/DCRMR/edition/Edition-statement/#3.21.35.2)).
 
 ## 3.26.35 Nonce collections
 
-<a name="3.26.35.1">3.26.35.1</a> Make a note on edition statement of differences in edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.21.36.1](/DCRMR/edition/Edition-statement/#3.21.36.1)).  If edition statements of parts vary between exemplars of manifestation, record the edition statements of the item in hand relating to parts as an in [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.32.1](/DCRMR/additional-notes/Note-on-item/#9.4.32.1) and [3.21.36.2](/DCRMR/edition/Edition-statement/#3.21.36.2)).
+<a name="3.26.35.1">3.26.35.1</a> Make a note on edition statement of differences in edition statements from one part to another in nonce collections (volumes made up of previously published pamphlets, usually reissued with a collective title page) (see [3.21.36.1](/DCRMR/edition/Edition-statement/#3.21.36.1)).  If edition statements of parts vary between exemplars of a manifestation, record the edition statements of the item in hand relating to individual parts in a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.32.1](/DCRMR/additional-notes/Note-on-item/#9.4.32.1) and [3.21.36.2](/DCRMR/edition/Edition-statement/#3.21.36.2)).
 
 >Example:  
 > <CITE>Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.</CITE>
