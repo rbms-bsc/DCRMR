@@ -51,7 +51,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.217.2">6.22.217.2</a> See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.3.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.3.1)) for fuller details on color content of illustrations.
 
-<a name="6.22.217.3">6.22.217.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)) for controlled terms for hand-coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)) for hand-colored manifestations not issued as such.
+<a name="6.22.217.3">6.22.217.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)) for controlled terms for hand coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand colored manifestations issued as such.  See [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)) for hand colored manifestations not issued as such.
 
 # 6.22.3 General rule
 
@@ -150,7 +150,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>1 illustration</CITE>  
 >Details of illustrative content: <CITE>Illustration is a title page vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background</CITE>
 
-<a name="6.22.35.2">6.22.35.2</a> *Optionally*, record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important for identification or selection.
+<a name="6.22.35.2">6.22.35.2</a> *Optionally*, record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important.
 
 # 6.22.37 Resources consisting entirely or chiefly of illustrations
 
@@ -158,7 +158,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.37.2">6.22.37.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".              
+*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".  
+            
 >Example:  
 > <CITE>chiefly illustrations</CITE>
 

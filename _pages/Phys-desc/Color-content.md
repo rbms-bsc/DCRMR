@@ -41,19 +41,19 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.23.213 Hand coloring in printed resources
 
-<a name="6.23.213.1">6.23.213.1</a> “Hand-colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
+<a name="6.23.213.1">6.23.213.1</a> “Hand colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
 <a name="6.23.213.2">6.23.213.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 <a name="6.23.213.3">6.23.213.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in color content or [Details of color content](/DCRMR/phys-desc/Details-of-color-content/).
 
-<a name="6.23.213.4">6.23.213.4</a> If there is strong evidence that all copies of the resource were issued with hand coloring applied before distribution, record the presence of color as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand-coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all copies were issued with hand coloring applied before distribution.
+<a name="6.23.213.4">6.23.213.4</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, record the presence of color as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
 
-<a name="6.23.213.5">6.23.213.5</a> If there is strong evidence that some copies of the resource were issued with hand-coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
+<a name="6.23.213.5">6.23.213.5</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
 
 ### 6.23.215 Color of base material
 
-<a name="6.23.215.1">6.23.215.1</a> Do not record the presence of color in base materials (e.g. paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
+<a name="6.23.215.1">6.23.215.1</a> Do not record the presence of color in base materials (e.g., paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ## 6.23.3 General rule
 
@@ -67,12 +67,12 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 >Color content: <CITE>hand colored</CITE>     
->Details of color content: <CITE>Illustrations are hand-colored, as issued</CITE>  
+>Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
 >(*Comment*: Title contains statement "embellished with colored engravings")
  
 >Example:  
 >Color content: <CITE>hand colored</CITE>    
->Details of color content: <CITE>Wood engravings hand-colored, as issued</CITE>
+>Details of color content: <CITE>Wood engravings hand colored, as issued</CITE>
 
 ---
 

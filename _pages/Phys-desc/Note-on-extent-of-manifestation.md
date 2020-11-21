@@ -44,7 +44,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.215.3.25">6.215.3.25</a> Make a note on extent of manifestation to explain that pages, etc. are numbered in words or other non-alphanumeric characters (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
 
-<a name="6.215.3.3">6.215.3.3</a> Record the presence of blank pages in a normally imposed single-folded (i.e. four-page) sheet (see [Extent of manifestation, 6.21.422.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.422.1)).
+<a name="6.215.3.3">6.215.3.3</a> Record the presence of blank pages in a normally imposed single-folded (i.e., four-page) sheet (see [Extent of manifestation, 6.21.422.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.422.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>1, [3] pages</CITE>  
@@ -57,7 +57,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.215.3.4">6.215.3.4</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory note on extent of manifestation (see [Extent of manifestation, 6.21.424.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.2)).
 
 > Example:  
-> Extent of manifestation: <CITE>xii, [1], 35, 35, [1] p.</CITE>  
+> Extent of manifestation: <CITE>xii, [1], 35, 35, [1] pages</CITE>  
 > Note on extent of manifestation: <CITE>Opposite pages bear duplicate numbering</CITE>
 
 > Example:  
@@ -72,21 +72,21 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.215.3.43">6.215.3.43</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation.  (see [Extent of manifestation, 6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.24.424.4)).
+<a name="6.215.3.43">6.215.3.43</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation (see [Extent of manifestation, 6.24.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.24.424.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
 > Note on extent of manifestation: <CITE>Pages 4-16 also numbered 196-208</CITE>
 
-<a name="6.215.3.45">6.215.3.45</a> If the extent is not fully recorded in the extent of manifestation element (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
+<a name="6.215.3.45">6.215.3.45</a> If the extent is not fully recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
 
-<a name="6.215.3.47">6.215.3.47</a> If misleading or incorrect numbering is recorded in the extent element, provide an explanatory note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
+<a name="6.215.3.47">6.215.3.47</a> If misleading or incorrect numbering is recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), provide an explanatory note on extent of manifestation if considered important (see [6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
 
 > Example:  
 > Extent of manifestation: <CITE>564 [that is, 56] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Leaf 56 wrongly numbered 564</CITE>
 
-<a name="6.215.3.5">6.215.3.5</a> Make a note on extent of manifestation to indicate any title page counted as a plate (see [6.21.426.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.426.4)).
+<a name="6.215.3.5">6.215.3.5</a> Make a note on extent of manifestation to indicate any title page counted as a plate (see [Extent of manifestation, 6.21.426.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.426.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>112 pages, [1] leaf of plates</CITE>  
@@ -120,7 +120,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.215.31 Signatures
 
-<a name="6.215.31.1">6.215.31.1</a> **General rule**. Make a note giving details of the signatures of a volume if considered important.  Record these signature details according to the formula in Philip Gaskell's A New Introduction to Bibliography (see pages 328-332), insofar as typographical facilities permit. Preface this note with the word “Signatures” and a colon.
+<a name="6.215.31.1">6.215.31.1</a> **General rule**. Make a note giving details of the signatures of a volume if considered important.  Record these signature details according to the formula in Philip Gaskell's *A New Introduction to Bibliography* (see pages 328-332), insofar as typographical facilities permit. Preface this note with the word “Signatures” and a colon.
 
 > Example:  
 > <CITE>Signatures: [A]⁴ B-C⁴ D² E-G⁴ H²</CITE>
@@ -140,7 +140,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 In general, record signatures for incunabula, especially if identical signatures are not given in a standard bibliographic source. In general, also record signatures when a volume has no pagination or foliation.
 
-<a name="6.215.31.2">6.215.31.2</a> **Unavailable characters**. If the gatherings are signed with a mark of contraction (see [Transcription](/DCRMR/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled out form and enclose it in square brackets.
+<a name="6.215.31.2">6.215.31.2</a> **Unavailable characters**. If the gatherings are signed with a mark of contraction (see [Transcription](/DCRMR/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled-out form and enclose it in square brackets.
 
 > Example:  
 > <CITE>Signatures: A-F⁸ G⁶ a-z⁸ &⁸ [con]⁸ [rum]⁸ 2a-2y⁸</CITE>

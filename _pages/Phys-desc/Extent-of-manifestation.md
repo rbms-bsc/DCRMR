@@ -52,14 +52,14 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 > Extent of manifestation: <CITE>LXXVI leaves</CITE>  
-> Details of production method: <CITE>engraved</CITE>
+> Details of production method: <CITE>Engraved</CITE>
 
 >Example:  
 > Extent of manifestation: <CITE>[1], 13 leaves</CITE>  
 > Details of production method: <CITE>Engraved, with a letterpress title page</CITE>
 
 >Example:  
-> <CITE>28 leaves</CITE>  
+> Extent of manifestation: <CITE>28 leaves</CITE>  
 > Details of production method: <CITE>Wholly engraved</CITE>
 
 #### 6.21.422 Normally imposed single sheets
@@ -71,8 +71,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 > Note on extent of manifestation: <CITE>Last three pages are blank</CITE>
 
 >Example:  
-> <CITE>[4] pages</CITE>  
-> Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank.</CITE>
+> Extent of manifestation: <CITE>[4] pages</CITE>  
+> Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank</CITE>
 
 See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-cases-portfolios-etc)-[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
 
@@ -121,13 +121,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 #### 6.21.4235 Advertisements
 
-<a name="6.21.4235.1">6.21.4235.1</a> Record pages containing only advertisements if those pages are:  
-
-* included in the same pagination sequence as the text;  
-* or	 printed on the pages of an initial or final gathering also containing leaves or pages of text;  
-* or	 printed on a separate gathering in a manifestation that is continuously signed;  
-* or connected by a catchword;  
-* or otherwise integral to the manifestation.  
+<a name="6.21.4235.1">6.21.4235.1</a> Record pages containing only advertisements if those pages are included in the same pagination sequence as the text; or printed on the pages of an initial or final gathering also containing leaves or pages of text; or	printed on a separate gathering in a manifestation that is continuously signed; or connected by a catchword; or otherwise integral to the manifestation.  
 
 <a name="6.21.4235.2">6.21.4235.2</a> Record the presence of pages that contain only advertisements as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1)).
 
@@ -154,8 +148,8 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 <a name="6.21.424.2">6.21.424.2</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory  [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.4)).
 
 > Example:  
->Extent of manifestation: <CITE>xii, [1], 35, 35, [1] p.</CITE>  
->Note on extent of manifestation: <CITE>Opposite pages bear duplicate numbering.</CITE>
+>Extent of manifestation: <CITE>xii, [1], 35, 35, [1] pages</CITE>  
+>Note on extent of manifestation: <CITE>Opposite pages bear duplicate numbering</CITE>
 
 >Example:  
 >Extent of manifestation: <CITE>[3], 2-11, 2-11, 12 pages, 13-19, 21 leaves, 22-44, [1] pages</CITE>  
@@ -168,14 +162,14 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 <a name="6.21.424.3">6.21.424.3</a> If a volume has groups of pages numbered in opposite directions, as is sometimes the case with manifestations having texts in two languages, record the pagings of the various sections in order, starting from the title page or other preferred source of information selected for the description.
 
 > Example:  
-> Extent of manifestation: <CITE>[32] pagea</CITE>  
+> Extent of manifestation: <CITE>[32] pages</CITE>  
 > Note on extent of manifestation: <CITE>German and French bound back to back and inverted (tête-bêche format)</CITE>
 
 > Example:  
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.43](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.43)).
+<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.4](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
@@ -231,7 +225,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.426 Leaves or pages of plates
 
-<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. For a  plate folded and bound at the inner margin (see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#6214275-double-leaves)). Count unnumbered leaves or pages of plates without regard for the terms used to describe the rest of the manifestation (accordingly, leaves of plates may follow sequences of pages and pages of plates may follow sequences of leaves).
+<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. For a plate folded and bound at the inner margin see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#6214275-double-leaves). Count unnumbered leaves or pages of plates without regard for the terms used to describe the rest of the manifestation (accordingly, leaves of plates may follow sequences of pages and pages of plates may follow sequences of leaves).
 
 > Example:  
 > <CITE>viii, 132 pages, iv pages of plates</CITE> 
@@ -290,7 +284,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 >Example:  
 > Extent of manifestation: <CITE>[4], 28 pages, [86] leaves of plates</CITE>  
-> Note on extent of manifestation: <CITE>Some plates printed on double leaves.</CITE>  
+> Note on extent of manifestation: <CITE>Some plates printed on double leaves</CITE>  
 
 #### 6.21.428 Incomplete manifestations 
 
@@ -334,7 +328,7 @@ If the portfolio or case was not issued with the resource, record the extent in 
 > <CITE>1 sheet ([1] page)</CITE>   
 > (*Comment*: Broadside or other sheet printed on one side, unnumbered)  
 
-<a name="6.21.429.2">6.21.429.2</a> For a manifestation consisting of a single sheet folded into multiple panels,  record the number of physical panels on one side of the sheet when unfolded. Include both blank panels and panels containing text or illustrations in the count. Enclose the number in square brackets if the panels are unnumbered. Record features of the sheet’s layout (including the numbering of the panels) in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
+<a name="6.21.429.2">6.21.429.2</a> For a manifestation consisting of a single sheet folded into multiple panels, record the number of physical panels on one side of the sheet when unfolded. Include both blank panels and panels containing text or illustrations in the count. Enclose the number in square brackets if the panels are unnumbered. Record features of the sheet’s layout (including the numbering of the panels) in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>1 folded sheet ([18] panels)</CITE>  
@@ -378,7 +372,7 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 
 #### 6.21.436 Pagination not continuous
 
-<a name="6.21.436.1">6.21.436.1</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.85)). Separate the counts for individual units with semi-colons.
+<a name="6.21.436.1">6.21.436.1</a> *Optionally,* if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.3.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.85)). Separate the counts for individual units with semicolons.
 
 >Example:  
 > <CITE>4 volumes ([4], 527, [1]; 12, 548; 8, 533, [3]; 4, 499, [1] pages)</CITE><CITE><CITE>  
