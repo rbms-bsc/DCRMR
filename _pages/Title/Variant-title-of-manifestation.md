@@ -146,12 +146,9 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.25.3575.1">1.25.3575.1</a> Provide additional title access for an alternative title (see [1.21.32.3](/DCRMR/title/Title-proper/#1.21.32.3)).
 
->Example:  
-><CITE>Insert example here</CITE>
-
 ### 1.25.358 Title proper with supplementary or section title (optional)
 
-<a name="1.25.358.1">1.25.358.1</a> Provide additional title access for a title that is supplementary to, or a section of, another expression when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
+<a name="1.25.358.1">1.25.358.1</a> Provide additional title access for a title that is supplementary to, or a section of, another work when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
 ### 1.25.3585 Phrases about notes, appendices, etc. (optional)
 

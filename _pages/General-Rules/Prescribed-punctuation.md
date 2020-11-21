@@ -23,8 +23,6 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space `( . -- )` unless the element begins a new paragraph.
 
-<a name="0.2.01.6">0.2.01.6</a> For more detailed instructions on punctuation for each ISBD area of description than those provided below, see the Element order section of each chapter (see [Title](/DCRMR/title/#1012-element-order), [Statement of responsibility](/DCRMR/sor/#2012-element-order), [Edition](/DCRMR/edition/#3012-element-order), [Mathematical details](/DCRMR/mathematical-details/), [Production, Publication, Distribution, Manufacture](/DCRMR/ppdm/#5012-element-order), [Physical description](/DCRMR/phys-desc/), [Numbering of serials](/DCRMR/numbering-of-serials/), [Series](/DCRMR/series/#8012-element-order), [Additional notes](/DCRMR/additional-notes/), and [Identifiers](/DCRMR/identifiers/).
-
 ## 0.2.1 Title 
 
 <a name="0.2.1.1">0.2.1.1</a> Precede the title of a supplement or section by a period. Precede each parallel title by an equals sign. Precede each unit of other title information by a colon.
