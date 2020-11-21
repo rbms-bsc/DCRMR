@@ -23,11 +23,11 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.275.2 RDA definition and scope
 
-<a name="6.275.2.1">6.275.2.1</a> Details of a process used to produce a manifestation.
+<a name="6.275.2.1">6.275.2.1</a> Details of a process that is used to produce a manifestation.
 
 ## 6.275.3 General rule
 
-<a name="6.275.3.1">6.275.3.1</a> Record fuller details of the Production method if considered important (see [Production method, 6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
+<a name="6.275.3.1">6.275.3.1</a> Record fuller details of the [Production method](/DCRMR/phys-desc/Production-method/) if considered important (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
 
 >Example:  
 ><CITE>Woodcut head- and tail-pieces; woodcut factotum</CITE>

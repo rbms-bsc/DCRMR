@@ -45,9 +45,9 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ><CITE>On heavy board pages cut in the shape of the shop</CITE>
 
 >Example:  
-><CITE>In yellow wrappers with illustrations on page [2] and [3], and publisher's advertisement on page [4]</CITE>
+><CITE>In yellow wrappers with illustrations on pages [2] and [3], and publisher's advertisement on page [4] of cover</CITE>
 
-<a name="6.32.3.2">6.32.3.2</a> *Optionally*, record specific types of binding using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"},
+<a name="6.32.3.2">6.32.3.2</a> *Optionally*, record specific types of bindings using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"},
  the [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/binding/alphabetical_list.htm){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
 
 <a name="6.32.3.3">6.32.3.3</a> Details of a binding recorded here usually apply to all exemplars of a manifestation. Summaries of binding details that apply to particular groups of exemplars within an edition or issue may also be recorded.

@@ -25,6 +25,8 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.33.2.1">6.33.2.1</a> A categorization reflecting the fundamental form of communication in which the content is expressed and the human sense through which it is intended to be perceived.
 
+<a name="6.33.2.2">6.33.2.2</a> Content type also reflects the number of spatial dimensions and the presence or absence of movement in which content expressed in the form of an image or images is intended to be perceived.
+
 ## 6.33.3 General rule
 
 <a name="6.33.3.1">6.33.3.1</a> Record the media type of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.

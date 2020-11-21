@@ -27,12 +27,12 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.27.3 General rule
 
-<a name="6.27.3.1">6.27.3.1</a> Record the process or technique used to produce the manifestation if considered important. Prefer a term from the [RDA Value Vocabularies: RDA Production Method](http://www.rdaregistry.info/termList/RDAproductionMethod/){:target="_blank"} such as:  
+<a name="6.27.3.1">6.27.3.1</a> Record the process or technique used to produce the manifestation if considered important. Prefer a term from the [RDA Value Vocabularies: RDA Production Method](http://www.rdaregistry.info/termList/RDAproductionMethod/){:target="_blank"}, such as:  
 * engraving
 * etching
 * printing
 
-<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the list is appropriate, record a term found in a standard vocabulary, such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}. Indicate the source of the term.
+<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the list is appropriate, record a term found in a standard vocabulary, such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](http://vocab.getty.edu/page/aat/300185289){:target="_blank"}. Indicate the source of the term.
 * wood engraving
 * intaglio printing 
 

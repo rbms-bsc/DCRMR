@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.26.3 General rule 
 
-<a name="6.26.3.1">6.26.3.1</a> Record the applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source.
+<a name="6.26.3.1">6.26.3.1</a> Record an applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source.
 
 >Example:  
 ><CITE>ink</CITE>
@@ -44,7 +44,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.26.3.4">6.26.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record *mixed materials.*
 
-<a name="6.26.3.5">6.26.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation in details of applied material if considered important (see [Details of applied material, 6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)).
+<a name="6.26.3.5">6.26.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation as [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) if considered important (see [6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)).
 
 ---
 
