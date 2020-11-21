@@ -1,1 +1,4 @@
+User-Agent: *
+Disallow: 
+
 Sitemap: https://rbms-bsc.github.io/DCRMR/sitemap.xml
