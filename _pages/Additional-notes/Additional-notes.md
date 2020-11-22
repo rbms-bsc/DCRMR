@@ -20,7 +20,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.01.3.1">9.01.3.1</a> If information in a note corresponds to information found in the title and statement of responsibility, edition, publication, distribution, etc., physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
 
-<a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; other notes than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules, and, generally, in the order in which they are listed here. If a particular note is of primary importance, it may be given first, regardless of its order in this list. When appropriate, combine two or more notes to make one note.
+<a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; notes other than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules, and, generally, in the order in which they are listed here. If a particular note is of primary importance, it may be given first, regardless of its order in this list. When appropriate, combine two or more notes to make one note.
 
 ## 9.01.4 General rule
 
@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.01.5 Required notes
 
-<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/), notes on [Data provenance](/DCRMR/general-rules/Data-provenance/).  Required notes include:
+<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/), notes on [Data provenance](/DCRMR/general-rules/Data-provenance/).  Required notes include:
 
 + accompanying material (see [Accompanied by manifestation, 9.31.3.1](/DCRMR/additional-notes/Accompanied-by-manifestation#9.31.3.1))  
 + advertisements (see [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [9.33.31.1](/DCRMR/additional-notes/Supplementary-content/#9.33.31.1))
