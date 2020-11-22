@@ -27,15 +27,15 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 ## 8.23.3 General rule
 
-<a name="8.23.3.1">8.23.3.1</a> Transcribe other title information relating to the series, if present, following the series title proper.
+<a name="8.23.3.1">8.23.3.1</a> Transcribe other title information relating to the series, if present, following the [Title of series](/DCRMR/series/Title-of-series/).
 
 >Example:  
 >Other title information of series: <CITE>the best plays of the old dramatists</CITE>  
->Title proper of series: <CITE>The mermaid series</CITE>  
+>Title of series: <CITE>The mermaid series</CITE>  
 
 >Example:  
 >Other title information of series: <CITE>Yo Semite and Pacific Coast</CITE>  
->Title proper of series: <CITE>Watkins' new boudoir series</CITE>
+>Title of series: <CITE>Watkins' new boudoir series</CITE>
 
 ---
 

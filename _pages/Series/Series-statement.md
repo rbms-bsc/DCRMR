@@ -29,11 +29,12 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 ## 8.2.31 More than one series statement
 
-<a name="8.2.31.1">8.2.31.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a publication, transcribe each statement separately.
+<a name="8.2.31.1">8.2.31.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a manifestation, transcribe each statement separately.
 
 >Example:  
 ><CITE>American poets profile series ; 1</CITE>  
 ><CITE>Thunder City Press poetry series ; number 19</CITE>
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ---
 

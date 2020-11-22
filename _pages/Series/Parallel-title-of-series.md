@@ -31,12 +31,12 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 >Example:    
 >Parallel title of series: <CITE>Villes du Canada, vues à vol d'oiseau</CITE>    
->Title proper of series: <CITE>Canadian cities, bird's eye views</CITE>  
+>Title of series: <CITE>Canadian cities, bird's eye views</CITE>  
 
 >Example:    
 >Parallel title of series: <CITE>European university papers</CITE>    
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>   
->Title proper of series: <CITE>Europäische Hochschulschriften</CITE>  
+>Title of series: <CITE>Europäische Hochschulschriften</CITE>  
 
 <a name="8.215.3.2">8.215.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, omit parallel series titles after the first using the mark of omission.
 

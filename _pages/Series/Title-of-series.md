@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 <a name="8.21.31.2">8.21.31.2</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)).
 
-<a name="8.21.31.3">8.21.31.3</a> If the series title includes a statement of responsibility or numbering that is an integral part of the title, transcribe it as part of the title of the series.
+<a name="8.21.31.3">8.21.31.3</a> If the series title includes a statement of responsibility or numbering that is grammatically inseparable from other words in the title, transcribe it as part of the title of the series.
 
 >Example:    
 ><CITE>Tract no. I of the American Peace Society</CITE>  
