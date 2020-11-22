@@ -39,13 +39,13 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.45.3.2">9.45.3.2</a> For each item listed, give only the elements listed below:
 
-1. the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)
+1. The [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)
 
-2. the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
+2. The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
 
-3. the primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+3. The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
 
-4. the [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
+4. The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
 >Example:  
 > <CITE>University of Chicago Library's copy bound with: Duns Scotus, John. Incipit scriptu[m] sup[er] Primo sente[n]tia[rum] editum a fratre Joanne Duns. [Venice] : [Joannis de Colonia, Nicolai Jenson, Joannes de Selgenstat], [10 November 1481]</CITE>

@@ -29,6 +29,8 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.25.1">9.3.25.1</a> Additional notes on manifestation include:
 
+ + [Note on title](/DCRMR//title/Note-on-title/)
+ + [Note on statement of responsiblity](/DCRMR/sor/Note-on-statement-of-responsibility/)
  + [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/)
  + [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/)
  + [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/)
@@ -46,7 +48,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.3.31 Quotations
 
-<a name="9.3.31.1">9.3.31.1</a> Record quotations from the manifestation or from other sources in quotation marks. Always follow the quotation by an indication of its source.  For guidelines on transcription and capitalization, see general guidelines on transcription.
+<a name="9.3.31.1">9.3.31.1</a> Record quotations from the manifestation or from other sources in quotation marks. Always follow the quotation by an indication of its source.  For guidelines on transcription and capitalization, see [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
 ><CITE>"Extracted from the minutes of the Society for the Propagation of the Gospel in Foreign Parts"--Title page</CITE>  
@@ -59,7 +61,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a publication without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content).
 
-<a name="9.3.32.2">9.3.32.2</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/Statement-of-responsibility/) and its subelements.  In such cases, record “[from title page]” at the beginning of the contents note.  If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
+<a name="9.3.32.2">9.3.32.2</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) and its subelements.  In such cases, record “[from title page]” at the beginning of the contents note.  If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
 
 <a name="9.3.32.3">9.3.32.3</a> If a complete listing of contents cannot be assembled by one of the above means, the cataloger may devise a contents note from any appropriate source or combination of sources.
 
@@ -87,7 +89,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description (see also [Reprinted as manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
-<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the publication has been issued previously if considered important (see [Note on series statement, 8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
+<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
 
 >Example:  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
@@ -100,7 +102,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.3.35.2">9.3.35.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
 >Example:  
-><CITE>"250 copies printed"--Pref.</CITE>
+><CITE>"250 copies printed"--Preface</CITE>
 
 >Example:  
 ><CITE>"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso</CITE>
@@ -111,9 +113,11 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."</CITE>
 
-<a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/). Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/), if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
+<a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as note on manifestation. Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
 
 # 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
+
+---
 
 <a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2)).
 
@@ -123,9 +127,13 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 # 9.3.37 Note on imperfect exemplars
 
+---
+
 <a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 
 # 9.3.38 Accompanying material
+
+---
 
 <a name="9.3.38.1">9.3.38.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.31.31.2](/DCRMR/additional-notes/Note-on-manifestation/#9.31.31.2)).
 

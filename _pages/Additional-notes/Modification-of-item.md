@@ -31,9 +31,9 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.41.3 General rule
 
-<a name="9.41.3.1">9.41.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/).
+<a name="9.41.3.1">9.41.3.1</a> For general rules on constructing item-specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-<a name="9.41.3.2">9.41.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
+<a name="9.41.3.2">9.41.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation, 6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1); illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 
 >Example:  
 ><CITE>Folger copy on vellum; illustrations and part of borders hand colored; with illuminated initials; rubricated in red and blue</CITE>
@@ -50,7 +50,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>Folger copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="9.41.3.3">9.41.3.3</a> For notes on missing pages or leaves (see [Note on extent of item, 9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
+<a name="9.41.3.3">9.41.3.3</a> For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) ([9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
 ## 9.41.33 Provenance evidence
 
@@ -89,7 +89,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.41.35 Bindings
 
-<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue (see [Type of binding, 6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
+<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue, see [Type of binding](/DCRMR/phys-desc/Type-of-binding/) ([6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
 
 <a name="9.41.35.2">9.41.35.2</a> Indicate any errors in binding if considered important.
 
@@ -110,13 +110,13 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.41.35.3">9.41.35.3</a> Record other details of an item-specific binding if considered important. Less detailed descriptions might include the color and nature of the covering material, a summary of any decoration present (e.g., “gold-tooled,” “blind-tooled”), and (if these can be determined) an approximate date and the name of the binder.
 
-<a name="9.41.35.4">9.41.35.4</a> Whenever possible, use standard terminology from resources such as the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or the [Language of Bindings Thesaurus](https://www.ligatus.org.uk/){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) may also be used as appropriate.
+<a name="9.41.35.4">9.41.35.4</a> Whenever possible, use standard terminology from resources such as the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or the [Language of Bindings](https://www.ligatus.org.uk/lob/){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) may also be used as appropriate.
 
 >Example:  
 ><CITE>British Library copy: In a late seventeenth-century English gold-tooled red goatskin binding with the coat of arms of George III added later to the front board</CITE>
 
 >Example:  
-><CITE>Binding: contemporary quarter-calf over marbled boards</CITE>
+><CITE>Binding: contemporary quarter calf over marbled boards</CITE>
 
 >Example:  
 ><CITE>Bound in vellum from a 16th century notarial document</CITE>

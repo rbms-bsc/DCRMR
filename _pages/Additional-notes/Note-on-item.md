@@ -16,7 +16,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.4.1 Element information
 
-<a name="9.4.1.1">9.4.1.1</a> [Link to RDA Toolkit](https://docs.google.com/document/d/1JSf-40uCef9J2DL9e39146yMejO84KI92EpSADEgnYY/edit){:target="_blank"}
+<a name="9.4.1.1">9.4.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d135d10a-4888-3955-bdb7-30a23c1add97){:target="_blank"}
 
 <a name="9.4.1.2">9.4.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
@@ -28,11 +28,11 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.4.25.1">9.4.25.1</a> See:
 
-+ [Modification of item](/DCRMR/additional-notes/Modification-of-item/) for item specific alterations; provenance evidence; and item-specific binding details; etc.
-+ [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/) for summaries of the past ownership of an item.
-+ [Bound with](/DCRMR/additional-notes/Bound-with/) for items bound together subsequent to publication.
-+ [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued.
-+ [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource.
++ [Modification of item](/DCRMR/additional-notes/Modification-of-item/) for item-specific alterations; provenance evidence; item-specific binding details; etc.
++ [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/) for summaries of the past ownership of an item
++ [Bound with](/DCRMR/additional-notes/Bound-with/) for items bound together subsequent to publication
++ [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) for notes on missing pages or leaves or differences and when the number of physical units in which a publication is bound differs from the number in which it was actually issued
++ [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) for notes on dimensions of an item differing from the dimensions of the manifestation as issued, folded dimensions of a sheet not folded as issued, and dimensions of a container not issued with the resource
 
 ## 9.4.3 General rule
 
@@ -55,7 +55,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ><CITE>Library's copy: "Fifth ten thousand"</CITE>
 
 >Example:  
-><CITE>Library's copy: Number "2" on t.p. indicates 2nd printing</CITE>
+><CITE>Library's copy: Number "2" on title page indicates 2nd printing</CITE>
 
 >Example:  
 ><CITE>Library's copy: "51st-100th"--Title page verso</CITE>

@@ -44,7 +44,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.31.3.3">9.31.3.3</a> *Optionally*, record the physical description of accompanying material in parentheses following its name, in this order:
 
-1.	[Extent of the manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)) 
+1.	[Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)) 
 
 2.	Other details of physical description, such as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) (see [6.22.3.1](/DCRMR/phys-desc/Illustrative-content/#6.22.3.1)); [Color content](/DCRMR/phys-desc/Color-content) (see [6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)), etc.
 

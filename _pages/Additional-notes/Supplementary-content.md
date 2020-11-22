@@ -23,7 +23,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.33.2 RDA definition and scope
 
-<a name="9.33.2.1">9.33.2.1</a> An indication of content that updates or complements the primary content of an expression.
+<a name="9.33.2.1">9.33.2.1</a> An indication of the kinds of expression that supplement the main expressions that are embodied by an augmentation aggregate.
 
 <a name="9.33.2.2">9.33.2.2</a> Supplementary content includes an index, a bibliography, an appendix, etc.
 
@@ -51,14 +51,14 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Publisher's advertisements on [2] pages at end</CITE>  
->(*Comment*: advertisements integral to manifestation)
+>(*Comment*: Advertisements integral to manifestation)
 
 >Example:  
-><CITE>Final unnumbered sequence contains: 'An abstract of the penal-laws'</CITE>
+><CITE>Final unnumbered sequence contains: "An abstract of the penal-laws"</CITE>
 
 ## 9.33.31 Errata leaves and slips
 
-<a name="9.33.31.1">9.33.31.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the publication if considered important.
+<a name="9.33.31.1">9.33.31.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the manifestation if considered important.
 
 >Example:  
 ><CITE>Errata on last leaf</CITE>

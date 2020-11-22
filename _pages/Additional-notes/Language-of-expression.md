@@ -23,7 +23,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.23.2 RDA definition and scope
 
-<a name="9.23.2.1">9.23.2.1</a> A broad unstructured description of one or more attributes of an expression 
+<a name="9.23.2.1">9.23.2.1</a> A language used for the content of an expression.
 
 ## 9.23.3 General rule
 

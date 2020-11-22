@@ -33,23 +33,18 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 >Example:   
 >Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
->Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment*: A publication in quarto)
  
 >Example:  
 >Manifestation described in: <CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
->Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment*: A publication in quarto)
 
 >Example:  
 >Manifestation described in: <CITE>Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277</CITE>  
->Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment*: A publication in quarto)
  
 >Example:  
->Manifestation described in: <CITE>Detailed description of plates in: Abbey, J.R. Travel, 23</CITE>  
->Note on publication statement: <CITE>Publication date from BAL</CITE>  
->(*Comment*: A publication in quarto)
+>Manifestation described in: <CITE>Abbey, J.R. Travel in aquatint and lithography, 1770-1860</CITE>  
+
+>Example:  
+>Manifestation described in: <CITE>Blanck, J. Bibliography of American literature</CITE> 
 
 <a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity, 9.05.3.1](/DCRMR/additional-notes/Note-on-RDA-entity/#9.05.3.1)).
 
