@@ -30,41 +30,6 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.01.4.3">9.01.4.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from lists of controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat){:target="_blank"}) may also be used.
 
-## 9.01.5 Required notes
-
-<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/), notes on [Data provenance](/DCRMR/general-rules/Data-provenance/).  Required notes include:
-
-+ accompanying material (see [Accompanied by manifestation, 9.31.3.1](/DCRMR/additional-notes/Accompanied-by-manifestation#9.31.3.1))  
-+ advertisements (see [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [9.33.31.1](/DCRMR/additional-notes/Supplementary-content/#9.33.31.1))
-+ bibliographic volumes different from physical volumes (see [Note on extent of manifestation, 6.215.3.83](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.83))  
-+ chronograms (see [Note on publication statement, 5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1); [Note on distribution statement, 5.285.36.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.1); [Note on manufacture statement, 5.34.36.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.1))   
-+ collection-level records (see [Appendix B](/DCRMR/appendices/Appendix-b/))   
-+ conjectural dates of publication, distribution, and manufacture (see [Note on publication statement, 5.24.36.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.7); [Note on distribution statement, 5.285.36.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.7); [Note on manufacture statement, 5.35.36.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.35.36.7))
-+ date of publication  
-+ devised titles  
-+ discontinued publications  
-+ double leaves  
-+ edition statement  
-+ edition statement lacking  
-+ errata leaves  
-+ fascicles  
-+ hand-colored illustrations  
-+ inaccuracies  
-+ information covered by labels
-+ made-up-sets
-+ minimal-level records
-+ physical description area
-+ place of publication in multipart monographs
-+ publisher statements
-+ romanization
-+ series
-+ sources of information
-+ statements of responsibility not on title page
-+ title page counted as plate
-+ title proper
-+ transposition
-+ 
-
 ## Contents:
 {: .no_toc }
 
