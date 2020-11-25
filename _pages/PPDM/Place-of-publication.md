@@ -172,7 +172,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
 >Note on publication statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.21.37.2">5.21.37.2</a> If the name of the place of publication has changed over time, supply the place name appropriate to the [Date of publication](/DCRMR/ppdm/Date-of-publication/) if known (e.g., Leningrad, not Saint Petersburg, for resources published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by “that is,” in the language of the cataloging agency. 
+<a name="5.21.37.2">5.21.37.2</a> If the name of the place of publication has changed over time, supply the place name appropriate to the [Date of publication](/DCRMR/ppdm/Date-of-publication/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by “that is,” in the language of the cataloging agency. 
 
 >Example:  
 ><CITE>[Christiania, that is, Oslo]</CITE>
