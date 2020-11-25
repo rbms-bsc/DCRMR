@@ -212,7 +212,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 * [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0438-punctuation-substituting-for-letters) (see [0.4.38.1](/DCRMR/general-rules/Transcription/#0.4.38.1))
 * [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#04385-punctuation-indicating-an-abbreviation) (see [0.4.385.1](/DCRMR/general-rules/Transcription/#0.4.385.1))
 
-<a name="0.4.31.5">0.4.31.5</a> **Original punctuation**. *Optionally*, transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
+<a name="0.4.31.5">0.4.31.5</a> **Original punctuation**. **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#04355-square-brackets) (see [0.4.355.1](/DCRMR/general-rules/Transcription/#0.4.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0436-virgules) (see [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1))
@@ -273,7 +273,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Title proper: <CITE>America, America, God shed his grace on thee and crown thy good with brotherhood</CITE>  
 >(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood...)
 
-<a name="0.4.35.2">0.4.35.2</a> **Alternative rule**. Ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
+<a name="0.4.35.2">0.4.35.2</a> *Optionally*, ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
 
 >Example:  
 >Title proper: <CITE>...it felt like i knew you...</CITE>  
@@ -288,13 +288,13 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
 >(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved.)
 
-<a name="0.4.355.2">0.4.355.2</a> **Alternative rule**. Omit the square brackets. Make an explanatory note if considered important for identification.
+<a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important for identification.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
 >Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets</CITE>  
 >(*Source of information reads*: [MDCCLXXV])
 
-<a name="0.4.355.3">0.4.355.3</a> **Alternative rule**. Square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
+<a name="0.4.355.3">0.4.355.3</a> *Optionally*, square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
 
 ### 0.4.36 Virgules
 

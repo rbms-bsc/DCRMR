@@ -31,7 +31,7 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 For additional guidance on transcribing characters that cannot be reproduced using the MARC-8 character set, see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-141.html){:target="_blank"}.
 
-<a name="0.3.1.3">0.3.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these instructions (e.g., [2.21.335.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.1), [5.21.325.2](/DCRMR/ppdm/Place-of-publication/#5.21.325.2), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
+<a name="0.3.1.3">0.3.1.3</a> Give interpolations into these elements in the language and script of the other information in the element, except for prescribed interpolations and other cases specified in these instructions (e.g., [2.21.335.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.2), [5.21.325.2](/DCRMR/ppdm/Place-of-publication/#5.21.325.2), [5.21.33.2](/DCRMR/ppdm/Place-of-publication/#5.21.33.2), [5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)). If the other information in the element is romanized, give interpolations according to the same romanization.
 
 <a name="0.3.1.4">0.3.1.4</a> Give any other information (other than titles, citations, signatures, and quotations in notes) in the language and script of the cataloging agency.
 
@@ -40,12 +40,12 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 <a name="0.3.2.1">0.3.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Make a note on [Script](/DCRMR/additional-notes/Script/) to indicate that the romanized text appears in nonroman script (see [9.24.3.2](/DCRMR/additional-notes/Script/#9.24.3.2)).
 
 >Example:  
-><CITE>Source: ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις</CITE>  
+>Source: <CITE>ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις</CITE>  
 >Transcription: <CITE>Dionysiou oikoumenēs periēgēsis</CITE>  
 >Note on title: <CITE>Title in Greek script</CITE>
 
 >Example:  
-><CITE>Source: Hendecasyllabωn</CITE>  
+>Source: <CITE>Hendecasyllabωn</CITE>  
 >Transcription: <CITE><CITE>Hendecasyllabōn</CITE>  
 >Note on title: <CITE>In the title, the ō in Hendecasyllabōn is printed in Greek script</CITE>
 
