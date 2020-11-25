@@ -21,7 +21,7 @@ Please comment about errata on the [Introduction errata page](https://docs.googl
 
 ### I.01.11 Descriptive Cataloging of Rare Materials
 
-<a name="I.01.11.1">I.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany AACR2 and includes six format-specific manuals: books, serials, graphics, music, cartographic, and manuscripts. 
+<a name="I.01.11.1">I.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, music, cartographic, and manuscripts. 
 
 ### I.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
 
@@ -50,7 +50,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 <a name="I.01.21.3">I.01.21.3</a> For subject headings, numerous controlled vocabularies are available; within the United States, the Library of Congress Subject Headings are widely used. Consult classification documentation for assignment of call numbers. For genre/form headings and other terms of relevance to special collections cataloging, consult the [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}, the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"}, and other controlled vocabularies as needed (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}).
 
-### I.01.22 Metadata Encoding Standards
+### I.01.22 Metadata encoding standards
 
 <a name="I.01.22.1">I.01.22.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendices. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
 
