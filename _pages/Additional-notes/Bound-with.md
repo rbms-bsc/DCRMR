@@ -43,7 +43,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 2. The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
 
-3. The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+3. The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
 
 4. The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
@@ -64,7 +64,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>University of Chicago Library's copy is bound with 12 other titles on American history</CITE>
 
-<a name="9.45.3.4">9.45.3.4</a> *Optionally*, catalogers may record an [Authorized access point for item](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3a6ddd4-9a32-3185-bdf8-b767e44489a2){:target="_blank"} for the related item in addition to the note.
+<a name="9.45.3.4">9.45.3.4</a> *Optionally*, catalogers may record a [RDA Toolkit: Authorized access point for item](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3a6ddd4-9a32-3185-bdf8-b767e44489a2){:target="_blank"} for the related item in addition to the note.
 
 ---
 

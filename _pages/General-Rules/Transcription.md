@@ -43,7 +43,7 @@ Chapter 8: Series
 
 DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). 
 
-If nonnormalized transcription is considered important, follow [RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+If nonnormalized transcription is considered important, follow [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
@@ -107,7 +107,7 @@ Make an explanatory note.
 
 ### 0.4.21 General rule
 
-<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"} in the RDA Toolkit, with the following exceptions. 
+<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [RDA Toolkit: Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"}, with the following exceptions. 
 
 For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and v](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v) ([0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)).
 
