@@ -135,7 +135,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 >Example:  
 ><CITE>by Sir William Dugdale knt. Garter Principal King of Arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>
 
-<a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other works given equal prominence with the title of the first work, treat as two or more works named on the preferred source of information (see Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
+<a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other works given equal prominence with the title of the first work, treat as two or more works named on the preferred source of information (see [Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
 ## 2.21.39 Other statements
 
