@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.23.1.2">5.23.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.23.2 RDA Definition and scope
+## 5.23.2 RDA definition and scope
 
 <a name="5.23.2.1">5.23.2.1</a> A timespan during which a published manifestation is published, released, or issued.
 
@@ -106,7 +106,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-*Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)).
+*Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)).
 
 >Example:  
 ><CITE>1703 [that is, 1730]</CITE>
@@ -114,7 +114,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Octr. 42 [that is, 24], 1799</CITE>
 
-<a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -222,7 +222,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 |[between 1600 and 1700] |century certain|
 |[between 1600 and 1700?] |probable century|
 
-## 5.23.35 Date of publication multipart monographs
+## 5.23.35 Date of publication in multipart monographs
 
 <a name="5.23.35.1">5.23.35.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of publication of the volume, part, or fascicle published first and the date of publication of the volume, part, or fascicle published last, and connect them with a hyphen.
 

@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.35.1.2">5.35.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.35.2 RDA Definition and scope
+## 5.35.2 RDA definition and scope
 
 <a name="5.35.2.1">5.35.2.1</a> A timespan associated with a claim of protection under copyright or a similar regime.
 

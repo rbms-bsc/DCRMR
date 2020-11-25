@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.33.1.2">5.33.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.33.2 RDA Definition and scope
+## 5.33.2 RDA definition and scope
 
 <a name="5.33.2.1">5.33.2.1</a> A timespan during which a published manifestation is printed, duplicated, cast, etc.
 
@@ -55,9 +55,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.3)).
 
-*Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)).
+*Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)).
 
-<a name="5.33.352.5">5.33.352.5</a> **Julian/Old Style dates**. If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [5.34.36.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="5.33.352.5">5.33.352.5</a> **Julian/Old Style dates**. If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [5.34.36.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -98,7 +98,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 |[between 1600 and 1700] |century certain|
 |[between 1600 and 1700?] |probable century|
 
-### 5.33.355 Date of manufacture multipart monographs
+### 5.33.355 Date of manufacture in multipart monographs
 
 <a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of manufacture of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
 

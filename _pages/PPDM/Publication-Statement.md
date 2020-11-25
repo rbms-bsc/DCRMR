@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.2.1.2">5.2.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.2.2 RDA Definition and scope
+## 5.2.2 RDA definition and scope
 
 <a name="5.2.2.1">5.2.2.1</a> A statement that identifies a place of publication, a publisher, or a date of publication of a published manifestation.
 
@@ -100,7 +100,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
->(*Comment*: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility)
+>(*Comment*: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility relating to title proper)
 >
 >but
 >
@@ -132,7 +132,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.2.36 Transcribing dates of publication as part of the publication statement
 
-<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).
+<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Dates-of-publication/) as they appear on the source of information (see the guidelines for [Transcription](/DCRMR/general-rules/Transcription/)).
 
 ---
 

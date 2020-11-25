@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.27.1.2">5.27.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.27.2 RDA Definition and scope
+## 5.27.2 RDA definition and scope
 
 <a name="5.27.2.1">5.27.2.1</a> A nomen that is a name of an agent who is responsible for distributing a published manifestation.
 
@@ -68,7 +68,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.27.33.1">5.27.33.1</a> If the name of distributor is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.3)).
 
-<a name="5.27.33.2">5.27.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.3)).
+<a name="5.27.33.2">5.27.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, preceded by “that is,” if known. Give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.33.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.3)).
 
 ## 5.27.34 Two or more names of distributors
 

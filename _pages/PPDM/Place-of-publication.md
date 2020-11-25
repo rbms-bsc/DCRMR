@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.21.1.2">5.21.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.21.2 RDA Definition and scope
+## 5.21.2 RDA definition and scope
 
 <a name="5.21.2.1">5.21.2.1</a> A place that is associated with the publication, release, or issuing of a published manifestation.
 
@@ -156,11 +156,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.21.36.1">5.21.36.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.2)).
 
+<a name="5.21.36.2">5.21.36.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3))
+
 >Example:  
 >Place of publication: <CITE>Londres [that is, Paris]</CITE>  
 >Note on publication statement: <CITE>Actual place of publication from: Weller, E.O.  Falsche Druckorte</CITE>
-
-<a name="5.21.36.2">5.21.36.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3))
 
 <a name="5.21.36.3">5.21.36.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
 
@@ -172,7 +172,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Place of publication: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
 >Note on publication statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.21.37.2">5.21.37.2</a> If the name of the place of publication has changed over time, supply the place name appropriate to the [Date of publication](/DCRMR/ppdm/Date-of-publication/) if known (e.g., Leningrad, not Saint Petersburg, for works resources in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
+<a name="5.21.37.2">5.21.37.2</a> If the name of the place of publication has changed over time, supply the place name appropriate to the [Date of publication](/DCRMR/ppdm/Date-of-publication/) if known (e.g., Leningrad, not Saint Petersburg, for resources published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by “that is,” in the language of the cataloging agency. 
 
 >Example:  
 ><CITE>[Christiania, that is, Oslo]</CITE>
@@ -186,7 +186,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>[Paris]</CITE>  
->(*Comment*: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+>(*Comment*: Imprint reads: “à l’enseigne de l’Éléphant,” the trade sign of a Parisian printer)
 
 >Example:  
 ><CITE>[London]</CITE>  
@@ -231,7 +231,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.21.39 Place names in more than one language or script
 
-<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place of publication that appears first. Transcribe the remaining statement(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)). 
+<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe place that appears first. Transcribe the remaining places(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)). 
 
 ---
 

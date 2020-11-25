@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.31.1.2">5.31.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.31.2 RDA Definition and scope
+## 5.31.2 RDA definition and scope
 
 <a name="5.31.2.1">5.31.2.1</a> A place that is associated with the printing, duplicating, casting, etc., of a published manifestation.
 
@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.31.3.2">5.31.3.2</a> Transcribe the place of manufacture as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
-## 5.31.31 Places of manufacture with initial prepositions, etc.
+## 5.31.31 Place of manufacture with initial prepositions, etc.
 
 <a name="5.31.31.1">5.31.31.1</a> Include in the transcription any prepositions appearing before the place of manufacture as well as any accompanying words or phrases associated with the place name.
 
@@ -113,7 +113,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.31.39 Place names in more than one language or script
 
-<a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
+<a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
 ---
 

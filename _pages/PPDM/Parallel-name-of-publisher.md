@@ -21,11 +21,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.225.1.2">5.225.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.225.2 RDA Definition and scope
+## 5.225.2 RDA definition and scope
 
 <a name="5.225.2.1">5.225.2.1</a> A nomen that is a name of publisher in another language or script.
 
-## 5.225.31 Publisher statements in more than one language or script
+## 5.225.31 Publisher names in more than one language or script
 
 <a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement, 5.24.34.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.1)).
 

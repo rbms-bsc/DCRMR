@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.36.1.2">5.36.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
-## 5.36.2 RDA Definition and scope
+## 5.36.2 RDA definition and scope
 
 <a name="5.36.2.1">5.36.2.1</a> A note on manifestation that provides information on a copyright date.
 

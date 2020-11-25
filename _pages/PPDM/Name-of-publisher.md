@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.22.1.2">5.22.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.22.2 RDA Definition and scope
+## 5.22.2 RDA definition and scope
 
 <a name="5.22.2.1">5.22.2.1</a> A nomen that is a name of an agent who is responsible for publishing a manifestation.
 
@@ -83,7 +83,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.22.32.1">5.22.32.1</a> If only the address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
 >Example:  
->Publication statement: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
+>Name of publisher: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
 >Note on publication statement: <CITE>Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square</CITE>
 
 >Example:  
@@ -106,7 +106,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.22.33.1">5.22.33.1</a> If the name of publisher is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory note. If the actual details are known, or can be reasonably surmised, supply the correction and its basis in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.3)).
 
-<a name="5.22.33.2">5.22.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known. Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.3)).
+<a name="5.22.33.2">5.22.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, if known, preceded by “that is". Give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.33.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.3)).
 
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  

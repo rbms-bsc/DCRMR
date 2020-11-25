@@ -21,11 +21,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.325.1.2">5.325.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.325.2 RDA Definition and scope
+## 5.325.2 RDA definition and scope
 
 <a name="5.325.2.1">5.325.2.1</a> A nomen that is a name of manufacturer in another language or script.
 
-## 5.325.31 Manufacturer statements in more than one language or script
+## 5.325.31 Manufacturer names in more than one language or script
 
 <a name="5.325.31.1">5.325.31.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) on parallel manufacturers’ names found elsewhere if considered important for identification (see [Note on manufacture statement, 5.34.34.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.1)).
 

@@ -21,13 +21,13 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.215.1.2">5.215.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.215.2 RDA Definition and scope
+## 5.215.2 RDA definition and scope
 
 <a name="5.215.2.1">5.215.2.1</a> A place of publication in another language or script.
 
 ## 5.215.31 Publication place names in more than one language or script
 
-<a name="5.215.31.1">5.215.31.1</a> If the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [Place of publication](/DCRMR/ppdm/Place-of-publication/) element.  If this criterion does not apply, transcribe the [Place of publication](/DCRMR/ppdm/Place-of-publication/) that appears first.
+<a name="5.215.31.1">5.215.31.1</a> If the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as a [Place of publication](/DCRMR/ppdm/Place-of-publication/) element.  If this criterion does not apply, transcribe the [Place of publication](/DCRMR/ppdm/Place-of-publication/) that appears first.
 
 <a name="5.215.31.2">5.215.31.2</a> Transcribe remaining [Places of publication](/DCRMR/ppdm/Place-of-publication/) as parallel places of publication.  If a parallel place of publication is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important for identification (see [Note on publication statement, 5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 

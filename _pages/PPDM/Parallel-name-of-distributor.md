@@ -21,11 +21,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.275.1.2">5.275.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.275.2 RDA Definition and scope
+## 5.275.2 RDA definition and scope
 
 <a name="5.275.2.1">5.275.2.1</a> A nomen that is a name of distributor in another language or script.
 
-## 5.275.31 Distributor statements in more than one language or script
+## 5.275.31 Distributor names in more than one language or script
 
 <a name="5.275.31.1">5.275.31.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important for identification (see [Note on distribution statement, 5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
 

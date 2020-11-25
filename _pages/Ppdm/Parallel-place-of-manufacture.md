@@ -19,7 +19,7 @@ sidebar:
 
 <a name="5.315.1.2">5.315.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.315.2 RDA Definition and scope
+## 5.315.2 RDA definition and scope
 
 <a name="5.315.2.1">5.315.2.1</a> A place of manufacture in another language or script.
 

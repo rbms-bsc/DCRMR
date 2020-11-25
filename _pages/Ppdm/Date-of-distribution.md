@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.28.1.2">5.28.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.28.2 RDA Definition and scope
+## 5.28.2 RDA definition and scope
 
 <a name="5.28.2.1">5.28.2.1</a> A timespan during which a published manifestation is distributed.
 
@@ -62,13 +62,13 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)).
 
-*Optionally*, supply the actual date in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
+*Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
 
 >Example:  
 >Date of distribution: <CITE>1689 [that is, 1690]</CITE>  
 >Note on distribution statement: <CITE>"Given at our Court at Dublin-Castle the 28th day of March 1690"</CITE>
 
-<a name="5.28.31.5">5.28.31.5</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year in square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [5.285.36.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="5.28.31.5">5.28.31.5</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [5.285.36.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -129,7 +129,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 |[between 1600 and 1700] |century certain|
 |[between 1600 and 1700?] |probable century|
 
-## 5.28.35 Date of distribution multipart monographs
+## 5.28.35 Date of distribution in multipart monographs
 
 <a name="5.28.35.1">5.28.35.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of distribution of the volume, part, or fascicle published first and the date of distribution of the volume, part, or fascicle published last, and connect them with a hyphen.
 

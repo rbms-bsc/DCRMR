@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.26.1.2">5.26.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.26.2 RDA Definition and scope
+## 5.26.2 RDA definition and scope
 
 <a name="5.26.2.1">5.26.2.1</a> A place that is associated with the distribution of a published manifestation.
 
@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Saskatoon, Saskatchewan, Canada</CITE>
 
-## 5.26.31 Places of distribution with initial prepositions, etc.
+## 5.26.31 Place of distribution with initial prepositions, etc.
 
 <a name="5.26.31.1">5.26.31.1</a> Include in the transcription any prepositions appearing before the place of distribution as well as any accompanying words or phrases associated with the place name.
 
@@ -231,7 +231,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 
 ---
 

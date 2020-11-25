@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.26.1.2">5.26.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.25.2 RDA Definition and scope
+## 5.25.2 RDA definition and scope
 
 <a name="5.25.2.1">5.25.2.1</a> A statement that identifies a place of distribution, a distributor, or a date of distribution of a published manifestation.
 
@@ -43,7 +43,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.25.33.1">5.25.33.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
-## 5.25.34 Statements relating to publication, distribution, etc. and to manufacture
+## 5.25.34 Statements relating to publication and to distribution or manufacture
 
 <a name="5.25.34.1">5.25.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
