@@ -37,7 +37,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ## 2.29.33 Attributions
 
-<a name="2.29.33.1">2.29.33.1</a> If a statement of responsibility for a person or corporate body connected with the resources does not appear in the manifestation, and an attribution is available, give the information in a note on statement of responsibility if considered important. Include the authority for the attribution whenever possible.
+<a name="2.29.33.1">2.29.33.1</a> If a statement of responsibility for a person or corporate body connected with the resource does not appear in the manifestation, and an attribution is available, give the information in a note on statement of responsibility if considered important. Include the authority for the attribution whenever possible.
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution if considered important. Give the authority for the information whenever possible.
 
