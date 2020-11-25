@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.29.1.2">5.29.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
-## 5.29.2 RDA Definition and scope
+## 5.29.2 RDA definition and scope
 
 <a name="5.29.2.1">5.29.2.1</a> A statement that identifies a place of manufacture, a manufacturer, or a date of manufacture of a published manifestation.
 

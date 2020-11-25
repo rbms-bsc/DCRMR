@@ -16,7 +16,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.01.1.1">5.01.1.1</a> The sources of information for the production, publication, distribution and manufacture elements are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/introduction/#i018-integrity-of-the-copy)), in that order of preference. Consider the wording, layout, and typography of the manifestation itself when determining the most appropriate place to transcribe information relating to production,  publication, distribution and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement.  However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
 
-<a name="5.01.1.2">5.01.1.2</a> If any part of the production, publication, distribution, or manufacture elements are taken from a source other than the preferred source of information, make a note to indicate the source (see [Note on publication statement, 5.24.31.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.1); [Note on distribution statement, 5.285.31.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.1); and [Note on manufacture statement, 5.34.31.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.1)).
+<a name="5.01.1.2">5.01.1.2</a> If any part of the production, publication, distribution, or manufacture elements is taken from a source other than the preferred source of information, make a note to indicate the source (see [Note on publication statement, 5.24.31.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.1); [Note on distribution statement, 5.285.31.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.1); and [Note on manufacture statement, 5.34.31.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.1)).
 
 <a name="5.01.1.3">5.01.1.3</a> Make a note about information not transcribed in the statement if considered important (see [Note on publication statement, 5.24.31.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.2); [Note on distribution statement, 5.285.31.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.2); [Note on manufacture statement, 5.34.31.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.2)).
 
@@ -38,21 +38,21 @@ Note: only the elements related to publication are explicated below. The same or
 
 <a name="5.01.3.1">5.01.3.1</a> Transcribe production, publication, distribution, or manufacture elements as they appear on the preferred source of information, unless instructed otherwise by specific rules, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
-<a name="5.01.3.2">5.01.3.2</a> If statements belonging to different elements appear out of order, or as part of another area, and they are grammatically separable, transpose them as needed. Make a note indicating the original position of the transposed elements (see [Note on publication statement, 5.24.31.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.3); [Note on distribution statement, 5.285.31.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.3); [Note on manufacture statement, 5.34.31.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.3)). 
+<a name="5.01.3.2">5.01.3.2</a> If statements belonging to different elements appear out of order, or as part of another element, and they are grammatically separable, transpose them as needed. Make a note indicating the original position of the transposed elements (see [Note on publication statement, 5.24.31.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.3); [Note on distribution statement, 5.285.31.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.3); [Note on manufacture statement, 5.34.31.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.3)). 
 
 >Example:  
 >Distribution statement: <CITE>Huddersfield [England] : Printed and sold by Brook and Lancashire <CITE>
 
 >Example:  
->Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>
->Note on Distribution Statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
+>Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
+>Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
 
 <a name="5.01.3.3">5.01.3.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/general-rules/Transcription/)).
 
 >Example:  
->Distribution statement: <CITE> London: printed and published by C. Lowndes, No. 66, Drury-Lane; and sold by H.D. Symonds, Paternoster Row, 1800</CITE>
+>Publication statement: <CITE> London : printed and published by C. Lowndes, No. 66, Drury-Lane; and sold by H.D. Symonds, Paternoster Row, 1800</CITE>
 
->Example:
+>Example:  
 >Distribution statement: <CITE>[Bristol] : sold by Lasbury, Bristol</CITE>
 
 
