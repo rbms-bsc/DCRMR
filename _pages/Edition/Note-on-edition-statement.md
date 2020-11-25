@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>    
 >Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>  
->(*Comment*: Example follows alternative rule to a create a separate bibliographic description for an individual impression or state.)
+>(*Comment*: Example follows alternative rule to create a separate bibliographic description for an individual impression or state.)
 
 <a name="3.26.31.2">3.26.31.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.21.3.2](/DCRMR/edition/Edition-statement/#3.21.3.2), [3.22.36.1](/DCRMR/edition/Designation-of-edition/#3.22.36.1), [3.255.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.255.3.4), [3.23.32.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.3), [3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3), [3.235.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.4), [3.24.31.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.2), and [3.25.31.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.31.3)).
 
