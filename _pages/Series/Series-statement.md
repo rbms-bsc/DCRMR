@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>American poets profile series ; 1</CITE>  
-><CITE>Thunder City Press poetry series ; number 19</CITE>
+><CITE>Thunder City Press poetry series ; number 19</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ---
