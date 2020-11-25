@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment comment about errata on the [Preface errata page](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit#heading=h.y9anqsiyq3ic){:target="_blank"}.
+Please comment about errata on the [Preface errata page](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit#heading=h.y9anqsiyq3ic){:target="_blank"}.
 
 ---
 
