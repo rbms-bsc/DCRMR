@@ -41,7 +41,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, make a note on statement of responsibility stating the true or most generally accepted attribution if considered important. Give the authority for the information whenever possible.
 
-<a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
+<a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it if considered important.
 
 ## 2.29.34 Ambiguous statements of responsibility
 

@@ -571,7 +571,7 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 <a name="0.4.62.1">0.4.62.1</a> Indicate a conjectural interpolation by adding a question mark immediately after the interpolation, within the square brackets. Supply a question mark enclosed in square brackets for each indeterminable word or portion of word.
 
-Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text, if considered important.
+Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text if considered important.
 
 >Example:  
 ><CITE>Amico[rum?]</CITE>  
