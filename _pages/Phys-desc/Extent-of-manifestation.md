@@ -198,7 +198,7 @@ If it is not practical to record all the sequences (e.g., if they are exceedingl
 > Example:  
 > <CITE>77, [3] pages, [50] leaves of plates (in various foliations)</CITE> 
 
-3.	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
+&#51;.	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
 
 If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
 

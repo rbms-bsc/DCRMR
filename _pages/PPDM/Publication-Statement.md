@@ -132,7 +132,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.2.36 Transcribing dates of publication as part of the publication statement
 
-<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Dates-of-publication/) as they appear on the source of information (see the guidelines for [Transcription](/DCRMR/general-rules/Transcription/)).
+<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Dates-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).
 
 ---
 

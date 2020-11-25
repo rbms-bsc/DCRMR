@@ -49,7 +49,8 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.34.33 Note on name of manufacturer
 
-<a name="5.34.33.1">5.34.33.1</a> If only the address, sign, or initials of the manufacturer appear in lieu of the name and the manufacturer’s name can be identified, supply the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) in a note on manufacture statement (if it has not been supplied in the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/); see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
+<a name="5.34.33.1">5.34.33.1</a> Make a note if only the address, sign, or initials of the manufacturer appear in lieu of the name, the manufacturer’s name can be identified and supplied as [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
+
 
 <a name="5.34.33.2">5.34.33.2</a> As necessary, make a note on manufacture statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
 

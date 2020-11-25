@@ -78,7 +78,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.285.33 Note on name of distributor
 
-<a name="5.285.33.1">5.285.33.1</a> If only the address, sign, or initials of the distributor appear in lieu of the name and the distributor’s name can be identified, supply the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) in a note on distribution statement (if it has not been supplied in the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/); see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
+<a name="5.285.33.1">5.285.33.1</a> Make a note if only the address, sign, or initials of the distributor appear in lieu of the name, the distributors’ name can be identified and supplied as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
 
 <a name="5.285.33.2">5.285.33.2</a> As necessary, make a note on distribution statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is based on a device (see [5.27.32.2](/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)).
 
