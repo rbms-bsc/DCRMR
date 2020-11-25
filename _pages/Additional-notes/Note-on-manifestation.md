@@ -115,9 +115,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as note on manifestation. Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
 
-# 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
-
----
+## 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
 
 <a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2)).
 
@@ -125,15 +123,11 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.3.36.3">9.3.36.3</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
 
-# 9.3.37 Note on imperfect exemplars
-
----
+## 9.3.37 Note on imperfect exemplars
 
 <a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 
-# 9.3.38 Accompanying material
-
----
+## 9.3.38 Accompanying material
 
 <a name="9.3.38.1">9.3.38.1</a> If accompanying material including illustrative content is not issued in a pocket attached to a manifestation, specify the location in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.31.31.2](/DCRMR/additional-notes/Note-on-manifestation/#9.31.31.2)).
 

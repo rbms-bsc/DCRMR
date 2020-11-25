@@ -25,8 +25,6 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.33.2.1">9.33.2.1</a> An indication of the kinds of expression that supplement the main expressions that are embodied by an augmentation aggregate.
 
-<a name="9.33.2.2">9.33.2.2</a> Supplementary content includes an index, a bibliography, an appendix, etc.
-
 ## 9.33.3 General rule
 
 <a name="9.33.3.1">9.33.3.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.

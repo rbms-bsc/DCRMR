@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.41.3.1">9.41.3.1</a> For general rules on constructing item-specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-<a name="9.41.3.2">9.41.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation, 6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1); illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
+<a name="9.41.3.2">9.41.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) ([6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1)); illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 
 >Example:  
 ><CITE>Folger copy on vellum; illustrations and part of borders hand colored; with illuminated initials; rubricated in red and blue</CITE>
