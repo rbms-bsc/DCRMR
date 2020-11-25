@@ -25,7 +25,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.21.2.1">1.21.2.1</a> A nomen that is a title of manifestation that is selected for preference in a specific application or context.
 
-<a name="1.21.2.2">1.21.2.2</a> An [alternative title](https://beta.rdatoolkit.org/en-US_rdaregistry.info-termList-RDATerms-1005){:target="_blank"} is treated as part of a title proper.
+<a name="1.21.2.2">1.21.2.2</a> A [RDA Toolkit: alternative title](https://beta.rdatoolkit.org/en-US_rdaregistry.info-termList-RDATerms-1005){:target="_blank"} is treated as part of a title proper.
 
 ## 1.21.31 Words considered part of the title proper
 
@@ -84,7 +84,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Le premier-[quart] volume de l'histoire et cronique de messire Iehan Froissart</CITE>  
->(*Comment*: Sources of information read:  
+>(*Sources of information read*:  
 >Le premier volume de l'histoire et cronique de messire Iehan Froissart  
 >Le second volume de l'histoire et cronique de messire Iehan Froissart  
 >Le tiers volume de l'histoire et cronique de messire Iehan Froissart  
@@ -132,7 +132,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ### 1.21.371 Two or more expressions named on the preferred source of information
 
-<a name="1.21.371.1">1.21.371.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
+<a name="1.21.371.1">1.21.371.1</a> **By same person or body**. If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title)), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. Separate the titles by a space-semicolon-space if the works are all by the same person(s) or body (bodies), even if the titles are linked by a connecting word or phrase.
 
 >Example:  
 ><CITE>Les Akanças : prologue mélo-dramatique, en un acte et en prose ; suivi Des Espagnols dans la Floride : pantomime en trois actes et à spectacle</CITE>
@@ -184,7 +184,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.385 Two or more works with separate publication, distribution, etc., statements on a single sheet
 
-<a name="1.21.385.1">1.21.385.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Bound with, 9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and include a note indicating that they were “possibly intended to be separated.”
+<a name="1.21.385.1">1.21.385.1</a> If there are two or more works printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each work that was intended to be issued separately. Include a formal “With” note in each record indicating that the works were printed on a single sheet and that they were “intended to be separated” (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1). If there are two or more works printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and include a note indicating that they were “possibly intended to be separated.”
 
 ## 1.21.39 Access points for title proper
 

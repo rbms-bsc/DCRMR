@@ -118,7 +118,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ### 1.25.3555 Title proper with non-standard orthography (optional)
 
-<a name="1.25.3555.1">1.25.3555.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [0.4.72.3](](/DCRMR/general-rules/Transcription/#0.4.72.3)).
+<a name="1.25.3555.1">1.25.3555.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [0.4.72.3](/DCRMR/general-rules/Transcription/#0.4.72.3)).
 
 ### 1.25.356 Title proper with approximated letters (required)
 
