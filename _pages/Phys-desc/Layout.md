@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.28.1.2">6.28.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
-## 6.28.2 RDA Definition and scope
+## 6.28.2 RDA definition and scope
 
 <a name="6.28.2.1">6.28.2.1</a> An arrangement of text, images, tactile notation, etc., in a manifestation.
 

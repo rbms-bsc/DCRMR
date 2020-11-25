@@ -23,9 +23,9 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.23.2 RDA definition and scope
 
-<a name="6.23.2.1">6.23.2.1</a> An indication of the presence of color, tone, etc., embodied by a manifestation.
+<a name="6.23.2.1">6.23.2.1</a> An indication of the presence of colour, tone, etc., embodied by a manifestation.
 
-<a name="6.23.2.2">6.23.2.2</a> Black, white, single color shades of black, single color tints of white, and single color tones of gray are considered to be single colors.
+<a name="6.23.2.2">6.23.2.2</a> Black, white, single colour shades of black, single colour tints of white, and single colour tones of gray are considered to be single colours. Colour content applies to an expression with a content type of "cartographic image", "cartographic moving image", "cartographic three-dimensional form", "notated movement", "notated music", "performed movement", "still image", "text", "three-dimensional moving image", "three-dimensional form", or "two-dimensional moving image".
 
 ## 6.23.21 DCRMR elaboration of scope
 
@@ -41,7 +41,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ### 6.23.213 Hand coloring in printed resources
 
-<a name="6.23.213.1">6.23.213.1</a> “Hand colored” material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
+<a name="6.23.213.1">6.23.213.1</a> Hand-colored material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
 <a name="6.23.213.2">6.23.213.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 

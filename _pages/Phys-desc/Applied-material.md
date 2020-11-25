@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.26.1.2">6.26.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
-## 6.26.2 RDA Definition and scope
+## 6.26.2 RDA definition and scope
 
 <a name="6.26.2.1">6.26.2.1</a> A physical or chemical substance applied to a base material of a manifestation.
 

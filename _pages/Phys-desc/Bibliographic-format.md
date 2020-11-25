@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.29.1.2">6.29.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
-## 6.29.2 RDA Definition and scope
+## 6.29.2 RDA definition and scope
 
 <a name="6.29.2.1">6.29.2.1</a> A proportional relationship between a whole sheet in a printed or manuscript resource, and the individual leaves that result if that sheet is left full, cut, or folded.
 

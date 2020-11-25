@@ -29,15 +29,15 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.24.3 General rule
 
-<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the copy in hand) in centimeters, using the metric symbol *cm*. Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol *mm*. 
+<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the exemplar in hand) in centimeters, using the metric symbol *cm*. Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol *mm*. 
 
 >Example:  
 > <CITE>18 cm</CITE>  
-> (*Comment*: A publication measuring 17.1 centimeters in height)
+> (*Comment*: A manifestation measuring 17.1 centimeters in height)
  
 >Example:  
 > <CITE>99 mm</CITE>  
-> (*Comment*: A publication measuring between 98 and 99 millimeters in height).
+> (*Comment*: A manifestation measuring between 98 and 99 millimeters in height).
 
 <a name="6.24.3.2">6.24.3.2</a> If one of the measurements would normally be given in millimeters and one in centimeters, record both measurements in millimeters.
 

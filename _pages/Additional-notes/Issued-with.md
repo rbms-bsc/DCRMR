@@ -21,7 +21,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.34.1.2">9.34.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
-## 9.34.2 RDA Definition and scope
+## 9.34.2 RDA definition and scope
 
 <a name="9.34.2.1">9.34.2.1</a> A manifestation that is issued on the same carrier as a manifestation being described.
 

@@ -23,7 +23,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.235.2 RDA definition and scope
 
-<a name="6.235.2.1">6.235.2.1</a> Details of the presence of color, tone, etc., embodied by a manifestation.
+<a name="6.235.2.1">6.235.2.1</a> Details of the presence of colour, tone, etc., embodied by a manifestation.
 
 ## 6.235.3 General rule
 
@@ -54,7 +54,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 <a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), make a note to indicate that the resource was hand colored before distribution (see [6.23.213.4](/DCRMR/phys-desc/Color-content/#6.23.213.4)). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
->Details of color content: <CITE>With hand colored wood engravings, as issued</CITE>  
+>Details of color content: <CITE>With hand-colored wood engravings, as issued</CITE>  
 >Color content: <CITE>hand colored</CITE>   
 >(*Comment*: Title contains statement “with brightly-colored pictures”)
 
@@ -70,9 +70,9 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>"Price 1s. colored, 6d. Uncolored."--Following imprint</CITE>
 
-<a name="6.235.33.3">6.235.33.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one exemplar of manifestation is representative of the coloring scheme for all exemplars of manifestation. 
+<a name="6.235.33.3">6.235.33.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one exemplar of the manifestation is representative of the coloring scheme for all exemplars. 
 
-<a name="6.235.33.4">6.235.33.4</a> Record details of color for a hand colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="6.235.33.4">6.235.33.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 ## 6.235.35 Base material
 
