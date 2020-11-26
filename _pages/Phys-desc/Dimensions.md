@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.24.3 General rule
 
-<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the exemplar in hand) in centimeters, using the metric symbol *cm*. Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol *mm*. 
+<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the exemplar in hand) in centimeters, using the metric symbol "cm". Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol "mm". 
 
 >Example:  
 > <CITE>18 cm</CITE>  

@@ -116,7 +116,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ><CITE>British Library copy: In a late seventeenth-century English gold-tooled red goatskin binding with the coat of arms of George III added later to the front board</CITE>
 
 >Example:  
-><CITE>Binding: contemporary quarter calf over marbled boards</CITE>
+><CITE>Binding: contemporary quarter-calf over marbled boards</CITE>
 
 >Example:  
 ><CITE>Bound in vellum from a 16th century notarial document</CITE>

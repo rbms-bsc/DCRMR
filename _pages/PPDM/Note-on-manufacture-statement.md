@@ -83,7 +83,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.34.36.2">5.34.36.2</a> When following the option for very long dates in [5.33.352.3](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.3) make a note on manufacture statement concerning the source and the original form of the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) (see [5.33.352.3](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.3)).
 
-<a name="5.34.36.3">5.34.36.3</a> Make a on manufacture statement if the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect by supplying the actual date (see [5.33.352.4](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.4)).
+<a name="5.34.36.3">5.34.36.3</a> Make a note on manufacture statement if the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) is known to be fictitious or incorrect by supplying the actual date (see [5.33.352.4](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.4)).
 
 <a name="5.34.36.4">5.34.36.4</a> When following the option in [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1), make a note on manufacture statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of manufacture, 5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
 

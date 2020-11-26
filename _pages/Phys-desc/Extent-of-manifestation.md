@@ -191,14 +191,14 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 If it is not practical to record all the sequences (e.g., if they are exceedingly numerous), then employ one of the following methods: 
 
-1.	Record the total number of pages, leaves, or columns followed by “in various pagings,”  “in various foliations,” or “in various numberings.”  
+a)	Record the total number of pages, leaves, or columns followed by “in various pagings,”  “in various foliations,” or “in various numberings.”  
 
-2.	Record the number of pages, leaves, or columns in the main sequence and the total number of the remaining variously numbered or unnumbered sequences.  
+b)	Record the number of pages, leaves, or columns in the main sequence and the total number of the remaining variously numbered or unnumbered sequences.  
 
 > Example:  
 > <CITE>77, [3] pages, [50] leaves of plates (in various foliations)</CITE> 
 
-&#51;.	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
+c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
 
 If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.3.45](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.3.45)).
 
