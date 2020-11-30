@@ -1,4 +1,6 @@
-User-Agent: *
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Googlebot-Image
 Disallow: 
 
 Sitemap: https://rbms-bsc.github.io/DCRMR/sitemap.xml
