@@ -18,31 +18,31 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.01.2 Element order
 
-<a name="3.01.2.1">3.01.2.1</a> General element order, punctuated according to ISBD:
+<a name="3.01.2.1">3.01.2.1</a> General element order, punctuated and capitalized according to ISBD:
 
->Designation of edition, Designation of named revision of edition  / Statement of responsibility relating to edition
+>Designation of edition, designation of named revision of edition  / statement of responsibility relating to edition
 
 <a name="3.01.2.2">3.01.2.2</a> Parallel designation of edition and parallel designation of named revision of edition are transcribed in the order in which they appear on the preferred source of information.
 
->Designation of edition, Designation of named revision of edition = Parallel designation of edition, Parallel designation of named revision of edition
+>Designation of edition, designation of named revision of edition = Parallel designation of edition, parallel designation of named revision of edition
 
->Designation of edition = Parallel designation of edition, Designation of named revision of edition = Parallel designation of named revision of edition
+>Designation of edition = Parallel designation of edition, designation of named revision of edition = parallel designation of named revision of edition
 
 <a name="3.01.2.3">3.01.2.3</a> Transcribe the statement of responsibility relating to edition after the Designation of edition.
 
->Designation of edition / Statement of responsibility relating to edition
+>Designation of edition / statement of responsibility relating to edition
 
 <a name="3.01.2.4">3.01.2.4</a> Transcribe the statement of responsibility relating to named revision of edition following the statement relating to the revision.
 
->Designation of named revision of edition / Statement of responsibility relating to named revision of edition
+>Designation of named revision of edition / statement of responsibility relating to named revision of edition
 
 <a name="3.01.2.5">3.01.2.5</a> If the manifestation has parallel edition statements but a statement of responsibility relating to the edition in only one language or script, transcribe the statement of responsibility after all the edition statements.
 
->Designation of edition, Designation of named revision of edition = Parallel designation of edition, Parallel designation of named revision of edition / Statement of responsibility relating to edition
+>Designation of edition, designation of named revision of edition = Parallel designation of edition, parallel designation of named revision of edition / statement of responsibility relating to edition
 
 <a name="3.01.2.6">3.01.2.6</a> If the manifestation has parallel edition statements and statements of responsibility relating to the edition or to named revisions of editions in more than one language or script, transcribe each statement of responsibility after each edition statement to which it relates.
 
->Designation of edition, Designation of named revision of edition / Statement of responsibility relating to edition = Parallel designation of edition, Parallel designation of named revision of edition / Parallel statement of responsibility relating to edition
+>Designation of edition, designation of named revision of edition / statement of responsibility relating to edition = Parallel designation of edition, parallel designation of named revision of edition / parallel statement of responsibility relating to edition
 
 ## 3.01.3 Form and order of information
 

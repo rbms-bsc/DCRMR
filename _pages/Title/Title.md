@@ -17,25 +17,25 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.01.2 Element order
 
-<a name="1.01.2.1">1.01.2.1</a> General element order of title and statement of responsibility elements, punctuated according to ISBD:
+<a name="1.01.2.1">1.01.2.1</a> General element order of title and statement of responsibility elements, punctuated and capitalized according to ISBD:
 
->Title proper : Other title information / Statement of responsibility relating to title proper
+>Title proper : other title information / statement of responsibility relating to title proper
 
 <a name="1.01.2.2">1.01.2.2</a> Parallel title proper and parallel other title information are transcribed in the order in which they appear on the preferred source of information.
 
->Title proper = Parallel title proper : Other title information = Parallel other title information
+>Title proper = Parallel title proper : other title information = parallel other title information
 
->Title proper : Other title information = Parallel title proper : Parallel other title information
+>Title proper : other title information = Parallel title proper : parallel other title information
 
 <a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the statement of responsibility after all the title information.
 
->Title proper = Parallel title proper : Other title information  = Parallel other title information / Statement of responsibility relating to title proper
+>Title proper = Parallel title proper : other title information = parallel other title information / statement of responsibility relating to title proper
 
->Title proper : Other title information = Parallel title proper : Parallel other title information / Statement of responsibility relating to title proper
+>Title proper : other title information = Parallel title proper : parallel other title information / statement of responsibility relating to title proper
 
 <a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title proper, or other title information to which it relates. 
 
->Title proper : Other title information / Statement of responsibility relating to title proper = Parallel title proper : Parallel other title information / Parallel statement of responsibility relating to title proper
+>Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
 <a name="1.01.2.5">1.01.2.5</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 

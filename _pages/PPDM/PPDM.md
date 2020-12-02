@@ -26,7 +26,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 Note: only the elements related to publication are explicated below. The same order applies to elements related to distribution and manufacture.
 
-<a name="5.01.2.1">5.01.2.1</a> General element order, punctuated according to ISBD:
+<a name="5.01.2.1">5.01.2.1</a> General element order, punctuated and capitalized according to ISBD:
 
 >Place of publication : Name of publisher, Date of publication
 
