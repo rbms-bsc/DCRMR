@@ -39,7 +39,7 @@ Michelle Mascaro, Special Collections Cataloging & Metadata Unit Head, UC San Di
 
 Iris O’Brien, Early Printed Collections Cataloguing and Processing Manager, British Library
 
-Elizabeth M. O’Keefe, Formerly of the Morgan Library & Museum
+Elizabeth O’Keefe, Formerly of the Morgan Library & Museum
 
 # Keepers of the Text
 Amy Tims, Cataloging Initiatives Librarian, American Antiquarian Society

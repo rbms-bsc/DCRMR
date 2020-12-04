@@ -48,7 +48,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 >Title proper: <CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>
 
 >Example:  
->Title proper: <CITE>Old New York, or, Reminiscences of the past sixty years : </CITE>  
+>Title proper: <CITE>Old New York, or, Reminiscences of the past sixty years </CITE>  
 >Other title information: <CITE> being an enlarged and revised edition of the anniversary discourse delivered before the New York Historical Society … </CITE>  
 
 >Example:  
@@ -56,21 +56,21 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.21.33 Edition statements with grammatically inseparable information
 
-<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the [Designation of edition](/DCRMR/edition/Designation-of-edition) according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/) transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition), transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
+<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable from the [Designation of edition](/DCRMR/edition/Designation-of-edition) according to one or more of the conditions enumerated in [Title proper](/DCRMR/title/Title-proper/), transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition), transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
 
 >Example:  
 > <CITE>A new edition in two volumes</CITE>
 
 ## 3.21.34 Two or more works on the preferred source of information with at least one edition statement
 
-<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, transcribe each edition statement that is grammatically linked to another element (e.g., [Title proper](/DCRMR/title/Title-proper/), [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)) or any other transcribed element) within that element. Transcribe edition statements not grammatically linked to another element as individual statements. Indicate the work to which each edition statement corresponds in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.33.1](/DCRMR/edition/Note-on-edition-statement/#3.26.33.1)).
+<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, transcribe each edition statement that is grammatically linked to another element (e.g., [Title proper](/DCRMR/title/Title-proper/), [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), or any other transcribed element) within that element. Transcribe edition statements not grammatically linked to another element as individual statements. Indicate the work to which each edition statement corresponds in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.33.1](/DCRMR/edition/Note-on-edition-statement/#3.26.33.1)).
 
 >Example:  
 ><CITE>An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE>  
 
 ## 3.21.35 Edition statements relating to issues or parts
 
-<a name="3.21.35.1">3.21.35.1</a> If the manifestation consists of multiple issues or parts, including accompanying material, and there are edition statements relating to the whole as well as to parts, then record only the edition statements relating to the whole manifestation.
+<a name="3.21.35.1">3.21.35.1</a> If the manifestation consists of multiple issues or parts, including accompanying material, and there are edition statements relating to the whole as well as to parts, transcribe only the edition statements relating to the whole manifestation.
 
 <a name="3.21.35.2">3.21.35.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) relating to issues or parts if considered important (see [3.26.34.1](/DCRMR/edition/Note-on-edition-statement/#3.26.34.1)).
 

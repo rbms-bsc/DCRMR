@@ -753,7 +753,7 @@ Make an explanatory note.
 >Example:  
 >Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
 
-<a name="0.4.88.2">0.4.88.2</a> For dates of publication, distribution, and manufacture transcribe the date as it appears. If the date is not in arabic numerals, add the equivalent year in arabic numerals in square brackets.
+<a name="0.4.88.2">0.4.88.2</a> For dates of publication, distribution, and manufacture, transcribe the date as it appears. If the date is not in arabic numerals, add the equivalent year in arabic numerals in square brackets.
  
 See the instructions for specific types of dates as follows:
 * For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [5.23.31](/DCRMR/ppdm/Date-of-publication/#52331-transcription-involving-adjustments-or-additions)
@@ -764,7 +764,7 @@ See the instructions for specific types of dates as follows:
 
 ### 0.4.92 Grammatical inseparability
 
-<a name="0.4.92.1">0.4.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by case ending, or its transposition or omission would disturb the grammatical construction of information.
+<a name="0.4.92.1">0.4.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by a case ending, or its transposition or omission would disturb the grammatical construction of information.
 
 >Example:  
 ><CITE>The posthumous works of Robert Hooke</CITE>
@@ -793,7 +793,7 @@ See the instructions for specific types of dates as follows:
 
 ### 0.4.94 Order and transposition
 
-<a name="0.4.94.05">0.4.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to Area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"} (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
+<a name="0.4.94.05">0.4.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"} (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
 
 * Title and statement of responsibility
 	* Title proper
@@ -841,7 +841,7 @@ case endings would be affected, or the grammatical construction of the informati
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.6">0.4.94.6</a>
-If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important for identification then make a note to indicate the placement.
+If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important, make a note to indicate the placement.
 
 >Example:  
 ><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill</CITE>  

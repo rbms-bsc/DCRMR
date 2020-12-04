@@ -4,7 +4,7 @@ This GitHub repository contains the Descriptive Cataloging of Rare Materials (RD
 
 DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right.
 
-The DCRMR is an RDA compliant DCRM manual aligned with the RDA element set intended to be an integrated and consolidated manual which will eventually include specific instructions for other rare materials forms (for example, music, serials, etc.).
+The DCRMR is an RDA-compliant DCRM manual aligned with the RDA element set intended to be an integrated and consolidated manual which will eventually include specific instructions for other rare materials forms (for example, music, serials, etc.).
 
 # Current Status
 
@@ -25,15 +25,3 @@ At the June 2013 ALA Annual Meeting in Chicago, the DCRM(B) RDA Revision Group a
 At, and after, the June 2014 ALA Annual Meeting in Las Vegas, the group determined that rather than a complete stand-alone version of DCRM for RDA, a task force could be formed to draft a more concise set of cataloging guidelines consisting of rules for rare materials cataloging only where deviation from RDA is necessary or where RDA requires elaboration. This approach is modeled on the Library of Congress-Program for Cooperative Cataloging Policy Statements. The task force was formally commissioned as the ACRL/RBMS Descriptive Cataloging of Rare Materials Task Force in 2014. In 2016, the task force decided to formally name their guidelines the RBMS Policy Statements (RBMS PS), in alignment with the naming conventions of other RDA policy statements.
 
 At ALA Annual 2017, the Descriptive Cataloging of Rare Materials Task Force submitted an initial draft of the RBMS Policy Statement to RDA and disbanded. The RBMS Bibliographic Standards Committee assumed the work of completing and publishing the RBMS PS. This corresponded with RDA Toolkit content being frozen while the text and toolkit underwent a major overhaul (RDA Toolkit Restructure and Redesign Project (3R Project)), putting the completion of the policy statements on holding until 3R was complete. A policy statement editorial group made up from a subset of Bibliographic Standards Committee members was formed in 2018.
-
-RBMS RDA Editorial Group Roster
-Elizabeth Hobart (co-editor), Penn State University
-Michelle Mascaro (co-editor), University of California, San Diego
-Amy Brown, Boston College
-kalan Knudson Davis, University of Minnesota
-Jessica Grzegorski, Newberry Library
-Francis Lapka, Yale University
-Deborah J. Leslie, Folger Shakespeare Library
-Iris O’Brien, British Library
-Elizabeth M. O’Keefe, Morgan Library & Museum (retired)
-Amy Tims, American Antiquarian Society

@@ -99,19 +99,19 @@ If a decision has been made to create a separate description for an individual i
 omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
 
 >Example:  
->Optional note on item: <CITE>Library's copy: "Fifth ten thousand"</CITE>
+>Note on item: <CITE>Library's copy: "Fifth ten thousand"</CITE>
  
 >Example:  
->Optional note on item: <CITE>Library's copy: Number "2" on t.p. indicates 2nd printing</CITE>
+>Note on item: <CITE>Library's copy: Number "2" on t.p. indicates 2nd printing</CITE>
 
 >Example:  
->Optional note on item: <CITE>Library's copy: "51st-100th"--T.p. verso</CITE>
+>Note on item: <CITE>Library's copy: "51st-100th"--T.p. verso</CITE>
 
 >Example:  
->Optional note on item: <CITE>Library's copy: "163-173 Tausend"</CITE>
+>Note on item: <CITE>Library's copy: "163-173 Tausend"</CITE>
 
 >Example:  
->Optional note on item: <CITE>Library's copy: Number line on t.p. verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"</CITE>
+>Note on item: <CITE>Library's copy: Number line on title page verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"</CITE>
  
 >Example:  
 >Optional note on item: <CITE>Library's copy: Publisher's code "B-O" on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>  
@@ -120,7 +120,7 @@ omit it from the transcription without using the mark of omission.  Record such 
 
 >Example:  
 >Designation of edition: <CITE>51st-100th</CITE>  
->Note on edition statement: <CITE>The words "51st-100th" taken from t.p. verso</CITE>
+>Note on edition statement: <CITE>The words "51st-100th" taken from title page verso</CITE>
 
 If identification of the substantially unchanged impression is based on a publisherʹs code or number line or on information found in a reference source, supply an
 appropriate statement in square brackets, as needed. Indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
