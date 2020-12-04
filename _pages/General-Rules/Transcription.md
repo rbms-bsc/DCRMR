@@ -203,7 +203,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 
 >Example:  
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
->(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement.)
+>(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
 <a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
 * [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
@@ -286,7 +286,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Example:  
 >Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
->(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved.)
+>(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved)
 
 <a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important for identification.
 
@@ -368,7 +368,7 @@ Do not supply marks of punctuation to indicate line breaks.
 
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
->(*Comment*: Quoted text is inside a speech balloon in a comic strip.)
+>(*Comment*: Quoted text is inside a speech balloon in a comic strip)
 
 ### 0.4.395 Speech balloons
 
@@ -376,7 +376,7 @@ Do not supply marks of punctuation to indicate line breaks.
 
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
->(*Comment*: Quoted text is inside a speech balloon in a comic strip.)
+>(*Comment*: Quoted text is inside a speech balloon in a comic strip)
 
 
 ## 0.4.4 Spacing
@@ -483,7 +483,7 @@ ET ITALIAE)
 
 >Example:  
 ><CITE>M. J.P. Rabaut</CITE>  
->(*Comment*: The first initial stands for Monsieur.)
+>(*Comment*: The first initial stands for Monsieur)
 
 >Example:  
 ><CITE>by D.L. M.A.</CITE>  
@@ -505,11 +505,11 @@ ET ITALIAE)
 
 >Example:  
 ><CITE>Printed for the Widow Swart ..., 1688</CITE>  
->(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
+>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
 
 >Example:  
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
->(*Comment*: The mark of omission has a space on only one side because it is at the end of an element.)
+>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
 
 <a name="0.4.51.3">0.4.51.3</a> *Exception*: instructions for some elements specify that certain omissions can be indicated by concisely summarizing the omitted text (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher, 5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
 
@@ -556,7 +556,7 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 >Example:  
 ><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  
->(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)).)
+>(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 ><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  
@@ -575,11 +575,11 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 ><CITE>Amico[rum?]</CITE>  
->(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png).)
+>(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png ))
 
 >Example:  
 ><CITE>Mr. [--ch?], Cornhill</CITE>  
->(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/).)
+>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/))
 
 >Example:  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
@@ -783,13 +783,13 @@ See the instructions for specific types of dates as follows:
 
 >Example:  
 ><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
->(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/).)
+>(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/))
 
 <a name="0.4.92.2">0.4.92.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
 
 >Example:  
 ><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
->(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility.)
+>(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility)
 
 ### 0.4.94 Order and transposition
 
@@ -837,7 +837,7 @@ case endings would be affected, or the grammatical construction of the informati
 >Example:  
 ><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes</CITE>  
 >Note on statement of responsibility: <CITE>Author’s name transposed from head of title</CITE>  
->(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes.)  
+>(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes)  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.6">0.4.94.6</a>

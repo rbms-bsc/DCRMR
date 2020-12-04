@@ -60,7 +60,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.2.335.1">5.2.335.1</a> If the resource bears only a statement relating to manufacture, or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a publication statement. 
 
 >Example:  
-><CITE>Edmonton : Jas. E. Richards, government printer, 1907`</CITE>
+><CITE>Edmonton : Jas. E. Richards, government printer, 1907</CITE>
 
 >Example:  
 ><CITE>A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764</CITE>

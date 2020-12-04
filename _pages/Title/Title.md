@@ -49,7 +49,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Title proper: <CITE>Prudence Palfrey</CITE>  
 >Statement of responsibility relating to title proper: <CITE>Thomas Bailey Aldrich</CITE>  
 >Note on title: <CITE>Author's name at head of title.</CITE>  
->(*Comment*: The [Statement of responsibility relating to the title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) appears before the [Title proper](/DCRMR/title/Title-proper/) on the title page.)
+>(*Comment*: The [Statement of responsibility relating to the title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) appears before the [Title proper](/DCRMR/title/Title-proper/) on the title page)
 
 ## Contents:
 {: .no_toc }

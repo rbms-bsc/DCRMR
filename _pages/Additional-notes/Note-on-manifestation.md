@@ -108,7 +108,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 ><CITE>"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso</CITE>
 
 >Example:  
-><CITE>"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon.</CITE>
+><CITE>"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon</CITE>
 
 >Example:  
 ><CITE>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."</CITE>

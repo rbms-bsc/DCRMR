@@ -106,7 +106,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.34.37.1">5.34.37.1</a> Make a note on manufacture statement for manufacture details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
-><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures.</CITE>
+><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures</CITE>
 
 ---
 

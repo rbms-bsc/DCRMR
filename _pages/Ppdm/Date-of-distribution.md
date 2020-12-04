@@ -102,7 +102,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 >Example:  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
->Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series.</CITE>
+>Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series</CITE>
 
 ## 5.28.33 Conjectural date of distribution
 

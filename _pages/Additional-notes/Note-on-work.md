@@ -34,7 +34,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation, unless apparent from the rest of the description (see also [RDA Toolkit: Adaptation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
 
 >Example:  
-><CITE>Author's adaptation of his Latin text.</CITE>
+><CITE>Author's adaptation of his Latin text</CITE>
 
 >Example:  
 ><CITE>Adaptation of: Breviarium monasticum</CITE>

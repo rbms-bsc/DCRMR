@@ -181,7 +181,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 ## 5.23.33 Conjectural date of publication
 

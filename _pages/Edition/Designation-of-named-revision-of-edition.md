@@ -49,7 +49,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:   
 >Designation of named revision of edition: <CITE> Fourth printing</CITE>  
 >Designation of edition: <CITE> First edition</CITE>  
->Note on edition statement: <CITE> The words "fourth printing" taken from the title page verso.</CITE>
+>Note on edition statement: <CITE> The words "fourth printing" taken from the title page verso</CITE>
 
 >Example:   
 >Designation of named revision of edition: <CITE> 1st-50th</CITE>  
@@ -70,7 +70,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 >Example:    
 >Designation of named revision of edition: <CITE>[1st printing]</CITE>  
->Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1".</CITE>
+>Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>
 
 ## 3.24.33 Designations of named revision of edition in more than one language or script
 

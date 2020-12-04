@@ -95,7 +95,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 >Example:  
 >Edition statement: <CITE>v. 1: The second edition</CITE>  
 >Edition statement: <CITE>v. 2: The first edition</CITE>  
->Note on edition statement: <CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition.</CITE>
+>Note on edition statement: <CITE>Vol. 1 issued as the second edition and vol. 2 issued as the first edition</CITE>
 
 <a name="3.21.37.2">3.21.37.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) indicating the absence of edition statements if considered important (see [3.26.36.1](/DCRMR/edition/Note-on-edition-statement/#3.26.36.1)).
 

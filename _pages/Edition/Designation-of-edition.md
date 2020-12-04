@@ -127,7 +127,7 @@ appropriate statement in square brackets, as needed. Indicate the basis for the 
 
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>  
->Note on Edition Statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"[2] .</CITE>
+>Note on Edition Statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"[2]</CITE>
 
 ## 3.22.36 Designations of edition in more than one language or script
 

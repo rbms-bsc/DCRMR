@@ -64,7 +64,7 @@ If describing an exemplar of a manifestation known to be imperfect, and details 
 
 >Example:  
 ><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</CITE>  
-Note on manifestation: <CITE>Title, edition statement, and imprint taken from printed wrapper.<CITE>  
+Note on manifestation: <CITE>Title, edition statement, and imprint taken from printed wrapper<CITE>  
 > (Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846)  
 > (*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Edition statement](/DCRMR/edition/Edition-statement/) and [Publication statement](/DCRMR/ppdm/Publication-statement/). The example is formatted according to ISBD for clarity)
 
@@ -150,7 +150,7 @@ For additional guidance on sources of information for individual elements, see i
 >Example:  
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
 >Note on title: <CITE>Title from Bartsch, 1001.339</CITE>   
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 <a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
 

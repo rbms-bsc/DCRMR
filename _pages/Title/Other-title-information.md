@@ -92,7 +92,7 @@ If the statement appears following the [Statement of responsibility relating to 
 <a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
 
 >Example:  
-><CITE>with occasional notes ; to which is added, an appendix ... ; the whole illustrated by a map of Egypt and part of Syria ....</CITE>
+><CITE>with occasional notes ; to which is added, an appendix ... ; the whole illustrated by a map of Egypt and part of Syria ...</CITE>
 
 ## 1.23.38 Other title information with grammatically inseparable elements
 

@@ -56,7 +56,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  
->(*Comment*: Full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross.)
+>(*Comment*: Full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross)
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 

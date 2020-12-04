@@ -37,7 +37,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
  
 >Example:  
 > <CITE>99 mm</CITE>  
-> (*Comment*: A manifestation measuring between 98 and 99 millimeters in height).
+> (*Comment*: A manifestation measuring between 98 and 99 millimeters in height)
 
 <a name="6.24.3.2">6.24.3.2</a> If one of the measurements would normally be given in millimeters and one in centimeters, record both measurements in millimeters.
 

@@ -51,9 +51,9 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
 >Note on statement of responsibility: <CITE>The statement "by John Whitehurst" appears on the title page after the edition statement</CITE>  
->(*Comment*: Statement of responsibility applies to all editions.)  
+>(*Comment*: Statement of responsibility applies to all editions)  
 >(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
-); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity.)
+); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity)
 
 ## 3.23.32 Phrases about notes, appendices, etc.
 

@@ -165,7 +165,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 >Example:  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  
 >Variant title of manifestation: <CITE>Scriptorum ecclesiasticorum historia literaria facili & perspicua methodo digesta</CITE>  
->(*Comment*: Additional access point provided for title of the second volume, which varies slightly from the [Title proper](/DCRMR/title/Title-proper) recorded from the first volume.)
+>(*Comment*: Additional access point provided for title of the second volume, which varies slightly from the [Title proper](/DCRMR/title/Title-proper) recorded from the first volume)
 
 ### 1.25.3595 Variant titles of a collection (optional)
 

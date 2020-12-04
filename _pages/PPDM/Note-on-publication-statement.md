@@ -35,11 +35,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 >Publication statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
->Note on publication statement: <CITE>Date follows place of publication in imprint.</CITE>
+>Note on publication statement: <CITE>Date follows place of publication in imprint</CITE>
 
 >Example:  
 >Publication statement: <CITE>Lugduni : Apud Seb. Gryphium, 1538</CITE>  
->Note on publication statement: <CITE>Place of publication follows publisher’s name on title page.</CITE>
+>Note on publication statement: <CITE>Place of publication follows publisher’s name on title page</CITE>
 
 >Example:  
 >Publication statement: <CITE>Sadopolis : Chez Justin Valcourt ... à l'enseigne de la Vertumalheureuse, an 0000 [that is, Brussels : Jules Gay, 1866]</CITE>  
@@ -79,7 +79,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  
->Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913`</CITE>
+>Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913</CITE>
 
 <a name="5.24.33.3">5.24.33.3</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1)).
 
@@ -170,7 +170,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
 >Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description.)
+>(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
 
 <a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, indicate the basis for the conjecture in a note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
@@ -189,7 +189,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 <a name="5.24.37.1">5.24.37.1</a> Make a note on publication statement for publication details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
-><CITE>No more published.</CITE>
+><CITE>No more published</CITE>
 
 ---
 

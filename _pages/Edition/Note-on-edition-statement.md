@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>    
 >Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>  
->(*Comment*: Example follows alternative rule to create a separate bibliographic description for an individual impression or state.)
+>(*Comment*: Example follows alternative rule to create a separate bibliographic description for an individual impression or state)
 
 <a name="3.26.31.2">3.26.31.2</a> Note the original position of any element that is transposed to another position in transcription (see [3.21.3.2](/DCRMR/edition/Edition-statement/#3.21.3.2), [3.22.36.1](/DCRMR/edition/Designation-of-edition/#3.22.36.1), [3.255.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.255.3.4), [3.23.32.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.3), [3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3), [3.235.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.4), [3.24.31.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.2), and [3.25.31.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.31.3)).
 
@@ -59,11 +59,11 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 <a name="3.26.33.1">3.26.33.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an [Edition statement](/DCRMR/edition/Edition-statement/) associated with it that is not grammatically linked to another element and has been transcribed as individual Edition statements, make a note on edition statement indicating the work to which each edition statement corresponds (see [3.21.34.1](/DCRMR/edition/Edition-statement/#3.21.34.1)).
 
 >Example:  
-> Note on edition statement: <CITE>4th edition of Winnipeg Manitoba street atlas, new edition of Manitoba back road atlas. </CITE>  
+> Note on edition statement: <CITE>4th edition of Winnipeg Manitoba street atlas, new edition of Manitoba back road atlas </CITE>  
 > Title proper: <CITE>Winnipeg & Manitoba street atlas ; Manitoba back road atlas</CITE>  
 > Edition statement (1st work): <CITE>4th edition</CITE>  
 >Edition statement (2nd work): <CITE>New edition, includes street atlas</CITE>  
->(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover.)  
+>(*Comment*:  Two works printed on inverted pages. No collective title page; individual titles transcribed from front and back cover)  
 
 ## 3.26.34 Edition statements relating to issues or parts
 
@@ -77,7 +77,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 > <CITE>Set made up of various editions: v. 1, 10th ed.; v. 3, 4th ed., corr.; v. 7, 3d ed., corr.; v. 9-11, 2d ed.</CITE>
 
 >Example:  
-> <CITE>Imprint varies: v. 4-5, Printed for Charles Bathurst and Lawton Gilliver; v. 7-8, Printed for T. Woodward and C. Davis; v. 9-11, Printed for C. Davis and C. Bathurst.</CITE>
+> <CITE>Imprint varies: v. 4-5, Printed for Charles Bathurst and Lawton Gilliver; v. 7-8, Printed for T. Woodward and C. Davis; v. 9-11, Printed for C. Davis and C. Bathurst</CITE>
 
 ## 3.26.36 Edition statements on multipart monographs
 

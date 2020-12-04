@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 >Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
->Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page.</CITE>
+>Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page</CITE>
 
 <a name="5.285.31.5">5.285.31.5</a> Make a note on distribution statement if any of the original details relating to the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.25.31.1](/DCRMR/ppdm/Distribution-statement/#5.25.31.1)).
 
@@ -120,7 +120,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 >Example:  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
->Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series.</CITE>
+>Note on distribution statement: <CITE>Corrected date from Corpus librorum emblematum, Jesuit series</CITE>
 
 <a name="5.285.36.73">5.285.36.73</a> When supplying a conjectural [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) based on any information available, indicate the basis for the conjecture in a note on distribution statement (see [5.28.33.1](/DCRMR/ppdm/Date-of-distribution/#5.28.33.1)).
 

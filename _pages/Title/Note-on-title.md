@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 <a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is a title page substitute, e.g., the caption title, docket title, etc. (see [1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)).
 
 >Example:  
-><CITE>Title from caption, page [3].</CITE>
+><CITE>Title from caption, page [3]</CITE>
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
