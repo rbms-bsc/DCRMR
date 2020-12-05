@@ -826,7 +826,7 @@ See the instructions for specific types of dates as follows:
 
 >Example:  
 ><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
->(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility)
+>(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
 
 ### 0.4.94 Order and transposition
 

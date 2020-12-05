@@ -101,7 +101,7 @@ If the statement appears following the [Statement of responsibility relating to 
 >Example:  
 >Title proper: <CITE>Constitutiones legitime seu legatine regionis Anglicane</CITE>  
 >Other title information: <CITE>cu[m] subtilissima interpretatione d[omi]ni Johannis de Athon</CITE>  
->(*Comment*: Statement of responsibility transcribed as part of other title information because of genitive case ending)
+>(*Comment*: Statement of responsibility relating to title proper transcribed as part of other title information because of genitive case ending)
 
 ---
 
