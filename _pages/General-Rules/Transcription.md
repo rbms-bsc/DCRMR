@@ -589,7 +589,7 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 >Example:
 ><CITE>Multo[rum]</CITE>  
->(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol.)
+>(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol)
 
 >Example:  
 ><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  

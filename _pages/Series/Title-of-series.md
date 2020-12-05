@@ -82,7 +82,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 >Example:    
 >Numbering within sequence: <CITE>Killaly chapbooks ; 2nd series, no. 6</CITE>    
->(*Comment*: Series is numbered; transcribed as part of the Numbering within sequence element)
+>(*Comment*: Series is numbered; transcribed as part of the [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) element)
 
 ---
 
