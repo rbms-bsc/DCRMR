@@ -35,4 +35,4 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.22 — Designation of edition")](DCRMR/edition/Designation-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.23 — Statement of responsibility relating to edition")](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "3.22 — Designation of edition")](/DCRMR/edition/Designation-of-edition/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "3.23 — Statement of responsibility relating to edition")](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/)

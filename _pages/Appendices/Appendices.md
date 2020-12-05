@@ -20,8 +20,6 @@ sidebar:
 
 [E — Variations requiring a new record](/DCRMR/appendices/Appendix-e/)
 
-[G — Early letterforms and symbols](/DCRMR/appendices/Appendix-g/)
-
 [H — Individual and special issues of serials](/DCRMR/appendices/Appendix-h/)
 
 [J — Abbreviations for Creators, Publishers, Printers, etc.](/DCRMR/appendices/Appendix-j/)
