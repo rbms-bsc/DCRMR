@@ -73,7 +73,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 |Early letterforms and symbols| | | | | |
 |---|---|---|---|---|
-|Early letterform/symbol|Letterform/symbol Transcription|Example|Example Transcription|Notes|
+|Source|Transcription|Example|Transcription of example|Notes|
 |![d](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_d.png "d") | d | ![dethe](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_dethe.png) "dethe") | dethe | |
 |![ij](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ij_1.png "ij") ![ij](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ij_2.png "ij") | ij | ![aliijs](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_alijs.png "alijs")  ![ooghelijck](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ooghelijck.png "ooghelijck") | alijs   ooghelijck | Ligatured italic **ij** may look like **ÿ** |
 |![k](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_k.png "k") | k | | |Typical in early French signatures|
@@ -93,7 +93,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 |Brevigraphs| | | | | |
 |---|---|---|---|---|
-|Brevigraphs|Brevigraph Transcription|Example|Example Transcription|Notes|
+|Source|Transcription|Example|Transcription of example|Notes|
 | ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "Co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | Co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
 | ![ae](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png "[ae]") | [ae] | ![h[ae]c](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png "h[ae]c") | h[ae]c |
 | ![Christus](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png "Christus")| [Christus] | | |A contraction using both Greek and Latin letters |
