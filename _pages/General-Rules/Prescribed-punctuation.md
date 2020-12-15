@@ -11,7 +11,7 @@ Please comment about errata on the [General rules errata page](https://docs.goog
 
 ## 0.2.01 General rule
 
-The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation:
+The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation. For more detailed instructions on punctuation for each ISBD area of description than those provided, see the Element order section of each chapter.
 
 <a name="0.2.01.1">0.2.01.1</a> Precede each mark of prescribed punctuation by a space and follow it by a space, with the following exceptions: the comma, period, closing parenthesis, and closing square bracket are not preceded by a space; the opening parenthesis and opening square bracket are not followed by a space.
 
@@ -43,7 +43,7 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 ## 0.2.6 Physical description
 
-<a name="0.2.6.1">0.2.6.1</a> Precede an illustration statement by a colon. Precede the dimensions by a semicolon. Enclose bibliographic format in parentheses. Precede a statement of accompanying material by a plus sign. Enclose physical details of accompanying material in parentheses.
+<a name="0.2.6.1">0.2.6.1</a> Precede information on illustrative content by a colon. Precede the dimensions by a semicolon. Enclose bibliographic format in parentheses. Precede a statement of accompanying material by a plus sign. Enclose physical details of accompanying material in parentheses.
 
 ## 0.2.8 Series
 

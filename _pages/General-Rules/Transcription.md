@@ -41,9 +41,7 @@ Chapter 8: Series
 
 <a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
-DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). 
-
-If nonnormalized transcription is considered important, follow [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Alternatively, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
@@ -122,7 +120,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 <a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if necessary.
 
-<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. Enclose each expansion or supplied word in its own set of square brackets.
+<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets. Enclose each expansion or supplied word in its own set of square brackets.
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
@@ -242,13 +240,6 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
-<a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
-* [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
-* [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
-* [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
-* [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0438-punctuation-substituting-for-letters) (see [0.4.38.1](/DCRMR/general-rules/Transcription/#0.4.38.1))
-* [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#04385-punctuation-indicating-an-abbreviation) (see [0.4.385.1](/DCRMR/general-rules/Transcription/#0.4.385.1))
-
 <a name="0.4.31.5">0.4.31.5</a> **Original punctuation**. **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#04355-square-brackets) (see [0.4.355.1](/DCRMR/general-rules/Transcription/#0.4.355.1))
@@ -262,6 +253,13 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 >Example:  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-street in the Strand., M,DCC,LI. [1751]</CITE>
+
+<a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
+* [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
+* [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
+* [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
+* [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0438-punctuation-substituting-for-letters) (see [0.4.38.1](/DCRMR/general-rules/Transcription/#0.4.38.1))
+* [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#04385-punctuation-indicating-an-abbreviation) (see [0.4.385.1](/DCRMR/general-rules/Transcription/#0.4.385.1))
 
 ### 0.4.32 Apostrophes
 
@@ -318,7 +316,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 ### 0.4.355 Square brackets
 
-<a name="0.4.355.1">0.4.355.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note if considered important for identification.
+<a name="0.4.355.1">0.4.355.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note if considered important.
 
 >Example:  
 >Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
@@ -406,15 +404,6 @@ Do not supply marks of punctuation to indicate line breaks.
 >Example:  
 ><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
 >(*Comment*: Quoted text is inside a speech balloon in a comic strip)
-
-### 0.4.395 Speech balloons
-
-<a name="0.4.395.1">0.4.395.1</a> Use quotation marks to represent speech balloons.
-
->Example:  
-><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
->(*Comment*: Quoted text is inside a speech balloon in a comic strip)
-
 
 ## 0.4.4 Spacing
 
@@ -695,7 +684,7 @@ Make an explanatory note.
 
 <a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
 
-<a name="0.4.72.4">0.4.72.4</a> *Optionally*, transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling.
+<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling.
 
 If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been printed or written correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
@@ -738,14 +727,9 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 
 <a name="0.4.82.1">0.4.82.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
-<a name="0.4.82.2">0.4.82.2</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets (see [0.4.16.1](/DCRMR/general-rules/Transcription/#0.4.16.1)). Make an explanatory note if considered important. If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
-
 >Example:  
 ><CITE>Henricus Dei gra[tia] Rex Anglie</CITE>  
 >(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
-
-<a name="0.4.82.3">0.4.82.3</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing
-conventions given in [Conjectural or indecipherable text](/DCRMR/general-rules/Transcription/#0462-conjectural-and-indecipherable-text) (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
 
 <a name="0.4.82.4">0.4.82.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
 
@@ -779,7 +763,7 @@ Make an explanatory note.
 
 ### 0.4.88 Numbers expressed as numerals or words
 
-<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable.
+<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important.
 
 >Example:  
 >Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
@@ -881,9 +865,9 @@ case endings would be affected, or the grammatical construction of the informati
 If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important, make a note to indicate the placement.
 
 >Example:  
-><CITE>The country twenty five miles round New York / drawn by a gentleman from that city ; J. Barber, sculp., Holborn Hill</CITE>  
->Note on statement of responsibility: <CITE>Engraver statement appears in bottom right corner of map</CITE>  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
+><CITE>Drinking electricity / Tom Raworth</CITE>  
+>Note on statement of responsibility: <CITE>Type-signed at end of poem: Tom Raworth</CITE>  
+>(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.7">0.4.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source if considered important for identification or selection.
 
