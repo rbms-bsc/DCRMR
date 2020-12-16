@@ -27,16 +27,8 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.24.3 General rule
 
-<a name="9.24.3.1">9.24.3.1</a> Make a note on the script of the expression if considered important.
-
-<a name="9.24.3.2">9.24.3.2</a> Always note the presence of nonroman script in the manifestation if it has been transcribed only in romanized form in the description (see [Language and script of the description, 0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)).
-
->Example:  
-><CITE>Church Slavic in Cyrillic script</CITE>
-
->Example:  
-><CITE>Title in Greek script</CITE>
+<a name="9.24.3.1">9.24.3.1</a> Record the script used in the expression if considered important.
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.23 — Language of expression")](/DCRMR/additional-notes/Language-of-expression/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.25 — Summarization of content")](/DCRMR/additional-notes/Summarization-of-content/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.23 — Language of expression")](/DCRMR/additional-notes/Language-of-expression/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.245 — Details of script")](/DCRMR/additional-notes/Details-of-script/)

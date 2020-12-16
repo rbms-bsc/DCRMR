@@ -51,6 +51,8 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 [9.24 — Script](/DCRMR/additional-notes/Script/)
 
+[9.245 — Details of script](/DCRMR/additional-notes/Details-of-script/)
+
 [9.25 — Summarization of content](/DCRMR/additional-notes/Summarization-of-content/)
 
 [9.3 — Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
