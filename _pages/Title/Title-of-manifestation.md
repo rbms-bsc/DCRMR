@@ -25,6 +25,10 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.2.2.1">1.2.2.1</a> A nomen that is an appellation of manifestation in natural language and phrasing used in common discourse.
 
+## 1.2.3 General rule
+
+<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+
 ## 1.2.31 Title information not appearing on title page
 
 <a name="1.2.31.1">1.2.31.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).

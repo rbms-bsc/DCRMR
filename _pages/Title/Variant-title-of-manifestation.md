@@ -150,6 +150,10 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.25.358.1">1.25.358.1</a> Provide additional title access for a title that is supplementary to, or a section of, another work when both titles, whether or not grammatically separable, are recorded together as the [Title proper](/DCRMR/title/Title-proper). If the supplement or section title is a title such as “Supplement” or “Chapter one,” however, and so is indistinctive and dependent for its meaning on the main title, generally do not provide additional access (see [1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
+### 1.25.3583 Title proper with numbers expressed as numerals or words (optional)
+
+<a name="1.25.3583.1">1.25.3583.1</a> If a number expressed as numerals or words occurs in the first five words of the title proper, provide additional title access with the numbers converted to numerals or words (see [0.4.88.1](/DCRMR/general-rules/Transcription/#0.4.88.1)).
+
 ### 1.25.3585 Phrases about notes, appendices, etc. (optional)
 
 <a name="1.25.3585.1">1.25.3585.1</a> Provide additional title access for phrases concerning notes, appendices, etc., if the phrase is distinctive and the additional access seems useful (see [1.23.36](/DCRMR/title/Other-title-information/#12336-phrases-about-notes-appendices-etc)).

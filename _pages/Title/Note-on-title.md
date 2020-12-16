@@ -21,8 +21,6 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 <a name="1.29.1.2">1.29.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
-<a name="1.29.1.3">1.29.1.3</a> Notes on title are required unless qualified by "if considered important."
-
 ## 1.29.2 RDA definition and scope
 
 <a name="1.29.2.1">1.29.2.1</a> A note on manifestation that provides information on inaccuracies appearing in titles, complex changes in titles, or on other information relating to a title.
@@ -48,11 +46,11 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.33 No title
 
-<a name="1.29.33.1">1.29.33.1</a> Make a note indicating whether the [Title proper](/DCRMR/title/Title-proper/) is taken from the opening words of the text or has been devised by the cataloger (see [Title proper, 1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)).
+<a name="1.29.33.1">1.29.33.1</a> Always make a note indicating whether the [Title proper](/DCRMR/title/Title-proper/) is taken from the opening words of the text or has been devised by the cataloger (see [Title proper, 1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)).
 
 ## 1.29.34 Title proper with supplementary or section designation or title
 
-<a name="1.29.34.1">1.29.34.1</a> Make a note indicating the original position on the title page of any transposed elements within a [Title proper](/DCRMR/title/Title-proper/) with supplementary or section designation of title (see [Title proper, 1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
+<a name="1.29.34.1">1.29.34.1</a> Always make a note indicating the original position on the title page of any transposed elements within a [Title proper](/DCRMR/title/Title-proper/) with supplementary or section designation of title (see [Title proper, 1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)).
 
 ## 1.29.35 Title proper of single-sheet manifestations
 
@@ -64,7 +62,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.29.36 Variations in title
 
-<a name="1.29.36.1">1.29.36.1</a> Make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) if considered important (see also [Variant title of manifestation, 1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)). 
+<a name="1.29.36.1">1.29.36.1</a> Always make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) if considered important (see also [Variant title of manifestation, 1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)). 
 
 >Example:  
 ><CITE>Title on added title page: La naturaleza descubierta en su modo de ensenar las lenguas a los hombres</CITE>

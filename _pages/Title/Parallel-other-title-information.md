@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 ## 1.235.3 General rule
 
-<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the order indicated by their sequence on, or by the layout of, the title page, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the order indicated by their sequence on, or by the layout of, the title page.
 
 >Example:  
 > [NEEDS EXAMPLE}
