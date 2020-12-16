@@ -323,7 +323,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
 >(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved)
 
-<a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important for identification.
+<a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
 >Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets</CITE>  
@@ -398,12 +398,6 @@ Do not supply marks of punctuation to indicate line breaks.
 
 >Example:  
 ><CITE>"Miss, I have a monstrous crow to pluck with you!!”</CITE>
-
-<a name="0.4.39.2">0.4.39.2</a> Do not supply quotation marks if not present in the source, except for the representation of speech balloons (see [0.4.395.1](/DCRMR/general-rules/Transcription/#0.4.395.1)).
-
->Example:  
-><CITE>Betty Boop. "Yes, sir, everything's ho-kee-doke, Betty's voice is normal again!"</CITE>  
->(*Comment*: Quoted text is inside a speech balloon in a comic strip)
 
 ## 0.4.4 Spacing
 
@@ -763,7 +757,7 @@ Make an explanatory note.
 
 ### 0.4.88 Numbers expressed as numerals or words
 
-<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important.
+<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important (see [1.25.3583.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3583.1)).
 
 >Example:  
 >Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
