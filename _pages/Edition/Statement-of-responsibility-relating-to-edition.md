@@ -46,7 +46,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 
 ## 3.23.31 Transposition of statements of responsibility not relating to edition
 
-<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transpose it to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) in all cases except when it clearly applies only to the edition being cataloged. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transpose it to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) in all cases except when it clearly applies only to the edition being cataloged. Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 >Example:  
 ><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
@@ -74,7 +74,7 @@ Please comment about errata on the [Chapter 3 errata page](https://docs.google.c
 > Designation of edition: <CITE>A new edition </CITE>  
 > Statement of responsibility relating to edition: <CITE>by Grace Webster, to which is added a life of the author</CITE>
 
-<a name="3.23.32.3">3.23.32.3</a> If such phrases have been transposed from a position preceding the [Designation of edition](/DCRMR/edition/Designation-of-edition/), provide details of the transposition in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+<a name="3.23.32.3">3.23.32.3</a> If such phrases have been transposed from a position preceding the [Designation of edition](/DCRMR/edition/Designation-of-edition/), always provide details of the transposition in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
 ## 3.23.33 Statements of responsibility relating to edition in more than one language or script
 
