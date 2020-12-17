@@ -48,7 +48,7 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 ## 2.21.315 Statements of responsibility relating to title proper on other sources
 
-<a name="2.21.315.1">2.21.315.1</a> If a statement of responsibility relating to title proper appears elsewhere in the manifestation than on the preferred source of information, or is taken from outside the manifestation, record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
+<a name="2.21.315.1">2.21.315.1</a> If a statement of responsibility relating to title proper appears elsewhere in the manifestation than on the preferred source of information, or is taken from outside the manifestation, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
 
 >Example:  
 ><CITE>Preface signed: Thomas Hopkins</CITE>  
@@ -70,14 +70,20 @@ Please comment about errata on the [Chapter 2 errata page](https://docs.google.c
 
 <a name="2.21.335.1">2.21.335.1</a> When a single statement of responsibility relating to title proper names more than one person or corporate body performing the same function or with the same degree of responsibility, transcribe all the names mentioned. 
 
+>Example:  
+><CITE>sketches written by Beatty Kingston, Robert Hichens, Elizabeth Robins Pennell, Colonel Newnham Davis, Mrs. Humphry (Madge of “Truth”), John Hollingshead, Horace Townsend (of the “Studio”), and others</CITE>  
+
+>Example:  
+><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni, L.D. Crespi, M. Dudovich, L. Dudreville, A. Mazza, E. Sacchetti, S. Tofano (Sto), R.C. Ventura</CITE>  
+
 <a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively, all after the third may be omitted. Indicate the omission by the mark of omission, and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission.
+
+>Example:  
+><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni [and 7 others]</CITE>  
 
 ## 2.21.34 Two or more statements of responsibility relating to title proper
 
 <a name="2.21.34.1">2.21.34.1</a> If there are two or more statements of responsibility relating to title proper, transcribe them in the order indicated by their sequence on, or by the layout of, the title page. If the sequence and layout are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
-
->Example:  
-><CITE>J.H. Esq. Matthew Hodson, Mr. Holled, Mr. Willis, Mr. Robinson, Mr. Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nath. Shaw</CITE>
 
 >Example:  
 ><CITE>diligentemente hecho por el noble Rey Don Alonso IX. ; glossado por el egregio doctor Alonso Diaz de Montaluo ; assi mesmo por vn sabio doctor de la Vniuersidad de Salamanca ; addicionado y concordado con las siete partidas, y leyes del Reyno, dando a cada ley la addicion que conuenia</CITE> 
