@@ -63,7 +63,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.21.34 Two or more works on the preferred source of information with at least one edition statement
 
-<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, do not transcribe as a [Designation of edition](/DCRMR/edition/Designation-of-edition/). Instead, transcribe each edition statement with the title or statement of responsibility to which it pertains.
+<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, do not transcribe as an edition statement. Instead, transcribe each edition statement with the title or statement of responsibility to which it pertains.
 
 >Example:  
 ><CITE>An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE>  
