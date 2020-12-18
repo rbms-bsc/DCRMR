@@ -33,7 +33,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.2.31 Information covered by labels, etc.
 
-<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
+<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
 
 >Example:  
 >Publication statement: <CITE>New York : Perris & Browne, publishers of insurance maps, no. 13, Chambers Street, [1861?]</CITE>  
@@ -132,7 +132,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.2.36 Transcribing dates of publication as part of the publication statement
 
-<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information. Apply the guidelines for transcription of [Words](/DCRMR/general-rules/Transcription/) and [Numbers](/DCRMR/general-rules/Transcription/).
+<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information (see [Transcription](/DCRMR/general-rules/Transcription/)).
 
 ---
 

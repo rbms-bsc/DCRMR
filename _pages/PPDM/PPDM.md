@@ -38,23 +38,21 @@ Note: only the elements related to publication are explicated below. The same or
 
 <a name="5.01.3.1">5.01.3.1</a> Transcribe production, publication, distribution, or manufacture elements as they appear on the preferred source of information, unless instructed otherwise by specific rules, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
-<a name="5.01.3.2">5.01.3.2</a> If statements belonging to different elements appear out of order, or as part of another element, and they are grammatically separable, transpose them as needed. Make a note indicating the original position of the transposed elements (see [Note on publication statement, 5.24.31.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.3); [Note on distribution statement, 5.285.31.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.3); [Note on manufacture statement, 5.34.31.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.3)). 
+<a name="5.01.3.2">5.01.3.2</a> If statements belonging to different elements appear out of order, or as part of another element, and they are grammatically separable, transpose them as needed. Always make a note indicating the original position of the transposed elements (see [Note on publication statement, 5.24.31.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.3); [Note on distribution statement, 5.285.31.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.3); [Note on manufacture statement, 5.34.31.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.3)). 
 
 >Example:  
->Distribution statement: <CITE>Huddersfield [England] : Printed and sold by Brook and Lancashire <CITE>
-
->Example:  
->Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
+>Distribution statement: <CITE> London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
 >Note on distribution statement: <CITE>Place of distribution, "London," is printed below distributor’s name on title page</CITE>
 
 <a name="5.01.3.3">5.01.3.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/general-rules/Transcription/)).
 
 >Example:  
->Publication statement: <CITE> London : printed and published by C. Lowndes, No. 66, Drury-Lane; and sold by H.D. Symonds, Paternoster Row, 1800</CITE>
+>Publication statement: <CITE> London : printed and published by C. Lowndes, No. 66, Drury-Lane; and sold by H.D. Symonds, Paternoster Row, 1800</CITE>  
+>(*Comment*: The distribution statement is not grammatically separable and therefore it has been transcribed as part of the publication statement. Example formatted with ISBD punctuation for clarity)  
 
 >Example:  
->Distribution statement: <CITE>[Bristol] : sold by Lasbury, Bristol</CITE>
-
+>Distribution statement: <CITE>[Bristol] : sold by Lasbury, Bristol</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## Contents:
 {: .no_toc }

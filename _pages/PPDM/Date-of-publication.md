@@ -38,7 +38,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>MDCCXXXIII [1733]</CITE>
 
-<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
+<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
 
 >Example:  
 ><CITE>Im Jahr Christi 1705</CITE>
@@ -49,7 +49,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:   
 ><CITE>anno 1593</CITE>
 
-<a name="5.23.3.3">5.23.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.
+<a name="5.23.3.3">5.23.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.  If the supplied date includes a day/month, use the sequence: day, month, year.
 
 >Example:  
 >Date of publication: <CITE>[August 12, 1804]</CITE>  
@@ -76,7 +76,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-*Optionally*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
+*Optionally*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. If following the option, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  
@@ -89,14 +89,16 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.23.31.3">5.23.31.3</a> **Very long dates**. If the date on the preferred source of information is very long, generally transcribe it as it appears.
 
-*Optionally*, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the note if considered important (see [Note on publication statement, 5.24.36.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.2)).
+*Optionally*, if the statement in the date of publication is very long, substitute for it a formalized statement in square brackets. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and form of the statement (see [5.24.36.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.2)).
 
 >Example:  
 >Date of publication: <CITE>[18 May 1507]</CITE>  
 >Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
 >(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
 
-<a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
+<a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and always supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
+
+*Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)).
 
 >Example:  
 >Date of publication: <CITE>1887 [that is, 1899]</CITE>  
@@ -106,15 +108,13 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-*Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)).
-
 >Example:  
 ><CITE>1703 [that is, 1730]</CITE>
 
 >Example:  
 ><CITE>Octr. 42 [that is, 24], 1799</CITE>
 
-<a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -148,7 +148,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 *Optionally*, if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 >Example:  
-><CITE>prid. Kal. Dec. [30 Nov.] 1488</CITE>  
+><CITE>prid. Kal. Dec. [30 November] 1488</CITE>  
 >(*Comment*: Day and month follow Roman-style calendar)  
 
 >Example:  
@@ -185,7 +185,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 5.23.33 Conjectural date of publication
 
-<a name="5.23.33.1">5.23.33.1</a> Supply in square brackets a conjectural date of publication based on any information available. Indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.73](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.73)).
+<a name="5.23.33.1">5.23.33.1</a> Supply in square brackets a conjectural date of publication based on any information available. Always indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.73](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.73)).
 
 <a name="5.23.33.2">5.23.33.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.36.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.36.1)).
 
@@ -213,7 +213,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 | [approximately 1580] |approximate date | 
 |[approximately 1580?] |probable approximate date|
 |[not before 1479] |terminal date|
-|[not after 21 Aug. 1492]	|terminal date|
+|[not after 21 August 1492]	|terminal date|
 |[1727 or 1728] |one year or the other|
 |[between 1711 and 1749] |span certain|
 |[between 1711 and 1749?] |span uncertain|
