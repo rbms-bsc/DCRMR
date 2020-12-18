@@ -25,6 +25,10 @@ sidebar:
 
 ## 5.315.31 Manufacture place names in more than one language or script
 
+<a name="5.315.31.1a">5.315.31.1a</a> Take parallel places of manufacture from the same source as the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) on parallel places of manufacture found elsewhere if considered important for identification (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
+
+<a name="5.315.31.1b">5.315.31.1b</a> Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position of the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
+
 <a name="5.315.31.1">5.315.31.1</a> If the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script, transcribe the place in the language or script of the title proper as a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) element.  If this criterion does not apply, transcribe the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) that appears first.
 
 <a name="5.315.31.2">5.315.31.2</a> Transcribe remaining [Places of manufacture](/DCRMR/ppdm/Place-of-manufacture/) as parallel places of manufacture. If a parallel place of manufacture is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important for identification (see [Note on manufacture statement, 5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).

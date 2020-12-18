@@ -35,7 +35,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>printed by S. Gosnell, Little Queen Street, Holborn</CITE>
 
-<a name="5.32.3.2">5.32.3.2</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of name of manufacturer.
+<a name="5.32.3.2">5.32.3.2</a> Transcribe the name of the manufacturer, together with any associated words or phrases, as it appears on the manifestation. In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of name of manufacturer.
 
 >Example:  
 ><CITE>Kidder and Wright, music compositors</CITE>
@@ -119,13 +119,11 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Printed by L. Nichols & Co., T. & J. Swords, E. Duyckinck [and 10 others]</CITE>
 
-<a name="5.32.34.3">5.32.34.3</a> If both the place and manufacturer associated with an earlier edition appear together with the place and manufacturer of the edition being described, transcribe each manufacturer with the place to which it corresponds.
-
 <a name="5.32.34.4">5.32.34.4</a> If both the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer associated with an earlier edition appear together with the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer of the edition being described, transcribe each manufacturer with the place to which it corresponds.
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
-<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.5)).
+<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the first or earliest part and always give the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.33.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.5)).
 
 ## 5.32.36 Supplied and conjectured names of manufacturers
 
@@ -147,7 +145,7 @@ If transcribing a manufacturer name as part of another element, do not abridge o
 
 ## 5.32.39 Name of manufacturer in more than one language or script 
 
-<a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
+<a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
 
 ---
 

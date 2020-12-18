@@ -91,7 +91,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.325 Supplied larger jurisdictions
 
-<a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. Use the abbreviations listed in [RDA Toolkit: Abbreviations for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
+<a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. 
+
+<a name="5.26.325.2">5.26.325.2</a> *Optionally*, use the abbreviations listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
 
 >Example:  
 ><CITE>Cambridge [England]</CITE>
@@ -139,7 +141,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.34 Places of distribution in multipart monographs
 
-<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, give the place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
+<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, always give the place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
 
 >Example:  
 >Place of distribution: <CITE>Stuttgart ; Tübingen</CITE>  
@@ -154,23 +156,21 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.36 Fictitious or incorrect places of distribution
 
-<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply a correction in square brackets. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
+<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply the correction and give its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
 
 >Example:  
 ><CITE>Londres [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of distribution from: Weller, E.O.  Falsche Druckorte</CITE>
 
-<a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, if known. Give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
-
-<a name="5.26.36.3">5.26.36.3</a> *Optionally*, if considered necessary for identification, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
+<a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, preceded by "that is," if known. Use a modern form of name in the langauge of the cataloging agency, and give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
 
 ## 5.26.37 No place of distribution
 
 <a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)).
 
 >Example:  
->Place of distribution: <CITE>[Cambridge, Mass.] : Printed by Samuel Green, 1668</CITE>  
->Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
+>Place of distribution: <CITE>[London]</CITE>  
+>Name of distributor: <CITE>sold by George Willis, 42, Charing Cross</CITE>
 
 <a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
 
@@ -182,11 +182,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.38 Place of distribution supplied based on address or sign
 
-<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
-
->Example:  
-><CITE>[Paris]</CITE>  
->(*Comment*: Imprint reads: “à l’enseigne de l’éléphant,” the trade sign of a Parisian printer)
+<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.X.X](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.X.X)).
 
 >Example:  
 ><CITE>[London]</CITE>  
@@ -219,7 +215,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>[South America?]</CITE>
 
-<a name="5.26.385.3">5.26.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
+<a name="5.26.385.3">5.26.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
 
 >Example:  
 >Note on distribution statement: <CITE>Place of distribution suggested by Alden</CITE>
@@ -231,7 +227,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 
 ---
 

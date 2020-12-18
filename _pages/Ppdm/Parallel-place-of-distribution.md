@@ -27,6 +27,10 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.265.31 Distribution place names in more than one language or script
 
+<a name="5.265.31.1a">5.265.31.1a</a> Take parallel places of distribution from the same source as the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) on parallel places of distribution found elsewhere if considered important for identification (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+
+<a name="5.265.31.1b">5.265.31.1b</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position of the source of any transposed statements (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)).
+
 <a name="5.265.31.1">5.265.31.1</a> If the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) element.  If this criterion does not apply, transcribe the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) that appears first.
 
 <a name="5.265.31.2">5.265.31.2</a> Transcribe any remaining [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) as parallel places of distribution. If a parallel place of distribution is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important for identification (see [Note on distribution statement, 5.285.36.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.1)).
