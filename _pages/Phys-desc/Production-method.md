@@ -32,9 +32,13 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 * etching
 * printing
 
-<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the list is appropriate, record a term found in a standard vocabulary, such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}. Indicate the source of the term.
-* wood engraving
-* intaglio printing 
+<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary are appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}), and indicate its source.
+
+>Example:  
+><CITE>Wood engraving</CITE>
+
+>Example:  
+><CITE>Intaglio printing</CITE>
 
 <a name="6.27.3.3">6.27.3.3</a> When multiple techniques or processes are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 

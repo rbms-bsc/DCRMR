@@ -29,30 +29,6 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.2.3">6.22.2.3</a> Tables containing only words and/or numerical data are excluded.
 
-## 6.22.21 DCRMR elaboration of scope
-
-### 6.22.211 Ornaments, etc.
-
-<a name="6.22.211.1">6.22.211.1</a> Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
-
-### 6.22.213 Illustrated title pages
-
-<a name="6.22.213.1">6.22.213.1</a> Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
-
-### 6.22.215 Graphic processes or techniques
-
-<a name="6.22.215.1">6.22.215.1</a> *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
-
-<a name="6.22.215.2">6.22.215.2</a> Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
-
-## 6.22.217 Color illustrations
-
-<a name="6.22.217.1">6.22.217.1</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)) for controlled terms for color content of illustrations.
-
-<a name="6.22.217.2">6.22.217.2</a> See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.3.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.3.1)) for fuller details on color content of illustrations.
-
-<a name="6.22.217.3">6.22.217.3</a> See [Color content](/DCRMR/phys-desc/Color-content/) ([6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)) for controlled terms for hand coloring.  See [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand-colored manifestations issued as such.  See [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)) for hand-colored manifestations not issued as such.
-
 ## 6.22.3 General rule
 
 <a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
@@ -63,7 +39,15 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 ><CITE>illustrations</CITE>
 
-<a name="6.22.3.2">6.22.3.2</a> *Optionally*, disregard minor illustrations. 
+<a name="6.22.3.2">6.22.3.2</a> *Optionally*, disregard minor illustrations.
+
+<a name="6.22.211.1">6.22.211.1</a> **Ornaments, etc.** Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
+
+<a name="6.22.213.1">6.22.213.1</a> **Illustrated title pages**. Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
+
+<a name="6.22.215.1">6.22.215.1</a> **Graphic processes or techniques**. *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
+
+Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
 
 ## 6.22.31 Types of illustrations 
 

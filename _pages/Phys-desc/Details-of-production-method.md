@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.275.3 General rule
 
-<a name="6.275.3.1">6.275.3.1</a> Record fuller details of the [Production method](/DCRMR/phys-desc/Production-method/) if considered important (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
+<a name="6.275.3.1">6.275.3.1</a> Always record fuller details of the [Production method](/DCRMR/phys-desc/Production-method/) if considered important (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
 
 >Example:  
 ><CITE>Woodcut head- and tail-pieces; woodcut factotum</CITE>

@@ -55,7 +55,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 > <CITE>27 cm</CITE>
 
-<a name="6.24.331.2">6.24.331.2</a> When the height of the text block differs by 3 centimeters or more from the height of the binding, specify both.
+<a name="6.24.331.2">6.24.331.2</a> When the height of the text block differs by 3 centimeters or more from the height of the binding and the binding was issued by the publisher, specify both. For descriptions of item-specific bindings, see [Bindings, 9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1).
 
 >Example:  
 > <CITE>text block 12 cm, in binding 20 cm</CITE>

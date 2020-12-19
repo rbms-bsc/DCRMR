@@ -28,21 +28,6 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 ## 6.29.3 General rule 
 
 <a name="6.29.3.1">6.29.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format also for machine-press publications. Record the format using one or more of the following terms from the [RDA Value Vocabularies: RDA Bibliographic Format](http://www.rdaregistry.info/termList/bookFormat/){:target="_blank"}. Use "full-sheet" for manifestations made up of unfolded sheets.
-+ full-sheet  
-+ folio  
-+ 4to  
-+ 8vo  
-+ 12mo  
-+ 16mo  
-+ 18mo  
-+ 24mo  
-+ 32mo  
-+ 36mo  
-+ 48mo  
-+ 64mo  
-+ 72mo  
-+ 96mo  
-+ 128mo  
 
 >Example:  
 ><CITE>4to</CITE>  

@@ -54,11 +54,15 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-<a name="6.225.3.5">6.225.3.5</a> Make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
+## 6.225.XX Illustrations in pockets and on endpapers 
+
+<a name="6.225.3.5">6.225.3.5</a> Always make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>  
+
+## 6.225.XX Illustrations on endpapers 
 
 <a name="6.225.3.6">6.225.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
 
@@ -68,8 +72,6 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 >Example:  
 >Details of illustrative content: <CITE>Photos of film's stars, Greer Garson and Clark Gable, appear on front and rear endpapers and dust jacket</CITE>
-
-<a name="6.225.3.7">6.225.3.7</a> For details of hand-colored illustrations, see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) ([6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) for hand-colored manifestations issued as such and [Note on item](/DCRMR/additional-notes/Note-on-item) ([9.4.25.1](/DCRMR/additional-notes/Note-on-item/#9.4.25.1)) for hand-colored manifestations not issued as such.
 
 ---
 

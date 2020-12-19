@@ -51,7 +51,7 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 ## 6.235.33 Details of hand coloring
 
-<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), make a note to indicate that the resource was hand colored before distribution (see [6.23.213.4](/DCRMR/phys-desc/Color-content/#6.23.213.4)). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
+<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.213.4](/DCRMR/phys-desc/Color-content/#6.23.213.4)). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
 
 >Example:  
 >Details of color content: <CITE>With hand-colored wood engravings, as issued</CITE>  
