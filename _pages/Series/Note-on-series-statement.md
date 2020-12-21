@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 ## 8.29.31 Note on series statement
 
-<a name="8.29.31.1">8.29.31.1</a> Note the source of any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the description, note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
+<a name="8.29.31.1">8.29.31.1</a> Always note the source of any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the description, note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
 
 >Example:    
 ><CITE>Series title from head of title page; subseries title from endpapers</CITE>  

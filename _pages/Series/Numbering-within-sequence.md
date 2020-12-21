@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 ## 8.27.31 Series numbering
 
-<a name="8.27.31.1">8.27.31.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
+<a name="8.27.31.1">8.27.31.1</a> If series numbering is present, transcribe it as the last element in the series statement. If the numbering does not appear in this order in the source, transpose it as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
 
 <a name="8.27.31.2">8.27.31.2</a> Transcribe the numbering as it appears in the manifestation. Do not use any abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
 

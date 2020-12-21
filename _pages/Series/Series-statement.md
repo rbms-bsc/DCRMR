@@ -27,6 +27,10 @@ Please comment about errata on the [Chapter 8 errata page](https://docs.google.c
 
 <a name="8.2.2.2">8.2.2.2</a> A series statement includes any or all of title of series, other title information of series, statement of responsibility relating to series, and numbering within sequence.
 
+## 8.2.3 General rule
+
+<a name="8.2.3.1">8.2.3.1</a> Transcribe the series statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+
 ## 8.2.31 More than one series statement
 
 <a name="8.2.31.1">8.2.31.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a manifestation, transcribe each statement separately.
