@@ -38,7 +38,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.2.32 Note on sequential expressions
 
-<a name="9.2.32.1">9.2.32.1</a> Make a note if the expression is part of a sequence of expressions, unless apparent from the rest of the description (see also [RDA Toolkit: Succeeded by expression](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-39372338-43ee-3168-a4e3-c695a37c63dc){:target="_blank"} and [RDA Toolkit: Preceded by expression](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-03ef2a9c-ee7e-3320-a20d-f884467f3eee){:target="_blank"}).
+<a name="9.2.32.1">9.2.32.1</a> Make a note if the expression is part of a sequence of expressions, unless apparent from the rest of the description (see also [RDA Toolkit: Sequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-b3e55e4e-76a1-3ec1-a838-80d787de3f18){:target="_blank"} and [RDA Toolkit: Prequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-dd208429-32ca-3fab-963c-70ab3f54c987){:target="_blank"}).
 
 >Example:  
 ><CITE>Preceded by: [Needs example]</CITE>

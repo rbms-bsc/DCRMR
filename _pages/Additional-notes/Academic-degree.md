@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.121.3 General rule
 
-<a name="9.121.3.1">9.121.3.1</a> Give the designation of the thesis (using the English word “thesis”), followed if possible by a brief statement of the degree for which the author was a candidate (e.g., “M.A.” or “Ph. D.,” or, for theses to which such abbreviations do not apply, “doctoral” or “master’s”).
+<a name="9.121.3.1">9.121.3.1</a> Give a brief statement of the degree for which the author was a candidate (e.g., “M.A.” or “Ph. D.,” or, for theses to which such abbreviations do not apply, “doctoral” or “master’s”), if known.
 
 >Example:  
 ><CITE>Thesis</CITE>

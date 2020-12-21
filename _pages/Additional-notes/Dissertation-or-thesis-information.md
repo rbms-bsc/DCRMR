@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.12.3.1">9.12.3.1</a> If the work being described is a dissertation or thesis presented in partial fulfillment of the requirements for an academic degree, record if known the [Academic degree](/DCRMR/additional-notes/Academic-degree/), [Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/), and [Year degree granted](/DCRMR/additional-notes/Year-degree-granted/). 
 
-<a name="9.12.3.2">9.12.3.2</a> If the work is a revision or abridgment of a thesis, state this.
+<a name="9.12.3.2">9.12.3.2</a> If the work is a revision or abridgment of a thesis, state this in a [Note on work](/DCRMR/additional-notes/Note-on-work/) (see [9.1.3.1](/DCRMR/additional-notes/Note-on-work/#9.1.3.1)).
 
 <a name="9.12.3.3">9.12.3.3</a> If the work lacks a formal thesis statement, a bibliographic history note may be made.
 

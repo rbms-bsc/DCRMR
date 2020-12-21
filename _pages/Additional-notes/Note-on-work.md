@@ -31,7 +31,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.1.31 Notes on adaptations
 
-<a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation, unless apparent from the rest of the description (see also [RDA Toolkit: Adaptation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
+<a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation of another work, unless apparent from the rest of the description (see also [RDA Toolkit: Adaptation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
 
 >Example:  
 ><CITE>Author's adaptation of his Latin text</CITE>
@@ -41,7 +41,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.1.32 Note on sequential works
 
-<a name="9.1.32.1">9.1.32.1</a> Make a note on the fact that the work is part of a sequence of works, unless apparent from the rest of the description (see also [RDA Toolkit: Succeeded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-948e6981-db86-3738-bc36-6650ff6330f1){:target="_blank"} and [RDA Toolkit: Preceded by work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-e9b23ff8-cfc6-3a5a-a9ef-8019a8aaf1f0){:target="_blank"}).
+<a name="9.1.32.1">9.1.32.1</a> Make a note on the fact that the work is part of a sequence of works, unless apparent from the rest of the description (see also [RDA Toolkit: Sequel work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-5c2e8808-1684-39d1-b097-27d59c633b80){:target="_blank"} and [RDA Toolkit: Prequel work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3c06f83-b065-3eab-a4db-c1db281fcbe0){:target="_blank"}).
 
 >Example:  
 ><CITE>Preceded by: [Needs example]</CITE>

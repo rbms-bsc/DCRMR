@@ -80,9 +80,9 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 ><CITE>Exhibited: "Illustrating the Imagination: Celebrating Children's Illustrators from the Cornish Colony and Today" at the Cornish Museum, Windsor, VT, 2009-2010</CITE>
 
-## 9.4.34 Specific items and copy numbers
+## 9.4.34 Copy numbers from limitation statements
 
-<a name="9.4.34.1">9.4.34.1</a> Record the names of persons or institutions associated with specific items, and copy numbers.  See [Note on manifestation, 9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements)) for recording limitation statements.
+<a name="9.4.34.1">9.4.34.1</a> For items with limitation statements which include a unique number of the item being cataloged, record the copy number as a note on item.  See [Note on manifestation, 9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements) for recording limitation statements.
 
 >Example:  
 ><CITE>LC has no. 20</CITE>

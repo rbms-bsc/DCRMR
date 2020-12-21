@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.33.3 General rule
 
-<a name="9.33.3.1">9.33.3.1</a>  List supplementary content (e.g., bibliographical references, an index, etc.), either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
+<a name="9.33.3.1">9.33.3.1</a>  List supplementary content, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
 
 >Example:  
 ><CITE>Includes bibliographical references (pages 43-58)</CITE>
@@ -56,7 +56,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.33.31 Errata leaves and slips
 
-<a name="9.33.31.1">9.33.31.1</a> Note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the manifestation if considered important.
+<a name="9.33.31.1">9.33.31.1</a> Always note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the manifestation if considered important.
 
 >Example:  
 ><CITE>Errata on last leaf</CITE>

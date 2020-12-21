@@ -46,7 +46,12 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 >Manifestation described in: <CITE>Blanck, J. Bibliography of American literature</CITE> 
 
-<a name="9.32.31.3">9.32.31.3</a> To note that a description of the manifestation being cataloged does not appear in a specific bibliographical reference source (see [Note on RDA entity, 9.05.3.1](/DCRMR/additional-notes/Note-on-RDA-entity/#9.05.3.1)).
+## 9.05.32 Absence of a description in a reference source
+
+<a name="9.05.32.1">9.05.32.1</a> Make a note to indicate that a description of the manifestation being cataloged does not appear in a specific reference source only if the manifestation fits the scope for that source and the source purports to be comprehensive for its scope. Preface the note with the words “Not in” and a colon. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
+
+>Example:  
+><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française. Cf. IV:2, 9093</CITE>
 
 ---
 

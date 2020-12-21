@@ -20,7 +20,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.01.3.1">9.01.3.1</a> If information in a note corresponds to information found in the title and statement of responsibility, edition, publication, distribution, etc., physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
 
-<a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; notes other than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules, and, generally, in the order in which they are listed here. If a particular note is of primary importance, it may be given first, regardless of its order in this list. When appropriate, combine two or more notes to make one note.
+<a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; notes other than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules. When appropriate, combine two or more notes to make one note.
 
 ## 9.01.4 General rule
 
@@ -29,6 +29,10 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 <a name="9.01.4.2">9.01.4.2</a> If the description in other manifestation elements does not clearly identify the resource being cataloged, make whatever notes are necessary for unambiguous identification. When appropriate, refer to detailed descriptions in standard catalogs or bibliographies. Provide sufficient information to identify the specific source, whether using a general note, a formal “References” note giving the source in prescribed form, or some combination of the two (see [Manifestation described in, 9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)).
 
 <a name="9.01.4.3">9.01.4.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from lists of controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat){:target="_blank"}) may also be used.
+
+## 9.01.5 Required notes
+
+<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on the source of the title proper, 1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2) and [Transposed statements of responsibility, 2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1).
 
 ## Contents:
 {: .no_toc }

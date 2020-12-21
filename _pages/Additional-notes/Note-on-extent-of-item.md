@@ -29,7 +29,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.43.3.1">9.43.3.1</a> For general rules on constructing item specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-<a name="9.43.3.2">9.43.3.2</a> Record item-specific imperfections that alter its extent if considered important (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
+<a name="9.43.3.2">9.43.3.2</a> Always record item-specific imperfections that alter its extent if considered important (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
 
 >Example:  
 ><CITE>Copy 1: Imperfect: leaves 12 and 13 (b6 and c1) wanting; without the last blank leaf (S8)</CITE>
