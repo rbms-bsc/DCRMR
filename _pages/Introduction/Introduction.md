@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Internal review errata
-
-Please comment about errata on the [Introduction errata page](https://docs.google.com/document/d/17-0bvv70S3LwYd8BZiG7odso6RRMXySXn4QvOemTgEk/edit?usp=sharing){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -117,6 +113,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 <a name="I.01.4.1">I.01.4.1</a> Available options are indicated in one of three ways. 
 
 * “**Alternative rule**” designates an alternative option which affects all or several elements of the description, and which must be used consistently throughout. In DCRMR, alternative rules apply to the transcription of original punctuation and to the creation of separate records for individual impressions, states, binding variants, or copies. 
+Alternative rules may be found at [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5), [0.4.72.4](/DCRMR/general-rules/Transcription/#0.4.72.4), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2), [3.24.32.3](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.3), [5.33.35](/DCRMR/ppdm/Date-of-manufacture/#53335-alternative-rules).
 * "*Optionally*" introduces an alternative treatment of an element. 
 * "If considered important" indicates that more information may be added in a note, and thus signals choices for more or less depth in the description. This phrase covers the entire range between best practice on the one end, and highly specialized practices on the other. 
 
@@ -124,7 +121,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ## I.01.5 Language preferences
 
-<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1](/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.1](/DCRMR/ppdm/Place-of-publication/#5.21.385.1), [Physical description](/DCRMR/phys-desc/), and [Additional notes](/DCRMR/additional-notes/)).
+<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1](/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.4](/DCRMR/ppdm/Place-of-publication/#5.21.385.4), [5.26.32.1](/DCRMR/ppdm/Place-of-distribution/#5.26.32.1)-[5.26.323.1](/DCRMR/ppdm/Place-of-distribution/#5.26.323.1), [5.26.35.1](/DCRMR/ppdm/Place-of-distribution/#5.26.35.1)-[5.26.381.4](/DCRMR/ppdm/Place-of-distribution/#5.26.381.4), [5.31.31.5](/DCRMR/ppdm/Place-of-manufacture/#5.31.31.5)-[5.31.323.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.323.1), [5.31.35.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.323.1)-[5.31.385.4](/DCRMR/ppdm/Place-of-manufacture/#5.31.385.4), [Physical description](/DCRMR/phys-desc/), and [Additional notes](/DCRMR/additional-notes/)).
 
 ## I.01.55 Spelling and style
 
@@ -175,7 +172,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ## I.01.8 Integrity of the copy
 
-<a name="I.01.8.1">I.01.8.1</a> **Defects and sophistication**. A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the copy in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information.
+<a name="I.01.8.1">I.01.8.1</a> **Defects and sophistication**. A greater vulnerability to damage, defect, and loss means that rare materials, especially older printed materials, are less likely than modern materials to be in a perfect or complete state when they reach the cataloger. One of the cataloger’s tasks is to ascertain (within reasonable constraints) whether and how much the copy in hand deviates from its original state as issued. Imperfections and defects are usually easy to spot. Harder to spot during casual examination are replacement leaves, plates, or sections from another exemplar of a manifestation, and the cataloger is not expected to verify the integrity of each leaf in a manifestation unless there is reason to suspect that the item in hand may have been made up, doctored, or falsified (“sophisticated”). Bibliographers’ and booksellers’ descriptions are the usual source of such information. For item-specific modifications see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2).
 
 <a name="I.01.8.2">I.01.8.2</a> **Dust jackets**. In the context of rare materials cataloging, dust jackets issued by the publisher are appropriately considered part of a resource, and are included in these instructions as preferred sources for edition, production, publication, distribution, manufacture, and series. Dust jackets often contain valuable information not found in any other source in the resource. Their easy detachability, however, coupled with their original function as protection for the binding only until it was safely in the hands of a reader, pose considerable difficulties for the rare materials cataloger. A fine dust jacket from a poor copy may have been exchanged with a poor dust jacket from a fine copy; the dust jacket of an original printing may end up on the exemplar of a later manifestation, and so on. When considering whether to transcribe information that appears only on a dust jacket, consider that the dust jacket was issued with the resource, unless there is reason to suspect otherwise.
 
