@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.24.3 General rule
 
-<a name="9.24.3.1a">9.24.3.1a</a> Record the script used in the expression if considered important.
+<a name="9.24.3.1">9.24.3.1</a> Record the script used in the expression if considered important.
 
 ---
 
