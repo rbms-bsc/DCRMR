@@ -32,7 +32,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.01.5 Required notes
 
-<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on the source of the title proper, 1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2) and [Transposed statements of responsibility, 2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1).
+<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on the source of the title proper, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1) and [Transposed statements of responsibility, 2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1).
 
 ## Contents:
 {: .no_toc }
