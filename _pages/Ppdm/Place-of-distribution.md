@@ -182,7 +182,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.38 Place of distribution supplied based on address or sign
 
-<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.X.X](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.X.X)).
+<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
 
 >Example:  
 ><CITE>[London]</CITE>  
@@ -227,7 +227,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 ---
 
