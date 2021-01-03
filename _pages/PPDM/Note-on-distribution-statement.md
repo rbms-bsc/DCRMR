@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 5 errata page](https://docs.google.com/document/d/14roAt0euvJ-x_AboSVoOcMhDLkXYSk35-btRO8xgKZI/edit#heading=h.119vbzwiu9jd){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -61,44 +59,44 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Place of distribution: <CITE>[Cambridge, Mass.]</CITE>  
 >Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.285.32.4a">5.285.32.4a</a> Make a note on distribution statement when supplying the pPlace of distribution based on a sign or address if necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/5.26.38.1)).
+<a name="5.285.32.5">5.285.32.5</a> Make a note on distribution statement when supplying the place of distribution based on a sign or address if necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/5.26.38.1)).
 
 >Example:  
 ><CITE>[London]</CITE>  
 >(*Comment*: Imprint reads: "sold in St. Paul's Church Yard")
 
-<a name="5.285.32.5/5.285.32.6">5.285.32.5/5.285.32.6</a> Make a note on distribution statement if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
+<a name="5.285.32.6">5.285.32.6</a> Make a note on distribution statement if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
 
 >Example:  
 >Place of distribution: <CITE>[Madrid]</CITE>  
 >Name of distributor: <CITE>Se hallarà en la lonja de papel de Andrès de Sotos, mas abaxo de la Porterìa de San Martin</CITE>  
 >Note on distribution: <CITE>La Porterìa de San Martin is in Madrid</CITE>
 
-<a name="5.285.32.6a">5.285.32.6a</a> Always make a note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script and the original position of elements was transposed (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
+<a name="5.285.32.7">5.285.32.7</a> Always make a note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script and the original position of elements was transposed (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
-## 5.285.35 Note on parallel place of distribution
+## 5.285.33 Note on parallel place of distribution
 
-<a name="5.285.35.1">5.285.35.1</a> Make a note on distribution statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution, 5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution, 5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
+<a name="5.285.33.1">5.285.33.1</a> Make a note on distribution statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution, 5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution, 5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
-## 5.285.33 Note on name of distributor
+## 5.285.34 Note on name of distributor
 
-<a name="5.285.33.1">5.285.33.1</a> If only the address, sign, or initials of the distributor appear in lieu of the name and the distributors’ name can be identified, always give this information in a note on distribution statement if it has not been supplied in [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
+<a name="5.285.34.1">5.285.34.1</a> If only the address, sign, or initials of the distributor appear in lieu of the name and the distributors’ name can be identified, always give this information in a note on distribution statement if it has not been supplied in [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
 
-<a name="5.285.33.2">5.285.33.2</a> As necessary, make a note on distribution statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is based on a device (see [5.27.32.2](/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)).
+<a name="5.285.34.2">5.285.34.2</a> As necessary, make a note on distribution statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is based on a device (see [5.27.32.2](/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)).
 
-<a name="5.285.33.3">5.285.33.3</a> Always make a note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
+<a name="5.285.34.3">5.285.34.3</a> Always make a note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
 
-<a name="5.285.33.3a">5.285.33.3a</a> When following the option at [5.27.33.2](/DCRMR/ppdm/Name-of-distributor/#5.27.33.2) make a note giving the basis for the correction or clarification (see [5.27.33.2](/DCRMR/ppdm/Name-of-distributor/#5.27.33.2)).
+<a name="5.285.34.4">5.285.34.4</a> When following the option at [5.27.33.2](/DCRMR/ppdm/Name-of-distributor/#5.27.33.2) make a note giving the basis for the correction or clarification (see [5.27.33.2](/DCRMR/ppdm/Name-of-distributor/#5.27.33.2)).
 
-<a name="5.285.33.4">5.285.33.4</a> If the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, always transcribe the distribution information on the later part(s) in a note on distribution statement (see [Name of distributor, 5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
+<a name="5.285.34.5">5.285.34.5</a> If the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, always transcribe the distribution information on the later part(s) in a note on distribution statement (see [Name of distributor, 5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
 
-<a name="5.285.33.5">5.285.33.5</a> Always make a note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a note on distribution statement (see [Name of distributor, 5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
+<a name="5.285.34.6">5.285.34.6</a> Always make a note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a note on distribution statement (see [Name of distributor, 5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
 
-<a name="5.285.34.2">5.285.34.2</a> Always make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
+<a name="5.285.34.7">5.285.34.7</a> Always make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
-## 5.285.34 Note on parallel name of distributor
+## 5.285.35A Note on parallel name of distributor
 
-<a name="5.285.34.1">5.285.34.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
+<a name="5.285.35A.1">5.285.35A.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
 
 ## 5.285.36 Note on date of distribution
 
