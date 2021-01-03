@@ -67,7 +67,7 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 ## 9.31.31 Issued in pocket
 
-<a name="9.31.31.1">9.31.31.1</a> If accompanying material is illustrative content and is issued in a pocket attached to a manifestation, always specify the location in [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/) (see [6.225.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.5)). 
+<a name="9.31.31.1">9.31.31.1</a> If accompanying material is illustrative content and is issued in a pocket attached to a manifestation, always specify the location in [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/) (see [6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)). 
 
 >Example:  
 > Accompanied by manifestation: <CITE>Accompanied by: 2 folded maps</CITE>  

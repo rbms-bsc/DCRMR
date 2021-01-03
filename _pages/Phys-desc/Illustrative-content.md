@@ -88,7 +88,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 ## 6.22.33 Illustrations in pockets and on endpapers
 
-<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation, 9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.3.5](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.5)).  
+<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation, 9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -96,7 +96,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 ## 6.22.335 Illustrations on endpapers
 
-<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.6)).  
+<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
