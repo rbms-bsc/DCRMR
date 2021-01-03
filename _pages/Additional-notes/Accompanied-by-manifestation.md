@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#bookmark=id.e9mr4ng47fzc){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -37,14 +35,14 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 
 <a name="9.31.3.1">9.31.3.1</a> Always record this relationship as an unstructured note, beginning with “Accompanied by” followed by a colon.
 
-<a name="9.31.3.1a">9.31.3.1a</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.1a).
+<a name="9.31.3.2">9.31.3.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.1).
 
-<a name="9.31.3.2">9.31.3.2</a> Record the name of the material, preceded by the number of physical units if considered important.
+<a name="9.31.3.3">9.31.3.3</a> Record the name of the material, preceded by the number of physical units if considered important.
 
 > Example:  
 > <CITE>Accompanied by: 1 price list</CITE>
 
-<a name="9.31.3.3">9.31.3.3</a> *Optionally*, record the physical description of accompanying material in parentheses following its name, in this order:
+<a name="9.31.3.4">9.31.3.4</a> *Optionally*, record the physical description of accompanying material in parentheses following its name, in this order:
 
 1.	[Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (see [6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)) 
 
@@ -58,12 +56,12 @@ Please comment about errata on the [Chapter 9 errata page](https://docs.google.c
 >Example:  
 > <CITE>Accompanied by: Index to cities and towns, populations, and mileage by automobile highway from Columbus Circle (B'way and 59th St.) New York City (1 sheet ; 42 x 67 cm)</CITE>
 
-<a name="9.31.3.4">9.31.3.4</a> Record additional details if considered important. 
+<a name="9.31.3.5">9.31.3.5</a> Record additional details if considered important. 
 
 >Example:  
 > <CITE>Accompanied by: Star guide (1 sheet ; 12 x 36 cm), previously published separately in 1744 </CITE>
 
-<a name="9.31.31.3">9.31.31.3</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 
+<a name="9.31.3.6">9.31.3.6</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 
 
 ## 9.31.31 Issued in pocket
 
