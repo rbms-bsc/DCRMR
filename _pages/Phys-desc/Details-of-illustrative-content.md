@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.n43tzdihiiwp){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -54,17 +52,17 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-## 6.225.XX Illustrations in pockets and on endpapers 
+## 6.225.31 Illustrations in pockets and on endpapers 
 
-<a name="6.225.3.5">6.225.3.5</a> Always make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
+<a name="6.225.31.1">6.225.31.1</a> Always make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>  
 
-## 6.225.XX Illustrations on endpapers 
+## 6.225.32 Illustrations on endpapers 
 
-<a name="6.225.3.6">6.225.3.6</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
+<a name="6.225.32.1">6.225.32.1</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
