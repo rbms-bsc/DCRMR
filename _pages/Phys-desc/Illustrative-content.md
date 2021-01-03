@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.94t37qo2yysc){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -41,11 +39,11 @@ Please comment about errata on the [Chapter 6 errata page](https://docs.google.c
 
 <a name="6.22.3.2">6.22.3.2</a> *Optionally*, disregard minor illustrations.
 
-<a name="6.22.211.1">6.22.211.1</a> **Ornaments, etc.** Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
+<a name="6.22.3.3">6.22.3.3</a> **Ornaments, etc.** Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
 
-<a name="6.22.213.1">6.22.213.1</a> **Illustrated title pages**. Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
+<a name="6.22.3.4">6.22.3.4</a> **Illustrated title pages**. Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
 
-<a name="6.22.215.1">6.22.215.1</a> **Graphic processes or techniques**. *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
+<a name="6.22.3.5">6.22.3.5</a> **Graphic processes or techniques**. *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
 
 Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
 
