@@ -99,7 +99,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.31.38 Place of manufacture supplied based on address or sign
 
-<a name="5.31.38.1">5.31.38.1</a> Supply in square brackets the name of the place of manufacture using a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
+<a name="5.31.38.1">5.31.38.1</a> Supply in square brackets the name of the place of manufacture using a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element; see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1).) When supplying the place, give a justification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.5)).
 
 ## 5.31.385 Place of manufacture uncertain or unknown
 
@@ -107,13 +107,13 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency, all in square brackets.
 
-<a name="5.31.385.3">5.31.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.5)). 
+<a name="5.31.385.3">5.31.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.6)). 
 
 <a name="5.31.385.4">5.31.385.4</a> If no place of manufacture can be conjectured, record “Place of manufacture not identified” in square brackets.
 
 ## 5.31.39 Place names in more than one language or script
 
-<a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
+<a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
 ---
 
