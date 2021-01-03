@@ -182,7 +182,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.21.38 Place of publication supplied based on address or sign
 
-<a name="5.21.38.1">5.21.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.4a](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.4a)).
+<a name="5.21.38.1">5.21.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
@@ -215,7 +215,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>[South America?]</CITE>
 
-<a name="5.21.385.3">5.21.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
+<a name="5.21.385.3">5.21.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)).
 
 >Example:  
 >Note on publication statement: <CITE>Place of publication suggested by Alden</CITE>
@@ -227,7 +227,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.21.39 Place names in more than one language or script
 
-<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe place that appears first. Transcribe the remaining places(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)). 
+<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe place that appears first. Transcribe the remaining places(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)). 
 
 ---
 
