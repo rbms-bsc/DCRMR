@@ -51,7 +51,7 @@ sidebar:
 
 ## 5.34.33 Note on parallel place of manufacture
 
-<a name="5.34.33.1">5.34.33.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture, 5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2) and [Place of manufacture, 5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
+<a name="5.34.33.1">5.34.33.1</a> Make a note on manufacture statement if a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and is considered important for identification (see [Parallel place of manufacture, 5.315.31.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.4) and [Place of manufacture, 5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1))
 
 ## 5.34.34 Note on name of manufacturer
 
