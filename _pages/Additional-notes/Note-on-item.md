@@ -6,7 +6,6 @@ permalink: additional-notes/Note-on-item/
 sidebar:
   nav: "docs"
 ---
-Please comment about errata on the [Chapter 9 errata page](https://docs.google.com/document/d/1O-4HOsrSwNPkw28P9J9SWmJv0cwGZ0DGGSfXrEWaaO0/edit#bookmark=id.ax6xrdksnl8k){:target="_blank"}.
 
 ## Contents:
 {: .no_toc .text-delta }

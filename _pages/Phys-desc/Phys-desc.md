@@ -8,10 +8,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Internal review errata
-
-Please comment about errata on the [Chapter 6 errata page](https://docs.google.com/document/d/1mb67GUCT1bbQjywyeTpbjpWDe5iymT3qJ7jeoof5Ra4/edit#heading=h.brar5icgt8ml){:target="_blank"}.
-
 ## 6.01.1 Sources of information
 
 <a name="6.01.1.1">6.01.1.1</a> Take information for this element from the manifestation itself. Take additional information from any source. 

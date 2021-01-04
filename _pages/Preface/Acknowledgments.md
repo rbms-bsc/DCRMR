@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Preface errata page](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit#heading=h.v2bphnn26104){:target="_blank"}.
-
----
-
 Writing a standard is intensive work performed by dedicated volunteers. Every member of the editorial group has given their time to this effort while also working full-time jobs and balancing their personal lives. The initial release of DCRMR was prepared in truly extraordinary circumstances. The release of the new RDA Toolkit in 2019 necessitated a full change in direction, leading the editorial group to create a new standard in less than two years. During this time, we faced the COVID-19 pandemic,  uprisings across the United States, and environmental disasters. Throughout this, the editorial group worked tirelessly to bring this work to fruition. No one accepts editorial responsibilities anticipating these challenges. From the bottom of my heart, thank you to every member of the RBMS RDA Editorial Group from its inception to the present:
 
 + Elizabeth Hobart, editor (2019-present)

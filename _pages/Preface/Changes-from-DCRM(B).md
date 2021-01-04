@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Preface errata page](https://docs.google.com/document/d/1KSt090ycV2BCt6I9vIpcknGrQcyXAK8WtRKg_WvYDEA/edit#heading=h.y9anqsiyq3ic){:target="_blank"}.
-
----
-
 All instructions are mapped to RDA elements. As RDA elements are more granular than areas of description in AACR2, this has often led to more granularity. For example, in DCRM(B), local notes were limited to general notes (7B19.1), provenance (7B19.2), and bindings (7B19.3). In DCRMR, notes on items are expanded to include custodial history, extent of item, and others. 
 
 RDA terminology is generally used throughout, replacing terms such as “the publication” with “the resource” or “the manifestation,” or changing “copy” to “item” or “exemplar of manifestation.” DCRMR follows RDA's practice of replacing “i.e.” with “that is.” Reflecting the RDA principle of common usage, the abbreviation “sic” is retained, as it is commonly used in the rare materials community.

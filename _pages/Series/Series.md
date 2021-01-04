@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Internal review errata
-
-Please comment about errata on the [Chapter 8 errata page](https://docs.google.com/document/d/1-ZWQGu_ouVQ7UluDNDk86hr2_aBqsUzI6Re9MU3KVqo/edit#heading=h.k0kumo3ezm39){:target="_blank"}.
-
 ## 8.01.1 Sources of information 
 
 <a name="8.01.1.1">8.01.1.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).

@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please comment about errata on the [Chapter 2 errata page](https://docs.google.com/document/d/1EIUzwP4vZYQVog9SmPqjvr3qqmYzTni4lyz58kmVp7c/edit#heading=h.5k93kjwmmcza){:target="_blank"}.
-
 ## Contents:
 {: .no_toc .text-delta }
 

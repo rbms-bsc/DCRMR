@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Internal review errata
-
-Please comment about errata on the [Chapter 1 errata page](https://docs.google.com/document/d/1ZQrHST262NmyQBIjqDihNGPaU_Y9rKCN2wiRPtwm-D8/edit#heading=h.3b03is83apcr){:target="_blank"}.
-
 ## 1.01.1 Sources of information
 
 <a name="1.01.1.1">1.01.1.1</a> The [Preferred source of information for the title](/DCRMR/general-rules/Data-provenance/#026-sources-of-information) is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 

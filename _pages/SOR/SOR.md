@@ -7,10 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-## Internal review errata
-
-Please comment about errata on the [Chapter 2 errata page](https://docs.google.com/document/d/1EIUzwP4vZYQVog9SmPqjvr3qqmYzTni4lyz58kmVp7c/edit#heading=h.59v4i6gdfahn){:target="_blank"}.
-
 ## 2.01.1 Sources of information
 
 <a name="2.01.1.1">2.01.1.1</a> The preferred source of information for the statement of responsibility is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso (see [Data provenance, 0.1](/DCRMR/general-rules/Data-provenance/)).
