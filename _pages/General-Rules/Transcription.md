@@ -240,7 +240,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
-<a name="0.4.31.5">0.4.31.5</a> **Original punctuation**. **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
+<a name="0.4.31.4">0.4.31.4</a> **Original punctuation**. **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#04355-square-brackets) (see [0.4.355.1](/DCRMR/general-rules/Transcription/#0.4.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0436-virgules) (see [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1))
@@ -254,7 +254,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Example:  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-street in the Strand., M,DCC,LI. [1751]</CITE>
 
-<a name="0.4.31.4">0.4.31.4</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
+<a name="0.4.31.5">0.4.31.5</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
 * [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
