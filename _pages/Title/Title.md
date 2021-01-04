@@ -37,13 +37,13 @@ Please comment about errata on the [Chapter 1 errata page](https://docs.google.c
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
-<a name="1.01.2.4a">1.01.2.4a</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. 
+<a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. 
 
 > Title 1 : other title information ; Title 2 : other title information / statement of responsibility
 
 > Title 1. Title 2. Title 3
 
-<a name="1.01.2.5">1.01.2.5</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
+<a name="1.01.2.6">1.01.2.6</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
 ## 1.01.3 Form and order of information
 
