@@ -76,7 +76,7 @@ sidebar:
 
 ## 5.285.33 Note on parallel place of distribution
 
-<a name="5.285.33.1">5.285.33.1</a> Make a note on distribution statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution, 5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2) and [Place of distribution, 5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
+<a name="5.285.33.1">5.285.33.1</a> Make a note on distribution statement if a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and is considered important for identification (see [Parallel place of distribution, 5.265.31.4](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.4) and [Place of distribution, 5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)).
 
 ## 5.285.34 Note on name of distributor
 
