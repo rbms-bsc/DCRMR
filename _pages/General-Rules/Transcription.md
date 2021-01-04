@@ -725,7 +725,7 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 ><CITE>Henricus Dei gra[tia] Rex Anglie</CITE>  
 >(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
 
-<a name="0.4.82.4">0.4.82.4</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
+<a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
 
 ### 0.4.84 Letters or words intended to be read more than once
 
