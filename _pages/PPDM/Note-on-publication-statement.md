@@ -86,7 +86,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.24.33 Note on parallel place of publication
 
-<a name="5.24.33.1">5.24.33.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication, 5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2) and [Place of publication, 5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
+<a name="5.24.33.1">5.24.33.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication, 5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4) and [Place of publication, 5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
 ## 5.24.34 Note on name of publisher
 
