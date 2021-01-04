@@ -94,4 +94,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "7.21 — Numbering of sequence")](/DCRMR/numbering-of-serials/Numbering-of-sequence/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8 — Series")](/DCRMR/series/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "7.21 — Numbering of sequence")](/DCRMR/numbering-of-serials/Numbering-of-sequence/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "8 — Series statement")](/DCRMR/series/Series-statement/)
