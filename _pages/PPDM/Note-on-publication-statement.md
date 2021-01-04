@@ -123,9 +123,9 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 <a name="5.24.34.7">5.24.34.7</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
 
-## 5.24.35A Note on parallel name of publisher
+## 5.24.35 Note on parallel name of publisher
 
-<a name="5.24.35A.1">5.24.35A.1</a> Make a note on publication statement if parallel publisher names are from a different source than the name of publisher (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
+<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if parallel publisher names are from a different source than the name of publisher (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
 
 ## 5.24.36 Note on date of publication
 

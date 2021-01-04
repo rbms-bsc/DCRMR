@@ -94,9 +94,9 @@ sidebar:
 
 <a name="5.285.34.7">5.285.34.7</a> Always make a note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script and the original position of elements were transposed (see [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
-## 5.285.35A Note on parallel name of distributor
+## 5.285.35 Note on parallel name of distributor
 
-<a name="5.285.35A.1">5.285.35A.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
+<a name="5.285.35.1">5.285.35.1</a> Make a note on distribution statement if parallel distributor names are found on a different source as the name of distributor if considered important for identification (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [Name of distributor, 5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)).
 
 ## 5.285.36 Note on date of distribution
 

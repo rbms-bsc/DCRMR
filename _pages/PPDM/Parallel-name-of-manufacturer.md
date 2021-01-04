@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.325.31 Manufacturer names in more than one language or script
 
-<a name="5.325.31.1">5.325.31.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) on parallel manufacturers’ names found elsewhere if considered important for identification (see [Note on manufacture statement, 5.34.35A.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35A.1)).
+<a name="5.325.31.1">5.325.31.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) on parallel manufacturers’ names found elsewhere if considered important for identification (see [Note on manufacture statement, 5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
 <a name="5.325.31.2">5.325.31.2</a> Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)). 
 

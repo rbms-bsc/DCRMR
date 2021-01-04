@@ -27,7 +27,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 
 ## 5.225.31 Publisher names in more than one language or script
 
-<a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement, 5.24.35A.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35A.1)).
+<a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement, 5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 
 <a name="5.225.31.2">5.225.31.2</a> Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) to indicate the original position on the source of any transposed statements (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
 
