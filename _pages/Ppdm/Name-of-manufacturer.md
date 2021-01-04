@@ -119,7 +119,7 @@ Please comment about errata on the [Chapter 5 errata page](https://docs.google.c
 >Example:  
 ><CITE>Printed by L. Nichols & Co., T. & J. Swords, E. Duyckinck [and 10 others]</CITE>
 
-<a name="5.32.34.4">5.32.34.4</a> If both the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer associated with an earlier edition appear together with the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer of the edition being described, transcribe each manufacturer with the place to which it corresponds.
+<a name="5.32.34.3">5.32.34.3</a> If both the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer associated with an earlier edition appear together with the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer of the edition being described, transcribe each manufacturer with the place to which it corresponds.
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
