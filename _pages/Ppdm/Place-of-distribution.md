@@ -160,7 +160,7 @@ sidebar:
 ><CITE>Londres [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of distribution from: Weller, E.O.  Falsche Druckorte</CITE>
 
-<a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, preceded by "that is," if known. Use a modern form of name in the langauge of the cataloging agency, and give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
+<a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, preceded by "that is," if known. Use a modern form of name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
 
 ## 5.26.37 No place of distribution
 

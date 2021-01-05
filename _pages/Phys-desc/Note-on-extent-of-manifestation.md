@@ -23,7 +23,11 @@ sidebar:
 
 <a name="6.215.2.1">6.215.2.1</a> A note on manifestation that provides information on the extent of a manifestation.
 
-## 6.215.3 Manifestations in one physical unit: general rule
+## 6.215.4X Note on extent of text
+
+### 6.215.42X Manifestations in one physical unit
+
+#### 6.215.3 General rule
 
 <a name="6.215.3.1">6.215.3.1</a> Make a note on details of extent that are not already included in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) if considered important (see [6.21.4245.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.1)).
 
@@ -42,7 +46,7 @@ sidebar:
 
 <a name="6.215.3.25">6.215.3.25</a> Always make a note on extent of manifestation to explain that pages, etc. are numbered in words in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
 
-## 6.215.XX Normally imposed single sheets
+#### 6.215.422X Normally imposed single sheets
 
 <a name="6.215.3.3">6.215.3.3</a> Record the presence of blank pages in a normally imposed single-folded (i.e., four-page) sheet (see [Extent of manifestation, 6.21.422.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.422.1)).
 
@@ -54,7 +58,7 @@ sidebar:
 > Extent of manifestation: <CITE>[4] pages</CITE>  
 > Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank</CITE>
 
-## 6.215.XX Multiple sequences of numbering
+#### 6.215.424X Multiple sequences of numbering
 
 <a name="6.215.3.4">6.215.3.4</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory note on extent of manifestation (see [Extent of manifestation, 6.21.424.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.2)).
 
@@ -82,7 +86,7 @@ sidebar:
 
 <a name="6.215.3.45">6.215.3.45</a> If the extent is not fully recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
 
-## 6.215.XX Expansions of corrections
+#### 6.215.4245X Expansions of corrections
 
 <a name="6.215.3.47">6.215.3.47</a> If misleading or incorrect numbering is recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), provide an explanatory note on extent of manifestation if considered important (see [6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
 
@@ -90,7 +94,7 @@ sidebar:
 > Extent of manifestation: <CITE>564 [that is, 56] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Leaf 56 wrongly numbered 564</CITE>
 
-## 6.215.XX Leaves or pages of plates
+#### 6.215.426X Leaves or pages of plates
 
 <a name="6.215.3.5">6.215.3.5</a> Always make a note on extent of manifestation to indicate any title page counted as a plate (see [Extent of manifestation, 6.21.426.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.426.4)).
 
@@ -98,7 +102,7 @@ sidebar:
 > Extent of manifestation: <CITE>112 pages, [1] leaf of plates</CITE>  
 > Note on extent of manifestation: <CITE>Plate has engraved title page on recto and blank verso</CITE>
 
-## 6.215.XX Folded leaves
+#### 6.215.427X Folded leaves
 
 <a name="6.215.3.6">6.215.3.6</a> Make a note on extent of manifestation to indicate any folded letterpress leaves if considered important (see [Extent of manifestation, 6.21.427.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.427.1)).
 
@@ -106,7 +110,7 @@ sidebar:
 > Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>The folded leaves are letterpress tables not included in signature statement</CITE>
 
-## 6.215.XX Double leaves
+#### 6.215.4275X Double leaves
 
 <a name="6.215.3.65">6.215.3.65</a> Always record the presence of double leaves in a note on extent of manifestation (see [Extent of manifestation, 6.21.4275.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4275.1)).
 
@@ -118,27 +122,29 @@ sidebar:
 > Extent of manifestation: <CITE>[4], 28 pages, [86] leaves of plates</CITE>  
 > Note on extent of manifestation: <CITE>Some plates printed on double leaves</CITE>
 
-## 6.215.XX Incomplete publications
+#### 6.215.428X Incomplete manifestations
 
 <a name="6.215.3.7">6.215.3.7</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a note on extent of manifestation that the extent is based on an incomplete exemplar (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
 
-## 6.215.XX Manifestations in more than one physical unit: general rule
+### 6.215.43X Manifestations in more than one physical unit
+
+#### 6.215.431X General rule
 
 <a name="6.215.3.8">6.215.3.8</a> Always make a note on extent of manifestation indicating that a manifestation was issued in fascicles intended to be bound into one or more physical units (see [Extent of manifestation, 6.21.431.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.2)).
 
-## 6.215.XX Bibliographic units vs. physical volumes
+#### 6.215.434X Bibliographic units vs. physical volumes
 
 <a name="6.215.3.83">6.215.3.83</a> Always make a note on extent of manifestation indicating the number of bibliographic volumes if the number of bibliographic volumes differs from the number of physical volumes (see [Extent of manifestation, 6.21.434.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.434.1)).
 
-## 6.215.XX Pagination not continuous
+#### 6.215.436X Pagination not continuous
 
 <a name="6.215.3.85">6.215.3.85</a> *Optionally*, if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation (see [Extent of manifestation, 6.21.436.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.436.1)).
 
-## 6.215.XX Discontinued publication
+#### 6.215.437X Discontinued manifestations
 
 <a name="6.215.3.9">6.215.3.9</a> If a publication planned for more than one physical unit has been or appears to have been discontinued before completion, always make a note on extent of manifestation indicating that no more units have been issued (see [Extent of manifestation, 6.21.437.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.437.1)).
 
-## 6.215.31 Signatures
+### 6.215.31 Signatures
 
 <a name="6.215.31.1">6.215.31.1</a> **General rule**. Make a note giving details of the signatures of a volume if considered important.  Record these signature details according to the formula in Philip Gaskell's *A New Introduction to Bibliography* (see pages 328-332), insofar as typographical facilities permit. Preface this note with the word “Signatures” and a colon.
 

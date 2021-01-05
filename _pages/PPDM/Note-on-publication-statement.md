@@ -119,7 +119,7 @@ sidebar:
 >Note on publication statement: <CITE>Imprint from Goff.</CITE>  
 >(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
 
-<a name="5.24.34.7">5.24.34.7</a> Make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
+<a name="5.24.34.7">5.24.34.7</a> Always make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
 
 ## 5.24.35 Note on parallel name of publisher
 

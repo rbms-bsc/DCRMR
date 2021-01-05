@@ -57,7 +57,7 @@ sidebar:
 ><CITE>Here after foloweth a litel boke called Colyn Cloute</CITE>  
 >(*Comment*: “Colyn Cloute” is the chief title)
 
-<a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title.
+<a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title (RDA definition: a second or subsequent independent title of manifestation that is joined to a preceding conjunction such as “or” or its equivalent in another language).
 
 >Example:  
 ><CITE>Christianographie, or, The description of the multitude and sundry sorts of Christians in the world not subject to the pope</CITE>  
