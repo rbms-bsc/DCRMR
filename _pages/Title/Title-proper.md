@@ -23,7 +23,7 @@ sidebar:
 
 <a name="1.21.2.1">1.21.2.1</a> A nomen that is a title of manifestation that is selected for preference in a specific application or context.
 
-<a name="1.21.2.2">1.21.2.2</a> A [RDA Toolkit: alternative title](https://beta.rdatoolkit.org/en-US_rdaregistry.info-termList-RDATerms-1005){:target="_blank"} is treated as part of a title proper.
+<a name="1.21.2.2">1.21.2.2</a> An alternative title is treated as part of a title proper.
 
 ## 1.21.31 Words considered part of the title proper
 
