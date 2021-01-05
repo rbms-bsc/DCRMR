@@ -59,7 +59,7 @@ sidebar:
 >Place of distribution: <CITE>[Cambridge, Mass.]</CITE>  
 >Note on distribution statement: <CITE>Samuel Green was located in Cambridge, Mass., from 1660 to 1672</CITE>
 
-<a name="5.285.32.5">5.285.32.5</a> Make a note on distribution statement when supplying the place of distribution based on a sign or address if necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/5.26.38.1)).
+<a name="5.285.32.5">5.285.32.5</a> Make a note on distribution statement when supplying the place of distribution based on a sign or address if necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)).
 
 >Example:  
 ><CITE>[London]</CITE>  
