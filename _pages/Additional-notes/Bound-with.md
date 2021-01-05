@@ -23,9 +23,9 @@ sidebar:
 
 <a name="9.45.2.1">9.45.2.1</a> An item that is physically combined or joined with an item.
 
-## 9.45.2 DCRMR elaboration of scope
+## 9.45.21 DCRMR elaboration of scope
 
-<a name="9.45.2.1">9.45.2.1</a> Use this relationship element to reference the related items bound together subsequent to publication. 
+<a name="9.45.21.1">9.45.21.1</a> Use this relationship element to reference the related items bound together subsequent to publication. 
 
 ## 9.45.25 Related elements
 
