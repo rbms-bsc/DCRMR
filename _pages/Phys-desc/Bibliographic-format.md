@@ -38,7 +38,7 @@ sidebar:
 
 <a name="6.29.3.2">6.29.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
-<a name="6.29.3.3">6.29.3.3</a> Record more detailed descriptions of bibliographic format in [Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/) if considered important (see [6.295.3.1](/DCRMR/phys-desc/Details-of-bibliographic-format/#6.295.3.1)).  See also [Note on extent of manifestation, 6.215.31.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.9).
+<a name="6.29.3.3">6.29.3.3</a> Record more detailed descriptions of bibliographic format in [Details of bibliographic format](/DCRMR/phys-desc/Details-of-bibliographic-format/) if considered important (see [6.295.3.1](/DCRMR/phys-desc/Details-of-bibliographic-format/#6.295.3.1)).  See also [Note on extent of manifestation, 6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9).
 
 ---
 

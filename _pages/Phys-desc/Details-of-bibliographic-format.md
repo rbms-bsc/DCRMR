@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.295.3 General rule 
 
-<a name="6.295.3.1">6.295.3.1</a> Record details of [Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [6.29.3.3](/DCRMR/phys-desc/Bibliographic-format/#6.29.3.3)).  See also [Note on extent of manifestation, 6.215.31.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.31.9).
+<a name="6.295.3.1">6.295.3.1</a> Record details of [Bibliographic format](/DCRMR/phys-desc/Bibliographic-format/) if considered important (see [6.29.3.3](/DCRMR/phys-desc/Bibliographic-format/#6.29.3.3)).  See also [Note on extent of manifestation, 6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9).
 
 >Example:  
 ><CITE>Volume 1 is folio; volume 2 is 12mo</CITE>
