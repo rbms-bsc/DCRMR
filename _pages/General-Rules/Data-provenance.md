@@ -97,12 +97,12 @@ If a manifestation is not a multipart monograph or serial and the manifestation 
 If the manifestation contains one preferred source that is in letterpress and one that is not (e.g., engraved), use the source that is in letterpress.
 + **Preferred sources of information in different languages or scripts**  
 If the manifestation contains preferred sources in more than one language or script, use as the preferred source (in this order of preference):
-     a) the source in the language or script that corresponds to the language or script of the content of the resource
-     b) the source in the language or script that corresponds to the predominant language or script of the content of the resource
-     c) the source in the language or script of translation, if the resource contains the same work in more than one language or script and translation is known to be the purpose of the resource
-     d) the source in the original language or script of the content, if the resource contains the same content in more than one language or script and the original language or script can be identified
-     e) the first occurring of the sources
-     f) the source in the language or script preferred by the agency preparing the description, if the resource is formatted
+     1. the source in the language or script that corresponds to the language or script of the content of the resource
+     2. the source in the language or script that corresponds to the predominant language or script of the content of the resource  
+     3. the source in the language or script of translation, if the resource contains the same work in more than one language or script and translation is known to be the purpose of the resource  
+     4. the source in the original language or script of the content, if the resource contains the same content in more than one language or script and the original language or script can be identified
+     5. the first occurring of the sources
+     6. the source in the language or script preferred by the agency preparing the description, if the resource is formatted
 + **Order of sources of information**  
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
