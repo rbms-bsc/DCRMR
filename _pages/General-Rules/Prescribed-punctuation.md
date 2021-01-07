@@ -25,7 +25,7 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.01.4">0.2.01.4</a> If an entire element is omitted from the bibliographic description (e.g., because it is not present in the source), also omit its corresponding prescribed punctuation. Do not use the mark of omission.
 
-<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space `( . -- )` unless the element begins a new paragraph.
+<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space (. &#8208;&#8208;) unless the element begins a new paragraph.
 
 ## 0.2.1 Title 
 
