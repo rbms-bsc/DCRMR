@@ -73,6 +73,93 @@ The RBMS RDA Editorial Group
 
 ## 1. Title and Statement of Responsibility Area
 
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	Title and Statement of Responsibility Area	|	1.	|	[1](https://rbms-bsc.github.io/DCRMR/title/)	|
+|	Preliminary rule	|	1A.	|	n/a	|
+|	Prescribed punctuation	|	1A1.	|	[0.2.1.1](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1) [0.2.1.2](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
+|	Sources of information	|	1A2.	|	[1.01.1](https://rbms-bsc.github.io/DCRMR/title/#1011-sources-of-information)	|
+|	General rule	|	1A2.1.	|	[1.01.1.1](https://rbms-bsc.github.io/DCRMR/title/#1.01.1.1)	|
+|	Multipart monographs	|	1A2.2.	|	[1.01.1.1](https://rbms-bsc.github.io/DCRMR/title/#1.01.1.1)	|
+|	Form and order of information	|	1A3.	|	[1.01.3](https://rbms-bsc.github.io/DCRMR/title/#1013-form-and-order-of-information)	|
+|	Title proper	|	1B.	|	[1.21](https://rbms-bsc.github.io/DCRMR/title/Title-proper/)	|
+|	Words considered part of the title proper	|	1B1.	|	[1.21.31](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)	|
+|		|	1B1.1.	|	[1.21.31.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.31.1)	|
+|		|	1B1.2.	|	[1.01.3.2](https://rbms-bsc.github.io/DCRMR/title/#1.01.3.2)	|
+|	Note on the source of the title proper	|	1B2.	|	[1.21.31.2](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.31.2)	|
+|	Forms of the title proper	|	1B3.	|	[1.21.32.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.32.1)	|
+|		|	1B3.1.	|	[1.21.32.2](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.32.2)	|
+|		|	1B3.2.	|	[1.21.32.3](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.32.3)	|
+|		|	1B3.3.	|	[1.21.32.4](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.32.4)	|
+|	Title proper with grammatically inseparable designation	|	1B4.	|	[1.21.33.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.33.1)	|
+|	No title proper	|	1B5.	|	[1.21.34.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.34.1)	|
+|	Title proper with supplementary or section designation or title	|	1B6.	|	[1.21.35.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.35.1)	|
+|	Abridgments of the title proper	|	1B7.	|	[1.21.36](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#12136-abridgments-of-the-title-proper)	|
+|	General rule	|	1B7.1.	|	[1.21.36.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.36.1)	|
+|	Alternative title	|	1B7.2.	|	[1.21.36.2](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.36.2)	|
+|	Chief title	|	1B7.3.	|	[1.21.36.3](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.36.3)	|
+|	Parallel titles	|	1C.	|	[1.215](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/)	|
+|	Order and source of parallel titles	|	1C1.	|	[1.215.31.1](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#1.215.31.1) [1.215.31.2](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#1.215.31.2)	|
+|	Language of parallel titles and relationship to title proper	|	1C2.	|	[1.215.32](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#121532-language-of-parallel-titles-and-relationship-to-title-proper)	|
+|		|	1C2.1.	|	[1.215.32.1](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#1.215.32.1)	|
+|		|	1C2.2.	|	[1.215.32.2](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#1.215.32.2)	|
+|	Other title information	|	1D.	|	[1.23](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/)	|
+|	Order and source of other title information	|	1D1.	|	[1.23.29](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#12329-order-and-source-of-other-title-information)	|
+|		|	1D1.1.	|	[1.23.29.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.29.1)	|
+|		|	1D1.2.	|	[1.23.29.2](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.29.2)	|
+|		|	1D1.3.	|	[1.23.29.3](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.29.3)	|
+|		|	1D1.4.	|	omitted	|
+|	Other title information beginning with prepositions, conjunctions, etc.	|	1D2.	|	[1.23.31](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc)	|
+|	General rule.	|	1D2.1.	|	[1.23.31.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.31.1)	|
+|		|	1D2.2.	|	[1.23.32.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.32.1)	|
+|		|	1D2.3.	|	[1.23.33.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.33.1)	|
+|		|	1D2.4.	|	[1.23.33.2](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.33.2)	|
+|	Statements about illustrations or volumes	|	1D3.	|	[1.23.35.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.35.1)	|
+|	Abridgment of other title information	|	1D4.	|	[1.23.37.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.37.1)	|
+|	Other title information with grammatically inseparable elements	|	1D5.	|	[1.23.38.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.38.1)	|
+|	Parallel statements containing other title information	|	1D6.	|	[1.235.3.1](https://rbms-bsc.github.io/DCRMR/title/Parallel-other-title-information/#1.235.3.1)	|
+|	Statements of responsibility	|	1E.	|	[2](https://rbms-bsc.github.io/DCRMR/sor/)	|
+|	Statements of responsibility on the title page	|	1E1.	|	[2.21.31.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.31.1)	|
+|	Statements of responsibility on other sources	|	1E2.	|	[2.21.315.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)	|
+|	Transposition of statements of responsibility	|	1E3.	|	[2.21.32.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)	|
+|	Single statements of responsibility with two or more names	|	1E4.	|	[2.21.33](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names)	|
+|		|	1E4.1.	|	[2.21.33.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.1)	|
+|		|	1E4.2.	|	[2.21.33.2](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.2)	|
+|	Omission of names in statements of responsibility	|	1E5.	|	[2.21.335.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.1)	|
+|	Two or more statements of responsibility	|	1E6.	|	[2.21.34.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.34.1)	|
+|	Terms of address, etc., in statements of responsibility	|	1E7.	|	[2.21.35.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.35.1)	|
+|	Qualifications in statements of responsibility	|	1E8.	|	[2.21.355.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.1)	|
+|	Ambiguous statements of responsibility	|	1E9.	|	[2.21.36.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.1)	|
+|	Statements of responsibility following titles in more than one language or script	|	1E10.	|	[2.215.31](https://rbms-bsc.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)	|
+|		|	1E10.1.	|	[2.215.31.1](https://rbms-bsc.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.1)	|
+|		|	1E10.2.	|	[2.215.31.2](https://rbms-bsc.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.2)	|
+|		|	1E10.3.	|	[2.215.31.3](https://rbms-bsc.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.3)	|
+|	Nouns and noun phrases	|	1E11.	|	[2.21.37](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22137-nouns-and-noun-phrases)	|
+|		|	1E11.1.	|	[2.21.37.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.1)	|
+|		|	1E11.2.	|	[2.21.37.2](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.2)	|
+|		|	1E11.3.	|	[2.21.37.3](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.3)	|
+|	Persons or bodies not explicitly named in statements of responsibility	|	1E12.	|	[2.21.375.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.1)	|
+|	Statements of responsibility with grammatically inseparable elements	|	1E13.	|	[2.21.38.1](https://rbms-bsc.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)	|
+|	Phrases about notes, appendixes, etc.	|	1E14.	|	[1.23.36](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#12336-phrases-about-notes-appendices-etc)	|
+|		|	1E14.1.	|	[1.23.36.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.36.1)	|
+|		|	1E14.2.	|	[1.23.36.2](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.36.2)	|
+|		|	1E14.3.	|	[1.23.37.1](https://rbms-bsc.github.io/DCRMR/title/Other-title-information/#1.23.37.1)	|
+|	Publications without a collective title	|	1F.	|	[1.21.37](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#12137-manifestations-without-a-collective-title)	|
+|	Two or more works named on the title page	|	1F1.	|	[1.21.371](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)	|
+|	By same person or body.	|	1F1.1.	|	[1.21.371.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.371.1)	|
+|	By different persons or bodies.	|	1F1.2.	|	omitted	|
+|	One or more works not named on the title page	|	1F2.	|	[1.21.372.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.372.1)	|
+|	Single-sheet publications	|	1G.	|	[1.21.38](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#12138-single-sheet-manifestations)	|
+|	Chief source of information	|	1G1.	|	[1.01.1.1](https://rbms-bsc.github.io/DCRMR/title/#1.01.1.1)	|
+|	General rule	|	1G2.	|	[1.21.381.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.381.1)	|
+|	Chief title	|	1G3.	|	[1.21.382.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.382.1)	|
+|	Caption title	|	1G4.	|	[1.21.382.2](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.382.2)	|
+|	Prescribed punctuation	|	1G5.	|	[0.2.1.2](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
+|	Two or more works with a collective title	|	1G6.	|	[1.21.383.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.383.1)	|
+|	Two or more works without a collective title	|	1G7.	|	[1.21.384.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.384.1)	|
+|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.385.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.385.1)	|
+
+
 ## 2. Edition Area
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
