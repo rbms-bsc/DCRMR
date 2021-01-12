@@ -131,9 +131,117 @@ The RBMS RDA Editorial Group
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
 | ---|---|---|
-|	No general use of this area is made for printed monographs	|	omitted	|	[4](https://rbms-bsc.github.io/DCRMR/mathematical-details/)	|
+|	No general use of this area is made for printed monographs	|	n/a	|	[4](https://rbms-bsc.github.io/DCRMR/mathematical-details/)	|
 
 ## 4. Publication, Distribution, Etc., Area
+
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	Publication, Distribution, Etc., Area	|	4.	|	[5](https://rbms-bsc.github.io/DCRMR/ppdm/) 	|
+|	Preliminary rule	|	4A.	|	n/a	|
+|	Prescribed punctuation	|	4A1.	|	[0.2.5](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.5.1) 	|
+|	Sources of information	|	4A2.	|	[5.01.1](https://rbms-bsc.github.io/DCRMR/ppdm/#5011-sources-of-information) 	|
+|		|	4A2.1.	|	[5.01.1.1](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.1.1) 	|
+|		|	4A2.2.	|	[5.01.1.2](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.1.2) [5.01.1.3](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.1.3)	|
+|	Form and order of information	|	4A3.	|	[5.01.3](https://rbms-bsc.github.io/DCRMR/ppdm/#5013-form-and-order-of-information)	|
+|		|	4A3.1.	|	[5.01.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.3.1)	|
+|		|	4A3.2.	|	[5.01.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.3.2)	|
+|		|	4A3.3.	|	[5.01.3.3](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.3.3)	|
+|		|	4A4.	|	omitted	|
+|	Information covered by labels, etc.	|	4A5.	|	[5.2.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.31.1) [5.25.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.31.1)	|
+|	Elements relating to publication, distribution, etc., vs. elements relating to manufacture	|	4A6.	|	[5.2.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.32.1) [5.25.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.32.1)	|
+|	Statements relating to publication, distribution, etc., only	|	4A6.1.	|	[5.2.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.33.1) [5.25.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.33.1)	|
+|	Statements relating to manufacture only	|	4A6.2.	|	[5.2.335](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distributor-only)	|
+|		|	4A5.2.1.	|	[5.2.335.1](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.335.1)	|
+|		|	4A5.2.2.	|	[5.2.335.2](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.335.2)	|
+|	Statements relating both to publication, distribution, etc., and to manufacture	|	4A5.3.	|	[5.2.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.1) [5.25.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.1)	|
+|		|	4A5.3.1.	|	[5.2.34.2](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.2) [5.25.34.2](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.2)	|
+|		|	4A5.3.2.	|	[5.2.34.3](https://rbms-bsc.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.3) [5.25.34.3](https://rbms-bsc.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.3)	|
+|		|	4A5.3.2.1.	|	omitted	|
+|		|	4A5.3.2.2.	|	omitted	|
+|	Place of publication, distribution, etc.	|	4B.	|	[5.21](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/) [5.26](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/)	|
+|	General rule	|	4B1.	|	[5.21.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5213-general-rule) [5.26.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5263-general-rule)	|
+|		|	4B1.1.	|	[5.21.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.3.1) [5.26.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.3.1)	|
+|		|	4B1.2.	|	[5.21.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.3.2) [5.26.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.3.2)	|
+|	Places of publication, distribution, etc., with initial prepositions, etc.	|	4B2.	|	[5.21.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.31.1) [5.26.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.31.1)	|
+|	Supplied modern forms of place names	|	4B3.	|	[5.21.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.32.1) [5.26.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.32.1)	|
+|	Supplied fuller forms of place names	|	4B4.	|	[5.21.323.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.323.1) [5.26.323.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.323.1)	|
+|	Supplied larger jurisdictions	|	4B5.	|	[5.21.325.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.325.1) [5.26.325.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.325.1)	|
+|	Two or more places of publication, distribution, etc.	|	4B6.	|	[5.21.33](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#52133-two-or-more-places-of-publication) [5.26.33](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#52633-two-or-more-places-of-distribution)	|
+|		|	4B6.1.	|	[5.21.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.1) [5.26.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.1)	|
+|		|	4B6.2.	|	[5.21.33.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.2) [5.26.33.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.2)	|
+|		|	4B6.3.	|	[5.21.33.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.3) [5.26.33.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.3)	|
+|		|	4B6.4.	|	[5.21.33.4](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.4) [5.26.33.4](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.4)	|
+|		|	4B6.5.	|	[5.21.33.5](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.5) [5.26.33.5](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.5)	|
+|		|	4B6.6.	|	[5.21.33.6](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.33.6) [5.26.33.6](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.33.6)	|
+|	Places of publication, distribution, etc., in multipart monographs	|	4B7.	|	[5.21.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.34.1) [5.26.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.34.1)	|
+|	Place names that are grammatically inseparable parts of other areas, etc.	|	4B8.	|	[5.21.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.35.1) [5.26.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.35.1)	|
+|	Fictitious or incorrect places of publication, distribution, etc.	|	4B9.	|	[5.21.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.36.1) [5.26.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.36.1)	|
+|	No place of publication, distribution, etc.	|	4B10.	|	[5.21.37](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#52137-no-place-of-publication) [5.26.37](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#52637-no-place-of-distribution)	|
+|		|	4B10.1.	|	[5.21.37.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.37.1) [5.26.37.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.37.1)	|
+|		|	4B10.2.	|	[5.21.37.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.37.2) [5.26.37.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.37.2)	|
+|	Place of publication, distribution, etc., supplied based on address or sign	|	4B11.	|	[5.21.38.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.38.1) [5.26.38.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)	|
+|	Place of publication, distribution, etc., uncertain or unknown	|	4B12.	|	[5.21.385](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#521385-place-of-publication-uncertain-or-unknown) [5.26.385](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#526385-place-of-distribution-uncertain-or-unknown)	|
+|		|	4B12.1.	|	[5.21.385.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.385.1) [5.26.385.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.385.1)	|
+|		|	4B12.2.	|	[5.21.385.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.385.2) [5.26.385.2](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.385.2)	|
+|		|	4B12.3.	|	[5.21.385.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.385.3) [5.26.385.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)	|
+|		|	4B12.4.	|	[5.21.385.4](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.385.4) [5.26.385.4](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.385.4)	|
+|	Place names in more than one language or script	|	4B13.	|	[5.21.39](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#52139-place-names-in-more-than-one-language-or-script) [5.26.39](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#52639-place-names-in-more-than-one-language-or-script)	|
+|		|	4B13.1.	|	[5.21.39.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-publication/#5.21.39.1) [5.26.39.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)	|
+|		|	4B13.2.	|	[5.215.31.5](https://rbms-bsc.github.io/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.5) [5.265.31.5](https://rbms-bsc.github.io/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.5)	|
+|	Name of publisher, distributor, etc.	|	4C.	|	[5.22.3](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5223-general-rule) [5.27.3](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5273-general-rule)	|
+|		|	4C1.	|	[5.22.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
+|		|	4C2.	|	[5.22.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.3.2) [5.27.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.3.2)	|
+|	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.31.1) [5.27.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.31.1)	|
+|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.32](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#52232-publishers-identified-by-addresses-signs-or-initials) [5.27.32](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#52732-names-of-distributors-containing-only-addresses-signs-or-initials)	|
+|		|	4C4.1.	|	[5.22.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.32.1) [5.27.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)	|
+|		|	4C4.2.	|	[5.22.32.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.32.2) [5.27.32.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)	|
+|	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
+|	Two or more names of publishers, distributors, etc.	|	4C6.	|	[5.22.34](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#52234-two-or-more-names-of-publishers) [5.27.34](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#52734-two-or-more-names-of-distributors)	|
+|		|	4C6.1.	|	[5.22.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.34.1) [5.27.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.34.1)	|
+|		|	4C6.2.	|	[5.22.34.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.34.2) [5.27.34.2](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.34.2)	|
+|		|	4C6.3.	|	omitted	|
+|		|	4C6.4.	|	[5.22.34.3](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.34.3) [5.27.34.3](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.34.3)	|
+|	Names of publishers, distributors, etc., in multipart monographs	|	4C7.	|	[5.22.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.35.1) [5.27.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)	|
+|	Supplied and conjectured names of publishers, distributors, etc.	|	4C8.	|	[5.22.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.36.1) [5.27.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)	|
+|	No supplied name of publisher, distributor, etc.	|	4C9.	|	[5.22.37.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.37.1) [5.27.37.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.37.1)	|
+|	Publisher, distributor, etc., transcribed as part of another area	|	4C10.	|	[5.22.38.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.38.1) [5.27.38.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.38.1)	|
+|	Publisher, distributor, etc., statements in more than one language or script	|	4C11.	|	[5.22.39](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#52239-name-of-publisher-in-more-than-one-language-or-script) [5.27.39](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#52739-name-of-distributor-in-more-than-one-language-or-script)	|
+|		|	4C11.1.	|	[5.22.39.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) [5.27.39.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)	|
+|		|	4C11.2.	|	[5.225.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.3) [5.275.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.3)	|
+|	Date of publication, distribution, etc.	|	4D.	|	[5.23](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/) [5.28](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/)	|
+|	General rule	|	4D1.	|	[5.23.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5233-general-rule) [5.28.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5283-general-rule)	|
+|		|	4D1.1.	|	[5.23.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.3.1) [5.28.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.3.1)	|
+|		|	4D1.2.	|	[5.23.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.3.1) [5.28.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.3.1)	|
+|		|	4D1.3.	|	[5.23.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.3.2) [5.28.3.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.3.2)	|
+|		|	4D1.4.	|	[5.23.3.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.3.3) [5.28.3.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.3.3)	|
+|	Transcription involving adjustments or additions	|	4D2.	|	[5.23.31](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#52331-transcription-involving-adjustments-or-additions) [5.28.31](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#52831-transcription-involving-adjustments-or-additions)	|
+|	Roman numerals.	|	4D2.1.	|	[5.23.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.1) [5.28.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.1)	|
+|	Chronograms.	|	4D2.2.	|	[5.23.31.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.2) [5.28.31.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)	|
+|	Very long dates.	|	4D2.3.	|	[5.23.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.3) [5.28.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.3)	|
+|	Fictitious or incorrect dates.	|	4D2.4.	|	[5.23.31.4](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.4) [5.28.31.4](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)	|
+|	Julian/Old Style dates.	|	4D2.5.	|	[5.23.31.5](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.5) [5.28.31.5](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.5)	|
+|	Dates not of the Julian or Gregorian calendar.	|	4D2.6.	|	[5.23.31.6](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.6) [5.28.31.6](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.6)	|
+|	Multiple adjustments or additions.	|	4D2.7.	|	[5.23.31.7](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.7) [5.28.31.7](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.7)	|
+|	Date of publication, distribution, etc., supplied from reference sources	|	4D3.	|	[5.23.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.32.1) [5.28.32.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)	|
+|	Conjectural date of publication, distribution, etc.	|	4D4.	|	[5.23.33](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#52333-conjectural-date-of-publication) [5.28.33](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#52833-conjectural-date-of-distribution)	|
+|		|	4D4.1.	|	[5.23.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.33.1) [5.28.33.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.33.1)	|
+|		|	4D4.2.	|	[5.23.33.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.33.2) [5.28.33.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.33.2)	|
+|	Patterns for supplying a conjectural date	|	4D5.	|	[5.23.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.34.1) [5.28.34.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.34.1)	|
+|	Copyright dates and dates of deposit	|	4D6.	|	[5.35.31](https://rbms-bsc.github.io/DCRMR/ppdm/Copyright-date/#53531-copyright-dates-and-dates-of-deposit)	|
+|		|	4D6.1.	|	[5.35.31.1](https://rbms-bsc.github.io/DCRMR/ppdm/Copyright-date/#5.35.31.1)	|
+|		|	4D6.2.	|	[5.35.31.2](https://rbms-bsc.github.io/DCRMR/ppdm/Copyright-date/#5.35.31.2)	|
+|		|	4D6.3.	|	[5.35.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Copyright-date/#5.35.31.3)	|
+|		|	4D6.4.	|	[5.35.31.4](https://rbms-bsc.github.io/DCRMR/ppdm/Copyright-date/#5.35.31.4)	|
+|	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multipart-monographs)	|
+|		|	4D7.1.	|	[5.23.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.35.1) [5.28.35.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.35.1)	|
+|		|	4D7.2.	|	[5.23.35.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.35.2) [5.28.35.2](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)	|
+|	Date of publication, distribution, etc., on part pages	|	4D8.	|	[5.23.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-publication/#5.23.36.1) [5.28.36.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.36.1)	|
+|	Place of manufacture	|	4E.	|	[5.31](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-manufacture/)	|
+|	General rule	|	4E.1.	|	[5.31.3](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-manufacture/#5313-general-rule)	|
+|	Supplied place of manufacture	|	4E.2.	|	[5.31.37.1](https://rbms-bsc.github.io/DCRMR/ppdm/Place-of-manufacture/#5.31.37.1)	|
+|	Name of manufacturer	|	4F.	|	[5.32.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Name-of-manufacturer/#5.32.3.1)	|
+|	Date of manufacture	|	4G.	|	[5.33.3.1](https://rbms-bsc.github.io/DCRMR/ppdm/Date-of-manufacture/#5.33.3.1)	|
 
 ## 5. Physical Description Area
 
