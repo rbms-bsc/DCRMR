@@ -473,6 +473,107 @@ The RBMS RDA Editorial Group
 
 ## 7. Note Area
 
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	NOTE AREA	|	7.	|	[9](https://rbms-bsc.github.io/DCRMR/additional-notes/)	|
+|	Preliminary rule	|	7A.	|	n/a	|
+|	General instructions	|	7A1.	|	[9.01.4](https://rbms-bsc.github.io/DCRMR/additional-notes/#9014-general-rule)	|
+|		|	7A1.1.	|	[9.01.4.1](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.4.1)	|
+|		|	7A1.2.	|	omitted	|
+|		|	7A1.3.	|	[9.01.4.2](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.4.2)	|
+|		|	7A1.4.	|	[9.01.4.3](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.4.3)	|
+|		|	7A1.5.	|	[9.01.5.1](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.5.1)	|
+|	Punctuation	|	7A2.	|	[0.2.9.1](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.9.1)	|
+|	Sources of information	|	7A3.	|	[9.01.1.1](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.1.1)	|
+|	Form of notes	|	7A4.	|	[9.01.3](https://rbms-bsc.github.io/DCRMR/additional-notes/#9013-form-and-order-of-information)	|
+|	Order of information.	|	7A4.1.	|	[9.01.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.3.1)	|
+|	Quotations.	|	7A4.2.	|	[9.01.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/#9.01.3.2)	|
+|	Formal notes.	|	7A4.3.	|	omitted	|
+|	Informal notes.	|	7A4.4.	|	omitted	|
+|	Notes citing other editions and works	|	7A5.	|	[9.2.34](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-expression/#9234-note-on-revisions)	|
+|	Other editions.	|	7A5.1.	|	[9.2.34.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-expression/#9.2.34.2)	|
+|	Other works and other manifestations of the same work.	|	7A5.2.	|	[9.2.31.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-expression/#9.2.31.1) [9.1.31.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-work/#9.1.31.1)	|
+|	Notes	|	7B.	|	[9](https://rbms-bsc.github.io/DCRMR/additional-notes/)	|
+|	Nature, scope, or artistic form	|	7B1.	|	[9.25.31.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Summarization-of-content/#9.25.31.1)	|
+|	Language and script of publication; translation or adaptation	|	7B2.	|	[9.23.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Language-of-expression/#9233-general-rule)	|
+|		|	7B2.1.	|	[9.23.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Language-of-expression/#9.23.3.1) [9.24.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Script/#9.24.3.1)	|
+|		|	7B2.2.	|	[9.245.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.1) [9.245.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.2)	|
+|	Source of description; source of title proper	|	7B3.	|	[1.29.31](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper)	|
+|		|	7B3.1.	|	[1.29.31.1](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#1.29.31.1)	|
+|		|	7B3.2.	|	[1.29.31.3](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#1.29.31.3)	|
+|	Variations in title	|	7B4.	|	[1.29.36](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#12936-variations-in-title)	|
+|		|	7B4.1.	|	[1.29.36.1](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#1.29.36.1)	|
+|		|	7B4.2.	|	[1.29.36.2](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#1.29.36.2)	|
+|	Parallel titles and other title information	|	7B5.	|	[1.29.37.1](https://rbms-bsc.github.io/DCRMR/title/Note-on-title/#1.29.37.1)	|
+|	Statements of responsibility	|	7B6.	|	[2.29.31](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-title-page)	|
+|	Statement of responsibility in source other than title page	|	7B6.1.	|	[2.29.31.1](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)	|
+|	Transposed statements of responsibility.	|	7B6.2.	|	[2.29.32.2](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)	|
+|	Attributions	|	7B6.3.	|	[2.29.33](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#22933-attributions)	|
+|		|	7B6.3.1.	|	[2.29.33.1](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.33.1)	|
+|		|	7B6.3.2.	|	[2.29.33.2](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.33.2)	|
+|		|	7B6.3.3.	|	[2.29.33.3](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.33.3)	|
+|	Other statements.	|	7B6.4.	|	[2.29.36.1](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.36.1)	|
+|	Variant forms of names.	|	7B6.5.	|	[2.29.35.1](https://rbms-bsc.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.35.1)	|
+|	Edition and bibliographic history	|	7B7.	|	[3.26.31](https://rbms-bsc.github.io/DCRMR/edition/Note-on-edition-statement/#32631-source-and-position-of-edition-statement)	|
+|		|	7B7.1.	|	[3.26.31.1](https://rbms-bsc.github.io/DCRMR/edition/Note-on-edition-statement/#3.26.31.1) [3.26.31.2](https://rbms-bsc.github.io/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)	|
+|		|	7B7.2.	|	[3.26.32.2](https://rbms-bsc.github.io/DCRMR/edition/Note-on-edition-statement/#3.26.32.2)	|
+|		|	7B7.3.	|	[9.3.35.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.35.1)	|
+|		|	7B7.4.	|	[9.3.35.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.35.2)	|
+|		|	7B7.5.	|	[9.3.35.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.35.3)	|
+|	Publication	|	7B8.	|	[5.01.1.4](https://rbms-bsc.github.io/DCRMR/ppdm/#5.01.1.4)	|
+|	Signatures	|	7B9.	|	[6.215.44](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#621544-signatures)	|
+|	General rule.	|	7B9.1.	|	[6.215.44.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.1)	|
+|	Unavailable characters.	|	7B9.2.	|	[6.215.44.2](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.2)	|
+|	Special uses of pi and chi.	|	7B9.3.	|	[6.215.44.3](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.3)	|
+|	Non-conventional Latin alphabet.	|	7B9.4.	|	[6.215.44.35](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.35)	|
+|	Signatures do not match gatherings.	|	7B9.5. 	|	[6.215.44.4](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.4)	|
+|	Concurrent signatures.	|	7B9.6.	|	[6.215.44.5](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.5)	|
+|	Nonroman signatures (numeric sequence).	|	7B9.7.	|	[6.215.44.6](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.6)	|
+|	Nonroman signatures (alphabetic sequence).	|	7B9.8.	|	[6.215.44.65](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.65)	|
+|	Greek alphabetic signatures	|	7B9.9.	|	[6.215.44.8](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)	|
+|	Hebrew alphabetic signatures.	|	7B9.10.	|	[6.215.44.83](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.83)	|
+|	Other nonroman alphabetic signatures	|	7B9.11.	|	[6.215.44.85](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.85)	|
+|	Full collation.	|	7B9.12.	|	[6.215.44.9](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9)	|
+|	Physical description	|	7B10.	|	[n/a]()	|
+|		|	7B10.1.	|	[6.285.31.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-layout/#6.285.31.1) [6.235.31.2](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2) [6.215.421.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.1) [6.255.3.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)	|
+|		|	7B10.2.	|	[6.285.31.3](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-layout/#6.285.31.3) [6.315.3.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)	|
+|		|	7B10.3.	|	[6.225.3.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1) [6.225.3.2](https://rbms-bsc.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)	|
+|		|	7B10.4.	|	[6.32.3.1](https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)	|
+|		|	7B10.5.	|	[6.32.3.3](https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#6.32.3.3) [6.32.3.4](https://rbms-bsc.github.io/DCRMR/phys-desc/Type-of-binding/#6.32.3.4) [9.41.35.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)	|
+|	Accompanying material	|	7B11.	|	[9.31.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.2)	|
+|	Series	|	7B12.	|	[8.29.31.1](https://rbms-bsc.github.io/DCRMR/series/Note-on-series-statement/#8.29.31.1)	|
+|	Dissertations	|	7B13.	|	[9.12.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1) [9.12.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2)	|
+|	References to published descriptions	|	7B14.	|	[9.32.31](https://rbms-bsc.github.io/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)	|
+|		|	7B14.1.	|	[9.32.31.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)	|
+|		|	7B14.2.	|	[9.32.31.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)	|
+|		|	7B14.3.	|	[9.32.32.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Manifestation-described-in/#9.32.32.1)	|
+|	Summary	|	7B15.	|	[9.25.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Summarization-of-content/#9.25.3.1)	|
+|	Contents	|	7B16.	|	[9.3.32](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)	|
+|		|	7B16.1.	|	[9.3.32.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)	|
+|		|	7B16.2.	|	[9.3.32.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.2)	|
+|		|	7B16.3.	|	[9.3.32.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.3)	|
+|	Numbers	|	7B17.	|	[10.23.3.1](https://rbms-bsc.github.io/DCRMR/identifiers/Note-on-identifier-for-manifestation/#10.23.3.1)	|
+|	“With” notes	|	7B18.	|	[9.45.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Bound-with/#9453-general-rule)	|
+|		|	7B18.1.	|	[9.45.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.1)	|
+|		|	7B18.2.	|	[9.45.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.2)	|
+|		|	7B18.3.	|	[9.34.25.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Issued-with/#9.34.25.1)	|
+|	Copy being described and library holdings (Local notes)	|	7B19.	|	[9.4.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-item/#943-general-rule)	|
+|	General rule	|	7B19.1.	|	[9.4.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.1)	|
+|		|	7B19.1.1.	|	[9.4.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.2)	|
+|		|	7B19.1.2.	|	[9.4.3.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.3)	|
+|		|	7B19.1.3.	|	[9.41.3.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)	|
+|		|	7B19.1.4.	|	[9.4.3.4](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.4)	|
+|	Provenance	|	7B19.2.	|	[9.41.33.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.33.1) [9.91.33.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.33.2)	|
+|	Bindings	|	7B19.3.	|	[9.41.35](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#94135-bindings)	|
+|		|	7B19.3.1.	|	[9.41.35.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)	|
+|		|	7B19.3.2.	|	[9.43.3.4](https://rbms-bsc.github.io/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.4)	|
+|		|	7B19.3.3.	|	[9.41.35.2](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.35.2)	|
+|		|	7B19.3.4.	|	[9.45.3.1](https://rbms-bsc.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.11)	|
+|		|	7B19.3.5.	|	[9.45.3.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.3)	|
+|		|	7B19.3.6.	|	[9.41.35.3](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.35.3)	|
+|		|	7B19.3.7.	|	[9.41.35.5](https://rbms-bsc.github.io/DCRMR/additional-notes/Modification-of-item/#9.41.35.5)	|
+
+
 ## 8. Standard Number and Terms of Availability Area
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
