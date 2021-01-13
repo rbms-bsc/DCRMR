@@ -71,6 +71,75 @@ The RBMS RDA Editorial Group
 
 ## 0. General Rules
 
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	General Rules	|	0.	|	[0](https://rbms-bsc.github.io/DCRMR/general-rules/)	|
+|	Scope	|	0A.	|	n/a	|
+|	The basic description	|	0B.	|	n/a	|
+|	Required elements	|	0B1.	|	n/a	|
+|	Basis of the description	|	0B2.	|	[0.1.2](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#012-basis-of-the-description)	|
+|	General rule	|	0B2.1.	|	[0.1.21.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.21.1)	|
+|	Imperfect copies	|	0B2.2.	|	[0.1.22.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.22.1) [0.1.22.2](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.22.2)	|
+|	Chief source of information	|	0C.	|	[0.1.3](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#013-preferred-source-of-information)	|
+|	Single title page	|	0C1.	|	[0.1.31](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0131-manifestations-consisting-of-more-than-one-page-leaf-sheet-or-card)	|
+|		|	0C1.1.	|	[0.1.31.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.1) [0.1.31.2](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.2)	|
+|		|	0C1.2.	|	[0.1.31.3](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.3)	|
+|	Multiple title pages	|	0C2.	|	[0.1.33.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.33.1)  [0.1.35.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.35.1)	|
+|	No title page	|	0C3.	|	[0.1.34.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.34.1)	|
+|	Prescribed sources of information	|	0D.	|	[0.1.5.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.5.1)   [0.1.5.2](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.5.2)  [0.1.32.1](https://rbms-bsc.github.io/DCRMR/general-rules/Data-provenance/#0.1.32.1)	|
+|	Prescribed punctuation	|	0E.	|	[0.2.01.1](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.1)  [0.2.01.2](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)   [0.2.01.3](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.3)  [0.2.01.4](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.4)	|
+|	Language and script of the description	|	0F.	|	[0.3](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/)	|
+|	General rule	|	0F1.	|	[0.3.1](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#031-general-rule)	|
+|		|	0F1.1.	|	[0.3.1.1](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.1)	|
+|		|	0F1.2.	|	[0.3.1.3](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.3)	|
+|		|	0F1.3.	|	[0.3.1.4](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.4)	|
+|	Romanization	|	0F2.	|	[0.3.2](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#032-romanization)	|
+|		|	0F2.1.	|	[0.3.2.1](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)	|
+|		|	0F2.2.	|	[0.3.2.2](https://rbms-bsc.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.2)	|
+|	Transcription	|	0G.	|	[0.4.05.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.05.1)	|
+|	Letters, diacritics, and symbols	|	0G1.	|	[0.4.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#041-letters-diacritical-marks-ligatures-symbols-and-rebuses)	|
+|	Letters and diacritics	|	0G1.1.	|	[0.4.12.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.12.1) [0.4.13.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.13.1)	|
+|	Symbols, etc.	|	0G1.2.	|	[0.4.14.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.14.1)	|
+|	Capitalization and conversion of case	|	0G2.	|	[0.4.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#042-capitalization-and-conversion-of-case)	|
+|	General rule	|	0G2.1.	|	[0.4.21.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.21.1)	|
+|	Letterforms I,V, i, j, u, and v	|	0G2.2.	|	[0.4.23.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.23.1)	|
+|	Final capital "I" in Latin	|	0G2.3.	|	[0.4.24.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.24.1)	|
+|	Chronograms	|	0G2.4.	|	[0.4.25.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.25.1)	|
+|	Punctuation in the source	|	0G3.	|	[0.4.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#043-punctuation)	|
+|	General rule	|	0G3.1.	|	[0.4.31.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.31.1) [0.4.31.4](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.31.4)	|
+|	Apostrophes	|	0G3.2.	|	[0.4.32.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.32.1)	|
+|	Hyphens	|	0G3.3.	|	[0.4.33.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.33.1)	|
+|	Punctuation within roman numerals	|	0G3.4.	|	[0.4.34.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.34.1)	|
+|	Ellipses, square brackets, and virgules	|	0G3.5.	|	[0.4.35.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.35.1) [0.4.335.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.355.1) [0.4.36.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.36.1)	|
+|	Line endings	|	0G3.6.	|	[0.4.37.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.37.1)	|
+|	Punctuation substituting for letters	|	0G3.7.	|	[0.4.38.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.38.1) [0.4.38.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.38.2) [0.4.38.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.38.3)	|
+|	Spacing	|	0G4.	|	[0.4.4](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#044-spacing)	|
+|	Spacing within words and numbers	|	0G4.1.	|	[0.4.42.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.42.1) [0.4.42.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.42.2) [0.4.42.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.42.3)	|
+|	Spacing between words	|	0G4.2.	|	[0.4.43.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.43.1)	|
+|	Variant spellings	|	0G4.3.	|	[0.4.44.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.44.1)	|
+|	0G5. Omissions	|	0G5.	|	[0.4.5](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#045-omissions)	|
+|	General rule	|	0G5.1.	|	[0.4.51.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.51.1)	|
+|	Information not considered part of any area	|	0G5.2.	|	[0.4.52.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.52.1)	|
+|	Information not taken from the chief source of information	|	0G5.3.	|	[0.4.53.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.53.1)	|
+|	0G6. Interpolations	|	0G6.	|	[0.4.6](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#046-interpolations)	|
+|	General rule	|	0G6.1.	|	[0.4.61.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.61.1)	|
+|	Conjectural and indecipherable text	|	0G6.2.	|	[0.4.62.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.62.1)	|
+|	Lacunae in imperfect copies	|	0G6.3.	|	[0.4.63.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.63.1)	|
+|	Blank spaces	|	0G6.4.	|	[0.4.64.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.64.1) [0.4.64.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.64.2) [0.4.64.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.64.3)	|
+|	Adjacent elements	|	0G6.5.	|	[0.2.01.2 ](https://rbms-bsc.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)	|
+|	Misprints, etc.	|	0G7.	|	[0.4.7](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#047-inaccuracies-misprints-etc)	|
+|	Misprints	|	0G7.1.	|	[0.4.72.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.72.1) [0.4.72.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.72.3)	|
+|	Turned and approximated letters	|	0G7.2.	|	[0.4.74.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.1) [0.4.74.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.2) [0.4.74.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.3)	|
+|	Blank spaces for initial letters	|	0G7.3.	|	[0.4.65.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.65.1) [0.4.65.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.65.2) [0.4.65.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.65.3)	|
+|	0G8. Abbreviations and contractions	|	0G8.	|	[0.4.82](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions)	|
+|		|	0G8.1.	|	[0.4.82.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.82.1)	|
+|		|	0G8.2.	|	[0.4.16.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.16.1) [0.4.16.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.16.2) [0.4.16.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.16.3) [0.4.16.4](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.16.4)	|
+|	Superscripts and subscripts	|	0G9.	|	[0.4.86.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.86.1)	|
+|	Initials, etc.	|	0G10	|	[0.4.45](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0445-initials-etc)	|
+|		|	0G10.1.	|	[0.4.45.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.45.1)	|
+|		|	0G10.2.	|	[0.4.45.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.45.2)	|
+|		|	0G10.3.	|	[0.4.45.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.45.3)	|
+
 ## 1. Title and Statement of Responsibility Area
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
