@@ -659,6 +659,48 @@ The RBMS RDA Editorial Group
 
 ## Appendices
 
+### Appendix F
+
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	Introduction	|	F1.	|	n/a	|
+|	Title proper	|	0B1.	|	[1.21.39.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.39.1)	|
+|	Title proper in nonroman script	|	0F1.1. 	|	[1.25.351.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.351.1)	|
+|	Title proper with converted letterforms I, J, i, j, u, or v 	|	0G2.2.	|	[1.25.3515.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)	|
+|	Latin title proper with final capital I representing ii	|	0G2.3.	|	[1.25.352.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)	|
+|	Title proper containing characters as substitutes for letters (Optional)	|	0G3.7. 	|	[1.25.3525.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)	|
+|	Title proper with inserted spacing	|	0G4.2. 	|	[1.25.353.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)	|
+|	Title proper with an interpolated blank	|	0G6.4.	|	[1.25.3545.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)	|
+|	Title proper with corrected misprint	|	0G7.1.	|	[1.25.355.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)	|
+|	Title proper with non-standard orthography (Optional)	|	0G7.1	|	[1.25.3555.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)	|
+|	Title proper with approximated letters	|	0G7.2. 	|	[1.25.356.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)	|
+|	Title proper with special marks of contraction (Optional)	|	0G8.2. 	|	[1.25.3565.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)	|
+|	Title proper with transposed elements (Optional)	|	1B1.1.	|	[1.25.357.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.357.1)	|
+|	Title proper inclusive of an alternative title (Optional)	|	1B3.2. 	|	[1.25.3575.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3575.1)	|
+|	Title proper with supplementary or section title (Optional)	|	1B6. 	|	[1.25.358.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.358.1)	|
+|	Parallel titles (Optional)	|	1C. 	|	[1.215.33.1](https://rbms-bsc.github.io/DCRMR/title/Parallel-title-proper/#1.215.33.1)	|
+|	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
+|	Titles of additional works (Optional)	|	1F1-1F2. 	|	[1.21.371.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.384.1)	|
+|	Titles of works on single-sheet publications (Optional)	|	1G1-1G8. 	|	[1.25.359.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.384.1) [1.21.385.1](https://rbms-bsc.github.io/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](https://rbms-bsc.github.io/DCRMR/series/Title-of-series/#8.21.31.1)	|
+|	Title variants and other titles (Optional)	|	7B4-7B5.	|	[1.25.3593.1](https://rbms-bsc.github.io/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
+|	Titles of accompanying material (Optional)	|	7B11.	|	[9.31.3.6](https://rbms-bsc.github.io/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.6)	|
+|	Copy-specific titles (Optional)	|	7B19. 	|	[1.27.31.1 ](https://rbms-bsc.github.io/DCRMR/title/Title-of-item/#1.27.31.1) [1.27.31.2](https://rbms-bsc.github.io/DCRMR/title/Title-of-item/#1.27.31.2)	|
+
+### Appendix G
+
+| DCRM Contents | DCRM Citation | DCRMR Citation |
+| ---|---|---|
+|	Introduction 	|	G1.	|	n/a
+|	Early letterforms and symbols 	|	G2.	|	[0.4.15.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.15.1)
+|	Early contractions 	|	G3. 	|	[0.4.16.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.16.1)
+|	Letterforms I/J, U/V, i/j, and u/v	|	G4.	|	[0.4.23](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v)
+|	Historical background.	|	G4.1. 	|	[0.4.23.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.23.1)
+|	Transcription. 	|	G4.2. 	|	[0.4.23.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.23.2) [0.4.23.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.23.3) [0.4.23.4](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.23.4)
+|	Letter w	|	G5.	|	[0.4.74](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0474-turned-and-approximated-letters)
+|	Historical background.	|	G5.1. 	|	[0.4.74.2](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.2) [0.4.74.3](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.3)
+|	Transcription. 	|	G5.2.	|	[0.4.74.1](https://rbms-bsc.github.io/DCRMR/general-rules/Transcription/#0.4.74.1)
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Here there be dragons")](https://youtu.be/xvFZjo5PgG0)
