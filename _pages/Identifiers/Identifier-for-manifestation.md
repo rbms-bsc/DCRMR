@@ -41,4 +41,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.22 — Term of availability")](/DCRMR/identifiers/Term-of-availability/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Appendices")](/DCRMR/appendices/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.22 — Term of availability")](/DCRMR/identifiers/Term-of-availability/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "10.21 — Fingerprint")](/DCRMR/identifiers/Fingerprint/)
