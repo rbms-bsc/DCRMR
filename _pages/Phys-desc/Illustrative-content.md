@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.22 — Illustrative content
-permalink: phys-desc/Illustrative-content/
+permalink: DCRMR/phys-desc/Illustrative-content/
 sidebar:
   nav: "docs"
 ---

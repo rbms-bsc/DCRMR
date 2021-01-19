@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: H — Individual and special issues of serials
-permalink: appendices/Appendix-h/
+permalink: DCRMR/appendices/Appendix-h/
 sidebar:
   nav: "docs"
 ---

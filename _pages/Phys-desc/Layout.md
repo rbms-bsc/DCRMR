@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.28 — Layout
-permalink: phys-desc/Layout/
+permalink: DCRMR/phys-desc/Layout/
 sidebar:
   nav: "docs"
 ---

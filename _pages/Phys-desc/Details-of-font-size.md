@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.315 — Details of font size
-permalink: phys-desc/Details-of-font-size/
+permalink: DCRMR/phys-desc/Details-of-font-size/
 sidebar:
   nav: "docs"
 ---

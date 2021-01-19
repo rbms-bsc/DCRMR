@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.27 — Title of item
-permalink: title/Title-of-item/
+permalink: DCRMR/title/Title-of-item/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: B — Collection-level records
-permalink: appendices/Appendix-b/
+permalink: DCRMR/appendices/Appendix-b/
 sidebar:
   nav: "docs"
 ---

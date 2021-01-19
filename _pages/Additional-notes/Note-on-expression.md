@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.2 — Note on expression
-permalink: additional-notes/Note-on-expression/
+permalink: DCRMR/additional-notes/Note-on-expression/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.22 — Designation of edition
-permalink: edition/Designation-of-edition/
+permalink: DCRMR/edition/Designation-of-edition/
 sidebar:
   nav: "docs"
 ---

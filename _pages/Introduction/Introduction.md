@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Introduction
-permalink: /introduction/
+permalink: DCRMR/introduction/
 sidebar:
   nav: "docs"
 ---

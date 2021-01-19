@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.27 — Production method
-permalink: phys-desc/Production-method/
+permalink: DCRMR/phys-desc/Production-method/
 sidebar:
   nav: "docs"
 ---

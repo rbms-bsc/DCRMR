@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.245 — Note on dimensions of manifestation
-permalink: phys-desc/Note-on-dimensions-of-manifestation/
+permalink: DCRMR/phys-desc/Note-on-dimensions-of-manifestation/
 sidebar:
   nav: "docs"
 ---

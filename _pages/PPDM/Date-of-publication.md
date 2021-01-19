@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.23 — Date of publication
-permalink: ppdm/Date-of-publication/
+permalink: DCRMR/ppdm/Date-of-publication/
 sidebar:
   nav: "docs"
 ---

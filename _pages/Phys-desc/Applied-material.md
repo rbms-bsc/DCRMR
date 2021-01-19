@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.26 — Applied material
-permalink: phys-desc/Applied-material/
+permalink: DCRMR/phys-desc/Applied-material/
 sidebar:
   nav: "docs"
 ---

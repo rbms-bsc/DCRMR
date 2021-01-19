@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.21 — Place of publication
-permalink: ppdm/Place-of-publication/
+permalink:  DCRMR/ppdm/Place-of-publication/
 sidebar:
   nav: "docs"
 ---

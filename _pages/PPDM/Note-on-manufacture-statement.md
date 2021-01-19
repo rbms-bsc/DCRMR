@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.34 — Note on manufacture statement
-permalink: ppdm/Note-on-manufacture-statement/
+permalink: DCRMR/ppdm/Note-on-manufacture-statement/
 sidebar:
   nav: "docs"
 ---

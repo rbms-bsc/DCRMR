@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.121 — Academic degree
-permalink: additional-notes/Academic-degree/
+permalink: DCRMR/additional-notes/Academic-degree/
 sidebar:
   nav: "docs"
 ---

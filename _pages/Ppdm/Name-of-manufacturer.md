@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.32 — Name of manufacturer
-permalink: ppdm/Name-of-manufacturer/
+permalink: DCRMR/ppdm/Name-of-manufacturer/
 sidebar:
   nav: "docs"
 ---

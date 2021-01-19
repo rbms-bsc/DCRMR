@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5 — Production, Publication, Distribution, Manufacture
-permalink: ppdm/
+permalink:  DCRMR/ppdm/
 permalink: /ppdm/
 sidebar:
   nav: "docs"

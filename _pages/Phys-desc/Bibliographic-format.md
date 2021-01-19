@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.29 — Bibliographic format
-permalink: phys-desc/Bibliographic-format/
+permalink: DCRMR/phys-desc/Bibliographic-format/
 sidebar:
   nav: "docs"
 ---

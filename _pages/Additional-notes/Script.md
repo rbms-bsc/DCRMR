@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.24 — Script
-permalink: additional-notes/Script/
+permalink: DCRMR/additional-notes/Script/
 sidebar:
   nav: "docs"
 ---

@@ -2,8 +2,7 @@
 layout: single
 type: docs
 title: 9 — Additional notes
-permalink: additional-notes/
-permalink: /additional-notes/
+permalink: DCRMR/additional-notes/
 sidebar:
   nav: "docs"
 ---

@@ -2,8 +2,7 @@
 layout: single
 type: docs
 title: 7 — Numbering of serials
-permalink: /numbering-of-serials/
-permalink: numbering-of-serials/
+permalink: DCRMR/numbering-of-serials/
 sidebar:
   nav: "docs"
 ---

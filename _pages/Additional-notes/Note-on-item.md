@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.4 — Note on item
-permalink: additional-notes/Note-on-item/
+permalink: DCRMR/additional-notes/Note-on-item/
 sidebar:
   nav: "docs"
 ---

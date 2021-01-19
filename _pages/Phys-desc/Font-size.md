@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.31 — Font size
-permalink: phys-desc/Font-size/
+permalink: DCRMR/phys-desc/Font-size/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 10.22 — Term of availability
-permalink: identifiers/Term-of-availability/
+permalink: DCRMR/identifiers/Term-of-availability/
 sidebar:
   nav: "docs"
 ---

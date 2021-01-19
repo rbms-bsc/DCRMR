@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.32 — Type of binding
-permalink: phys-desc/Type-of-binding/
+permalink: DCRMR/phys-desc/Type-of-binding/
 sidebar:
   nav: "docs"
 ---

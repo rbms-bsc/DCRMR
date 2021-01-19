@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.12 — Dissertation or thesis information
-permalink: additional-notes/Dissertation-or-thesis-information/
+permalink: DCRMR/additional-notes/Dissertation-or-thesis-information/
 sidebar:
   nav: "docs"
 ---

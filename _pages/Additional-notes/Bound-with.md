@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.45 — Bound with
-permalink: additional-notes/Bound-with/
+permalink: DCRMR/additional-notes/Bound-with/
 sidebar:
   nav: "docs"
 ---

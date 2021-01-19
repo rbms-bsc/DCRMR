@@ -2,8 +2,7 @@
 layout: single
 type: docs
 title: 4 — Mathematical details
-permalink: /mathematical-details/
-permalink: mathematical-details/
+permalink: DCRMR/mathematical-details/
 sidebar:
   nav: "docs"
 ---

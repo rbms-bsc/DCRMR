@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.35 — Carrier type
-permalink: phys-desc/Carrier-type/
+permalink: DCRMR/phys-desc/Carrier-type/
 sidebar:
   nav: "docs"
 ---

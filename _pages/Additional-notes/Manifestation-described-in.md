@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.32 — Manifestation described in
-permalink: additional-notes/Manifestation-described-in/
+permalink: DCRMR/additional-notes/Manifestation-described-in/
 sidebar:
   nav: "docs"
 ---

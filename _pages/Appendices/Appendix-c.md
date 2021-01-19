@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: C — Core-level records
-permalink: appendices/Appendix-c/
+permalink: DCRMR/appendices/Appendix-c/
 sidebar:
   nav: "docs"
 ---

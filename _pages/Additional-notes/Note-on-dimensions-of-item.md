@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.44 — Note on dimensions of item
-permalink: additional-notes/Note-on-dimensions-of-item/
+permalink: DCRMR/additional-notes/Note-on-dimensions-of-item/
 sidebar:
   nav: "docs"
 ---

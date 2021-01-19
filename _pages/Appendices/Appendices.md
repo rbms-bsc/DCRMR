@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Appendices
-permalink: /appendices/
+permalink: DCRMR/appendices/
 sidebar:
   nav: "docs"
 ---

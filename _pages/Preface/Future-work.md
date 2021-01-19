@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Future work
-permalink: preface/Future-work/
+permalink:  DCRMR/preface/Future-work/
 sidebar:
   nav: "docs"
 ---

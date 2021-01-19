@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.31 — Accompanied by manifestation
-permalink: additional-notes/Accompanied-by-manifestation/
+permalink: DCRMR/additional-notes/Accompanied-by-manifestation/
 sidebar:
   nav: "docs"
 ---
