@@ -3,7 +3,6 @@ layout: single
 type: docs
 title: 2 — Statement of responsibility
 permalink:  DCRMR/sor/
-permalink:  /sor/
 sidebar:
   nav: "docs"
 ---
