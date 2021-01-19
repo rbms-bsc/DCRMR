@@ -282,7 +282,7 @@ docs:
         url: /DCRMR/additional-notes/Bound-with/
         
   - title: "10 — Identifiers"
-    url: http://rbms-bsc.github.io/DCRMR/identifiers/
+    url: /DCRMR/identifiers/
     children:
       - title: "10.2 — Identifier for manifestation"
         url: /DCRMR/identifiers/Identifier-for-manifestation/

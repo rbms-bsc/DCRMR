@@ -3,7 +3,6 @@ layout: single
 type: docs
 title: 0 — General rules
 permalink: DCRMR/general-rules/
-permalink: /general-rules/
 sidebar:
   nav: "docs"
 ---

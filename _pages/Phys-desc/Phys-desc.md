@@ -3,7 +3,6 @@ layout: single
 type: docs
 title: 6 — Physical Description
 permalink: DCRMR/phys-desc/
-permalink: /phys-desc/
 sidebar:
   nav: "docs"
 ---
