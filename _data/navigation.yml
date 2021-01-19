@@ -28,7 +28,7 @@ docs:
     url: /DCRMR/introduction/
 
   - title: "0 — General rules"
-    url: /DCRMR/general-rules/
+    url: /general-rules/
     children:
       - title: "0.1 — Data provenance"
         url: /DCRMR/general-rules/Data-provenance/
@@ -40,7 +40,7 @@ docs:
         url: /DCRMR/general-rules/Transcription/
         
   - title: "1 — Title"
-    url: /DCRMR/title/
+    url: /title/
     children:
       - title: "1.2 — Title of manifestation"
         url: /DCRMR/title/Title-of-manifestation/
