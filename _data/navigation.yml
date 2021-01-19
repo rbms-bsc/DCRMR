@@ -215,23 +215,23 @@ docs:
     url: /series/
     children:
       - title: "8.2 — Series statement"
-        url: /series/Series-statement/
+        url: /DCRMR/series/Series-statement/
       - title: "8.21 — Title of series"
-        url: /series/Title-of-series/
+        url: /DCRMR/series/Title-of-series/
       - title: "8.215 — Parallel title of series"
-        url: /series/Parallel-title-of-series/
+        url: /DCRMR/series/Parallel-title-of-series/
       - title: "8.23 — Other title information of series"
-        url: /series/Other-title-information-of-series/
+        url: /DCRMR/series/Other-title-information-of-series/
       - title: "8.235 — Parallel other title information of series"
-        url: /series/Parallel-other-title-information-of-series/
+        url: /DCRMR/series/Parallel-other-title-information-of-series/
       - title: "8.25 — Statement of responsibility relating to series"
-        url: /series/Statement-of-responsibility-relating-to-series/
+        url: /DCRMR/series/Statement-of-responsibility-relating-to-series/
       - title: "8.255 — Parallel statement of responsibility relating to series"
-        url: /series/Parallel-statement-of-responsibility-relating-to-series/
+        url: /DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/
       - title: "8.27 — Numbering within sequence"
-        url: /series/Numbering-within-sequence/
+        url: /DCRMR/series/Numbering-within-sequence/
       - title: "8.29 — Note on series statement"
-        url: /series/Note-on-series-statement/
+        url: /DCRMR/series/Note-on-series-statement/
        
   - title: "9 — Additional Notes"
     url: /additional-notes/

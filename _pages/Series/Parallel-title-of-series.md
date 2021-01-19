@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.215 — Parallel title of series
-permalink: series/Parallel-title-of-series/
+permalink: DCRMR/series/Parallel-title-of-series/
 sidebar:
   nav: "docs"
 ---

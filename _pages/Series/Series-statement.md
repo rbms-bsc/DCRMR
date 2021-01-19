@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.2 — Series statement
-permalink: series/Series-statement/
+permalink: DCRMR/series/Series-statement/
 sidebar:
   nav: "docs"
 ---
