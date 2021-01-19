@@ -13,7 +13,7 @@ main:
 docs:
 
   - title: "Preface"
-    url: /DCRMR/preface/
+    url: http://bsc.rbms.info/DCRMR/preface/
     children:
       - title: "Background"
         url: /DCRMR/preface/Background/
@@ -25,10 +25,10 @@ docs:
         url: /DCRMR/preface/Acknowledgments/
 
   - title: "Introduction"
-    url: /DCRMR/introduction/
+    url: http://bsc.rbms.info/DCRMR/introduction/
 
   - title: "0 — General rules"
-    url: /DCRMR/general-rules/
+    url: DCRMR/general-rules/
     children:
       - title: "0.1 — Data provenance"
         url: /DCRMR/general-rules/Data-provenance/
@@ -40,7 +40,7 @@ docs:
         url: /DCRMR/general-rules/Transcription/
         
   - title: "1 — Title"
-    url: /DCRMR/title/
+    url: http://bsc.rbms.info/DCRMR/title/
     children:
       - title: "1.2 — Title of manifestation"
         url: /DCRMR/title/Title-of-manifestation/
@@ -60,7 +60,7 @@ docs:
         url: /DCRMR/title/Note-on-title/       
         
   - title: "2 — Statement of responsibility"
-    url: /DCRMR/sor/
+    url: http://bsc.rbms.info/DCRMR/sor/
     children:
       - title: "2.21 — Statement of responsibility relating to title proper"
         url: /DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
@@ -70,7 +70,7 @@ docs:
         url: /DCRMR/sor/Note-on-statement-of-responsibility/
         
   - title: "3 — Edition"
-    url: /DCRMR/edition/
+    url: http://bsc.rbms.info/DCRMR/edition/
     children:
       - title: "3.21 — Edition statement"
         url: /DCRMR/edition/Edition-statement/
@@ -94,13 +94,13 @@ docs:
         url: /DCRMR/edition/Note-on-edition-statement/
         
   - title: "4 — Mathematical details"
-    url: /DCRMR/mathematical-details/
+    url: http://bsc.rbms.info/DCRMR/mathematical-details/
     children:
       - title: "4.21 — Details of cartographic content"
         url: /DCRMR/mathematical-details/Details-of-cartographic-content/
         
   - title: "5 — Production, Publication, Distribution, Manufacture"
-    url: /DCRMR/ppdm/
+    url: http://bsc.rbms.info/DCRMR/ppdm/
     children:
       - title: "5.1 — Production statement"
         url: /DCRMR/ppdm/Production-statement/
@@ -152,7 +152,7 @@ docs:
         url: /DCRMR/ppdm/Note-on-copyright-date/
         
   - title: "6 — Physical Description"
-    url: /DCRMR/phys-desc/
+    url: http://bsc.rbms.info/DCRMR/phys-desc/
     children:
       - title: "6.21 — Extent of manifestation"
         url: /DCRMR/phys-desc/Extent-of-manifestation/
@@ -206,13 +206,13 @@ docs:
         url: /DCRMR/phys-desc/Note-on-carrier/
         
   - title: "7 — Numbering of serials"
-    url: /DCRMR/numbering-of-serials/
+    url: http://bsc.rbms.info/DCRMR/numbering-of-serials/
     children:
       - title: "7.21 — Numbering of sequence"
         url: /DCRMR/numbering-of-serials/Numbering-of-sequence/
         
   - title: "8 — Series"
-    url: /DCRMR/series/
+    url: http://bsc.rbms.info/DCRMR/series/
     children:
       - title: "8.2 — Series statement"
         url: /DCRMR/series/Series-statement/
@@ -234,7 +234,7 @@ docs:
         url: /DCRMR/series/Note-on-series-statement/
        
   - title: "9 — Additional Notes"
-    url: /DCRMR/additional-notes/
+    url: http://bsc.rbms.info/DCRMR/additional-notes/
     children:
       - title: "9.05 — Note on RDA entity"
         url: /DCRMR/additional-notes/Note-on-RDA-entity/
@@ -282,7 +282,7 @@ docs:
         url: /DCRMR/additional-notes/Bound-with/
         
   - title: "10 — Identifiers"
-    url: /DCRMR/identifiers/
+    url: http://bsc.rbms.info/DCRMR/identifiers/
     children:
       - title: "10.2 — Identifier for manifestation"
         url: /DCRMR/identifiers/Identifier-for-manifestation/
@@ -294,7 +294,7 @@ docs:
         url: /DCRMR/identifiers/Note-on-identifier-for-manifestation/
        
   - title: "Appendices"
-    url: /DCRMR/appendices/
+    url: http://bsc.rbms.info/DCRMR/appendices/
     children:
       - title: "A — MARC 21 Descriptive Conventions Code"
         url: /DCRMR/appendices/Appendix-a/
