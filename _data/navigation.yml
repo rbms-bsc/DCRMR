@@ -212,7 +212,7 @@ docs:
         url: /numbering-of-serials/Numbering-of-sequence/
         
   - title: "8 — Series"
-    url: /series/
+    url: /DCRMR/series/
     children:
       - title: "8.2 — Series statement"
         url: /DCRMR/series/Series-statement/
