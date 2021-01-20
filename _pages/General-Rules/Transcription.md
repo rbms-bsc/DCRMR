@@ -122,7 +122,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
->(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) shipp within Temple Bar)
+>(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Shipp within Temple Bar)
 
 <a name="0.4.16.4">0.4.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [Conjectural and indecipherable text](/DCRMR/general-rules/Transcription/#0462-conjectural-and-indecipherable-text) (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
 
@@ -134,7 +134,7 @@ Make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
->Note on title: <CITE>Title in the form of a rebus. Bute represented as a boot in the rebus</CITE>
+>Note on title: <CITE>The following words in the title are represented by images: Lord Bute as a boot, city by a panorama of London with a view of St. Paul's Cathedral, bridge by an image of a bridge, hole by a black circle with uneven edges</CITE>
 
 ## 0.4.2 Capitalization and conversion of case
 
@@ -193,10 +193,11 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 
 >Example:  
 ><CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
->(*Source of information reads*: M. AccI Plauti quae supersunt Comoediae)
+>(*Source of information reads*: <SMALLCAPS>m. accI plavti qvae svpersvnt comoediae</SMALLCAPS>)
 
 >Example:  
-><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>
+><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>  
+>(*Source of information reads*: <SMALLCAPS>valerI andreae desselI i.c. bibliotheca belgica</SMALLCAPS>)
 
 <a name="0.4.24.2">0.4.24.2</a> If the letter occurs within the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)).
 
@@ -229,7 +230,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 <a name="0.4.31.2">0.4.31.2</a> If the cataloging agency applies ISBD punctuation, omit punctuation present on the source that occurs at the end of an element.
 
 >Example:  
->Publication statement: <CITE>London : Printed for A. Millar, over-against Catharine-Street in the Strand, M,DCC,LI [1751]</CITE>  
+><CITE>London : Printed for A. Millar, over-against Catharine-Street in the Strand, M,DCC,LI [1751]</CITE>  
 >(*Source of information reads*: London: Printed for A. Millar, over-against Catharine-street in the Strand. M,DCC,LI.)
 
 <a name="0.4.31.3">0.4.31.3</a> Omit or add punctuation as needed for clarity.
@@ -245,7 +246,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 * [Line endings](/DCRMR/general-rules/Transcription/#0437-line-endings) (see [0.4.37.1](/DCRMR/general-rules/Transcription/#0.4.37.1))
 
 >Example:  
-><CITE>Perdito & Perdita—or—the man & woman of the people</CITE>
+><CITE>Perdito & Perdita—or—The man & woman of the people</CITE>
 
 If a cataloging agency applies ISBD punctuation and the option for transcribing original punctuation is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
 
@@ -304,7 +305,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 >Example:  
 >Title proper: <CITE>America, America, God shed his grace on thee and crown thy good with brotherhood</CITE>  
->(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood...)
+>(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood ...)
 
 <a name="0.4.35.2">0.4.35.2</a> *Optionally*, ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
 
@@ -317,9 +318,9 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 <a name="0.4.355.1">0.4.355.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note if considered important.
 
 >Example:  
->Title proper: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
+>Other title information: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
->(*Source of information reads*: A treatise wherein this case [how to discerne Gods answers to our prayers] is briefly resolved)
+>(*Source of information reads*: A Treatise wherein this Case [How to discerne Gods answers to our prayers] is briefly resolved)
 
 <a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important.
 
@@ -352,8 +353,8 @@ Do not supply marks of punctuation to indicate line breaks.
 <a name="0.4.38.1">0.4.38.1</a> Transcribe as a single hyphen each distinct hyphen, dash, line, or underscore character used in the source, whether used as a substitute for one or more letters in a word or for an entire word.
 
 >Example:  
-><CITE>Sec--t----s of st--te, the L----ds of the Ad------ty</CITE>  
->(*Source of information reads*: Sec--t----s of st--te, the L----ds of the Ad------ty)
+><CITE>Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty</CITE>  
+>(*Source of information reads*: Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty)
 
 >Example:  
 ><CITE>Map illustrating the explorations of Pundit A- K- in Great Tibet, 1879-1882</CITE>  
@@ -362,7 +363,7 @@ Do not supply marks of punctuation to indicate line breaks.
 <a name="0.4.38.2">0.4.38.2</a> Transcribe asterisks as asterisks.
 
 >Example:  
-><CITE>par Mr. B***</CITE> 
+><CITE>par Mr. B**</CITE> 
 
 >Example:  
 ><CITE>The conduct of the two B*****rs</CITE>
@@ -552,12 +553,6 @@ If considered important, give the omitted text in a note.
 >Designation of edition: <CITE>The second edition</CITE>  
 >Note on edition statement: <CITE>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley’s designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed</CITE>
 
->Example:  
->Place of publication: <CITE>Impressum Lypczk</CITE>  
->Name of publisher: <CITE>per Arnoldum de Colonia</CITE>  
->Date of publication: <CITE>Anno nonagesimo quinto</CITE>  
->Note on publication statement: <CITE>Imprint from colophon; full colophon reads: Michaelis Scoti de procreat[i]o[n]e et ho[m]i[ni]s phisionomia explicit. Impressum Lypczk per Arnoldum de Colonia Anno nonagesimo quinto</CITE>
-
 ## 0.4.6 Interpolations
 
 ### 0.4.61 General rule
@@ -571,10 +566,6 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 >Example:
 ><CITE>Multo[rum]</CITE>  
 >(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol)
-
->Example:  
-><CITE>[Englan]ds improvement, and seasonable advice to all gentlemen and farmers</CITE>  
->(*Comment*: Mutilated title page affecting first word of title; full title from Wing; the formal citation for Wing is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 ><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  

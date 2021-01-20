@@ -30,11 +30,6 @@ sidebar:
 <a name="0.1.22.2">0.1.22.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1).
 
 >Example:  
->Publication statement: <CITE>London : Pub. 13th June 1776 by W. Humphrey, Gerrard Street, Soho, [1776]</CITE>  
->Note on publication statement: <CITE>Imprint from Catalogue of prints and drawings in the British Museum, vol. 5</CITE>  
->Modification of item: <CITE>Imperfect; trimmed below title, removing imprint</CITE>
-
->Example:  
 >Title proper: <CITE>Carta de […] sitio de Puebla</CITE>  
 >Note on manifestation: <CITE>Description based on an imperfect copy; section of map missing at top, affecting text</CITE>
 
@@ -141,8 +136,8 @@ For additional guidance on sources of information for individual elements, see i
 
 >Example:  
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
->Note on title: <CITE>Title from Bartsch, 1001.339</CITE>   
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Note on title: <CITE>Title from Bartsch</CITE>   
+>(*Comment*: The formal citation for Bartsch is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 <a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
 
