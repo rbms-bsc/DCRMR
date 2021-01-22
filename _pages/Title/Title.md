@@ -48,10 +48,8 @@ sidebar:
 <a name="1.01.3.2">1.01.3.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 
 >Example:  
->Title proper: <CITE>Prudence Palfrey</CITE>  
->Statement of responsibility relating to title proper: <CITE>Thomas Bailey Aldrich</CITE>  
->Note on title: <CITE>Author's name at head of title.</CITE>  
->(*Comment*: The [Statement of responsibility relating to the title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) appears before the [Title proper](/DCRMR/title/Title-proper/) on the title page)
+>Title proper: <CITE>Sonate à quatre mains pour le forte-piano, oeuvre 48</CITE>  
+>Note on title: <CITE>Work number appears after statement of responsibility on title page</CITE>  
 
 ## Contents:
 {: .no_toc }

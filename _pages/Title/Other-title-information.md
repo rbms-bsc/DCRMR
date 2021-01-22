@@ -52,9 +52,9 @@ sidebar:
 <a name="1.23.33.1">1.23.33.1</a> If other title information, or some portion of it, constitutes a formal statement of the contents of the work, and is grammatically separable from the [Title proper](/DCRMR/title/Title-proper/) and other title information, transcribe it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.32.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.2)). When these formal statements are omitted from the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility](/DCRMR/sor/) elements, use the mark of omission.
 
 >Example:  
->Title proper: <CITE>The spinning wheel's garland </CITE>   
+>Title proper: <CITE>The spinning wheel’s garland</CITE>   
 >Other title information: <CITE>containing several excellent new songs ...</CITE>  
->Note on manifestation:  <CITE>Contents: (from title page) I. The good housewife's coat of arms -- II. The spinning wheels glory -- III. The taylor disappointed of his bride -- IV. The changeable world</CITE>  
+>Note on manifestation:  <CITE>Contents: (from title page) I. The good housewife’s coat of arms &#8208;&#8208; II. The spinning wheels glory &#8208;&#8208; III. The taylor disappointed of his bride &#8208;&#8208; IV. The changeable world</CITE>  
 
 <a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other expressions are given equal prominence with the first-named expression in a manifestation (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
@@ -74,6 +74,10 @@ sidebar:
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
 >Other title information: <CITE>illustrated by sixty engravings</CITE>  
 
+>Example:  
+>Title proper: <CITE>Louisa, or, The cottage on the moor</CITE>  
+>Other title information: <CITE>in two volumes</CITE>
+
 If the statement appears following the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility.
 
 >Example:  
@@ -85,12 +89,18 @@ If the statement appears following the [Statement of responsibility relating to 
 
 <a name="1.23.36.2">1.23.36.2</a> If such information appears after the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
 
+>Example:   
+>Statement of responsibility relating to title proper: <CITE>by Sir William Dugdale knt. garter principal king of arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+
 ## 1.23.37 Abridgment of other title information
 
 <a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
 
 >Example:  
-><CITE>with occasional notes ; to which is added, an appendix ... ; the whole illustrated by a map of Egypt and part of Syria ...</CITE>
+><CITE>dissertation theologique et historique ...</CITE>  
+>(*Source of information reads*: dissertation theologique et historique: où l'on montre que: la rubrique des missels, qui ordonne de dire secrètement le canon de la messe, est une continuation de la discipline du secret, & du silence, que l'eglise primitive observoit, sur le mystére de l'Eucharistie: et que cette discipline n'ôte point aux fidèles le moyen d'accompagner le célébrant, & de s'unir à lui, dans toute la suite du sacrifice: en quoi consiste la meilleure maniere d'entendre la messe)
 
 ## 1.23.38 Other title information with grammatically inseparable elements
 

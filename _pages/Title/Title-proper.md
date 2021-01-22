@@ -33,10 +33,7 @@ sidebar:
 ><CITE>Monsieur Bossu's treatise of the epicke poem</CITE>  
 
 >Example:  
-><CITE>M. Tullii Ciceronis de officiis libri tres</CITE>  
- 
->Example:  
-><CITE>Bell's edition of Shakspere</CITE>  
+><CITE>M. Tullii Ciceronis de officiis libri tres</CITE>    
  
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
@@ -45,7 +42,7 @@ sidebar:
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
->Note on title: <CITE>Title from docket</CITE>  
+>Note on title: <CITE>Title from docket title</CITE>  
 
 ## 1.21.32 Forms of the title proper
 
@@ -60,12 +57,12 @@ sidebar:
 <a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title (RDA definition: a second or subsequent independent title of manifestation that is joined to a preceding conjunction such as “or” or its equivalent in another language).
 
 >Example:  
-><CITE>Christianographie, or, The description of the multitude and sundry sorts of Christians in the world not subject to the pope</CITE>  
+><CITE>The British carpenter, or, A treatise on carpentry</CITE>  
 
 <a name="1.21.32.4">1.21.32.4</a> Title proper consisting solely of the name of a responsible person or body.  
 
 >Example:  
-><CITE>Salustius</CITE>  
+><CITE>C. Sallustius Crispus</CITE>  
 
 ## 1.21.33 Title proper with grammatically inseparable designation
 
@@ -130,7 +127,9 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 <a name="1.21.371.1">1.21.371.1</a> If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title)), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. See [Element order](/DCRMR/title/#1012-element-order) ([1.01.2.5](/DCRMR/title/#1.01.2.5)) for guidance on recording. If using ISBD punctuation, see [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation/) for guidance.
 
 >Example:  
-><CITE>Les Akanças : prologue mélo-dramatique, en un acte et en prose ; suivi Des Espagnols dans la Floride : pantomime en trois actes et à spectacle</CITE>
+><CITE>Laurentij Vallae elegantiarum Latinae linguae libri sex ; eiusdem De
+reciprocatione sui & suus libellus</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
 ><CITE>The serving-man become a queen. Jockey of the green. The lass of Richmond Hill</CITE>
@@ -141,6 +140,10 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 >Example:  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
+
+>Example:  
+>Title proper: <CITE>Isidora</CITE>  
+>Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (p. [87]-232) and Lettre d’un paysan de la Vallée-Noir (p. [233]-307)</CITE>  
 
 ## 1.21.38 Single-sheet manifestations
 
