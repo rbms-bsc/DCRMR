@@ -476,7 +476,6 @@ ET ITALIAE)
 
 >Example:  
 ><CITE>Music sellers to HRH the Prince of Wales</CITE>  
->(*Source of information reads*: Published by Monzani & Hill Music sellers to HRH the Prince of Wales)
 
 >Example:  
 ><CITE>A.B.C. indicateur alphabetique des chemins de fer et de la navigation</CITE>
@@ -587,7 +586,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png ))
 
 >Example:  
-><CITE>Mr. [--ch?], Cornhill</CITE>  
+><CITE>Mr. [&#8208;&#8208;ch?], Cornhill</CITE>  
 >(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/))
 
 >Example:  
@@ -600,12 +599,12 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 >Example:  
 >Place of publication: <CITE>En Barcelona</CITE>  
->Name of publisher: <CITE>Por Sebastian Mateu[...]</CITE>  
+>Name of publisher: <CITE>Por Sebastian Mateu[...], acosta de lua[...]</CITE>  
 >Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint</CITE>
 
 >Example:  
 >Title proper: <CITE>[...] modern minstrels</CITE>  
->Note on title: <CITE>Description based on an imperfect example; title torn, removing all lettering above lower portion of "modern"</CITE>  
+>Note on title: <CITE>Description based on an imperfect copy; title torn, removing all lettering above lower portion of “modern”</CITE>  
 
 ### 0.4.64 Blank spaces intended for completion
 
@@ -614,14 +613,9 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 <a name="0.4.64.2">0.4.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item) if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
 
 >Example:  
->Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755 ...</CITE>  
+>Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755</CITE>  
 >Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer</CITE>  
 >Note on item (optional): <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
-
->Example:
->Statement of responsibility: <CITE>drawn by [blank]</CITE>  
->Note on statement of responsibility: <CITE>Space for the name of the student left blank by printer</CITE>  
->Note on item (optional): <CITE>Library's copy has blanks supplied in manuscript: State of [New York] / drawn by [Fannie Ufford]</CITE>  
 
 <a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
 
@@ -640,8 +634,7 @@ Make an explanatory note.
 
 >Example:  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
->Note on title: <CITE>Space for initial letter of first word of title left blank by printer</CITE>  
->Note on item (optional): <CITE>LC copy: Printed guide letter "H" at beginning of title not executed in manuscript</CITE>
+>Note on item (optional): <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
 <a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
@@ -676,7 +669,7 @@ If the misprint or misspelling occurs in the first five words of the [Title prop
 <a name="0.4.73.1">0.4.73.1</a> Do not correct deliberately misspelled words. If considered important, make an explanatory note.
 
 >Example:  
->Title proper: <CITE>The Summer Shower, or, Mademoiselle Par, a Pluye</CITE>  
+>Title proper: <CITE>The summer shower, or, Mademoiselle Par, a Pluye</CITE>  
 >Note on title: <CITE>"Par, a Pluye" is meant to be read as "parapluie"</CITE>
 
 If considered important, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
@@ -686,7 +679,7 @@ If considered important, record a [Variant title of manifestation](/DCRMR/title/
 <a name="0.4.74.1">0.4.74.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important.
 
 >Example:  
->Title proper: <CITE>Queen</CITE>  
+>Other title information: <CITE>sent express to the Queen</CITE>  
 >Note on title: <CITE>The "u" in "Queen" in the title is turned</CITE>
 
 <a name="0.4.74.2">0.4.74.2</a> Transcribe characters used to approximate a different character (e.g., when VV and vv letterforms have been used to represent the single letter W or w) as the intended character. 
@@ -709,10 +702,6 @@ Make an explanatory note if considered important.
 For punctuation indicating an abbreviation, see [Punctuation indicating an abbreviation](/DCRMR/general-rules/Transcription/#04385-punctuation-indicating-an-abbreviation) ([0.4.385.1](/DCRMR/general-rules/Transcription/#0.4.385.1)).
 
 <a name="0.4.82.1">0.4.82.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
-
->Example:  
-><CITE>Henricus Dei gra[tia] Rex Anglie</CITE>  
->(*Source of information reads*: HENRICVS DEI GRĀ REX ANGLIE)
 
 <a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
 
@@ -749,13 +738,10 @@ Make an explanatory note.
 <a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important (see [1.25.3583.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3583.1)).
 
 >Example:  
->Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
+><CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
 
 >Example:  
->Title proper: <CITE>LI sermons</CITE>
-
->Example:  
->Other title information: <CITE>a cookery book calendar for 1931 : containing fifty-two recipes</CITE>
+><CITE>LI sermons</CITE>
 
 <a name="0.4.88.2">0.4.88.2</a> For dates of publication, distribution, and manufacture, transcribe the date as it appears. If the date is not in arabic numerals, add the equivalent year in arabic numerals in square brackets.
  
@@ -774,26 +760,9 @@ See the instructions for specific types of dates as follows:
 ><CITE>The posthumous works of Robert Hooke</CITE>
 
 >Example:  
-><CITE>Monsieur Bossu's treatise of the epick poem</CITE>
-
->Example:  
-><CITE>M. Tullii Ciceronis de officiis libri tres</CITE>
-
->Example:  
 ><CITE>Brown's industrial gazetteer and hand-book of the Atchison, Topeka & Santa Fe R.R.</CITE>
 
->Example:  
-><CITE>Number ... of A picture of the times, to be continued weekly, in a series of letters, addressed to the people of England</CITE>
-
->Example:  
-><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
->(*Comment*: “& published” is grammatically inseparable. The phrase is transcribed in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/))
-
 <a name="0.4.92.2">0.4.92.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
-
->Example:  
-><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
->(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/)
 
 ### 0.4.94 Order and transposition
 
@@ -833,11 +802,6 @@ case endings would be affected, or the grammatical construction of the informati
 
 <a name="0.4.94.5">0.4.94.5</a> Make a note to indicate the order in which the transposed information appears in the source.
 
->Example: 
-><CITE>Symphony no. 6 : Pastoral / by Ludwig van Beethoven</CITE>  
->Note on statement of responsibility: <CITE>Composer’s name appears between the title and other title information on the title page</CITE>  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
-
 >Example:  
 ><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes</CITE>  
 >Note on statement of responsibility: <CITE>Author’s name transposed from head of title</CITE>  
@@ -853,6 +817,10 @@ If information appears in scattered form on the preferred source of information 
 >(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.7">0.4.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source if considered important for identification or selection.
+
+>Example:  
+>Title proper: <CITE>Our choice, Grover Cleveland, A.G. Thurman. Democratic nominees, for president, for vice president</CITE>  
+>Note on title: <CITE>Title assembled from words scattered on four banners, above and below the image</CITE>   
 
 ---
 
