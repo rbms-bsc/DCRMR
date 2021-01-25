@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 10.23 — Note on identifier for manifestation 
-permalink: DCRMR/identifiers/Note-on-identifier-for-manifestation/
+permalink: /DCRMR/identifiers/Note-on-identifier-for-manifestation/
 sidebar:
   nav: "docs"
 ---

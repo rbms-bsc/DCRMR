@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.215 — Parallel place of publication
-permalink:  DCRMR/ppdm/Parallel-place-of-publication/
+permalink:  /DCRMR/ppdm/Parallel-place-of-publication/
 sidebar:
   nav: "docs"
 ---

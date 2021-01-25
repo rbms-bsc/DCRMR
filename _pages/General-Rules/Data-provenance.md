@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 0.1 — Data provenance
-permalink: DCRMR/general-rules/Data-provenance/
+permalink: /DCRMR/general-rules/Data-provenance/
 sidebar:
   nav: "docs"
 ---

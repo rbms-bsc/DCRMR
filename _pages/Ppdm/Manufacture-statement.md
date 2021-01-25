@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.29 — Manufacture statement
-permalink: DCRMR/ppdm/Manufacture-statement/
+permalink: /DCRMR/ppdm/Manufacture-statement/
 sidebar:
   nav: "docs"
 ---

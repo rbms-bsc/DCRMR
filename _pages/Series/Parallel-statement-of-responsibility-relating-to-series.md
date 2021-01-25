@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.255 — Parallel statement of responsibility relating to series
-permalink: DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/
+permalink: /DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/
 sidebar:
   nav: "docs"
 ---

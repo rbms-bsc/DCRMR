@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.35 — Copyright date
-permalink: DCRMR/ppdm/Copyright-date/
+permalink: /DCRMR/ppdm/Copyright-date/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.34 — Media type
-permalink: DCRMR/phys-desc/Media-type/
+permalink: /DCRMR/phys-desc/Media-type/
 sidebar:
   nav: "docs"
 ---

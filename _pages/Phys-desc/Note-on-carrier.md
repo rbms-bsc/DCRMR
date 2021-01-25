@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.355 — Note on carrier
-permalink: DCRMR/phys-desc/Note-on-carrier/
+permalink: /DCRMR/phys-desc/Note-on-carrier/
 sidebar:
   nav: "docs"
 ---

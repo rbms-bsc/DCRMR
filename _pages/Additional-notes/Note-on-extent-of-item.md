@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.43 — Note on extent of item
-permalink: DCRMR/additional-notes/Note-on-extent-of-item/
+permalink: /DCRMR/additional-notes/Note-on-extent-of-item/
 sidebar:
   nav: "docs"
 ---

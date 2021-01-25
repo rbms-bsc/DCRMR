@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.24 — Dimensions
-permalink: DCRMR/phys-desc/Dimensions/
+permalink: /DCRMR/phys-desc/Dimensions/
 sidebar:
   nav: "docs"
 ---

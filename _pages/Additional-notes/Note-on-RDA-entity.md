@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.05 — Note on RDA entity
-permalink: DCRMR/additional-notes/Note-on-RDA-entity/
+permalink: /DCRMR/additional-notes/Note-on-RDA-entity/
 sidebar:
   nav: "docs"
 ---

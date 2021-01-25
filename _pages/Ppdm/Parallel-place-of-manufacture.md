@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.315 — Parallel place of manufacture
-permalink:  DCRMR/ppdm/Parallel-place-of-manufacture/
+permalink:  /DCRMR/ppdm/Parallel-place-of-manufacture/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.25 — Summarization of content
-permalink: DCRMR/additional-notes/Summarization-of-content/
+permalink: /DCRMR/additional-notes/Summarization-of-content/
 sidebar:
   nav: "docs"
 ---

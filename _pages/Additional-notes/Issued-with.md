@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.34 — Issued with
-permalink: DCRMR/additional-notes/Issued-with/
+permalink: /DCRMR/additional-notes/Issued-with/
 sidebar:
   nav: "docs"
 ---

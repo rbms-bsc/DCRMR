@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: E — Variations requiring a new record
-permalink: DCRMR/appendices/Appendix-e/
+permalink: /DCRMR/appendices/Appendix-e/
 sidebar:
   nav: "docs"
 ---

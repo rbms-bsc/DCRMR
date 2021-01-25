@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.23 — Language of expression
-permalink: DCRMR/additional-notes/Language-of-expression/
+permalink: /DCRMR/additional-notes/Language-of-expression/
 sidebar:
   nav: "docs"
 ---

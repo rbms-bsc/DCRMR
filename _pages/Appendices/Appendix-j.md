@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: J — Abbreviations for creators, publishers, printers, etc.
-permalink: DCRMR/appendices/Appendix-j/
+permalink: /DCRMR/appendices/Appendix-j/
 sidebar:
   nav: "docs"
 ---

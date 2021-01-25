@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: K — Instruction mappings from DCRM to DCRMR
-permalink: DCRMR/appendices/Appendix-k/
+permalink: /DCRMR/appendices/Appendix-k/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.41 — Modification of item
-permalink: DCRMR/additional-notes/Modification-of-item/
+permalink: /DCRMR/additional-notes/Modification-of-item/
 sidebar:
   nav: "docs"
 ---

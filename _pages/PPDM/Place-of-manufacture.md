@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.31 — Place of manufacture
-permalink:  DCRMR/ppdm/Place-of-manufacture/
+permalink:  /DCRMR/ppdm/Place-of-manufacture/
 sidebar:
   nav: "docs"
 ---

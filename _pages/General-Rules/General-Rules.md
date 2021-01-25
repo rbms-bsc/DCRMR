@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 0 — General rules
-permalink: DCRMR/general-rules/
+permalink: /DCRMR/general-rules/
 sidebar:
   nav: "docs"
 ---

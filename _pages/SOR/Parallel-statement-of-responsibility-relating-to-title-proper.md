@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 2.215 — Parallel statement of responsibility relating to title proper
-permalink:  DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/
+permalink: /DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"
 ---

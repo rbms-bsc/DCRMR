@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.21 — Title of series
-permalink: DCRMR/series/Title-of-series/
+permalink: /DCRMR/series/Title-of-series/
 sidebar:
   nav: "docs"
 ---

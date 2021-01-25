@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 2 — Statement of responsibility
-permalink:  DCRMR/sor/
+permalink: /DCRMR/sor/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 0.4 — Transcription
-permalink: DCRMR/general-rules/Transcription/
+permalink: /DCRMR/general-rules/Transcription/
 sidebar:
   nav: "docs"
 ---

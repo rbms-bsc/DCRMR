@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.215 — Note on extent of manifestation
-permalink: DCRMR/phys-desc/Note-on-extent-of-manifestation/
+permalink: /DCRMR/phys-desc/Note-on-extent-of-manifestation/
 sidebar:
   nav: "docs"
 ---

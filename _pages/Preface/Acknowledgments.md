@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Acknowledgments 
-permalink: /preface/Acknowledgments/
+permalink: /DCRMR/preface/Acknowledgments/
 sidebar:
   nav: "docs"
 ---

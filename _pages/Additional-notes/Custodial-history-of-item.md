@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.42 — Custodial history of item
-permalink: DCRMR/additional-notes/Custodial-history-of-item/
+permalink: /DCRMR/additional-notes/Custodial-history-of-item/
 sidebar:
   nav: "docs"
 ---

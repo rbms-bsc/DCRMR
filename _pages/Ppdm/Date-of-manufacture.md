@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.33 — Date of manufacture
-permalink: DCRMR/ppdm/Date-of-manufacture/
+permalink: /DCRMR/ppdm/Date-of-manufacture/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.265 — Parallel place of distribution
-permalink: DCRMR/ppdm/Parallel-place-of-distribution/
+permalink: /DCRMR/ppdm/Parallel-place-of-distribution/
 sidebar:
   nav: "docs"
 ---

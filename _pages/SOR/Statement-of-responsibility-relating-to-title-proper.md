@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 2.21 — Statement of responsibility relating to title proper
-permalink: DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
+permalink: /DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
 sidebar:
   nav: "docs"
 ---

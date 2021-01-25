@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.255 — Details of base material
-permalink: DCRMR/phys-desc/Details-of-base-material/
+permalink: /DCRMR/phys-desc/Details-of-base-material/
 sidebar:
   nav: "docs"
 ---

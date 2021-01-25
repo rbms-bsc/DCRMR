@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.26 — Place of distribution
-permalink:  DCRMR/ppdm/Place-of-distribution/
+permalink:  /DCRMR/ppdm/Place-of-distribution/
 sidebar:
   nav: "docs"
 ---

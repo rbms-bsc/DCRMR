@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Glossary M
-permalink: DCRMR/glossary/M/
+permalink: /DCRMR/glossary/M/
 sidebar:
   nav: "docs"
 ---

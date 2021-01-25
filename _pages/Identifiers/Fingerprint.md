@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 10.21 — Fingerprint
-permalink: DCRMR/identifiers/Fingerprint/
+permalink: /DCRMR/identifiers/Fingerprint/
 sidebar:
   nav: "docs"
 ---

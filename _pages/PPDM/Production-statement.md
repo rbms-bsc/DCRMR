@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.1 — Production statement
-permalink:  DCRMR/ppdm/Production-statement/
+permalink: /DCRMR/ppdm/Production-statement/
 sidebar:
   nav: "docs"
 ---

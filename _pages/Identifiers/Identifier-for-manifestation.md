@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 10.2 — Identifier for manifestation
-permalink: DCRMR/identifiers/Identifier-for-manifestation/
+permalink: /DCRMR/identifiers/Identifier-for-manifestation/
 sidebar:
   nav: "docs"
 ---

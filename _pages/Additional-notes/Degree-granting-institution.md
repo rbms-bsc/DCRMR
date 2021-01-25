@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.122 — Degree granting institution
-permalink: DCRMR/additional-notes/Degree-granting-institution/
+permalink: /DCRMR/additional-notes/Degree-granting-institution/
 sidebar:
   nav: "docs"
 ---

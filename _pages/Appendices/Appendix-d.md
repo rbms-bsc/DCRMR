@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: D — Minimal-level records
-permalink: DCRMR/appendices/Appendix-d/
+permalink: /DCRMR/appendices/Appendix-d/
 sidebar:
   nav: "docs"
 ---

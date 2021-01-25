@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.3 — Note on manifestation
-permalink: DCRMR/additional-notes/Note-on-manifestation/
+permalink: /DCRMR/additional-notes/Note-on-manifestation/
 sidebar:
   nav: "docs"
 ---

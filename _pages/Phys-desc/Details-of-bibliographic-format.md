@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.295 — Details of bibliographic format
-permalink: DCRMR/phys-desc/Details-of-bibliographic-format/
+permalink: /DCRMR/phys-desc/Details-of-bibliographic-format/
 sidebar:
   nav: "docs"
 ---

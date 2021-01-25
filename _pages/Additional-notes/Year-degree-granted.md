@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.123 — Year degree granted
-permalink: DCRMR/additional-notes/Year-degree-granted/
+permalink: /DCRMR/additional-notes/Year-degree-granted/
 sidebar:
   nav: "docs"
 ---

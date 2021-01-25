@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 0.2 — Prescribed punctuation
-permalink: DCRMR/general-rules/Prescribed-punctuation/
+permalink: /DCRMR/general-rules/Prescribed-punctuation/
 sidebar:
   nav: "docs"
 ---

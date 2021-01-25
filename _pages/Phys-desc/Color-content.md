@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 6.23 — Color content
-permalink: DCRMR/phys-desc/Color-content/
+permalink: /DCRMR/phys-desc/Color-content/
 sidebar:
   nav: "docs"
 ---

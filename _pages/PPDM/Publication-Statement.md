@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.2 — Publication statement
-permalink:  DCRMR/ppdm/Publication-statement/
+permalink: /DCRMR/ppdm/Publication-statement/
 sidebar:
   nav: "docs"
 ---

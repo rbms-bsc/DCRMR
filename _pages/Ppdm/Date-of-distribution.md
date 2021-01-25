@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.28 — Date of distribution
-permalink: DCRMR/ppdm/Date-of-distribution/
+permalink: /DCRMR/ppdm/Date-of-distribution/
 sidebar:
   nav: "docs"
 ---

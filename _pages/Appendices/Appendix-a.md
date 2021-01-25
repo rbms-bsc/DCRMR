@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: A — MARC 21 Descriptive Conventions Code
-permalink: DCRMR/appendices/Appendix-a/
+permalink: /DCRMR/appendices/Appendix-a/
 sidebar:
   nav: "docs"
 ---

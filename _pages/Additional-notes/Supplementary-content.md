@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 9.33 — Supplementary content
-permalink: DCRMR/additional-notes/Supplementary-content/
+permalink: /DCRMR/additional-notes/Supplementary-content/
 sidebar:
   nav: "docs"
 ---

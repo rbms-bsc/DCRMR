@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.25 — Distribution statement
-permalink: DCRMR/ppdm/Distribution-statement/
+permalink: /DCRMR/ppdm/Distribution-statement/
 sidebar:
   nav: "docs"
 ---

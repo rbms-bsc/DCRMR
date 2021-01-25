@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.25 — Statement of responsibility relating to series
-permalink: DCRMR/series/Statement-of-responsibility-relating-to-series/
+permalink: /DCRMR/series/Statement-of-responsibility-relating-to-series/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.29 — Note on series statement
-permalink: DCRMR/series/Note-on-series-statement/
+permalink: /DCRMR/series/Note-on-series-statement/
 sidebar:
   nav: "docs"
 ---

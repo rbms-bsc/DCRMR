@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 0.3 — Language and script of the description
-permalink: DCRMR/general-rules/Language-and-script-of-the-description/
+permalink: /DCRMR/general-rules/Language-and-script-of-the-description/
 sidebar:
   nav: "docs"
 ---

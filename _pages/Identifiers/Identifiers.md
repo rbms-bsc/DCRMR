@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 10 — Identifiers
-permalink: DCRMR/identifiers/
+permalink: /DCRMR/identifiers/
 sidebar:
   nav: "docs"
 ---
