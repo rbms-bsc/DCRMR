@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.225 — Parallel designation of edition
-permalink: DCRMR/edition/Parallel-designation-of-edition/
+permalink: /DCRMR/edition/Parallel-designation-of-edition/
 sidebar:
   nav: "docs"
 ---

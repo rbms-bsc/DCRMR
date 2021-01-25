@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.24 — Designation of named revision of edition
-permalink: DCRMR/edition/Designation-of-named-revision-of-edition/
+permalink: /DCRMR/edition/Designation-of-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.21 — Edition statement
-permalink: DCRMR/edition/Edition-statement/
+permalink: /DCRMR/edition/Edition-statement/
 sidebar:
   nav: "docs"
 ---

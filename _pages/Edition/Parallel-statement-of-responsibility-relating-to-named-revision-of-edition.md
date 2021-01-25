@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.255 — Parallel statement of responsibility relating to named revision of edition 
-permalink: DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+permalink: /DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

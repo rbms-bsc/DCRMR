@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3 — Edition
-permalink: DCRMR/edition/
+permalink: /DCRMR/edition/
 sidebar:
   nav: "docs"
 ---

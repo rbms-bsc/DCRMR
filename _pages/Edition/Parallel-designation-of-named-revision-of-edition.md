@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.245 — Parallel designation of named revision of edition
-permalink: DCRMR/edition/Parallel-designation-of-named-revision-of-edition/
+permalink: /DCRMR/edition/Parallel-designation-of-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---

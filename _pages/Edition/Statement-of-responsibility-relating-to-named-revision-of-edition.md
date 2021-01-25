@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 3.25 — Statement of responsibility relating to named revision of edition
-permalink: DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
+permalink: /DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
 sidebar:
   nav: "docs"
 ---
