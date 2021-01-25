@@ -20,9 +20,9 @@ docs:
       - title: "Changes from DCRM(B)"
         url: /preface/Changes-from-DCRM(B)/
       - title: "Future work"
-        url: /preface/Future-work/
+        url: /DCRMR/preface/Future-work/
       - title: "Acknowledgments"
-        url: /preface/Acknowledgments/
+        url: /DCRMR/preface/Acknowledgments/
 
   - title: "Introduction"
     url: /DCRMR/introduction/

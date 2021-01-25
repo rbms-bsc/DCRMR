@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Background
-permalink:  DCRMR/preface/Background/
+permalink:  /DCRMR/preface/Background/
 sidebar:
   nav: "docs"
 ---
