@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.275 — Parallel name of distributor
-permalink: DCRMR/ppdm/Parallel-name-of-distributor/
+permalink: /ppdm/Parallel-name-of-distributor/
 sidebar:
   nav: "docs"
 ---

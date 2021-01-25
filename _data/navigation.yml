@@ -70,28 +70,28 @@ docs:
         url: /sor/Note-on-statement-of-responsibility/
         
   - title: "3 — Edition"
-    url: /DCRMR/edition/
+    url: /edition/
     children:
       - title: "3.21 — Edition statement"
-        url: /DCRMR/edition/Edition-statement/
+        url: /edition/Edition-statement/
       - title: "3.22 — Designation of edition"
-        url: /DCRMR/edition/Designation-of-edition/
+        url: /edition/Designation-of-edition/
       - title: "3.225 — Parallel designation of edition"
-        url: /DCRMR/edition/Parallel-designation-of-edition/
+        url: /edition/Parallel-designation-of-edition/
       - title: "3.23 — Statement of responsibility relating to edition"
-        url: /DCRMR/edition/Statement-of-responsibility-relating-to-edition/
+        url: /edition/Statement-of-responsibility-relating-to-edition/
       - title: "3.235 — Parallel statement of responsibility relating to edition"
-        url: /DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/
+        url: /edition/Parallel-statement-of-responsibility-relating-to-edition/
       - title: "3.24 — Designation of named revision of edition"
-        url: /DCRMR/edition/Designation-of-named-revision-of-edition/
+        url: /edition/Designation-of-named-revision-of-edition/
       - title: "3.245 — Parallel designation of named revision of edition"
-        url: /DCRMR/edition/Parallel-designation-of-named-revision-of-edition/
+        url: /edition/Parallel-designation-of-named-revision-of-edition/
       - title: "3.25 — Statement of responsibility relating to named revision of edition"
-        url: /DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
+        url: /edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "3.255 — Parallel statement of responsibility relating to named revision of edition"
-        url: /DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+        url: /edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "3.26 — Note on edition statement"
-        url: /DCRMR/edition/Note-on-edition-statement/
+        url: /edition/Note-on-edition-statement/
         
   - title: "4 — Mathematical details"
     url: /mathematical-details/

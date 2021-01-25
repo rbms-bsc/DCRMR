@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 5.22 — Name of publisher
-permalink: DCRMR/ppdm/Name-of-publisher/
+permalink: /ppdm/Name-of-publisher/
 sidebar:
   nav: "docs"
 ---
