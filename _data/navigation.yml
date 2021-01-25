@@ -13,16 +13,16 @@ main:
 docs:
 
   - title: "Preface"
-    url: /DCRMR/preface/
+    url: /preface/
     children:
       - title: "Background"
-        url: /DCRMR/preface/Background/
+        url: /preface/Background/
       - title: "Changes from DCRM(B)"
-        url: /DCRMR/preface/Changes-from-DCRM(B)/
+        url: /preface/Changes-from-DCRM(B)/
       - title: "Future work"
-        url: /DCRMR/preface/Future-work/
+        url: /preface/Future-work/
       - title: "Acknowledgments"
-        url: /DCRMR/preface/Acknowledgments/
+        url: /preface/Acknowledgments/
 
   - title: "Introduction"
     url: /DCRMR/introduction/
