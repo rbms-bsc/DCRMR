@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.25 — Variant title of manifestation
-permalink: DCRMR/title/Variant-title-of-manifestation/
+permalink: /title/Variant-title-of-manifestation/
 sidebar:
   nav: "docs"
 ---

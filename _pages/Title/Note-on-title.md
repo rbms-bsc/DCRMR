@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.29 — Note on title
-permalink: DCRMR/title/Note-on-title/
+permalink: /title/Note-on-title/
 sidebar:
   nav: "docs"
 ---

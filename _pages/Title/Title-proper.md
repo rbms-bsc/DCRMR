@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.21 — Title proper
-permalink: DCRMR/title/Title-proper/
+permalink: /title/Title-proper/
 sidebar:
   nav: "docs"
 ---

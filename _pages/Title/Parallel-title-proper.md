@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.215 — Parallel title proper
-permalink: DCRMR/title/Parallel-title-proper/
+permalink: /title/Parallel-title-proper/
 sidebar:
   nav: "docs"
 ---
