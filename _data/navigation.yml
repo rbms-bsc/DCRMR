@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "DCRMR"
-    url: /DCRMR/preface/
+    url: /preface/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
@@ -20,7 +20,7 @@ docs:
       - title: "Changes from DCRM(B)"
         url: /preface/Changes-from-DCRM(B)/
       - title: "Future work"
-        url: /DCRMR/preface/Future-work/
+        url: /preface/Future-work/
       - title: "Acknowledgments"
         url: /preface/Acknowledgments/
 
