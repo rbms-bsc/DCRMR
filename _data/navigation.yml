@@ -3,7 +3,7 @@ main:
   - title: "Search"
     url: /Search/
   - title: "DCRMR"
-    url: /preface/
+    url: /DCRMR/preface/
   - title: "DCRM Suite"
     url: "http://rbms.info/dcrm/"
   - title: "RBMS/BSC Homepage"
@@ -13,7 +13,7 @@ main:
 docs:
 
   - title: "Preface"
-    url: /preface/
+    url: /DCRMR/preface/
     children:
       - title: "Background"
         url: /preface/Background/
@@ -40,24 +40,24 @@ docs:
         url: /general-rules/Transcription/
         
   - title: "1 — Title"
-    url: /title/
+    url: /DCRMR/title/
     children:
       - title: "1.2 — Title of manifestation"
-        url: /title/Title-of-manifestation/
+        url: /DCRMR/title/Title-of-manifestation/
       - title: "1.21 — Title proper"
-        url: /title/Title-proper/
+        url: /DCRMR/title/Title-proper/
       - title: "1.215 — Parallel title proper"
-        url: /title/Parallel-title-proper/
+        url: /DCRMR/title/Parallel-title-proper/
       - title: "1.23 — Other title information"
-        url: /title/Other-title-information/
+        url: /DCRMR/title/Other-title-information/
       - title: "1.235 — Parallel other title information"
-        url: /title/Parallel-other-title-information/
+        url: /DCRMR/title/Parallel-other-title-information/
       - title: "1.25 — Variant title of manifestation"
-        url: /title/Variant-title-of-manifestation/
+        url: /DCRMR/title/Variant-title-of-manifestation/
       - title: "1.27 — Title of item"
-        url: /title/Title-of-item/
+        url: /DCRMR/title/Title-of-item/
       - title: "1.29 — Note on title"
-        url: /title/Note-on-title/       
+        url: /DCRMR/title/Note-on-title/       
         
   - title: "2 — Statement of responsibility"
     url: /sor/

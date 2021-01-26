@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: Preface
-permalink: /preface/
+permalink: /DCRMR/preface/
 sidebar:
   nav: "docs"
 ---
