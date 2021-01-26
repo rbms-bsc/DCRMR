@@ -57,7 +57,7 @@ docs:
       - title: "1.27 — Title of item"
         url: /DCRMR/title/Title-of-item/
       - title: "1.29 — Note on title"
-        url: /Note-on-title/       
+        url: /DCRMR/Note-on-title/       
         
   - title: "2 — Statement of responsibility"
     url: /DCRMR/sor/
