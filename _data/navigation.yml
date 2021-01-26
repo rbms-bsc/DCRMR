@@ -94,7 +94,7 @@ docs:
         url: /DCRMR/edition/Note-on-edition-statement/
         
   - title: "4 — Mathematical details"
-    url: /mathematical-details/
+    url: /DCRMR/mathematical-details/
     children:
       - title: "4.21 — Details of cartographic content"
         url: /DCRMR/mathematical-details/Details-of-cartographic-content/
