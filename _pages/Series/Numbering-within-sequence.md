@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 8.27 — Numbering within sequence
-permalink: /DCRMR/series/Numbering-within-sequence/
+permalink: /series/Numbering-within-sequence/
 sidebar:
   nav: "docs"
 ---

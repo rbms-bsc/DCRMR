@@ -2,7 +2,7 @@
 layout: single
 type: docs
 title: 1.23 — Other title information
-permalink: /DCRMR/title/Other-title-information/
+permalink: /title/Other-title-information/
 sidebar:
   nav: "docs"
 ---
