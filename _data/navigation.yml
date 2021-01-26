@@ -16,28 +16,28 @@ docs:
     url: /DCRMR/preface/
     children:
       - title: "Background"
-        url: /preface/Background/
+        url: /DCRMR/preface/Background/
       - title: "Changes from DCRM(B)"
-        url: /preface/Changes-from-DCRM(B)/
+        url: /DCRMR/preface/Changes-from-DCRM(B)/
       - title: "Future work"
-        url: /preface/Future-work/
+        url: /DCRMR/preface/Future-work/
       - title: "Acknowledgments"
-        url: /preface/Acknowledgments/
+        url: /DCRMR/preface/Acknowledgments/
 
   - title: "Introduction"
-    url: /introduction/
+    url: /DCRMR/introduction/
 
   - title: "0 — General rules"
-    url: /general-rules/
+    url: /DCRMR/general-rules/
     children:
       - title: "0.1 — Data provenance"
-        url: /general-rules/Data-provenance/
+        url: /DCRMR/general-rules/Data-provenance/
       - title: "0.2 — Prescribed punctuation"
-        url: /general-rules/Prescribed-punctuation/
+        url: /DCRMR/general-rules/Prescribed-punctuation/
       - title: "0.3 — Language and script of the description"
-        url: /general-rules/Language-and-script-of-the-description/
+        url: /DCRMR/general-rules/Language-and-script-of-the-description/
       - title: "0.4 — Transcription"
-        url: /general-rules/Transcription/
+        url: /DCRMR/general-rules/Transcription/
         
   - title: "1 — Title"
     url: /DCRMR/title/
@@ -57,50 +57,50 @@ docs:
       - title: "1.27 — Title of item"
         url: /DCRMR/title/Title-of-item/
       - title: "1.29 — Note on title"
-        url: /DCRMR/title/Note-on-title/       
+        url: /Note-on-title/       
         
   - title: "2 — Statement of responsibility"
-    url: /sor/
+    url: /DCRMR/sor/
     children:
       - title: "2.21 — Statement of responsibility relating to title proper"
-        url: /sor/Statement-of-responsibility-relating-to-title-proper/
+        url: /DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
       - title: "2.215 — Parallel statement of responsibility relating to title proper"
-        url: /sor/Parallel-statement-of-responsibility-relating-to-title-proper/
+        url: /DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/
       - title: "2.29 — Note on statement of responsibility"
-        url: /sor/Note-on-statement-of-responsibility/
+        url: /DCRMR/sor/Note-on-statement-of-responsibility/
         
   - title: "3 — Edition"
-    url: /edition/
+    url: /DCRMR/edition/
     children:
       - title: "3.21 — Edition statement"
-        url: /edition/Edition-statement/
+        url: /DCRMR/edition/Edition-statement/
       - title: "3.22 — Designation of edition"
-        url: /edition/Designation-of-edition/
+        url: /DCRMR/edition/Designation-of-edition/
       - title: "3.225 — Parallel designation of edition"
-        url: /edition/Parallel-designation-of-edition/
+        url: /DCRMR/edition/Parallel-designation-of-edition/
       - title: "3.23 — Statement of responsibility relating to edition"
-        url: /edition/Statement-of-responsibility-relating-to-edition/
+        url: /DCRMR/edition/Statement-of-responsibility-relating-to-edition/
       - title: "3.235 — Parallel statement of responsibility relating to edition"
-        url: /edition/Parallel-statement-of-responsibility-relating-to-edition/
+        url: /DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/
       - title: "3.24 — Designation of named revision of edition"
-        url: /edition/Designation-of-named-revision-of-edition/
+        url: /DCRMR/edition/Designation-of-named-revision-of-edition/
       - title: "3.245 — Parallel designation of named revision of edition"
-        url: /edition/Parallel-designation-of-named-revision-of-edition/
+        url: /DCRMR/edition/Parallel-designation-of-named-revision-of-edition/
       - title: "3.25 — Statement of responsibility relating to named revision of edition"
-        url: /edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
+        url: /DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "3.255 — Parallel statement of responsibility relating to named revision of edition"
-        url: /edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
+        url: /DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/
       - title: "3.26 — Note on edition statement"
-        url: /edition/Note-on-edition-statement/
+        url: /DCRMR/edition/Note-on-edition-statement/
         
   - title: "4 — Mathematical details"
     url: /mathematical-details/
     children:
       - title: "4.21 — Details of cartographic content"
-        url: /mathematical-details/Details-of-cartographic-content/
+        url: /DCRMR/mathematical-details/Details-of-cartographic-content/
         
   - title: "5 — Production, Publication, Distribution, Manufacture"
-    url: /ppdm/
+    url: /DCRMR/ppdm/
     children:
       - title: "5.1 — Production statement"
         url: /ppdm/Production-statement/
