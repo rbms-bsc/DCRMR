@@ -28,7 +28,7 @@ Ryan Hildebrand, Special Collections and Authorities Cataloger, University of Or
 
 Deborah J. Leslie, Senior Cataloger, Folger Shakespeare Library
 
-Michelle Mascaro, Special Collections Cataloging & Metadata Unit Head, UC San Diego
+Michelle Mascaro, Special Collections Metadata Unit Head, UC San Diego
 
 Iris O’Brien, Early Printed Collections Cataloguing and Processing Manager, British Library
 
@@ -40,13 +40,13 @@ Amy Tims, Cataloging Initiatives Librarian, American Antiquarian Society
 kalan Knudson Davis, Special Collections Metadata Librarian, University of Minnesota Libraries
 
 ## Current Status
-Currently under construction.
+Minimum viable product containing book instructions. For BSC review only.
 
 ## History of the revision process
 
-In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM in Light of RDA"
+In 2010, John Attig and Bob Maxwell wrote a discussion paper "Reconsidering DCRM in the Light of RDA"
 
-2011-2012 DCRM-RDA Task Force Key recommendations
+2011-2012 DCRM-RDA Task Force presented key recommendations
 
 2012-2014 DCRM(B) for RDA Revision Group
 
