@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.2.3 General rule
 
-<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 ## 1.2.31 Title information not appearing on title page
 

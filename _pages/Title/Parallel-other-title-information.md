@@ -27,9 +27,6 @@ sidebar:
 
 <a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the order indicated by their sequence on, or by the layout of, the title page.
 
->Example:  
-> [NEEDS EXAMPLE}
-
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "1.23 — Other title information")](/DCRMR/title/Other-title-information/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "1.25 — Variant title of manifestation")](/DCRMR/title/Variant-title-of-manifestation/)

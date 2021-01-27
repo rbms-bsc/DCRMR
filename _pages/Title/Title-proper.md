@@ -38,6 +38,8 @@ sidebar:
 >Example:  
 ><CITE>Walt Disney presents Sleeping Beauty</CITE>  
 
+Provide additional title access for transposed elements of the title proper, if considered important (see [Variant title of manifestation, 1.25.357.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.357.1)).
+
 <a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Always make a note on the source of the title proper if it is from a title page substitute (see [Data provenance, 0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1) and [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >Example:  
@@ -54,7 +56,7 @@ sidebar:
 ><CITE>Here after foloweth a litel boke called Colyn Cloute</CITE>  
 >(*Comment*: “Colyn Cloute” is the chief title)
 
-<a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title (RDA definition: a second or subsequent independent title of manifestation that is joined to a preceding conjunction such as “or” or its equivalent in another language).
+<a name="1.21.32.3">1.21.32.3</a> Title proper inclusive of an alternative title (a subsequent title joined with a conjunction such as “or”).
 
 >Example:  
 ><CITE>The British carpenter, or, A treatise on carpentry</CITE>  
@@ -110,11 +112,11 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Title proper: <CITE>Faust. Part one.</CITE>  
 >Note on title: <CITE> Title page reads: Part one. Faust.</CITE>
 
-If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/).
+If describing an individual issue of a serial, transcribe the numbering of the issue as instructed in [Appendix H](/DCRMR/appendices/Appendix-h/). (Note: Appendix H will be incorporated in a future iteration. Catalogers should continue to consult Appendix H of DCRM(B) for the time being.)
 
 ## 1.21.36 Abridgments of the title proper
 
-<a name="1.21.36.1">1.21.36.1</a> **General rule**. Abridge a long title proper only if it can be done without loss of essential information. Do not omit any of the first five words. Indicate omissions by the mark of omission. 
+<a name="1.21.36.1">1.21.36.1</a> **General rule**. Abridge a long title proper only if it can be done without loss of essential information. Do not omit any of the first five words  (the first six words if the title begins with an article). Indicate omissions by the mark of omission. 
 
 <a name="1.21.36.2">1.21.36.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title.
 
@@ -136,7 +138,13 @@ reciprocatione sui & suus libellus</CITE>
 
 ### 1.21.372 One or more expressions not named on the preferred source of information
 
-<a name="1.21.372.1">1.21.372.1</a> If the manifestation has no collective title, and one or more expressions contained in the manifestation are not named on the preferred source of information: transcribe the title and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) from the preferred source of information, and name the other work(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) or make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) or devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper.
+<a name="1.21.372.1">1.21.372.1</a> If the manifestation has no collective title, and one or more expressions contained in the manifestation are not named on the preferred source of information, either: 
+
+a) Transcribe the title and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) from the preferred source of information, and name the other expressions(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) 
+
+b) Make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1))  
+
+c) Devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper
 
 >Example:  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
@@ -166,7 +174,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.382 Title proper of a single-sheet manifestation
 
-<a name="1.21.382.1">1.21.382.1</a> If there is a word or phrase obviously intended as the [Title of the manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
+<a name="1.21.382.1">1.21.382.1</a> If there is a word or phrase obviously intended as the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing as described above (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
 
 <a name="1.21.382.2">1.21.382.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
 
@@ -176,11 +184,11 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ### 1.21.384 Two or more expressions without a collective title on a single sheet
 
-<a name="1.21.384.1">1.21.384.1</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.384.1">1.21.384.1</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on verso [recto]” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
 
-### 1.21.385 Two or more expressions or manifestations with separate publication, distribution, etc., statements on a single sheet
+### 1.21.385 Two or more expressions or manifestations with separate publication, distribution, manufacture, statements on a single sheet
 
-<a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, etc., statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
+<a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
 
 ## 1.21.39 Access points for title proper
 

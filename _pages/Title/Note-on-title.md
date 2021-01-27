@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.29.31 Note on the source of the title proper
 
-<a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is a title page substitute, e.g., the caption title, docket title, etc. (see [1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)).
+<a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is from a title page substitute, e.g., the caption, docket, etc. (see [1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)).
 
 >Example:  
 ><CITE>Title from caption, page [3]</CITE>
@@ -34,7 +34,7 @@ sidebar:
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
 >Note on title: <CITE>Title from docket title</CITE>  
  
-<a name="1.29.31.2">1.29.31.2</a> Always make a note to indicate the original position on the title page of transposed elements (see [1.02.2](/DCRMR/title/#1012-element-order)).
+<a name="1.29.31.2">1.29.31.2</a> Always make a note to indicate the original position on the title page of transposed elements (see [1.02.3.2](/DCRMR/title/#1.02.3.2)).
 
 <a name="1.29.31.3">1.29.31.3</a> For multipart monographs, if the description is not based on the first part, identify the part used as the basis of the description.
 
@@ -54,13 +54,13 @@ sidebar:
 
 <a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet manifestation has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper, 1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
 
-<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as title but not appearing in the first line of printing is selected as the title, make a note recording at least the first five words of the first line of printing (see [Title proper, 1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)).
+<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as a title but not appearing in the first line of printing is selected as the [Title proper](/DCRMR/title/Title-proper/), make a note recording at least the first five words of the first line of printing (see [Title proper, 1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)).
 
 <a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet manifestation if considered important (see [Title proper, 1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)).
 
 ## 1.29.36 Variations in title
 
-<a name="1.29.36.1">1.29.36.1</a> Always make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) if considered important (see also [Variant title of manifestation, 1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)). 
+<a name="1.29.36.1">1.29.36.1</a> Always make a note on titles borne by the manifestation other than the one chosen as the [Title proper](/DCRMR/title/Title-proper/) (see also [Variant title of manifestation, 1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)). 
 
 >Example:  
 ><CITE>Title on added title page: La naturaleza descubierta en su modo de ensenar las lenguas a los hombres</CITE>
@@ -84,11 +84,13 @@ sidebar:
 
 <a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper, 1.215.31.2](/DCRMR/title/Parallel-title-proper/#1.215.31.2)).
 
-<a name="1.29.37.2">1.29.37.2</a> For instructions on providing access points for parallel titles, see [Parallel title proper, 1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper). For instructions on providing access points for other title information, see [Variant title of manifestation, 1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
+<a name="1.29.37.2">1.29.37.2</a> For instructions on providing access points for parallel titles, see [Parallel title proper, 1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper).
 
-## 1.29.38 Transposition of other title information
+## 1.29.38 Other title information
 
 <a name="1.29.38.1">1.29.38.1</a> Make a note indicating the transposition of [Other title information](/DCRMR/title/Other-title-information/) that precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page (see [Other title information, 1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)).
+
+<a name="1.29.38.2">1.29.38.2</a> 1.29.38.2 For instructions on providing access points for other title information, see [Variant title of manifestation, 1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
 
 ## 1.29.39 Title information not appearing on title page
 
