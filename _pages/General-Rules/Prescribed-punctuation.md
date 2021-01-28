@@ -15,7 +15,7 @@ sidebar:
 
 ## 0.2.01 General rule
 
-The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC%20Guidelines%20for%20Minimally%20Punctuated%20MARC%20Data%20v.1.1.docx), effective January 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation. For more detailed instructions on punctuation for each ISBD area of description than those provided, see the Element order section of each chapter.
+The PCC has issued [guidelines for minimally punctuated records](https://www.loc.gov/aba/pcc/documents/PCC-Guidelines-for-Minimally-Punctuated-MARC-Data-v.1.2.docx), effective January 2020 and updated in October 2020. Catalogers creating DCRMR records should apply the punctuation practices of their own institutions, where applicable. Libraries applying ISBD punctuation may apply the following guidelines for prescribed punctuation. For more detailed instructions on punctuation for each ISBD area of description than those provided, see the Element order section of each chapter.
 
 <a name="0.2.01.1">0.2.01.1</a> Precede each mark of prescribed punctuation by a space and follow it by a space, with the following exceptions: the comma, period, closing parenthesis, and closing square bracket are not preceded by a space; the opening parenthesis and opening square bracket are not followed by a space.
 
@@ -25,7 +25,7 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.01.4">0.2.01.4</a> If an entire element is omitted from the bibliographic description (e.g., because it is not present in the source), also omit its corresponding prescribed punctuation. Do not use the mark of omission.
 
-<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first, by a period-space-dash-space (. &#8208;&#8208;) unless the element begins a new paragraph.
+<a name="0.2.01.5">0.2.01.5</a> Precede each element, other than the first and statement of responsibility, by a period-space-dash-space (. &#8208;&#8208;) unless the element begins a new paragraph.
 
 ## 0.2.1 Title 
 
@@ -43,7 +43,9 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 ## 0.2.5 Production, publication, distribution, manufacture
 
-<a name="0.2.5.1">0.2.5.1</a> Precede production, publication, distribution, or manufacture statements by a period-space-dash-space. Precede a second or subsequently named place of production, publication, distribution, or manufacture by a semicolon, unless a linking word or phrase is given in the resource. Precede the name of the first producer, publisher, distributor, or manufacturer by a colon. Precede the name of a second and any subsequent name by a colon, unless a linking word or phrase is given in the resource. Precede the date of production, publication, distribution, or manufacture by a comma.
+<a name="0.2.5.1">0.2.5.1</a> Precede production, publication, or distribution statements by a period-space-dash-space. Precede a second or subsequently named place of production, publication, or distribution by a semicolon, unless a linking word or phrase is given in the resource. Precede the name of the first producer, publisher, or distributor by a colon. Precede the name of a second and any subsequent name by a colon, unless a linking word or phrase is given in the resource. Precede the date of production, publication, or distribution by a comma.
+
+<a name="0.2.5.2">0.2.5.2</a> Enclose manufacture statements within parentheses. Precede a second or subsequently named place of manufacture by a semicolon, unless a linking word or phrase is given in the resource. Precede the name of the first manufacturer by a colon. Precede the name of a second and any subsequent name by a colon, unless a linking word or phrase is given in the resource. Precede the date of manufacture by a comma.
 
 ## 0.2.6 Physical description
 

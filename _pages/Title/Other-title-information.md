@@ -49,7 +49,7 @@ sidebar:
 
 ## 1.23.33 Other title information constituting a formal statement of contents
 
-<a name="1.23.33.1">1.23.33.1</a> If other title information, or some portion of it, constitutes a formal statement of the contents of the work, and is grammatically separable from the [Title proper](/DCRMR/title/Title-proper/) and other title information, transcribe it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.32.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.2)). When these formal statements are omitted from the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/) elements, use the mark of omission.
+<a name="1.23.33.1">1.23.33.1</a> If other title information, or some portion of it, constitutes a formal statement of the contents of the work, and is grammatically separable from the [Title proper](/DCRMR/title/Title-proper/) and other title information, transcribe it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.32.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.2)). When these formal statements are omitted from the [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) elements, use the mark of omission.
 
 >Example:  
 >Title proper: <CITE>The spinning wheel’s garland</CITE>   

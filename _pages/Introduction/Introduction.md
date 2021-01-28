@@ -17,7 +17,7 @@ sidebar:
 
 ### I.01.11 Descriptive Cataloging of Rare Materials
 
-<a name="I.01.11.1">I.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, music, cartographic, and manuscripts. 
+<a name="I.01.11.1">I.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, cartographic, manuscripts, and music. 
 
 ### I.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
 
@@ -40,11 +40,11 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ### I.01.21 RDA, LC-PCC PS, and other cataloging documentation
 
-<a name="I.01.21.1">I.01.21.1</a> DCRMR is a revision of the *Descriptive Cataloging of Rare Materials* suite (DCRM) based on RDA and the Library of Congress/Program for Cooperative Cataloging Policy Statements (LC-PCC PS). DCRMR deviates in substance from RDA and LC-PCC PS  only when required by the particular descriptive needs of rare materials. In matters of style, presentation, wording, and arrangement, DCRMR follows its own conventions. 
+<a name="I.01.21.1">I.01.21.1</a> DCRMR is a revision of the *Descriptive Cataloging of Rare Materials* suite (DCRM) based on RDA and informed by the Library of Congress/Program for Cooperative Cataloging Policy Statements (LC-PCC PS). DCRMR deviates in substance from RDA and LC-PCC PS  only when required by the particular descriptive needs of rare materials. In matters of style, presentation, wording, and arrangement, DCRMR follows its own conventions. 
 
 <a name="I.01.21.2">I.01.21.2</a> DCRMR builds upon RDA data elements and guidelines. Refer to RDA for guidance and instructions on matters of description not covered in DCRMR. The relevant sections of RDA must be consulted for instructions governing name and title access points. DCRMR is independent of the LC-PCC Policy Statements and does not assume application of LC-PCC PS. 
 
-<a name="I.01.21.3">I.01.21.3</a> For subject headings, numerous controlled vocabularies are available; within the United States, the Library of Congress Subject Headings are widely used. Consult classification documentation for assignment of call numbers. For genre/form headings and other terms of relevance to special collections cataloging, consult the [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}, the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"}, and other controlled vocabularies as needed (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}).
+<a name="I.01.21.3">I.01.21.3</a> For subject headings, numerous controlled vocabularies are available; within the United States, the Library of Congress Subject Headings are widely used. Consult classification documentation for assignment of call numbers. For genre/form headings and other terms of relevance to special collections cataloging, consult the [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}, the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"}, and other controlled vocabularies as needed (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}).
 
 ### I.01.22 Metadata encoding standards
 
@@ -52,7 +52,7 @@ Rare materials are those for which an agency chooses to provide a more detailed 
 
 ## I.01.3 Objectives and principles
 
-<a name="I.01.3.1">I.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ [*Functional Requirements for Bibliographic Records* (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [*Library Reference Model* (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [*Statement of International Cataloguing Principles*](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
+<a name="I.01.3.1">I.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ (IFLA)  [*Functional Requirements for Bibliographic Records* (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [*Library Reference Model* (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [*Statement of International Cataloguing Principles*](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
 
 ### I.01.31 Functional objectives of DCRMR
 
@@ -121,7 +121,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 ## I.01.5 Language preferences
 
-<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1](/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.4](/DCRMR/ppdm/Place-of-publication/#5.21.385.4), [5.26.32.1](/DCRMR/ppdm/Place-of-distribution/#5.26.32.1)-[5.26.323.1](/DCRMR/ppdm/Place-of-distribution/#5.26.323.1), [5.26.35.1](/DCRMR/ppdm/Place-of-distribution/#5.26.35.1)-[5.26.381.4](/DCRMR/ppdm/Place-of-distribution/#5.26.381.4), [5.31.31.5](/DCRMR/ppdm/Place-of-manufacture/#5.31.31.5)-[5.31.323.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.323.1), [5.31.35.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.323.1)-[5.31.385.4](/DCRMR/ppdm/Place-of-manufacture/#5.31.385.4), [Physical description](/DCRMR/phys-desc/), and [Additional notes](/DCRMR/additional-notes/)).
+<a name="I.01.5.1">I.01.5.1</a> DCRMR is written for an English-speaking context. Cataloging agencies preparing descriptions in the context of a different language should replace instructions and guidelines prescribing or implying the use of English with counterparts in their preferred language (see [5.21.32.1](/DCRMR/ppdm/Place-of-publication/#5.21.32.1)-[5.21.323.1](/DCRMR/ppdm/Place-of-publication/#5.21.323.1), [5.21.35.1](/DCRMR/ppdm/Place-of-publication/#5.21.35.1)-[5.21.385.4](/DCRMR/ppdm/Place-of-publication/#5.21.385.4), [5.26.32.1](/DCRMR/ppdm/Place-of-distribution/#5.26.32.1)-[5.26.323.1](/DCRMR/ppdm/Place-of-distribution/#5.26.323.1), [5.26.35.1](/DCRMR/ppdm/Place-of-distribution/#5.26.35.1)-[5.26.381.4](/DCRMR/ppdm/Place-of-distribution/#5.26.381.4), [5.31.32.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.32.1)-[5.31.323.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.323.1), [5.31.35.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.35.1)-[5.31.385.4](/DCRMR/ppdm/Place-of-manufacture/#5.31.385.4), [Physical description](/DCRMR/phys-desc/), and [Additional notes](/DCRMR/additional-notes/)).
 
 ## I.01.55 Spelling and style
 
@@ -154,7 +154,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 |ISBD	|[International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"}|
 |FRBR	|[Functional Requirements for Bibliographic Records](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
 |LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
-|LC-PCC PS | [Library of Congress Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
+|LC-PCC PS | [Library of Congress and Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
 |LCRI	|Library of Congress Rule Interpretations|
 |LRM	|[Library Reference Model](https://www.ifla.org/publications/node/11412){:target="_blank"}|
 |MARC	|[MAchine Readable Cataloging](https://www.loc.gov/marc/){:target="_blank"}|
@@ -166,7 +166,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 ## I.01.7 Examples and notes
 
-<a name="I.01.7.1">I.01.7.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the instruction in question. A word, phrase, element, or entire area may be illustrated.
+<a name="I.01.7.1">I.01.7.1</a> **Examples**. The examples are not in themselves prescriptive, but are meant to provide a model of reliable application and interpretation of the instruction in question. A word, phrase, element, or entire area may be illustrated. Many examples are formatted according to ISBD punctuation to improve clarity.
 
 <a name="I.01.7.2">I.01.7.2</a> **Notes**. The instructions and guidelines in the note elements are written in imperative form. This does not imply that all notes are required; on the contrary, most notes are not (see [9.01.5.1](/DCRMR/additional-notes/#9.01.5.1)). Consult the other chapters of DCRMR in order to ascertain what is required and what is optional in any given situation (see [Additional notes](/DCRMR/additional-notes/)).
 
@@ -178,7 +178,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 ## I.01.9 Precataloging decisions
 
-<a name="I.01.9.1">I.01.9.1</a> Development of this 'Precataloging decisions' introductory section is temporarily on hold, pending future developments. We will add this information as soon as we’re able. If you believe you’ve reached this in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+<a name="I.01.9.1">I.01.9.1</a> Development of this section is temporarily on hold, pending future developments. We will add this information as soon as we’re able. If you believe you’ve reached this in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
 
 Kind regards,
 

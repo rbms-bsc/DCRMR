@@ -37,7 +37,7 @@ Chapter 8: Series
 
 ## 0.4.05 General guidelines on transcription
 
-<a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific rules. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific instructions. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
 DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Alternatively, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
@@ -75,12 +75,12 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 |![k](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_k.png "k") | k | | |Typical in early French signatures|
 |![M](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_apostrophus_1.png "M")  ![D](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_apostrophus_2.png "D")| M      D   | ![MDCCV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_MDCCV.png "MDCCV")| MDCCV | Inverted **C** used to form Roman numeral **M** or **D** is called an apostrophus |
 |![r](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_r_1.png "r")  ![r](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_r_2.png "r")|r|![for](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_for.png "for")|for| |
-|![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_1.png "s")  ![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_2.png "s")  ![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_3.png "s")  |s|![refuse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_refuse.png "refuse")|refuse|Long **s** (an **f** has a crossbar on the stem; the bar on a long **s**, if present, extens from one side only)|
+|![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_1.png "s")  ![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_2.png "s")  ![s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_s_3.png "s")  |s|![refuse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_refuse.png "refuse")|refuse|Long **s** (an **f** has a crossbar on the stem; the bar on a long **s**, if present, extends from one side only)|
 |![ss](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ss_1.png "ss")  ![ss](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ss_2.png "ss")   ![ss](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ss_3.png "ss")  ![ss](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ss_4.png "ss")|ss|![dess](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_dess.png "dess")|dess| |
 |![sz](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_sz.png "sz")|sz|![desz](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_desz.png "desz")|desz|Long **s** and **z** are spaced normally, no ligature|
 |![-](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_hyphen.png "-")|-|![West-riding](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_West_Riding.png "West-riding")|West-riding||
 |![°](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ring.png "°")|°|![můss](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_muss.png "můss")|můss| |
-|![¨](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_umlaut.png "¨")|¨|![Büche](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_Buche.png "Büche") | Büche | Superscript **e** functioning as a n umlaut|
+|![¨](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_umlaut.png "¨")|¨|![Büche](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_Buche.png "Büche") | Büche | Superscript **e** functioning as an umlaut|
 |![&](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ampersand_1.png "&")   ![&](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ampersand_2.png "&")   ![&](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ampersand_3.png "&")   ![&](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ampersand_4.png "&")|&| ![&c.](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/early_letterforms_ampersand_c.png "&c.")|&c.| |
 
 ### 0.4.16 Brevigraphs
@@ -118,7 +118,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 <a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if necessary.
 
-<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets. Enclose each expansion or supplied word in its own set of square brackets.
+<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
@@ -239,7 +239,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
-<a name="0.4.31.4">0.4.31.4</a> **Original punctuation**. **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
+<a name="0.4.31.4">0.4.31.4</a> **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#04355-square-brackets) (see [0.4.355.1](/DCRMR/general-rules/Transcription/#0.4.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0436-virgules) (see [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1))
@@ -642,7 +642,7 @@ Make an explanatory note.
 
 ### 0.4.72 Misprints and unintentional inaccuracies
 
-<a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is” and the correction within square brackets.
+<a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is,” and the correction within square brackets.
 
 >Example:  
 ><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
@@ -693,7 +693,7 @@ Make an explanatory note if considered important.
 | ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
 | ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
 
-<a name="0.4.74.3">0.4.74.3</a> If the characters used to approximate a different character occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed if considered important (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
+<a name="0.4.74.3">0.4.74.3</a> If the characters used to approximate a different character occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed as set if considered important (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
 
 ## 0.4.8 Other transcription rules
 
@@ -762,8 +762,6 @@ See the instructions for specific types of dates as follows:
 >Example:  
 ><CITE>Brown's industrial gazetteer and hand-book of the Atchison, Topeka & Santa Fe R.R.</CITE>
 
-<a name="0.4.92.2">0.4.92.2</a> **Still images**. Consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
-
 ### 0.4.94 Order and transposition
 
 <a name="0.4.94.05">0.4.94.05</a> DCRMR calls for descriptive information from the resource to be transcribed into elements in a standardized, specific order, which corresponds to area order in [International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"} (ISBD) and which also forms the basis of chapter organization in DCRMR. Within each area, element order may be further specified. The order of commonly used elements is given below; further elements and the order thereof may be specified in the DCRMR text.
@@ -787,14 +785,13 @@ See the instructions for specific types of dates as follows:
 
 DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
 
-DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction I.01.321.1](/DCRMR/introduction/#i01321-rules-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)) and accurately represent the resource as it describes itself ([Principle of DCRMR construction I.01.322.1](/DCRMR/introduction/#i01322-rules-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through--regarding-transcription-transposition-and-omission)).
+DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction I.01.321.1](/DCRMR/introduction/#I.01.321.1)) and allows catalogers to accurately represent the resource as it describes itself ([Principle of DCRMR construction I.01.322.1](/DCRMR/introduction/#I.01.322.1)).
 
 The following general rules about order and transposition apply. See also [Grammatical inseparability, 0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1).
 
 <a name="0.4.94.1">0.4.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
-<a name="0.4.94.2">0.4.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: 
-case endings would be affected, or the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from its surrounding elements, or the data element instructions specify otherwise.
+<a name="0.4.94.2">0.4.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: case endings would be affected, the grammatical construction of the information would be disturbed,  the text is otherwise grammatically inseparable from its surrounding elements, or the data element instructions specify otherwise.
 
 <a name="0.4.94.3">0.4.94.3</a> Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
 

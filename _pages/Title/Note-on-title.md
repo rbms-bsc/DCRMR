@@ -34,7 +34,7 @@ sidebar:
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
 >Note on title: <CITE>Title from docket title</CITE>  
  
-<a name="1.29.31.2">1.29.31.2</a> Always make a note to indicate the original position on the title page of transposed elements (see [1.02.3.2](/DCRMR/title/#1.02.3.2)).
+<a name="1.29.31.2">1.29.31.2</a> Always make a note to indicate the original position on the title page of transposed elements (see [1.01.3.2](/DCRMR/title/#1.01.3.2)).
 
 <a name="1.29.31.3">1.29.31.3</a> For multipart monographs, if the description is not based on the first part, identify the part used as the basis of the description.
 
@@ -90,7 +90,7 @@ sidebar:
 
 <a name="1.29.38.1">1.29.38.1</a> Make a note indicating the transposition of [Other title information](/DCRMR/title/Other-title-information/) that precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page (see [Other title information, 1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)).
 
-<a name="1.29.38.2">1.29.38.2</a> 1.29.38.2 For instructions on providing access points for other title information, see [Variant title of manifestation, 1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
+<a name="1.29.38.2">1.29.38.2</a> For instructions on providing access points for other title information, see [Variant title of manifestation, 1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
 
 ## 1.29.39 Title information not appearing on title page
 

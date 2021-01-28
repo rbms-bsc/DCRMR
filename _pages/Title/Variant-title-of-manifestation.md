@@ -98,7 +98,7 @@ sidebar:
 
 ### 1.25.355 Title proper with corrected misprint (required)
 
-<a name="1.25.355.1">1.25.355.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains a misprint that has been corrected in the transcription through the insertion of **[that is, ...]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been printed correctly (see [0.4.72](/DCRMR/general-rules/Transcription/#0472-misprints-and-unintentional-inaccuracies)).
+<a name="1.25.355.1">1.25.355.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains a misprint that has been corrected in the transcription through the insertion of **[that is, ...]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been printed correctly (see [0.4.72.2](/DCRMR/general-rules/Transcription/#0.4.72.2)).
 
 >Example:    
 >Title proper: <CITE>The notted [that is, noted] history of Mother Grim</CITE>  

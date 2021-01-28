@@ -25,9 +25,9 @@ sidebar:
 
 ### 0.1.22 Imperfect exemplars of a manifestation
 
-<a name="0.1.22.1">0.1.22.1</a> If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [Modification of item, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described in, 9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)). Make a local note describing the imperfection of the item in hand (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="0.1.22.1">0.1.22.1</a> If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described in, 9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)). Make a local note describing the imperfection of the item in hand (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
-<a name="0.1.22.2">0.1.22.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1).
+<a name="0.1.22.2">0.1.22.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
 
 >Example:  
 >Title proper: <CITE>Carta de […] sitio de Puebla</CITE>  
@@ -130,16 +130,14 @@ For additional guidance on sources of information for individual elements, see i
 + other published descriptions of the manifestation (e.g., a dealer’s description, a prospectus)
 + any other available source (e.g., a container that is not issued with the manifestation itself or accompanying material that is not treated as part of the manifestation itself)
 
-<a name="0.1.7.2">0.1.7.2</a> When the instructions specify transcription, indicate that the information is supplied from a source outside the manifestation itself by enclosing the information in square brackets.
-
-<a name="0.1.7.3">0.1.7.3</a> If the source of information is not the manifestation that is being described, enclose the information in square brackets. Record a note to indicate the source of information.
+<a name="0.1.7.2">0.1.7.2</a> When the instructions specify transcription, indicate that the information is supplied from a source outside the manifestation itself by enclosing the information in square brackets. Make a note to indicate the source of information.
 
 >Example:  
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
 >Note on title: <CITE>Title from Bartsch</CITE>   
 >(*Comment*: The formal citation for Bartsch is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
-<a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, record a note to indicate that additional information was not found in the source.
+<a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, make a note to indicate that additional information was not found in the source.
 
 ---
 
