@@ -7,6 +7,11 @@ sidebar:
   nav: "docs"
 ---
 
+Comment on specific instructions (including broken links): [Google Doc for BSC review: Chapter 1](https://docs.google.com/document/d/1szCKBfb1InUPg-VPDDboOIOm1FOoNHP7IpSefsW7gcY/edit?usp=sharing){:target="_blank"}
+
+Other suggestions to improve DCRMR (e.g., improvements to site appearance, navigation, etc.): [DCRMR Google form](https://docs.google.com/forms/d/e/1FAIpQLSdR5y2Om_wXVFI4FzsrzaFII66-U8bF0YFHT4ImFTZcaLYpZg/viewform){:target="_blank"}
+
+
 ## 1.01.1 Sources of information
 
 <a name="1.01.1.1">1.01.1.1</a> The [Preferred source of information](/DCRMR/general-rules/Data-provenance/#013-preferred-source-of-information) for the title is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 
