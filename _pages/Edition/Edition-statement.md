@@ -28,7 +28,7 @@ sidebar:
 ## 3.21.3 General rule
 
 <a name="3.21.3.1">3.21.3.1</a> Transcribe a statement relating to an edition or issue of a manifestation as it
-appears, according to the general guidelines (see [General rules](/DCRMR/general-rules/)). Include any explanatory words or phrases appearing with the edition statement.
+appears, unless instructed otherwise by specific instructions. Include any explanatory words or phrases appearing with the edition statement.
 
 <a name="3.21.3.2">3.21.3.2</a> Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) if the edition statement is transposed from its position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
@@ -40,7 +40,7 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 
 ## 3.21.32 Edition statements that are grammatically inseparable parts of other transcribed elements
 
-<a name="3.21.32.1">3.21.32.1</a> If an edition statement is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/), [Other title information](/DCRMR/title/Other-title-information/), [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), or any other transcribed element, then transcribe as part of the element to which it is integrated or linked and do not repeat it as an edition statement. 
+<a name="3.21.32.1">3.21.32.1</a> If an edition statement is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/), [Other title information](/DCRMR/title/Other-title-information/), [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), or any other transcribed element, then transcribe it as part of the element to which it is integrated or linked and do not repeat it as an edition statement. 
 
 >Example:  
 >Title proper: <CITE>Blunt's edition of the Nautical almanac and astronomical ephemeris for the year 1815</CITE>
@@ -59,9 +59,9 @@ appears, according to the general guidelines (see [General rules](/DCRMR/general
 >Example:  
 > <CITE>A new edition in two volumes</CITE>
 
-## 3.21.34 Two or more works on the preferred source of information with at least one edition statement
+## 3.21.34 Two or more expressions named on the preferred source of information with at least one edition statement
 
-<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual works contained in the manifestation, and one or more of these works has an edition statement associated with it, do not transcribe as an edition statement. Instead, transcribe each edition statement with the title or statement of responsibility to which it pertains.
+<a name="3.21.34.1">3.21.34.1</a> If the preferred source of information bears the titles of two or more individual expressions contained in the manifestation, and one or more of these expressions has an edition statement associated with it, do not transcribe as an edition statement. Instead, transcribe each edition statement with the title or statement of responsibility to which it pertains.
 
 >Example:  
 ><CITE>An examination of Dr. Burnet's theory of the earth  ... / by J. Keill, The second edition corrected and all the figures (25 in number) engraved on copper plates. To the whole is Annexed A dissertation on the different figures of celestial bodies, &c ... / by Mons. de Maupertuis </CITE>  
@@ -95,7 +95,7 @@ If the manifestation was issued as such, transcribe all edition statements. Indi
 >Edition statement: <CITE>The first edition</CITE>  
 >Note on edition statement: <CITE>Volume 1 issued as the second edition and volume 2 issued as the first edition</CITE>
 
-<a name="3.21.37.2">3.21.37.2</a> Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) indicating the absence of edition statements if considered important (see [3.26.36.1](/DCRMR/edition/Note-on-edition-statement/#3.26.36.1)).
+<a name="3.21.37.2">3.21.37.2</a> Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) indicating the absence of edition statements (see [3.26.36.1](/DCRMR/edition/Note-on-edition-statement/#3.26.36.1)).
 
 >Example:      
 >Edition statement: <CITE>The second edition</CITE>  

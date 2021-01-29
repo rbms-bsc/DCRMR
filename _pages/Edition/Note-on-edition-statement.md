@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.26.31 Source and position of edition statement
 
-<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3.01.1), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) and [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
+<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) when it is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) and [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
 
 >Example:  
 > <CITE>The statement “corrected printing” from colophon</CITE>
@@ -50,7 +50,7 @@ sidebar:
 >Example:  
 ><CITE>“Sixth edition”--Tchemerizine, v. 6, p. 117-131</CITE>
 
-<a name="3.26.32.2">3.26.32.2</a> Note statements referring to other editions (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
+<a name="3.26.32.2">3.26.32.2</a> Make a note on statements referring to other editions (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
 
 ## 3.26.34 Edition statements relating to issues or parts
 
@@ -68,7 +68,7 @@ sidebar:
 
 ## 3.26.36 Edition statements on multipart monographs
 
-<a name="3.26.36.1">3.26.36.1</a> If the [Edition statement](/DCRMR/edition/Edition-statement/) varies or does not appear on all volumes of a multipart monograph, and it was issued as such, make a note on edition statement explaining which edition statement appears on which volume and/or indicating the absence of edition statements if considered important (see [3.21.37.1](/DCRMR/edition/Edition-statement/#3.21.37.1)).
+<a name="3.26.36.1">3.26.36.1</a> If the [Edition statement](/DCRMR/edition/Edition-statement/) varies or does not appear on all volumes of a multipart monograph, and it was issued as such, always make a note on edition statement explaining which edition statement appears on which volume and/or indicating the absence of edition statements (see [3.21.37.1](/DCRMR/edition/Edition-statement/#3.21.37.1) and [3.21.37.2](/DCRMR/edition/Edition-statement/#3.21.37.2)).
 
 >Example:  
 > <CITE>V. 2 issued without an edition statement</CITE>

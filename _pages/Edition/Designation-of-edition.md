@@ -41,7 +41,7 @@ part of a statement being transcribed in the production, publication, distributi
 
 <a name="3.22.32.1">3.22.32.1</a> Use judgment in transcribing statements containing words such as “impression” or “printing” as a designation of edition. In publications from the hand-press era, such statements usually signal a new edition or issue. In these cases, the statement may properly be considered a designation of edition.
 
-<a name="3.22.32.2">3.22.32.2</a> For publications from the machine-press era or publications manufactured by the process of engraving, statements containing words such as “impression” or “printing” are more likely to indicate that the publication is simply a new impression of the same edition. 
+<a name="3.22.32.2">3.22.32.2</a> For resources from the machine-press era or resources manufactured by the process of engraving, statements containing words such as “impression” or “printing” are more likely to indicate that the resource is simply a new impression of the same edition. 
 
 If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)), see alternative rule at [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2).
 
@@ -119,7 +119,7 @@ appropriate statement in square brackets, as needed. Indicate the basis for the 
 
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>  
->Note on Edition Statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>
+>Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>
 
 ## 3.22.36 Designations of edition in more than one language or script
 

@@ -27,7 +27,7 @@ sidebar:
 
 ## 2.21.31 Statements of responsibility on the preferred source of information
 
-<a name="2.21.31.1">2.21.31.1</a> Transcribe statements of responsibility relating to title proper found on the preferred source of information in the form and order in which they appear, unless instructed otherwise by specific rules. See [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="2.21.31.1">2.21.31.1</a> Transcribe statements of responsibility relating to title proper found on the preferred source of information in the form and order in which they appear, unless instructed otherwise by specific instructions. See [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
 ><CITE>by Charles Fearne, Esq. barrister at law, of the Inner Temple, author of  The legigraphical chart of landed property</CITE>
@@ -53,7 +53,7 @@ sidebar:
  
 ## 2.21.32 Transposition of statements of responsibility relating to title proper
 
-<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility relating to title proper precedes the [Title proper](/DCRMR/title/Title-proper/) in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility relating to title proper, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.02.2](/DCRMR/sor/#2012-element-order) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility relating to title proper precedes the [Title proper](/DCRMR/title/Title-proper/) in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility relating to title proper, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.01.3](/DCRMR/sor/#2013-form-and-order-of-information) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 ## 2.21.33 Single statements of responsibility relating to title proper with two or more names
 
@@ -74,7 +74,7 @@ sidebar:
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni, L.D. Crespi, M. Dudovich, L. Dudreville, A. Mazza, E. Sacchetti, S. Tofano (Sto), R.C. Ventura</CITE>  
 
-<a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively, all after the third may be omitted. Indicate the omission by the mark of omission, and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission.
+<a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively, all after the third may be omitted.  In such cases, after the third person or body, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Do not use a mark of omission.
 
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni [and 7 others]</CITE>  
@@ -139,7 +139,7 @@ sidebar:
 >Example:  
 ><CITE>by Sir William Dugdale knt. Garter Principal King of Arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>
 
-<a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other works given equal prominence with the title of the first work, treat as two or more works named on the preferred source of information (see [Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
+<a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other expressions given equal prominence with the title of the first work, treat as two or more expressions named on the preferred source of information (see [Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
 ## 2.21.39 Other statements
 

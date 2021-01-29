@@ -25,11 +25,11 @@ sidebar:
 
 ## 3.225.3 General rule
 
-<a name="3.225.3.1">3.225.3.1</a> If a [Designation of edition](/DCRMR/edition/Designation-of-edition/) appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
+<a name="3.225.3.1">3.225.3.1</a> If a [Designation of edition](/DCRMR/edition/Designation-of-edition/) appears on the source of information in more than one language or script, transcribe as the [Designation of edition](/DCRMR/edition/Designation-of-edition/) the statement that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first in the manifestation. 
 
 <a name="3.225.3.2">3.225.3.2</a> Transcribe the remaining statement(s) as Parallel designations of edition.
 
-<a name="3.225.3.3">3.225.3.3</a> *Optionally*, if it is considered that the Parallel designations of edition are too numerous to record exhaustively, and some may be omitted without significant loss of identification, all Parallel designations of editions after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase.
+<a name="3.225.3.3">3.225.3.3</a> *Optionally*, if it is considered that the parallel designations of edition are too numerous to list exhaustively, and some may be omitted without significant loss of identification, all parallel designations of edition after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase. Do not use a mark of omission.
 
 ---
 

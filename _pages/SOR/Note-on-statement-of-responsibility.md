@@ -29,7 +29,7 @@ sidebar:
 
 ## 2.29.32 Transposed statements of responsibility 
 
-<a name="2.29.32.1">2.29.32.1</a> Always note the original position on the title page of statements of responsibility that have been transposed to [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) elements (see [2.21.32.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)).
+<a name="2.29.32.1">2.29.32.1</a> Always note the original position on the title page of statements of responsibility that have been transposed to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) element (see [2.21.32.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)).
 
 <a name="2.29.32.2">2.29.32.2</a> Make a note to indicate the original position on the source of any transposed parallel statements of responsibility (see [Parallel statement of responsibility relating to title proper, 2.215.31.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.2)).
 

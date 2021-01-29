@@ -23,7 +23,7 @@ sidebar:
 
 >Designation of edition = Parallel designation of edition, designation of named revision of edition = parallel designation of named revision of edition
 
-<a name="3.01.2.3">3.01.2.3</a> Transcribe the statement of responsibility relating to edition after the Designation of edition.
+<a name="3.01.2.3">3.01.2.3</a> Transcribe the statement of responsibility relating to edition after the designation of edition.
 
 >Designation of edition / statement of responsibility relating to edition
 
@@ -35,13 +35,13 @@ sidebar:
 
 >Designation of edition, designation of named revision of edition = Parallel designation of edition, parallel designation of named revision of edition / statement of responsibility relating to edition
 
-<a name="3.01.2.6">3.01.2.6</a> If the manifestation has parallel edition statements and statements of responsibility relating to the edition or to named revisions of editions in more than one language or script, transcribe each statement of responsibility after each edition statement to which it relates.
+<a name="3.01.2.6">3.01.2.6</a> If the manifestation has parallel designations of edition and designation of named revision of edition and/or statements of responsibility relating to edition in more than one language or script in more than one language or script, transcribe each named revision or edition and/or statement of responsibility after each designation of edition to which it relates.
 
 >Designation of edition, designation of named revision of edition / statement of responsibility relating to edition = Parallel designation of edition, parallel designation of named revision of edition / parallel statement of responsibility relating to edition
 
 ## 3.01.3 Form and order of information
 
-<a name="3.01.3.1">3.01.3.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific guidelines.
+<a name="3.01.3.1">3.01.3.1</a> Transcribe edition information in the form and order in which it is presented on the source of information, unless instructed otherwise by specific instructions.
 
 ## Contents:
 {: .no_toc }

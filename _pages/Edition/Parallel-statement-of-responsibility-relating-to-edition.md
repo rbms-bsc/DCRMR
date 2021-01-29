@@ -27,9 +27,9 @@ sidebar:
 
 <a name="3.235.3.1">3.235.3.1</a> If there are [Designations of edition](/DCRMR/edition/Designation-of-edition/) in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/).
 
-<a name="3.235.3.2">3.235.3.2</a> If a [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) appears on the manifestation in more than one language or script, record the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, record the statement that appears first. 
+<a name="3.235.3.2">3.235.3.2</a> If a [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) appears on the manifestation in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first. 
 
-<a name="3.235.3.3">3.235.3.3</a> Transcribe the remaining statement(s) as parallel statements of responsibility relating to edition.
+<a name="3.235.3.3">3.235.3.3</a> Transcribe the remaining statement(s) as parallel statement(s) of responsibility relating to edition.
 
 >Example:  
 ><CITE>Deuxième édition / rédigé par Alexandre Choron = Second edition / edited by Alexandre Choron</CITE>
