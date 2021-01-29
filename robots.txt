@@ -3,4 +3,4 @@ User-agent: AdsBot-Google
 User-agent: Googlebot-Image
 Disallow: 
 
-Sitemap: https://rbms-bsc.github.io/DCRMR/sitemap.xml
+Sitemap: https://bsc.rbms.info/sitemap.xml
