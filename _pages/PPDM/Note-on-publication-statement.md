@@ -80,15 +80,15 @@ sidebar:
 
 <a name="5.24.32.6">5.24.32.6</a> Always make a note on publication statement if the reason for supplying the [Place of publication](/DCRMR/ppdm/Place-of-publication/) is not apparent from the rest of the description and indicate the source of the information (see [5.21.385.3](/DCRMR/ppdm/Place-of-publication/#5.21.385.3)).
 
-<a name="5.24.32.7">5.24.32.7</a> Always make a note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script and the original position of elements was transposed (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
+<a name="5.24.32.7">5.24.32.7</a> Always make a note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script and the elements were transposed from their original position (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
 ## 5.24.33 Note on parallel place of publication
 
-<a name="5.24.33.1">5.24.33.1</a> Make a note on publication statement if a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and is considered important for identification (see [Parallel place of publication, 5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4) and [Place of publication, 5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
+<a name="5.24.33.1">5.24.33.1</a> Make a note on publication statement of a parallel place of publication found elsewhere in the resource from the place of publication if considered important (see [Parallel place of publication, 5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4) and [Place of publication, 5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1)).
 
 ## 5.24.34 Note on name of publisher
 
-<a name="5.24.34.1">5.24.34.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name, and the publisher’s name can be identified, always give this information in a note on publication statement if it has not been supplied as [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
+<a name="5.24.34.1">5.24.34.1</a> If only the address, sign, or initials of the publisher appear in lieu of the name and the publisher’s name can be identified, always give this information in a note on publication statement if it has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
 
 <a name="5.24.34.2">5.24.34.2</a> As necessary, make a note on publication statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is based on a device (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
 
@@ -112,18 +112,18 @@ sidebar:
 
 <a name="5.24.34.5">5.24.34.5</a> If the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, always transcribe the publication information on the first or earliest part as the [Publication statement](/DCRMR/ppdm/Publication-statement/) and give the publication information of the later part(s) in a note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
-<a name="5.24.34.6">5.24.34.6</a> Always make a note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give supporting evidence in a note on publication statement (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
+<a name="5.24.34.6">5.24.34.6</a> Always make a note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied name of publisher, give supporting evidence in a note on publication statement (see [Name of publisher, 5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
 
 >Example:  
 >Name of publisher: <CITE>[Anton Koberger]</CITE>  
 >Note on publication statement: <CITE>Imprint from Goff.</CITE>  
 >(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
 
-<a name="5.24.34.7">5.24.34.7</a> Always make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the original position of elements were transposed (see [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
+<a name="5.24.34.7">5.24.34.7</a> Always make a note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script and the elements were transposed from their original position (see [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
 
 ## 5.24.35 Note on parallel name of publisher
 
-<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement if parallel publisher names are from a different source than the name of publisher (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
+<a name="5.24.35.1">5.24.35.1</a> Make a note on publication statement of parallel publisher names found elsewhere in the resource  from the source of the name of publisher if considered important (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [Name of publisher, 5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1)).
 
 ## 5.24.36 Note on date of publication
 
@@ -150,7 +150,7 @@ sidebar:
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), make a note on publication statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication, 5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
+<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), always make a note on publication statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication, 5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
 
 <a name="5.24.36.5">5.24.36.5</a> Always make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication, 5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5)).
 
@@ -178,7 +178,7 @@ sidebar:
 >Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on publication statement (see [5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
+<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on publication statement (see [Date of publication, 5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
 
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
@@ -187,7 +187,7 @@ sidebar:
 
 <a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, always indicate the basis for the conjecture in a note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
-<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note on publication statement (see [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
+<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note on publication statement (see [Date of publication, 5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
 
 <a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note on publication statement if considered important. Such a note on publication statement is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication, 5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
 
@@ -197,7 +197,7 @@ sidebar:
 
 <a name="5.24.36.9">5.24.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, always give these additional dates in a note on publication statement (see [Date of publication, 5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1)).
 
-## 5.24.37 Publication details not included in the manifestation
+## 5.24.37 Other publication details
 
 <a name="5.24.37.1">5.24.37.1</a> Make a note on publication statement for publication details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 

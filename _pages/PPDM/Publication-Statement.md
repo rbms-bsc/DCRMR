@@ -27,7 +27,7 @@ sidebar:
 
 ## 5.2.3 General rule
 
-<a name="5.2.3.1">5.2.3.1</a> Transcribe the publication statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="5.2.3.1">5.2.3.1</a> Transcribe the publication statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 ## 5.2.31 Information covered by labels, etc.
 
@@ -41,7 +41,7 @@ sidebar:
 
 ## 5.2.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
-<a name="5.2.32.1">5.2.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+<a name="5.2.32.1">5.2.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers, and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
 ## 5.2.33 Statements relating to publication only
 
@@ -75,7 +75,24 @@ sidebar:
 >Example:  
 ><CITE>London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657</CITE>
 
-<a name="5.2.335.2">5.2.335.2</a> If the resource bears only a statement relating to distributor, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
+<a name="5.2.335.2">5.2.335.2</a> If the resource bears only a statement relating to distribution, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
+
+>Example:  
+><CITE>[London] : se vend chez A. Dulau et Co. Soho-Square; De Boffe, Gerard-Street; Boosey, Royal Exchange; Booker, Bond-Street; L'Homme New Bond-Street, et chez les principaux libraires du royaume, 1800</CITE>
+
+>Example:  
+><CITE>[London] : Catalogues are distributed gratis, at Mr. Manships in Corhill, Mr. Bromes and Mr. Bennets in St. Paul's Church-Yard, Mr. Goodwins in Fleet-street, Mr. Partridge at Charing-Cross, booksellers, [1692]</CITE>
+
+>Example:  
+><CITE>London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798</CITE>
+
+>Example:  
+><CITE>London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785</CITE>
+
+<a name="5.2.35.3">5.2.35.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
+
+>Example:  
+><CITE>London : Printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
 
 ## 5.2.34 Statements relating to publication and to distribution or manufacture
 
@@ -97,40 +114,17 @@ sidebar:
 <a name="5.2.34.4">5.2.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
 
 >Example:  
-><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. -- London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
+><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. &#8208;&#8208; London : published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>  
 >(*Comment*: The engraver statement containing the name of the printer has been transcribed as a statement of responsibility relating to title proper)
 >
 >but
 >
-><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. -- London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
+><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes ... / by L.S. de la Rochette, MDCCLXXXIII. &#8208;&#8208; London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
 >(*Comment*: The engraver statement containing the name of the publisher has been transcribed as the publication statement)
 
 ## 5.2.35 No publication statement
 
-<a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, then supply the publication statement information in square brackets. 
-
-<a name="5.2.35.2">5.2.35.2</a> If the resource bears only a statement relating to distribution, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
-
->Example:  
-><CITE>[London] : se vend chez A. Dulau et Co. Soho-Square; De Boffe, Gerard-Street; Boosey, Royal Exchange; Booker, Bond-Street; L'Homme New Bond-Street, et chez les principaux libraires du royaume, 1800</CITE>
-
->Example:  
-><CITE>[London] : Catalogues are distributed gratis, at Mr. Manships in Corhill, Mr. Bromes and Mr. Bennets in St. Paul's Church-Yard, Mr. Goodwins in Fleet-street, Mr. Partridge at Charing-Cross, booksellers, [1692]</CITE>
-
->Example:  
-><CITE>London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798</CITE>
-
->Example:  
-><CITE>London : sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785</CITE>
-
-<a name="5.2.35.3">5.2.35.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
-
->Example:  
-><CITE>London : printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
-
-## 5.2.36 Transcribing dates of publication as part of the publication statement
-
-<a name="5.2.36.1">5.2.36.1</a> Transcribe [Dates of publication](/DCRMR/ppdm/Date-of-publication/) as they appear on the source of information (see [Transcription](/DCRMR/general-rules/Transcription/)).
+<a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, then supply the publication information in square brackets. 
 
 ---
 

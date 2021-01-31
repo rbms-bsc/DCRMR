@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.21.3 General rule
 
-<a name="5.21.3.1">5.21.3.1</a> Transcribe place names associated with the publication, release, or issuing of a published manifestation as part of this element. 
+<a name="5.21.3.1">5.21.3.1</a> Transcribe place names associated with the publication, release, or issuing of a published manifestation  in the form and order in which it is presented in the source, unless instructed otherwise by specific rules. 
 
 <a name="5.21.3.2">5.21.3.2</a> Transcribe the place of publication as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
@@ -112,7 +112,7 @@ sidebar:
 >Example:  
 ><CITE>A Lausanne & se trouve à Paris</CITE>
 
-<a name="5.21.33.2">5.21.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of publication may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+<a name="5.21.33.2">5.21.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of publication may be shortened by omitting all the places after the third. In such cases, after the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>London ; Reading ; Bath ... [and 6 other cities in England]</CITE>
@@ -180,7 +180,7 @@ sidebar:
 
 ## 5.21.38 Place of publication supplied based on address or sign
 
-<a name="5.21.38.1">5.21.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) element; see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1).)  When supplying a place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
+<a name="5.21.38.1">5.21.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/); see [5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1).)  When supplying the place of publication, give a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if necessary (see [5.24.32.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.5)).
 
 >Example:  
 ><CITE>[Paris]</CITE>  
@@ -225,7 +225,7 @@ sidebar:
 
 ## 5.21.39 Place names in more than one language or script
 
-<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe place that appears first. Transcribe the remaining places(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)). 
+<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining places(s) as [Parallel places of publication](/DCRMR/ppdm/Parallel-place-of-publication/). Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)). 
 
 ---
 

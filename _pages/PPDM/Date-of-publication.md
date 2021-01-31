@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.23.3 General rule
 
-<a name="5.23.3.1">5.23.3.1</a> Transcribe dates of publication as part of this element. Include the day and month, if present.
+<a name="5.23.3.1">5.23.3.1</a> Transcribe dates of publication  in the form and order in which it is presented in the source, unless instructed otherwise by specific rules. Include the day and month, if present.
 
 >Example:  
 ><CITE>7th July 1766</CITE>
@@ -36,7 +36,7 @@ sidebar:
 >Example:  
 ><CITE>MDCCXXXIII [1733]</CITE>
 
-<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
+<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno." If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
 
 >Example:  
 ><CITE>Im Jahr Christi 1705</CITE>
@@ -55,7 +55,7 @@ sidebar:
 
 ## 5.23.31 Transcription involving adjustments or additions
 
-<a name="5.23.31.1">5.23.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
+<a name="5.23.31.1">5.23.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [Transcription, 0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>anno Domini MDCXIV [1614]</CITE> 
@@ -66,7 +66,7 @@ sidebar:
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>
 
-<a name="5.23.31.2">5.23.31.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, substitute for the chronogram the date in arabic numerals in square brackets.
+<a name="5.23.31.2">5.23.31.2</a> **Chronograms**. Transcribe the chronogram as it appears. *Optionally*, include the date in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii</CITE> 
@@ -74,7 +74,7 @@ sidebar:
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-*Optionally*, substitute the chronogram for arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. If following the option, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
+*Optionally*, substitute for the chronogram the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the sequence: day, month, year. If following the option, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) explaining the source of the date. Include a transcription of the original chronogram in the [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.36.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.1)).
 
 >Example:  
 >Date of publication: <CITE>[1758]</CITE>  

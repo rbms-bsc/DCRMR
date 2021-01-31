@@ -25,11 +25,15 @@ sidebar:
 
 ## 5.225.31 Publisher names in more than one language or script
 
-<a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important for identification (see [Note on publication statement, 5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
+<a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important (see [Note on publication statement, 5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 
 <a name="5.225.31.2">5.225.31.2</a> Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) to indicate the original position on the source of any transposed statements (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
 
-<a name="5.225.31.3">5.225.31.3</a> *Optionally*, if the parallel names of publisher are too numerous to record exhaustively and some may be omitted without significant loss of identification then all parallel publishers’ names after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted names (if more than one) in the supplied phrase.
+<a name="5.225.31.X">5.225.31.X</a> If the [Name of publisher](/DCRMR/ppdm/Name-of-publisher) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper) as a [Name of publisher](/DCRMR/ppdm/Name-of-publisher) element. If this criterion does not apply, transcribe the [Name of publisher](/DCRMR/ppdm/Name-of-publisher) that appears first.
+
+<a name="5.225.31.X">5.225.31.X</a> Transcribe remaining [Name of publisher](/DCRMR/ppdm/Name-of-publisher) as parallel names of publisher. If a parallel name of publisher is from a different source than the [Name of publisher](/DCRMR/ppdm/Name-of-publisher), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) if considered important (see [Note on publication statement, 5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
+
+<a name="5.225.31.3">5.225.31.3</a> *Optionally*, if the parallel names of publisher are too numerous to list exhaustively and some may be omitted without significant loss of identification then all parallel publishers’ names after the third may be omitted. In such cases, after the third parallel name of publisher, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted names (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 ---
 
