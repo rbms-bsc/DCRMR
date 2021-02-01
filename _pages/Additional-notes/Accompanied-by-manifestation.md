@@ -35,7 +35,7 @@ sidebar:
 
 <a name="9.31.3.1">9.31.3.1</a> Always record this relationship as an unstructured note, beginning with “Accompanied by” followed by a colon.
 
-<a name="9.31.3.2">9.31.3.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.1).
+<a name="9.31.3.2">9.31.3.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.31.31](/DCRMR/additional-notes/Accompanied-by-manifestation/#93131-issued-in-pocket).
 
 <a name="9.31.3.3">9.31.3.3</a> Record the name of the material, preceded by the number of physical units if considered important.
 
@@ -61,7 +61,7 @@ sidebar:
 >Example:  
 > <CITE>Accompanied by: Star guide (1 sheet ; 12 x 36 cm), previously published separately in 1744 </CITE>
 
-<a name="9.31.3.6">9.31.3.6</a>  *Optionally*, catalogers may record an access point for manifestation for the related manifestation(s) in addition to the note. 
+<a name="9.31.3.6">9.31.3.6</a>  *Optionally*, record an access point for manifestation for the related manifestation(s) in addition to the note. 
 
 ## 9.31.31 Issued in pocket
 
@@ -71,7 +71,7 @@ sidebar:
 > Accompanied by manifestation: <CITE>Accompanied by: 2 folded maps</CITE>  
 > Details on illustrative content: <CITE>Maps in pocket on inside back cover</CITE>
 
-<a name="9.31.31.2">9.31.31.2</a> For non-illustrative accompanying material issued in a pocket, specify the location in an unstructured note (see [9.31.3.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.1)).
+<a name="9.31.31.2">9.31.31.2</a> For non-illustrative accompanying material issued in a pocket, specify the location in an unstructured note (see [9.31.3.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.2)).
 
 ---
 

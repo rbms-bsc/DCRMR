@@ -42,9 +42,6 @@ sidebar:
 <a name="9.1.32.1">9.1.32.1</a> Make a note on the fact that the work is part of a sequence of works, unless apparent from the rest of the description (see also [RDA Toolkit: Sequel work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-5c2e8808-1684-39d1-b097-27d59c633b80){:target="_blank"} and [RDA Toolkit: Prequel work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-f3c06f83-b065-3eab-a4db-c1db281fcbe0){:target="_blank"}).
 
 >Example:  
-><CITE>Preceded by: [Needs example]</CITE>
-
->Example:  
 ><CITE>Sequel to: Mémoires d'un médecine</CITE>
 
 ---

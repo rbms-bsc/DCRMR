@@ -27,7 +27,7 @@ sidebar:
 
 <a name="9.44.3.1">9.44.3.1</a> For general rules on constructing item-specific notes see [Note on item, 9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1). 
 
-<a name="9.44.3.2">9.44.3.2</a> Record a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions, 6.24.3.3](/DCRMR/phys-desc/Dimensions/#6.24.3.3)).
+<a name="9.44.3.2">9.44.3.2</a> Make a note on dimensions of item if the dimensions of an exemplar differ from the dimensions of the manifestation as issued and the difference is considered important (see [Dimensions, 6.24.3.3](/DCRMR/phys-desc/Dimensions/#6.24.3.3)).
 
 >Example:  
 ><CITE>Library copy leaf size: 209 x 143 mm</CITE>

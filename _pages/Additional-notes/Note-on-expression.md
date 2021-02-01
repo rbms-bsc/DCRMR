@@ -21,7 +21,7 @@ sidebar:
 
 ## 9.2.2 RDA definition and scope
 
-<a name="9.2.2.1">9.2.2.1</a> A broad unstructured description of one or more attributes of an expression 
+<a name="9.2.2.1">9.2.2.1</a> A broad unstructured description of one or more attributes of an expression. 
 
 ## 9.2.3 General rule
 
@@ -37,9 +37,6 @@ sidebar:
 ## 9.2.32 Note on sequential expressions
 
 <a name="9.2.32.1">9.2.32.1</a> Make a note if the expression is part of a sequence of expressions, unless apparent from the rest of the description (see also [RDA Toolkit: Sequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-b3e55e4e-76a1-3ec1-a838-80d787de3f18){:target="_blank"} and [RDA Toolkit: Prequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-dd208429-32ca-3fab-963c-70ab3f54c987){:target="_blank"}).
-
->Example:  
-><CITE>Preceded by: [Needs example]</CITE>
 
 >Example:  
 ><CITE>Sequel to:  Mémoires d'un médecin</CITE>

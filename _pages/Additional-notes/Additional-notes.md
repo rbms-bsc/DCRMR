@@ -13,7 +13,7 @@ sidebar:
 
 ## 9.01.3 Form and order of information
 
-<a name="9.01.3.1">9.01.3.1</a> If information in a note corresponds to information found in the title and statement of responsibility, edition, publication, distribution, etc., physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
+<a name="9.01.3.1">9.01.3.1</a> If information in a note corresponds to information found in the title, statement of responsibility, edition, publication, distribution, manufacture, physical description, or series elements, usually give the elements of information in the order in which they appear in DCRMR.
 
 <a name="9.01.3.2">9.01.3.2</a> Some of the most common types of notes are listed in this chapter; notes other than those provided for may be made if considered important. Specific applications of many of these notes are provided in the preceding chapters. Make notes as called for in the following subrules. When appropriate, combine two or more notes to make one note.
 
@@ -27,7 +27,7 @@ sidebar:
 
 ## 9.01.5 Required notes
 
-<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific rules, e.g., [Note on the source of the title proper, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1) and [Transposed statements of responsibility, 2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1).
+<a name="9.01.5.1">9.01.5.1</a> In general, notes are not required, but some notes are required in particular situations and are so indicated in element-specific instructions, e.g., [Note on the source of the title proper, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1) and [Transposed statements of responsibility, 2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1).
 
 ## Contents:
 {: .no_toc }

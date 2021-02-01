@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.34.21 DCRMR elaboration of scope
 
-<a name="9.34.21.1">9.34.21.1</a> Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record and issued with relationship  if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
+<a name="9.34.21.1">9.34.21.1</a> Record an issued with relationship for a volume that is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record an issued with relationship  if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
 
 ## 9.34.25 Related element
 
@@ -36,15 +36,19 @@ sidebar:
 <a name="9.34.3.1">9.34.3.1</a>  Record this relationship as a structured note beginning with “Issued with” followed by a colon. List the related manifestations, in the order in which they are found. In the case of bound volumes, list all related manifestations in the description for the first manifestation and, in general, only the first manifestations in the descriptions for the subsequent manifestations. 
 
 <a name="9.34.3.2">9.34.3.2</a> For each manifestation listed, give only the elements listed below:
-a) The [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)
-b) The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
-c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [RDA Toolkit:  Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+
+a) The [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)  
+
+b) The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)  
+
+c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [RDA Toolkit:  Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy  
+
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
 >Example:  
 ><CITE>Issued with: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</CITE>
 
-<a name="9.34.3.3">9.34.3.3</a> *Optionally*, catalogers may record an [RDA Toolkit: Access point for manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"} for the related manifestation(s) in addition to the note.
+<a name="9.34.3.3">9.34.3.3</a> *Optionally*, record an access point for manifestation for the related manifestation(s) in addition to the note (see [RDA Toolkit: Access point for manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"}).
 
 ---
 

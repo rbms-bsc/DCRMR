@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.45.25 Related elements
 
-<a name="9.45.25.1">9.45.25.1</a> See [Issued with](/DCRMR/additional-notes/Issued-with/) for items issued together by the publisher on the same carrier.
+<a name="9.45.25.1">9.45.25.1</a> See [Issued with](/DCRMR/additional-notes/Issued-with/) for manifestations issued together by the publisher on the same carrier.
 
 ## 9.45.3 General rule
 
@@ -62,7 +62,7 @@ d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in t
 >Example:  
 ><CITE>University of Chicago Library's copy is bound with 12 other titles on American history</CITE>
 
-<a name="9.45.3.4">9.45.3.4</a> *Optionally*, catalogers may record a [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"} for the related item in addition to the note.
+<a name="9.45.3.4">9.45.3.4</a> *Optionally*, record an access point for item for the related item in addition to the note (see [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"}).
 
 ---
 
