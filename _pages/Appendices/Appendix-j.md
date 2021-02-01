@@ -10,12 +10,12 @@ sidebar:
 
 | Abbreviation | Full form | Significance |
 | ------------ | -------- | ------------ |
-| a.f., aq., aqt., aqua., aquaf., | aqua forti or aquaforti fecit | etched by |
+| a.f., aq., aqt., aqua., aquaf. | aqua forti or aquaforti fecit | etched by |
 | A.P. | artist’s proof| printed for the artist’s personal use at the same time as the regular edition, but not numbered as part of it |
 |APDR|avec privilège du roi|French privileges until 1792 |
-|aq:tinta.,|aquatinta|aquatinted by |
+|aq:tinta.|aquatinta|aquatinted by |
 |B.A.T.|bon à tirer|fit to print (no more changes or corrections need to be made on the matrix) |
-|cae., cael.,|caelavit|engraved by |
+|cae., cael.|caelavit|engraved by |
 |comp.|composuit|designed by (e.g., person who made a drawing for an engraver to work from) |
 |CPR|cum privilegio regis|French privileges until 1792 |
 |CPES|cum privilegio Excellentissimi Senatus|Venetian privilege |

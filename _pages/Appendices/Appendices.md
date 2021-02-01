@@ -22,7 +22,7 @@ sidebar:
 
 [H — Individual and special issues of serials](/DCRMR/appendices/Appendix-h/)
 
-[J — Abbreviations for Creators, Publishers, Printers, etc.](/DCRMR/appendices/Appendix-j/)
+[J — Abbreviations for creators, publishers, printers, etc.](/DCRMR/appendices/Appendix-j/)
 
 [K — Instruction mappings from DCRM to DCRMR](/DCRMR/appendices/Appendix-k/)
 
