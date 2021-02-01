@@ -21,7 +21,7 @@ sidebar:
 
 ## 10.21.2 RDA definition and scope
 
-<a name="10.21.2.1">10.21.2.1</a> A nomen that is an identifier for manifestation of an early printed resource that consists of a sequence of characters from sources of information specified by an established scheme
+<a name="10.21.2.1">10.21.2.1</a> A nomen that is an identifier for manifestation of an early printed resource that consists of a sequence of characters from sources of information specified by an established scheme.
 
 ## 10.21.3 General rule
 
