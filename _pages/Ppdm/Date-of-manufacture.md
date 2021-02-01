@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.33.3 General rule
 
-<a name="5.33.3.1">5.33.3.1</a> Transcribe dates of impression or other manufacture as part of this element only if it has not been treated as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.33.3.1">5.33.3.1</a> Transcribe dates of impression or other manufacture only if it has not been treated as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.33.35 Alternative rules
 
@@ -33,9 +33,9 @@ sidebar:
 
 ### 5.33.351 Alternative rules for Date of manufacture
 
-<a name="5.33.351.1">5.33.351.1</a> Transcribe dates of manufacture as part of this element. Include the day and month, if present.
+<a name="5.33.351.1">5.33.351.1</a> Transcribe dates of manufacture in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. Include the day and month, if present.
 
-<a name="5.33.351.2">5.33.351.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the place or the date according to the punctuation or typography of the source.
+<a name="5.33.351.2">5.33.351.2</a> Transcribe words and phrases such as “in the year” and “anno”. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) according to the punctuation or typography of the source.
 
 <a name="5.33.351.3">5.33.351.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of manufacture. If the supplied date includes a day/month, use the sequence: day, month, year.
 
@@ -65,7 +65,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 *Optionally*, if the date of manufacture includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
-<a name="5.33.352.7">5.33.352.7</a> **Multiple adjustments or additions**. If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.35.36.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.35.36.6)).
+<a name="5.33.352.7">5.33.352.7</a> **Multiple adjustments or additions**. If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.36.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.6)).
 
 ### 5.33.353 Date of manufacture supplied from reference sources
 
@@ -106,7 +106,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 <a name="5.33.356.1">5.33.356.1</a> If parts of a manifestation have individual title pages bearing dates of manufacture that differ from the date pertaining to the whole manifestation, give these additional dates in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.9](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.9)). 
 
-If, however, one of these dates of manufacture is a more accurate reflection of the actual date of manufacture than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.33.352.4](#5.33.352.4).
+If, however, one of these dates is a more accurate reflection of the actual date of manufacture than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.33.352.4](#5.33.352.4).
 
 ---
 

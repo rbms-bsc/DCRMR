@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.32.3 General rule
 
-<a name="5.32.3.1">5.32.3.1</a> Transcribe the names of printers and other manufacturers as part of this element.
+<a name="5.32.3.1">5.32.3.1</a> Transcribe the names of printers and other manufacturers in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 >Example:  
 ><CITE>printed at the Patriot Office, Arcade, Lowther Street</CITE>
@@ -58,7 +58,7 @@ sidebar:
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 
-<a name="5.32.31.1">5.32.31.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) contains grammatically inseparable statements relating to [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), transcribe the information as part of the name of manufacturer element. Supply the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) in square brackets in the appropriate element.
+<a name="5.32.31.1">5.32.31.1</a>  If the name of manufacturer contains grammatically inseparable statements relating to [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), transcribe them as part of the name of manufacturer. Supply the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) in square brackets in the appropriate element.
 
 >Example:  
 ><CITE>printed in June 1700 by John Reid printer, and are to be sold at John Vallange's, Mrs. Ogstoun's and Thomas Carruthers stationers in Edinburgh, their shops, [1700]</CITE>
@@ -107,17 +107,17 @@ sidebar:
 
 ## 5.32.34 Two or more names of manufacturers
 
-<a name="5.32.34.1">5.32.34.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) includes more than one manufacturer in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of manufacture only when they are not linked by connecting words or phrases.
+<a name="5.32.34.1">5.32.34.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) includes more than one manufacturer in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of manufacturer only when they are not linked by connecting words or phrases.
 
 >Example:  
 ><CITE>Lovejoy, Son & Co., electrotypers & stereotypers, 15 Vandewate Street, N.Y.S.W. ; Green, printer and stereotyper, 16 and 18 Jacob Street, New-York</CITE>
 
-<a name="5.32.34.2">5.32.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted manufacturers (or firms) in the supplied phrase.
+<a name="5.32.34.2">5.32.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted manufacturers (or firms) in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>Printed by L. Nichols & Co., T. & J. Swords, E. Duyckinck [and 10 others]</CITE>
 
-<a name="5.32.34.3">5.32.34.3</a> If both the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer associated with an earlier edition appear together with the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer of the edition being described, transcribe each manufacturer with the place to which it corresponds.
+<a name="5.32.34.3">5.32.34.3</a> If both the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer associated with an earlier manifestation appear together with the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and name of manufacturer of the manifestation being described, transcribe each manufacturer with the place to which it corresponds.
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
@@ -125,7 +125,7 @@ sidebar:
 
 ## 5.32.36 Supplied and conjectured names of manufacturers
 
-<a name="5.32.36.1">5.32.36.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.6)).
+<a name="5.32.36.1">5.32.36.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer, give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.6)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Barthelemy Multeau le jeune?]</CITE>  
@@ -143,7 +143,7 @@ If transcribing a manufacturer name as part of another element, do not abridge o
 
 ## 5.32.39 Name of manufacturer in more than one language or script 
 
-<a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
+<a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
 
 ---
 
