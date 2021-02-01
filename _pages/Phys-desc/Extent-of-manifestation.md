@@ -41,12 +41,12 @@ sidebar:
 > Extent of manifestation: <CITE>[8], 260, [2] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Numbered leaves with text on both sides</CITE>
 
-<a name="6.21.421.3">6.21.421.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Use arabic numerals to designate pages, etc. that are numbered in words or in characters other than arabic or roman numerals and always make an explantory [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.421.3](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.3)).
+<a name="6.21.421.3">6.21.421.3</a> Record the number on the last numbered page or leaf of each numbered sequence as the basic statement of extent, with any necessary additions according to relevant rules, e.g., [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1), for the addition of unnumbered pages or leaves. Record arabic and roman numerals as they appear in the manifestation. Record roman numerals uppercase or lowercase as they appear. If the pages or leaves are lettered rather than numbered, record the first and last letters followed by the word  indicating pages or leaves.  Use arabic numerals to designate pages, etc. that are numbered in words or in characters other than arabic or roman numerals and always make an explanatory [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.421.3](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.3)).
 
 >Example:  
 > <CITE>xvi, 17-328 pages</CITE>
 
-<a name="6.21.421.4">6.21.421.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [6.21.426](/DCRMR/phys-desc/Extent-of-manifestation/#621426-leaves-or-pages-of-plates). In [Details of production method](/DCRMR/phys-desc/Details-of-production-method/), always record that the leaves are non-letterpress (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
+<a name="6.21.421.4">6.21.421.4</a> If the leaves are all or chiefly non-letterpress, record them as leaves or pages of text rather than as leaves or pages of plates as in [6.21.426](/DCRMR/phys-desc/Extent-of-manifestation/#621426-leaves-or-pages-of-plates).  Always record that the leaves are non-letterpress in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>LXXVI leaves</CITE>  
@@ -62,7 +62,7 @@ sidebar:
 
 #### 6.21.422 Normally imposed single sheets
 
-<a name="6.21.422.1">6.21.422.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed (see [Note on extent of manifestation, 6.215.422.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.422.1)).
+<a name="6.21.422.1">6.21.422.1</a> For a normally imposed single-folded (i.e., four-page) sheet, record the statement of extent in the same manner as for a volume. Apply this rule even if only one of the four pages is printed. Record the presence of blank pages as a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.422.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.422.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>1, [3] pages</CITE>  
@@ -76,7 +76,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 #### 6.21.4225 Unnumbered pages or leaves
 
-<a name="6.21.4225.1">6.21.4225.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [Details of layout](/DCRMR/phys-desc/Details-of-layout/) (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
+<a name="6.21.4225.1">6.21.4225.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [Note on extent of manifestation](DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
 
 > Example:  
 > <CITE>[4], 52 pages</CITE>
@@ -119,7 +119,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 #### 6.21.4235 Advertisements
 
-<a name="6.21.4235.1">6.21.4235.1</a> Record pages containing only advertisements if those pages are included in the same pagination sequence as the text; or printed on the pages of an initial or final gathering also containing leaves or pages of text; or	printed on a separate gathering in a manifestation that is continuously signed; or connected by a catchword; or otherwise integral to the manifestation.  
+<a name="6.21.4235.1">6.21.4235.1</a>  Record pages containing only advertisements if those pages are included in the same pagination sequence as the text printed on the pages of an initial or final gathering also containing leaves or pages of text, printed on a separate gathering in a manifestation that is continuously signed, connected by a catchword, or otherwise integral to the manifestation.  
 
 <a name="6.21.4235.2">6.21.4235.2</a> Record the presence of pages that contain only advertisements as [Supplementary content](/DCRMR/additional-notes/Supplementary-content/) (see [9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1)).
 
@@ -167,7 +167,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.424.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.424.1)).
+<a name="6.21.424.4">6.21.424.4</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.424.2](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.424.2)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
@@ -189,14 +189,14 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 If it is not practical to record all the sequences (e.g., if they are exceedingly numerous), then employ one of the following methods: 
 
-a)	Record the total number of pages, leaves, or columns followed by “in various pagings,”  “in various foliations,” or “in various numberings.”  
+a)	Record the total number of pages, leaves, or columns followed by “in various pagings,”  “in various foliations,” or “in various numberings”  
 
-b)	Record the number of pages, leaves, or columns in the main sequence and the total number of the remaining variously numbered or unnumbered sequences.  
+b)	Record the number of pages, leaves, or columns in the main sequence and the total number of the remaining variously numbered or unnumbered sequences  
 
 > Example:  
 > <CITE>77, [3] pages, [50] leaves of plates (in various foliations)</CITE> 
 
-c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings).”
+c)	As a last resort, record the physical unit  in which the manifestation was issued (volume, case, or portfolio) followed by “(various pagings),” “(various foliations),” or “(various numberings)”
 
 If one of these methods is employed, record all of the sequences in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.424.3](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.424.3)).
 
@@ -204,7 +204,7 @@ If one of these methods is employed, record all of the sequences in a [Note on e
 
 <a name="6.21.4245.1">6.21.4245.1</a> Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) giving more precise information about pagination or foliation, blank pages or leaves, or other aspects of collation if considered important (see [6.215.421.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.1)).
 
-<a name="6.21.4245.2">6.21.4245.2</a> If the number of the last numbered page, leaf, or column of a sequence does not indicate the correct number of pages, etc., either record the sequences exactly to indicate the source of the error or record the number as given in the manifestation and supply a correction. When correcting misleading numbering, record the numbering as it appears on the last page or leaf followed by “that is” and the correct number in square brackets. Provide an explanatory [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.4245.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.4245.1)).
+<a name="6.21.4245.2">6.21.4245.2</a> If the number of the last numbered page, leaf, or column of a sequence does not indicate the correct number of pages, etc., either record the sequences exactly to indicate the source of the error or record the number as given in the manifestation and supply a correction. When correcting misleading numbering, record the numbering as it appears on the last page or leaf followed by “that is,” and the correct number in square brackets. Provide an explanatory [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.4245.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.4245.1)).
 
 > Example:  
 > Extent of manifestation: <CITE>564 [that is, 56] leaves</CITE>  
@@ -274,7 +274,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.4275 Double leaves
 
-<a name="6.21.4275.1">6.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a note on extent of manifestation (see [Note on extent of manifestation, 6.215.4275.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.4275.1)).
+<a name="6.21.4275.1">6.21.4275.1</a> Count numbered double leaves (leaves with fold at either top or fore edge and bound at the inner margin) as pages or as leaves according to their numbering. Count unnumbered double leaves as pages (two printed pages per double leaf) or as leaves (one printed page per double leaf). Always record the presence of double leaves in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.4275.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.4275.1)).
 
 >Example:  
 > Extent of manifestation: <CITE>[2], 86, [2] pages</CITE>  
@@ -346,9 +346,9 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 
 #### 6.21.431 General rule
 
-<a name="6.21.431.1">6.21.431.1</a> If a manifestation is issued in more than one physical unit,  record the number of physical units in arabic numerals followed by the appropriate designation for the unit (see also [6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
+<a name="6.21.431.1">6.21.431.1</a> If a manifestation is issued in more than one physical unit,  record the number of physical units in arabic numerals followed by the appropriate designation for the unit (e.g., "volumes"). Prefer terminology from the [RDA Value Vocabularies: RDA Carrier Type](http://rdaregistry.info/termList/RDACarrierType/1021){:target="_blank"} (see also [6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
 
-<a name="6.21.431.2">6.21.431.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final form. Always record a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate that it was issued in fascicles (see [6.215.431.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.431.1)).
+<a name="6.21.431.2">6.21.431.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final form. Always make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate that it was issued in fascicles (see [6.215.431.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.431.1)).
 
 <a name="6.21.431.3">6.21.431.3</a> If the number of physical units in which a manifestation is bound differs from the number in which it was actually issued, record this fact in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) if considered important (see [9.43.3.4](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.4)).
 

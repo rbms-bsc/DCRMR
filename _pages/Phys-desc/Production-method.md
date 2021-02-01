@@ -30,7 +30,7 @@ sidebar:
 * etching
 * printing
 
-<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary are appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}), and indicate its source.
+<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary are appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
 
 >Example:  
 ><CITE>Wood engraving</CITE>

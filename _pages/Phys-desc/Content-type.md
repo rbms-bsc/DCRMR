@@ -27,7 +27,7 @@ sidebar:
 
 ## 6.33.3 General rule
 
-<a name="6.33.3.1">6.33.3.1</a> Record the media type of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.
+<a name="6.33.3.1">6.33.3.1</a> Record the content type of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.
 
 ---
 

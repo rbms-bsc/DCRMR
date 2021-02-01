@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.265.3 General rule 
 
-<a name="6.265.3.1">6.265.3.1</a> Record details of applied material if considered important.
+<a name="6.265.3.1">6.265.3.1</a> Record details of applied material if considered important. (see [6.26.3.5](/DCRMR/phys-desc/Applied-material/#6.26.3.5)).
 
 ---
 

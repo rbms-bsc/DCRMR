@@ -94,7 +94,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 ## 6.22.335 Illustrations on endpapers
 
-<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.3.6](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
+<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

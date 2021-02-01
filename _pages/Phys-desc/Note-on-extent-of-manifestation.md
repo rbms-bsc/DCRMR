@@ -44,7 +44,7 @@ sidebar:
 > Extent of manifestation: <CITE>[8], 260, [2] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Numbered leaves with text on both sides</CITE>
 
-<a name="6.215.421.3">6.215.421.3</a> Always make a note on extent of manifestation to explain that pages, etc. are numbered in words in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
+<a name="6.215.421.3">6.215.421.3</a> Always make a note on extent of manifestation to explain that pages, etc. are numbered in words or in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
 
 #### 6.215.422 Normally imposed single sheets
 
@@ -57,6 +57,8 @@ sidebar:
 > Example:  
 > Extent of manifestation: <CITE>[4] pages</CITE>  
 > Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank</CITE>
+
+#### 6.215.423 Unnumbered pages or leaves
 
 #### 6.215.424 Multiple sequences of numbering
 
@@ -78,17 +80,17 @@ sidebar:
 > Extent of manifestation: <CITE>[8], 334, [2], 32 pages</CITE>  
 > Note on extent of manifestation: <CITE>"Prima elementa linguae Syriacae Iesu-Christo vernaculae ... per Iohannem Gasbarum Myricaeum Themarensem Hennembergico-Francum," 32 pages at end, has separate title page and is bound back-to-front. Title in Syriac precedes Latin title</CITE>
 
-<a name="6.215.424.2">6.215.424.2</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume. Record the pagination of the larger sequence in a note on extent of manifestation (see [Extent of manifestation, 6.24.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.24.424.4)).
+<a name="6.215.424.2">6.215.424.2</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume as [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/). Record the pagination of the larger sequence in a note on extent of manifestation (see [Extent of manifestation, 6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.4)).
 
 > Example:  
 > Extent of manifestation: <CITE>16 pages</CITE>  
 > Note on extent of manifestation: <CITE>Pages 4-16 also numbered 196-208</CITE>
 
-<a name="6.215.424.3">6.215.424.3</a> If the extent is not fully recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (when, e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
+<a name="6.215.424.3">6.215.424.3</a> If the extent is not fully recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) (e.g., the sequences are exceedingly numerous), record all the sequences in a note on extent of manifestation if considered important (see [6.21.424.6](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.6)).
 
 #### 6.215.4245 Expansions of corrections
 
-<a name="6.215.3.4245.1">6.215.4245.1</a> If misleading or incorrect numbering is recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), provide an explanatory note on extent of manifestation if considered important (see [6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
+<a name="6.215.4245.4245.1">6.215.4245.1</a> If misleading or incorrect numbering is recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), provide an explanatory note on extent of manifestation if considered important (see [6.21.4245.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4245.2)).
 
 > Example:  
 > Extent of manifestation: <CITE>564 [that is, 56] leaves</CITE>  
@@ -138,7 +140,7 @@ sidebar:
 
 #### 6.215.436 Pagination not continuous
 
-<a name="6.215.436.1">6.215.436.1</a> *Optionally*, if the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units or in a note on extent of manifestation (see [Extent of manifestation, 6.21.436.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.436.1)).
+<a name="6.215.436.1">6.215.436.1</a> If the pagination of a manifestation in more than one physical unit is not continuous, record the number of pages, leaves, or columns of each unit either in parentheses after the number of units in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) or in a note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.436.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.436.1)).
 
 #### 6.215.437 Discontinued manifestations
 
@@ -336,6 +338,8 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > <CITE>Signatures (in Church Slavic characters): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A-3ŌT͡͡² [=24]</CITE>
 
 <a name="6.215.44.9">6.215.44.9</a> **Full collation**. If considered important, make a note giving the full collation instead of a note recording only the signatures.
+
+Record the presence of blank leaves as part of a full collation if considered important.
 
 > Example:  
 > <CITE>Collation: 8vo: A-H⁴; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</CITE>
