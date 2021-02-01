@@ -70,9 +70,9 @@ sidebar:
 
 ## 5.27.34 Two or more names of distributors
 
-<a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of distributor n only when they are not linked by connecting words or phrases.
+<a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of distributor only when they are not linked by connecting words or phrases.
 
-<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase. Do not use a mark of omission.
+<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
