@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.23.3 General rule
 
-<a name="5.23.3.1">5.23.3.1</a> Transcribe dates of publication  in the form and order in which it is presented in the source, unless instructed otherwise by specific rules. Include the day and month, if present.
+<a name="5.23.3.1">5.23.3.1</a> Transcribe dates of publication  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. Include the day and month, if present.
 
 >Example:  
 ><CITE>7th July 1766</CITE>
@@ -36,7 +36,7 @@ sidebar:
 >Example:  
 ><CITE>MDCCXXXIII [1733]</CITE>
 
-<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno." If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
+<a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno". If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
 
 >Example:  
 ><CITE>Im Jahr Christi 1705</CITE>

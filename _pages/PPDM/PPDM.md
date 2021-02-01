@@ -25,7 +25,7 @@ Note: only the elements related to publication are explicated below. The same or
 
 >Place of publication : Name of publisher, date of publication
 
->Place of publication ; place of publication : Name of publisher : Name of publication, date of publication
+>Place of publication ; place of publication : Name of publisher : Name of publisher, date of publication
 
 <a name="5.01.2.2">5.01.2.2</a> Transcribe a parallel place of publication following the place of publication. Transcribe a parallel name of publisher following the name of publisher.
 

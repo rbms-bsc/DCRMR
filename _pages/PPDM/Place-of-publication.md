@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.21.3 General rule
 
-<a name="5.21.3.1">5.21.3.1</a> Transcribe place names associated with the publication, release, or issuing of a published manifestation  in the form and order in which it is presented in the source, unless instructed otherwise by specific rules. 
+<a name="5.21.3.1">5.21.3.1</a> Transcribe place names associated with the publication, release, or issuing of a published manifestation  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. 
 
 <a name="5.21.3.2">5.21.3.2</a> Transcribe the place of publication as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 

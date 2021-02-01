@@ -27,7 +27,7 @@ sidebar:
 
 ## 5.22.3 General rule
 
-<a name="5.22.3.1">5.22.3.1</a> Transcribe the names of publishers in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="5.22.3.1">5.22.3.1</a> Transcribe the names of publishers in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 <a name="5.22.3.2">5.22.3.2</a> Transcribe the name of the publisher, together with any associated words or phrases, as it appears on the manifestation. In general, transcribe the full address. Consider the sequence, layout, and typography of words in the publication statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the publisher’s name, transcribe that information as part of name of publisher.
 
@@ -53,7 +53,7 @@ sidebar:
 ><CITE>A la librairie de J. Carez, éditeur  ...</CITE>  
 >(*Comment*: Full publisher’s name reads: A la librairie de J. Carez, e̓diteur, Rue Haute Feuille, No. 18. Chez Verière, Quai des Augustins, No. 25. Chez Bossange, père, Rue de Richelieu, No. 60)
 
-<a name="5.22.3.4">5.22.3.4</a> If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the name of the publisher.
+<a name="5.22.3.4">5.22.3.4</a> If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the name of publisher.
 
 >Example:  
 ><CITE>Privately printed</CITE>
