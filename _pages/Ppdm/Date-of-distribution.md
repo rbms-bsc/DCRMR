@@ -25,12 +25,12 @@ sidebar:
 
 ## 5.28.3 General rule
 
-<a name="5.28.3.1">5.28.3.1</a> Transcribe dates of distribution as part of this element. Include the day and month, if present.
+<a name="5.28.3.1">5.28.3.1</a> Transcribe dates of distribution  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. Include the day and month, if present.
 
 >Example:  
 ><CITE>Octr. 22, 1796</CITE>
 
-<a name="5.28.3.2">5.28.3.2</a> Transcribe words and phrases such as “in the year” and “anno” as part of this element. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the the date or elsewhere in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) according to the punctuation or typography of the source.
+<a name="5.28.3.2">5.28.3.2</a> Transcribe words and phrases such as “in the year” and “anno”. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the the date or elsewhere in the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) according to the punctuation or typography of the source.
 
 >Example:  
 ><CITE>in the year of God 1638</CITE>
@@ -135,7 +135,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 5.28.36 Date of distribution on part pages
 
-<a name="5.28.36.1">5.28.36.1</a> If parts of a manifestation have individual title pages bearing dates of distribution that differ from the dates of distribution pertaining to the whole manifestation, give these additional dates in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.9](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.9)). 
+<a name="5.28.36.1">5.28.36.1</a> If parts of a manifestation have individual title pages bearing dates of distribution that differ from the date pertaining to the whole manifestation, give these additional dates of distribution in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.9](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.9)). 
 
 If, however, one of these dates is a more accurate reflection of the actual date of distribution than the date pertaining to the whole manifestation, give it as a correction as instructed in [5.28.31.4](#5.28.31.4).
 

@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.26.3 General rule
 
-<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation as part of this element. 
+<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. 
 
 <a name="5.26.3.2">5.26.3.2</a> Transcribe the place of distribution as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
@@ -91,7 +91,7 @@ sidebar:
 
 <a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. 
 
-<a name="5.26.325.2">5.26.325.2</a> *Optionally*, use the abbreviations listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
+<a name="5.26.325.2">5.26.325.2</a> *Optionally*, use the abbreviations for names in English listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
 
 >Example:  
 ><CITE>Cambridge [England]</CITE>
@@ -112,7 +112,7 @@ sidebar:
 >Example:  
 ><CITE>A Lausanne & se trouve à Paris</CITE>
 
-<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase.
+<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, ater the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>London ; Reading ; Bath ... [and 6 other cities in England]</CITE>
@@ -170,7 +170,7 @@ sidebar:
 >Place of distribution: <CITE>[London]</CITE>  
 >Name of distributor: <CITE>sold by George Willis, 42, Charing Cross</CITE>
 
-<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction. 
+<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
 
 >Example:  
 ><CITE>[Christiania, that is, Oslo]</CITE>
@@ -180,7 +180,7 @@ sidebar:
 
 ## 5.26.38 Place of distribution supplied based on address or sign
 
-<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
+<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/); see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
 
 >Example:  
 ><CITE>[London]</CITE>  
@@ -225,7 +225,7 @@ sidebar:
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 ---
 

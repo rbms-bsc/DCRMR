@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.25.3 General rule
 
-<a name="5.25.3.1">5.25.3.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="5.25.3.1">5.25.3.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 ## 5.25.31 Information covered by labels, etc.
 
@@ -41,13 +41,13 @@ sidebar:
 
 <a name="5.25.33.1">5.25.33.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
-## 5.25.34 Statements relating to publication and to distribution or manufacture
+## 5.25.34 Statements relating to publication and to distribution
 
 <a name="5.25.34.1">5.25.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
 <a name="5.25.34.2">5.25.34.2</a> If a distribution statement is grammatically separable, treat the statement as a distribution statement. 
 
-<a name="5.25.34.3">5.25.34.3</a>  If grammatically inseparable, transcribe them as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
+<a name="5.25.34.3">5.25.34.3</a>  If grammatically inseparable, transcribe it as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
 >Example:  
 ><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>

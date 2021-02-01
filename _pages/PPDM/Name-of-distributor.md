@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.27.3 General rule
 
-<a name="5.27.3.1">5.27.3.1</a> Transcribe the names of distributors as part of this element.
+<a name="5.27.3.1">5.27.3.1</a> Transcribe the names of distributors  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 <a name="5.27.3.2">5.27.3.2</a> Transcribe the name of the distributor, together with any associated words or phrases, as it appears on the manifestation. In general, transcribe the full address. Consider the sequence, layout, and typography of words in the distribution statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the distributor’s name, transcribe that information as part of name of distributor.
 
@@ -48,7 +48,7 @@ sidebar:
 
 ## 5.27.31 Names of distributors containing grammatically inseparable place names or dates
 
-<a name="5.27.31.1">5.27.31.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe the information as part of the name of distributor element. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
+<a name="5.27.31.1">5.27.31.1</a> If the name of distributor contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
 
 >Example:  
 ><CITE>[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts</CITE>
@@ -70,9 +70,9 @@ sidebar:
 
 ## 5.27.34 Two or more names of distributors
 
-<a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent statements of distribution only when they are not linked by connecting words or phrases.
+<a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of distributor n only when they are not linked by connecting words or phrases.
 
-<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, use the mark of omission and supply after it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase.
+<a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
@@ -82,7 +82,7 @@ sidebar:
 >Example:  
 ><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
 > 
-<a name="5.27.34.4">5.27.34.4</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier edition appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
+<a name="5.27.34.4">5.27.34.4</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier manifestation appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the manifestation being described, transcribe each distributor with the place to which it corresponds.
 
 ## 5.27.35 Names of distributors in multipart monographs
 
@@ -90,7 +90,7 @@ sidebar:
 
 ## 5.27.36 Supplied and conjectured names of distributors
 
-<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known and if considered important. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor give supporting evidence in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
+<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation, supply the name of the distributor in square brackets if known and if considered important. If the responsibility of a distributor for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor, give supporting evidence in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
 
 ## 5.27.37 Name of distributor cannot be supplied
 
@@ -104,7 +104,7 @@ If transcribing a distributor name as part of another element, do not abridge or
 
 ## 5.27.39 Name of distributor in more than one language or script
 
-<a name="5.27.39.1">5.27.39.1</a> If the name of the distributor appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/), or if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
+<a name="5.27.39.1">5.27.39.1</a> If the name of the distributor appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
 
 ---
 
