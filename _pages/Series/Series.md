@@ -69,7 +69,7 @@ sidebar:
 
 ## 8.01.3 Form and order of information 
 
-<a name="8.01.3.1">8.01.3.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="8.01.3.1">8.01.3.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 ## Contents:
 {: .no_toc }

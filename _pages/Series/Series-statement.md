@@ -27,7 +27,7 @@ sidebar:
 
 ## 8.2.3 General rule
 
-<a name="8.2.3.1">8.2.3.1</a> Transcribe the series statement in the form and order in which it is presented in the source, unless instructed otherwise by specific rules.
+<a name="8.2.3.1">8.2.3.1</a> Transcribe the series statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 ## 8.2.31 More than one series statement
 

@@ -72,7 +72,7 @@ sidebar:
 >Title of series: <CITE>What every child should know library. The fourth series</CITE>    
 >Note on series statement: <CITE>Series title from head of title page; subseries title from endpapers</CITE>   
 
-<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence, 8.27.31.4](/DCRMR/series/Numbering-within-sequence/#8.27.31.4)).
+<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [ 8.27.31.4](/DCRMR/series/Numbering-within-sequence/#8.27.31.4)).
 
 >Example:    
 ><CITE>What every child should know library. The fourth series</CITE>    

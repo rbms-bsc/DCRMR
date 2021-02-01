@@ -36,7 +36,7 @@ sidebar:
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>   
 >Title of series: <CITE>Europäische Hochschulschriften</CITE>  
 
-<a name="8.215.3.2">8.215.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, omit parallel series titles after the first using the mark of omission.
+<a name="8.215.3.2">8.215.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively and that some may be omitted without significant loss of identification then all parallel series titles after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted titles (if more than one) in the supplied phrase. Do not use the mark of omission.
 
 ## 8.215.31 Parallel subseries titles
 
