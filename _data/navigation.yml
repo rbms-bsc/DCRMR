@@ -296,7 +296,7 @@ docs:
   - title: "Appendices"
     url: /DCRMR/appendices/
     children:
-      - title: "A — MARC 21 Descriptive Conventions Code"
+      - title: "A — MARC 21 Descriptive Conventions Source Codes"
         url: /DCRMR/appendices/Appendix-a/
       - title: "B — Collection-level records"
         url: /DCRMR/appendices/Appendix-b/

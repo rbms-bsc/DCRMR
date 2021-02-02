@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[A — MARC 21 Descriptive Conventions Code](/DCRMR/appendices/Appendix-a/)
+[A — MARC 21 Descriptive Conventions Source Codes](/DCRMR/appendices/Appendix-a/)
 
 [B — Collection-level records](/DCRMR/appendices/Appendix-b/)
 
@@ -28,4 +28,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.23 — Note on identifier for manifestation")](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "A — MARC 21 Descriptive Conventions Code")](/DCRMR/appendices/Appendix-a/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "10.23 — Note on identifier for manifestation")](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "A — MARC 21 Descriptive Conventions Source Codes")](/DCRMR/appendices/Appendix-a/)

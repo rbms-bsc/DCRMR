@@ -18,4 +18,4 @@ The RBMS RDA Editorial Group
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "A — MARC 21 Descriptive Conventions Code")](/DCRMR/appendices/Appendix-a/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "C — Core-level records")](/DCRMR/appendices/Appendix-c/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "A — MARC 21 Descriptive Conventions Source Codes")](/DCRMR/appendices/Appendix-a/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "C — Core-level records")](/DCRMR/appendices/Appendix-c/)
