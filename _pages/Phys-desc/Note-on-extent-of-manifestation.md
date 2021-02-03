@@ -60,6 +60,11 @@ sidebar:
 
 #### 6.215.423 Unnumbered pages or leaves
 
+<a name="6.285.31.1">6.285.31.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), record their presence as details of layout if considered important (see [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1)).
+
+>Example:  
+><CITE>The first and last leaves are blank</CITE>
+
 #### 6.215.424 Multiple sequences of numbering
 
 <a name="6.215.424.1">6.215.424.1</a> If the manifestation has duplicate sequences of paging, as is sometimes the case with manifestations having parallel texts, record both pagings and make an explanatory note on extent of manifestation (see [Extent of manifestation, 6.21.424.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.2)).
@@ -167,6 +172,8 @@ sidebar:
 > (*Comment*: Volume is completely unsigned)
 
 In general, record signatures for incunabula, especially if identical signatures are not given in a standard bibliographic source. In general, also record signatures when a volume has no pagination or foliation.
+
+Record the presence of blank leaves as part of a signature statement, if considered important.
 
 <a name="6.215.44.2">6.215.44.2</a> **Unavailable characters**. If the gatherings are signed with a mark of contraction (see [Transcription](/DCRMR/general-rules/Transcription/)) that cannot be reproduced using available typographical facilities, substitute the spelled-out form and enclose it in square brackets.
 

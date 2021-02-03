@@ -23,14 +23,9 @@ sidebar:
 
 <a name="6.285.2.1">6.285.2.1</a> Details of an arrangement of text, images, tactile notation, etc., in a manifestation.
 
-## 6.285.31 Note on layout 
+## 6.285.31 General rule 
 
-<a name="6.285.31.1">6.285.31.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), record their presence as details of layout if considered important (see [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1)).
-
->Example:  
-><CITE>The first and last leaves are blank</CITE>
-
-<a name="6.285.31.2">6.285.31.2</a> *Optionally*, record the presence of blank leaves as part of a signature statement (see [Note on extent of manifestation, 6.215.44.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.1)) or full collation (see [Note on extent of manifestation, 6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9)).
+<a name="6.285.3.X">6.285.3.X</a> Record details of layout if considered important (see [6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
 
 <a name="6.285.31.3">6.285.31.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 
