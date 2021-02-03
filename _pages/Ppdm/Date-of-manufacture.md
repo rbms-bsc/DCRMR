@@ -65,7 +65,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 *Optionally*, if the date of manufacture includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
-<a name="5.33.352.7">5.33.352.7</a> **Multiple adjustments or additions**. If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets and a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.36.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.6)).
+<a name="5.33.352.7">5.33.352.7</a> **Multiple adjustments or additions**. If the date of manufacture requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) for the source of supplied dates (see [5.34.36.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.6)).
 
 ### 5.33.353 Date of manufacture supplied from reference sources
 
@@ -73,7 +73,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ### 5.33.354 Conjectural date of manufacture
 
-<a name="5.33.354.1">5.33.354.1</a> Supply in square brackets a conjectural date of manufacture based on any information available. Always indicate the basis for the conjecture in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.73](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.73)).
+<a name="5.33.354.1">5.33.354.1</a> Supply in square brackets a conjectural date of manufacture based on any information available if considered important. Always indicate the basis for the conjecture in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.36.73](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.73)).
 
 <a name="5.33.354.2">5.33.354.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of manufacture, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.36.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.36.1)).
 
@@ -98,9 +98,9 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ### 5.33.355 Date of manufacture in multipart monographs
 
-<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of manufacture of the volume, part, or fascicle published first and the date of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of manufacture of the volume, part, or fascicle published first and the date of manufacture of the volume, part, or fascicle published last, and connect them with a hyphen.
 
-<a name="5.33.355.2">5.33.355.2</a> Record the date of manufacture of each volume in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.8)).
+<a name="5.33.355.2">5.33.355.2</a> Record the date of each volume in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.8)).
 
 ### 5.33.356 Date of manufacture on part pages
 

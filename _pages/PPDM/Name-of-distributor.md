@@ -77,12 +77,10 @@ sidebar:
 >Example:  
 ><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
 
-<a name="5.27.34.3">5.27.34.3</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier edition appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the edition being described, transcribe each distributor with the place to which it corresponds.
+<a name="5.27.34.3">5.27.34.3</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier manifestation appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the manifestation being described, transcribe each distributor with the place to which it corresponds.
 
 >Example:  
 ><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
-> 
-<a name="5.27.34.4">5.27.34.4</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier manifestation appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the manifestation being described, transcribe each distributor with the place to which it corresponds.
 
 ## 5.27.35 Names of distributors in multipart monographs
 

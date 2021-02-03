@@ -110,7 +110,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 5.28.34 Patterns for supplying a conjectural date
 
-<a name="5.28.34.1">5.28.34.1</a> If supplying a conjectural date of distribution, give a probable date or period according to one of the patterns shown in the examples below. Indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.75](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.75)).
+<a name="5.28.34.1">5.28.34.1</a> Give a probable date or period of distribution according to one of the patterns shown in the examples below. Indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.75](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.75)).
 
 | Conjectural date | Pattern |
 | --- | ---| --- |

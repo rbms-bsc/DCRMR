@@ -125,7 +125,7 @@ sidebar:
 
 ## 5.32.36 Supplied and conjectured names of manufacturers
 
-<a name="5.32.36.1">5.32.36.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer, give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.6)).
+<a name="5.32.36.1">5.32.36.1</a> If no name, address, or device of a manufacturer appears on the manifestation, supply the name of the manufacturer in square brackets if known and if considered important. If the responsibility of a manufacturer for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/). In any case of a supplied manufacturer, give supporting evidence in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.6)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Barthelemy Multeau le jeune?]</CITE>  

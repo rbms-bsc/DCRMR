@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.31.3 General rule
 
-<a name="5.31.3.1">5.31.3.1</a> Transcribe place names associated with the printers and other manufacturers  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="5.31.3.1">5.31.3.1</a> Transcribe place names associated with the printers and other manufacturers of a published manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 <a name="5.31.3.2">5.31.3.2</a> Transcribe the place of manufacture as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
 
@@ -60,7 +60,7 @@ sidebar:
 
 <a name="5.31.33.1">5.31.33.1</a> If the manifestation shows two or more places of manufacture, and all are related to the same manufacturer, transcribe all in the order in which they appear.
 
-<a name="5.31.33.2">5.31.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of manufacture may be shortened by omitting all the places after the third. In such cases, after the third place, supply it in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
+<a name="5.31.33.2">5.31.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of manufacture may be shortened by omitting all the places after the third. In such cases, after the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 <a name="5.31.33.3">5.31.33.3</a> If a subsequent place of manufacture is not related to the same manufacturer, transcribe it in association with the manufacture to which it corresponds.
 
@@ -93,7 +93,7 @@ sidebar:
 
 <a name="5.31.37.1">5.31.37.1</a> If no place of manufacture appears on the manifestation but is known and is considered important, supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed manufacturer if one is present. Provide a justification for the supplied place in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if necessary (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)).
 
-<a name="5.31.37.2">5.31.37.2</a> If the name of the place of manufacture has changed over time, supply the name appropriate to the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction.
+<a name="5.31.37.2">5.31.37.2</a> If the name of the place of manufacture has changed over time, supply the place name appropriate to the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
 
 ## 5.31.38 Place of manufacture supplied based on address or sign
 
@@ -101,9 +101,9 @@ sidebar:
 
 ## 5.31.385 Place of manufacture uncertain or unknown
 
-<a name="5.31.385.1">5.31.385.1</a> If the place of manufacture is uncertain and is considered important, supply the name of the probable place of manufacture with a question mark, using a modern form of the name in the language of the cataloging agency all in square brackets.
+<a name="5.31.385.1">5.31.385.1</a> If the place of manufacture is uncertain and is considered important, supply the name of the probable place of manufacture with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
 
-<a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency, all in square brackets.
+<a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 <a name="5.31.385.3">5.31.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.6)). 
 
@@ -111,7 +111,7 @@ sidebar:
 
 ## 5.31.39 Place names in more than one language or script
 
-<a name="5.31.39.1">5.31.39.1</a>  If the name of the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
+<a name="5.31.39.1">5.31.39.1</a>  If the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
 ---
 

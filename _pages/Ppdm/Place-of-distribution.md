@@ -112,7 +112,7 @@ sidebar:
 >Example:  
 ><CITE>A Lausanne & se trouve à Paris</CITE>
 
-<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, ater the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
+<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, after the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
 ><CITE>London ; Reading ; Bath ... [and 6 other cities in England]</CITE>
@@ -170,7 +170,7 @@ sidebar:
 >Place of distribution: <CITE>[London]</CITE>  
 >Name of distributor: <CITE>sold by George Willis, 42, Charing Cross</CITE>
 
-<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
+<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the place name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
 
 >Example:  
 ><CITE>[Christiania, that is, Oslo]</CITE>

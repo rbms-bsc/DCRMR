@@ -65,7 +65,7 @@ sidebar:
 ><CITE>[London]</CITE>  
 >(*Comment*: Imprint reads: "sold in St. Paul's Church Yard")
 
-<a name="5.285.32.6">5.285.32.6</a> Always make a note on distribution statement if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description to indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
+<a name="5.285.32.6">5.285.32.6</a> Always make a note on distribution statement if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description and indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
 
 >Example:  
 >Place of distribution: <CITE>[Madrid]</CITE>  
@@ -102,7 +102,7 @@ sidebar:
 
 <a name="5.285.36.1">5.285.36.1</a> When following the option in [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2), include a transcription of the original chronogram in a note on distribution statement if considered important (see [Date of distribution, 5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)).
 
-<a name="5.285.36.2">5.285.36.2</a> When following the option for very long dates in [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3) make a note on distribution statement concerning the source and the original form of the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) (see [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3)).
+<a name="5.285.36.2">5.285.36.2</a> When following the option for very long dates in [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3), make a note on distribution statement concerning the source and the original form of the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) (see [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3)).
 
 <a name="5.285.36.3">5.285.36.3</a> Always make a note on distribution statement if the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) is known to be fictitious or incorrect by supplying the actual date (see [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)).
 
