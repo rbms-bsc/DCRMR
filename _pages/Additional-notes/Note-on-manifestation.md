@@ -115,7 +115,7 @@ sidebar:
 
 ## 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
 
-<a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the title or the statement of responsibility elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2), [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2), [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
+<a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a note on manifestation (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2), [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2), [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
 
 ## 9.3.37 Note on imperfect exemplars
 
