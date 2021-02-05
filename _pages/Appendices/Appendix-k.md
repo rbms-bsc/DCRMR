@@ -594,7 +594,7 @@ sidebar:
 |	Other nonroman alphabetic signatures	|	7B9.11.	|	[6.215.44.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.85)	|
 |	Full collation.	|	7B9.12.	|	[6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9)	|
 |	Physical description	|	7B10.	|	[n/a]()	|
-|		|	7B10.1.	|	[6.285.31.1](/DCRMR/phys-desc/Details-of-layout/#6.285.31.1) [6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2) [6.215.421.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.1) [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)	|
+|		|	7B10.1.	|	[6.215.423.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.423.1) [6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2) [6.215.421.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.1) [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)	|
 |		|	7B10.2.	|	[6.285.3.2](/DCRMR/phys-desc/Details-of-layout/#6.285.3.2) [6.315.3.1](/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1)	|
 |		|	7B10.3.	|	[6.225.3.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1) [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)	|
 |		|	7B10.4.	|	[6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)	|
