@@ -92,7 +92,7 @@ sidebar:
 
 <a name="5.34.36.6">5.34.36.6</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) requires more than a single adjustment or addition, make a note on manufacture statement on the source of supplied dates (see [5.33.352.7](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.7)).
 
-<a name="5.34.36.7">5.34.36.7</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on manufacture statement (see [Date of manufacture, 5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
+<a name="5.34.36.7">5.34.36.7</a> If the [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on manufacture statement (see [5.33.353.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.353.1)).
 
 <a name="5.34.36.73">5.34.36.73</a> When supplying a conjectural [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) based on any information available, always indicate the basis for the conjecture in a note on manufacture statement (see [5.33.354.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.1)).
 

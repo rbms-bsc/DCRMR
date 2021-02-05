@@ -116,7 +116,7 @@ sidebar:
 
 <a name="5.285.36.6">5.285.36.6</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) requires more than a single adjustment or addition, make a note on distribution statement on the source of supplied dates (see [5.28.31.7](/DCRMR/ppdm/Date-of-distribution/#5.28.31.7)).
 
-<a name="5.285.36.7">5.285.36.7</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on distribution statement (see [Date of distribution, 5.28.32.1](/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)).
+<a name="5.285.36.7">5.285.36.7</a> If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on distribution statement (see [5.28.32.1](/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)).
 
 >Example:  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  

@@ -60,7 +60,7 @@ sidebar:
 
 #### 6.215.423 Unnumbered pages or leaves
 
-<a name="6.285.31.1">6.285.31.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), record their presence as details of layout if considered important (see [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1)).
+<a name="6.285.31.1">6.285.31.1</a> If blank leaves at the beginning of the first gathering or at the end of the final gathering have been recorded in the [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), record their presence in a note on extent of manifestation if considered important (see [6.21.4225.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4225.1)).
 
 >Example:  
 ><CITE>The first and last leaves are blank</CITE>
