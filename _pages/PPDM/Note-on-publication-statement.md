@@ -178,7 +178,7 @@ sidebar:
 >Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on publication statement (see [Date of publication, 5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
+<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on publication statement (see [5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
 
 >Example:  
 >Date of publication: <CITE>[1864]</CITE>  
@@ -187,7 +187,7 @@ sidebar:
 
 <a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, always indicate the basis for the conjecture in a note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
-<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note on publication statement (see [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
+<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note on publication statement (see [Date of publication, 5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
 
 <a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note on publication statement if considered important. Such a note on publication statement is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication, 5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
 
