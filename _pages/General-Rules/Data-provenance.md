@@ -137,7 +137,7 @@ For additional guidance on sources of information for individual elements, see i
 >Note on title: <CITE>Title from Bartsch</CITE>   
 >(*Comment*: The formal citation for Bartsch is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
-<a name="0.1.7.4">0.1.7.4</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, make a note to indicate that additional information was not found in the source.
+<a name="0.1.7.3">0.1.7.3</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, make a note to indicate that additional information was not found in the source.
 
 ---
 
