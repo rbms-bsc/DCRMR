@@ -23,11 +23,11 @@ sidebar:
 
 <a name="6.285.2.1">6.285.2.1</a> Details of an arrangement of text, images, tactile notation, etc., in a manifestation.
 
-## 6.285.31 General rule 
+## 6.285.3 General rule 
 
-<a name="6.285.3.X">6.285.3.X</a> Record details of layout if considered important (see [6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
+<a name="6.285.3.1">6.285.3.1</a> Record details of layout if considered important (see [6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
 
-<a name="6.285.31.3">6.285.31.3</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
+<a name="6.285.3.2">6.285.3.2</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 
 >Example:  
 ><CITE>Text in double columns; 60 lines and head-line; capital spaces</CITE>  
