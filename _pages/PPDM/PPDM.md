@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1z1OZiLXrzM-JdjITLgJPvURgFmflsrcyspFY4HnLr5Y/edit?usp=sharing){:target="_blank"}
+
 ## 5.01.1 Sources of information
 
 <a name="5.01.1.1">5.01.1.1</a> The sources of information for the production, publication, distribution, and manufacture elements are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy](/DCRMR/introduction/#i018-integrity-of-the-copy)), in that order of preference. Consider the wording, layout, and typography of the manifestation itself when determining the most appropriate place to transcribe information relating to production,  publication, distribution, and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement.  However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.

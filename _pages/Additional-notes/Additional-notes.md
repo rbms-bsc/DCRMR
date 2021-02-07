@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1tBlQknXfxkyB9zDM70qJtv62IWSQlC9etUycnIapYA0/edit?usp=sharing){:target="_blank"}
+
 ## 9.01.1 Sources of information 
 
 <a name="9.01.1.1">9.01.1.1</a> Take information recorded in notes from any suitable source. Square brackets are required only for interpolations within quoted material.

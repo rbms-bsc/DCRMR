@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1GNT6iIodIi-6CqDH4tk8Sbc8WknSdAWUfkqJGzoMois/edit?usp=sharing){:target="_blank"}
+
 ## 8.01.1 Sources of information 
 
 <a name="8.01.1.1">8.01.1.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).

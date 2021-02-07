@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1QSqBQQf4-Iw3-AvCENNVO4BW_kVmDMYMkMENoHLhzOQ/edit?usp=sharing){:target="_blank"}
+
 ## 2.01.1 Sources of information
 
 <a name="2.01.1.1">2.01.1.1</a> The preferred source of information for the statement of responsibility is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso (see [Data provenance, 0.1](/DCRMR/general-rules/Data-provenance/)).

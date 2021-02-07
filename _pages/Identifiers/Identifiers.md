@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1EsBR-wSdjLz-gqOvY9nv_zGiWGRtFfp9maqi9HqzS88/edit?usp=sharing){:target="_blank"}
+
 ## 10.01.1 Sources of information
 
 <a name="10.01.1.1">10.01.1.1</a> Take information for all identifier elements from any source. Do not enclose any information in square brackets.

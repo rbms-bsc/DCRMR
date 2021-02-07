@@ -7,6 +7,8 @@ sidebar:
   nav: "docs"
 ---
 
+[Google Doc for BSC review](https://docs.google.com/document/d/1kZYQ6cFLyFTH8APJeLwK8DXK56eNqEm1HpVJkwu347o/edit?usp=sharing){:target="_blank"}
+
 ## 3.01.1 Sources of information
 
 <a name="3.01.1.1">3.01.1.1</a> The preferred sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)), in that order of preference. If an edition element is transcribed from elsewhere than the title page, always indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)). Do not take an edition statement from a source outside the manifestation itself.
