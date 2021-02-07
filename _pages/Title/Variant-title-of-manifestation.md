@@ -60,7 +60,7 @@ sidebar:
 >Example:    
 >Title proper: <CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
 >Variant title of manifestation: <CITE>M. Accii Plauti quae supersunt Comoediae</CITE>  
->(*Source of information reads*: <SMALLCAPS>m. accI plauti quae supersunt comoediae</smallcaps>)
+>(*Source of information reads*: <SMALLCAPS>m. accI plauti quae supersunt comoediae</SMALLCAPS>)
 
 ### 1.25.3525 Title proper containing characters as substitutes for letters (optional)
 
