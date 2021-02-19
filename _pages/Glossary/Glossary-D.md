@@ -19,6 +19,9 @@ A set of data that records and identifies an RDA entity. *See also* **[Bibliogra
 ## **Device.**
 A design, generally symbolic, emblematic, or pictorial rather than textual, used to identify an artist, printer, bookseller, or publisher. To be distinguished from a logo that renders a name as a stylized, primarily textual design.
 
+## **Docket title.**
+A title written, typed, or printed on a document, or on a label affixed to the document, briefly indicating its contents or subject. Usually found perpendicular to the main text, on an otherwise blank page (e.g., the verso of the last leaf), on a document designed to be folded for filing.
+
 ## **Double leaf.**
 A leaf of double size relative to the rest of a manifestation or item, folded in half at the fore-edge or top edge, with the fold uncut and no printing inside the fold, and typically bound at the inner margin. *See also* **[Leaf](/DCRMR/glossary/L/#leaf).**
 
