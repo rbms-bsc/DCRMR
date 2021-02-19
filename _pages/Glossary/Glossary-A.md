@@ -25,6 +25,9 @@ A title page preceding or following the title page chosen as the preferred sourc
 ## **Alternative Title.**
 A second or subsequent independent title of manifestation that is joined to a preceding title by a conjunction such as "or" or its equivalent in another language. *See also* **[Title](/DCRMR/glossary/T/#Title).**
 
+## **Area**
+A major section of the bibliographic description, comprising data of a particular category or set of categories. *See also* **[Element](/DCRMR/glossary/E/#Element).**
+
 ## **Term in bold.** 
 Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
 
