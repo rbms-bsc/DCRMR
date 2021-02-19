@@ -22,6 +22,5 @@ Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#
 ## **Bibliographic description.**
 A set of bibliographic data recording and identifying a publication, i.e., the description that begins with the title proper and ends with the last note. *See also* **[Description](/DCRMR/glossary/D/#Description).**
 
-
 ## **Broadside, broadsheet.**
 *See* **[Single-sheet publication](/DCRMR/glossary/S/#Single-sheet-publication).**
