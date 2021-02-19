@@ -13,6 +13,9 @@ sidebar:
 1. TOC
 {:toc}
 
+## **Description.**
+A set of data that records and identifies an RDA entity. *See also* **[Bibliographic description](/DCRMR/glossary/B/#Bibliographic-description).**
+
 ## **Device.**
 A design, generally symbolic, emblematic, or pictorial rather than textual, used to identify an artist, printer, bookseller, or publisher. To be distinguished from a logo that renders a name as a stylized, primarily textual design.
 
