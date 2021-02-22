@@ -37,11 +37,29 @@ A phrase, sentence, or other text in which the numeric values of certain letters
 ## **Collection.** 
 A group of resources assembled by an agent from a variety of sources.
 
+## **Collective title.** 
+A title of manifestation of an aggregate. A collective title is usually different from the titles of the expressions and works that are embodied by an aggregate. *See also* **[Title](/DCRMR/glossary/T/#title).**
+
+## **Colophon.**
+A statement at the end of a manifestation giving information about one or more of the following: the title, author(s), publisher, printer, date of publication or printing. It may also include other information.
+
 ## **Conjugate leaves.**
 Two leaves that form a single piece of paper, parchment, etc., in a gathering. *See also* **[Leaf](/DCRMR/glossary/L/#leaf).**
 
+## **Container.**
+A housing that is physically separable from the carrier or group of carriers being housed. *See also* **[Carrier](/DCRMR/glossary/C/#carrier).**
+
 ## **Copy.**
 In bibliographic description, a particular instance of a publication or other resource produced in identical multiples. *See also* **[Impression](DCRMR/glossary/Letter/#impression).**
+
+## **Corporate body.**
+A collective agent who is composed of persons who are organized for a common purpose or activity.
+
+## **Cover.**
+A source of information in a manifestation that is a protective binding of a volume.
+
+## **Cover title.**
+A title printed on the cover of an item as issued. *See also* **[Title](/DCRMR/glossary/T/#title).**
 
 ## **Term in bold.** 
 Definition of term. *See also* **[bolded see also term](/DCRMR/glossary/Letter/#bolded-see-also-term).**
