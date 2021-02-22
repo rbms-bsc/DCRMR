@@ -22,6 +22,9 @@ An agent contributing to an expression of a work by revising or clarifying the c
 ## **Element.**
 A specific aspect, characteristic, attribute, or relationship used to describe an RDA entity. *See also* **[Area](/DCRMR/glossary/A/#Area).**
 
+## **Expression.**
+An intellectual or artistic realization of a work in the form of alpha-numeric, musical or choreographic notation, sound, image, object, movement, etc., or any combination of such forms.
+
 ## **Extent.**
 The first element of the physical description area. It gives the number and the specific material designation of the units of the resource being described and, in some cases, other indications of the extent. *See also* **[Specific material designation](/DCRMR/glossary/S/#Specific-material-designation).**
 
