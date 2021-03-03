@@ -13,9 +13,11 @@ sidebar:
 1. TOC
 {:toc}
 
+## **Nomen.**
+A label for any RDA entity except a nomen. A label includes a name, title, access point, or identifier.
+
 ## **Normalization.** 
 In a bibliographic description, giving textual information in a form intended to facilitate consistency, readability, or access, rather than giving the information exactly as it appears in the resource being described. Examples of normalization techniques that may be permitted in certain circumstances include changes in capitalization, punctuation, spacing, and spelling.
-
 
 ## **Nonce collections.** 
 Something reissued by someone that needs cataloging and has editions something. *See also* **[reissued something](/DCRMR/glossary/R/#Reissued-something).**
