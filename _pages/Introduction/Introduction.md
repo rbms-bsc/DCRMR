@@ -15,11 +15,11 @@ sidebar:
 - TOC
 {:toc}
 
-## I.01.1 Scope and purpose
+## 0.01.1 Scope and purpose
 
-### I.01.11 Descriptive Cataloging of Rare Materials
+### 0.01.11 Descriptive Cataloging of Rare Materials
 
-<a name="I.01.11.1">I.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, cartographic, manuscripts, and music. 
+<a name="0.01.11.1">0.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, cartographic, manuscripts, and music. 
 
 ### I.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
 
