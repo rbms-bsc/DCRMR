@@ -90,7 +90,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 |Brevigraphs| | | | | |
 |---|---|---|---|---|
 |Source|Transcription|Example|Transcription of example|Notes|
-| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | Co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
+| ![Brevigraph](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Brevigraph-1.png "Brevigraph") | [missing letter(s)] | ![Co[n]summatu[m]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/Co%5Bn%5Dsummatu%5Bm%5D.png "co[n]summatu[m]")  ![D[omi]n[u]s](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/D%5Bomi%5Dn%5Bu%5Ds.png "D[omi]n[u]s") | co[n]summatu[m] D[omi]n[u]s | Over a vowel, usually **n** or **m**; over a consonant, often replaces several letters 
 | ![ae](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bae%5D.png "[ae]") | [ae] | ![h[ae]c](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/h%5Bae%5Dc.png "h[ae]c") | h[ae]c |
 | ![Christus](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5BChristus%5D.png "Christus")| [Christus] | | |A contraction using both Greek and Latin letters |
 | ![con](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5D.png "con") | [con] | ![[con]cor[di]a](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bcon%5Dcor%5Bdi%5Da.png "[con]cor[di]a") | [con]cor[di]a | 
@@ -106,7 +106,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 | ![[qui]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5D.png "[qui]") | [qui] | ![[qui]b[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bqui%5Db%5Bus%5D.png "[qui]b[us]") | [qui]b[us] | |
 | ![[quia]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquia%5D.png "[quia]") | [quia] |  | | |
 | ![[quo]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquo%5D.png "[quo]") | [quo] | | | |
-| ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D.png "[quod]") ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D-2.png "[quod]") | [quod] | | | |
+| ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D.png "[quod]") <br/> ![[quod]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bquod%5D-2.png "[quod]") | [quod] | | | |
 | ![[recta]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brecta%5D.png "[recta]") | [recta] | | | |
 | ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-1.png "[rum]") <br/> ![[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Brum%5D-2.png "[rum]") | [rum] | ![quo[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/quo%5Brum%5D.png "quo[rum]") ![libro[rum]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/libro%5Brum%5D.png "libro[rum]") | quo[rum] libro[rum] |  |
 | ![[scilicet]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bscilicet%5D.png "[scilicet]") | [scilicet] | | | |
