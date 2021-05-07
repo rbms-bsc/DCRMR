@@ -15,15 +15,15 @@ sidebar:
 - TOC
 {:toc}
 
-## 0.01.1 Scope and purpose
+## Intro.01.1 Scope and purpose
 
-### 0.01.11 Descriptive Cataloging of Rare Materials
+### Intro.01.11 Descriptive Cataloging of Rare Materials
 
-<a name="0.01.11.1">0.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, cartographic, manuscripts, and music. 
+<a name="Intro.01.11.1">Intro.01.11.1</a> The Descriptive Cataloging of Rare Materials manuals provide specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. The term “rare materials” is used to refer to any special materials that repositories have chosen to distinguish from general materials by the ways in which they house, preserve, or collect them. Rarity in the narrow sense of “scarcity” may or may not be a feature of these materials. The original DCRM suite was written to accompany *Anglo-American Cataloguing Rules*, second edition and includes six format-specific manuals: books, serials, graphics, cartographic, manuscripts, and music. 
 
-### I.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
+### Int.01.12 Descriptive Cataloging of Rare Materials (RDA Edition)
 
-<a name="I.01.12.1">I.01.12.1</a> When completed, DCRMR will provide guidelines and instructions for descriptive cataloging of rare materials in all formats. The initial release includes only instructions for descriptive cataloging of rare books, that is, printed textual monographs receiving special treatment within a repository.  Additional formats will be added as the RBMS RDA Editorial Group completes writing guidelines. DCRMR may be used for resources of any age or type of production. DCRMR is informed by long-standing practice in describing rare materials, as embodied in the DCRM suite of manuals. When creating RDA descriptions, use DCRMR. The [DCRM manuals](http://rbms.info/dcrm/){:target="_blank"} are still appropriate for descriptions based on AACR2.
+<a name="Int.01.12.1">Int.01.12.1</a> When completed, DCRMR will provide guidelines and instructions for descriptive cataloging of rare materials in all formats. The initial release includes only instructions for descriptive cataloging of rare books, that is, printed textual monographs receiving special treatment within a repository.  Additional formats will be added as the RBMS RDA Editorial Group completes writing guidelines. DCRMR may be used for resources of any age or type of production. DCRMR is informed by long-standing practice in describing rare materials, as embodied in the DCRM suite of manuals. When creating RDA descriptions, use DCRMR. The [DCRM manuals](http://rbms.info/dcrm/){:target="_blank"} are still appropriate for descriptions based on AACR2.
 
 ### I.01.13 Need for special instructions
 
