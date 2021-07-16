@@ -53,4 +53,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.31 — Accompanied by manifestation")](/DCRMR/additional-notes/Accompanied-by-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.3 — Note on manifestation")](/DCRMR/additional-notes/Note-on-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/)

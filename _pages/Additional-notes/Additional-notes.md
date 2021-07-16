@@ -58,8 +58,6 @@ sidebar:
 
 [9.3 — Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
 
-[9.31 — Accompanied by manifestation](/DCRMR/additional-notes/Accompanied-by-manifestation/)
-
 [9.32 — Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
 
 [9.33 — Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
@@ -71,6 +69,8 @@ sidebar:
 [9.41 — Modification of item](/DCRMR/additional-notes/Modification-of-item/)
 
 [9.42 — Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/)
+
+[9.425 — Immediate source of acquisition of item](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/)
 
 [9.43 — Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/)
 

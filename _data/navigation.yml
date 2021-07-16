@@ -259,9 +259,7 @@ docs:
       - title: "9.25 — Summarization of content"
         url: /DCRMR/additional-notes/Summarization-of-content/  
       - title: "9.3 — Note on manifestation"
-        url: /DCRMR/additional-notes/Note-on-manifestation/
-      - title: "9.31 — Accompanied by manifestation"
-        url: /DCRMR/additional-notes/Accompanied-by-manifestation/        
+        url: /DCRMR/additional-notes/Note-on-manifestation/      
       - title: "9.32 — Manifestation described in"
         url: /DCRMR/additional-notes/Manifestation-described-in/        
       - title: "9.33 — Supplementary content"
@@ -274,6 +272,8 @@ docs:
         url: /DCRMR/additional-notes/Modification-of-item/
       - title: "9.42 — Custodial history of item"
         url: /DCRMR/additional-notes/Custodial-history-of-item/
+      - title: "9.425 — Immediate source of acquisition of item"
+        url: /DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/
       - title: "9.43 — Note on extent of item"
         url: /DCRMR/additional-notes/Note-on-extent-of-item/
       - title: "9.44 — Note on dimensions of item"

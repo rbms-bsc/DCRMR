@@ -46,4 +46,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.43 — Note on extent of item")](/DCRMR/additional-notes/Note-on-extent-of-item/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.425 — Immediate source of acquisition of item")](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/)
