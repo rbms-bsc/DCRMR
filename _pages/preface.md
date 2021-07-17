@@ -9,37 +9,42 @@ sidebar:
 
 [Google Doc for BSC review](https://docs.google.com/document/d/1Qv-3aO3WdezN616KyrhbdARFsGY4cr68IRu4FVRuS0M/edit?usp=sharing){:target="_blank"}
 
-DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collection repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right. 
+DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collections repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right. 
 
 DCRMR is an RDA-compliant manual aligned with the RDA element set. When completed, DCRMR will be an integrated and consolidated manual, which will include instructions for rare materials in multiple formats (e.g., music, serials).  Currently, DCRMR allows for RDA-compliant rare book cataloging.
 
 ## RBMS RDA Editorial Group
 
-# Editor
+# Editors
+
+
+Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 
 Elizabeth Hobart, Special Collections Cataloging Librarian, Pennsylvania State University Libraries
 
 # Editorial Group Members
-Amy Brown, Head, Special Collections Technical Services, Boston College
+
+Liz Adams, Rare Materials Cataloger, David M. Rubenstein Rare Book & Manuscript Library, Duke Universit
+
+Amy Brown, Head of Metadata and Special Collections Technical Services, Boston College
 
 Tammy Druash, Resource Description Librarian, University of North Florida
-
-Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
 
 Ryan Hildebrand, Special Collections and Authorities Cataloger, University of Oregon
 
 Deborah J. Leslie, Senior Cataloger, Folger Shakespeare Library
 
-Michelle Mascaro, Special Collections Metadata Unit Head, UC San Diego
+Matthew J. Murphy, Management Librarian, Cataloging and Metadata, Milwaukee Public Library
 
 Iris O’Brien, Early Printed Collections Cataloguing and Processing Manager, British Library
 
 Elizabeth O’Keefe, Formerly of the Morgan Library & Museum
 
 # Keepers of the Text
-Amy Tims, Cataloging Initiatives Librarian, American Antiquarian Society
 
 kalan Knudson Davis, Special Collections Metadata Librarian, University of Minnesota Libraries
+
+Amy Tims, Cataloging Initiatives Librarian, American Antiquarian Society
 
 ## Current Status
 Minimum viable product containing book instructions. For BSC review only.
