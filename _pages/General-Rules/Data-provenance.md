@@ -15,7 +15,7 @@ sidebar:
 
 ## 0.1.1 Recording a content standard
 
-<a name="0.1.1.1">0.1.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/appendices/Appendix-a/) (forthcoming) for guidance. **Note: At this time, a descriptive conventions code has not yet been approved for DCRMR**.
+<a name="0.1.1.1">0.1.1.1</a> See [Appendix A. MARC 21 Descriptive Conventions Code](/DCRMR/appendices/Appendix-a/) (forthcoming) for guidance. 
 
 ## 0.1.2 Basis of the description
 
@@ -25,9 +25,9 @@ sidebar:
 
 ### 0.1.22 Imperfect exemplars of a manifestation
 
-<a name="0.1.22.1">0.1.22.1</a> If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. As appropriate, cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described in, 9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)). Make a local note describing the imperfection of the item in hand (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="0.1.22.1">0.1.22.1</a> **General rule**. If describing an exemplar of a manifestation known to be imperfect, and details of a perfect (or more perfect) exemplar can be determined, base the description on the perfect exemplar. Do not use square brackets to record information present in the perfect exemplar but absent in the imperfect exemplar. Details of a perfect (or more perfect) exemplar may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. Cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described in, 9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)). Make an item-level note describing the imperfection of the item in hand (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
-<a name="0.1.22.2">0.1.22.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
+<a name="0.1.22.2">0.1.22.2</a> **Details of a perfect exemplar cannot be determined**. If no reliable evidence of the details of a perfect exemplar is available, describe the imperfect item as it is. Use the mark of omission or supply a conjecture enclosed in square brackets to indicate lacunae as needed (see [Transription, 0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect exemplar (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
 
 >Example:  
 >Title proper: <CITE>Carta de […] sitio de Puebla</CITE>  
@@ -35,17 +35,17 @@ sidebar:
 
 <a name="0.1.22.3">0.1.22.3</a> **Multipart monographs or serials**. If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) exemplar cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.
 
-<a name="0.1.22.4">0.1.22.4</a>  **Resources for which the concept of perfect exemplar does not apply**. If describing resources for which the concept of perfect exemplar does not apply, describe the imperfect resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission enclosed in square brackets to indicate lacunae as needed (see [0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
+<a name="0.1.22.4">0.1.22.4</a>  **Resources for which the concept of perfect exemplar does not apply**. If describing resources for which the concept of perfect exemplar does not apply, describe the resource as it is. Such resources include unpublished items, such as manuscript maps and original works of art, as well as unique books or unique assemblages of published items, such as composite atlases. Use the mark of omission or supply a conjecture enclosed in square brackets to indicate lacunae as needed (see [Transcription, 0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) describing the imperfection of the resource in hand (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
 
 ## 0.1.3 Preferred source of information
 
 ### 0.1.31 Manifestations consisting of more than one page, leaf, sheet, or card
 
-<a name="0.1.31.1">0.1.31.1</a> For resources that consist of more than one page, leaf, sheet, or card, use the title page, title sheet, or title card as the preferred source of information. If information traditionally given on the title page is given on two facing pages or on pages on successive leaves, with or without repetition, treat all of these pages as the preferred source and make a note.
+<a name="0.1.31.1">0.1.31.1</a> For resources that consist of more than one page, leaf, sheet, or card, use the title page, title sheet, or title card as the preferred source of information. If information traditionally given on the title page is given on two facing pages or on pages on successive leaves, with or without repetition, treat all of these pages as the preferred source and make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)) or other appropriate note.
 
 *Exception*: Treat half-titles or added non-letterpress title pages as separate sources of information.
 
-<a name="0.1.31.2">0.1.31.2</a> Treat facing pages or pages on successive leaves in different languages or scripts as a single source of information.
+<a name="0.1.31.2">0.1.31.2</a> Treat facing pages or pages on successive leaves in different languages or scripts as a single source of information. For multiple sources of information in different languages and scripts, see [0.1.35.1](/DCRMR/general-rules/Data-provenance/#0.1.35.1).
 
 <a name="0.1.31.3">0.1.31.3</a> However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a note to indicate that the cover has been chosen as the preferred source (see [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
@@ -53,13 +53,13 @@ sidebar:
 ><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</CITE>  
 Note on manifestation: <CITE>Title, edition statement, and imprint taken from printed wrapper<CITE>  
 > (Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846)  
-> (*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Edition statement](/DCRMR/edition/Edition-statement/) and [Publication statement](/DCRMR/ppdm/Publication-statement/). The example is formatted according to ISBD for clarity)
+> (*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Edition statement](/DCRMR/edition/Edition-statement/); and [Publication statement](/DCRMR/ppdm/Publication-statement/). The example is formatted according to ISBD for clarity)
 
 ### 0.1.32 Single-sheet manifestations
 
-<a name="0.1.32.1">0.1.32.1</a> If the manifestation consists of a single sheet, use as the preferred source of information the first of the following:
+<a name="0.1.32.1">0.1.32.1</a> If the manifestation consists of a single sheet, use as the preferred source of information the first of the following sources that has a title:
 
-+ the whole sheet, recto and verso, including any permanently affixed labels issued with the resource
++ the whole sheet, including both sides and any permanently affixed labels issued with the resource
 + an original container or case issued with the resource (e.g., a  portfolio, cover, or envelope)
 
 ### 0.1.33 Multipart monographs
@@ -72,13 +72,11 @@ Note on manifestation: <CITE>Title, edition statement, and imprint taken from pr
 
 + a colophon
 + a source within the preliminaries
-+ a caption
++ a caption title
 + a cover integral to the resource
 + a source elsewhere within the resource
 
 Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source chosen as the title page substitute (see [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
-
-Hereafter in these instructions, “title page” means “title page or title page substitute.”
 
 ### 0.1.35 More than one preferred source of information
 
@@ -97,11 +95,13 @@ If the manifestation contains preferred sources in more than one language or scr
      3. the source in the language or script of translation, if the resource contains the same work in more than one language or script and translation is known to be the purpose of the resource  
      4. the source in the original language or script of the content, if the resource contains the same content in more than one language or script and the original language or script can be identified
      5. the first occurring of the sources
-     6. the source in the language or script preferred by the agency preparing the description, if the resource is formatted
+     6. the source in the language or script preferred by the agency preparing the description, if the resource is formatted *tête-bêche*, as a head-to-head bound monograph, or as a head-to-tail bound monograph.
 + **Order of sources of information**  
 If two title pages face one another, choose the one on the recto of its leaf. If two or more title pages follow one another, choose the first one.
 
 Make a note indicating the source chosen as the preferred source of information if other than the usual title page, or, in a multipart manifestation, if other than the title page of the first volume.
+
+*Hereafter, "title page" means "title page or title page substitute."*
 
 ## 0.1.5 Sources of information
 
@@ -112,11 +112,11 @@ Make a note indicating the source chosen as the preferred source of information 
 | Title                                                  | Title page |
 | Statement of responsibility                            | Title page |
 | Edition                                                | Title page, other preliminaries, colophon, dust jacket |
-| Production, publication, distribution, and manufacture | Title page, other preliminaries, colophon, dust jacket |
+| Production, publication, distribution, manufacture | Title page, other preliminaries, colophon, dust jacket |
 | Physical description                                   | The whole manifestation |
 | Series                                                 | Series title page, monograph title page, cover, dust jacket, rest of manifestation |
 | Notes                                                  | Any source |
-| Identifier                                             | Any source |
+| Identifiers                                             | Any source |
 
 For additional guidance on sources of information for individual elements, see instructions for that element.
 
@@ -127,8 +127,8 @@ For additional guidance on sources of information for individual elements, see i
 <a name="0.1.7.1">0.1.7.1</a> If the manifestation does not provide a source of information for an element, take the information from one of the following sources (in order of preference):
 
 + a reference source (e.g., a bibliography or catalog)
-+ other published descriptions of the manifestation (e.g., a dealer’s description, a prospectus)
-+ any other available source (e.g., a container that is not issued with the manifestation itself or accompanying material that is not treated as part of the manifestation itself)
++ other descriptions of the manifestation (e.g., a dealer’s description, a prospectus)
++ any other source (e.g., a container that is not issued with the manifestation itself, or accompanying material that is not treated as part of the manifestation itself)
 
 <a name="0.1.7.2">0.1.7.2</a> When the instructions specify transcription, indicate that the information is supplied from a source outside the manifestation itself by enclosing the information in square brackets. Make a note to indicate the source of information.
 
@@ -136,8 +136,6 @@ For additional guidance on sources of information for individual elements, see i
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
 >Note on title: <CITE>Title from Bartsch</CITE>   
 >(*Comment*: The formal citation for Bartsch is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
-
-<a name="0.1.7.3">0.1.7.3</a> *Optionally*, *if* consulting a potential source other than the manifestation being described *and* the potential source does not provide additional information, make a note to indicate that additional information was not found in the source.
 
 ---
 
