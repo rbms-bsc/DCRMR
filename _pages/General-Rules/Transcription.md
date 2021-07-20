@@ -37,9 +37,9 @@ Chapter 8: Series
 
 ## 0.4.05 General guidelines on transcription
 
-<a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless instructed otherwise by specific instructions. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
-DCRMR normalizes punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Alternatively, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
@@ -51,16 +51,16 @@ DCRMR normalizes punctuation and capitalization based on current conventions, wi
 
 ### 0.4.13 Ligatures
 
-<a name="0.4.13.1">0.4.13.1</a> In most languages, including Latin, transcribe a ligature by giving its component letters separately. Do not, however, separate the component letters of **&aelig;** in Anglo-Saxon; **&oelig;** in French; or **&aelig;** and **&oelig;** in ancient or modern Scandinavian languages. 
+<a name="0.4.13.1">0.4.13.1</a> In most languages, including Latin, transcribe a ligature by giving its component letters separately. Do not, however, separate the component letters of **&aelig;** in Old English; **&oelig;** in French; or **&aelig;** and **&oelig;** in ancient or modern Scandinavian languages. 
 
 ### 0.4.14 Symbols, etc.
 
-<a name="0.4.14.1">0.4.14.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if necessary.
+<a name="0.4.14.1">0.4.14.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if considered important.
 
-For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}.
+For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}. However, do not follow Exception 1 in LC-PCC PS 1.77.5.4 regarding the transcription of birth and death symbols. Insert the symbol if it can be reproduced. Otherwise, describe the character in square brackets. 
 
 >Example:  
-><CITE>A.J. Garnerin, aeoronaute, inv. du parachute, né à Paris 1769, [death symbol] 1813</CITE>  
+><CITE>A.J. Garnerin, aeronaute, inv. du parachute, né à Paris 1769, [dagger] 1813</CITE>  
 >(*Source of information reads*: A.J. GARNERIN, AERONAUTE, Inv. du Parachute, Né à Paris 1769 &#8224; 1813)
 
 ### 0.4.15 Early letterforms and symbols
@@ -85,7 +85,7 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 
 ### 0.4.16 Brevigraphs
 
-<a name="0.4.16.1">0.4.16.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here.
+<a name="0.4.16.1">0.4.16.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here. (See [0.4.82](/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions) for modern constractions.)
 
 |Brevigraphs| | | | | |
 |---|---|---|---|---|
@@ -116,9 +116,9 @@ For additional guidance on recording signs and symbols, see the [LC-PCC PS for 1
 | ![[us] or [bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bus%5D.png "[us] or [bus]") | [us]<br/> [bus] | ![reb[us]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/reb%5Bus%5D.png "reb[us]") <br/> ![[par]ticulari[bus]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bpar%5Dticulari%5Bbus%5D.png "[par]ticulari[bus]") | reb[us] <br/> [par]ticulari[bus] | Superscript; a similar character at baseline represents "[con]" |
 | ![[ver]](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5D.png "[ver]") | [ver] | ![[ver]tuoso](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/%5Bver%5Dtuoso.png "[ver]tuoso") | [ver]tuoso | |
 
-<a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if necessary.
+<a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if considered important.
 
-<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
+<a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign "et" (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
 
 >Example:  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
@@ -148,13 +148,13 @@ For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, se
 
 <a name="0.4.22.1">0.4.22.1</a> Do not convert case when transcribing roman numerals.
 
-See also [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) ([0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1)).
+See also [Chronograms (0.4.25)](/DCRMR/general-rules/Transcription/#0425-chronograms) and  [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) ([0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1)).
 
 ### 0.4.23 Letterforms I, V, i, j, u, and v
 
 <a name="0.4.23.1">0.4.23.1</a> If the rules for capitalization require converting I or V to lowercase, or i, j, u, or v to uppercase, follow the pattern of usage in the text to determine which letterform to use in the transcription. 
 
-Establish the pattern of usage by examining text in the same typeface (i.e., roman, italic, or gothic) in the resource being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface. 
+Establish the pattern of usage by examining text in the same typeface or writing style (i.e., roman, italic, or gothic) in the resource being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface. 
 
 >Example:  
 >Title proper: <CITE>Les oeuures morales de Plutarque</CITE>  
@@ -162,7 +162,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 >(*Source of information reads*: LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le translateur)  
 >(*Comment*: In the manifestation, the body of the text in roman type shows consistent use of v for vowels or consonants in initial position and u for vowels or consonants elsewhere, e.g., "ville," "vn," "conuersation," "tout," and "entendu")
 
-<a name="0.4.23.2">0.4.23.2</a> If the pattern of usage cannot be determined within a reasonable amount of time, use this conversion table as a solution of last resort.
+<a name="0.4.23.2">0.4.23.2</a> If the pattern of usage cannot be determined within a reasonable amount of time and the provisions of [0.4.24](/DCRMR/general-rules/Transcription/#0424-final-capital-i-in-latin) and [0.4.25](/DCRMR/general-rules/Transcription/#0425-chronograms) do not apply, use this conversion table as a solution of last resort.
 
 **Converting uppercase letterforms**
 
@@ -183,9 +183,9 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 | u (vowel or consonant) anywhere in word | V |
 | v (vowel or consonant) anywhere in word | V |
 
-<a name="0.4.23.3">0.4.23.3</a> If any letterform within the first five words of the [Title proper](/DCRMR/title/Title-proper/) has been converted from I to j, from j to I, from V to u, or from u to V (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the [Title proper](/DCRMR/title/Title-proper/) as needed (see [1.25.3515.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)).
+<a name="0.4.23.3">0.4.23.3</a> If any letterform within the first five words of the [Title proper](/DCRMR/title/Title-proper/) has been converted from I to j, from j to I, from V to u, or from u to V (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) using alternative forms of the [Title proper](/DCRMR/title/Title-proper/) as needed (see [1.25.3515.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)).
 
-<a name="0.4.23.4">0.4.23.4</a> If the manifestation uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v, transcribe the letters as i and v respectively.
+<a name="0.4.23.4">0.4.23.4</a> If the manifestation uses a gothic typeface that does not distinguish between uppercase I and J or between uppercase U and V, and there is no need to convert the letters to lowercase, transcribe them as I and V respectively, even though the actual letterforms will more closely resemble a modern J and modern U.
 
 ### 0.4.24 Final capital "I" in Latin
 
@@ -199,7 +199,7 @@ Establish the pattern of usage by examining text in the same typeface (i.e., rom
 ><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>  
 >(*Source of information reads*: <SMALLCAPS>valerI andreae desselI i.c. bibliotheca belgica</SMALLCAPS>)
 
-<a name="0.4.24.2">0.4.24.2</a> If the letter occurs within the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)).
+<a name="0.4.24.2">0.4.24.2</a> If the letter occurs within the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)).
 
 ### 0.4.25 Chronograms
 
@@ -253,7 +253,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 >Example:  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-street in the Strand., M,DCC,LI. [1751]</CITE>
 
-<a name="0.4.31.5">0.4.31.5</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., printers’ or night-club). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
+<a name="0.4.31.5">0.4.31.5</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., night-club, printers'). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
 * [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
@@ -375,7 +375,7 @@ Do not supply marks of punctuation to indicate line breaks.
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
 >(*Source of information reads*:  Clara H_____d)
 
-<a name="0.4.38.4">0.4.38.4</a> If punctuation substituting for letters occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), and the values of the missing letters are known, then record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
+<a name="0.4.38.4">0.4.38.4</a> If punctuation substituting for letters occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), and the values of the missing letters are known, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
 
 ### 0.4.385 Punctuation indicating an abbreviation
 
@@ -390,13 +390,6 @@ Do not supply marks of punctuation to indicate line breaks.
 >Example:  
 ><CITE>Ie. recueil nouveaux</CITE>  
 >(*Source of information reads*: I.<sup>E</sup> Recueil Nouveaux)
-
-### 0.4.39 Quotation marks
-
-<a name="0.4.39.1">0.4.39.1</a> Retain quotation marks that indicate dialogue. 
-
->Example:  
-><CITE>"Miss, I have a monstrous crow to pluck with you!!”</CITE>
 
 ## 0.4.4 Spacing
 
@@ -441,7 +434,7 @@ ET ITALIAE)
 
 ### 0.4.43 Spacing between words
 
-<a name="0.4.43.1">0.4.43.1</a> If spacing between words in the source is ambiguous, or lacking, include spaces in the transcription to separate the words as needed.
+<a name="0.4.43.1">0.4.43.1</a> If spacing between words in the source is ambiguous or lacking, include spaces in the transcription to separate the words as needed.
 
 >Example:  
 ><CITE>Founding fathers folly day</CITE>  
@@ -451,7 +444,7 @@ ET ITALIAE)
 ><CITE>La morte d'Orfeo</CITE>  
 >(*Source of information reads*: LAMORTE D'ORFEO)
 
-<a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
+<a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
 
 ### 0.4.44 Variant spellings
 
@@ -465,7 +458,7 @@ ET ITALIAE)
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-<a name="0.4.44.2">0.4.44.2</a> If the variant or archaic spellings occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
+<a name="0.4.44.2">0.4.44.2</a>  If the variant or archaic spellings occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
 
 ### 0.4.45 Initials, etc.
 
@@ -536,7 +529,7 @@ ET ITALIAE)
 
 ### 0.4.52 Information not considered part of any transcribed element
 
-<a name="0.4.52.1">0.4.52.1</a> Omit, without using the mark of omission, grammatically separable information not considered part of any transcribed element. Such information may include quotations, epigrams, mottoes, advertisements, etc. 
+<a name="0.4.52.1">0.4.52.1</a> Omit, without using the mark of omission, grammatically separable information not considered part of any transcribed element. Such information may include quotations, epigrams, mottoes, advertisements, ornaments, etc. 
 
 If considered important, give the omitted information in a note.
 
@@ -558,7 +551,7 @@ If considered important, give the omitted text in a note.
 
 <a name="0.4.61.1">0.4.61.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
 
-Make an explanatory note if considered important for identification.
+Make an explanatory note if considered important.
 
 For guidance on expanding brevigraphs (special marks of contraction in continuance of the manuscript tradition), see [0.4.16.1](/DCRMR/general-rules/Transcription/#0.4.16.1).
 
@@ -615,26 +608,26 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >Example:  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755</CITE>  
 >Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer</CITE>  
->Note on item (optional): <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
+>Note on item: <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
 
-<a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
+<a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
 
 ### 0.4.65 Blank spaces for initial letters
 
 <a name="0.4.65.1">0.4.65.1</a> If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
 
-Make an explanatory note.
+Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
 
 >Example:  
 >Title proper: <CITE>[M]issae familiares</CITE>  
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer</CITE>  
->Note on item (optional): <CITE>Library's copy: Initial letter executed in red and blue ink</CITE>
+>Modification of item: <CITE>Library's copy: Initial letter executed in red and blue ink</CITE>
 
-<a name="0.4.65.2">0.4.65.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets.
+<a name="0.4.65.2">0.4.65.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets and make a [Note on title](/DCRMR/title/Note-on-title/) indicating uncertainty.
 
 >Example:  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
->Note on item (optional): <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
+>Note on item: <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
 <a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
@@ -642,7 +635,7 @@ Make an explanatory note.
 
 ### 0.4.72 Misprints and unintentional inaccuracies
 
-<a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “[sic]” or by “that is,” and the correction within square brackets.
+<a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “sic” or by “that is,” and the correction, all enclosed within square brackets.
 
 >Example:  
 ><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
@@ -656,17 +649,17 @@ Make an explanatory note.
 >Example:  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
-<a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been printed or written correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
+<a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) beings with an article, the first six words), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
-<a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).
+<a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).  Optionally, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
 <a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling.
 
-If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been printed or written correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
+If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
 ### 0.4.73 Deliberate misspellings
 
-<a name="0.4.73.1">0.4.73.1</a> Do not correct deliberately misspelled words. If considered important, make an explanatory note.
+<a name="0.4.73.1">0.4.73.1</a> Do not correct deliberately misspelled words. Make an explanatory note if considered important.
 
 >Example:  
 >Title proper: <CITE>The summer shower, or, Mademoiselle Par, a Pluye</CITE>  
@@ -693,7 +686,7 @@ Make an explanatory note if considered important.
 | ![VV](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_VV.png) | w | ![whole](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_WHOLE.png) | whole |
 | ![rv](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_rv.png) | w | ![weysse](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/forms_w_weysse.png) | weysse |
 
-<a name="0.4.74.3">0.4.74.3</a> If the characters used to approximate a different character occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed as set if considered important (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
+<a name="0.4.74.3">0.4.74.3</a> If the characters used to approximate a different character occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the characters transcribed as set (see [1.25.356.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.356.1)).
 
 ## 0.4.8 Other transcription rules
 
@@ -703,11 +696,11 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 
 <a name="0.4.82.1">0.4.82.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
-<a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)).  
+<a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)). (For early-modern contractions, see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs).)
 
 ### 0.4.84 Letters or words intended to be read more than once
 
-<a name="0.4.84.1">0.4.84.1</a> If a letter or word appears only once on the source of information but the layout makes it clear that it is intended to be read more than once, then repeat the letter or word.
+<a name="0.4.84.1">0.4.84.1</a> If a letter or word appears only once on the source of information but the layout makes it clear that it is intended to be read more than once, then repeat the letter or word. Do not use square brackets.
 
 Make an explanatory note.
 
@@ -735,7 +728,7 @@ Make an explanatory note.
 
 ### 0.4.88 Numbers expressed as numerals or words
 
-<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the title proper (the first six words if the title begins with an article), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important (see [1.25.3583.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3583.1)).
+<a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important (see [1.25.3583.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3583.1)).
 
 >Example:  
 ><CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
@@ -789,7 +782,7 @@ DCRMR is an element-based, display- and encoding-neutral descriptive standard an
 
 The following general rules about order and transposition apply. See also [Grammatical inseparability, 0.4.92.1](/DCRMR/general-rules/Transcription/#0.4.92.1).
 
-<a name="0.4.94.1">0.4.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in roman script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
+<a name="0.4.94.1">0.4.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in Latin script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
 <a name="0.4.94.2">0.4.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: case endings would be affected, the grammatical construction of the information would be disturbed,  the text is otherwise grammatically inseparable from its surrounding elements, or the data element instructions specify otherwise.
 
