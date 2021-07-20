@@ -57,7 +57,7 @@ Generally normalize punctuation and capitalization based on current conventions,
 
 <a name="0.4.14.1">0.4.14.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if considered important.
 
-For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}. However, do not follow Exception 1 in LC-PCC PS 1.77.5.4 regarding the transcription of birth and death symbols. Insert the symbol if it can be reproduced. Otherwise, describe the character in square brackets. 
+For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}. However, do not follow Exception 1 in LC-PCC PS 1.7.5.4 regarding the transcription of birth and death symbols. Insert the symbol if it can be reproduced. Otherwise, describe the character in square brackets. 
 
 >Example:  
 ><CITE>A.J. Garnerin, aeronaute, inv. du parachute, né à Paris 1769, [dagger] 1813</CITE>  
