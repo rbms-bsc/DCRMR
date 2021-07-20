@@ -142,13 +142,13 @@ Make an explanatory note.
 
 <a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [RDA Toolkit: Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"}, with the following exceptions. 
 
-For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and v](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v) ([0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)).
+For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and v (0.4.23.1)](/DCRMR/general-rules/Transcription/#0.4.23.1).
 
 ### 0.4.22 Roman numerals
 
 <a name="0.4.22.1">0.4.22.1</a> Do not convert case when transcribing roman numerals.
 
-See also [Chronograms (0.4.25)](/DCRMR/general-rules/Transcription/#0425-chronograms) and  [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) ([0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1)).
+See also [Chronograms (0.4.25.1)](/DCRMR/general-rules/Transcription/#0.4.25.1) and  [Punctuation within roman numerals (0.4.34.1)](/DCRMR/general-rules/Transcription/#0.4.34.1).
 
 ### 0.4.23 Letterforms I, V, i, j, u, and v
 
