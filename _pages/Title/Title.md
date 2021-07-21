@@ -11,11 +11,11 @@ sidebar:
 
 ## 1.01.1 Sources of information
 
-<a name="1.01.1.1">1.01.1.1</a> The [Preferred source of information](/DCRMR/general-rules/Data-provenance/#013-preferred-source-of-information) for the title is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso. 
+<a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
 
 ## 1.01.2 Element order
 
-<a name="1.01.2.1">1.01.2.1</a> General element order of title and statement of responsibility elements, punctuated and capitalized according to ISBD:
+<a name="1.01.2.1">1.01.2.1</a> In ISBD, title and statement of responsibility are treated as a single area of description. These instructions provide general element order for the title and statement of responsibility elements, punctuated and capitalized according to ISBD:
 
 >Title proper : other title information / statement of responsibility relating to title proper
 
@@ -35,19 +35,19 @@ sidebar:
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
-<a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. 
-
-> Title 1 : other title information ; Title 2 : other title information / statement of responsibility
+<a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. If any of these titles lacks a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
 > Title 1. Title 2. Title 3
+
+> Title 1 : other title information ; Title 2 : other title information / statement of responsibility
 
 <a name="1.01.2.6">1.01.2.6</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
 ## 1.01.3 Form and order of information
 
-<a name="1.01.3.1">1.01.3.1</a> Transcribe title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which it is presented on the preferred source of information, unless otherwise directed by specific instructions (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
+<a name="1.01.3.1">1.01.3.1</a> Transcribe [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
 
-<a name="1.01.3.2">1.01.3.2</a> Always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page of transposed elements (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
+<a name="1.01.3.2">1.01.3.2</a> For transposed elements, always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 
 >Example:  
 >Title proper: <CITE>Sonate à quatre mains pour le forte-piano, oeuvre 48</CITE>  

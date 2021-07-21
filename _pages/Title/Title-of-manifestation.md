@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.2.3 General rule
 
-<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless specifically instructed otherwise.
 
 ## 1.2.31 Title information not appearing on title page
 
@@ -35,19 +35,11 @@ sidebar:
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
 >Note on title: <CITE>Running title: The womans lawier</CITE>  
 
-## 1.2.32 Title access points
+## 1.2.32 Title access
 
-<a name="1.2.32.1">1.2.32.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Titles may apply to a resource at the work, expression, manifestation, or item level. While some title access will be handled by controlled forms, these instructions cover specific situations commonly encountered by rare materials catalogers, in which the provision of uncontrolled title access points is likely to be useful. 
+<a name="1.2.32.1">1.2.32.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Variant title access enables titles other than the title proper to be indexed. While some title access will be handled by controlled access points, these instructions cover specific situations commonly encountered by rare materials catalogers in which the provision of variant title access is likely to be useful. 
  
-<a name="1.2.32.2">1.2.32.2</a> Use judgment in determining which forms of title access will be most useful for the resource in hand. In general, do not include access points that duplicate normalized forms of existing title access points (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access points are needed.
-
-<a name="1.2.32.3">1.2.32.3</a> For instructions on providing access points for the [Title proper](/DCRMR/title/Title-proper), see [1.21.39](/DCRMR/title/Title-proper/#12139-access-points-for-title-proper).
-
-<a name="1.2.32.4">1.2.32.4</a> For instructions on providing access points for [Parallel titles proper](/DCRMR/title/Parallel-title-proper), see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper).
-
-<a name="1.2.32.5">1.2.32.5</a> For instructions on providing access points for [Variant titles of a manifestation](/DCRMR/title/Variant-title-of-manifestation), see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
-
-<a name="1.2.32.6">1.2.32.6</a> For instructions on providing access points for [Titles of item](/DCRMR/title/Title-of-item), see [1.27.31](/DCRMR/title/Title-of-item/#12731-access-points-for-item-specific-titles).
+<a name="1.2.32.2">1.2.32.2</a>  Instructions for title access appear in various elements, such as [Parallel title proper](/DCRMR/title/Parallel-title-proper) (see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-access-points-for-parallel-titles-proper)), [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles)), and [Title of item](/DCRMR/title/Title-of-item) (see [1.27.31](/DCRMR/title/Title-of-item/#12731-access-points-for-item-specific-titles)). Use judgment in determining which forms of title access will be most useful. Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access is needed.
 
 ---
 

@@ -29,7 +29,7 @@ sidebar:
 
 <a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
-<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [1.21.32.1](/DCRMR/title/Title-proper/) and [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
   
 ## 1.23.31 Other title information beginning with prepositions, conjunctions, etc.
 
@@ -45,7 +45,7 @@ sidebar:
 
 ## 1.23.32 Other title information following a statement of responsibility relating to title proper
 
-<a name="1.23.32.1">1.23.32.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.01.3](/DCRMR/sor/#2013-form-and-order-of-information)).
+<a name="1.23.32.1">1.23.32.1</a> If other title information appears following a statement of responsibility, transcribe it as a subsequent [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)).
 
 ## 1.23.33 Other title information constituting a formal statement of contents
 
@@ -56,9 +56,9 @@ sidebar:
 >Other title information: <CITE>containing several excellent new songs ...</CITE>  
 >Note on manifestation:  <CITE>Contents: (from title page) I. The good housewife’s coat of arms &#8208;&#8208; II. The spinning wheels glory &#8208;&#8208; III. The taylor disappointed of his bride &#8208;&#8208; IV. The changeable world</CITE>  
 
-<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situations from those in which titles of other expressions are given equal prominence with the first-named expression in a manifestation (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
+<a name="1.23.33.2">1.23.33.2</a> Distinguish the above situation from that in which the preferred source of information bears the titles of two or more expressions in a manifestation with no collective title (see [1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
-## 1.23.34 Persons or bodies not explicitly named
+## 1.23.34 Persons or bodies not explicitly named in the statement of responsibility
 
 <a name="1.23.34.1">1.23.34.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
 
@@ -68,7 +68,7 @@ sidebar:
 
 ## 1.23.35 Statements about illustrations or volumes
 
-<a name="1.23.35.1">1.23.35.1</a> Treat an illustration statement or a statement such as “in two volumes” as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement, 3.21.32.1](/DCRMR/edition/Edition-statement/#3.21.32.1) and [Statement of responsibility relating to title proper, 2.21.38.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
+<a name="1.23.35.1">1.23.35.1</a> Treat an illustration statement or a statement such as “in two volumes” appearing before the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as other title information, unless the statement is grammatically inseparable from information transcribed as part of another element (see [Edition statement, 3.21.32.1](/DCRMR/edition/Edition-statement/#3.21.32.1) and [Statement of responsibility relating to title proper, 2.21.38.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)). Omit, without using the mark of omission, statements containing the volume or part number within the larger work. 
 
 >Example:  
 >Title proper: <CITE>The American child's pictorial history of the United States</CITE>  
@@ -90,7 +90,7 @@ If the statement appears following the [Statement of responsibility relating to 
 <a name="1.23.36.2">1.23.36.2</a> If such information appears after the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
 
 >Example:   
->Statement of responsibility relating to title proper: <CITE>by Sir William Dugdale knt. garter principal king of arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>  
+>Statement of responsibility relating to title proper: <CITE>by Sir William Dugdale Knt. Garter Principal King of Arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 

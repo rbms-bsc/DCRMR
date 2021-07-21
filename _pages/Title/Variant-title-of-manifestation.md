@@ -27,15 +27,13 @@ sidebar:
 
 <a name="1.25.3.1">1.25.3.1</a> Record variant titles of the manifestation that were not selected as the [Title proper](/DCRMR/title/Title-proper/) if considered important.
 
-## 1.25.35 Access points for variant titles
+## 1.25.35 Title access for variant titles
 
-<a name="1.25.35.1">1.25.35.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access points may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.2.32](/DCRMR/title/Title-of-manifestation/#1232-title-access-points)).
-
-<a name="1.25.35.2">1.25.35.2</a> Title access points considered optional are labeled as such.
+<a name="1.25.35.1">1.25.35.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. These instructions are not intended as an exhaustive list of all instances in which uncontrolled title access may be made for variant titles. Use judgment in determining which forms of access will be most useful for the resource in hand (see [1.2.32.2](/DCRMR/title/Title-of-manifestation/#1.2.32.2)).
 
 ### 1.25.351 Title proper in nonroman script (required)
 
-<a name="1.25.351.1">1.25.351.1</a> If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.3.2](/DCRMR/general-rules/Language-and-script-of-the-description/#032-romanization)).
+<a name="1.25.351.1">1.25.351.1</a> If nonroman text has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words), provide additional title access for a romanized version of the [Title proper](/DCRMR/title/Title-proper) using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"} (see [0.3.2](/DCRMR/general-rules/Language-and-script-of-the-description/#032-romanization)).
 
 >Example:  
 >Title proper: <CITE>平家 物語</CITE>  
@@ -43,9 +41,9 @@ sidebar:
 
 ### 1.25.3515 Title proper with converted letterforms I, V, i, j, u, or v (required)
 
-<a name="1.25.3515.1">1.25.3515.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains a letterform I, V, i, j, u, or v that has been converted to uppercase or lowercase according to a pattern of usage that follows pre-modern spelling conventions, provide additional title access for the form of the title proper that corresponds to modern orthography (i.e., using i and u for vowels, j and v for consonants, and w for consonantal vv) (see [0.4.23.3](/DCRMR/general-rules/Transcription/#0.4.23.3)).
+<a name="1.25.3515.1">1.25.3515.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains a letterform I, V, i, j, u, or v that has been converted to uppercase or lowercase according to a pattern of usage that follows pre-modern spelling conventions, provide additional title access for the form of the title proper that corresponds to modern orthography (i.e., using i and u for vowels, j and v for consonants, and w for consonantal vv) (see [0.4.23.3](/DCRMR/general-rules/Transcription/#0.4.23.3)).
 
-<a name="1.25.3515.2">1.25.3515.2</a> If it differs from title access points already provided, also provide title access for the form of the [Title proper](/DCRMR/title/Title-proper) that corresponds to the graphical appearance of the letters in the source, converting them from uppercase or lowercase without regard for the pattern of usage in the manifestation being described.
+<a name="1.25.3515.2">1.25.3515.2</a> If it differs from title access already provided, also provide title access for the form of the [Title proper](/DCRMR/title/Title-proper) that corresponds to the graphical appearance of the letters in the source, converting them from uppercase or lowercase without regard for the pattern of usage in the manifestation being described.
 
 >Example:    
 >Title proper: <CITE>Les oeuures morales de Plutarque</CITE>  
@@ -55,20 +53,24 @@ sidebar:
 
 ### 1.25.352 Latin title proper with final capital I representing ii (required)
 
-<a name="1.25.352.1">1.25.352.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper)  (the first six words if the title begins with an article) is a Latin word with a final capital **I** that has been retained in the transcription, provide additional title access for the form of title proper with the final capital **I** converted to **ii** (see [0.4.24.2](/DCRMR/general-rules/Transcription/#0.4.24.2)).
+<a name="1.25.352.1">1.25.352.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) is a Latin word with a final capital **I** that has been retained in the transcription, provide additional title access for the form of title proper with the final capital **I** converted to **ii** (see [0.4.24.2](/DCRMR/general-rules/Transcription/#0.4.24.2)).
 
 >Example:    
 >Title proper: <CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
 >Variant title of manifestation: <CITE>M. Accii Plauti quae supersunt Comoediae</CITE>  
 >(*Source of information reads*: <SMALLCAPS>m. accI plauti quae supersunt comoediae</SMALLCAPS>)
 
-### 1.25.3525 Title proper containing characters as substitutes for letters (optional)
+### 1.25.3525 Title proper containing other characters as substitutes for letters (optional)
 
 <a name="1.25.3525.1">1.25.3525.1</a> If a [Title proper](/DCRMR/title/Title-proper) contains hyphens or other characters as substitutes for letters, and the meaning of the characters is known, provide additional access to the decoded form of the title (see [0.4.38.4](/DCRMR/general-rules/Transcription/#0.4.38.4)).
 
+>Example:  
+>Title proper: <CITE>Clara H-d</CITE>  
+>Variant title of manifestation: <CITE>Clara Hayward</CITE>  
+
 ### 1.25.353 Title proper with inserted spacing (required)
 
-<a name="1.25.353.1">1.25.353.1</a> If any spacing has been inserted in the transcription of the first five words of the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article), provide additional title access for the form of title with the words closed up (see [0.4.43.2](/DCRMR/general-rules/Transcription/#0.4.43.2)).
+<a name="1.25.353.1">1.25.353.1</a> If any spacing has been inserted in the transcription of the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words), provide additional title access for the form of title with the words closed up (see [0.4.43.2](/DCRMR/general-rules/Transcription/#0.4.43.2)).
 
 >Example:  
 >Title proper: <CITE>La morte d'Orfeo</CITE>  
@@ -77,7 +79,7 @@ sidebar:
 
 ### 1.25.3535 Variant spellings involving spacing (required)
 
-<a name="1.25.3535.1">1.25.3535.1</a> If any variant or archaic spacing has been transcribed in the first five words of the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article), provide additional title access for the form of title with modern spacing (see [0.4.44.2](/DCRMR/general-rules/Transcription/#0.4.44.2)).
+<a name="1.25.3535.1">1.25.3535.1</a> If any variant or archaic spacing has been transcribed in the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words), provide additional title access for the form of title with modern spacing (see [0.4.44.2](/DCRMR/general-rules/Transcription/#0.4.44.2)).
 
 >Example:    
 >Title proper: <CITE>Newhampshire & Vermont almanac</CITE>  
@@ -90,23 +92,24 @@ sidebar:
 
 ### 1.25.3545 Title proper with an interpolated blank (required)
 
-<a name="1.25.3545.1">1.25.3545.1</a> If a blank space intended to be filled in manuscript has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) as the word “blank” enclosed in square brackets, provide additional title access for the form of Title proper without the interpolated blank (see [0.4.64.3](/DCRMR/general-rules/Transcription/#0.4.64.3)).
+<a name="1.25.3545.1">1.25.3545.1</a> If a blank space intended to be completed in manuscript has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) as the word “blank” enclosed in square brackets, provide additional title access for the form of Title proper without the interpolated blank (see [0.4.64.3](/DCRMR/general-rules/Transcription/#0.4.64.3)).
 
 >Example:  
 >Title proper: <CITE>This certifies that [blank] by a contribution of [blank] is a member for life of the American Tract Society</CITE>  
 >Variant title of manifestation: <CITE>This certifies that by a contribution of is a member for life of the American Tract Society</CITE>
 
-### 1.25.355 Title proper with corrected misprint (required)
+### 1.25.355 Title proper with corrected misprint or misspelling (required)
 
-<a name="1.25.355.1">1.25.355.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains a misprint that has been corrected in the transcription through the insertion of **[that is, ...]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been printed correctly (see [0.4.72.2](/DCRMR/general-rules/Transcription/#0.4.72.2)).
+<a name="1.25.355.1">1.25.355.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains a misprint or error that has been corrected in the transcription through the insertion of "that is" and the correction, all enclosed in square brackets, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) as it appears in the source, without the correction. In addition, provide title access for the form of title as if it had been rendered correctly (see [0.4.72.2](/DCRMR/general-rules/Transcription/#0.4.72.2)).
 
 >Example:    
 >Title proper: <CITE>The notted [that is, noted] history of Mother Grim</CITE>  
 >Variant title of manifestation (without interpolation): <CITE>Notted history of Mother Grim</CITE>  
 >Variant title of manifestation (with correct spelling): <CITE>Noted history of Mother Grim</CITE>  
->(*Source of information reads*: The notted history of Mother Grim)
+>(*Source of information reads*: The notted history of Mother Grim)  
+>(*Comment*: Example disregards initial articles as required by filing rules)
 
-<a name="1.25.355.2">1.25.355.2</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains a misprint that has been qualified in the transcription by the insertion of **[sic]**, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) without the **[sic]**. In addition, provide title access for the form of title as if it had been printed correctly (see [0.4.72.4](/DCRMR/general-rules/Transcription/#0.4.72.4)).
+<a name="1.25.355.2">1.25.355.2</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains a misprint or error that has been qualified in the transcription by the insertion of "[sic]", provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) without the "[sic]". In addition, provide title access for the form of title as if it had been rendered correctly (see [0.4.72.4](/DCRMR/general-rules/Transcription/#0.4.72.4)).
 
 >Example:    
 >Title proper: <CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>  
@@ -116,20 +119,33 @@ sidebar:
 
 ### 1.25.3555 Title proper with non-standard orthography (optional)
 
-<a name="1.25.3555.1">1.25.3555.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [0.4.72.4](/DCRMR/general-rules/Transcription/#0.4.72.4)).
+<a name="1.25.3555.1">1.25.3555.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [0.4.72.3](/DCRMR/general-rules/Transcription/#0.4.72.3)).
+
+>Example:  
+>Title proper: <CITE>Die Weysse der Messz vnnd Geniessung des hochwirdige[n] Sacraments</CITE>  
+>Variant title of manifestation: <CITE>Weise der Messe und Geniessung des hochwürdigen Sacraments</CITE>  
+>(*Comment*: Example disregards initial articles as required by filing rules)
 
 ### 1.25.356 Title proper with approximated letters (required)
 
-<a name="1.25.356.1">1.25.356.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article) contains two letters used to approximate a third letter, provide additional title access for the form of Title proper with the letters transcribed as set (see [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)).
+<a name="1.25.356.1">1.25.356.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains two letters used to approximate a third letter, provide additional title access for the form of Title proper with the letters transcribed as set (see [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)).
 
 >Example:    
 >Title proper: <CITE>Die Weysse der Messz vnnd Geniessung des hochwirdige[n] Sacraments</CITE>  
 >Variant title of manifestation: <CITE>Rveysse der Messz vnnd Geniessung des hochwirdigen Sacraments</CITE>  
->(*Source of information reads*: Die rveysse der Messz vnnd Geniessung des hochwirdigē Sacraments)
+>(*Source of information reads*: Die rveysse der Messz vnnd Geniessung des hochwirdigē Sacraments)  
+>(*Comment*: Example disregards initial articles as required by filing rules) 
 
-### 1.25.3565 Title proper with special marks of contraction (optional)
+>Example:  
+>Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
+>Variant title of manifestation: <CITE>Lavves resolutions of vvomens rights, or, The lavves provision for woemen</CITE>  
+>(*Source of information reads*: THE LAVVES RESOLVTIONS OF VVOMENS RIGHTS: or, THE LAVVES PROVISION for woemen  
+>(*Comment*: Example disregards initial articles as required by filing rules. The pattern of usage in the rest of the text shows that a lowercase u signifies a vowel and a lowercase v signifies a consonant regardless of the position in the word, even though only V is used for capital letters)
 
-<a name="1.25.3565.1">1.25.3565.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains a cataloger’s expansions of special marks of contraction, provide additional title access for the title as it appears in the manifestation, ignoring the marks of contraction. In addition, provide title access for the transcribed form of the [Title proper](/DCRMR/title/Title-proper), but without the square brackets (see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs) and [0.4.82.2](/DCRMR/general-rules/Transcription/#0.4.82.2)).
+
+### 1.25.3565 Title proper with brevigraphs (required)
+
+<a name="1.25.3565.1">1.25.3565.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains a cataloger’s expansions of brevigraphs (special marks of contraction in continuance of manuscript tradition), provide additional title access for the title as it appears in the manifestation, ignoring the marks of contraction. In addition, provide title access for the transcribed form of the [Title proper](/DCRMR/title/Title-proper), but without the square brackets (see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs).
 
 >Example:  
 >Title proper: <CITE>Sermones Bertra[n]di de tempore et de sanctis</CITE>  
@@ -138,11 +154,26 @@ sidebar:
 
 ### 1.25.357 Title proper with preceding elements (optional)
 
-<a name="1.25.357.1">1.25.357.1</a> If an element appearing before the [Title proper](/DCRMR/title/Title-proper) has been transposed, provide additional title access for the element or for the title inclusive of the preceding element. If the preceding element has not been transposed, so that the [Title proper](/DCRMR/title/Title-proper) includes it, provide additional title access for the title without the preceding element (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1) and [0.4.94](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="1.25.357.1">1.25.357.1</a> If an element appearing before the [Title proper](/DCRMR/title/Title-proper) has been transposed, provide additional title access for the element or for the title inclusive of the preceding element. If the preceding element is grammatically inseparable, and has therefore not been transposed, provide additional title access for the title without the preceding element (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1) and [0.4.94](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+
+>Example:  
+>Title proper: <CITE>Thoughts concerning banks and the paper-currency of Scotland</CITE>  
+>Variant title of manifestation: <CITE>November 1763, thoughts concerning banks and the paper-currency of Scotland</CITE>  
+(*Source of information reads*: November 1763. Thoughts concerning banks and the paper-currency of Scotland)
+
+>Example:  
+>Title proper: <CITE>Monsieur Bossu’s treatise of the epicke poem</CITE>  
+>Variant title of manifestation: <CITE>Treatise of the epicke poem</CITE>
+
 
 ### 1.25.3575 Title proper inclusive of an alternative title (optional)
 
 <a name="1.25.3575.1">1.25.3575.1</a> Provide additional title access for an alternative title (see [1.21.32.3](/DCRMR/title/Title-proper/#1.21.32.3)).
+
+>Example:  
+>Title proper: <CITE>The British carpenter, or, A treatise on carpentry</CITE>  
+>Variant title of manifestation: <CITE>Treatise on carpentry</CITE>  
+>(*Comment*: Example disregards initial articles as required by filing rules)
 
 ### 1.25.358 Title proper with supplementary or section title (optional)
 
@@ -150,7 +181,11 @@ sidebar:
 
 ### 1.25.3583 Title proper with numbers expressed as numerals or words (optional)
 
-<a name="1.25.3583.1">1.25.3583.1</a> If a number expressed as numerals or words occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper) (the first six words if the title begins with an article), provide additional title access with the numbers converted to numerals or words (see [0.4.88.1](/DCRMR/general-rules/Transcription/#0.4.88.1)).
+<a name="1.25.3583.1">1.25.3583.1</a> If a number expressed as numerals or words occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words), provide additional title access with the numbers converted to numerals or words, as appropriate (see [0.4.88.1](/DCRMR/general-rules/Transcription/#0.4.88.1)).
+
+>Example:  
+>Title proper: <CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>  
+>Variant title of manifestation: <CITE>52 sermons for every Sunday of the year MDCCXXVII</CITE>  
 
 ### 1.25.3585 Phrases about notes, appendices, etc. (optional)
 
@@ -162,16 +197,12 @@ sidebar:
 
 ### 1.25.3593 Variant and other titles within the manifestation (optional)
 
-<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations comprised of more than one physical unit, and significant other title information (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
+<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations composed of more than one physical unit, and significant other title information (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
 
 >Example:  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  
 >Variant title of manifestation: <CITE>Scriptorum ecclesiasticorum historia literaria facili & perspicua methodo digesta</CITE>  
->(*Comment*: Additional access point provided for title of the second volume, which varies slightly from the [Title proper](/DCRMR/title/Title-proper) recorded from the first volume)
-
-### 1.25.3595 Variant titles of a collection (optional)
-
-<a name="1.25.3595.1">1.25.3595.1</a> Record variant titles by which a collection may be known if they differ substantially from the [Title proper](/DCRMR/title/Title-proper) and provide useful access points. If most or all of the items in the collection have the same title information and it is considered important, make an added access point for the title.
+>(*Comment*: Additional title access provided for title of the second volume, which varies slightly from the [Title proper](/DCRMR/title/Title-proper) recorded from the first volume)
 
 ---
 
