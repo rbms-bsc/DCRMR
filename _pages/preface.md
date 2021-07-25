@@ -24,7 +24,7 @@ Elizabeth Hobart, Special Collections Cataloging Librarian, Pennsylvania State U
 
 # Editorial Group Members
 
-Liz Adams, Rare Materials Cataloger, David M. Rubenstein Rare Book & Manuscript Library, Duke Universit
+Liz Adams, Rare Materials Cataloger, David M. Rubenstein Rare Book & Manuscript Library, Duke University
 
 Amy Brown, Head of Metadata and Special Collections Technical Services, Boston College
 
