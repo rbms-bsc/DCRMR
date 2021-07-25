@@ -40,7 +40,7 @@ sidebar:
 
 For transposed elements, provide additional title access for the Title proper if considered important (see [Variant title of manifestation, 1.25.357.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.357.1)).
 
-<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Always make a note on the source of the title proper if it is from a title page substitute (see [Data provenance, 0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1) and [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
+<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Always make a note on the source of the Title proper if it is from a title page substitute (see [Data provenance, 0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1) and [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >Example:  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  
@@ -88,7 +88,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 
 ## 1.21.34 No title
 
-<a name="1.21.34.1">1.21.34.1</a> If no title can be found within the resource, supply a title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1). If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency,and use this supplied or devised title, enclosed in square brackets, as the Title proper. Always make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
+<a name="1.21.34.1">1.21.34.1</a> If no title can be found within the resource, supply a title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1). If no title can be found in any source, use as the title proper the opening words of the text if these provide a reasonably distinctive title. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, and use this supplied or devised title, enclosed in square brackets, as the Title proper. Always make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the Title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
 
 >Example:  
 >Title proper: <CITE>Ye true-born Englishmen proceed, our trifling crimes detect</CITE>  

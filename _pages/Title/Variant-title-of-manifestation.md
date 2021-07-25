@@ -92,7 +92,7 @@ sidebar:
 
 ### 1.25.3545 Title proper with an interpolated blank (required)
 
-<a name="1.25.3545.1">1.25.3545.1</a> If a blank space intended to be completed in manuscript has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) as the word “blank” enclosed in square brackets, provide additional title access for the form of Title proper without the interpolated blank (see [0.4.64.3](/DCRMR/general-rules/Transcription/#0.4.64.3)).
+<a name="1.25.3545.1">1.25.3545.1</a> If a blank space intended to be completed in manuscript has been transcribed within the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) as the word “blank” enclosed in square brackets, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) without the interpolated blank (see [0.4.64.3](/DCRMR/general-rules/Transcription/#0.4.64.3)).
 
 >Example:  
 >Title proper: <CITE>This certifies that [blank] by a contribution of [blank] is a member for life of the American Tract Society</CITE>  
@@ -128,7 +128,7 @@ sidebar:
 
 ### 1.25.356 Title proper with approximated letters (required)
 
-<a name="1.25.356.1">1.25.356.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains two letters used to approximate a third letter, provide additional title access for the form of Title proper with the letters transcribed as set (see [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)).
+<a name="1.25.356.1">1.25.356.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains two letters used to approximate a third letter, provide additional title access for the form of [Title proper](/DCRMR/title/Title-proper) with the letters transcribed as set (see [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)).
 
 >Example:    
 >Title proper: <CITE>Die Weysse der Messz vnnd Geniessung des hochwirdige[n] Sacraments</CITE>  
@@ -140,12 +140,12 @@ sidebar:
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
 >Variant title of manifestation: <CITE>Lavves resolutions of vvomens rights, or, The lavves provision for woemen</CITE>  
 >(*Source of information reads*: THE LAVVES RESOLVTIONS OF VVOMENS RIGHTS: or, THE LAVVES PROVISION for woemen  
->(*Comment*: Example disregards initial articles as required by filing rules. The pattern of usage in the rest of the text shows that a lowercase u signifies a vowel and a lowercase v signifies a consonant regardless of the position in the word, even though only V is used for capital letters)
+>(*Comment*: Example disregards initial articles as required by filing rules)
 
 
 ### 1.25.3565 Title proper with brevigraphs (required)
 
-<a name="1.25.3565.1">1.25.3565.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains a cataloger’s expansions of brevigraphs (special marks of contraction in continuance of manuscript tradition), provide additional title access for the title as it appears in the manifestation, ignoring the marks of contraction. In addition, provide title access for the transcribed form of the [Title proper](/DCRMR/title/Title-proper), but without the square brackets (see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs).
+<a name="1.25.3565.1">1.25.3565.1</a> If the [Title proper](/DCRMR/title/Title-proper) contains a cataloger’s expansions of brevigraphs (special marks of contraction in continuance of manuscript tradition), provide additional title access for the title as it appears in the manifestation, ignoring the marks of contraction. In addition, provide title access for the transcribed form of the [Title proper](/DCRMR/title/Title-proper), but without the square brackets (see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs)).
 
 >Example:  
 >Title proper: <CITE>Sermones Bertra[n]di de tempore et de sanctis</CITE>  

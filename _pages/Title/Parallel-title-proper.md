@@ -52,7 +52,7 @@ sidebar:
 
 ## 1.215.33 Title access for parallel titles proper
 
-<a name="1.215.33.1">1.215.33.1</a> Title access plays an important role in enabling users to identify and locate special collections materials.  *Optionally*, provide title access for parallel titles proper (see [Title of manifestation, 1.2.32](/DCRMR/title/Title-of-manifestation/#1232-title-access-points)).
+<a name="1.215.33.1">1.215.33.1</a> Title access plays an important role in enabling users to identify and locate special collections materials.  *Optionally*, provide title access for parallel titles proper (see [Title of manifestation, 1.2.32](/DCRMR/title/Title-of-manifestation/#1232-title-access)).
 
 ---
 

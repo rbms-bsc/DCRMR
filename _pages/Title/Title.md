@@ -11,7 +11,7 @@ sidebar:
 
 ## 1.01.1 Sources of information
 
-<a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
+<a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
 
 ## 1.01.2 Element order
 
@@ -40,8 +40,6 @@ sidebar:
 > Title 1. Title 2. Title 3
 
 > Title 1 : other title information ; Title 2 : other title information / statement of responsibility
-
-<a name="1.01.2.6">1.01.2.6</a> If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
 ## 1.01.3 Form and order of information
 
