@@ -28,12 +28,29 @@ sidebar:
 <a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper) for the transcription of such statements.
 
 >Example:  
-><CITE>with notes of various authors by Thomas Newton</CITE>
+><CITE>containing the recent additions to science by Charles V. Walker</CITE>  
 
 <a name="3.23.3.2">3.23.3.2</a> Do not, however, apply this provision to such statements that do not name or otherwise identify a person or corporate body.
 
+[alt NOTE: EXAMPLE FORMATTING OPTION 1]
+
 >Example:  
->Designation of edition: <CITE>The second edition revised and corrected</CITE>
+><CITE>Designation of edition: The last edition corrected and amended</CITE>  
+
+not
+
+>Designation of edition: <CITE>The last edition</CITE>  
+>Statement of responsibility relating to edition: <CITE>corrected and amended</CITE>
+
+[alt NOTE: EXAMPLE FORMATTING OPTION 2]
+
+>Example:  
+><CITE>Designation of edition: The last edition corrected and amended</CITE>    
+>  
+>not  
+>  
+>Designation of edition: <CITE>The last edition</CITE>  
+>Statement of responsibility relating to edition: <CITE>corrected and amended</CITE>
 
 <a name="3.23.3.3">3.23.3.3</a> In determining the extent of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the beginning of the statement of responsibility relating to edition, it may be necessary to take into account the layout, punctuation, and typography of the preferred source of information as well as the sense of the text. Such words as "Revised and enlarged," when appearing with the name of a person or body, might be transcribed either as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) or as part of the statement of responsibility relating to edition, depending on their presentation on the preferred source of information.
 
@@ -42,26 +59,24 @@ sidebar:
 <a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transpose it to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) in all cases except when it clearly applies only to the edition being cataloged. Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 >Example:  
-><CITE> An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. -- The second edition, considerably enlarged, and illustrated with plates</CITE>  
->Note on statement of responsibility: <CITE>The statement "by John Whitehurst" appears on the title page after the edition statement</CITE>  
->(*Comment*: Statement of responsibility applies to all editions)  
->(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/
-); and [Designation of edition](/DCRMR/edition/Designation-of-edition/). The example is formatted according to ISBD for clarity)
+><CITE>An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. – The second edition, considerably enlarged, and illustrated with plates</CITE>  
+>Note on statement of responsibility: <CITE>The statement “by John Whitehurst” appears on the title page after the edition statement</CITE>  
+>(*Comment*: Statement of responsibility applies to all editions. Information is transcribed in five elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper); [Designation of edition](/DCRMR/edition/); and [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/). The example is formatted according to ISBD for clarity)
 
 ## 3.23.32 Phrases about notes, appendices, etc.
 
 <a name="3.23.32.1">3.23.32.1</a> If there are phrases about notes, appendices, and other supplementary matter and they apply to the edition in hand but not necessarily to all editions of the work, transcribe them as statements of responsibility relating to the edition only in the case when the phrase names or otherwise identifies a person or corporate body and appears in the same source as the [Designation of edition](/DCRMR/edition/Designation-of-edition/).
 
 >Example:  
-><CITE>Editio altera, ab innumeris erroribus emendata / huic editioni accessere Jacobi Bongarsii excerptiones chronologicae ad Justini historias accommodatae</CITE>
+><CITE>to which is added, a sermon intitled, The care of the soul urged as the one thing needful by the same author</CITE>
 
 >Example:  
-> <CITE>Corregida y emendada en esta segunda impression / por el padre Iuan de Salas de la Compañia de Iesus, con indices y sumarios copiosissimos de nueuo corregidos</CITE>
+> <CITE>to which is added, A treatise on confirmation, by Mr. Adams</CITE>
 
 <a name="3.23.32.2">3.23.32.2</a> If the phrase does not name a person or corporate body, transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) or as part of the first statement of responsibility relating to edition, as appropriate. 
 
 >Example:  
->Designation of edition: <CITE>The fourth edition, corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>
+>Designation of edition: <CITE>The sixth edition, with an appendix, and other enlargements</CITE>
 
 >Example:  
 > Designation of edition: <CITE>A new edition </CITE>  

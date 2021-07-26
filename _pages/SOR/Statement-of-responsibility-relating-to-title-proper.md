@@ -55,7 +55,7 @@ sidebar:
 >Example:  
 ><CITE>Prudence Palfrey / Thomas Bailey Aldrich</CITE>  
 ><CITE>Note on statement of responsibility</CITE>: Author’s name printed at head of title on title page  
->(Comment: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 ## 2.21.33 Single statements of responsibility relating to title proper with two or more names
 
@@ -88,7 +88,7 @@ sidebar:
 
 >Example:  
 ><CITE>di mons. Paolo Giouio vescouo di Nocera ; tradotte per M. Lodouico Domenichi</CITE>  
->(Comment: Example formatted with ISBD punctuation for clarity)  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 ## 2.21.35 Terms of address, etc., in statements of responsibility relating to title proper
 
@@ -117,7 +117,7 @@ sidebar:
 >Example:  
 >Statement of responsibility relating to title proper: <CITE>by A- M-l Esq. and other eminent wits</CITE>  
 >Note on statement of responsibility: <CITE>A- M-l is Andrew Marvell. See English short title catalogue</CITE>  
->(Comment: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))  
+>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))  
 
 ## 2.21.37 Nouns and noun phrases
 
@@ -125,17 +125,17 @@ sidebar:
 
 >Example:  
 ><CITE>Telemachus : a mask / by the Rev. George Graham, M.A., fellow of King's-College, Cambridge</CITE>  
->(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 >Example:  
 ><CITE>Italian pictures : drawn with pen and pencil / by the Rev. Samuel Manning, LL.D.</CITE>  
->(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.21.37.2">2.21.37.2</a> If a noun or noun phrase occurring in conjunction with a statement of responsibility relating to title proper is indicative of the role of the person(s) or body (bodies) named in the statement of responsibility relating to title proper rather than of the nature of the work, treat it as part of the statement of responsibility relating to title proper.
 
 >Example:  
 >The chances : a comedy / written by Beaumont and Fletcher  
->(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.21.37.3">2.21.37.3</a> In case of doubt, treat the noun or noun phrase as part of the statement of responsibility relating to title proper.
 
@@ -159,7 +159,7 @@ sidebar:
 
 >Example:  
 ><CITE>by Sir Robert Barker, Knt. F.R.S. ; read at the Royal Society, May 29, 1777</CITE>  
->(Comment: Example formatted with ISBD punctuation for clarity)  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 <a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other expressions given equal prominence with the title of the first expression, treat as two or more expressions named on the preferred source of information (see [Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 

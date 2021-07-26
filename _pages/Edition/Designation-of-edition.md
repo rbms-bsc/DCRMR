@@ -27,6 +27,12 @@ sidebar:
 
 <a name="3.22.3.1">3.22.3.1</a> Transcribe a statement relating to an edition or issue of a resource as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). Include any explanatory words or phrases appearing with the designation of edition.
 
+>Example:  
+><CITE>Editio prima Americana</CITE>  
+
+>Example:  
+><CITE>First Worcester edition</CITE>  
+
 ## 3.22.31 Words considered part of the designation of edition
 
 <a name="3.22.31.1">3.22.31.1</a> Designations of edition normally include either the word “edition” (or its equivalent in other languages), or a related term such as “revision” or “issue.” 
@@ -45,14 +51,13 @@ part of a statement being transcribed in the production, publication, distributi
 
 If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)), see alternative rule at [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2).
 
-
 >Example:  
 ><CITE>The second impression</CITE>  
 >(*Comment*: Manifestation is from the hand-press era)
 
 >Example:  
 >Note on item: <CITE>Third impression of first edition</CITE>  
->(*Comment*: Manifestation is from the machine-press era; record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important)
+>(*Comment*: manifestation is from the machine-press era and requires no Designation of edition statement; record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important)
 
 ## 3.22.33 Statements relating to a substantially unchanged impression or state
 
@@ -89,22 +94,16 @@ If a decision has been made to create a separate description for an individual i
 omit it from the transcription without using the mark of omission.  Record such statements as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.31.1](/DCRMR/additional-notes/Note-on-item/#9.4.31.1)).
 
 >Example:  
->Note on item: <CITE>Library's copy: "Fifth ten thousand"</CITE>
+>Note on item: <CITE>Library copy: “51st-100th”--title page verso</CITE>
+
+>Example:  
+>Note on item: <CITE>Library copy: “163-173 Tausend"</CITE>
+
+>Example:  
+>Note on item: <CITE>Library copy: Number line on title page verso indicates 3rd printing: "10 9 8 7 6 5 4 3"</CITE>
  
 >Example:  
->Note on item: <CITE>Library's copy: Number "2" on t.p. indicates 2nd printing</CITE>
-
->Example:  
->Note on item: <CITE>Library's copy: "51st-100th"--T.p. verso</CITE>
-
->Example:  
->Note on item: <CITE>Library's copy: "163-173 Tausend"</CITE>
-
->Example:  
->Note on item: <CITE>Library's copy: Number line on title page verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"</CITE>
- 
->Example:  
->Optional note on item: <CITE>Library's copy: Publisher's code "B-O" on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>  
+>Note on item: <CITE>Library copy: Publisher’s code “B-O” on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>  
 
 <a name="3.22.35.4">3.22.35.4</a> **Alternative rule**. If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or item within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)) and the manifestation lacks an edition statement, transcribe statements such as the following as a designation of edition, even if they represent a substantially unchanged impression of that edition: a statement consisting entirely or chiefly of characters that are neither numeric nor alphabetic; a statement consisting of one or more letters or numbers without accompanying words; or a statement consisting only of words that convey numbers. 
 
@@ -119,7 +118,7 @@ appropriate statement in square brackets, as needed. Indicate the basis for the 
 
 >Example:  
 >Designation of edition: <CITE>[1st printing]</CITE>  
->Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>
+>Note on edition statement: <CITE> Number line on title page verso indicates 1st printing: “10 9 8 7 6 5 4 3 2 1”</CITE>  
 
 ## 3.22.36 Designations of edition in more than one language or script
 
