@@ -11,7 +11,7 @@ sidebar:
 
 ## 2.01.1 Sources of information
 
-<a name="2.01.1.1">2.01.1.1</a> The preferred source of information for the statement of responsibility is the title page(s). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, recto and verso (see [Data provenance, 0.1](/DCRMR/general-rules/Data-provenance/)).
+<a name="2.01.1.1">2.01.1.1</a> The source of information for the statement of responsibility is the title page(s) ([Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides (see [Data provenance, 0.1](/DCRMR/general-rules/Data-provenance/)).
 
 ## 2.01.2 Element order
 
@@ -19,9 +19,9 @@ sidebar:
 
 ## 2.01.3 Form and order of information
 
-<a name="2.01.3.1">2.01.3.1</a> Transcribe [Title](/DCRMR/title/) and statement of responsibility information in the form and order in which it is presented on the preferred source of information, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="2.01.3.1">2.01.3.1</a> Transcribe [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and Statement of responsibility information in the form and order in which they are presented on the preferred source of information, unless specificially instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
-<a name="2.01.3.2">2.01.3.2</a> Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page of transposed elements (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="2.01.3.2">2.01.3.2</a> For transposed elements, always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 ## Contents:
 {: .no_toc }

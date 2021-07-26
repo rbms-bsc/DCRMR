@@ -27,7 +27,7 @@ sidebar:
 
 ## 2.21.31 Statements of responsibility on the preferred source of information
 
-<a name="2.21.31.1">2.21.31.1</a> Transcribe statements of responsibility relating to title proper found on the preferred source of information in the form and order in which they appear, unless instructed otherwise by specific instructions. See [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="2.21.31.1">2.21.31.1</a> Transcribe Statements of responsibility relating to title proper found in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise by specific instructions (see [Transcription, 0.4.94.04](/DCRMR/general-rules/Transcription/#0.4.94.04)).
 
 >Example:  
 ><CITE>by Charles Fearne, Esq. barrister at law, of the Inner Temple, author of  The legigraphical chart of landed property</CITE>
@@ -46,25 +46,28 @@ sidebar:
 
 ## 2.21.315 Statements of responsibility relating to title proper on other sources
 
-<a name="2.21.315.1">2.21.315.1</a> If a statement of responsibility relating to title proper appears elsewhere in the manifestation than on the preferred source of information, or is taken from outside the manifestation, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
+<a name="2.21.315.1">2.21.315.1</a> If a statement of responsibility relating to title proper appears elsewhere in the manifestation than on the title page or is taken from outside the manifestation, do not record it in this element. Instead, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
 
->Example:  
-><CITE>Preface signed: Thomas Hopkins</CITE>  
- 
 ## 2.21.32 Transposition of statements of responsibility relating to title proper
 
-<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility relating to title proper precedes the [Title proper](/DCRMR/title/Title-proper/) in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility relating to title proper, do not use the mark of omission. Make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.01.3.2](/DCRMR/sor/#2.01.3.2) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+<a name="2.21.32.1">2.21.32.1</a> If a statement of responsibility relating to title proper precedes the [Title proper](/DCRMR/title/Title-proper/) in the source of information, transpose it to its required position unless it is a grammatically inseparable part of the [Title proper](/DCRMR/title/Title-proper/) according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing the statement of responsibility relating to title proper, do not use the mark of omission. Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) indicating the transposition (see [2.01.3.2](/DCRMR/sor/#2.01.3.2) and [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+
+>Example:  
+><CITE>Prudence Palfrey / Thomas Bailey Aldrich</CITE>  
+><CITE>Note on statement of responsibility</CITE>: Author’s name printed at head of title on title page  
+>(Comment: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 ## 2.21.33 Single statements of responsibility relating to title proper with two or more names
 
 <a name="2.21.33.1">2.21.33.1</a> Transcribe a single statement of responsibility relating to title proper as such whether the two or more persons or corporate bodies named in it perform the same function or different functions.
 
+>Example:  
+><CITE>by William Whiston, M.A. sometime professor of the mathematicks in the University of Cambridg [sic] and Humphry Ditton, late master of the new mathematick school in Christ's Hospital, London</CITE>  
+
 <a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single statement of responsibility relating to title proper (unless grammatically inseparable from the [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) or [Other title information, 1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)).
 
 >Example:  
 ><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt</CITE>
-
-## 2.21.335 Omission of names in statements of responsibility relating to title proper
 
 <a name="2.21.335.1">2.21.335.1</a> When a single statement of responsibility relating to title proper names more than one person or corporate body performing the same function or with the same degree of responsibility, transcribe all the names mentioned. 
 
@@ -74,7 +77,7 @@ sidebar:
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni, L.D. Crespi, M. Dudovich, L. Dudreville, A. Mazza, E. Sacchetti, S. Tofano (Sto), R.C. Ventura</CITE>  
 
-<a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively, all after the third may be omitted.  In such cases, after the third person or body, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Do not use a mark of omission.
+<a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted persons or bodies in the supplied phrase. Do not use the mark of omission.
 
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni [and 7 others]</CITE>  
@@ -84,17 +87,18 @@ sidebar:
 <a name="2.21.34.1">2.21.34.1</a> If there are two or more statements of responsibility relating to title proper, transcribe them in the order indicated by their sequence on, or by the layout of, the title page. If the sequence and layout are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
 
 >Example:  
-><CITE>diligentemente hecho por el noble Rey Don Alonso IX. ; glossado por el egregio doctor Alonso Diaz de Montaluo ; assi mesmo por vn sabio doctor de la Vniuersidad de Salamanca ; addicionado y concordado con las siete partidas, y leyes del Reyno, dando a cada ley la addicion que conuenia</CITE> 
+><CITE>di mons. Paolo Giouio vescouo di Nocera ; tradotte per M. Lodouico Domenichi</CITE>  
+>(Comment: Example formatted with ISBD punctuation for clarity)  
 
 ## 2.21.35 Terms of address, etc., in statements of responsibility relating to title proper
 
-<a name="2.21.35.1">2.21.35.1</a> Include titles and abbreviations of titles of nobility, address, honor, and distinction that appear with names in statements of responsibility relating to title proper.
+<a name="2.21.35.1">2.21.35.1</a> Transcribe titles and abbreviations of titles of nobility, address, honor, and distinction that appear with names in statements of responsibility relating to title proper.
 
 >Example:  
-><CITE>by John Dryden, servant to His Majesty</CITE>
+><CITE>by the Rt. Hon. Sir Jeffrey Gilbert, Knt.</CITE>
 
 >Example:  
-><CITE>By the reverend and pious Mr. Richard Baxter</CITE>
+><CITE>by John Boyle, Earl of Orrery</CITE>
 
 ## 2.21.355 Qualifications in statements of responsibility relating to title proper
 
@@ -110,11 +114,28 @@ sidebar:
 
 <a name="2.21.365.1">2.21.365.1</a> If considered important, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) on variant forms of names of persons or bodies named in statement of responsibility relating to title proper if the variant forms clarify the names used in access points (see [2.29.35.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.35.1)).
 
+>Example:  
+>Statement of responsibility relating to title proper: <CITE>by A- M-l Esq. and other eminent wits</CITE>  
+>Note on statement of responsibility: <CITE>A- M-l is Andrew Marvell. See English short title catalogue</CITE>  
+>(Comment: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))  
+
 ## 2.21.37 Nouns and noun phrases
 
 <a name="2.21.37.1">2.21.37.1</a> Treat a noun or noun phrase occurring in conjunction with a statement of responsibility relating to title proper as [Other title information](/DCRMR/title/Other-title-information/) if it is indicative of the nature of the work.
 
+>Example:  
+><CITE>Telemachus : a mask / by the Rev. George Graham, M.A., fellow of King's-College, Cambridge</CITE>  
+>(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+
+>Example:  
+><CITE>Italian pictures : drawn with pen and pencil / by the Rev. Samuel Manning, LL.D.</CITE>  
+>(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+
 <a name="2.21.37.2">2.21.37.2</a> If a noun or noun phrase occurring in conjunction with a statement of responsibility relating to title proper is indicative of the role of the person(s) or body (bodies) named in the statement of responsibility relating to title proper rather than of the nature of the work, treat it as part of the statement of responsibility relating to title proper.
+
+>Example:  
+>The chances : a comedy / written by Beaumont and Fletcher  
+>(Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.21.37.3">2.21.37.3</a> In case of doubt, treat the noun or noun phrase as part of the statement of responsibility relating to title proper.
 
@@ -130,14 +151,15 @@ sidebar:
 
 <a name="2.21.38.1">2.21.38.1</a> If a statement of responsibility relating to title proper includes information belonging to another element, and the information is grammatically inseparable from the statement of responsibility relating to title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)), transcribe it as part of the statement of responsibility relating to title proper.
 
-<a name="2.21.38.2">2.21.38.2</a> If a statement with grammatically inseparable elements contains information relating both to the publication, distribution, or manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the [Publication statement](/DCRMR/ppdm/Publication-statement/), [Distribution statement](/DCRMR/ppdm/Distribution-statement/), or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) or as a statement of responsibility relating to title proper (see [5.2.34.4](/DCRMR/ppdm/Publication-statement/#5.2.34.4), [5.25.34.4](/DCRMR/ppdm/Distribution-statement/#5.25.34.4), [5.29.34.4](/DCRMR/ppdm/Manufacture-statement/#5.29.34.4)). Often the layout of the source will suggest the appropriate treatment.
+<a name="2.21.38.2">2.21.38.2</a> If a statement with grammatically inseparable elements contains information relating both to the publication, distribution, or manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the [Publication statement](/DCRMR/ppdm/Publication-statement/), [Distribution statement](/DCRMR/ppdm/Distribution-statement/), or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) or as a statement of responsibility relating to title proper (see [5.2.34.4](/DCRMR/ppdm/Publication-statement/#5.2.34.4), [5.25.34.4](/DCRMR/ppdm/Distribution-statement/#5.25.34.4), [5.29.34.4](/DCRMR/ppdm/Manufacture-statement/#5.29.34.4)). Use sequence and layout of the title page as a guide to appropriate treatment.
 
 ## 2.21.385 Other title information appearing after statements of responsibility relating to title proper
 
 <a name="2.21.385.1">2.21.385.1</a> If other title information appears after a statement of responsibility relating to title proper, transcribe it as a subsequent statement of responsibility relating to title proper.
 
 >Example:  
-><CITE>by Sir William Dugdale knt. Garter Principal King of Arms ; to which is added, a catalogue of the present nobility of Scotland and Ireland, &c.</CITE>
+><CITE>by Sir Robert Barker, Knt. F.R.S. ; read at the Royal Society, May 29, 1777</CITE>  
+>(Comment: Example formatted with ISBD punctuation for clarity)  
 
 <a name="2.21.385.2">2.21.385.2</a> *Optionally*, if the phrases are very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If the phrases are actually titles of other expressions given equal prominence with the title of the first expression, treat as two or more expressions named on the preferred source of information (see [Title proper, 1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)).
 
