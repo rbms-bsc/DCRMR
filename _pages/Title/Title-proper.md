@@ -126,7 +126,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ### 1.21.371 Two or more expressions named on the preferred source of information
 
-<a name="1.21.371.1">1.21.371.1</a> If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title)), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. See [Element order (1.01.2.5)](/DCRMR/title/#1.01.2.5)) for guidance on recording. If using ISBD punctuation, see [Prescribed punctuation (0.2.1.2)](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2) for guidance.
+<a name="1.21.371.1">1.21.371.1</a> If a manifestation has no collective title and the preferred source of information bears the titles of two or more individual expressions, other than supplementary matter (see [1.21.35](/DCRMR/title/Title-proper/#12135-title-proper-with-supplementary-or-section-designation-or-title)), that are contained in the manifestation, transcribe the titles of the individual expressions in the order in which they appear on the preferred source of information. See [Element order (1.01.2.5)](/DCRMR/title/#1.01.2.5) for guidance on recording. If using ISBD punctuation, see [Prescribed punctuation (0.2.1.2)](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2) for guidance.
 
 >Example:  
 ><CITE>Laurentij Vallae elegantiarum Latinae linguae libri sex ; eiusdem De
@@ -146,7 +146,7 @@ b) Make a separate description for each separately titled expression, linking th
 
 c) Supply a collective title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1).
 
-d) Devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the title proper
+d) Devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper
 
 >Example:  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
