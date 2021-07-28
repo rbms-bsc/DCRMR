@@ -32,22 +32,10 @@ sidebar:
 
 <a name="3.23.3.2">3.23.3.2</a> Do not, however, apply this provision to such statements that do not name or otherwise identify a person or corporate body.
 
-[alt NOTE: EXAMPLE FORMATTING OPTION 1]
-
->Example:  
-><CITE>Designation of edition: The last edition corrected and amended</CITE>  
-
-not
-
->Designation of edition: <CITE>The last edition</CITE>  
->Statement of responsibility relating to edition: <CITE>corrected and amended</CITE>
-
-[alt NOTE: EXAMPLE FORMATTING OPTION 2]
-
 >Example:  
 ><CITE>Designation of edition: The last edition corrected and amended</CITE>    
 >  
->not  
+>*not*  
 >  
 >Designation of edition: <CITE>The last edition</CITE>  
 >Statement of responsibility relating to edition: <CITE>corrected and amended</CITE>
