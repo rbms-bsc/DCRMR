@@ -32,10 +32,12 @@ sidebar:
 <a name="3.235.3.3">3.235.3.3</a> Transcribe the remaining statement(s) as parallel statement(s) of responsibility relating to edition.
 
 >Example:  
-><CITE>Deuxième édition / rédigé par Alexandre Choron = Second edition / edited by Alexandre Choron</CITE>
+>Edition statement: <CITE>Deuxième édition / rédigé par Alexandre Choron = Second edition / edited by Alexandre Choron</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>
+>Edition statement: <CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="3.235.3.4">3.235.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 

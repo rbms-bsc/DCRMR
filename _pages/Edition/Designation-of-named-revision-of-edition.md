@@ -27,14 +27,13 @@ sidebar:
 
 <a name="3.24.31.1">3.24.31.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.22.3.1](/DCRMR/edition/Designation-of-edition/#3.22.3.1)).
 
->Example:    
->Designation of named revision of edition: <CITE>Carefully revised and additions made in 1848</CITE>  
->Designation of edition: <CITE> 3d. Edition</CITE>   
->(*Comment*: Statement indicates the publication is a revision of the third edition)
+>Example:  
+>Designation of edition: <CITE>Third edition</CITE>  
+>Designation of named revision of edition: <CITE>corrected and improved</CITE>  
 
->Example:    
->Designation of named revision of edition: <CITE>corrected in conformity with the rules of H.T. 1834, and the decisions thereon</CITE>  
->Designation of edition: <CITE>the fourth edition</CITE>
+>Example:  
+>Designation of edition: <CITE>The first American edition</CITE>  
+>Designation of named revision of edition: <CITE>carefully revised and corrected from the fourth British edition</CITE>  
 
 <a name="3.24.31.2">3.24.31.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed designation of a named revision of edition (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
@@ -66,9 +65,10 @@ sidebar:
 
 <a name="3.24.32.3">3.24.32.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Always indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
 
->Example:    
->Designation of named revision of edition: <CITE>[1st printing]</CITE>  
->Note on edition statement: <CITE>Number line on title page verso indicates 1st printing: "10 9 8 7 6 5 4 3 2 1"</CITE>
+>Example:   
+>Designation of edition: <CITE>Second edition</CITE>  
+>Designation of named revision of edition: <CITE>[4th printing]</CITE>  
+>Note on edition statement: <CITE>Number line: "4 5 6 7 8 9 10" on title page verso indicates 4th printing</CITE>  
 
 ## 3.24.33 Designations of named revision of edition in more than one language or script
 
