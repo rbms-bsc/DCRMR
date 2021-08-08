@@ -29,6 +29,12 @@ sidebar:
 
 <a name="3.25.3.2">3.25.3.2</a>  Transcribe such statements of responsibility according to the instructions for [Statement of responsibility relating to an edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) (see [3.23.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.3.1)).
 
+>Example:  
+><CITE>the introduction revised and amended by Samuel Webber, A.M. Hollis Prof. of Math. and Nat. Philos. in the University of Cambridge</CITE>
+
+>Example:  
+><CITE>suivie de quelques pieces fugitives diverses du même auteur</CITE>
+
 ## 3.25.31 Statements of responsibility relating to named revision of edition in more than one language or script
 
 <a name="3.25.31.1">3.25.31.1</a> If there are [Designations of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) in more than one language or script on the manifestation, but only a single statement of responsibility relating to the named revision of edition, transcribe the statement of responsibility as the statement of responsibility relating to named revision of edition. 
