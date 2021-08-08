@@ -23,9 +23,13 @@ sidebar:
 
 <a name="3.24.2.1">3.24.2.1</a> A word, character, or group of words or characters, that identifies a particular revision of a named edition.
 
-## 3.24.31 Statement relating to a named revision of an edition
+## 3.24.21 DCRMR elaboration of scope
 
-<a name="3.24.31.1">3.24.31.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to that revision as instructed in [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.22.3.1](/DCRMR/edition/Designation-of-edition/#3.22.3.1)).
+<a name="3.24.21.1">3.24.21.1</a> Designations of named revisions of an edition include words that indicate a designated edition has been updated, but not enough for the publisher to designate it an entirely new edition.
+
+## 3.24.3 General rule**
+
+<a name="3.24.3.1">3.24.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to revision as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
 >Designation of edition: <CITE>Third edition</CITE>  
@@ -35,7 +39,7 @@ sidebar:
 >Designation of edition: <CITE>The first American edition</CITE>  
 >Designation of named revision of edition: <CITE>carefully revised and corrected from the fourth British edition</CITE>  
 
-<a name="3.24.31.2">3.24.31.2</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed designation of a named revision of edition (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+<a name="3.24.31.2">3.24.31.2</a> When transposing, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
 ## 3.24.32 Statements relating to a substantially unchanged impression or state
 
@@ -44,23 +48,23 @@ sidebar:
 <a name="3.24.32.2">3.24.32.2</a> **Alternative rule**. If a decision has been made to create a separate description for an individual impression, state, or binding variant within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)), and the manifestation has a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe statements related to a substantially unchanged impression of that edition as a designation of a named revision of an edition. If the manifestation lacks a [Designation of edition](/DCRMR/edition/Designation-of-edition/), then transcribe such statements as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2)).  Always indicate the source of the statement, if other than the preferred source of information, in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
 
 >Example:   
->Designation of named revision of edition: <CITE> Fourth printing</CITE>  
 >Designation of edition: <CITE> First edition</CITE>  
+>Designation of named revision of edition: <CITE> fourth printing</CITE>  
 >Note on edition statement: <CITE> The words "fourth printing" taken from the title page verso</CITE>
 
 >Example:   
->Designation of named revision of edition: <CITE> 1st-50th</CITE>  
 >Designation of edition: <CITE> First edition</CITE>  
+>Designation of named revision of edition: <CITE> 1st-50th</CITE>  
 >Note on edition statement: <CITE> The words "1st-50th" taken from title page verso</CITE>
 
 >Example:    
->Designation of named revision of edition: <CITE>Fifth thousand</CITE>  
 >Designation of edition: <CITE> [Third edition]</CITE>  
+>Designation of named revision of edition: <CITE>fifth thousand</CITE>  
 >Note on edition statement: <CITE>Contains "Preface of the third edition"</CITE>
 
 >Example:    
->Designation of named revision of edition: <CITE>Third printing</CITE>  
 >Designation of edition: <CITE>First Ace edition</CITE>  
+>Designation of named revision of edition: <CITE>third printing</CITE>  
 >Note on edition statement: <CITE>“Third printing / December 1983” from title page verso</CITE>
 
 <a name="3.24.32.3">3.24.32.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Always indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
@@ -72,7 +76,7 @@ sidebar:
 
 ## 3.24.33 Designations of named revision of edition in more than one language or script
 
-<a name="3.24.33.1">3.24.33.1</a> If a designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [3.245.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/#3.245.3.1)).  Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
+<a name="3.24.33.1">3.24.33.1</a> If a Designation of named revision of edition appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first in the resource.  Transcribe the remaining statement(s) as [Parallel designation of named revision of edition](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/) (see [3.245.3.1](/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/#3.245.3.1)).  Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
 
 ---
 

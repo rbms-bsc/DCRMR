@@ -29,7 +29,7 @@ sidebar:
 
 <a name="3.225.3.2">3.225.3.2</a> Transcribe the remaining statement(s) as Parallel designations of edition.
 
-<a name="3.225.3.3">3.225.3.3</a> *Optionally*, if it is considered that the parallel designations of edition are too numerous to list exhaustively, and some may be omitted without significant loss of identification, all parallel designations of edition after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted designations in the supplied phrase. Do not use a mark of omission.
+<a name="3.225.3.3">3.225.3.3</a> *Optionally*, if the Parallel designations of edition in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of Parallel designations of edition in the supplied phrase. Do not use the mark of omission.
 
 ---
 

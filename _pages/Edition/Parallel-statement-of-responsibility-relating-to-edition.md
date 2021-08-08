@@ -27,9 +27,9 @@ sidebar:
 
 <a name="3.235.3.1">3.235.3.1</a> If there are [Designations of edition](/DCRMR/edition/Designation-of-edition/) in more than one language or script on the manifestation, but only a single statement of responsibility relating to edition, transcribe the statement of responsibility as the [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/).
 
-<a name="3.235.3.2">3.235.3.2</a> If a [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) appears on the manifestation in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the statement that appears first. 
+<a name="3.235.3.2">3.235.3.2</a> If a [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/) appears on the manifestation in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as the [Statement of responsibility relating to edition](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/). If this criterion does not apply, transcribe the statement that appears first. 
 
-<a name="3.235.3.3">3.235.3.3</a> Transcribe the remaining statement(s) as parallel statement(s) of responsibility relating to edition.
+<a name="3.235.3.3">3.235.3.3</a> Transcribe the remaining statement(s) as Parallel statement(s) of responsibility relating to edition.
 
 >Example:  
 >Edition statement: <CITE>Deuxième édition / rédigé par Alexandre Choron = Second edition / edited by Alexandre Choron</CITE>  
@@ -39,7 +39,7 @@ sidebar:
 >Edition statement: <CITE>Second edition / edited by Alejandro Garri = herausgegeben von Alejandro Garri</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="3.235.3.4">3.235.3.4</a> Make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information of any transposed statements of responsibility (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+<a name="3.235.3.4">3.235.3.4</a> When transposing, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
 ---
 
