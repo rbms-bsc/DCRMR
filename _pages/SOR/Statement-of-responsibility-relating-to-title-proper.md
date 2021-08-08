@@ -155,7 +155,7 @@ sidebar:
 
 ## 2.21.385 Other title information appearing after statements of responsibility relating to title proper
 
-<a name="2.21.385.1">2.21.385.1</a> If other title information appears after a Statement of responsibility relating to title proper, transcribe it as a subsequent statement of responsibility relating to title proper.
+<a name="2.21.385.1">2.21.385.1</a> If other title information appears after a Statement of responsibility relating to title proper, transcribe it as a subsequent statement within Statement of responsibility relating to title proper.
 
 >Example:  
 ><CITE>by Sir Robert Barker, Knt. F.R.S. ; read at the Royal Society, May 29, 1777</CITE>  
