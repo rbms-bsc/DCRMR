@@ -103,7 +103,7 @@ omit it from the transcription without using the mark of omission.  Record such 
 >Note on item: <CITE>Library copy: Number line on title page verso indicates 3rd printing: "10 9 8 7 6 5 4 3"</CITE>
  
 >Example:  
->Note on item: <CITE>Library copy: Publisher’s code “B-O” on title page verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>  
+>Note on item: <CITE>Library copy: Publisher’s code “B-O” on title page verso indicates printed February 1914; see Boutell, H.S. First editions of today and how to tell them (4th ed., rev. and enl.)</CITE>  
 
 <a name="3.22.35.4">3.22.35.4</a> **Alternative rule**. If a decision has been made to create a separate bibliographic description for an individual impression, state, binding variant, or item within a single edition or issue (see [Precataloging decisions, I.01.9.1](/DCRMR/introduction/#I.01.9.1)) and the manifestation lacks an edition statement, transcribe statements such as the following as a designation of edition, even if they represent a substantially unchanged impression of that edition: a statement consisting entirely or chiefly of characters that are neither numeric nor alphabetic; a statement consisting of one or more letters or numbers without accompanying words; or a statement consisting only of words that convey numbers. 
 

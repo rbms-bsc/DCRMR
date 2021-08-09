@@ -106,45 +106,35 @@ If the manifestation was issued as such, transcribe all edition statements. Alwa
 <a name="3.21.37.3">3.21.37.3</a> If the multipart monograph is known or assumed to be a made-up set, describe the monograph using one of the following methods:
 
 a) Make a separate description for each volume. Make a [Note on item](/DCRMR/additional-notes/Note-on-item) describing the rest of the set if considered important. 
-
->ALT-NOTE: LINE EDIT EXAMPLE 1    
+ 
 >Example:  
 >Edition statement: <CITE>Second edition</CITE>  
 >Note on item: <CITE>Library’s copy is shelved with volume 2 of the third edition to create a made-up set.</CITE>   
 >(*Comment*: Description of the first volume in a made-up set)
 
->ALT-NOTE: LINE EDIT EXAMPLE 2  
 >Example:  
 >Edition statement: <CITE>Third edition</CITE>  
 >Note on item: <CITE>Library’s copy is shelved with volume 1 of the second edition to create a made-up set.</CITE>  
 >(*Comment*: Description of the second volume in a made-up set) 
 
-[ALT-NOTE: FORMERLY A]  
 b) Make separate descriptions for each edition. In each description, indicate that the manifestation is imperfect, identifying missing volumes in the [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) if considered important (see [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
->ALT-NOTE: ORIGINAL EXAMPLE A-1  
->DELETED IN BSC LINE EDITS  
 >Example:      
 >Edition statement: <CITE>Second edition</CITE>  
 >Note on extent of item: <CITE>Library's copy imperfect: v. 2 wanting; a previous owner has supplied v. 2 from the 3rd ed. to create a made-up set</CITE>  
 >(*Comment*: The first of two descriptions associated with the made-up set)
 
->ALT-NOTE: IRIS EXAMPLE A-2  
->PRE-IRIS-EDIT VERSION DELETED IN BSC LINE EDITS  
 >Example:       
 >Edition statement: <CITE>Third edition</CITE>  
 >Note on extent of item: <CITE>Library copy imperfect: v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
 >(*Comment*: The second of two descriptions associated with the made-up set)  
 
-[ALT-NOTE: FORMERLY B]  
 c) Make a single description of the set as is. Describe the set, basing the description on the first or preponderant edition. Indicate in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) that the description is based on a made-up set (see [9.3.33.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.33.1)).
 
->ALT-NOTE: ORIGINAL EXAMPLE B-1  
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>
 
->ALT-NOTE: LINE EDIT EXAMPLE 2    
 >Example:  
 >Edition statement: <CITE>First edition</CITE>  
 >Edition statement: <CITE>Second edition</CITE>  
