@@ -45,7 +45,7 @@ part of a statement being transcribed in the production, publication, distributi
 
 ## 3.22.32 Words such as “impression” or “printing”
 
-<a name="3.22.32.1">3.22.32.1</a> Use judgment in transcribing statements containing words such as “impression” or “printing” as a designation of edition. In publications from the hand-press era, such statements usually signal a new edition or issue. In these cases, the statement may properly be considered a designation of edition.
+<a name="3.22.32.1">3.22.32.1</a> Use judgment in transcribing statements containing words such as “impression” or “printing” as a designation of edition. In publications from the hand-press era, such statements usually signal a new edition or issue. In these cases, the statement may properly be considered a Designation of edition.
 
 <a name="3.22.32.2">3.22.32.2</a> For resources from the machine-press era or resources manufactured by the process of engraving, statements containing words such as “impression” or “printing” are more likely to indicate that the resource is simply a new impression of the same edition. 
 

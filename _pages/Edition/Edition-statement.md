@@ -86,6 +86,7 @@ appears, unless specifically instructed otherwise. Include any explanatory words
 <a name="3.21.37.1">3.21.37.1</a> For a multipart monograph, if the edition statement varies or does not appear on all of the volumes, ascertain whether the set was issued as such, using the following guidelines:
 
 a) If other exemplars of the set are known to have the same combination of editions, assume the set was issued as such.  
+
 b) If there is no other exemplar of the set known with the same combination of editions, and other exemplars with different combinations of editions are known, assume the set in hand was not issued as such.  
 
 In case of doubt, assume the set was not issued as such.
@@ -129,7 +130,7 @@ b) Make separate descriptions for each edition. In each description, indicate th
 >Note on extent of item: <CITE>Library copy imperfect: v. 1 wanting; a previous owner has supplied v. 1 from the 2nd ed. to create a made-up set</CITE>  
 >(*Comment*: The second of two descriptions associated with the made-up set)  
 
-c) Make a single description of the set as is. Describe the set, basing the description on the first or preponderant edition. Indicate in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) that the description is based on a made-up set (see [9.3.33.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.33.1)).
+c) Make a single description of the set as is. Indicate in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) that the description is based on a made-up set (see [9.3.33.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.33.1)).
 
 >Example:      
 >Edition statement: <CITE> First edition</CITE>  
