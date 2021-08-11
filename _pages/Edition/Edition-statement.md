@@ -67,7 +67,7 @@ appears, unless specifically instructed otherwise. Include any explanatory words
 
 >Example:  
 ><CITE>An examination of Dr. Burnet’s theory of the earth : with some remarks on Mr. Whiston’s New theory of the earth … / by J. Keill ... ; the second edition corrected and all the figures (25 in number) engraved on copper plates ; to the whole is annexed A dissertation on the different figures of coelestial bodies, &c. … by Mons. de Maupertuis …</CITE>  
->Comment: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 ## 3.21.35 Edition statements relating to issues or parts
 
