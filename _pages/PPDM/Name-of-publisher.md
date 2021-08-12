@@ -49,10 +49,6 @@ sidebar:
 ><CITE>Published by Ackermann and Co. ...</CITE>  
 >(*Comment*: Full publisher’s name reads: Published by Ackermann and Co., 96 Strand)
 
->Example:  
-><CITE>A la librairie de J. Carez, éditeur  ...</CITE>  
->(*Comment*: Full publisher’s name reads: A la librairie de J. Carez, e̓diteur, Rue Haute Feuille, No. 18. Chez Verière, Quai des Augustins, No. 25. Chez Bossange, père, Rue de Richelieu, No. 60)
-
 <a name="5.22.3.4">5.22.3.4</a> If a statement such as “Privately printed” appears on the title page, transcribe it as, or as part of, the name of publisher.
 
 >Example:  
@@ -61,20 +57,17 @@ sidebar:
 >Example:  
 ><CITE>Privately printed for the Fund for Building National Schools at Lethrede</CITE>
 
->Example:  
-><CITE>Private plate issued exclusively to members of the Bibliophile Society</CITE>
-
 ## 5.22.31 Names of publishers containing grammatically inseparable place names or dates
 
 <a name="5.22.31.1">5.22.31.1</a> If the name of publisher contains grammatically inseparable statements relating to [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/), transcribe them as part of the name of the publisher. Supply the [Place of publication](/DCRMR/ppdm/Place-of-publication/) or [Date of publication](/DCRMR/ppdm/Date-of-publication/) in square brackets in the appropriate element.
 
 >Example:  
->Publication statement: <CITE>Verlag der Vereins-Buchhandlung in Berlin</CITE>  
->Place of publication: <CITE>[Berlin]</CITE>
+>Place of publication: <CITE>[Berlin]</CITE>  
+>Name of publisher: <CITE>Verlag der Vereins-Buchhandlung in Berlin</CITE>  
 
 >Example:  
->Publication statement: <CITE>Publish'd July 1st, 1790 by J. & J. Boydell, Cheapside & at the Shakespeare Gallery Pall Mall</CITE>  
->Date of publication: <CITE>[July 1, 1790]</CITE>
+>Name of publisher: <CITE>Publish’d July 1st, 1790 by J. & J. Boydell, Cheapside & at the Shakespeare Gallery Pall Mall</CITE>  
+>Date of publication: <CITE>[1 July 1790]</CITE>  
 
 ## 5.22.32 Publishers identified by addresses, signs, or initials 
 
@@ -82,23 +75,22 @@ sidebar:
 
 >Example:  
 >Name of publisher: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
->Note on publication statement: <CITE>Publisher identified in The public advertiser Oct. 7, 1762: Mary Darly, in Rider's Court, near Leicester Square</CITE>
+>Note on publication statement: <CITE>Publisher identified in The public advertiser Oct. 7, 1762 as Mary Darly, in Ryder's Court, near Leicester Square in London</CITE>  
 
 >Example:  
-><CITE>Printed for M.W. [that is, Matthew Walbancke]</CITE>  
-
+>Name of publisher: <CITE>Printed for M.W. [that is, Matthew Walbancke]</CITE>  
+>Note on publication statement: <CITE>Publisher’s name identified by Bodleian Library</CITE>  
+  
 >Example:  
-><CITE>Printed by T.H. for I.P. and are to be sold by Richard Thrale, dwelling in Pauls Church-yard at the signe of the Crosse-Keyes</CITE>
-
->Example:  
->Note on publication statement: <CITE>Printed by Thomas Harper for John Parker according to STC</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Name of publisher: <CITE>Printed by T.H. for I.P. and are to be sold by Richard Thrale, dwelling in Pauls Church-yard at the signe of the Crosse-Keyes</CITE>  
+>Note on publication statement: <CITE>Printed by Thomas Harper for John Parker according to Pollard’s Short-title catalogue</CITE>  
+>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 <a name="5.22.32.2">5.22.32.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)).
 
->Example:   
+>Example:  
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  
->Note on publication statement: <CITE>Printer's device of Richard Pynson (McKerrow 6) on verso final leaf (b4). See: McKerrow, R.B. Printers' & publishers' devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913</CITE>
+>Note on publication statement: <CITE>Printer’s device of Richard Pynson (McKerrow 6) on final leaf verso (b4). See: McKerrow, R.B. Printers’ & publishers’ devices in England & Scotland, 1485-1640. London: Printed for the Bibliographical Society at the Chiswick Press, 1913</CITE>  
 
 ## 5.22.33 Fictitious or incorrect names of publisher
 
@@ -109,28 +101,16 @@ sidebar:
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement: <CITE>Corrected publisher from Koeman</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>(*Comment*: The formal citation for Koeman’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 >Example:  
->Name of publisher: <CITE>bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]</CITE>  
->Note on publication statement: <CITE>The imprint is false; in fact published in Danzig (now Gdansk) by Jobst Hermann Flörke according to Hayn/Gotendorf</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Name of publisher: <CITE>Bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]</CITE>  
+>Note on publication statement: <CITE>The imprint is false; in fact published by Jobst Hermann Flörke in Danzig (now Gdansk) according to Hayn</CITE>  
+>(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 ## 5.22.34 Two or more names of publishers
 
 <a name="5.22.34.1">5.22.34.1</a>  If the [Publication statement](/DCRMR/ppdm/Publication-statement/) includes more than one publisher in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of publisher only when they are not linked by connecting words or phrases.
-
->Example:  
-><CITE>United States Food Administration</CITE>
-
->Example:  
-><CITE>National Association of Ice Industries</CITE>
-
->Example:  
-><CITE>Published by Wells and Lilly, Court-Street</CITE>
-
->Example:  
-><CITE>A.T. Goodrich & Co.</CITE>
 
 >Example:  
 ><CITE>In gemeinschaftlichem Verlag von Berenberg in Lauenburg und der Jaegerschen Buchhandl. in Frankfurt am Main</CITE>
@@ -144,27 +124,23 @@ sidebar:
 >Example:  
 ><CITE>Bey Johan Waesberge, und der Witwe Elizaei Weyerstraet</CITE>
 
+>Example:  
+><CITE>Published by Wells and Lilly, Court-Street ; A.T. Goodrich & Co.</CITE>  
+>(*Comment*: Individual publishers transcribed as subsequent statements as they are not linked by connecting words. Example formatted with ISBD punctuation for clarity)
+
 <a name="5.22.34.2">5.22.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Publication statement](/DCRMR/ppdm/Publication-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted publishers in the supplied phrase. Do not use a mark of omission.
 
->Example:  
-><CITE>Oliver Ditson & Co., C.H. Ditson & Co., Lyon & Healy [and 4 others]</CITE>
+>Example: 
+><CITE>Printed for D. Midwinter, A. Bettesworth and C. Hitch [and 14 others]</CITE>  
 
 >Example:  
-><CITE>Published by F.J. Huntington</CITE>
-
->Example:  
-><CITE>Collins and Hannay</CITE>
-
->Example:  
-><CITE>Carter and Hendee [and 20 others in 18 places]</CITE>
+><CITE>Printed for Benjamin Matthews, bookseller, in Merchants-Court, Bath; Mess. Birt, Osborne, Hodges, Ware, Rivington and Owen, in London [and 20 others in 11 places]</CITE>
 
 <a name="5.22.34.3">5.22.34.3</a> If both the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and name of publisher associated with an earlier manifestation appear together with the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and name of publisher of the manifestation being described, transcribe each publisher with the place to which it corresponds.
 
 >Example:  
-><CITE>Published by the Surveyor General, pursuant to an act of the legislature, Stone & Clark, republishers, 1839</CITE>
-
->Example:  
-><CITE>London : Printed for Knight and Lacy, Paternoster-Row ; Greenfield, Mass. : Re-printed by Ansel Phelps, and for sale by him at his bookstore, also by West & Richardson, Cummings, Hilliard & Co., Boston, and Wilder & Campbell, New-York</CITE>
+>Publication statement: <CITE>London : Published by Wright, Cadel and others ; Republished at Hartford : By Hudson & Goodwin, 1798</CITE>
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## 5.22.35 Names of publishers in multipart monographs 
 
@@ -175,9 +151,9 @@ sidebar:
 <a name="5.22.36.1">5.22.36.1</a> If no name, address, or device of a publisher appears on the manifestation, supply the name of the publisher in square brackets if known. If the responsibility of a publisher for a particular manifestation is conjectured, either add a question mark to any supplied name or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). In any case of a supplied publisher, give supporting evidence in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.6)).
 
 >Example:  
->Name of publisher: <CITE>[Anton Koberger]</CITE>  
->Note on publication statement: <CITE>Imprint from Goff.</CITE>  
->(*Comment*: The formal citation for Goff is given in a References to published descriptions note)
+>Name of publisher: <CITE>[Stephan Plannck]</CITE>  
+>Note on publication statement: <CITE>Publisher’s name from Goff</CITE>  
+>(*Comment*: The formal citation for Goff’s bibliography of incunabula in American libraries is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.22.37 Name of publisher cannot be supplied
 
@@ -188,14 +164,19 @@ sidebar:
 <a name="5.22.38.1">5.22.38.1</a> If the name of the publisher does not appear in the [Publication statement](/DCRMR/ppdm/Publication-statement/), but has already been transcribed as part of another element, supply it within square brackets.
 
 >Example:  
->Name of publisher: <CITE>[Pour Symo[n] Vostre Libraire par Philippe Pigouchet]</CITE>  
->(*Comment*: Title reads “Ces presentes heures a lusaige de Ro[m]me : so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre Libraire: demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet.”)
+><CITE>[Symon Vostre]</CITE>  
+>(*Comment*: The name of the publisher has already been transcribed as part of the title; title reads “Ces presentes heures a lusaige de Ro[m]me so[n]t au lo[n]g sa[n]s req[ue]rir [et] ont este faictes pour Symo[n] Vostre libraire demourent a Paris a la rue neuue nostre dame, a lenseigne Sainct Iehan leuangeliste par Philippe Pigouchet”)
 
 If transcribing a publisher name as part of another element, do not abridge or expand the name of publisher simply because it repeats or omits information given elsewhere in the description.
 
 ## 5.22.39 Name of publisher in more than one language or script
 
 <a name="5.22.39.1">5.22.39.1</a> If the name of the publisher appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statements(s) as parallel statements (see [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/)). Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source of any transposed statements (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
+
+>Example:  
+>Name of publisher: <CITE>Bey Carl Ludwig Jacobi</CITE>  
+>Parallel name of publisher: <CITE>Printed for Charles Ludwig Jacobi</CITE>  
+>Note on publication statement: <CITE>Parallel name of publisher transposed from English title page facing main title page in German</CITE>  
 
 ---
 

@@ -47,7 +47,7 @@ sidebar:
 <a name="3.23.31.1">3.23.31.1</a> If a statement of responsibility appears after the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transpose it to the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) in all cases except when it clearly applies to the edition being cataloged. Always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate this transposition (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
 
 >Example:  
-><CITE>An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. – The second edition, considerably enlarged, and illustrated with plates</CITE>  
+><CITE>An inquiry into the original state and formation of the earth : deduced from facts about the laws of nature / by John Whitehurst. &mdash; The second edition, considerably enlarged, and illustrated with plates</CITE>  
 >Note on statement of responsibility: <CITE>The statement “by John Whitehurst” appears on the title page after the edition statement</CITE>  
 >(*Comment*: Statement of responsibility applies to all editions. Information is transcribed in five elements: [Title proper](/DCRMR/title/Title-proper); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper); [Designation of edition](/DCRMR/edition/); and [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/). The example is formatted according to ISBD for clarity)
 
