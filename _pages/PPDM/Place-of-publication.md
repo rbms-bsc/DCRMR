@@ -137,7 +137,9 @@ sidebar:
 <a name="5.21.33.5">5.21.33.5</a> If a place of publication associated with an earlier manifestation appears together with the actual place of publication of the manifestation being described, transcribe the places as a single element in the order in which they appear.
 
 >Example:  
-><CITE>Philadelphia printed, London reprinted</CITE>
+><CITE>London printed and Dublin re-printed</CITE>  
+>(*Source of information reads*: London printed and Dublin re-printed by Thomas Stewart, military stationer, no. 1, King's Inns Quay, M.DCC.XCIII)  
+>(*Comment*: The manufacturer is assumed to be also functioning as the publisher; the place given in the source is treated as the place of publication; see [5.2.335.1](/DCRMR/ppdm/Publication-statement/#5.2.335.1))
 
 <a name="5.21.33.6">5.21.33.6</a> If both the place and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) associated with an earlier manifestation appear together with the place and [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the manifestation being described, transcribe each place with the publisher to which it corresponds.
 
@@ -165,6 +167,10 @@ sidebar:
 ## 5.21.36 Fictitious or incorrect places of publication
 
 <a name="5.21.36.1">5.21.36.1</a> If the place of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/). If the actual place is known, or can be reasonably surmised, supply the correction and its basis in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.2)).
+
+>Example:  
+>Place of publication: <CITE>A Londres</CITE>  
+>Note on publication statement: <CITE>The place of publication is false; typographical evidence suggests French printing</CITE>
 
 <a name="5.21.36.2">5.21.36.2</a> *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, preceded by "that is," if known. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3))
 
