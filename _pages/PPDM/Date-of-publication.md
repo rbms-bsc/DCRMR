@@ -28,10 +28,10 @@ sidebar:
 <a name="5.23.3.1">5.23.3.1</a> Transcribe dates of publication  in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. Include the day and month, if present.
 
 >Example:  
-><CITE>7th July 1766</CITE>
+><CITE>July 29, 1642</CITE>
 
 >Example:  
-><CITE>1732, reprinted 1734</CITE>
+><CITE>printed 1590, reprinted 1641</CITE>
 
 >Example:  
 ><CITE>MDCCXXXIII [1733]</CITE>
@@ -39,19 +39,22 @@ sidebar:
 <a name="5.23.3.2">5.23.3.2</a> Transcribe words and phrases such as “in the year” and “anno". If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Publication statement](/DCRMR/ppdm/Publication-statement/) according to the punctuation or typography of the source.
 
 >Example:  
-><CITE>Im Jahr Christi 1705</CITE>
+><CITE>im Jahr Christi 1705</CITE>
 
 >Example:  
 ><CITE>13. Decembris, anno 1616</CITE>
 
 >Example:   
-><CITE>anno 1593</CITE>
+><CITE>anno Dom. MDC.LXXVIII [1678]</CITE>
+
+>Example:  
+><CITE>mense Decembris anno 1554</CITE>
 
 <a name="5.23.3.3">5.23.3.3</a> If the date is grammatically inseparable from information transcribed as part of another element, transcribe it within that element and supply the date in square brackets as the date of publication.  If the supplied date includes a day/month, use the sequence: day, month, year.
 
 >Example:  
->Date of publication: <CITE>[August 12, 1804]</CITE>  
->Name of publisher: <CITE>Published the 12th of August 1804 by R. Wilkinson, no. 58, Cornhill</CITE>
+>Name of publisher: <CITE>Published May 1, 1795, as the Act directs, by G. G. & J. Robinson, Paternoster Row, and S. Hodgson, in Newcastle</CITE>  
+><CITE>Date of publication: [1 May 1795]</CITE>  
 
 ## 5.23.31 Transcription involving adjustments or additions
 
@@ -89,22 +92,27 @@ sidebar:
 
 *Optionally*, if the statement in the date of publication is very long, substitute for it a formalized statement in square brackets. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and form of the statement (see [5.24.36.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.2)).
 
->Example:  
->Date of publication: <CITE>[18 May 1507]</CITE>  
->Note on publication statement: <CITE>Date expressed in Latin words on title page.</CITE>  
->(*Comment*: In publication: “Anno gratiae millesimo quingentesimo septimo die vero decimoctavo Maij”)
+>Example:   
+>Date of publication: <CITE>[21 February 1476]</CITE>  
+>Note on publication statement: <CITE>Date expressed in Latin words in colophon</CITE>  
+>(*Source of information reads*: die vicesima prima me[n]sis Februarii anno Domini millesimo quadringentesimo septuagesimosexto)
 
 <a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication is known to be fictitious or incorrect, transcribe it as it appears and always supply the actual date in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
+
+>Example:  
+>Date of publication: <CITE>1703</CITE>  
+>Note on publication statement: <CITE>The date of publication is incorrect. The added engraved title page is dated 1704</CITE>  
 
 *Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)).
 
 >Example:  
->Date of publication: <CITE>1887 [that is, 1899]</CITE>  
->Note on publication statement: <CITE>Stamped in lower left corner: Aids to navigation corrected ... to Oct. 5, 1899</CITE>
+>Date of publication: <CITE>1785 [that is, 1795]</CITE>  
+>Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
+>(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 >Example:  
->Date of publication: <CITE>1786 [that is, 1788]</CITE>  
->Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
+>Date of publication: <CITE>anno Dom. 1683 [that is, 1693]</CITE>  
+>Note on publication statement: <CITE>The date of publication is misprinted. Imprimatur at head of title reads “Licensed 14th June, 1693”</CITE>  
 
 >Example:  
 ><CITE>1703 [that is, 1730]</CITE>
@@ -119,7 +127,7 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 >Example:  
 >Date of publication: <CITE>1743 [that is, 1744]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
->(*Comment*: "Given at our court at St. James's, the twentieth day of February, 1743, and in the seventeenth year of our reign")
+>(*Source of information contains the following sentence*: “Given at our court at St. James’s, the twentieth day of February, 1743, and in the seventeenth year of our reign”)
 
 >Example:  
 >Date of publication: <CITE>Februar. 8. anno 1588 [that is, 1589]</CITE>  
@@ -146,8 +154,8 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 *Optionally*, if the date of publication includes a day/month based on a calendar other than the Julian or Gregorian calendar, transcribe the date and supply the equivalent Julian or Gregorian day/month in square brackets. Use the sequence: day, month, year.
 
 >Example:  
-><CITE>prid. Kal. Dec. [30 November] 1488</CITE>  
->(*Comment*: Day and month follow Roman-style calendar)  
+><CITE>an. M.D.XXI. quarto idus Iulij [12 July 1521]</CITE>  
+>(*Comment*: Day and month follow Roman-style calendar)
 
 >Example:  
 ><CITE>anno salutis 1501 ultimo Kal[endi]s Decembris [12 Nov.]</CITE>  
@@ -161,29 +169,34 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
->Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>
+>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, that is, 1539]</CITE>  
->Note on publication statement: <CITE>Place of publication and name of printer from colophon, which gives 1539 as the date of printing</CITE>
+>Note on publication statement: <CITE>The colophon gives 1539 as the date of publication</CITE>  
 
 >Example:  
 >Date of publication: <CITE>M.DC.XXV [1625, that is, 1626]</CITE>  
->Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
+>Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
+>(*Source of information contains the following sentence*: “Giuen at our court at White-Hall, the seuenteenth day of Ianuary, in the first yeere of our reigne of Great Britaine, France and Ireland”)
 
 ## 5.23.32 Date of publication supplied from reference sources
 
 <a name="5.23.32.1">5.23.32.1</a> If the date of publication does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliography or reference work. Give the source of the supplied date and any needed explanation in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.7)).
 
->Example:  
->Date of publication: <CITE>[1864]</CITE>  
->Note on publication statement: <CITE>Publication date from LC Civil War maps (2nd ed.)</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Example:   
+>Date of publication: <CITE>[1723]</CITE>  
+>Note on publication statement: <CITE>Date of publication from Sabin</CITE>  
+>(*Comment*: The formal citation for Sabin’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.23.33 Conjectural date of publication
 
 <a name="5.23.33.1">5.23.33.1</a> Supply in square brackets a conjectural date of publication based on any information available. Always indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.73](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.73)).
+
+>Example:  
+>Date of publication: <CITE>[1785]</CITE>  
+>Note on publication statement: <CITE>Date from advertisements and reviews in the summer of 1785</CITE>  
 
 <a name="5.23.33.2">5.23.33.2</a> If the preferred source of information bears a prominent date that does not clearly represent the date of publication, either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.36.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.36.1)).
 
@@ -225,16 +238,16 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 <a name="5.23.35.1">5.23.35.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of publication of the volume, part, or fascicle published first and the date of publication of the volume, part, or fascicle published last, and connect them with a hyphen.
 
 >Example:  
-><CITE>MDXIII-MDXXIIII [1513-1524]</CITE>
+><CITE>M,DCC,LXXXIX-M,DCC,XCII [1789-1792]</CITE>
 
 >Example:  
-><CITE>MDLVIII-1570 [1558-1570]</CITE>
+><CITE>1715-1716</CITE>
 
 <a name="5.23.35.2">5.23.35.2</a> Record the date of each volume in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important. Such a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [5.24.36.8](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.8)).
 
 >Example:  
->Date of publication: <CITE>1560-1564</CITE>  
->Note on publication statement: <CITE>Vol. 1: 1561; v. 2: 1564; v. 3: 1562; v. 4: 1560</CITE>
+>Date of publication: <CITE>M.DC.XCIV-M.DCCI [1694-1701]</CITE>  
+>Note on publication statement: <CITE>Vol. 1: 1701; vol. 2: 1701; vol. 3: 1701; vol. 4: 1694; vol. 5: 1701; vol. 6: 1701; vol. 7: 1701; vol. 8: 1700</CITE>
 
 ## 5.23.36 Date of publication on part pages
 
