@@ -139,7 +139,7 @@ sidebar:
 <a name="5.22.34.3">5.22.34.3</a> If both the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and name of publisher associated with an earlier manifestation appear together with the [Place of publication](/DCRMR/ppdm/Place-of-publication/) and name of publisher of the manifestation being described, transcribe each publisher with the place to which it corresponds.
 
 >Example:  
->Publication statement: <CITE>London : Published by Wright, Cadel and others ; Republished at Hartford : By Hudson & Goodwin, 1798</CITE>
+>Publication statement: <CITE>London : Published by Wright, Cadel and others ; Republished at Hartford : By Hudson & Goodwin, 1798</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## 5.22.35 Names of publishers in multipart monographs 
