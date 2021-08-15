@@ -30,35 +30,35 @@ sidebar:
 <a name="5.27.3.2">5.27.3.2</a> Transcribe the name of the distributor, together with any associated words or phrases, as it appears on the manifestation. In general, transcribe the full address. Consider the sequence, layout, and typography of words in the distribution statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the distributor’s name, transcribe that information as part of name of distributor.
 
 >Example:  
-><CITE>sold for the editor, by Messrs. Dulau & Co.</CITE>
+><CITE>Sold at wholesale by Horace Partridge, importer, wholesale and retail dealer in fancy goods, toys, watches, jewelry, Yankee notions, beads, &c. No. 27 Hanover Street Boston</CITE>
 
 >Example:  
-><CITE>No. 107, Wardour-Street; De Boffe, No. 7, Gerrard-Street, Soho; and T. Boosey, Broad-Street, behind the Royal Exchange</CITE>
-
->Example:  
-><CITE>sold at wholesale by Horace Partridge, importer, wholesale and retail dealer in fancy goods, toys, watches, jewelry, Yankee notions, beads, &c. No. 27 Hanover Street Boston</CITE>
-
->Example:  
-><CITE>Sold by William Berry, at the Sign of the Globe between Charing-cross and Whitehall</CITE>
+><CITE>Sold by William Berry, at the sign of the Globe between Charing-cross and Whitehall</CITE>
 
 <a name="5.27.3.3">5.27.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the distributor's name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
-><CITE>sold for the editor, by Messrs. Dulau & Co. ... De Boffe ... and T. Boosey ...</CITE>
+><CITE>To be sold by David Mortier, bookseller in the Strand, …</CITE>  
+>(*Source of information reads*: To be sold by David Mortier, bookseller in the Strand, near the Fountain-Tavern at the sign of Erasmus's Head, where also are to be sold all sort of maps)
 
 ## 5.27.31 Names of distributors containing grammatically inseparable place names or dates
 
 <a name="5.27.31.1">5.27.31.1</a> If the name of distributor contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
 
 >Example:  
-><CITE>[Greenfield, Massachusetts] : printed and sold at Greenfield, Massachusetts</CITE>
+>Place of distribution: <CITE>[London]</CITE>  
+>Name of distributor: <CITE>Prostant apud S. Smith & B. Walford bibliopolas Londinenses</CITE>  
+
+>Example:  
+><CITE>Place of distribution: [Bristol]</CITE>   
+>Name of distributor: <CITE>Sold by Lasbury, Bristol</CITE>  
 
 ## 5.27.32 Names of distributors containing only addresses, signs, or initials
 
 <a name="5.27.32.1">5.27.32.1</a> If only the address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
 
 >Example:  
-><CITE>to be sold at the signe of the Blacke Beare [by Edward Blount] in Pauls Church-yard</CITE>
+><CITE>To be sold in Ffletestrete [by R. Foster] at the signe of the Croune, nexte vnto the Whyte Fryres gate</CITE>
 
 <a name="5.27.32.2">5.27.32.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)).
 
@@ -72,15 +72,21 @@ sidebar:
 
 <a name="5.27.34.1">5.27.34.1</a> If the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) includes more than one distributor in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of distributor only when they are not linked by connecting words or phrases.
 
+>Example:  
+><CITE>Prostant apud Jac. & Joh. Knapton, R. Knaplock, J. Groenewegen, & N. Prevost bibliopolas Londinenses</CITE>  
+
+>Example:  
+><CITE>Sold by Messrs. Fletcher and Son, also Merril, at Cambridge, Debrett, Egerton, Kearsley, Bew, and Swell, in London and Tesseyman, at York</CITE>  
+
+>Example:  
+><CITE>Se vend chez A. Dulau & Co., no. 107, Wardour-Street, J. Stockdale, Piccadilly, J. Deboffe, Gerrard-Street, T. Boosey, Broad-Street, près de la Bourse-Royale</CITE> 
+
 <a name="5.27.34.2">5.27.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Distribution statement](/DCRMR/ppdm/Distribution-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted distributors in the supplied phrase. Do not use a mark of omission.
 
 >Example:  
-><CITE>sold by Sherwood & Co. ... ; Hurst ... ; Forrest, … Manchester [and 3 others in 1 other place]</CITE>
+><CITE>Sold by E. Williams, no. 11, Strand, W. & W. Clarke, Market-Place, and Robinson & Ellis, St. Ann’s Place, Manchester [and 3 others in 2 other places]</CITE>
 
 <a name="5.27.34.3">5.27.34.3</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier manifestation appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the manifestation being described, transcribe each distributor with the place to which it corresponds.
-
->Example:  
-><CITE>Printed for T. Cooper, at the Globe in Pater-noster-Row, 1742, and reprinted for J. Wilkie, St. Paul's Church-yard</CITE>
 
 ## 5.27.35 Names of distributors in multipart monographs
 
@@ -100,9 +106,18 @@ sidebar:
 
 If transcribing a distributor name as part of another element, do not abridge or expand the name of distributor simply because it repeats or omits information given elsewhere in the description.
 
+>Example:  
+>Name of distributor: <CITE>[Joannem Annison]</CITE>  
+>(*Comment*: The name of the distributor has already been transcribed as part of the title, which reads “Catalogus librorum qui prostant apud Joannem Anisson, typographiae regiae directorem, viâ Jacobaeâ, sub Lilio Florentino)
+
 ## 5.27.39 Name of distributor in more than one language or script
 
 <a name="5.27.39.1">5.27.39.1</a> If the name of the distributor appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/)). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
+
+>Example:  
+>Name of distributor: <CITE>Prostant apud S. Baker, T. Cadell, D. Wilson, G. Nicol, et J. Murray</CITE>  
+>Parallel name of distributor: <CITE>By S. Baker and G. Leigh, in York-Street; T. Cadell in the Strand; D. Wilson and G. Nicol, opposite York-Buildings; and J. Murray, in Fleet-Street</CITE>  
+>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is “Sold in London”)
 
 ---
 

@@ -27,6 +27,11 @@ sidebar:
 
 <a name="5.275.31.1">5.275.31.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important (see [Note on distribution statement, 5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 
+>Example:  
+>Name of distributor: <CITE>Prostant apud S. Baker, T. Cadell, D. Wilson, G. Nicol, et J. Murray</CITE>  
+>Parallel name of distributor: <CITE>By S. Baker and G. Leigh, in York-Street; T. Cadell in the Strand; D. Wilson and G. Nicol, opposite York-Buildings; and J. Murray, in Fleet-Street</CITE>  
+>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is “Sold in London”)
+
 <a name="5.275.31.2">5.275.31.2</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source of any transposed statements (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)). 
 
 <a name="5.275.31.3">5.275.31.3</a> If the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper) as a [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element. If this criterion does not apply, transcribe the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) that appears first.
