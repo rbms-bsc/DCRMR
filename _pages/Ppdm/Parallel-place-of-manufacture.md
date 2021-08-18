@@ -33,6 +33,10 @@ sidebar:
 
 <a name="5.315.31.4">5.315.31.4</a> Transcribe remaining [Places of manufacture](/DCRMR/ppdm/Place-of-manufacture/) as parallel places of manufacture. If a parallel place of manufacture is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important (see [Note on manufacture statement, 5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
+>Example:  
+>Place of manufacture: <CITE>Birminghamiae</CITE>  
+>Parallel place of manufacture: <CITE>Printed at Birmingham</CITE>  
+
 <a name="5.315.31.5">5.315.31.5</a> *Optionally*, if the parallel places of manufacture are too numerous to list exhaustively and some may be omitted without significant loss of identification then all parallel places of manufacture after the third may be omitted. In such cases, after the third parallel place of manufacture, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
 
 ---

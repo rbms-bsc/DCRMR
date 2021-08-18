@@ -29,6 +29,10 @@ sidebar:
 
 <a name="5.29.3.1">5.29.3.1</a> Transcribe the manufacture statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
+>Example:  
+><CITE>Carlisle : Printed at the Patriot Office, Arcade, Lowther Street</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
 ## 5.29.31 Information covered by labels, etc.
 
 <a name="5.29.31.1">5.29.31.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.31.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.4)).
@@ -43,6 +47,10 @@ sidebar:
 
 <a name="5.29.33.1">5.29.33.1</a> If the resource bears only a statement relating to manufacture or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
+>Example:  
+>Publication statement: <CITE>Impressum Lo[n]doniis : Per Wynandum de Worde hac in vrbe in parrochia Sancte Brigide (in the Fletestrete) ad signum solis commorantem, anno D[omi]ni M.CCCCC.xxviij die v[er]o xiij, mensis Maij</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
 ## 5.29.34 Statements relating to publication and to distribution or manufacture
 
 <a name="5.29.34.1">5.29.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
@@ -52,10 +60,11 @@ sidebar:
 <a name="5.29.34.3">5.29.34.3</a> If grammatically inseparable, transcribe it as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
 >Example:  
-><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX</CITE>
+>Publication statement: <CITE>Printed at Boston : By Samuel Etheridge, for Daniel Brewer, sold by him in Taunton, and by D. West, and Thomas & Andrews, in Boston, April, 1798</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>Boston : Printed by Robert Hodge, for Nathaniel Coverly, in Newbury-Street, [1782]</CITE>
+>Publication statement: <CITE>Gedruckt zu Leipzig : Bey vnd in Vorlegung Johann Beyers, im Jahr M.D.XCv</CITE>
 
 >Example:  
 ><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>

@@ -27,9 +27,19 @@ sidebar:
 
 <a name="5.34.31.1">5.34.31.1</a>  Make a note on manufacture statement if any part of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).
 
+>Example:  
+><CITE>Name of manufacturer from half-title verso</CITE>  
+
+>Example:  
+><CITE>Manufacture statement from p. 72</CITE>  
+
 <a name="5.34.31.2">5.34.31.2</a> Make a note on manufacture statement if information is not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) and is considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
 <a name="5.34.31.3">5.34.31.3</a>  Always make a note on manufacture statement if elements in the [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed, indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
+
+>Example:  
+>Manufacture statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
+>Note on manufacture statement: <CITE>Date of manufacture precedes name of printer</CITE>  
 
 <a name="5.34.31.4">5.34.31.4</a>  Always make a note on manufacture statement if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.29.31.1](/DCRMR/ppdm/Manufacture-statement/#5.29.31.1)). 
 
@@ -41,7 +51,26 @@ sidebar:
 
 <a name="5.34.32.3">5.34.32.3</a> When following the option at [5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2), give the basis for the correction or clarification in a note on manufacture statement (see [Place of manufacture, 5.31.36.2](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.2)).
 
+>Example:  
+>Place of manufacture: <CITE>Oxford [that is, London]</CITE>  
+>Note on manufacture statement: <CITE>The place of manufacture is false; actually printed in London according to Madan</CITE>  
+>(*Comment*: The formal citation for Madan’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+
+>Example:  
+>Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
+>Note on manufacture statement: <CITE>The place of manufacture is fictitious; printed in London by Richard Field according to Pollard’s Short-title catalogue</CITE>  
+>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+
 <a name="5.34.32.4">5.34.32.4</a> Make a note on manufacture statement when supplying a [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) and justification for the supplied place is necessary (see [5.31.37.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.37.1)).
+
+>Example:  
+>Manufacture statement: <CITE>[London] : Printed at J. Pitts, Wholesale Toy Warehouse, 6, Great St. Andrew street, 7 dials</CITE>  
+>Note on manufacture statement: <CITE>The seven dials are in London</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+>Example:  
+>Place of manufacture: <CITE>[Québec?]</CITE>  
+>Note on manufacture statement: <CITE>Probably printed in Québec in the late 18th or early 19th century. The paper and typography have the appearance of late 18th-century productions in Québec or Montreal, the type being mainly well worn old face</CITE>  
 
 <a name="5.34.32.5">5.34.32.5</a> Make a note on manufacture statement when supplying the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) based on a sign or address if considered necessary (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
@@ -53,30 +82,55 @@ sidebar:
 
 <a name="5.34.33.1">5.34.33.1</a> Make a note on manufacture statement of a parallel place of manufacture found  elsewhere in the resource from the place of manufacture if considered important (see [Parallel place of manufacture, 5.315.31.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.4) and [Place of manufacture, 5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1)).
 
+>Example:  
+>Parallel place of manufacture on cover reads: <CITE>Saint-Cloud</CITE>  
+>(*Comment*: The [Title proper](/DCRMR/title/Title-proper/) is in Latin. [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) on half-title verso reads: Sancti Clodoaldi)
+
 ## 5.34.34 Note on name of manufacturer
 
 <a name="5.34.34.1">5.34.34.1</a> If only the address, sign, or initials of the manufacturer appear in lieu of the name and the manufacturer’s name can be identified, always give this information in a note on manufacture statement if it has not been supplied in [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) (see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
 
+>Example:  
+>Name of manufacturer: <CITE>Printed at the Bible in George-Yard, Lombard-Street</CITE>  
+>Note on manufacture statement: <CITE>The Bible in George-Yard, Lombard Street, was the address of the printer Luke Hind. According to the British Book Trade Index he was active there from 1735-1767</CITE>  
+
 <a name="5.34.34.2">5.34.34.2</a> As necessary, make a note on manufacture statement about the basis for the identification, the source of the information used, the presence of the device, etc. when the identification of the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is based on a device (see [5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
 
 >Example:  
->Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
->Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
+><CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
 
 <a name="5.34.34.3">5.34.34.3</a> Always make a note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect and the actual details are known, or can be reasonably surmised, by supplying the correction and its basis (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
 
 <a name="5.34.34.4">5.34.34.4</a> When following the option at [5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2), make a note giving the basis for the correction or clarification (see [5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2)).
 
+>Example:  
+><CITE>Actually printed in Venice and attributed to the printer Francesco Andreola by Cambridge University Library</CITE>  
+
+>Example:  
+><CITE>“Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, ‘praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly …’” (Tremaine)</CITE>  
+>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+
 <a name="5.34.34.5">5.34.34.5</a> If the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, always transcribe the manufacture information on the first or earliest part as the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) and give the manufacture information of the later part(s) in a note on manufacture statement (see [Name of manufacturer, 5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 
 <a name="5.34.34.6">5.34.34.6</a> Always make a note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note on manufacture statement (see [Name of manufacturer, 5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
 
+>Example:  
+>Name of manufacturer: <CITE>[Isaac Collins?]</CITE>  
+>Note on manufacture statement: <CITE>Probably printed in Burlington by Isaac Collins, who did much of the printing for the state of New Jersey at this time</CITE>  
+>(*Comment*: The source of information is a law of the state of New Jersey)
+
 <a name="5.34.34.7">5.34.34.7</a> Always make a note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script and the elements were transposed from their original position (see [Name of manufacturer, 5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
+
+>Example:  
+><CITE>Parallel name of manufacturer transposed from English title page facing main title page in French</CITE>  
 
 ## 5.34.35 Note on parallel name of manufacturer
 
 <a name="5.34.35.1">5.34.35.1</a> Make a note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of  the name of manufacturer if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Name of manufacturer, 5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1)).
+
+>Example:  
+><CITE>Parallel name of manufacturer on cover reads: “Imprimerie de Mme Ve Belin”</CITE>  
+>(*Comment*: The [Title proper](/DCRMR/title/Title-proper/) is in Latin. [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) on half-title verso reads: Ex typis Viduae Belin)
 
 ## 5.34.36 Note on date of manufacture
 
@@ -107,7 +161,8 @@ sidebar:
 <a name="5.34.37.1">5.34.37.1</a> Make a note on manufacture statement for manufacture details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
-><CITE>Imprint judged to be false on the basis of printing of catchwords and signatures</CITE>
+><CITe>This is ostensibly an English printing as the manifestation contains press figures, which is an English trait, and its signatures are centred in the direction line. It is an almost identical copy of the seventh London edition, dated 1779, the main differences being there are no catchwords and the use of French ornaments. It is likely a piracy, printed by an English printer employed by Besongne in Rouen</CITE>  
+>(*Comment*: The imprint reads “Rouen, printed for JJ. Besongne, book-seller, in Grosse Horloge's street, M.DCC.LXXXI")
 
 ---
 

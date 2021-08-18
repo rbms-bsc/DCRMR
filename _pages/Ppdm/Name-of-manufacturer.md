@@ -28,68 +28,67 @@ sidebar:
 <a name="5.32.3.1">5.32.3.1</a> Transcribe the names of printers and other manufacturers in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
 
 >Example:  
-><CITE>printed at the Patriot Office, Arcade, Lowther Street</CITE>
+><CITE>Printed by Ballantyne, Hanson & Co.</CITE>
 
 >Example:  
-><CITE>printed by S. Gosnell, Little Queen Street, Holborn</CITE>
+><CITE>Printed by S. Gosnell, Little Queen Street, Holborn</CITE>
 
 <a name="5.32.3.2">5.32.3.2</a> Transcribe the name of the manufacturer, together with any associated words or phrases, as it appears on the manifestation. In general, transcribe the full address. Consider the sequence, layout, and typography of words in the manufacture statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the manufacturer’s name, transcribe that information as part of name of manufacturer.
 
 >Example:  
-><CITE>Kidder and Wright, music compositors</CITE>
+><CITE>W.J. Johnson, printer, 121, Fleet Street, E.C.</CITE>
 
 >Example:  
 ><CITE>S.W. Green, book and job printer, and electrotyper, 16 and 18 Jacob Street, New-York</CITE>
 
 >Example:  
-><CITE>printed by the heirs and successors of Andrew Anderson, printers to the Queen's Most Excellent Majesty</CITE>
+><CITE>Gedruckt bey Carl Ludwig Brede in Offenbach</CITE>
 
 >Example:  
-><CITE>printed by A. Strahan, law-printer to the King's Most Excellent Majesty, for T. Cadell and W. Davies, Strand</CITE>
+><CITE>Imp. de Blondeau, rue du Petit-Carreau, 26</CITE>
 
 >Example:  
-><CITE>printed by John Macock and Francis Tyton, printers to the House of Lords</CITE>
+><CITE>Printed by A.J. Valpy, Red Lion Court, Fleet Street</CITE>
+
+>Example:  
+><CITE>Ridge, printer, Mercury-Office, Sheffield</CITE>  
 
 <a name="5.32.3.3">5.32.3.3</a> *Optionally*, omit addresses and insignificant information appearing with the manufacturer’s name, unless the information aids in identifying or dating the manifestation or is deemed important to the cataloging agency (e.g., for the purpose of capturing book trade data). If omitting addresses, use the mark of omission.
 
 >Example:  
-><CITE>Printed by William Clowes and Sons, Limited ...</CITE>  
->(*Comment*: Full manufacturer’s name reads: printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross)
+><CITE>Printed by William Clowes and Sons, Limited …</CITE>  
+>(*Source of information reads*: Printed by William Clowes and Sons, Limited, Stamford Street and Charing Cross)
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 
 <a name="5.32.31.1">5.32.31.1</a>  If the name of manufacturer contains grammatically inseparable statements relating to [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), transcribe them as part of the name of manufacturer. Supply the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/) in square brackets in the appropriate element.
 
 >Example:  
-><CITE>printed in June 1700 by John Reid printer, and are to be sold at John Vallange's, Mrs. Ogstoun's and Thomas Carruthers stationers in Edinburgh, their shops, [1700]</CITE>
+>Name of manufacturer: <CITE>Printed the first day of July, 1765, by W. Weyman, at the New-Printing office in Broad-Street</CITE>  
+>Date of manufacture: <CITE>[1 July 1765]</CITE>  
 
 >Example:  
-><CITE>[Cambridge, Massachusetts] : printed by Samuel Green at Cambridg in New-England</CITE>
+>Place of manufacture: <CITE>[Cambridge, Mass.]</CITE>  
+>Name of manufacturer: <CITE>Printed by Samuel Green at Cambridg [sic] in New-England</CITE>  
 
 ## 5.32.32 Names of manufacturers containing only addresses, signs, or initials
 
 <a name="5.32.32.1">5.32.32.1</a> If only the address, sign, or initials of the manufacturer appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the name of manufacturer. If the manufacturer’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.1)).
 
 >Example:  
->Name of manufacturer: <CITE>[Cuchet] Rue et Hôtel serpente</CITE>  
+>Name of manufacturer: <CITE>[Cuchet] rue et Hôtel Serpente</CITE>  
 >Note on manufacture statement: <CITE>Cuchet listed as printer in Quérard, J.M. La France littéraire</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
+>(*Comment*: The formal citation for Quérard’s dictionary is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
->Name of manufacturer: <CITE>printed and sold [by the assigns of J. Sowle] at the Bible in Lombard-Street</CITE>  
->Note on manufacture statement: <CITE>Manufacturer’s name inferred from address</CITE>
-
->Example:  
->Name of manufacturer: <CITE>printed by R. B[adger] for Robert Bird, and are to be sold at his shop at the signe of the Bible in St. Lawrance lane</CITE>  
->Note on manufacture statement: <CITE>Printed by R. Badger according to the STC</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the manufacturer description)
+>Name of manufacturer: <CITE>Printed [by C. Sympson] in Stonecutter-street, Fleet-Market</CITE>  
+>Note on manufacture statement: <CITE>According to the British Book Trade Index, C. Sympson was active at this address from 1760 to 1790</CITE>  
 
 <a name="5.32.32.2">5.32.32.2</a> If the identification of the manufacturer is based on a device, supply the name of the manufacturer in square brackets, even if the device includes the manufacturer’s initials or spelled-out name. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) as necessary about the basis for the identification, the source of the information used, the presence of the device, etc. (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Robert Bryson]</CITE>  
->Note on manufacture statement: <CITE>Robert Bryson's device on title page; see McKerrow, R.</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the manufacture statement)
+>Note on manufacture statement: <CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
 
 ## 5.32.33 Fictitious or incorrect names of manufacturer
 
@@ -98,19 +97,25 @@ sidebar:
 <a name="5.32.33.2">5.32.33.2</a> *Optionally*, if the name as transcribed is known to be fictitious, transcribe it as it appears and supply in square brackets the actual name, preceded by “that is,” if known. Give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.4)).
 
 >Example:  
-><CITE>printed by Edes & Gill, for Buckley [that is, Bulkeley] Emerson, of Newbury-Port</CITE>
+>Name of manufacturer: <CITE>Printed by F. Rivington and G. Robinson, St. James-street [that is, Francesco Andreola]</CITE>  
+>Note on manufacture statement: <CITE>Actually printed in Venice and attributed to the printer Francesco Andreola by Cambridge University Library</CITE>  
 
 >Example:  
->Name of manufacturer: <CITE>printed by James Robertson [that is, William A. Rind]</CITE>  
->Note on manufacture statement: <CITE>"Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, 'praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly...'" (Tremaine)</CITE>  
->(*Comment*: A separate note is used to provide a full citation for the reference to the published description)
+>Name of manufacturer: <CITE>Printed by James Robertson [that is, William A. Rind]</CITE>
+>Note on manufacture statement: <CITE>“Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, ‘praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly …’” (Tremaine)</CITE>  
+>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.32.34 Two or more names of manufacturers
 
 <a name="5.32.34.1">5.32.34.1</a> If the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) includes more than one manufacturer in a single source, transcribe all the names in the order indicated by the sequence, layout, or typography of the names on the source of information. Transcribe them as subsequent names of manufacturer only when they are not linked by connecting words or phrases.
 
 >Example:  
-><CITE>Lovejoy, Son & Co., electrotypers & stereotypers, 15 Vandewate Street, N.Y.S.W. ; Green, printer and stereotyper, 16 and 18 Jacob Street, New-York</CITE>
+><CITE>Lovejoy, Son & Co., electrotypers & stereotypers, 15 Vandewate Street, N.Y.S.W. ; Green, printer and stereotyper, 16 and 18 Jacob Street, New-York</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity. Names of manufacturer not linked by connecting words)
+
+>Example:  
+><CITE>Printed by John Macock and Francis Tyton, printers to the House of Lords</CITE>  
+>(*Comment*: Names of manufacturer linked by connecting words)
 
 <a name="5.32.34.2">5.32.34.2</a> *Optionally*, if it is considered that the names are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) may be shortened by omitting all the names after the third. In such cases, after the third name, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted manufacturers (or firms) in the supplied phrase. Do not use a mark of omission.
 
@@ -144,6 +149,11 @@ If transcribing a manufacturer name as part of another element, do not abridge o
 ## 5.32.39 Name of manufacturer in more than one language or script 
 
 <a name="5.32.39.1">5.32.39.1</a> If the name of the manufacturer appears in more than one language or script, transcribe the statement in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the statement that appears first. Transcribe the remaining statement(s) as parallel statements (see [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/)). Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source of any transposed statements (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
+
+>Example:  
+>Name of manufacturer: <CITE>De l'imprimerie de T. Spilsbury, Snow-hill</CITE>  
+>Parallel name of manufacturer: <CITE>Printed by T. Spilsbury, Snow-hill</CITE>  
+>Note on manufacture statement: <CITE>Parallel name of manufacturer transposed from English title page facing main title page in French</CITE>
 
 ---
 

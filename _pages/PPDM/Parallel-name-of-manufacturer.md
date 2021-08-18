@@ -27,6 +27,11 @@ sidebar:
 
 <a name="5.325.31.1">5.325.31.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) on parallel manufacturers’ names found elsewhere if considered important (see [Note on manufacture statement, 5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
+>Example:  
+>Name of manufacturer: <CITE>Excudebat Joannes Baskerville</CITE>  
+>Parallel name of manufacturer: <CITE>By John Baskerville</CITE>  
+>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is “Printed at Birmingham”)
+
 <a name="5.325.31.2">5.325.31.2</a> Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source of any transposed statements (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)). 
 
 <a name="5.325.31.3">5.325.31.3</a> If the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper) as a [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) element. If this criterion does not apply, transcribe the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) that appears first.
