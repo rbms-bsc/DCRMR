@@ -151,22 +151,13 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 >Example:  
 ><CITE>[Cologne?]</CITE>
 
->Example:  
-><CITE>[Saint Petersburg?]</CITE>
-
 <a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Canada]</CITE>
 
 >Example:  
-><CITE>[Surrey?]</CITE>
-
->Example:  
-><CITE>[Prussia?]</CITE>
-
->Example:  
-><CITE>[South America?]</CITE>
+><CITE>[Scotland?]</CITE>
 
 <a name="5.26.385.3">5.26.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
 

@@ -64,10 +64,12 @@ sidebar:
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
->Publication statement: <CITE>Gedruckt zu Leipzig : Bey vnd in Vorlegung Johann Beyers, im Jahr M.D.XCv</CITE>
+>Publication statement: <CITE>Gedruckt zu Leipzig : Bey vnd in Vorlegung Iohann Beyers, im Iahr M.D.XCv [1595]</CITE>  
+(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>Amstelodami : Ex officina et sumptibus Iudoci Hondii, [approximately 1630]</CITE>
+>Publication statement: <CITE>Vlissypone [Lisbon] : Ex officina & sumptibus Pauli Craesbeeck, anno Domini MDCLIII [1653]</CITE>  
+(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="5.29.34.4">5.29.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the manufacture statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
 
