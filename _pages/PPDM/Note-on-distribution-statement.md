@@ -63,8 +63,9 @@ sidebar:
 <a name="5.285.32.5">5.285.32.5</a> Make a note on distribution statement when supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) based on a sign or address if considered necessary (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)).
 
 >Example:  
-><CITE>[London]</CITE>  
->(*Comment*: Imprint reads: "sold in St. Paul's Church Yard")
+>Distribution statement: <CITE>[London] : To be sold at the first shop in Popes-Head-Alley, next to Cornhill, near the Exchange</CITE>  
+>Note on distribution statement: <CITE>Popes Head Alley and the Exchange are located in London</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="5.285.32.6">5.285.32.6</a> Always make a note on distribution statement if the reason for supplying the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) is not apparent from the rest of the description and indicate the source of the information (see [5.26.385.3](/DCRMR/ppdm/Place-of-distribution/#5.26.385.3)).
 

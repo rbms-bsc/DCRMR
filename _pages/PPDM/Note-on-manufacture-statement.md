@@ -40,6 +40,7 @@ sidebar:
 >Example:  
 >Manufacture statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
 >Note on manufacture statement: <CITE>Date of manufacture precedes name of printer</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="5.34.31.4">5.34.31.4</a>  Always make a note on manufacture statement if any of the original details relating to the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.29.31.1](/DCRMR/ppdm/Manufacture-statement/#5.29.31.1)). 
 
