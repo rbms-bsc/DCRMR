@@ -27,7 +27,7 @@ sidebar:
 
 ## 5.2.3 General rule
 
-<a name="5.2.3.1">5.2.3.1</a> Transcribe the publication statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="5.2.3.1">5.2.3.1</a> Transcribe the Publication statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 5.2.31 Information covered by labels, etc.
 
@@ -38,7 +38,7 @@ sidebar:
 >Note on publication statement: <CITE>Imprint from label which covers earlier imprint: Chez Francois Marret, marchand libraire sur le marché aux fleurs</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.2.31.2">5.2.31.2</a> For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.2.31.2">5.2.31.2</a> For printed materials with manuscript information, use judgment in determining whether or not the manuscript information should be transcribed as the publication statement or as item-specific information. In case of doubt, consider the manuscript information to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.2.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
@@ -102,11 +102,15 @@ sidebar:
 ><CITE>London : Sold for Messrs. Rivington, St. Paul's Church Yard; and Richardson and Urquhart, under the Royal Exchange, 1785</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.2.335.3">5.2.335.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. If grammatically inseparable, treat them both as the publication statement. If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
+<a name="5.2.335.3">5.2.335.3</a> If the resource lacks a statement relating to publication and the resource bears statements relating to both distribution and manufacture, then determine whether or not the statements are grammatically separable. 
+
+<a name="5.2.335.4">5.2.335.4</a> If a statement relating to both distribution and manufacture is grammatically inseparable, treat them both as the publication statement. 
 
 >Example:  
 ><CITE>London : Printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+<a name="5.2.335.5">5.2.335.5</a> If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
 ## 5.2.34 Statements relating to publication and to distribution or manufacture
 
@@ -114,7 +118,7 @@ sidebar:
 
 <a name="5.2.34.2">5.2.34.2</a> If a distribution or manufacture statement is grammatically separable, treat the distribution statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or manufacture statement as a [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
-<a name="5.2.34.3">5.2.34.3</a> If the statements are grammatically inseparable, transcribe them as a publication statement. 
+<a name="5.2.34.3">5.2.34.3</a> If the statements are grammatically inseparable, transcribe them as a Publication statement. 
 
 >Example:  
 ><CITE>London : Printed for the author, and published by J. Bew, Pater-Noster-Row, MDCCLXXIX [1779]</CITE>  
@@ -128,11 +132,11 @@ sidebar:
 ><CITE>London : Pour Robert Scott & se vend chez Geo. Wells, & Sam. Carr, dans le cymitiere de St. Paul, 1678</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.2.34.4">5.2.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the publication statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
+<a name="5.2.34.4">5.2.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the Publication statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
 
 >Example:  
 ><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. &mdash; London : Published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>    
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); and Publication statement. The engraver statement containing the name of the printer has been transcribed as a Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); and Publication statement. The engraver statement containing the name of the printer has been transcribed as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)  
 >  
 >*but*  
 >  
@@ -141,7 +145,7 @@ sidebar:
 
 ## 5.2.35 No publication statement
 
-<a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, then supply the publication information in square brackets. 
+<a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, supply the publication information in square  brackets and make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to justify supplied information (see [5.24.31.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.5)). 
 
 >Example:   
 >Publication statement: <CITE>[Passy, France] : [Benjamin Franklin], [1781]</CITE>  
