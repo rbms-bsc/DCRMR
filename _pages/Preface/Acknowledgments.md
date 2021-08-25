@@ -9,15 +9,17 @@ sidebar:
 
 Writing a standard is intensive work performed by dedicated volunteers. Every member of the editorial group has given their time to this effort while also working full-time jobs and balancing their personal lives. The initial release of DCRMR was prepared in truly extraordinary circumstances. The release of the new RDA Toolkit in 2019 necessitated a full change in direction, leading the editorial group to create a new standard in less than two years. During this time, we faced the COVID-19 pandemic,  uprisings across the United States, and environmental disasters. Throughout this, the editorial group worked tirelessly to bring this work to fruition. No one accepts editorial responsibilities anticipating these challenges. From the bottom of my heart, thank you to every member of the RBMS RDA Editorial Group from its inception to the present:
 
++ Jessica Grzegorski, editor (2021-present) 
 + Elizabeth Hobart, editor (2019-present)
 + Michelle Mascaro, editor (2017-2020)
++ Liz Adams
 + Amy Brown 
 + kalan Knudson Davis
 + Tammy Druash
-+ Jessica Grzegorski
 + Ryan Hildebrand
 + Francis Lapka 
 + Deborah J. Leslie
++ Matthew John Murphy
 + Iris O’Brien
 + Elizabeth O’Keefe
 + Audrey Pearson

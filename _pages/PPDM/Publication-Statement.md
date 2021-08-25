@@ -134,15 +134,6 @@ sidebar:
 
 <a name="5.2.34.4">5.2.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the publication of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the Publication statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
 
->Example:  
-><CITE>A geological map of the United States / engraved & printed by Fenner, Sears & Co. &mdash; London : Published March 15, 1832 by I.T. Hinton & Simpkin & Marshall, [1832]</CITE>    
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); and Publication statement. The engraver statement containing the name of the printer has been transcribed as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)  
->  
->*but*  
->  
-><CITE>The coast of Guyana from the Oroonoko to the River of Amazons and the inland parts as far as they have been explored by the French & Dutch engineers : with the islands of Barbadoes … / by L.S. de la Rochette, MDCCLXXXIII. &mdash; London : Engraved & published by Willm. Faden, geographer to the King, Charing-Cross, Octor. 6th, 1783</CITE>  
->(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); and Publication statement. The engraver statement containing the name of the publisher has been transcribed as the Publication statement. The example is formatted according to ISBD for clarity)
-
 ## 5.2.35 No publication statement
 
 <a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, supply the publication information in square  brackets and make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to justify supplied information (see [5.24.31.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.5)). 
