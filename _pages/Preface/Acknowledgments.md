@@ -19,7 +19,7 @@ Writing a standard is intensive work performed by dedicated volunteers. Every me
 + Ryan Hildebrand
 + Francis Lapka 
 + Deborah J. Leslie
-+ Matthew John Murphy
++ Matthew J. Murphy
 + Iris O’Brien
 + Elizabeth O’Keefe
 + Audrey Pearson
