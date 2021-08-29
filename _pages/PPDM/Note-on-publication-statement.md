@@ -61,7 +61,7 @@ sidebar:
 >Place of publication: <CITE>A Londres</CITE>  
 >Note on publication statement: <CITE>The place of publication is false; typographical evidence suggests French printing</CITE>  
 
-<a name="5.24.32.3">5.24.32.3</a> When supplying the actual [Place of publication](/DCRMR/ppdm/Place-of-publication/) in square brackets, always give the basis for the correction or clarification in a note on publication statement (see [Place of publication, 5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
+<a name="5.24.32.3">5.24.32.3</a> When supplying the actual [Place of publication](/DCRMR/ppdm/Place-of-publication/) in square brackets, always give the basis for the correction or clarification in a note on publication statement (see [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
 
 >Example:  
 >Place of publication: <CITE>Philadelphia [that is, Frankfurt]</CITE>  
@@ -84,15 +84,15 @@ sidebar:
 
 ## 5.24.33 Parallel place of publication notes
 
-<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) found elsewhere in the resource from the place of publication if considered important (see [Parallel place of publication, 5.215.31.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.1) and [5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4)).
+<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) found elsewhere in the resource from the place of publication if considered important (see [5.215.31.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.1) and [5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4)).
 
 ## 5.24.34 Name of publisher notes
 
-<a name="5.24.34.5">5.24.34.5</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, always transcribe the publisher's name on the first or earliest part as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) and give the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the later part(s) in a Note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
+<a name="5.24.34.5">5.24.34.5</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, always transcribe the publisher's name on the first or earliest part as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) and give the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the later part(s) in a Note on publication statement (see [5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
 <a name="5.24.34.3">5.24.34.3</a> **Fictitious or incorrect names of publisher**. Always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect (see [5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1)).
 
-<a name="5.24.34.4">5.24.34.4</a> **Supplied name for fictitious or incorrect names of publisher**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on publication statement (see [5.22.33.2](/DCRMR/ppdm/Name-of-publisher/#5.22.33.2)).
+<a name="5.24.34.4">5.24.34.4</a> **Supplied name for fictitious or incorrect names of publisher**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on publication statement (see [Name of publisher, 5.22.33.2](/DCRMR/ppdm/Name-of-publisher/#5.22.33.2)).
 
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
@@ -115,7 +115,7 @@ sidebar:
 >Example:  
 ><CITE>Publisher identified in “The public advertiser,” Oct. 7, 1762 as Mary Darly, in Ryder's Court, near Leicester Square in London</CITE>
 
-<a name="5.24.34.2">5.24.34.2</a> **Devices**. If the publisher's name has been supplied based on a device, always make a Note on publication statement about the basis for the identification (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
+<a name="5.24.34.2">5.24.34.2</a> **Devices**. If the publisher's name has been supplied based on a device, always make a Note on publication statement about the basis for the identification (see [Name of publisher, 5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
 
 >Example:  
 >Name of publisher: <CITE>[Richt Right Press]</CITE>  
@@ -145,7 +145,12 @@ sidebar:
 >Note on publication statement: <CITE>Date expressed in Latin words in colophon</CITE>  
 >(*Source of information reads*: die vicesima prima me[n]sis Februarii anno Domini millesimo quadringentesimo septuagesimosexto)
 
-<s><a name="5.24.36.3">5.24.36.3</a> Always make a note on publication statement if the [Date of publication](/DCRMR/ppdm/Date-of-publication/) is known to be fictitious or incorrect by supplying the actual date (see [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).</s>
+<a name="5.24.36.4">5.24.36.4</a> **Fictitious and incorrect dates**. Always make a Note on publication statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication, 5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
+
+>Example:  
+>Date of publication: <CITE>1785 [that is, 1795]</CITE>  
+>Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
+>(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Date of publication: <CITE>1887 [that is, 1899]</CITE>  
@@ -155,14 +160,7 @@ sidebar:
 >Date of publication: <CITE>1786 [that is, 1788]</CITE>  
 >Note on publication statement: <CITE>Dedication and preface both dated 1788</CITE>
 
-<a name="5.24.36.4">5.24.36.4</a> When following the option in [5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4), always make a note on publication statement to indicate the source of the information if the reason for supplying the actual date is not apparent from the rest of the description (see [Date of publication, 5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4)).
-
->Example:  
->Date of publication: <CITE>1785 [that is, 1795]</CITE>  
->Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
->(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
-
-<a name="5.24.36.5">5.24.36.5</a> Always make a note on publication statement indicating the basis for the supplied year if the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar (see [Date of publication, 5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5)).
+<a name="5.24.36.5">5.24.36.5</a> **Julian/Old Style Dates**. Always make a Note on publication statement indicating the basis for the supplied year if the transcribed year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the modern European calendar (see [Date of publication, 5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5)).
 
 >Example:  
 >Date of publication: <CITE>1743 [that is, 1744]</CITE>  
@@ -173,7 +171,7 @@ sidebar:
 >Date of publication: <CITE>Februar. 8. anno 1588 [that is, 1589]</CITE>  
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>
 
-<a name="5.24.36.6">5.24.36.6</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition, make a note on publication statement on the source of supplied dates (see [5.23.31.7](/DCRMR/ppdm/Date-of-publication/#5.23.31.7)).
+<a name="5.24.36.6">5.24.36.6</a> **Multiple adjustments or additions**. If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) requires more than a single adjustment or addition, always make a Note on publication statement giving the source of the supplied dates (see [5.23.31.7](/DCRMR/ppdm/Date-of-publication/#5.23.31.7)).
 
 >Example:  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
@@ -189,14 +187,14 @@ sidebar:
 >Note on publication statement: <CITE>The year is given according to Lady Day dating</CITE>  
 >(*Source of information contains the following sentence*: “Giuen at our court at White-Hall, the seuenteenth day of Ianuary, in the first yeere of our reigne of Great Britaine, France and Ireland”)
 
-<a name="5.24.36.7">5.24.36.7</a> If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a note on publication statement (see [5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
+<a name="5.24.36.7">5.24.36.7</a> **Date of publication supplied from reference sources**. If the [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a Note on publication statement (see [5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1)).
 
 >Example:  
 >Date of publication: <CITE>[1660]</CITE>  
 >Note on publication statement: <CITE>Date of publication from Evans</CITE>  
 >(*Comment*: The formal citation for Evans’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
-<a name="5.24.36.73">5.24.36.73</a> When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/) based on any information available, always indicate the basis for the conjecture in a note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
+<a name="5.24.36.73">5.24.36.73</a> **Conjectural date of publication**. When supplying a conjectural [Date of publication](/DCRMR/ppdm/Date-of-publication/), based on any information available, always indicate the basis for the conjecture in a Note on publication statement (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)).
 
 >Example:  
 >Date of publication: <CITE>[1785]</CITE>  
@@ -206,7 +204,7 @@ sidebar:
 >Date of publication: <CITE>[1866]</CITE>  
 >Note on publication statement: <CITE>Date of publication based on copyright date. Copyright statement on title page verso reads: Entered according to Act of Congress, in the year 1866, by J.R. Jones, in the Clerk's Office of the District Court of the United States, in and for the Eastern District of Pennsylvania</CITE>  
 
-<a name="5.24.36.75">5.24.36.75</a> When supplying a probable date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), indicate the basis for the conjecture in a note on publication statement (see [Date of publication, 5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
+<a name="5.24.36.75">5.24.36.75</a> **Patterns for supplying a conjectural date of publication**. When supplying a conjectural date or period of publication according to one of the patterns shown in [5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1), always indicate the basis for the conjecture in a Note on publication statement (see [Date of publication, 5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1)).
 
 >Example:  
 >Date of publication: <CITE>[not after 1763]</CITE>  
@@ -216,13 +214,13 @@ sidebar:
 >Date of publication: <CITE>[between 1867 and 1876]</CITE>  
 >Note on publication statement: <CITE>James Wrigley is listed at this address in New York City directories for 1867 through 1876</CITE>
 
-<a name="5.24.36.8">5.24.36.8</a> Record the date of each volume in a note on publication statement if considered important. Such a note on publication statement is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication, 5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
+<a name="5.24.36.8">5.24.36.8</a> **Date of publication in multipart monographs**. Record the date of each volume in a Note on publication statement if considered important. Such a note on publication statement is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [Date of publication, 5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2)).
 
 >Example:  
 >Date of publication: <CITE>M.DC.XCIV-M.DCCI [1694-1701]</CITE>  
 >Note on publication statement: <CITE>Vol. 1: 1701; vol. 2: 1701; vol. 3: 1701; vol. 4: 1694; vol. 5: 1701; vol. 6: 1701; vol. 7: 1701; vol. 8: 1700</CITE>  
 
-<a name="5.24.36.9">5.24.36.9</a> If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, always give these additional dates in a note on publication statement (see [Date of publication, 5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1)).
+<a name="5.24.36.9">5.24.36.9</a> **Date of publication on part pages**. If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, always give these additional dates in a note on publication statement (see [Date of publication, 5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1)).
 
 >Example:  
 >Date of publication: <CITE>MDCLXXVII [1677]</CITE>  
@@ -230,7 +228,7 @@ sidebar:
 
 ## 5.24.37 Other publication details
 
-<a name="5.24.37.1">5.24.37.1</a> Make a note on publication statement for publication details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
+<a name="5.24.37.1">5.24.37.1</a> Make a Note on publication statement for any other publication details that are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
 >Example:  
 ><CITE>No more published</CITE>

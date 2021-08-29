@@ -31,13 +31,13 @@ sidebar:
 >Place of distribution: <CITE>Londini</CITE>  
 >Parallel place of distribution: <CITE>Sold in London</CITE>  
 
-<a name="5.265.31.2">5.265.31.2</a> Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position of the source of any transposed statements (see [5.285.32.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.7)).
+<a name="5.265.31.2">5.265.31.2</a> For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.32.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.7)).
 
 <a name="5.265.31.3">5.265.31.3</a> If the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as a [Place of distribution](/DCRMR/ppdm/Place-of-distribution/).  If this criterion does not apply, transcribe the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) that appears first.
 
-<a name="5.265.31.4">5.265.31.4</a> Transcribe any remaining [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) as parallel places of distribution. If a parallel place of distribution is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important for identification (see [Note on distribution statement, 5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.265.31.4">5.265.31.4</a> Transcribe remaining places appearing on the same source as the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) as Parallel places of distribution. If a parallel place of distribution is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
-<a name="5.265.31.5">5.265.31.5</a> *Optionally*, if the parallel places of distribution are too numerous to list exhaustively and some may be omitted without significant loss of identification then all parallel places of distribution after the third may be omitted. In such cases, after the third parallel place of distribution, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
+<a name="5.265.31.5">5.265.31.5</a> *Optionally*, if the Parallel places of distribution are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel places of distribution in the supplied phrase. Do not use the mark of omission.
 
 ---
 

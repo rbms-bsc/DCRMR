@@ -25,16 +25,18 @@ sidebar:
 
 ## 5.26.3 General rule
 
-<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions. 
+<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation, together with any associated words or phrases in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](//DCRMR/general-rules/Transcription/#0.4.94.05)). 
 
-<a name="5.26.3.2">5.26.3.2</a> Transcribe the place of distribution as it appears on the manifestation. If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe these as well.
+<a name="5.26.3.2">5.26.3.2</a> If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe this as well.
 
 >Example:  
 ><CITE>Boston in N. England</CITE>  
 
+<a name="5.26.3.3">5.26.3.3</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the publication statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the distributor’s name, transcribe that information as part of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)).
+
 ## 5.26.31 Place of distribution with initial prepositions, etc.
 
-<a name="5.26.31.1">5.26.31.1</a> Include in the transcription any prepositions appearing before the place of distribution as well as any accompanying words or phrases associated with the place name.
+<a name="5.26.31.1">5.26.31.1</a> Transcribe any prepositions appearing before the place of distribution as well as any accompanying words or phrases associated with the place name.
 
 >Example:  
 ><CITE>A Londres</CITE>
@@ -50,14 +52,14 @@ sidebar:
 
 ## 5.26.32 Supplied modern forms of place names
 
-<a name="5.26.32.1">5.26.32.1</a> If considered necessary for identification and if known, supply in square brackets the modern form of the name of the place. Use a modern form of the name in the language of the cataloging agency.
+<a name="5.26.32.1">5.26.32.1</a> Supply in square brackets the modern form of the name of the place, if known and if considered important. Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 ><CITE>Lugduni Batavorum [Leiden]</CITE>
 
 ## 5.26.323 Supplied fuller forms of place names 
 
-<a name="5.26.323.1">5.26.323.1</a>  If a place name is found only in an abbreviated form on the manifestation, transcribe it as found. Supply in square brackets the full form of the name, or the remainder of the name, if considered necessary for identification.
+<a name="5.26.323.1">5.26.323.1</a>  If a place name is found only in an abbreviated form on the manifestation, transcribe it as found. Supply in square brackets the full form of the name, or the remainder of the name, if considered important.
 
 ## 5.26.325 Supplied larger jurisdictions
 
@@ -72,7 +74,7 @@ sidebar:
 >Example:  
 ><CITE>A Lausanne & se trouve à Paris</CITE>
 
-<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if it is considered that the places are too numerous to list exhaustively, and that some may be omitted without significant loss of identification, the place of distribution may be shortened by omitting all the places after the third. In such cases, after the third place, supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted places (if more than one) in the supplied phrase. Do not use a mark of omission.
+<a name="5.26.33.2">5.26.33.2</a> *Optionally*, if the places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
 
 <a name="5.26.33.3">5.26.33.3</a> If a subsequent place of distribution is not related to the same distributor, transcribe it in association with the distributor to which it corresponds.
 
@@ -80,7 +82,7 @@ sidebar:
 >Distribution statement: <CITE>Prostat Parisiis : Apud Ludovicum Nicolaum Prévost, Theophilum Barrois, viâ quam vocant quai des Augustins ; Prostat Londini: Apud Petrum Elmsly ; Prostat Viennae : Apud Rudolphum Graeffer ; Prostat Argentorati [Strasbourg] : Apud Amandum Koenig</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.26.33.4">5.26.33.4</a> Do not, however, transcribe a subsequent place as a place of distribution if it must be recorded as a grammatically inseparable part of another element.
+<a name="5.26.33.4">5.26.33.4</a> Do not, however, transcribe a subsequent place as a Place of distribution if it must be transcribed as a grammatically inseparable part of another element.
 
 >Example:  
 >Distribution statement: <CITE>London : Sold at Messrs. Robinsons', Pater-Noster Row; Mr. Taylor, Architectural library, Holborn and Mr. Faulder's, New Bond Street; also by Edward Jones, Birmingham; G. Morris, Stratford-upon-Avon; and by the author, Henley in Arden, 1799</CITE>  
@@ -92,11 +94,11 @@ sidebar:
 
 ## 5.26.34 Places of distribution in multipart monographs
 
-<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication, always give the place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
+<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication,  transcribe the Place of distribution of the first or earliest part and always give the Place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
 
 ## 5.26.35 Place names that are grammatically inseparable parts of other elements 
 
-<a name="5.26.35.1">5.26.35.1</a> If the place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern form of the name in the language of the cataloging agency.
+<a name="5.26.35.1">5.26.35.1</a> If the Place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 >Place of distribution: <CITE>[Hanover]</CITE>  
@@ -108,9 +110,9 @@ sidebar:
 
 ## 5.26.36 Fictitious or incorrect places of distribution
 
-<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). If the actual place is known, or can be reasonably surmised, supply the correction and give its basis in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
+<a name="5.26.36.1">5.26.36.1</a> If the place of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.2)).
 
-<a name="5.26.36.2">5.26.36.2</a>  *Optionally*, if the place name is known to be fictitious, transcribe it as it appears and supply in square brackets the actual place name, preceded by "that is," if known. Use a modern form of name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).
+<a name="5.26.36.2">5.26.36.2</a> If the place name is known to be fictitious and the actual Place of distribution is known or can be reasonably surmised, transcribe it as it appears and supply the actual place name, preceded by "that is," all enclosed within square brackets. Use a modern form of name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.3)).  If the supplied place name is uncertain, record it following the instructions at [5.26.385](/DCRMR/ppdm/Place-of-distribution/#526385-place-of-distribution-uncertain-or-unknown).
 
 >Example:  
 >Place of distribution: <CITE>Londini [that is, Leipzig]</CITE>  
@@ -119,7 +121,7 @@ sidebar:
 
 ## 5.26.37 No place of distribution
 
-<a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known,  supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered necessary for identification. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)).
+<a name="5.26.37.1">5.26.37.1</a> If no place of distribution appears on the manifestation but is known or can be reasonably surmised, supply it in square brackets. Use a modern form of the name in the language of the cataloging agency, and include the name of the larger jurisdiction if considered important. Use the location associated with the first transcribed distributor if one is present. Provide a justification for the supplied place in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if  not apparent from the rest of the description and if considered important (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)). If the supplied place name is uncertain, record it following the instructions at [5.26.385](/DCRMR/ppdm/Place-of-distribution/#526385-place-of-distribution-uncertain-or-unknown).
 
 >Example:  
 >Place of distribution: <CITE>[London]</CITE>  
@@ -130,11 +132,11 @@ sidebar:
 >Note on distribution statement: <CITE>The Pasquino is in Rome</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the place name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered necessary for identification, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
+<a name="5.26.37.2">5.26.37.2</a> If the name of the place of distribution has changed over time, supply the place name appropriate to the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) if known (e.g., Leningrad, not Saint Petersburg, for manifestations published in that city between 1924 and 1991). If considered important, also supply the modern place name and the name of the larger jurisdiction, preceded by "that is," in the language of the cataloging agency.
 
 ## 5.26.38 Place of distribution supplied based on address or sign
 
-<a name="5.26.38.1">5.26.38.1</a> Supply in square brackets a modern form of the name in the language of the cataloging agency, when only an address or description of a trade sign appears on the manifestation. (Transcribe the address or sign as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/); see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if necessary (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).
+<a name="5.26.38.1">5.26.38.1</a> When only an address or description of a trade sign appears on the manifestation and the place name is known or can be reasonably surmised,  supply a modern form of the place name in the language of the cataloging agency in square brackets. (Transcribe a statement containing the address or sign in the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) element; see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.37.32.1).) When supplying the place of distribution, give a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) if not apparent from the rest of the description and if considered important (see [5.285.32.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.5)).  If the supplied place name is uncertain, record it following the instructions at [5.26.385](/DCRMR/ppdm/Place-of-distribution/#526385-place-of-distribution-uncertain-or-unknown).
 
 >Example:  
 >Distribution statement: <CITE>[London] : To be sold at the first shop in Popes-Head-Alley, next to Cornhill, near the Exchange
@@ -151,7 +153,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 >Example:  
 ><CITE>[Cologne?]</CITE>
 
-<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
+<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured and is considered important, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Canada]</CITE>
@@ -159,7 +161,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 >Example:  
 ><CITE>[Scotland?]</CITE>
 
-<a name="5.26.385.3">5.26.385.3</a> If the reason for supplying the place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
+<a name="5.26.385.3">5.26.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
 
 <a name="5.26.385.4">5.26.385.4</a> If no place of distribution can be conjectured, record “Place of distribution not identified” in square brackets.
 
@@ -168,7 +170,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) or, if this criterion does not apply, transcribe the place that appears first. Transcribe the remaining place(s) as [Parallel places of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source of any transposed statements (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.26.39.1">5.26.39.1</a>  If the Place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 >Example:   
 >Place of distribution: <CITE>Londini</CITE>  

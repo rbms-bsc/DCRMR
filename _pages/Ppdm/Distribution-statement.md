@@ -25,13 +25,13 @@ sidebar:
 
 ## 5.25.3 General rule
 
-<a name="5.25.3.1">5.25.3.1</a>  Transcribe the distribution statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="5.25.3.1">5.25.3.1</a>  Transcribe the Distribution statement in the form and order in which it is presented on the preferred source of information, unless specifically (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 5.25.31 Information covered by labels, etc.
 
 <a name="5.25.31.1">5.25.31.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [5.285.31.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.4)).
 
-<a name="5.25.31.2">5.25.31.2</a>  For printed materials with manuscript overwrite, use judgment in determining whether or not the overwrite should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript overwrite to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.25.31.2">5.25.31.2</a>  For printed materials with manuscript information, use judgment in determining whether or not the manuscript information should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript information to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.25.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
