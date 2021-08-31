@@ -80,7 +80,7 @@ sidebar:
 >Date of publication: <CITE>[1650]</CITE>  
 >Note on publication statement: <CITE>Date of publication derived from chronogram in colophon: Der FrIeD Vnsers Herrn IesV ChrIstI behVte Vnsere Hertzen VnD SInn, Von Ietzt an, bIss In EVVIgkeIt</CITE>  
 
-<a name="5.23.31.25">5.23.31.25</a> *Optionally*, transcribe the chronograph as it appears. Include the date in arabic numerals in square brackets.
+<a name="5.23.31.25">5.23.31.25</a> *Optionally*, transcribe the chronogram as it appears. Include the date in arabic numerals in square brackets.
 
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 

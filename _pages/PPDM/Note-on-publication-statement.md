@@ -35,7 +35,7 @@ sidebar:
 >Publication statement: <CITE>Lugduni : Apud Seb. Gryphium, 1538</CITE>  
 >Note on publication statement: <CITE>Place of publication follows publisher’s name on title page</CITE>
 
-<a name="5.24.31.4">5.24.31.4</a> **Information covered by labels, etc.** Always make a Note on publication statement if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1)). Give information about intermediate details, if any, if considered important.
+<a name="5.24.31.4">5.24.31.4</a> **Information covered by labels, etc.** Always make a Note on publication statement if any of the original details relating to the [Publication statement](/DCRMR/ppdm/Publication-statement/) are covered by a label, stamp, overprint, or other means showing later information and the original details are visible or otherwise available (see [5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1)). 
 
 >Example:  
 ><CITE>Imprint from label which covers earlier imprint: “Chez Francois Marret, marchand libraire sur le marché aux fleurs”</CITE>
