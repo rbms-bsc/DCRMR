@@ -61,7 +61,7 @@ sidebar:
 >Place of publication: <CITE>A Londres</CITE>  
 >Note on publication statement: <CITE>The place of publication is false; typographical evidence suggests French printing</CITE>  
 
-<a name="5.24.32.3">5.24.32.3</a> When supplying the actual [Place of publication](/DCRMR/ppdm/Place-of-publication/) in square brackets, always give the basis for the correction or clarification in a note on publication statement (see [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
+<a name="5.24.32.3">5.24.32.3</a> When supplying the actual [Place of publication](/DCRMR/ppdm/Place-of-publication/) in square brackets, always give the basis for the correction or clarification in a Note on publication statement (see [5.21.36.2](/DCRMR/ppdm/Place-of-publication/#5.21.36.2)).
 
 >Example:  
 >Place of publication: <CITE>Philadelphia [that is, Frankfurt]</CITE>  
@@ -110,7 +110,7 @@ sidebar:
 >Name of publisher: <CITE>[Edmund Curll]</CITE>  
 >Note on publication statement: <CITE>Publisher's name from the preface to the fourth edition, published in 1725, which identifies the publisher of this first edition as Edmund Curll</CITE>  
 
-<a name="5.24.34.1">5.24.34.1</a> **Publisher's identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
+<a name="5.24.34.1">5.24.34.1</a> **Publisher's identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu of the publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
 
 >Example:  
 ><CITE>Publisher identified in “The public advertiser,” Oct. 7, 1762 as Mary Darly, in Ryder's Court, near Leicester Square in London</CITE>

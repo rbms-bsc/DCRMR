@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.25.3 General rule
 
-<a name="5.25.3.1">5.25.3.1</a>  Transcribe the Distribution statement in the form and order in which it is presented on the preferred source of information, unless specifically (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="5.25.3.1">5.25.3.1</a>  Transcribe the Distribution statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 5.25.31 Information covered by labels, etc.
 

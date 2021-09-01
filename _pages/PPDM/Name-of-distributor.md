@@ -65,7 +65,7 @@ sidebar:
 
 ## 5.27.31 Names of distributors containing grammatically inseparable place names or dates
 
-<a name="5.27.31.1">5.27.31.1</a> If the Name of distributor contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the Name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
+<a name="5.27.31.1">5.27.31.1</a> If the Name of distributor contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the Name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
 
 >Example:  
 >Place of distribution: <CITE>[London]</CITE>  
@@ -110,7 +110,7 @@ If transcribing a distributor name as part of another element, do not abridge or
 
 ## 5.27.39 Name of distributor in more than one language or script
 
-<a name="5.27.39.1">5.27.39.1</a>  If the Name of distributor appears in more than one language or script, transcribe the name in the language or script of the Title proper as Name of distributor. If this criterion does not apply, transcribe the name that appears first. Transcribe the remaining distributor name(s) as [Parallel names of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
+<a name="5.27.39.1">5.27.39.1</a>  If the Name of distributor appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/] as Name of distributor. If this criterion does not apply, transcribe the name that appears first. Transcribe the remaining distributor name(s) as [Parallel names of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
 
 >Example:  
 >Name of distributor: <CITE>Prostant apud S. Baker, T. Cadell, D. Wilson, G. Nicol, et J. Murray</CITE>  
