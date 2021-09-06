@@ -46,7 +46,7 @@ sidebar:
 
 <a name="5.285.32.2">5.285.32.2</a> **Fictitious or incorrect places**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [5.26.36.1](/DCRMR/ppdm/Place-of-distribution/#5.26.36.1)).
 
-<a name="5.285.32.3">5.285.32.3</a> When supplying the actual [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) in square brackets, always give the basis for the correction or clarification in a note on distribution statement (see [Place of distribution, 5.26.36.2](/DCRMR/ppdm/Place-of-distribution/#5.26.36.2)).
+<a name="5.285.32.3">5.285.32.3</a> When supplying the actual [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) in square brackets, always give the basis for the correction or clarification in a Note on distribution statement (see [Place of distribution, 5.26.36.2](/DCRMR/ppdm/Place-of-distribution/#5.26.36.2)).
 
 >Example:  
 >Place of distribution: <CITE>Se vend a Astracan [that is, Paris]</CITE>  
@@ -60,7 +60,7 @@ sidebar:
 >Note on distribution statement: <CITE>The bookseller Felix Guybert was active in Paris from 1539 to 1563</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.285.32.5">5.285.32.5</a> **Place of distribution supplied based on address or sign**. Make a Note on distribution statement to justify a supplied the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)).
+<a name="5.285.32.5">5.285.32.5</a> **Place of distribution supplied based on address or sign**. Make a Note on distribution statement to justify a supplied [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.26.38.1](/DCRMR/ppdm/Place-of-distribution/#5.26.38.1)).
 
 >Example:  
 >Distribution statement: <CITE>[London] : To be sold at the first shop in Popes-Head-Alley, next to Cornhill, near the Exchange</CITE>  
@@ -80,7 +80,7 @@ sidebar:
 
 ## 5.285.34 Name of distributor notes
 
-<a name="5.285.34.5">5.285.34.5</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, always transcribe the distributor’s name on the first or earliest part as the Name of distributor and give the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) of the later part(s) in a Note on distribution statement (see [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
+<a name="5.285.34.5">5.285.34.5</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, always transcribe the distributor’s name on the first or earliest part as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) and give the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) of the later part(s) in a Note on distribution statement (see [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
 
 <a name="5.285.34.3">5.285.34.3</a> **Fictitious or incorrect names of distributor**. Always make a Note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
 
