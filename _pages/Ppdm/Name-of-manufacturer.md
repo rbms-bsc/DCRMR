@@ -78,7 +78,7 @@ sidebar:
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
-<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the manufacturer's name of the first or earliest part and always give the [Naem of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.5)).
+<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the manufacturer's name of the first or earliest part and always give the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.5)).
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 
