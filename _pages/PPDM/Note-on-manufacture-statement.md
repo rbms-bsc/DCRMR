@@ -87,9 +87,9 @@ sidebar:
 
 ## 5.34.34 Name of manufacturer notes
 
-<a name="5.34.34.5">5.34.34.5</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, always transcribe the manufacturer’s name on the first or earliest part as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) and give the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a Note on manufacture statement(see [5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
+<a name="5.34.34.5">5.34.34.5</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, always transcribe the manufacturer’s name on the first or earliest part as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) and give the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a Note on manufacture statement (see [5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 
-<a name="5.34.34.3">5.34.34.3</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect  (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
+<a name="5.34.34.3">5.34.34.3</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
 
 <a name="5.34.34.4">5.34.34.4</a> **Supplied name for fictitious or incorrect names of manufacturer**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on manufacture statement (see [Name of manufacturer, 5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2)).
 
@@ -113,7 +113,7 @@ sidebar:
 >Name of manufacturer: <CITE>Printed at the Bible in George-Yard, Lombard-Street</CITE>  
 >Note on manufacture statement: <CITE>The Bible in George-Yard, Lombard Street, was the address of the printer Luke Hind. According to the British Book Trade Index he was active there from 1735-1767</CITE>  
 
-<a name="5.34.34.2">5.34.34.2</a> **Devices**. If the publisher’s name has been supplied based on a device, always make a Note on manufacture statement about the basis for the identification(see [Name of manufacturer, 5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
+<a name="5.34.34.2">5.34.34.2</a> **Devices**. If the publisher’s name has been supplied based on a device, always make a Note on manufacture statement about the basis for the identification (see [Name of manufacturer, 5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
 
 >Example:  
 ><CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
@@ -151,7 +151,7 @@ sidebar:
 
 <a name="5.34.36.8">5.34.36.8</a> **Date of manufacture in multipart monographs**. Record the date of each volume in a Note on manufacture statement if considered important. Such a Note on manufacture statement is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [Date of manufacture, 5.33.355.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.355.2)).
 
-<a name="5.34.36.9">5.34.36.9</a> **Date of manufacture in multipart monographs**. If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, always give these additional dates in a Note on manufacture statement (see [Date of manufacture, 5.33.356.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.356.1)).
+<a name="5.34.36.9">5.34.36.9</a> **Date of manufacture on part pages**. If parts of a manifestation have individual title pages bearing dates that differ from the date pertaining to the whole manifestation, always give these additional dates in a Note on manufacture statement (see [Date of manufacture, 5.33.356.1](/DCRMR/ppdm/Date-of-manufacture/#5.33.356.1)).
 
 ## 5.34.37 Other manufacture details
 

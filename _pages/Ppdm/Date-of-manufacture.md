@@ -45,7 +45,7 @@ sidebar:
 
 <a name="5.33.352.2">5.33.352.2</a> **Chronograms**. If the date appears only in the form of a chronogram, substitute for it the date in arabic numerals in square brackets. If the supplied date includes a day/month, use the pattern: day, month, year. Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) explaining the source of the date. Include transcription of the original chronogram in the note if considered important (see [5.34.36.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.1)).
 
-<a name="5.33.352.25"> *Optionally*, transcribe the chronogram as it appears. Include the date in arabic numerals in square brackets.
+<a name="5.33.352.25">5.33.352.25</a> *Optionally*, transcribe the chronogram as it appears. Include the date in arabic numerals in square brackets.
 
 <a name="5.33.352.3">5.33.352.3</a> **Very long dates**. If the date on the preferred source of information is very long, substitute for it a formalized statement in square brackets. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and form of the statement (see [5.34.36.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.2)).
 
