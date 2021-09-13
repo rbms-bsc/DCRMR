@@ -35,15 +35,6 @@ sidebar:
 + mixed color  
 + one color  
 
->Example:  
->Color content: <CITE>hand colored</CITE>     
->Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
->(*Comment*: Title contains statement "embellished with colored engravings")
- 
->Example:  
->Color content: <CITE>hand colored</CITE>    
->Details of color content: <CITE>Wood engravings hand colored, as issued</CITE>
-
 ## 6.23.31 Printed color
 
 <a name="6.23.31.1">6.23.31.1</a> Treat illustrations printed with a tint block (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
@@ -63,6 +54,11 @@ sidebar:
 <a name="6.23.32.3">6.23.32.3</a> Exercise caution in recording hand coloring as an attribute of the manifestation in color content or [Details of color content](/DCRMR/phys-desc/Details-of-color-content/).
 
 <a name="6.23.32.4">6.23.32.4</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color as issued in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
+
+>Example:  
+>Color content: <CITE>hand colored</CITE>  
+>Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
+>(*Comment*: Title contains statement “embellished with colored engravings”)
 
 <a name="6.23.32.5">6.23.32.5</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
 

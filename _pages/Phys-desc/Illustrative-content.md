@@ -76,13 +76,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 <a name="6.22.31.4">6.22.31.4</a> Record “illustrations” in addition to terms specifying particular types of illustrations if the particular types are not the only illustrations in the resource.
 
 >Example:  
-><CITE>illustrations</CITE>  
-
->Example:  
-><CITE>maps</CITE>  
-
->Example:  
-><CITE>plans</CITE>  
+><CITE>illustrations, maps, plans</CITE>   
 
 ## 6.22.33 Illustrations in pockets and on endpapers
 
@@ -108,29 +102,13 @@ Make a note describing these graphic processes or techniques in more detail if c
 ><CITE>94 illustrations</CITE>
 
 >Example:  
-><CITE>illustrations</CITE> 
+><CITE>illustrations, 8 facsimiles</CITE> 
 
 >Example:  
-><CITE>8 facsimiles</CITE>  
+><CITE>3 illustrations, 1 map</CITE>  
 
 >Example:  
-><CITE>3 illustrations</CITE>  
-
->Example:  
-><CITE>1 map</CITE>
-
->Example:  
-><CITE>6 illustrations</CITE>
-
->Example:  
-><CITE>2 maps</CITE>
-
->Example:  
-><CITE>1 portrait</CITE>
-
->Example:  
-><CITE>1 illustration</CITE>  
->Details of illustrative content: <CITE>Illustration is a title page vignette depicting a woman with raised sword and torch, with two serpents rising out of an inferno in the background</CITE>
+><CITE>6 illustrations, 2 maps, 1 portrait</CITE>
 
 <a name="6.22.35.2">6.22.35.2</a> *Optionally*, record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important.
 
@@ -140,10 +118,10 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 <a name="6.22.37.2">6.22.37.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
-*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".  
-            
 >Example:  
 > <CITE>chiefly illustrations</CITE>
+
+*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".  
 
 >Example:  
 > <CITE>chiefly maps</CITE>  

@@ -40,7 +40,8 @@ sidebar:
 <a name="6.24.3.2">6.24.3.2</a> If one of the measurements would normally be given in millimeters and one in centimeters, record both measurements in millimeters.
 
 >Example:  
-> <CITE>95 x 120 mm</CITE>
+><CITE>95 x 120 mm</CITE>  
+>(*Comment*: A manifestation measuring between 94 and 95 mm in height and between 11 and 12 cm in width)
 
 <a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
