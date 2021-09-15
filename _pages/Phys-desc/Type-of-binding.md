@@ -43,7 +43,7 @@ sidebar:
 ><CITE>On heavy board pages cut in the shape of the shop</CITE>
 
 >Example:  
-><CITE>In yellow wrappers with illustrations on pages [2] and [3], and publisher's advertisement on page [4] of cover</CITE>
+><CITE>In yellow wrappers; with illustrations on inside of front and back wrapper, and publisher’s advertisement on outside of back wrapperr</CITE>
 
 <a name="6.32.3.2">6.32.3.2</a> *Optionally*, record specific types of bindings using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"},
  the [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/binding/alphabetical_list.htm){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.

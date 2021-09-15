@@ -31,10 +31,10 @@ sidebar:
 ><CITE>Printed on vellum</CITE>
 
 >Example:  
-><CITE>"Of this edition fifty-eight copies have been printed on paper, and four on vellum"--Preliminary leaf</CITE>
+><CITE>“Of this edition fifty-eight copies have been printed on paper, and four on vellum”&#8208;&#8208;preliminary leaf</CITE>
 
 >Example:  
-><CITE>"Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper."</CITE>
+><CITE>“Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper”&#8208;&#8208;unnumbered leaf preceding half title page</CITE>
 
 ---
 

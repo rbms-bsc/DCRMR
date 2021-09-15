@@ -27,6 +27,12 @@ sidebar:
 
 <a name="6.285.3.1">6.285.3.1</a> Record details of layout if considered important (see [6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
 
+>Example:  
+><CITE>A folded sheet with eighteen panels on each side when unfolded. All panels are unnumbered</CITE>  
+
+>Example:  
+><CITE>A folded sheet with four panels on each side. The “outside” contains a title panel, two panels of text, and a “Guide map” or street map on the fourth panel. The “inside” contains a plat map of the property being auctioned, spread over all four panels</CITE>
+
 <a name="6.285.3.2">6.285.3.2</a> For incunabula, record the number of columns and the number of lines. Do the same for later publications if considered important. 
 
 >Example:  

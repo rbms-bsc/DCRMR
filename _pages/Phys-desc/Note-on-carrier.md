@@ -29,6 +29,9 @@ sidebar:
 
 <a name="6.355.3.2">6.355.3.2</a> Make a free-text note on carrier that combines descriptions from [Details of base material](/DCRMR/phys-desc/Details-of-base-material/) ([6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) ([6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)), or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) ([6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)), if considered important. This note may be recorded in addition to information recorded as [Details of base material](/DCRMR/phys-desc/Details-of-base-material/), [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/),  or [Details of production method](/DCRMR/phys-desc/Details-of-production-method/).
 
+>Example:  
+><CITE>Drawing in graphite and wash with black ink highlights, on pink laid paper</CITE>  
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.35 — Carrier type")](/DCRMR/phys-desc/Carrier-type/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "7 — Numbering of serials")](/DCRMR/numbering-of-serials/)

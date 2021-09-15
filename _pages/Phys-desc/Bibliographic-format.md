@@ -32,8 +32,8 @@ sidebar:
 >(*Comment*: A publication in quarto)
 
 >Example:  
->Bibliographic format: <CITE>4to</CITE>  
->Bibliographic format: <CITE>8vo</CITE>  
+><CITE>4to</CITE>  
+><CITE>8vo</CITE>  
 >(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
 
 <a name="6.29.3.2">6.29.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
