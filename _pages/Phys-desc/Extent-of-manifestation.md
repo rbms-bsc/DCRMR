@@ -95,7 +95,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 ><CITE>[2], 40 pages</CITE>  
 >(*Comment*: Pages are numbered 3-40 with four unnumbered pages at the beginning)
 > 
->but  
+>*but*  
 > 
 ><CITE>[2], 5-40 pages</CITE>  
 >(*Comment*: Pages are numbered 5-40 with two unnumbered pages at the beginning; there is no evidence that any leaves are missing)
