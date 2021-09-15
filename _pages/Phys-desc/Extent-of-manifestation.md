@@ -76,14 +76,15 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 <a name="6.21.4225.1">6.21.4225.1</a> Count unnumbered sequences of pages or leaves according to the terms used to describe the rest of the manifestation or the part of the manifestation with which they are associated. In ambiguous cases count them as leaves when they are all printed on one side only; otherwise count them as pages.  If the gatherings are discernible, include in the count blank leaves at the beginning of the first gathering or at the end of the final gathering when they are present in an item in hand or known to be present in other exemplars of the manifestation. Record the presence of such blank leaves in [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see [6.215.423.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.423.1)). Do not count possibly blank leaves wanting according to signature count and not known to exist in other exemplars. Record unnumbered pages or leaves by enclosing the total number in the sequence within square brackets.
 
-> Example:  
-> <CITE>[4], 52 pages</CITE>
+>Example:  
+><CITE>[4], 52 pages</CITE>
+
+>Example:  
+>Extent of manifestation: <CITE>[4], 73, [3] pages</CITE>  
+>Note on extent of manifestation: <CITE>The first and last leaves are blank</CITE>
 
 > Example:  
-> <CITE>[6], 321, [1] pages</CITE>
-
-> Example:  
->  <CITE>iv, [40], 328 pages</CITE>
+><CITE>iv, [40], 328 pages</CITE>
 
 >Example:  
 ><CITE>[12], 112 pages, 113-120 leaves, 121-568 pages, 569-604 leaves, 605-913, [15] pages</CITE>  
@@ -170,8 +171,13 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 <a name="6.21.424.5">6.21.424.5</a> If the pages, leaves, or columns of a manifestation are numbered as part of a larger sequence (e.g., one volume of a multipart publication), record the number of the first and the last numbered page, leaf, or column, preceded by the appropriate term. 
 
 >Example:  
-> Extent of manifestation: <CITE>pages [1], 432-488</CITE>  
-> (*Comment*: An offprint from Memoirs of the Literary and Philosophical Society of Manchester, volume 4, part 2, Manchester, 1796)
+><CITE>pages 713-797, [1]</CITE>  
+>(*Comment*: Fragment, detached from larger work)  
+>  
+>*but*  
+>  
+><CITE>[1], 432-488 pages</CITE>  
+>(*Comment*: This is a complete publication issued separately with this pagination; an offprint from Memoirs of the Literary and Philosophical Society of Manchester, volume 4, part 2, Manchester, 1796)
 
 <a name="6.21.424.6">6.21.424.6</a> If a manifestation contains multiple sequences of numbered or unnumbered pages, leaves, or columns, preferably record all of the sequences in the form and sequence presented. 
 
@@ -220,6 +226,9 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 > <CITE>[94] pages</CITE> 
 
 <a name="6.21.425.2">6.21.425.2</a> *Optionally*, if determining the total number of pages or leaves of an unnumbered volume might damage an item in fragile condition, give one of the designations used for manifestations issued in more than one physical unit (see [6.21.431.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.1)) followed by “unpaged” or “unfoliated.”
+
+>Example:  
+><CITE>1 volume (unpaged)</CITE>
 
 #### 6.21.426 Leaves or pages of plates
 

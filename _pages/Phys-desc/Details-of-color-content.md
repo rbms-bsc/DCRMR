@@ -61,10 +61,10 @@ sidebar:
 <a name="6.235.33.2">6.235.33.2</a> If there is strong evidence that some copies of the resource were issued with hand coloring applied before distribution, and some without, record this information as details of color content (see [Color content, 6.23.32.5](/DCRMR/phys-desc/Color-content/#6.23.32.5)).
 
 >Example:  
-><CITE>“Price 25 cents plain, 37 1/2 cents colored”-- Foot of title page</CITE>  
+><CITE>“Price 25 cents plain, 37 1/2 cents colored”&#8208;&#8208;Foot of title page</CITE>  
 
 >Example:  
-><CITE>“Price 1s. colored, 6d. uncolored”-- Following imprint</CITE> 
+><CITE>“Price 1s. colored, 6d. uncolored”&#8208;&#8208;Following imprint</CITE> 
 
 <a name="6.235.33.3">6.235.33.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one exemplar of the manifestation is representative of the coloring scheme for all exemplars. 
 
