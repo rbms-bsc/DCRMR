@@ -126,7 +126,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 ## I.01.55 Spelling and style
 
-<a name="I.01.55.1">I.01.55.1</a> DCRMR uses [*Merriam-Webster Online*](https://www.merriam-webster.com){:target="_blank"} as its authority in matters of spelling and the 17th edition of the *Chicago Manual of Style* as its authority in matters of style.
+<a name="I.01.55.1">I.01.55.1</a> DCRMR uses [Merriam-Webster Online](https://www.merriam-webster.com){:target="_blank"} as its authority in matters of spelling and the 17th edition of the *Chicago Manual of Style* as its authority in matters of style.
 
 ## I.01.6 Acronyms
 
