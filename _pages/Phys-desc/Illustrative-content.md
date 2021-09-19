@@ -25,11 +25,11 @@ sidebar:
 
 <a name="6.22.2.2">6.22.2.2</a> Illustrative content applies to an aggregate that embodies an expression with a content type of "cartographic image", "cartographic moving image", "cartographic tactile image", "cartographic tactile three-dimensional form", "cartographic three-dimensional form", "three-dimensional moving image", "two-dimensional moving image", "tactile three-dimensional form", "three-dimensional form", "still image", or "tactile image". Tables containing only words or numerical data are excluded.
 
-<a name="6.22.2.3">6.22.2.3</a> Tables containing only words and/or numerical data are excluded.
+Tables containing only words and/or numerical data are excluded.
 
 ## 6.22.3 General rule
 
-<a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
+<a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the term general “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
 
 >Example:  
 ><CITE>illustration</CITE>   
@@ -39,13 +39,11 @@ sidebar:
 
 <a name="6.22.3.2">6.22.3.2</a> *Optionally*, disregard minor illustrations.
 
-<a name="6.22.3.3">6.22.3.3</a> **Ornaments, etc.** Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these if considered important (see [Details of illustrative content, 6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
+<a name="6.22.3.3">6.22.3.3</a> **Ornaments, etc.** Do not regard ornaments (e.g., head-pieces, vignettes, tail-pieces, printers’ devices, architectural borders), pictorial covers, or pictorial dust jackets as illustrations. Make a note on these [Details of illustrated content](/DCRMR/phys-desc/Details-of-illustrative-content/) if considered important (see [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)). 
 
 <a name="6.22.3.4">6.22.3.4</a> **Illustrated title pages**. Treat illustrated title pages as illustrative content.  Make a note to indicate any title-page illustration so treated if considered important (see [Details of illustrative content, 6.225.3.3](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.3)).
 
-<a name="6.22.3.5">6.22.3.5</a> **Graphic processes or techniques**. *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).  
-
-Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
+<a name="6.22.3.5">6.22.3.5</a> **Graphic processes or techniques**. *Optionally*, record controlled terms for graphic processes or techniques used in producing illustrative content in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)). Make a note describing these graphic processes or techniques in more detail if considered important (see [Details of illustrative content, 6.225.3.4](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.4)). 
 
 ## 6.22.31 Types of illustrations 
 
@@ -65,7 +63,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 <a name="6.22.31.2">6.22.31.2</a> Record a term in the singular or plural as appropriate.
 
-<a name="6.22.31.3">6.22.31.3</a> Replace “illustration” or “illustrations” with terms specifying particular types of illustrations if the particular types are the only illustrations in the resource.
+<a name="6.22.31.3">6.22.31.3</a> Replace the general term“illustration” or “illustrations” with terms specifying particular types of illustrative content if the particular types are the only illustrative content in the resource.
 
 >Example:    
 ><CITE>map</CITE>  
@@ -73,14 +71,14 @@ Make a note describing these graphic processes or techniques in more detail if c
 >Example:  
 ><CITE>portraits</CITE>
 
-<a name="6.22.31.4">6.22.31.4</a> Record “illustrations” in addition to terms specifying particular types of illustrations if the particular types are not the only illustrations in the resource.
+<a name="6.22.31.4">6.22.31.4</a>  Record the general term “illustrations” in addition to terms specifying particular types of illustrative content if the particular types are not the only illustrative content in the resource.
 
 >Example:  
 ><CITE>illustrations, maps, plans</CITE>   
 
-## 6.22.33 Illustrations in pockets and on endpapers
+## 6.22.33 Illustrations in pockets
 
-<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Accompanied by manifestation, 9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
+<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Note on manifestation, 9.3.38.7](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.7)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -88,7 +86,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 
 ## 6.22.335 Illustrations on endpapers
 
-<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
+<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.32.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  
@@ -121,7 +119,7 @@ Make a note describing these graphic processes or techniques in more detail if c
 >Example:  
 > <CITE>chiefly illustrations</CITE>
 
-*Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.3](/DCRMR/phys-desc/Illustrative-content/#6.22.31.3)), precede the term specifying the particular type with "chiefly".  
+<a name="6.22.37.3">6.22.37.3</a> *Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.1](/DCRMR/phys-desc/Illustrative-content/#6.22.31.1)), precede the term specifying the particular type with "chiefly".  
 
 >Example:  
 > <CITE>chiefly maps</CITE>  

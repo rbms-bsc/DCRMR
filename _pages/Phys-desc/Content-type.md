@@ -27,7 +27,9 @@ sidebar:
 
 ## 6.33.3 General rule
 
-<a name="6.33.3.1">6.33.3.1</a> Record the content type of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.
+<a name="6.33.3.1">6.33.3.1</a> Record the Content type(s) of the manifestation using terms from the [RDA Value Vocabularies: RDA Content Type](http://www.rdaregistry.info/termList/RDAContentType/){:target="_blank"}.
+
+<a name="6.33.3.2">6.33.3.2</a> *Optionally*, if the resource consists of more than one content type and one content type predominates (e.g., a textual work with a few illustrations), record content type for the predominant one only. 
 
 ---
 

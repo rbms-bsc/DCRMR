@@ -24,9 +24,9 @@ sidebar:
 <a name="6.35.2.1">6.35.2.1</a> A categorization reflecting the format of the storage medium and housing of a carrier in combination with the type of intermediation device required to view, play, run, etc., the content of a manifestation.
 
 ## 6.35.3 General rule
-<a name="6.35.3.1">6.35.3.1</a> Record the carrier type of the manifestation using terms from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"}.
+<a name="6.35.3.1">6.35.3.1</a> Record the Carrier type of the manifestation using terms from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"}.
 
-<a name="6.35.3.2">6.35.3.2</a> Manifestation-level descriptions of carriers usually apply to all exemplars of an edition or issue. Information that applies to particular groups of exemplars within an edition or issue may also be recorded as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [6.355.3.1](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.1)). Record information pertaining to individual exemplars as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) (see [9.41.3.1](/DCRMR/additional-notes/Modification-of-item/#9.41.3.1)). 
+<a name="6.35.3.2">6.35.3.2</a> Manifestation-level descriptions of carriers usually apply to all exemplars of an edition or issue. Information that applies to particular groups of exemplars within an edition or issue may also be recorded as [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [6.355.3.1](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.1)). Record information pertaining to individual exemplars as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)). 
 
 ---
 

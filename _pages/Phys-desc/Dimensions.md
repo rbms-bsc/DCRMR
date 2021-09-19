@@ -43,7 +43,7 @@ sidebar:
 ><CITE>95 x 120 mm</CITE>  
 >(*Comment*: A manifestation measuring between 94 and 95 mm in height and between 11 and 12 cm in width)
 
-<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known, and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
+<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 ## 6.24.33 Volumes
 
@@ -54,7 +54,7 @@ sidebar:
 >Example:  
 > <CITE>27 cm</CITE>
 
-<a name="6.24.331.2">6.24.331.2</a> When the height of the text block differs by 3 centimeters or more from the height of the binding and the binding was issued by the publisher, specify both. For descriptions of item-specific bindings, see [Modificiation of item, 9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1).
+<a name="6.24.331.2">6.24.331.2</a> When the height of the text block differs by 3 centimeters or more from the height of the binding *and* the binding was issued by the publisher, specify both. For descriptions of item-specific bindings, see [Modification of item, 9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1).
 
 >Example:  
 > <CITE>text block 12 cm, in binding 20 cm</CITE>
@@ -71,7 +71,7 @@ sidebar:
 
 ### 6.24.335 Differing sizes
 
-<a name="6.24.335.1">6.24.335.1</a> If the volume contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
+<a name="6.24.335.1">6.24.335.1</a> If the volume as issued contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 <a name="6.24.335.2">6.24.335.2</a> If the volumes of a multipart set differ in size, record the smallest or smaller size and the largest or larger size, separated by a hyphen.
 

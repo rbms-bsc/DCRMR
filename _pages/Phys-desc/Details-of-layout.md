@@ -21,11 +21,11 @@ sidebar:
 
 ## 6.285.2 RDA definition and scope
 
-<a name="6.285.2.1">6.285.2.1</a> Details of an arrangement of text, images, tactile notation, etc., in a manifestation.
+<a name="6.285.2.1">6.285.2.1</a> Details of an arrangement of text, images, tactile notation, or other content in a manifestation.
 
 ## 6.285.3 General rule 
 
-<a name="6.285.3.1">6.285.3.1</a> Record details of layout if considered important (see [6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
+<a name="6.285.3.1">6.285.3.1</a> Record Details of layout if considered important (see [Layout, 6.28.3.2](/DCRMR/phys-desc/Layout/#6.28.3.2)).
 
 >Example:  
 ><CITE>A folded sheet with eighteen panels on each side when unfolded. All panels are unnumbered</CITE>  

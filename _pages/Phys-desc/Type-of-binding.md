@@ -60,6 +60,8 @@ sidebar:
 
 <a name="6.32.3.5">6.32.3.5</a> Record descriptions of containers issued with the manifestation if considered important. 
 
+<a name="6.32.3.6">6.32.3.6</a> Record descriptions of dust jackets issued with the manifestation if considered important. For instructions on dust jackets as sources of information, see [Integrity of the copy, I.01.8.2](/DCRMR/introduction/#I.01.8.2).
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.315 — Details of font size")](/DCRMR/phys-desc/Details-of-font-size/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.33 — Content type")](/DCRMR/phys-desc/Content-type/)

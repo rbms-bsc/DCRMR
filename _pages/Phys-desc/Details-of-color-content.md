@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.235.3 General rule
 
-<a name="6.235.3.1">6.235.3.1</a> Make a note on details of color content if considered important (see [Color content](/DCRMR/phys-desc/Color-content/)).
+<a name="6.235.3.1">6.235.3.1</a> Make a note on details of color content if considered important (see [Color content, 6.23](/DCRMR/phys-desc/Color-content/)).
 
 ## 6.235.31 Details of printed color
 
@@ -39,7 +39,7 @@ sidebar:
 >Example:  
 ><CITE>Title and preliminary pages are printed in red and black ink</CITE>
 
-<a name="6.235.31.3">6.235.31.3</a> For incunabula, always record color printing if present (see [Color content, 6.23.31.4](/DCRMR/phys-desc/Color-content/#6.23.31.4)).
+For incunabula, always record color printing if present (see [Color content, 6.23.31.4](/DCRMR/phys-desc/Color-content/#6.23.31.4)).
 
 >Example:  
 ><CITE>Printed in red and black</CITE>  
@@ -47,7 +47,7 @@ sidebar:
 
 ## 6.235.33 Details of hand coloring
 
-<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.32.4](/DCRMR/phys-desc/Color-content/#6.23.32.4)). Record the evidence used to determine that the hand coloring was applied before distribution, if it is not recorded in another part of the description.
+<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.32.4](/DCRMR/phys-desc/Color-content/#6.23.32.4)). Record the evidence used to determine that the hand coloring was applied before distribution if not evident from the rest of the description.
 
 >Example:  
 >Color content: <CITE>hand colored</CITE>  
@@ -58,7 +58,7 @@ sidebar:
 >Color content: <CITE>hand colored</CITE>  
 >Details of color content: <CITE>Lithographs are hand colored, as issued</CITE>  
 
-<a name="6.235.33.2">6.235.33.2</a> If there is strong evidence that some copies of the resource were issued with hand coloring applied before distribution, and some without, record this information as details of color content (see [Color content, 6.23.32.5](/DCRMR/phys-desc/Color-content/#6.23.32.5)).
+<a name="6.235.33.2">6.235.33.2</a> If there is strong evidence that some copies of the resource were issued with hand coloring applied before distribution, and some without, record this information as Details of color content (see [Color content, 6.23.32.5](/DCRMR/phys-desc/Color-content/#6.23.32.5)).
 
 >Example:  
 ><CITE>“Price 25 cents plain, 37 1/2 cents colored”&#8208;&#8208;Foot of title page</CITE>  

@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.275.3 General rule
 
-<a name="6.275.3.1">6.275.3.1</a> Record fuller details of the production method if considered important (see [6.27.3.4](/DCRMR/phys-desc/Production-method/#6.27.3.4)).
+<a name="6.275.3.1">6.275.3.1</a> Record fuller details of the production method if considered important (see [Production method, 6.27.3.4](/DCRMR/phys-desc/Production-method/#6.27.3.4)).
 
 >Example:  
 ><CITE>Woodcut head- and tail-pieces; woodcut factotum</CITE>

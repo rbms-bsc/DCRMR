@@ -21,7 +21,7 @@ sidebar:
 
 ## 6.28.2 RDA definition and scope
 
-<a name="6.28.2.1">6.28.2.1</a> An arrangement of text, images, tactile notation, etc., in a manifestation.
+<a name="6.28.2.1">6.28.2.1</a> An arrangement of text, images, tactile notation, or other content in a manifestation.
 
 ## 6.28.3 General rule 
 

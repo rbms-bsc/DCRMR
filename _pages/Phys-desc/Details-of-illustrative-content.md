@@ -41,7 +41,7 @@ sidebar:
 >Example:  
 ><CITE>Printer’s device of Richard Grafton (McKerrow, R.B. Printers’ & publishers’ devices in England & Scotland, 1485-1640, no. 104) on G4r and final leaf recto (²A4)</CITE>
 
-<a name="6.225.3.3">6.225.3.3</a> Make a note to indicate any title-page illustration treated as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) if considered important (see [6.22.3.4](/DCRMR/phys-desc/Illustrative-content/#6.22.3.4)).
+<a name="6.225.3.3">6.225.3.3</a> Make a note to indicate any illustration on the title page treated as [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) if considered important (see [6.22.3.4](/DCRMR/phys-desc/Illustrative-content/#6.22.3.4)).
 
 >Example:  
 ><CITE>The illustration is a woodcut on the title page</CITE>
@@ -54,7 +54,7 @@ sidebar:
 >Example:  
 > <CITE>Engravings by Mackenzie and William Harrison. Engraved frontispiece, a portrait of William Bligh, by Jean Condé; after J. Russell</CITE>
 
-## 6.225.31 Illustrations in pockets and on endpapers 
+## 6.225.31 Illustrations in pockets 
 
 <a name="6.225.31.1">6.225.31.1</a> Always make a note to indicate the presence and the number of pieces of illustrative matter issued in a pocket attached to a resource (see [Illustrative content, 6.22.33.1](/DCRMR/phys-desc/Illustrative-content/#6.22.33.1)).
 
@@ -64,7 +64,7 @@ sidebar:
 
 ## 6.225.32 Illustrations on endpapers 
 
-<a name="6.225.32.1">6.225.32.1</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
+<a name="6.225.32.1">6.225.32.1</a> Make a note indicating the presence of illustrations appearing on the endpapers of a resource if considered important (see [Illustrative content, 6.22.335.1](/DCRMR/phys-desc/Illustrative-content/#6.22.335.1)).
 
 >Example:  
 >Illustrative content: <CITE>map</CITE>  

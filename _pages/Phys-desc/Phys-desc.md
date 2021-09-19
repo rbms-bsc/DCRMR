@@ -11,7 +11,7 @@ sidebar:
 
 ## 6.01.1 Sources of information
 
-<a name="6.01.1.1">6.01.1.1</a> Take information for this element from the manifestation itself. Take additional information from any source. 
+<a name="6.01.1.1">6.01.1.1</a> The source of information for physical description  elements is the manifestation itself. Take additional information from any source.
 
 ## Contents:
 {: .no_toc }

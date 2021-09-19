@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.295.3 General rule 
 
-<a name="6.295.3.1">6.295.3.1</a> Record details of bibliographic format if considered important (see [6.29.3.3](/DCRMR/phys-desc/Bibliographic-format/#6.29.3.3)). For instructions on recording bibliographic format as part of a statement of full collation, see [Note on extent of manifestation, 6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9).
+<a name="6.295.3.1">6.295.3.1</a> Record Details of bibliographic format if considered important (see [Bibliographic format, 6.29.3.3](/DCRMR/phys-desc/Bibliographic-format/#6.29.3.3)). For instructions on recording bibliographic format as part of a statement of full collation, see [Note on extent of manifestation, 6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9).
 
 >Example:  
 ><CITE>Oblong folio format except for pages iii-vi and 1-28, which are in quarto with vertical chain lines</CITE>
