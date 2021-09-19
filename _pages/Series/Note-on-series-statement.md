@@ -39,16 +39,7 @@ sidebar:
 >Example:    
 ><CITE>Series statement transposed from between title and imprint statement on title page</CITE>  
 
->Example:    
-><CITE>First volume lacks series title</CITE>  
-
->Example:    
-><CITE>Also issued without series statement</CITE>  
-
 <a name="8.29.31.2">8.29.31.2</a> Note any series information not transcribed in the [Series statement](/DCRMR/series/Series-statement/) if considered important (see [Numbering within sequence, 8.27.31.3](/DCRMR/series/Numbering-within-sequence/#8.27.31.3)).
-
->Example:    
-><CITE>“The first in series of dramatizations of Cervantes' novel in which our hero loses his reason”</CITE>  
 
 >Example:    
 ><CITE>First in the series of five woodcuts from a printer's proof set 2/2 from an edition of 20</CITE>   

@@ -31,13 +31,10 @@ sidebar:
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  
 
 >Example:    
-><CITE>The Thurston yellow map series</CITE>  
-
->Example:    
 ><CITE>Master choruses for Lent and Easter</CITE>  
 
 >Example:    
-><CITE>The British School series</CITE>  
+><CITE>British school series</CITE>  
 
 >Example:    
 ><CITE>Collection de documents historiques</CITE>  
@@ -65,22 +62,25 @@ sidebar:
 
 <a name="8.21.32.1">8.21.32.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). 
 
->Example:    
+>Example:  
 ><CITE>Parlour library. Shilling series</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
->Title of series: <CITE>What every child should know library. The fourth series</CITE>    
->Note on series statement: <CITE>Series title from head of title page; subseries title from endpapers</CITE>   
-
+>Title of series: <CITE>Biblioteca breve. Série pensamento e ciência</CITE>  
+>Note on series statement: <CITE>Correct subseries title from final leaf verso</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
+  
 <a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [ 8.27.31.4](/DCRMR/series/Numbering-within-sequence/#8.27.31.4)).
 
->Example:    
-><CITE>What every child should know library. The fourth series</CITE>    
->(*Comment*: Series is unnumbered)  
+>Example:  
+><CITE>What every child should know library. The fourth series</CITE>  
+>(*Comment*: Series is unnumbered; phrase “The fourth series” transcribed as subseries title. Example formatted with ISBD punctuation for clarity) 
 
->Example:    
->Numbering within sequence: <CITE>Killaly chapbooks ; 2nd series, no. 6</CITE>    
->(*Comment*: Series is numbered; transcribed as part of the [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) element)
+>Example:  
+>Title of series: <CITE>Killaly chapbooks</CITE>   
+>Numbering within sequence: <CITE>2nd series, no. 6</CITE>  
+>(*Comment*: Series is numbered; phrase “2nd series” transcribed as part of the [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) element)
 
 ---
 

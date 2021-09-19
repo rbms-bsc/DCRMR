@@ -28,12 +28,12 @@ sidebar:
 <a name="8.23.3.1">8.23.3.1</a> Transcribe other title information relating to the series as it appears on the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
->Other title information of series: <CITE>the best plays of the old dramatists</CITE>  
 >Title of series: <CITE>The mermaid series</CITE>  
+>Other title information of series: <CITE>the best plays of the old dramatists</CITE>
 
 >Example:  
->Other title information of series: <CITE>Yo Semite and Pacific Coast</CITE>  
->Title of series: <CITE>Watkins' new boudoir series</CITE>
+>Title of series: <CITE>Watkins’ new boudoir series</CITE>  
+>Other title information of series: <CITE>Yo Semite and Pacific Coast</CITE>
 
 ---
 
