@@ -27,11 +27,11 @@ sidebar:
 
 ## 8.2.3 General rule
 
-<a name="8.2.3.1">8.2.3.1</a> Transcribe the series statement in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="8.2.3.1">8.2.3.1</a> Transcribe the Series statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 8.2.31 More than one series statement
 
-<a name="8.2.31.1">8.2.31.1</a> The information relating to a single series, or series and subseries, constitutes one series statement. If two or more series statements appear in a manifestation, transcribe each statement separately.
+<a name="8.2.31.1">8.2.31.1</a> The information relating to a single series, or series and subseries, constitutes one Series statement. If two or more series statements appear in a manifestation, transcribe each statement separately.
 
 >Example:  
 ><CITE>American poets profile series ; 1</CITE>  

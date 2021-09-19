@@ -11,15 +11,17 @@ sidebar:
 
 ## 8.01.1 Sources of information 
 
-<a name="8.01.1.1">8.01.1.1</a> The sources of information for all series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference.  If the manifestation has both main series and subseries titles, however, prefer a source containing both titles. Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).
+<a name="8.01.1.1">8.01.1.1</a> The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information). For multipart monographs, prefer a source in the first volume. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
+
+Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).
 
 <a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
-<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). Record the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/), if the two differ. 
+<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). Transcribe the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/) if the two differ. 
 
 <a name="8.01.1.4">8.01.1.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
-<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but reference sources provide evidence that the book was issued as part of a publisher’s series, do not record a supplied [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). Record the series as an authorized access point if considered important for identification or access (see [RDA Toolkit: Authorized access point for RDA entity](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9badaad7-0d00-3f72-9ae9-d414344e21a5){:target="_blank"}).
+<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the book was issued as part of a publisher’s series, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). 
 
 ## 8.01.2 Element order
 
@@ -71,7 +73,7 @@ sidebar:
 
 ## 8.01.3 Form and order of information 
 
-<a name="8.01.3.1">8.01.3.1</a> Transcribe series information in the form and order in which it is presented in the source, unless instructed otherwise by specific instructions.
+<a name="8.01.3.1">8.01.3.1</a> Transcribe Series information in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## Contents:
 {: .no_toc }
