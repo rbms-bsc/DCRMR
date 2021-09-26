@@ -31,9 +31,21 @@ sidebar:
 
 <a name="10.2.31.2">10.2.31.2</a> *Optionally*, give more than one number, followed by a brief qualification as necessary. Give a number for a complete set before the number(s) for the part(s). Give numbers for parts in the order of the parts. Give a number for accompanying material last.
 
->Example:   
-> <CITE>ISBN 0-379-00550-6 (set)</CITE>  
-> <CITE>ISBN 0-379-00551-4 (v. 1)</CITE>
+>Example:  
+><CITE>ISBN 0-379-00550-6 (set)</CITE>  
+><CITE>ISBN 0-379-00551-4 (v. 1)</CITE>  
+><CITE>ISBN 0-379-00552-2 (v. 2)</CITE>  
+><CITE>ISBN 0-379-00553-0 (v. 3)</CITE>  
+><CITE>ISBN 0-379-00554-9 (v. 4)</CITE>  
+
+>Example:  
+><CITE>ISBN 0-688-11667-1 (trade)</CITE>  
+><CITE>ISBN 0-688-11668-X (lib. bdg.)</CITE>  
+
+>Example:  
+><CITE>ISBN 1-844-60311-3 (v. 1 ; pbk.)</CITE>  
+><CITE>ISBN 1-844-60310-5 (v. 2 ; pbk.)</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## 10.2.32 Qualification  
 
