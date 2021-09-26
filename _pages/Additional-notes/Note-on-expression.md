@@ -38,9 +38,6 @@ sidebar:
 
 <a name="9.2.32.1">9.2.32.1</a> Make a note if the expression is part of a sequence of expressions, unless apparent from the rest of the description (see also [RDA Toolkit: Sequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-b3e55e4e-76a1-3ec1-a838-80d787de3f18){:target="_blank"} and [RDA Toolkit: Prequel expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-dd208429-32ca-3fab-963c-70ab3f54c987){:target="_blank"}).
 
->Example:  
-><CITE>Sequel to:  Mémoires d'un médecin</CITE>
-
 ## 9.2.33 Note on translations
 
 <a name="9.2.33.1">9.2.33.1</a> Make a note if the expression is a translation, unless apparent from the rest of the description (see also [RDA Toolkit: Translation of](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4fba5f0f-ee39-3849-9cd0-a4b432e3201b){:target="_blank"}).
@@ -61,7 +58,7 @@ sidebar:
 ><CITE>Revision of: 2nd edition, 1753</CITE>
 
 >Example:  
-><CITE>Revision of: 2nd edition, 1869</CITE>
+><CITE>A revision of the edition in four sheets, dated "twentieth day of April 1639," which was ordered by King Charles to be suppressed in favor of this edition in three sheets, dated "twentie fifth day of April"</CITE>
 
 ---
 

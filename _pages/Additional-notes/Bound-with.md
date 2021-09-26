@@ -46,21 +46,21 @@ c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
 >Example:  
-> <CITE>University of Chicago Library's copy bound with: Duns Scotus, John. Incipit scriptu[m] sup[er] Primo sente[n]tia[rum] editum a fratre Joanne Duns. [Venice] : [Joannis de Colonia, Nicolai Jenson, Joannes de Selgenstat], [10 November 1481]</CITE>
+> <CITE>Library copy bound with: Duns Scotus, John. Incipit scriptu[m] sup[er] Primo sente[n]tia[rum] editum a fratre Joanne Duns. [Venice] : [Joannis de Colonia, Nicolai Jenson, Joannes de Selgenstat], [10 November 1481]</CITE>
 
 >Example:  
-> <CITE>Yale Library copy bound with: Kiepert, H. Supplementheft zum Atlas von Hellas und den hellenischen Colonien. Berlin : Verlag der Nicolaischen Buchhandlung, 1851</CITE>
+> <CITE>Library copy bound with: Kiepert, H. Supplementheft zum Atlas von Hellas und den hellenischen Colonien. Berlin : Verlag der Nicolaischen Buchhandlung, 1851</CITE>
 
 <a name="9.45.3.3">9.45.3.3</a> If it is considered that the works are too numerous to be listed exhaustively, make an unstructured note such as the following:
 
 >Example:  
-><CITE>Beinecke Library copy: No. 29 of 31 titles bound together with binder's title: Scottish chap books</CITE>
+><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>
 
 >Example:  
-><CITE>University of Chicago Library's copy bound with 13 other titles by, or edited by, Hermann Conring</CITE>
+><CITE>Library copy bound with 13 other titles by, or edited by, Hermann Conring</CITE>
 
 >Example:  
-><CITE>University of Chicago Library's copy is bound with 12 other titles on American history</CITE>
+><CITE>Library copy is bound with 12 other titles on American history</CITE>
 
 <a name="9.45.3.4">9.45.3.4</a> *Optionally*, record an access point for item for the related item in addition to the note (see [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"}).
 

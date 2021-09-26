@@ -27,29 +27,50 @@ sidebar:
 
 <a name="9.32.31.1">9.32.31.1</a> Give references to published descriptions in bibliographies or other authoritative reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
+>Example:  
+><CITE>Bartsch, A. Le peintre graveur, VII, no. 139</CITE>
+
+>Example:  
+><CITE>Barbier, A.A. Dictionnaire des ouvrages anonymes (3. éd.), II, col. 1327</CITE>
+
+>Example:  
+><CITE>Goff, F.R. Incunabula in American libraries, R332</CITE> 
+
+>Example:  
+><CITE>Wing, D.G. Short-title catalogue of books printed in England, Scotland, Ireland, Wales, and British America, and of English books printed in other countries, 1641-1700 (2nd ed. 1994), A3060A</CITE>
+
+>Example:  
+><CITE>Adams, H.M. Catalogue of books printed on the continent of Europe, 1501-1600, in Cambridge libraries, H248</CITE>
+
+>Example:  
+><CITE>Livingston, Luther Samuel. Franklin and his press at Passy, 28</CITE>
+
 <a name="9.32.31.2">9.32.31.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
 >Example:   
->Manifestation described in: <CITE>English short title catalogue, T60996</CITE>  
+><CITE>English short title catalogue, R202112</CITE>  
  
 >Example:  
->Manifestation described in: <CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
+><CITE>Short-title catalogue of books printed in Italy and of Italian books printed in other countries from 1465 to 1600 now in the British Museum, page 269</CITE>  
 
 >Example:  
->Manifestation described in: <CITE>Catalogue des incunables alsaciens de la Bibliothèque nationale et universitaire de Strasbourg, 277</CITE>  
+><CITE>Smith, D. Bibliography of the writings of Helvétius, pages 127-133</CITE>  
  
 >Example:  
->Manifestation described in: <CITE>Abbey, J.R. Travel in aquatint and lithography, 1770-1860</CITE>  
+><CITE>Moore, J.R. Checklist of the writings of Daniel Defoe (2nd ed.), 181</CITE>  
 
 >Example:  
->Manifestation described in: <CITE>Blanck, J. Bibliography of American literature</CITE> 
+><CITE>Evans, C. American bibliography, 29055</CITE> 
+
+>Example:  
+><CITE>Pollard, A.W. Short-title catalogue of books printed in England, Scotland, & Ireland and of English books printed abroad, 1475-1640 (2nd ed.), 25597</CITE>
 
 ## 9.32.32 Absence of a description in a reference source
 
 <a name="9.32.32.1">9.32.32.1</a> Make a note to indicate that a description of the manifestation being cataloged does not appear in a specific reference source only if the manifestation fits the scope for that source and the source purports to be comprehensive for its scope. Preface the note with the words “Not in” and a colon. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
 >Example:  
-><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française. Cf. IV:2, 9093</CITE>
+><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française</CITE>
 
 ---
 

@@ -49,31 +49,33 @@ sidebar:
 <a name="9.3.31.1">9.3.31.1</a> Record quotations from the manifestation or from other sources in quotation marks. Always follow the quotation by an indication of its source.  For guidelines on transcription and capitalization, see [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
-><CITE>"Extracted from the minutes of the Society for the Propagation of the Gospel in Foreign Parts"--Title page</CITE>  
+><CITE>“Extracted from the minutes of the Society for the Propagation of the Gospel in Foreign Parts”&#8208;&#8208;title page</CITE>  
 
 >Example:  
-><CITE>"Generally considered to be by William Langland"--Harvey, P. Oxford companion to English literature</CITE>  
-><CITE>"The principal additional music, contained in 72 pages, may be had, half bound, with or without the rules, price four shillings and ninepence"--Preface</CITE>
+><CITE>“Generally considered to be by William Langland”&#8208;&#8208;Harvey, P. Oxford companion to English literature</CITE>  
+
+>Example:  
+><CITE>"The principal additional music, contained in 72 pages, may be had, half bound, with or without the rules, price four shillings and ninepence"&#8208;&#8208;Preface</CITE>
 
 ## 9.3.32 Contents notes
 
 <a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content).
 
+>Example:  
+><CITE>Volume 3 also includes the author’s Fanchette (p. [87]-232) and Lettre d’un paysan de la Vallée-Noir (p. [233]-307)</CITE>  
+
 <a name="9.3.32.2">9.3.32.2</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title](/DCRMR/title/) and [Statement of responsibility](/DCRMR/sor/) elements.  In such cases, record “[from title page]” at the beginning of the contents note.  If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
+
+>Example:  
+><CITE>Contents: [from title page] I. John Watson Stewarts Almanack &#8208;&#8208; II. The English court registry &#8208;&#8208; III. Wilsons Dublin directory with a new correct plan of the city, forming the most complete lists published of the present civil, military, and naval establishments of Great Britain & Ireland</CITE>  
+
+>Example:  
+><CITE>Contents: [from title page] The life and death of the author / E.B. Esquire &#8208;&#8208; A discourse about the state of true happinesse &#8208;&#8208; Directions for a comfortable walking with God &#8208;&#8208; Instructions for a right comforting afflicted consciences, &c. &#8208;&#8208; His foure last things, death, iudgment, hell and heaven, &c. &#8208;&#8208; His funerall sermon / Nicholas Estwick, batchelour in divinity</CITE>
 
 <a name="9.3.32.3">9.3.32.3</a> If a complete listing of contents cannot be assembled by one of the above means, the cataloger may devise a contents note from any appropriate source or combination of sources.
 
 >Example:  
-> <CITE>Contents: Love and peril / the Marquis of Lorne -- To be or not to be / Mrs. Alexander -- The melancholy hussar / Thomas Hardy</CITE>
-
->Example:  
-><CITE>Contents: [from title page] I. John Watson Stewarts Almanack -- II. The English court registry -- III. Wilsons Dublin directory with a new correct plan of the city, forming the most complete lists published of the present civil, military, and naval establishments of Great Britain & Ireland</CITE>
-
->Example:  
-><CITE>Contents: [from title page] The life and death of the author / E.B. Esquire -- A discourse about the state of true happinesse -- Directions for a comfortable walking with God -- Instructions for a right comforting afflicted consciences, &c. -- His foure last things, death, iudgment, hell and heaven, &c. -- His funerall sermon / Nicholas Estwick Batchelou in Divinity</CITE>
-
->Example:  
-><CITE>Contents: [from title page] Map showing location of Fort Matanzas -- First floor plan -- Second floor plan. Roof plan -- South elevation -- North elevation -- West elevation -- East elevation -- Section -- Details of tower -- [Stair details] -- Details of interior wooden stairs -- Section</CITE>
+> <CITE>Contents: Love and peril / the Marquis of Lorne &#8208;&#8208; To be or not to be / Mrs. Alexander &#8208;&#8208; The melancholy hussar / Thomas Hardy</CITE>
 
 ## 9.3.33 Note on made-up sets of a multipart monograph
 
@@ -96,20 +98,19 @@ sidebar:
 
 <a name="9.3.35.1">9.3.35.1</a> If the resource includes a statement as to a limited number of copies of the edition, give this statement of limitation in a note, preferably in quoted form.
 
+>Example:  
+><CITE>“250 copies printed”&#8208;&#8208;preface</CITE>
 
 <a name="9.3.35.2">9.3.35.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
 >Example:  
-><CITE>"250 copies printed"--Preface</CITE>
+><CITE>“Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost”&#8208;&#8208;title page verso</CITE>
 
 >Example:  
-><CITE>"Of this edition one hundred and twenty one copies have been numbered and signed by Dr. Julian Wolff, B.S.I. and Hugh Pentecost"--Title page verso</CITE>
+><CITE>“A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand”&#8208;&#8208;colophon</CITE>
 
 >Example:  
-><CITE>"A special edition of twenty, signed and numbered, copies was produced and bound in full red Morocco. These special copies are each housed in a sculptural human heart shaped box, sitting atop a wooden anatomical specimen stand."-- Colophon</CITE>
-
->Example:  
-><CITE>"Of this edition, 100 copies have been bound in hardcovers, numbered and signed by Dr. Julian Wolff, B.S.I. Commissionaire."</CITE>
+><CITE>"Il a été-tiré de cet ouvrage: 10 exemplaires sur papier de Chine, numérotés de 1 à 10 ; 50 exemplaires sur papier du Japon numérotés de 11 à 60 ; 150 exemplaires sur papier de Hollande, numérotés de 61 à 210 ; 300 exemplaires sur papier pur fil Lafuma, numérotés de 211 à 510. L'édition originale a été tirée sur papier d'alfa"&#8208;&#8208;preliminary leaf</CITE>
 
 <a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as note on manifestation. Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
 
@@ -120,6 +121,9 @@ sidebar:
 ## 9.3.37 Note on imperfect exemplars
 
 <a name="9.3.37.1">9.3.37.1</a> Make a note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
+
+>Example:  
+><CITE>Description based on an imperfect copy; title page torn with partial loss of text</CITE>
 
 ---
 

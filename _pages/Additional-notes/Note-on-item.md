@@ -48,25 +48,16 @@ sidebar:
 <a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and the information is considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
 
 >Example:  
-><CITE>“Ninth printing, December, 1954,” on title page verso</CITE>
+><CITE>Library copy: “Ninth printing, December, 1954”-- title page verso</CITE>
 
 >Example:  
-><CITE>Library's copy: "Fifth ten thousand"</CITE>
+><CITE>Library copy: “Fifth ten thousand”</CITE>
 
 >Example:  
-><CITE>Library's copy: Number "2" on title page indicates 2nd printing</CITE>
+><CITE>Library copy: “51st-100th”-- title page verso</CITE>
 
 >Example:  
-><CITE>Library's copy: "51st-100th"--Title page verso</CITE>
-
->Example:  
-><CITE>Library's copy: "163-173 Tausend"</CITE>
-
->Example:  
-><CITE>Library's copy: Number line on title page verso indicates 3rd printing: "8 7 6 5 4 3 88 89 90 91 92"</CITE>
-
->Example:  
-><CITE>Library's copy: Publisher's code "B-O" on title page verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>
+><CITE>Library copy: Publisher’s code “B-O” on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>
 
 ## 9.4.32 Edition statements on nonce collections
 
@@ -84,22 +75,25 @@ sidebar:
 <a name="9.4.34.1">9.4.34.1</a> For items with limitation statements which include a unique number of the item being cataloged, record the copy number as a note on item.  See [Note on manifestation, 9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements) for recording limitation statements.
 
 >Example:  
-><CITE>LC has no. 20</CITE>
+><CITE>Library has no. 20</CITE>
 
 >Example:  
-><CITE>Indiana University Library copy: unnumbered</CITE>
+><CITE>Library copy: Identified as number 97 of 250 copies on recto of final printed leaf</CITE>
 
 >Example:  
-><CITE>British Library copy at YD.2004.a.1724: identified as number 97 of 250 copies on recto of final printed leaf</CITE>
-
->Example:  
-><CITE>British Library copy at YA.1988.a.5946: identified as number 141 of a limited edition of 150 copies printed on laid Holland paper</CITE>
+><CITE>Library copy: Identified as number 141 of a limited edition of 150 copies printed on laid Holland paper</CITE>
 
 ## 9.4.35 Completed blanks in transcribed elements
 
 <a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a note if considered important (see [Transcription, 0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)).
 
+>Example:  
+><CITE>Library copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
+
 <a name="9.4.35.2">9.4.35.2</a> Make a note on item to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription, 0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)).
+
+>Example:  
+><CITE>Library copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
 ---
 

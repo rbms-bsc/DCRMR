@@ -33,7 +33,7 @@ sidebar:
 ><CITE>Library copy leaf size: 209 x 143 mm</CITE>
 
 >Example:  
-><CITE>Library of Congress copy folded to 19 x 13 cm. Top edge trimmed to 19 cm with some loss of text</CITE>
+><CITE>Library copy folded to 19 x 13 cm. Top edge trimmed to 19 cm with some loss of text</CITE>
 
 >Example:  
 ><CITE>Library copy: Sheet trimmed to within thread margin of plate mark on two sides</CITE>
