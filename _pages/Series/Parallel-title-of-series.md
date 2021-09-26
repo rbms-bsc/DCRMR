@@ -29,7 +29,7 @@ sidebar:
 
 >Example:  
 >Title of series: <CITE>Canadian cities, bird’s eye views</CITE>  
->Parallel title of series: Villes du Canada, vues à vol d’oiseau</CITE>
+>Parallel title of series: <CITE>Villes du Canada, vues à vol d’oiseau</CITE>
 
 >Example:  
 >Title of series: <CITE>Europäische Hochschulschriften</CITE>  

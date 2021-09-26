@@ -55,7 +55,7 @@ sidebar:
 
 >Example:  
 >Note on series statement: <CITE>Number “6” appears at head of title page; issued as part of the American tract series (see Bibliography of American literature)</CITE>  
->(*Comment*: Making a note on the number is required; providing the additional information from the Bibliography of American literature is optional. The formal citation for the Bibliography of American literature is given in a [Manifestation described in](//DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2))
+>(*Comment*: Making a note on the number is required; providing the additional information from the Bibliography of American literature is optional. The formal citation for the Bibliography of American literature is given in a [Manifestation described in](//DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 In case of doubt as to whether a number appearing in the resource is series numbering, transcribe the numbering in a [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) (see [10.23.3.1](/DCRMR/identifiers/Note-on-identifier-for-manifestation/#10.23.3.1)).
 
