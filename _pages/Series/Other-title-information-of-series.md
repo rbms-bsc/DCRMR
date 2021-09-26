@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.23.3 General rule
 
-<a name="8.23.3.1">8.23.3.1</a> Transcribe other title information relating to the series as it appears on the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="8.23.3.1">8.23.3.1</a> Transcribe Other title information of series as it appears on the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 
 >Example:  
 >Title of series: <CITE>The mermaid series</CITE>  

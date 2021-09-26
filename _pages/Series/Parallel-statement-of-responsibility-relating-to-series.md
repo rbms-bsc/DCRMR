@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.255.3 Parallel statement of responsibility relating to series
 
-<a name="8.255.3.1">8.255.3.1</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/) but the statement of responsibility relating to the series appears in only one language or script, transcribe the statement of responsibility after the last parallel title (following any other title information associated with the title). 
+<a name="8.255.3.1">8.255.3.1</a> If there are parallel titles of series but the [Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) appears in only one language or script, transcribe the statement of responsibility after the last [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (following any other title information associated with the title). 
 
 <a name="8.255.3.2">8.255.3.2</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the series title (or other title information) to which it relates.
 

@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.235.3 General rule
 
-<a name="8.235.3.1">8.235.3.1</a> If there are parallel series titles (see [Parallel title of series](/DCRMR/series/Parallel-title-of-series/)), transcribe the other title information after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit the associated other title information.  
+<a name="8.235.3.1">8.235.3.1</a> If there are parallel titles of series (see [Parallel title of series, 8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)), transcribe the other title information after the series title to which it relates. If any parallel titles of series have been omitted from the transcription, also omit the associated other title information.  
 
 ---
 

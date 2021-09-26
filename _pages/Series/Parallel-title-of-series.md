@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.215.3 General rule
 
-<a name="8.215.3.1">8.215.3.1</a> If the source bears a series title in more than one language or script, transcribe as the series title the title that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as parallel title of series. Always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
+<a name="8.215.3.1">8.215.3.1</a> If the source bears a series title in more than one language or script, transcribe as [Title of series](/DCRMR/series/Title-of-series/) the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as Parallel title of series. Always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
 
 >Example:  
 >Title of series: <CITE>Canadian cities, bird’s eye views</CITE>  
@@ -36,11 +36,11 @@ sidebar:
 >Parallel title of series: <CITE>European university papers</CITE>  
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>
 
-<a name="8.215.3.2">8.215.3.2</a> *Optionally*, if it is considered that the parallel titles of series are too numerous to list exhaustively and that some may be omitted without significant loss of identification then all parallel series titles after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted titles (if more than one) in the supplied phrase. Do not use the mark of omission.
+<a name="8.215.3.2">8.215.3.2</a> *Optionally*, if the parallel titles of series in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of parallel titles of series in the supplied phrase. Do not use the mark of omission.
 
 ## 8.215.31 Parallel subseries titles
 
-<a name="8.215.31.1">8.215.31.1</a> If there are both parallel series titles and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
+<a name="8.215.31.1">8.215.31.1</a> If there are both parallel series titles of series and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
 
 ---
 
