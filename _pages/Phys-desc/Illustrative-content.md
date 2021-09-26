@@ -63,7 +63,7 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.31.2">6.22.31.2</a> Record a term in the singular or plural as appropriate.
 
-<a name="6.22.31.3">6.22.31.3</a> Replace the general term“illustration” or “illustrations” with terms specifying particular types of illustrative content if the particular types are the only illustrative content in the resource.
+<a name="6.22.31.3">6.22.31.3</a> Replace the general term “illustration” or “illustrations” with terms specifying particular types of illustrative content if the particular types are the only illustrative content in the resource.
 
 >Example:    
 ><CITE>map</CITE>  

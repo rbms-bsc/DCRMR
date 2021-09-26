@@ -38,9 +38,9 @@ sidebar:
 > Extent of manifestation: <CITE>[8], 260, [2] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Numbered leaves with text on both sides</CITE>
 
-<a name="6.215.421.2">6.215.421.2</a> If the leaves are numbered on and printed on one side or unnumbered and printed on one side only, record this fact in a Note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
+<a name="6.215.421.2">6.215.421.2</a> If the leaves are numbered on and printed on one side only or unnumbered and printed on one side only, record this fact in a Note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
 
-<a name="6.215.421.3">6.215.421.3</a> Always make a note on extent of manifestation to explain that pages, etc. are numbered in words or in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
+<a name="6.215.421.3">6.215.421.3</a> Always make a Note on extent of manifestation to explain that pages, etc. are numbered in words or in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
 
 #### 6.215.422 Normally imposed single sheets
 

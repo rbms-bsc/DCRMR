@@ -41,7 +41,8 @@ sidebar:
 
 <a name="6.23.31.2">6.23.31.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
 
-<a name="6.23.31.3">6.23.31.3</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)). 
+<a name="6.23.31.3">6.23.31.3</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
+
 For incunabula, make a note on color printing if present (see [Details of color content, 6.235.31.3](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.3)).
 
 ## 6.23.32 Hand coloring in printed resources
@@ -55,9 +56,9 @@ For incunabula, make a note on color printing if present (see [Details of color 
 >Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
 >(*Comment*: Title contains statement “embellished with colored engravings”)
 
-<a name="6.23.32.5">6.23.32.5</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
+<a name="6.23.32.5">6.23.32.5</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as Color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
 
-<a name="6.23.32.2">6.23.32.2</a> Make a note on the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="6.23.32.2">6.23.32.2</a> Record the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 ## 6.23.33 Color of base material
 

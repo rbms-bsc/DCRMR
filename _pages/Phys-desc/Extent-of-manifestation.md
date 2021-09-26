@@ -31,7 +31,7 @@ sidebar:
 
 <a name="6.21.421.1">6.21.421.1</a> Record every leaf in the volume or other physical unit as issued by the publisher, including leaves of text, leaves of plates, and blank leaves. Do not record leaves added as part of the binding or the binding itself.
 
-<a name="6.21.421.2">6.21.421.2</a> Record the complete number of pages, leaves, or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. If the leaves are numbered on one side but printed on both sides, record the numbering as leaves. For a volume with leaves numbered and printed on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves and record this fact in a [Note on extent of manifestation\](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.421.2](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.2)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
+<a name="6.21.421.2">6.21.421.2</a> Record the complete number of pages, leaves, or columns in accordance with the terminology suggested by the volume (or other physical unit) itself. For a volume with leaves numbered on both sides, or with leaves unnumbered and printed on both sides, record the extent in pages. If the leaves are numbered on one side but printed on both sides, record the numbering as leaves. For a volume with leaves numbered and printed on one side only, or with leaves unnumbered and printed on one side only, record the extent in leaves and record this fact in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) if considered important (see [6.215.421.2](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.2)). For a volume  with more than one numbered column to the page, record the extent in columns. If a manifestation contains sequences in more than one kind of numbering, record each sequence in its appropriate term as pages, leaves, or columns.
 
 >Example:  
 > Extent of manifestation: <CITE>48 leaves</CITE>  
@@ -361,7 +361,7 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 >Example:  
 ><CITE>2 sheets</CITE>  
 
-<a name="6.21.431.2">6.21.431.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final form or completed. Always make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate that it was issued in fascicles (see [6.215.431.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.431.1)).
+<a name="6.21.431.2">6.21.431.2</a> If a manifestation has been issued in fascicles intended to be bound into one or more physical units, record the number of pages, leaves, or volumes appropriate to its final or completed form. Always make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate that it was issued in fascicles (see [6.215.431.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.431.1)).
 
 >Example:  
 >Extent of manifestation: <CITE>70 pages, xxiii leaves of plates</CITE>  
