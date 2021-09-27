@@ -46,21 +46,10 @@ sidebar:
 
 ## 9.3.31 Quotations
 
-<a name="9.3.31.1">9.3.31.1</a> 
+<a name="9.3.31.1">9.3.31.1</a> Record quotations from the manifestation or from other sources using one of the following methods:
 
-**ALT note: option A**
-
-Record quotations from the manifestation or from other sources using one of the following methods:
-
-+ enclose quoted text in quotation marks; always follow the quotation by an indication of its source. 
++ enclose quoted text in quotation marks; always follow the quotation by an indication of its source 
 + preface the quoted text with the source, followed by a colon; do not enclose the quoted text in quotation marks
-
-**ALT note: option B**
-
-Record quotations from the manifestation or from other sources using one of the following methods:
-
-+ Enclose quoted text in quotation marks. Always follow the quotation by an indication of its source. 
-+ Preface the quoted text with the source, followed by a colon. Do not enclose the quoted text in quotation marks.
 
 For guidelines on transcription and capitalization, see [Transcription](/DCRMR/general-rules/Transcription/).
 
@@ -72,6 +61,9 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 >Example:  
 ><CITE>"The principal additional music, contained in 72 pages, may be had, half bound, with or without the rules, price four shillings and ninepence"&#8208;&#8208;Preface</CITE>
+
+>Example:  
+><CITE>At head of title: Convention nationale</CITE>
 
 ## 9.3.32 Contents notes
 

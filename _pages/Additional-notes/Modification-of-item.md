@@ -93,6 +93,9 @@ For summaries of the past ownership of an item, see [Custodial history of item, 
 <a name="9.41.35.2">9.41.35.2</a> Indicate any errors in binding if considered important.
 
 >Example:  
+><CITE>Library copy: Printed in gold and green glazed paper surrounding a picture of children. Bound upside down. Original cartonage</CITE>
+
+>Example:  
 ><CITE>Library copy: Leaves I5-6 incorrectly bound between h3 and h4</CITE>
 
 >Example:  

@@ -98,7 +98,7 @@ sidebar:
 
 ## 9.4.36 Notes relating to bound-with elements
 
-<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)).
+<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
 
 >Example:  
 ><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>

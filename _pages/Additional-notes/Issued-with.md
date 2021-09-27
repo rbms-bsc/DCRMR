@@ -48,7 +48,7 @@ d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in t
 >Example:  
 ><CITE>Issued with: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</CITE>
 
-<a name="9.34.3.3">9.34.3.3</a> *Optionally*, record an Access point for manifestation for the related manifestation(s) in addition to the note (see [RDA Toolkit: Access point for manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"}).
+<a name="9.34.3.3">9.34.3.3</a> *Optionally*, record an RDA Access point for manifestation for the related manifestation(s) in addition to the note (see [RDA Toolkit: Access point for manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"}).
 
 ---
 
