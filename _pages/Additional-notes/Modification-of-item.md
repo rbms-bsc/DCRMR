@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.41.3 General rule
 
-<a name="9.41.3.1">9.41.3.1</a> For general rules on constructing item-specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="9.41.3.1">9.41.3.1</a> For general rules on constructing item-specific notes, see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 <a name="9.41.3.2">9.41.3.2</a> Features that may be recorded in this element include known imperfections and anomalies; the presence of advertisements not recorded in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) ([6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1)); illumination, rubrication, and other hand coloring unless issued that way by the publisher (see [Details of color content](/DCRMR/phys-desc/Details-of-color-content/)); provenance evidence (such as bookplates, stamps, autographs, and manuscript annotations); and item-specific binding details. 
 
@@ -48,7 +48,7 @@ sidebar:
 >Example:  
 ><CITE>Library copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
-<a name="9.41.3.3">9.41.3.3</a> For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) ([9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
+For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) ([9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
 ## 9.41.33 Provenance evidence
 
@@ -84,7 +84,7 @@ sidebar:
 >Example:  
 ><CITE>Library copy annotated “To W.C.C. from J J McC Xmas 1901” and in a different hand “From Jas J. M’Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950”</CITE>
 
-<a name="9.41.33.3">9.41.33.3</a> For summaries of the past ownership of an item (see [Custodial history of item, 9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1)).
+For summaries of the past ownership of an item, see [Custodial history of item, 9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1). For immediate source of acquisition, see [Immediate source of acquisition of item, 9.245.3.1](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/#9.425.3.1).
 
 ## 9.41.35 Bindings
 
@@ -118,7 +118,7 @@ sidebar:
 >Example:  
 ><CITE>Library copy bound in vellum from a 16th-century notarial document</CITE>
 
-<a name="9.41.35.4">9.41.35.4</a> Whenever possible, use standard terminology from resources such as the [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or the [Language of Bindings](https://www.ligatus.org.uk/lob/){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) may also be used as appropriate.
+<a name="9.41.35.4">9.41.35.4</a> Whenever possible, use standard terminology from resources such as the [RDA Value Vocabularies: RDA Type of Binding](https://access.rdatoolkit.org/VES/VES?externalId=en-US_rdaves_RDA_Type_of_Binding){:target="_blank"}, [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/index.shtml){:target="_blank"}, or other controlled vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}, the [Language of Bindings](https://www.ligatus.org.uk/lob/){:target="_blank"}). 
 
 <a name="9.41.35.5">9.41.35.5</a> More detailed descriptions of a binding might include such additional features as: nature of the boards (e.g., wood, paper); details of decoration; country or city of production; nature and decoration of spine; presence or former presence of ties, clasps, or other furniture; flaps; description of headbands, page-edge and end-paper decoration; references to published descriptions or reproductions of the binding (or related bindings), etc.
 

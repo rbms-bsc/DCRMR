@@ -23,7 +23,7 @@ sidebar:
 
 <a name="9.33.2.1">9.33.2.1</a> An indication of the kinds of expression that supplement the main expressions that are embodied by an augmentation aggregate.
 
-## 9.33.21 DCRMR Elaboration on scope
+## 9.33.21 DCRMR elaboration of scope
 
 <a name="9.33.21.1">9.33.21.1</a> Supplementary content includes indexes, bibliographies, appendices, etc.
 
@@ -51,14 +51,14 @@ sidebar:
 
 >Example:  
 ><CITE>Publisher's advertisements on [2] pages at end</CITE>  
->(*Comment*: Advertisements integral to manifestation)
+>(*Comment*: Advertisements integral to manifestation; see [6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1))
 
 >Example:  
 ><CITE>Final unnumbered sequence contains: "An abstract of the penal-laws"</CITE>
 
 ## 9.33.31 Errata leaves and slips
 
-<a name="9.33.31.1">9.33.31.1</a> Always note the presence of errata leaves and errata slips. Note the presence of errata listed in other sources in the manifestation if considered important.
+<a name="9.33.31.1">9.33.31.1</a> Always note the presence of errata leaves and errata slips. Record errata leaves (but not errata slips) in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) whether or not they are integral to a gathering (see [6.21.423.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.423.1)). Note the presence of errata listed in other sources in the manifestation if considered important.
 
 >Example:  
 ><CITE>Errata on last leaf</CITE>

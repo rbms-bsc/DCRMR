@@ -25,9 +25,9 @@ sidebar:
 
 ## 9.43.3 General rule
 
-<a name="9.43.3.1">9.43.3.1</a> For general rules on constructing item-specific notes see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="9.43.3.1">9.43.3.1</a> For general rules on constructing item-specific notes, see [Note on item](/DCRMR/additional-notes/Note-on-item/) ([9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
-<a name="9.43.3.2">9.43.3.2</a> Always record item-specific imperfections that alter its extent (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
+<a name="9.43.3.2">9.43.3.2</a> Record item-specific imperfections that alter its extent if considered important (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
 
 >Example:  
 ><CITE>Library copy 1: Imperfect: leaves 12 and 13 (b6 and c1) wanting; without the last blank leaf (S8)</CITE>
@@ -38,9 +38,9 @@ sidebar:
 >Example:  
 ><CITE>Library copy incomplete; all after page 142 wanting</CITE>  
 
-<a name="9.43.3.3">9.43.3.3</a> Record the presence of a case or portfolio not issued with the manifestation in a note on extent of item if considered important (see [Extent of manifestation, 6.21.4285.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4285.1)).
+<a name="9.43.3.3">9.43.3.3</a> Record the presence of a case or portfolio not issued with the manifestation in a Note on extent of item if considered important (see [Extent of manifestation, 6.21.4285.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4285.2)).
 
-<a name="9.43.3.4">9.43.3.4</a> Make a note on extent of item when the number of physical units in which an item is bound differs from the number in which it was actually issued if considered important (see [Extent of manifestation, 6.21.431.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.3)).
+<a name="9.43.3.4">9.43.3.4</a> Make a Note on extent of item when the number of physical units in which an item is bound differs from the number in which it was actually issued if considered important (see [Extent of manifestation, 6.21.431.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.3)).
 
 >Example:  
 ><CITE>Library copy bound in four physical volumes and interleaved with a Latin translation of Plutarch’s Lives</CITE>  

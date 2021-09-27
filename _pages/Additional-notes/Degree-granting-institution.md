@@ -21,11 +21,11 @@ sidebar:
 
 ## 9.122.2 RDA definition and scope
 
-<a name="9.122.2.1">9.122.2.1</a> A corporate body who approves a work that is a thesis associated with an academic degree.
+<a name="9.122.2.1">9.122.2.1</a> A corporate body who approves a work that is a thesis or dissertation associated with an academic degree.
 
 ## 9.122.3 General rule
 
-<a name="9.122.3.1">9.122.3.1</a> Record the name of the institution or faculty to which the thesis was presented.
+<a name="9.122.3.1">9.122.3.1</a> Record the name of the institution or faculty to which the thesis or dissertation was presented.
 
 >Example:  
 ><CITE>Harvard College</CITE>

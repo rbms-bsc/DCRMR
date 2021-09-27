@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.23.3 General rule
 
-<a name="9.23.3.1">9.23.3.1</a> Make a note on the language of the expression. 
+<a name="9.23.3.1">9.23.3.1</a> Make a note on the language of the expression if considered important. 
 
 >Example:  
 >Parallel Iroquois and English texts

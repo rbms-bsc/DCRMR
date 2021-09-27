@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.121.3 General rule
 
-<a name="9.121.3.1">9.121.3.1</a> Give a brief statement of the degree for which the author was a candidate (e.g., “M.A.” or “Ph. D.,” or, for theses to which such abbreviations do not apply, “doctoral” or “master’s”), if known.
+<a name="9.121.3.1">9.121.3.1</a> Give a brief statement of the degree for which the author was a candidate (e.g., “M.A.” or “Ph.D.,” or, for theses to which such abbreviations do not apply, “doctoral” or “master’s”), if known.
 
 >Example:  
 ><CITE>Thesis</CITE>

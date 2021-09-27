@@ -39,9 +39,9 @@ sidebar:
 
 a) The [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)
 
-b) The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened (whenever the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation)
+b) The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened by omitting words after the first five (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words). Use the mark of omission. If the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation
 
-c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is redundant of the [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or exceedingly lengthy
+c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it already recorded as the [Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or is exceedingly lengthy
 
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
@@ -51,16 +51,7 @@ d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in t
 >Example:  
 > <CITE>Library copy bound with: Kiepert, H. Supplementheft zum Atlas von Hellas und den hellenischen Colonien. Berlin : Verlag der Nicolaischen Buchhandlung, 1851</CITE>
 
-<a name="9.45.3.3">9.45.3.3</a> If it is considered that the works are too numerous to be listed exhaustively, make an unstructured note such as the following:
-
->Example:  
-><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>
-
->Example:  
-><CITE>Library copy bound with 13 other titles by, or edited by, Hermann Conring</CITE>
-
->Example:  
-><CITE>Library copy is bound with 12 other titles on American history</CITE>
+<a name="9.45.3.3">9.45.3.3</a> If it is considered that the items are too numerous to be listed exhaustively, make a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.36.1](/DCRMR/additional-notes/Note-on-item/#9.4.36.1)).
 
 <a name="9.45.3.4">9.45.3.4</a> *Optionally*, record an access point for item for the related item in addition to the note (see [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"}).
 

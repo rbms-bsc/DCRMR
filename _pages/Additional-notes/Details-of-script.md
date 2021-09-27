@@ -25,15 +25,15 @@ sidebar:
 
 ## 9.245.3 General rule
 
-<a name="9.245.3.1">9.245.3.1</a> Make a note on the script of the expression if considered important.
-
-<a name="9.245.3.2">9.245.3.2</a> Always note the presence of nonroman script in the resource if it has been transcribed only in romanized form in the description (see [Language and script of the description, 0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)).
+<a name="9.245.3.2">9.245.3.2</a> Always record the presence of nonroman script in the resource if it has been transcribed only in romanized form in the description (see [Language and script of the description, 0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)).
 
 >Example:  
 ><CITE>Church Slavic in Church Slavic script</CITE>
 
 >Example:  
 ><CITE>Title in Greek script</CITE>
+
+<a name="9.245.3.2x">9.245.3.2x</a> Record other characteristics of the script of the expression in Details of script if considered important.
 
 ---
 

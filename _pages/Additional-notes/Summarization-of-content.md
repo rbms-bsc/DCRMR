@@ -32,7 +32,7 @@ sidebar:
 
 ## 9.25.31 Nature, scope or artistic form
 
-<a name="9.25.31.1">9.25.31.1</a> Make a note on the nature, scope, or artistic form when useful to amplify or explain the [Title proper](/DCRMR/title/Title-proper/) and [Other title information](/DCRMR/title/Other-title-information/).
+<a name="9.25.31.1">9.25.31.1</a> Make a note on the nature, scope, or artistic form to amplify or explain the [Title proper](/DCRMR/title/Title-proper/) and [Other title information](/DCRMR/title/Other-title-information/) if considered important.
 
 >Example:  
 ><CITE>An advertisement</CITE>
