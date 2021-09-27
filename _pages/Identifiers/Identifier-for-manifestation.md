@@ -27,9 +27,9 @@ sidebar:
 
 ## 10.2.31 Standard number
 
-<a name="10.2.31.1">10.2.31.1</a> Give the International Standard Book Number (ISBN). Give such numbers with the agreed abbreviation and with the standard spacing or hyphenation.
+<a name="10.2.31.1">10.2.31.1</a> Record the International Standard Book Number (ISBN) according to the form specified in relevant encoding standards.
 
-<a name="10.2.31.2">10.2.31.2</a> *Optionally*, give more than one number, followed by a brief qualification as necessary. Give a number for a complete set before the number(s) for the part(s). Give numbers for parts in the order of the parts. Give a number for accompanying material last.
+<a name="10.2.31.2">10.2.31.2</a> *Optionally*, record more than one number, followed by a brief qualification as necessary (see [10.2.32](/DCRMR/identifiers/Identifier-for-manifestation/#10232-qualification)). Give a number for a complete set before the number(s) for the part(s). Give numbers for parts in the order of the parts. Give a number for accompanying material last.
 
 >Example:  
 ><CITE>ISBN 0-379-00550-6 (set)</CITE>  

@@ -25,7 +25,7 @@ sidebar:
 
 ## 10.23.3 General rule
 
-<a name="10.23.3.1">10.23.3.1</a> Make a note of any numbers or letters associated with the manifestation not transcribed in another element if considered important.
+<a name="10.23.3.1">10.23.3.1</a> Record any numbers or letters associated with the manifestation not transcribed in another element if considered important.
 
 >Example:  
 > <CITE>“No. 195” appears in lower left corner of plate</CITE>

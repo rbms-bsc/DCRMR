@@ -21,11 +21,15 @@ sidebar:
 
 ## 10.22.2 RDA definition and scope
 
-<a name="10.22.2.1">10.22.2.1</a> A condition under which the publisher, distributor, etc., will normally supply a manifestation or the price of a manifestation.
+<a name="10.22.2.1">10.22.2.1</a> A condition under which a distributor, manufacturer, producer, or publisher will normally supply a manifestation. Includes a price of a manifestation.
+
+## 10.22.21 DCRMR elaboration of scope
+
+<a name="10.22.21.1">10.22.21.1</a> Use for publisher-supplied statements of availability in modern materials. Statements in early printed materials containing a price or other information on availability may be recorded in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/).
 
 ## 10.22.3 General rule
 
-<a name="10.22.3.1">10.22.3.1</a> *Optionally*, if the manifestation bears a price or other terms of availability, record the information. 
+<a name="10.22.3.1">10.22.3.1</a> If the manifestation bears a price or other terms of availability, record the information if considered important. 
 
 >Example:  
 ><CITE>At foot of half title, in square brackets: “Price one shilling and six-pence”</CITE>

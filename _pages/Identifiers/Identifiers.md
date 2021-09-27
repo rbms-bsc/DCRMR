@@ -11,7 +11,7 @@ sidebar:
 
 ## 10.01.1 Sources of information
 
-<a name="10.01.1.1">10.01.1.1</a> Take information for all identifier elements from any source. Do not enclose any information in square brackets.
+<a name="10.01.1.1">10.01.1.1</a> Take information for all identifier elements from any source (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). Do not enclose any information in square brackets.
 
 ## Contents:
 {: .no_toc }
