@@ -53,7 +53,7 @@ d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in t
 
 <a name="9.45.3.3">9.45.3.3</a> If it is considered that the items are too numerous to be listed exhaustively, make a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.36.1](/DCRMR/additional-notes/Note-on-item/#9.4.36.1)).
 
-<a name="9.45.3.4">9.45.3.4</a> *Optionally*, record an access point for item for the related item in addition to the note (see [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"}).
+<a name="9.45.3.4">9.45.3.4</a> *Optionally*, record an RDA Access point for item for the related item in addition to the note (see [RDA Toolkit: Access point for item](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6f8d66e3-089a-33c6-a926-1866a6769814){:target="_blank"}).
 
 ---
 

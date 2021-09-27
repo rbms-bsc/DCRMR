@@ -37,11 +37,11 @@ sidebar:
 
 <a name="9.34.3.2">9.34.3.2</a> For each manifestation listed, give only the elements listed below:
 
-a) The [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}; normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)  
+a) The RDA Creator agent of work (see [RDA Toolkit: Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"}); normally give this element first, usually in access point form (e.g., with inversion of personal names under surname, but not necessarily including personal birth/death dates, corporate qualifiers, etc.)  
 
 b) The [Title proper](/DCRMR/title/Title-proper/) as found in the description for the manifestation; long titles may be shortened by omitting words after the first five (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words). Use the mark of omission. If the preferred title of work is considered useful for the identification of the work, record it within square brackets preceding the title of manifestation  
 
-c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is already recorded as the [RDA Toolkit:  Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"} or is exceedingly lengthy 
+c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) as recorded in the description for the manifestation, unless it is already recorded as the RDA Creator agent of work or is exceedingly lengthy (see [RDA Toolkit:  Creator agent of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-6277a869-961d-379f-8ae8-7ec159052a26){:target="_blank"})
 
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
