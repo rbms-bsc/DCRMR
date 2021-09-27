@@ -399,7 +399,7 @@ sidebar:
 |	Prescribed punctuation	|	5A1.	|	[0.2.6](/DCRMR/general-rules/Prescribed-punctuation/#026-physical-description)	|
 |	Sources of information	|	5A2.	|	[6.01.1](/DCRMR/phys-desc/#6011-sources-of-information)	|
 |	Extent	|	5B.	|	[6.21.4](/DCRMR/phys-desc/Extent-of-manifestation/#6214-extent-of-text)	|
-|	Publications in one physical unit	|	5B1-5B14.	|	[6.21.42](/DCRMR/phys-desc/Extent-of-manifestation/#62142-manifestations-in-one-physical-unit)	|
+|	Publications in one physical unit	|	5B1&ndash;5B14.	|	[6.21.42](/DCRMR/phys-desc/Extent-of-manifestation/#62142-manifestations-in-one-physical-unit)	|
 |	General rule	|	5B1.	|	[6.21.421](/DCRMR/phys-desc/Extent-of-manifestation/#621421-general-rule)	|
 |		|	5B1.1.	|	[6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)	|
 |		|	5B1.2.	|	[6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)	|
@@ -441,7 +441,7 @@ sidebar:
 |	Single-sheet publications	|	5B14	|	[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations)	|
 |		|	5B14.1.	|	[6.21.429.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.429.1)	|
 |		|	5B14.2.	|	[6.21.429.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.429.2)	|
-|	Publications in more than one physical unit	|	5B15-5B20.	|	[6.21.43](/DCRMR/phys-desc/Extent-of-manifestation/#62143-manifestations-in-more-than-one-physical-unit)	|
+|	Publications in more than one physical unit	|	5B15&ndash;5B20.	|	[6.21.43](/DCRMR/phys-desc/Extent-of-manifestation/#62143-manifestations-in-more-than-one-physical-unit)	|
 |	General rule	|	5B15.	|	[6.21.431](/DCRMR/phys-desc/Extent-of-manifestation/#621431-general-rulee)	|
 |		|	5B15.1.	|	[6.21.431.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.1)	|
 |		|	5B15.2.	|	[6.21.431.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.2)	|
@@ -670,10 +670,10 @@ sidebar:
 |	Title proper with supplementary or section title (Optional)	|	1B6. 	|	[1.25.358.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.358.1)	|
 |	Parallel titles (Optional)	|	1C. 	|	[1.215.33.1](/DCRMR/title/Parallel-title-proper/#1.215.33.1)	|
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
-|	Titles of additional works (Optional)	|	1F1-1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
-|	Titles of works on single-sheet publications (Optional)	|	1G1-1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
+|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
 |	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
-|	Title variants and other titles (Optional)	|	7B4-7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
+|	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
 |	Titles of accompanying material (Optional)	|	7B11.	|	[9.31.3.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.6)	|
 |	Copy-specific titles (Optional)	|	7B19. 	|	[1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)  [1.27.31.2](/DCRMR/title/Title-of-item/#1.27.31.2)	|
 
