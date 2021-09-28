@@ -268,8 +268,8 @@ sidebar:
 |		|	2C4.1.	|	[3.23.33.1](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.1)	|
 |		|	2C4.2.	|	[3.23.33.2](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.2)	|
 |		|	2C4.3.	|	[3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3)	|
-|	Statement relating to a named revision of an edition	|	2D.	|	[3.24.31](/DCRMR/edition/Designation-of-named-revision-of-edition/#32431-statement-relating-to-a-named-revision-of-an-edition)	|
-|		|	2D1.	|	[3.24.31.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.1)	|
+|	Statement relating to a named revision of an edition	|	2D.	|	[3.24.3](/DCRMR/edition/Designation-of-named-revision-of-edition/#3243-general-rule)	|
+|		|	2D1.	|	[3.24.3.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.1)	|
 |		|	2D2.	|	[3.24.32.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.2)	|
 |	Statements of responsibility relating to a named revision of an edition	|	2E.	|	[3.25.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3253-general-rule)	|
 |		|	2E.1.	|	[3.25.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.1)	|
@@ -339,7 +339,7 @@ sidebar:
 |		|	4B13.2.	|	[5.215.31.5](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.5) [5.265.31.5](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.5)	|
 |	Name of publisher, distributor, etc.	|	4C.	|	[5.22.3](/DCRMR/ppdm/Name-of-publisher/#5223-general-rule) [5.27.3](/DCRMR/ppdm/Name-of-distributor/#5273-general-rule)	|
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
-|		|	4C2.	|	[5.22.3.2](/DCRMR/ppdm/Name-of-publisher/#5.22.3.2) [5.27.3.2](/DCRMR/ppdm/Name-of-distributor/#5.27.3.2)	|
+|		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.31.1](/DCRMR/ppdm/Name-of-publisher/#5.22.31.1) [5.27.31.1](/DCRMR/ppdm/Name-of-distributor/#5.27.31.1)	|
 |	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.32](/DCRMR/ppdm/Name-of-publisher/#52232-publishers-identified-by-addresses-signs-or-initials) [5.27.32](/DCRMR/ppdm/Name-of-distributor/#52732-names-of-distributors-containing-only-addresses-signs-or-initials)	|
 |		|	4C4.1.	|	[5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1) [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)	|
@@ -480,7 +480,7 @@ sidebar:
 |	Single-sheet publications	|	5D4.	|	[6.24.35](/DCRMR/phys-desc/Dimensions/#62435-single-sheet-manifestations)	|
 |		|	5D4.1.	|	[6.24.35.1](/DCRMR/phys-desc/Dimensions/#6.24.35.1) [6.24.35.2](/DCRMR/phys-desc/Dimensions/#6.24.35.2) |
 |		|	5D4.2.	|	[6.24.35.4](/DCRMR/phys-desc/Dimensions/#6.24.35.2)	|
-|	Accompanying material	|	5E.	|	[9.31](/DCRMR/additional-notes/Accompanied-by-manifestation/)	|
+|	Accompanying material	|	5E.	|	[9.3.38](/DCRMR/additional-notes/Note-on-manifestation/#9338-accompanying-material)	|
 |	General rule	|	5E.1.	|	[9.31.3](/DCRMR/additional-notes/Accompanied-by-manifestation/#9313-general-rule)	|
 |		|	5E1.1.	|	[9.31.3.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.2)	|
 |		|	5E1.2.	|	[9.31.3.4](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.4)	|
@@ -556,7 +556,7 @@ sidebar:
 |	Nature, scope, or artistic form	|	7B1.	|	[9.25.31.1](/DCRMR/additional-notes/Summarization-of-content/#9.25.31.1)	|
 |	Language and script of publication; translation or adaptation	|	7B2.	|	[9.23.3](/DCRMR/additional-notes/Language-of-expression/#9233-general-rule)	|
 |		|	7B2.1.	|	[9.23.3.1](/DCRMR/additional-notes/Language-of-expression/#9.23.3.1) [9.24.3.1](/DCRMR/additional-notes/Script/#9.24.3.1)	|
-|		|	7B2.2.	|	[9.245.3.1](/DCRMR/additional-notes/Details-of-script/#9.245.3.1) [9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)	|
+|		|	7B2.2.	|	[9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)	[9.245.3.2x](/DCRMR/additional-notes/Details-of-script/#9.245.3.2x)  |
 |	Source of description; source of title proper	|	7B3.	|	[1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper)	|
 |		|	7B3.1.	|	[1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)	|
 |		|	7B3.2.	|	[1.29.31.3](/DCRMR/title/Note-on-title/#1.29.31.3)	|

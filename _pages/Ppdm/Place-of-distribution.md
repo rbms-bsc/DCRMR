@@ -161,7 +161,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 >Example:  
 ><CITE>[Scotland?]</CITE>
 
-<a name="5.26.385.3">5.26.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)). 
+<a name="5.26.385.3">5.26.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.32.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.4)). 
 
 <a name="5.26.385.4">5.26.385.4</a> If no place of distribution can be conjectured, record “Place of distribution not identified” in square brackets.
 

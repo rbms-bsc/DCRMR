@@ -94,8 +94,6 @@ sidebar:
 
 <a name="1.29.38.1">1.29.38.1</a> For transposed elements, make a note indicating the transposition of [Other title information](/DCRMR/title/Other-title-information/) that precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page (see [Other title information, 1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)).
 
-<a name="1.29.38.2">1.29.38.2</a> For instructions on providing access points for other title information, see [Variant title of manifestation, 1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-access-points-for-variant-titles).
-
 ## 1.29.39 Other title information not appearing on title page
 
 <a name="1.29.39.1">1.29.39.1</a> Transcribe other title information not appearing on the title page in a note if considered important (see [Title of manifestation, 1.2.31.1](/DCRMR/title/Title-of-manifestation/#1.2.31.1)).

@@ -134,7 +134,7 @@ sidebar:
 
 <a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured and is concisidered important, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
-<a name="5.31.385.3">5.31.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.6)). 
+<a name="5.31.385.3">5.31.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)). 
 
 >Example:  
 >Place of manufacture: <CITE>[Québec?]</CITE>  

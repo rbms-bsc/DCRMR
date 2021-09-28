@@ -27,7 +27,7 @@ sidebar:
 
 <a name="3.24.21.1">3.24.21.1</a> Designations of named revisions of an edition include words that indicate a designated edition has been updated, but not enough for the publisher to designate it an entirely new edition.
 
-## 3.24.3 General rule**
+## 3.24.3 General rule
 
 <a name="3.24.3.1">3.24.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to revision as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
 

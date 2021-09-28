@@ -63,7 +63,7 @@ sidebar:
 
 <a name="5.28.31.35">5.28.31.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
-<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a  a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
+<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a  a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)).
 
 >Example:  
 >Date of distribution: <CITE>87 [that is, 1687]</CITE>  

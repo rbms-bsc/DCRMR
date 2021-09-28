@@ -43,7 +43,7 @@ sidebar:
 
 <a name="6.23.31.3">6.23.31.3</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
-For incunabula, make a note on color printing if present (see [Details of color content, 6.235.31.3](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.3)).
+For incunabula, make a note on color printing if present (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
 ## 6.23.32 Hand coloring in printed resources
 

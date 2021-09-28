@@ -39,7 +39,7 @@ sidebar:
 >Example:  
 ><CITE>Title and preliminary pages are printed in red and black ink</CITE>
 
-For incunabula, always record color printing if present (see [Color content, 6.23.31.4](/DCRMR/phys-desc/Color-content/#6.23.31.4)).
+For incunabula, always record color printing if present (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
 
 >Example:  
 ><CITE>Printed in red and black</CITE>  

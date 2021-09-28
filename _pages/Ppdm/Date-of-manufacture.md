@@ -51,7 +51,7 @@ sidebar:
 
 <a name="5.33.352.35">5.33.352.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
-<a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.3)).
+<a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)).
 
 *Optionally*, supply the actual date, preceded by “that is,” in square brackets.  If the reason for supplying the actual date is not apparent from the rest of the description, make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)).
 
