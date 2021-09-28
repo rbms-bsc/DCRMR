@@ -235,7 +235,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.426 Leaves or pages of plates
 
-<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. Count unnumbered leaves or pages of plates as they present themselves, regardless of terms used to describe the rest of the manifestation. For a plate folded and bound at the inner margin, see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#6214275-double-leaves).
+<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. Count unnumbered leaves or pages of plates as they present themselves, regardless of terms used to describe the rest of the manifestation. For a plate folded and bound at the inner margin, see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#621427-folded-plates).
 
 > Example:  
 > <CITE>xii, 277, [11] pages, 48 pages of plates</CITE> 

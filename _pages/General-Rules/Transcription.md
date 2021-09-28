@@ -209,9 +209,9 @@ Establish the pattern of usage by examining text in the same typeface or writing
 ><CITE>Ipso anno tertIo saeCVLarI typographIae DIVIno aVXILIo a gerManIs InVentae</CITE>
 
 For guidance on recording the chronogram as a date element, see the instructions for specific types of dates as follows:
-* For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2)
-* For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), see [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)
-* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2)
+* For [Date of publication](/DCRMR/ppdm/Date-of-publication/), see [5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2) and [5.23.31.25](/DCRMR/ppdm/Date-of-publication/#5.23.31.25)
+* For [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), see [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2) and [5.28.31.25](/DCRMR/ppdm/Date-of-distribution/#5.28.31.25)
+* For [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), see [5.33.352.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.2) and [5.33.352.25](/DCRMR/ppdm/Date-of-manufacture/#5.33.352.25)
 
 ## 0.4.3 Punctuation
 

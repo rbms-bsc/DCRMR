@@ -188,7 +188,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 <a name="1.21.384.1">1.21.384.1</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). 
 
-<a name="1.21.384.2x">1.21.384.2x</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.384.2">1.21.384.2</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
 
 ### 1.21.385 Two or more expressions or manifestations with separate publication, distribution, or manufacture statements on a single sheet
 

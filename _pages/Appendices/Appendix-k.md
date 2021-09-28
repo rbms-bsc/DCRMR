@@ -217,7 +217,7 @@ sidebar:
 |	Caption title	|	1G4.	|	[1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)	|
 |	Prescribed punctuation	|	1G5.	|	[0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
 |	Two or more works with a collective title	|	1G6.	|	[1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1)	|
-|	Two or more works without a collective title	|	1G7.	|	[1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
+|	Two or more works without a collective title	|	1G7.	|	[1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)	|
 |	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
 
 
@@ -341,7 +341,7 @@ sidebar:
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.31.1](/DCRMR/ppdm/Name-of-publisher/#5.22.31.1) [5.27.31.1](/DCRMR/ppdm/Name-of-distributor/#5.27.31.1)	|
-|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.32](/DCRMR/ppdm/Name-of-publisher/#52232-publishers-identified-by-addresses-signs-or-initials) [5.27.32](/DCRMR/ppdm/Name-of-distributor/#52732-names-of-distributors-containing-only-addresses-signs-or-initials)	|
+|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.32](/DCRMR/ppdm/Name-of-publisher/#52232-publishers-identified-by-addresses-signs-or-initials) [5.27.32](/DCRMR/ppdm/Name-of-distributor/#52732-names-of-distributors-containing-only-addresses-signs-initials-or-devices)	|
 |		|	4C4.1.	|	[5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1) [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)	|
 |		|	4C4.2.	|	[5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2) [5.27.32.2](/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)	|
 |	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
@@ -365,11 +365,11 @@ sidebar:
 |		|	4D1.4.	|	[5.23.3.3](/DCRMR/ppdm/Date-of-publication/#5.23.3.3) [5.28.3.3](/DCRMR/ppdm/Date-of-distribution/#5.28.3.3)	|
 |	Transcription involving adjustments or additions	|	4D2.	|	[5.23.31](/DCRMR/ppdm/Date-of-publication/#52331-transcription-involving-adjustments-or-additions) [5.28.31](/DCRMR/ppdm/Date-of-distribution/#52831-transcription-involving-adjustments-or-additions)	|
 |	Roman numerals.	|	4D2.1.	|	[5.23.31.1](/DCRMR/ppdm/Date-of-publication/#5.23.31.1) [5.28.31.1](/DCRMR/ppdm/Date-of-distribution/#5.28.31.1)	|
-|	Chronograms.	|	4D2.2.	|	[5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2) [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2)	|
-|	Very long dates.	|	4D2.3.	|	[5.23.31.3](/DCRMR/ppdm/Date-of-publication/#5.23.31.3) [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3)	|
+|	Chronograms.	|	4D2.2.	|	[5.23.31.2](/DCRMR/ppdm/Date-of-publication/#5.23.31.2) [5.23.31.25](/DCRMR/ppdm/Date-of-publication/#5.23.31.25) [5.28.31.2](/DCRMR/ppdm/Date-of-distribution/#5.28.31.2) [5.28.31.25](/DCRMR/ppdm/Date-of-distribution/#5.28.31.25) 	|
+|	Very long dates.	|	4D2.3.	|	[5.23.31.3](/DCRMR/ppdm/Date-of-publication/#5.23.31.3) [5.23.31.35](/DCRMR/ppdm/Date-of-publication/#5.23.31.35) [5.28.31.3](/DCRMR/ppdm/Date-of-distribution/#5.28.31.3) [5.28.31.35](/DCRMR/ppdm/Date-of-distribution/#5.28.31.35)	|
 |	Fictitious or incorrect dates.	|	4D2.4.	|	[5.23.31.4](/DCRMR/ppdm/Date-of-publication/#5.23.31.4) [5.28.31.4](/DCRMR/ppdm/Date-of-distribution/#5.28.31.4)	|
 |	Julian/Old Style dates.	|	4D2.5.	|	[5.23.31.5](/DCRMR/ppdm/Date-of-publication/#5.23.31.5) [5.28.31.5](/DCRMR/ppdm/Date-of-distribution/#5.28.31.5)	|
-|	Dates not of the Julian or Gregorian calendar.	|	4D2.6.	|	[5.23.31.6](/DCRMR/ppdm/Date-of-publication/#5.23.31.6) [5.28.31.6](/DCRMR/ppdm/Date-of-distribution/#5.28.31.6)	|
+|	Dates not of the Julian or Gregorian calendar.	|	4D2.6.	|	[5.23.31.6](/DCRMR/ppdm/Date-of-publication/#5.23.31.6) [5.23.31.65](/DCRMR/ppdm/Date-of-publication/#5.23.31.65) [5.28.31.6](/DCRMR/ppdm/Date-of-distribution/#5.28.31.6) [5.28.31.65](/DCRMR/ppdm/Date-of-distribution/#5.28.31.65))	|
 |	Multiple adjustments or additions.	|	4D2.7.	|	[5.23.31.7](/DCRMR/ppdm/Date-of-publication/#5.23.31.7) [5.28.31.7](/DCRMR/ppdm/Date-of-distribution/#5.28.31.7)	|
 |	Date of publication, distribution, etc., supplied from reference sources	|	4D3.	|	[5.23.32.1](/DCRMR/ppdm/Date-of-publication/#5.23.32.1) [5.28.32.1](/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)	|
 |	Conjectural date of publication, distribution, etc.	|	4D4.	|	[5.23.33](/DCRMR/ppdm/Date-of-publication/#52333-conjectural-date-of-publication) [5.28.33](/DCRMR/ppdm/Date-of-distribution/#52833-conjectural-date-of-distribution)	|
@@ -398,7 +398,7 @@ sidebar:
 |	Preliminary rule	|	5A.	|	n/a	|
 |	Prescribed punctuation	|	5A1.	|	[0.2.6](/DCRMR/general-rules/Prescribed-punctuation/#026-physical-description)	|
 |	Sources of information	|	5A2.	|	[6.01.1](/DCRMR/phys-desc/#6011-sources-of-information)	|
-|	Extent	|	5B.	|	[6.21.4](/DCRMR/phys-desc/Extent-of-manifestation/#6214-extent-of-text)	|
+|	Extent	|	5B.	|	[6.21.4](/DCRMR/phys-desc/Extent-of-manifestation/#6214-extent-of-manifestations-of-text)	|
 |	Publications in one physical unit	|	5B1&ndash;5B14.	|	[6.21.42](/DCRMR/phys-desc/Extent-of-manifestation/#62142-manifestations-in-one-physical-unit)	|
 |	General rule	|	5B1.	|	[6.21.421](/DCRMR/phys-desc/Extent-of-manifestation/#621421-general-rule)	|
 |		|	5B1.1.	|	[6.21.421.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.1)	|
@@ -469,7 +469,7 @@ sidebar:
 |		|	5C3.2.	|	[6.23.32.4](/DCRMR/phys-desc/Color-content/#6.23.32.4)	|
 |		|	5C3.3.	|	[6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)	|
 |	Number of illustrations	|	5C4.	|	[6.22.35.1](/DCRMR/phys-desc/Illustrative-content/#6.22.35.1)	|
-|	Publications consisting entirely or chiefly of illustrations	|	5C5.	|	[6.22.37.2](/DCRMR/phys-desc/Illustrative-content/#6.22.37.2)	|
+|	Publications consisting entirely or chiefly of illustrations	|	5C5.	|	[6.22.37.2](/DCRMR/phys-desc/Illustrative-content/#6.22.37.2) [6.22.37.3](/DCRMR/phys-desc/Illustrative-content/#6.22.37.3)	|
 |	Size and format	|	5D.	|	[6.24](/DCRMR/phys-desc/Dimensions/)	|
 |	General rule	|	5D1.	|	[6.24.3](/DCRMR/phys-desc/Dimensions/#6243-general-rule)	|
 |		|	5D1.1.	|	[6.24.3.1](/DCRMR/phys-desc/Dimensions/#6.24.3.1)	|
@@ -654,7 +654,7 @@ sidebar:
 | DCRM Contents | DCRM Citation | DCRMR Citation |
 | ---|---|---|
 |	Introduction	|	F1.	|	n/a	|
-|	Title proper	|	0B1.	|	[1.21.39.1](/DCRMR/title/Title-proper/#1.21.39.1)	|
+|	Title proper	|	0B1.	|	n/a	|
 |	Title proper in nonroman script	|	0F1.1. 	|	[1.25.351.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.351.1)	|
 |	Title proper with converted letterforms I, J, i, j, u, or v 	|	0G2.2.	|	[1.25.3515.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.1)	|
 |	Latin title proper with final capital I representing ii	|	0G2.3.	|	[1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)	|
@@ -671,7 +671,7 @@ sidebar:
 |	Parallel titles (Optional)	|	1C. 	|	[1.215.33.1](/DCRMR/title/Parallel-title-proper/#1.215.33.1)	|
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
 |	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
-|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
 |	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
 |	Titles of accompanying material (Optional)	|	7B11.	|	[9.31.3.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.6)	|
