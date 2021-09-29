@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1QDFr8umA31BybrgH9YawtF_I3XMZtWvEZTt7wMeJiEY/edit?usp=sharing){:target="_blank"}
-
 ## Contents:
 {: .no_toc .text-delta }
 
@@ -53,7 +51,7 @@ sidebar:
 
 ## I.01.3 Objectives and principles
 
-<a name="I.01.3.1">I.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ (IFLA)  [*Functional Requirements for Bibliographic Records* (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [*Library Reference Model* (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [*Statement of International Cataloguing Principles*](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
+<a name="I.01.3.1">I.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ (IFLA)  [Functional Requirements for Bibliographic Records (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [Library Reference Model (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [Statement of International Cataloguing Principles](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
 
 ### I.01.31 Functional objectives of DCRMR
 
