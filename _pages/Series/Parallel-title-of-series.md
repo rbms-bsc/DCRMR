@@ -40,7 +40,7 @@ sidebar:
 
 ## 8.215.31 Parallel subseries titles
 
-<a name="8.215.31.1">8.215.31.1</a> If there are both parallel series titles of series and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
+<a name="8.215.31.1">8.215.31.1</a> If there are both parallel titles of series and subseries titles on the resource, transcribe each subseries after the series title to which it relates. If any parallel titles have been omitted from the transcription, also omit their associated subseries. 
 
 ---
 

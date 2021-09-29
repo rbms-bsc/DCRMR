@@ -11,7 +11,7 @@ sidebar:
 
 ## 8.01.1 Sources of information 
 
-<a name="8.01.1.1">8.01.1.1</a> The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information). For multipart monographs, prefer a source in the first volume. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
+<a name="8.01.1.1">8.01.1.1</a> The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). For multipart monographs, prefer a source in the first volume. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
 
 Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).
 
@@ -37,7 +37,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series. Title of subseries = Parallel title of series. Parallel title of subseries
 
-<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) relating to the series following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are parallel series titles, transcribe the other title information after the series title to which it relates.
+<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are parallel series titles, transcribe the other title information after the series title to which it relates.
 
 >Title of series : other title information of series = Parallel title of series
 
