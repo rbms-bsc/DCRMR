@@ -94,11 +94,11 @@ sidebar:
 
 ## 5.26.34 Places of distribution in multipart monographs
 
-<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part, and the place of distribution changes in the course of publication,  transcribe the Place of distribution of the first or earliest part and always give the Place of distribution of the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
+<a name="5.26.34.1">5.26.34.1</a> If the manifestation is issued in more than one physical part and the place of distribution changes in the course of publication, transcribe as Place of distribution the place named in the first or earliest part and always record the place named in the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.32.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.1)).
 
 ## 5.26.35 Place names that are grammatically inseparable parts of other elements 
 
-<a name="5.26.35.1">5.26.35.1</a> If the Place of distribution appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern form of the name in the language of the cataloging agency.
+<a name="5.26.35.1">5.26.35.1</a> If the place name appears only as a grammatically inseparable part of another element and is transcribed there, supply the Place of distribution in square brackets (see [5.25.34.3](/DCRMR/ppdm/Distribution-statement/#5.25.34.3)). Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 >Place of distribution: <CITE>[Hanover]</CITE>  
@@ -170,7 +170,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a>  If the Place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.26.39.1">5.26.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 >Example:   
 >Place of distribution: <CITE>Londini</CITE>  

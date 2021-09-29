@@ -34,7 +34,7 @@ sidebar:
 
 <a name="5.275.31.2">5.275.31.2</a> For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)). 
 
-<a name="5.275.31.3">5.275.31.3</a> If the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper) as a [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). If this criterion does not apply, transcribe the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) that appears first.
+<a name="5.275.31.3">5.275.31.3</a> If the distributor’s name  appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper) as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). If this criterion does not apply, transcribe the name of distributor that appears first as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/).
 
 <a name="5.275.31.4">5.275.31.4</a> Transcribe remaining distributor names appearing on the same source as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) as Parallel names of distributor. If a parallel name of distributor is from a different source than the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 

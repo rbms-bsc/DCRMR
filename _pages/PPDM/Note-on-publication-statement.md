@@ -50,7 +50,7 @@ sidebar:
 
 ## 5.24.32 Place of publication notes
 
-<a name="5.24.32.1">5.24.32.1</a> **Places of publication in multipart monographs**. Always make a Note on publication statement if the manifestation is issued in more than one physical part and the [Place of publication](/DCRMR/ppdm/Place-of-publication/) changes in the course of publication by giving the [Place of publication](/DCRMR/ppdm/Place-of-publication/) of the later part(s) (see [5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
+<a name="5.24.32.1">5.24.32.1</a> **Places of publication in multipart monographs**. If the manifestation is issued in more than one physical part and the place of publication changes in the course of publication, always record the place named in the later part(s) in a Note on publication statement (see [Place of publication, 5.21.34.1](/DCRMR/ppdm/Place-of-publication/#5.21.34.1)).
 
 >Example:  
 ><CITE>Place of publication in v. 33-40: Stuttgart ; Augsburg</CITE>
@@ -84,11 +84,11 @@ sidebar:
 
 ## 5.24.33 Parallel place of publication notes
 
-<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/) found elsewhere in the resource from the place of publication if considered important (see [5.215.31.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.1) and [5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4)).
+<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a parallel place of publication found elsewhere in the resource from the [Place of publication](/DCRMR/ppdm/Place-of-publication/) if considered important (see [Parallel place of publication, 5.215.31.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.1) and [5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4)).
 
 ## 5.24.34 Name of publisher notes
 
-<a name="5.24.34.5">5.24.34.5</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) changes in the course of publication, always transcribe the publisher's name on the first or earliest part as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) and give the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) of the later part(s) in a Note on publication statement (see [5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
+<a name="5.24.34.5">5.24.34.5</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, always record the publisher’s name in the later part(s) in a Note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
 <a name="5.24.34.3">5.24.34.3</a> **Fictitious or incorrect names of publisher**. Always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect (see [5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1)).
 
@@ -128,7 +128,7 @@ sidebar:
 
 ## 5.24.35 Parallel name of publisher notes
 
-<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource  from the source of the name of publisher if considered important (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [5.225.31.4](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.4)).
+<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource from the source of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [5.225.31.4](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.4)).
 
 ## 5.24.36 Date of publication notes
 

@@ -156,7 +156,7 @@ sidebar:
 
 ## 5.21.34 Places of publication in multipart monographs
 
-<a name="5.21.34.1">5.21.34.1</a> If the manifestation is issued in more than one physical part and the place of publication changes in the course of publication,  transcribe the Place of publication of the first or earliest part and always give the Place of publication of the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.1)).
+<a name="5.21.34.1">5.21.34.1</a> If the manifestation is issued in more than one physical part and the place of publication changes in the course of publication, transcribe as Place of publication the place named in the first or earliest part and always record the place named in the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.1)).
 
 >Example:  
 >Place of publication: <CITE>Stuttgart ; Tübingen</CITE>  
@@ -165,7 +165,7 @@ sidebar:
 
 ## 5.21.35 Place names that are grammatically inseparable parts of other elements
 
-<a name="5.21.35.1">5.21.35.1</a> If the Place of publication appears only as a grammatically inseparable part of another element and is transcribed there, supply the place of publication in square brackets (see [5.2.34.3](/DCRMR/ppdm/Publication-statement/#5.2.34.3)). Use a modern form of the name in the language of the cataloging agency.
+<a name="5.21.35.1">5.21.35.1</a> If the place name appears only as a grammatically inseparable part of another element and is transcribed there, supply the Place of publication in square brackets (see [5.2.34.3](/DCRMR/ppdm/Publication-statement/#5.2.34.3)). Use a modern form of the name in the language of the cataloging agency.
 
 >Example:  
 >Place of publication: <CITE>[Simmern]</CITE>  
@@ -262,7 +262,7 @@ sidebar:
 
 ## 5.21.39 Place names in more than one language or script
 
-<a name="5.21.39.1">5.21.39.1</a> If the Place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as the Place of publication. If this criterion does not apply, transcribe the place that appears first as Place of publication. Transcribe remaining places(s) as [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)). 
+<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of publication. If this criterion does not apply, transcribe the place that appears first as Place of publication. Transcribe remaining place(s) as [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)).
 
 >Example:  
 >Place of publication: <CITE>London</CITE>  

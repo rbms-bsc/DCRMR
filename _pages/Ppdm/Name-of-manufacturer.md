@@ -78,7 +78,7 @@ sidebar:
 
 ## 5.32.35 Names of manufacturers in multipart monographs
 
-<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the name of manufacturer or manufacturer’s form of name changes in the course of publication, transcribe the manufacturer's name of the first or earliest part and always give the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.5)).
+<a name="5.32.35.1">5.32.35.1</a> If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, transcribe as Name of manufacturer the name in the first or earliest part and always record the manufacturer’s name in the later part(s) in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.5](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.5)).
 
 ## 5.32.31 Names of manufacturers containing grammatically inseparable place names or dates
 
@@ -146,7 +146,7 @@ If transcribing a manufacturer name as part of another element, do not abridge o
 
 ## 5.32.39 Name of manufacturer in more than one language or script 
 
-<a name="5.32.39.1">5.32.39.1</a> If the Name of manufacturer appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of manufacturer. If this criterion does not apply, transcribe the name that appears first. Transcribe the remaining manufacturer name(s) as [Parallel names of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source(see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
+<a name="5.32.39.1">5.32.39.1</a> If the manufacturer’s name appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of manufacturer. If this criterion does not apply, transcribe the name that appears first as Name of manufacturer. Transcribe the remaining manufacturer name(s) as [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source(see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
 
 >Example:  
 >Name of manufacturer: <CITE>De l'imprimerie de T. Spilsbury, Snow-hill</CITE>  

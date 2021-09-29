@@ -91,7 +91,7 @@ sidebar:
 
 ## 5.22.35 Names of publishers in multipart monographs 
 
-<a name="5.22.35.1">5.22.35.1</a> If the manifestation is issued in more than one physical part and the name of publisher or the publisher's form of name changes in the course of publication, transcribe the publisher's name of the first or earliest part and always give the Name of publisher of the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
+<a name="5.22.35.1">5.22.35.1</a> If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, transcribe as Name of publisher the name in the first or earliest part and always record the publisher’s name in the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
 
 ## 5.22.31 Names of publishers containing grammatically inseparable place names or dates
 
@@ -169,7 +169,7 @@ If transcribing a publisher name as part of another element, do not abridge or e
 
 ## 5.22.39 Name of publisher in more than one language or script
 
-<a name="5.22.39.1">5.22.39.1</a> If the Name of publisher appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of publisher. If this criterion does not apply, transcribe the name that appears first. Transcribe the remaining publisher name(s) as [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
+<a name="5.22.39.1">5.22.39.1</a> If the publisher’s name appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of publisher. If this criterion does not apply, transcribe the name that appears first as Name of publisher. Transcribe the remaining publisher name(s) as [Parallel name of publisher](/DCRMR/ppdm/Parallel-name-of-publisher/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
 
 >Example:  
 >Name of publisher: <CITE>Bey Carl Ludwig Jacobi</CITE>  

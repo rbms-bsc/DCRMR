@@ -29,7 +29,7 @@ sidebar:
 
 <a name="5.225.31.2">5.225.31.2</a> For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) to indicate the original position on the source (see [5.24.34.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.7)).
 
-<a name="5.225.31.3">5.225.31.3</a> If the [Name of publisher](/DCRMR/ppdm/Name-of-publisher) appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper) as a [Name of publisher](/DCRMR/ppdm/Name-of-publisher). If this criterion does not apply, transcribe the [Name of publisher](/DCRMR/ppdm/Name-of-publisher) that appears first.
+<a name="5.225.31.3">5.225.31.3</a> If the publisher’s name  appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper) as [Name of publisher](/DCRMR/ppdm/Name-of-publisher). If this criterion does not apply, transcribe the name of publisher that appears first as [Name of publisher](/DCRMR/ppdm/Name-of-publisher).
 
 <a name="5.225.31.4">5.225.31.4</a> Transcribe remaining publisher names appearing on the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher) as Parallel names of publisher. If a parallel name of publisher is from a different source than the [Name of publisher](/DCRMR/ppdm/Name-of-publisher), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) if considered important (see [5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 

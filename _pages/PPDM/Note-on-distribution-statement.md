@@ -42,7 +42,7 @@ sidebar:
 
 ## 5.285.32 Place of distribution notes
 
-<a name="5.285.32.1">5.285.32.1</a> **Places of distribution in multipart monographs**. Always make a Note on distribution statement if the manifestation is issued in more than one physical part and the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) changes in the course of publication by giving the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) of the later part(s) (see [5.26.34.1](/DCRMR/ppdm/Place-of-distribution/#5.26.34.1)).
+<a name="5.285.32.1">5.285.32.1</a> **Places of distribution in multipart monographs**. If the manifestation is issued in more than one physical part and the place of distribution changes in the course of publication, always record the place named in the later part(s) in a Note on distribution statement (see [Place of distribution, 5.26.34.1](/DCRMR/ppdm/Place-of-distribution/#5.26.34.1)).
 
 <a name="5.285.32.2">5.285.32.2</a> **Fictitious or incorrect places**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appearing on the manifestation is known to be fictitious or incorrect (see [5.26.36.1](/DCRMR/ppdm/Place-of-distribution/#5.26.36.1)).
 
@@ -76,11 +76,11 @@ sidebar:
 
 ## 5.285.33 Parallel place of distribution notes
 
-<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) found elsewhere in the resource from the place of distribution if considered important (see [5.265.31.1](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.1) and [5.265.31.4](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.4)).
+<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a parallel place of distribution found elsewhere in the resource from the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if considered important (see [Parallel place of distribution, 5.265.31.1](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.1) and [5.265.31.4](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.4)).
 
 ## 5.285.34 Name of distributor notes
 
-<a name="5.285.34.5">5.285.34.5</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) changes in the course of publication, always transcribe the distributor’s name on the first or earliest part as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) and give the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) of the later part(s) in a Note on distribution statement (see [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
+<a name="5.285.34.5">5.285.34.5</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, always record the distributor’s name in the later part(s) in a Note on distribution statement (see [Name of distributor, 5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
 
 <a name="5.285.34.3">5.285.34.3</a> **Fictitious or incorrect names of distributor**. Always make a Note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
 
@@ -100,7 +100,7 @@ sidebar:
 
 ## 5.285.35 Parallel name of distributor notes
 
-<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of the name of distributor if considered important (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [5.275.31.4](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.4)).
+<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) if considered important (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [5.275.31.4](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.4)).
 
 ## 5.285.36 Date of distribution notes
 

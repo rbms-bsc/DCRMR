@@ -46,7 +46,7 @@ sidebar:
 
 ## 5.34.32 Place of manufacture notes
 
-<a name="5.34.32.1">5.34.32.1</a> **Places of manufacture in multipart monographs**. Always make a Note on manufacture statement if the manifestation is issued in more than one physical part, and the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) changes in the course of publication by giving the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) of the later part(s) (see [5.31.34.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.34.1)).
+<a name="5.34.32.1">5.34.32.1</a> **Places of manufacture in multipart monographs**. If the manifestation is issued in more than one physical part and the place of manufacture changes in the course of publication, always record the place named in the later part(s) in a Note on manufacture statement (see [Place of manufacture, 5.31.34.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.34.1)).
 
 <a name="5.34.32.2">5.34.32.2</a> **Fictitious or incorrect places**. Always make a Note on manufacture statement if the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appearing on the manifestation is known to be fictitious or incorrect (see [5.31.36.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.36.1)).
 
@@ -79,7 +79,7 @@ sidebar:
 
 ## 5.34.33 Parallel place of manufacture notes
 
-<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) found  elsewhere in the resource from the place of manufacture if considered important (see [5.315.31.1](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.1) and [5.315.31.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.4)).
+<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a parallel place of manufacture found elsewhere in the resource from the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if considered important (see [Parallel place of manufacture, 5.315.31.1](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.1) and [5.315.31.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.4)).
 
 >Example:  
 >Parallel place of manufacture on cover reads: <CITE>Saint-Cloud</CITE>  
@@ -87,7 +87,7 @@ sidebar:
 
 ## 5.34.34 Name of manufacturer notes
 
-<a name="5.34.34.5">5.34.34.5</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the name or form of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) changes in the course of publication, always transcribe the manufacturer’s name on the first or earliest part as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) and give the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) of the later part(s) in a Note on manufacture statement (see [5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
+<a name="5.34.34.5">5.34.34.5</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, always record the manufacturer’s name in the later part(s) in a Note on manufacture statement (see [Name of manufacturer, 5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 
 <a name="5.34.34.3">5.34.34.3</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
 
@@ -125,7 +125,7 @@ sidebar:
 
 ## 5.34.35 Parallel name of manufacturer notes
 
-<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of  the name of manufacturer if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [Parallel name of manufacturer, 5.325.31.4](/DCRMR/ppdm/Name-of-manufacturer/#5.325.31.4)).
+<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [5.325.31.4](/DCRMR/ppdm/Name-of-manufacturer/#5.325.31.4)).
 
 >Example:  
 ><CITE>Parallel name of manufacturer on cover reads: “Imprimerie de Mme Ve Belin”</CITE>  
