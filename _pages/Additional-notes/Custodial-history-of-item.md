@@ -23,7 +23,7 @@ sidebar:
 
 <a name="9.42.2.1">9.42.2.1</a> A record of previous ownership or custodianship of an item, including agent, place, and timespan.
 
-#9.42.25 Related element
+## 9.42.25 Related element
 
 <a name="9.42.25.1">9.42.25.1</a> See [Immediate source of acquisition of item](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) for instructions on recording the circumstances under which an item is directly acquired.
 
@@ -48,7 +48,7 @@ sidebar:
 
 <a name="9.42.3.2">9.42.3.2</a> Record physical evidence of provenance on the item such as bookplates, stamps, autographs, and manuscript annotations as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.33.1](/DCRMR/additional-notes/Modification-of-item/#9.41.33.1)).
 
-<a name="9.42.3.3">9.42.3.3</a> *Optionally*, record the immediate source of acquisition of item as Custodial history of item if considered important and if not recorded as [Immediate source of acquisition of item](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) (see ([9.425.3.1](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/#9.425.3.1)).
+<a name="9.42.3.3">9.42.3.3</a> *Optionally*, record the immediate source of acquisition of item as Custodial history of item if considered important and if not recorded as [Immediate source of acquisition of item](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) (see [9.425.3.1](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/#9.425.3.1)).
 
 >Example:  
 ><CITE>Gift from the Franklin D. Roosevelt Library, Jan. 9, 1950</CITE>  

@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.32.31 References to published descriptions
 
-<a name="9.32.31.1">9.32.31.1</a> Alwys give references to published descriptions in bibliographic or reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
+<a name="9.32.31.1">9.32.31.1</a> Always give references to published descriptions in bibliographic or reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
 >Example:  
 ><CITE>Bartsch, A. Le peintre graveur, VII, no. 139</CITE>

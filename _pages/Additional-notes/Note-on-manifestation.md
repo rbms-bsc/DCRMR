@@ -135,7 +135,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 ## 9.3.38 Accompanying material
 
-<a name="9.31.3.1">9.31.3.1</a> Always record accompanying material (a manifestation  physically separate from and issued simultaneously (or nearly so) with another manifestation and generally intended to be used together with it) as an unstructured note, beginning with “Accompanied by” followed by a colon. See [Issued with] ([9.34.3.1](/DCRMR//DCRMR/additional-notes/Issued-with/#9.34.3.1)) for manifestations issued on the same carrier.
+<a name="9.31.3.1">9.31.3.1</a> Always record accompanying material (a manifestation  physically separate from and issued simultaneously (or nearly so) with another manifestation and generally intended to be used together with it) as an unstructured note, beginning with “Accompanied by” followed by a colon. See [Issued with](/DCRMR/additional-notes/Issued-with/) ([9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) for manifestations issued on the same carrier.
 
 <a name="9.31.3.2">9.31.3.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1).
 
@@ -165,7 +165,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 <a name="9.31.3.6">9.31.3.6</a> *Optionally*, record an access point for manifestation for the related manifestation(s) in addition to the note. 
 
-<a name="9.31.31.1">9.31.31.1</a> If accompanying material is illustrative content and is issued in a pocket attached to a manifestation, always specify the location in [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/) (see [6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)). 
+<a name="9.31.31.1">9.31.31.1</a> **Accompanying material issued in pocket**. If accompanying material is illustrative content and is issued in a pocket attached to a manifestation, always specify the location in [Details of illustrative content](/DCRMR/phys-desc/Details-of-illustrative-content/) (see [6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)). 
 
 >Example:  
 >Accompanied by manifestation: <CITE>Accompanied by: 2 folded maps</CITE>  

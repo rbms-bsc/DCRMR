@@ -11,7 +11,7 @@ sidebar:
 
 ## 9.01.1 Sources of information 
 
-<a name="9.01.1.1">9.01.1.1</a> Take information recorded in notes from any source (see [Datea provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). Square brackets are required only for interpolations within quoted material.
+<a name="9.01.1.1">9.01.1.1</a> Take information recorded in notes from any source (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). Square brackets are required only for interpolations within quoted material.
 
 ## 9.01.3 Form and order of information
 

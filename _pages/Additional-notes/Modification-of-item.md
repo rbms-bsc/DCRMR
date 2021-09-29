@@ -84,7 +84,7 @@ For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additi
 >Example:  
 ><CITE>Library copy annotated “To W.C.C. from J J McC Xmas 1901” and in a different hand “From Jas J. M’Cabe, for Xmas present to Wm Chas Cooke a practice continued until Jas. Mcabes death in (I think) about 1950”</CITE>
 
-For summaries of the past ownership of an item, see [Custodial history of item, 9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1). For immediate source of acquisition, see [Immediate source of acquisition of item, 9.425.3.1](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/#9.425.3.1).
+For summaries of the past ownership of an item, see [Custodial history of item](/DCRMR/additional-notes/Custodial-history-of-item/) ([9.42.3.1](/DCRMR/additional-notes/Custodial-history-of-item/#9.42.3.1)). For immediate source of acquisition, see [Immediate source of acquisition of item](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) ( [9.425.3.1](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/#9.425.3.1)).
 
 ## 9.41.35 Bindings
 
