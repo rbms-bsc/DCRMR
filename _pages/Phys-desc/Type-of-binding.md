@@ -60,7 +60,7 @@ sidebar:
 
 <a name="6.32.3.5">6.32.3.5</a> Record descriptions of containers issued with the manifestation if considered important. 
 
-<a name="6.32.3.6">6.32.3.6</a> Record descriptions of dust jackets issued with the manifestation if considered important. For instructions on dust jackets as sources of information, see [Integrity of the copy, I.01.8.2](/DCRMR/introduction/#I.01.8.2).
+<a name="6.32.3.6">6.32.3.6</a> Record descriptions of dust jackets issued with the manifestation if considered important. For instructions on dust jackets as sources of information, see [Integrity of the copy, i.01.8.2](/DCRMR/introduction/#i.01.8.2).
 
 ---
 

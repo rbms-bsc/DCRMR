@@ -17,49 +17,49 @@ sidebar:
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
 | ---|---|---|
-|	Scope and purpose	|	I.	|	[I.01.1](/DCRMR/introduction/#i011-scope-and-purpose)	|
-|	Descriptive Cataloging of Rare Materials	|	I.1.	|	[I.01.11](/DCRMR/introduction/#i0111-descriptive-cataloging-of-rare-materials)	|
-|	Descriptive Cataloging of Rare Materials (Books)	|	I.2.	|	[I.01.12](/DCRMR/introduction/#i0112-descriptive-cataloging-of-rare-materials-rda-edition)	|
-|	Need for special rules	|	I.3.	|	[I.01.13](/DCRMR/introduction/#i0113-need-for-special-instructions)	|
-|	Scope of application	|	I.4.	|	[I.01.14](/DCRMR/introduction/#i0114-scope-of-application)	|
-|	Application within the bibliographic record	|	I.5.	|	[I.01.15](/DCRMR/introduction/#i0115-application-within-the-metadata-description)	|
-|	Relationship to other standards	|	II.	|	[I.01.2](/DCRMR/introduction/#i012-relationship-to-other-standards)	|
-|	AACR2, ISBD(A), and other cataloging documentation	|	II.1.	|	[I.01.21](/DCRMR/introduction/#i0121-rda-lc-pcc-ps-and-other-cataloging-documentation)	|
-|	MARC 21	|	II.2.	|	[I.01.22](/DCRMR/introduction/#i0122-metadata-encoding-standards)	|
-|	Objectives and principles	|	III.	|	[I.01.3](/DCRMR/introduction/#i013-objectives-and-principles)	|
-|	Functional objectives of DCRM	|	III.1.	|	[I.01.31](/DCRMR/introduction/#i0131-functional-objectives-of-dcrmr)	|
-|	Users must be able to distinguish clearly among different manifestations of an expression of a work	|	III.1.1.	|	[I.01.312](/DCRMR/introduction/#i01312-users-must-be-able-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
-|	Users must be able to perform most identification and selection tasks without direct access to the materials	|	III.1.2.	|	[I.01.313](/DCRMR/introduction/#i01313-users-must-be-able-to-perform-most-identification-and-selection-tasks-without-direct-access-to-the-resources)	|
-|	Users must be able to investigate physical processes and post-production history and context exemplified in materials described	|	III.1.3.	|	[I.01.311](/DCRMR/introduction/#i01311-users-must-be-able-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-resources-described)	|
-|	Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions	|	III.1.4.	|	[I.01.314](/DCRMR/introduction/#i01314-users-must-be-able-to-gain-access-to-resources-whose-production-or-presentation-characteristics-differ-from-modern-conventions)	|
-|	Principles of DCRM construction	|	III.2.	|	[I.01.32](/DCRMR/introduction/#i0132-principles-of-dcrmr-construction)	|
-|	Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work	|	III.2.1.	|	[I.01.321](/DCRMR/introduction/#i01321-instructions-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
-|	Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission	|	III.2.2.	|	[I.01.322](/DCRMR/introduction/#i01322-instructions-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission)	|
-|	Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described	|	III.2.3.	|	[I.01.323](/DCRMR/introduction/#i01323-instructions-provide-guidance-for-the-inclusion-of-manifestation-specific-and-item-specific-information-that-permits-users-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-the-item-described)	|
-|	Rules provide for the inclusion of all elements of bibliographical significance	|	III.2.4.	|	[I.01.324](/DCRMR/introduction/#i01324-instructions-provide-for-the-inclusion-of-all-elements-of-bibliographical-significance)	|
-|	Rules conform to the substance and structure of the final revision of AACR2 to the extent possible	|	III.2.5.	|	[I.01.325](/DCRMR/introduction/#i01325-instructions-conform-to-the-rda-toolkit-to-the-extent-possible)	|
-|	Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles	|	III.2.6.	|	[I.01.326](/DCRMR/introduction/#i01326-instructions-are-compatible-with-the-dcrm-suite-except-in-cases-where-changes-are-necessary-to-align-more-closely-to-the-rda-toolkit-or-to-conform-to-the-above-principles)	|
-|	Options	|	IV.	|	[I.01.4](/DCRMR/introduction/#i014-options)	|
-|	Language preferences	|	V.	|	[I.01.5](/DCRMR/introduction/#i015-language-preferences)	|
-|	Spelling and style	|	VI.	|	[I.01.55](/DCRMR/introduction/#i0155-spelling-and-style)	|
-|	Acronyms	|	VII.	|	[I.01.6](/DCRMR/introduction/#i016-acronyms)	|
-|	Examples and notes	|	VIII.	|	[I.01.7](/DCRMR/introduction/#i017-examples-and-notes)	|
-|	Examples	|	VIII.1.	|	[I.01.7.1](/DCRMR/introduction/#I.01.7.1)	|
-|	Notes	|	VIII.2.	|	[I.01.7.2](/DCRMR/introduction/#I.01.7.2)	|
-|	Integrity of the copy	|	IX.	|	[I.01.8](/DCRMR/introduction/#i018-integrity-of-the-copy)	|
-|	Defects and sophistication	|	IX.1.	|	[I.01.8.1](/DCRMR/introduction/#I.01.8.1)	|
-|	Dust jackets	|	IX.2.	|	[I.01.8.2](/DCRMR/introduction/#I.01.8.2)	|
-|	Precataloging decisions	|	X.	|	[I.01.9](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Decisions to make before beginning the description	|	X.1.	|	[I.01.91](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Item-level vs. collection-level description	|	X.1.1.	|	[I.01.91.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Cataloging code: AACR2 vs. DCRM(B)	|	X.1.2.	|	[I.01.91.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Encoding level: DCRM(B) minimal vs. full	|	X.1.3.	|	[I.01.91.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Bibliographic variants	|	X.1.4.	|	[I.01.91.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Factors to consider in making precataloging decisions	|	X.2.	|	[I.01.92](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Institution’s mission and user needs	|	X.2.1.	|	[I.01.92.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Institutional and departmental resources	|	X.2.2.	|	[I.01.92.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Market value and conditions of acquisition of the item or collection	|	X.2.3.	|	[I.01.92.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Intellectual and physical characteristics of the item or collection	|	X.2.4.	|	[I.01.92.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Scope and purpose	|	I.	|	[i.01.1](/DCRMR/introduction/#i011-scope-and-purpose)	|
+|	Descriptive Cataloging of Rare Materials	|	I.1.	|	[i.01.11](/DCRMR/introduction/#i0111-descriptive-cataloging-of-rare-materials)	|
+|	Descriptive Cataloging of Rare Materials (Books)	|	I.2.	|	[i.01.12](/DCRMR/introduction/#i0112-descriptive-cataloging-of-rare-materials-rda-edition)	|
+|	Need for special rules	|	I.3.	|	[i.01.13](/DCRMR/introduction/#i0113-need-for-special-instructions)	|
+|	Scope of application	|	I.4.	|	[i.01.14](/DCRMR/introduction/#i0114-scope-of-application)	|
+|	Application within the bibliographic record	|	I.5.	|	[i.01.15](/DCRMR/introduction/#i0115-application-within-the-metadata-description)	|
+|	Relationship to other standards	|	II.	|	[i.01.2](/DCRMR/introduction/#i012-relationship-to-other-standards)	|
+|	AACR2, ISBD(A), and other cataloging documentation	|	II.1.	|	[i.01.21](/DCRMR/introduction/#i0121-rda-lc-pcc-ps-and-other-cataloging-documentation)	|
+|	MARC 21	|	II.2.	|	[i.01.22](/DCRMR/introduction/#i0122-metadata-encoding-standards)	|
+|	Objectives and principles	|	III.	|	[i.01.3](/DCRMR/introduction/#i013-objectives-and-principles)	|
+|	Functional objectives of DCRM	|	III.1.	|	[i.01.31](/DCRMR/introduction/#i0131-functional-objectives-of-dcrmr)	|
+|	Users must be able to distinguish clearly among different manifestations of an expression of a work	|	III.1.1.	|	[i.01.312](/DCRMR/introduction/#i01312-users-must-be-able-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
+|	Users must be able to perform most identification and selection tasks without direct access to the materials	|	III.1.2.	|	[i.01.313](/DCRMR/introduction/#i01313-users-must-be-able-to-perform-most-identification-and-selection-tasks-without-direct-access-to-the-resources)	|
+|	Users must be able to investigate physical processes and post-production history and context exemplified in materials described	|	III.1.3.	|	[i.01.311](/DCRMR/introduction/#i01311-users-must-be-able-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-resources-described)	|
+|	Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions	|	III.1.4.	|	[i.01.314](/DCRMR/introduction/#i01314-users-must-be-able-to-gain-access-to-resources-whose-production-or-presentation-characteristics-differ-from-modern-conventions)	|
+|	Principles of DCRM construction	|	III.2.	|	[i.01.32](/DCRMR/introduction/#i0132-principles-of-dcrmr-construction)	|
+|	Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work	|	III.2.1.	|	[i.01.321](/DCRMR/introduction/#i01321-instructions-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
+|	Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission	|	III.2.2.	|	[i.01.322](/DCRMR/introduction/#i01322-instructions-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission)	|
+|	Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described	|	III.2.3.	|	[i.01.323](/DCRMR/introduction/#i01323-instructions-provide-guidance-for-the-inclusion-of-manifestation-specific-and-item-specific-information-that-permits-users-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-the-item-described)	|
+|	Rules provide for the inclusion of all elements of bibliographical significance	|	III.2.4.	|	[i.01.324](/DCRMR/introduction/#i01324-instructions-provide-for-the-inclusion-of-all-elements-of-bibliographical-significance)	|
+|	Rules conform to the substance and structure of the final revision of AACR2 to the extent possible	|	III.2.5.	|	[i.01.325](/DCRMR/introduction/#i01325-instructions-conform-to-the-rda-toolkit-to-the-extent-possible)	|
+|	Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles	|	III.2.6.	|	[i.01.326](/DCRMR/introduction/#i01326-instructions-are-compatible-with-the-dcrm-suite-except-in-cases-where-changes-are-necessary-to-align-more-closely-to-the-rda-toolkit-or-to-conform-to-the-above-principles)	|
+|	Options	|	IV.	|	[i.01.4](/DCRMR/introduction/#i014-options)	|
+|	Language preferences	|	V.	|	[i.01.5](/DCRMR/introduction/#i015-language-preferences)	|
+|	Spelling and style	|	VI.	|	[i.01.55](/DCRMR/introduction/#i0155-spelling-and-style)	|
+|	Acronyms	|	VII.	|	[i.01.6](/DCRMR/introduction/#i016-acronyms)	|
+|	Examples and notes	|	VIII.	|	[i.01.7](/DCRMR/introduction/#i017-examples-and-notes)	|
+|	Examples	|	VIII.1.	|	[i.01.7.1](/DCRMR/introduction/#i.01.7.1)	|
+|	Notes	|	VIII.2.	|	[i.01.7.2](/DCRMR/introduction/#i.01.7.2)	|
+|	Integrity of the copy	|	IX.	|	[i.01.8](/DCRMR/introduction/#i018-integrity-of-the-copy)	|
+|	Defects and sophistication	|	IX.1.	|	[i.01.8.1](/DCRMR/introduction/#i.01.8.1)	|
+|	Dust jackets	|	IX.2.	|	[i.01.8.2](/DCRMR/introduction/#i.01.8.2)	|
+|	Precataloging decisions	|	X.	|	[i.01.9](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Decisions to make before beginning the description	|	X.1.	|	[i.01.91](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Item-level vs. collection-level description	|	X.1.1.	|	[i.01.91.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Cataloging code: AACR2 vs. DCRM(B)	|	X.1.2.	|	[i.01.91.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Encoding level: DCRM(B) minimal vs. full	|	X.1.3.	|	[i.01.91.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Bibliographic variants	|	X.1.4.	|	[i.01.91.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Factors to consider in making precataloging decisions	|	X.2.	|	[i.01.92](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Institution’s mission and user needs	|	X.2.1.	|	[i.01.92.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Institutional and departmental resources	|	X.2.2.	|	[i.01.92.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Market value and conditions of acquisition of the item or collection	|	X.2.3.	|	[i.01.92.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
+|	Intellectual and physical characteristics of the item or collection	|	X.2.4.	|	[i.01.92.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
 
 ## 0. General Rules
 
