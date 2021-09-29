@@ -58,7 +58,7 @@ sidebar:
 ><CITE>Library copy: “51st-100th”-- title page verso</CITE>
 
 >Example:  
-><CITE>Library copy: Publisher’s code “B-O” on t.p. verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>
+><CITE>Library copy: Publisher’s code “B-O” on title page verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>
 
 ## 9.4.32 Edition statements on nonce collections
 

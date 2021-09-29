@@ -70,7 +70,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 <a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content).
 
 >Example:  
-><CITE>Volume 3 also includes the author’s Fanchette (p. [87]-232) and Lettre d’un paysan de la Vallée-Noir (p. [233]-307)</CITE>  
+><CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
 
 <a name="9.3.32.2">9.3.32.2</a> Transcribe contents from the title page if they are presented there formally and have not been transcribed as part of the [Title](/DCRMR/title/) and [Statement of responsibility](/DCRMR/sor/) elements if considered important. In such cases, record “[from title page]” at the beginning of the contents note. If a formal statement of contents is not present on the title page, take contents from the head of the parts to which they refer, or, if this is not feasible, from any contents list, etc., that is present. For manifestations in two or more volumes, transcribe the volume or part designations as found.
 

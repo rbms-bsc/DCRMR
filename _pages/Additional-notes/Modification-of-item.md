@@ -75,7 +75,7 @@ For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additi
 <a name="9.41.33.2">9.41.33.2</a> More detailed descriptions of provenance evidence might include such additional features as: exact transcriptions of autographs, inscriptions, bookplates, stamps, shelfmarks, etc.; location of each in the item; descriptions of bookplates using standardized terminology; and descriptions of anonymous heraldic bookplates according to heraldic blazon.
 
 >Example:  
->Library copy: <CITE>From the Old Royal Library. Previously part of the library of John Morris (d. 1658) with his signature on the title page: "Gio. Maurizio." See no. 153 in the printed catalogue of the library of John Morris. In another hand, on title page, ownership inscription: "D et M[?] Gianferro[?]"</CITE>  
+><CITE>Library copy: From the Old Royal Library. Previously part of the library of John Morris (d. 1658) with his signature on the title page: "Gio. Maurizio." See no. 153 in the printed catalogue of the library of John Morris. In another hand, on title page, ownership inscription: "D et M[?] Gianferro[?]"</CITE>  
 >(*Comment*: The formal citation for T. Birrell’s catalogue of the library of John Morris is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 >Example:  
@@ -99,7 +99,7 @@ For summaries of the past ownership of an item, see [Custodial history of item](
 ><CITE>Library copy: Leaves I5-6 incorrectly bound between h3 and h4</CITE>
 
 >Example:  
-><CITE>Library copy: Gathering I of book 2 incorrectly bound between gatherings A and B of book 3)</CITE>
+><CITE>Library copy: Gathering I of book 2 incorrectly bound between gatherings A and B of book 3</CITE>
 
 >Example:  
 ><CITE>Library copy: Folios 10-12 incorrectly bound between folios 20 and 21</CITE>
