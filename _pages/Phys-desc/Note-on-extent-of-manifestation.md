@@ -212,7 +212,7 @@ If the gatherings are signed with other unavailable characters, substitute a des
 > <CITE>Signatures: [par.]⁴ 2[sec.]⁴ 3[sec.]² A-3P⁴</CITE>   
 > (*Comment*: Gatherings are signed with ![Par.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Par.jpg "Par.") and ![Sec.](https://rbms-bsc.github.io/DCRMR/assets/pictures/phys-desc/Sec.jpg "Sec."))
 
-<a name="6.215.44.3">6.215.44.3</a> **Special uses of pi and chi**. Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)).
+<a name="6.215.44.3">6.215.44.3</a> **Special uses of pi and chi**. Indicate unsigned leaves that fall outside the signature sequence (see Gaskell, page 330) by using the words **pi** and **chi**. Do not enclose the words in square brackets. Do not use the Greek characters **π** and **χ**, as these will give the impression that the leaves have actually been signed with Greek letters (see [6.215.44.7](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.7)).
 
 > Example:  
 > <CITE>Signatures: pi⁴ A-C⁴ chi² D-Z⁴</CITE>
@@ -276,9 +276,9 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 ><CITE>Signatures (in Hebrew characters): 2-3⁸</CITE>  
 >(*Comment*: Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
-<a name="6.215.44.65">6.215.44.65</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  If considered important for clarity, follow a compressed signature statement by a total count of the gatherings in that sequence in square brackets (see [6.215.44.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.85)).
+<a name="6.215.44.65">6.215.44.65</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  If considered important for clarity, follow a compressed signature statement by a total count of the gatherings in that sequence in square brackets (see [6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)).
 
-<a name="6.215.44.8">6.215.44.8</a> **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
+<a name="6.215.44.7">6.215.44.7</a> **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
 
 
 |Greek|Α|Β|Γ|Δ|Ε|Ζ|Η|Θ|Ι|Κ|Λ|Μ|Ν|Ξ|Ο|Π|Ρ|Σ|Τ|Υ|Φ|Χ|Ψ|Ω|
@@ -292,7 +292,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 ><CITE>Signatures (in Greek characters): pi1 a-g² A-2L²</CITE>  
 >(*Comment*: Indicates an alphabetic sequence with an initial unsigned leaf, three gatherings signed α-γ in lowercase, a full sequence of 24 gatherings signed uppercase Α-Ω, finishing with a partial sequence signed ΑA-ΛΛ in uppercase)
 
-<a name="6.215.44.83">6.215.44.83</a> **Hebrew alphabetic signatures**. For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
+<a name="6.215.44.75">6.215.44.75</a> **Hebrew alphabetic signatures**. For gatherings signed in Hebrew alphabetic sequences, use the 22-letter alphabet in the following chart as the basis for compressed signature statements (Hebrew letters are given in the top row, their romanized equivalents in the bottom row):
 
 |Hebrew|א|ב|ג|ד|ה|ו|ז|ח|ט|י|כ|ל|מ|נ|ס|ע|פ|צ|ק|ר|ש|ת|
 |Romanized|ʼ|b|g|d|h|ṿ|z|ḥ|ṭ|y|k|l|m|n|s|ʻ|p|ts|ḳ|r|sh|t|
@@ -305,7 +305,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 > <CITE>Signatures: ʼ-sh⁸(in Hebrew characters), a-k⁸</CITE>  
 >(*Comment*: Indicates a Hebrew alphabetic sequence followed by a roman sequence)
 
-<a name="6.215.44.85">6.215.44.85</a> **Other nonroman alphabetic signatures**. For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
+<a name="6.215.44.8">6.215.44.8</a> **Other nonroman alphabetic signatures**. For all other nonroman alphabetic signature sequences, do not assume that a standard signing pattern can be used as the basis for compressed signature statements. Give the first and last characters in each sequence, followed by a total count of the gatherings in that sequence in square brackets.
 
 > Example:  
 > <CITE>Signatures: А-Ѵ² [=41], 2А-2Ѵ² [=41], 3А-3Ѿ² [=24]</CITE>  
@@ -314,7 +314,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >  
 > <CITE>Signatures (in Church Slavic characters): A-Ẏ² [=41], 2A-2Ẏ² [=41], 3A-3ŌT͡͡² [=24]</CITE>
 
-<a name="6.215.44.7">6.215.44.7</a> **Directionality of sequence**. Include in the note an indication of the direction of a sequence, if it does not follow the reading direction of the script or text in that sequence, if there are sequences in opposite directions in the same resource, or if the directionality of the sequence is otherwise ambiguous or unusual.
+<a name="6.215.44.85">6.215.44.85</a> **Directionality of sequence**. Include in the note an indication of the direction of a sequence, if it does not follow the reading direction of the script or text in that sequence, if there are sequences in opposite directions in the same resource, or if the directionality of the sequence is otherwise ambiguous or unusual.
 
 >Example:  
 ><CITE>Signatures (right to left):  ):(⁸ A-2Y⁸ </CITE>
