@@ -481,10 +481,10 @@ sidebar:
 |		|	5D4.1.	|	[6.24.35.1](/DCRMR/phys-desc/Dimensions/#6.24.35.1) [6.24.35.2](/DCRMR/phys-desc/Dimensions/#6.24.35.2) |
 |		|	5D4.2.	|	[6.24.35.4](/DCRMR/phys-desc/Dimensions/#6.24.35.2)	|
 |	Accompanying material	|	5E.	|	[9.3.38](/DCRMR/additional-notes/Note-on-manifestation/#9338-accompanying-material)	|
-|	General rule	|	5E.1.	|	[9.31.3](/DCRMR/additional-notes/Accompanied-by-manifestation/#9313-general-rule)	|
-|		|	5E1.1.	|	[9.31.3.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.2)	|
-|		|	5E1.2.	|	[9.31.3.4](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.4)	|
-|	Issued in pocket	|	5E2.	|	[9.31.31.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.31.1)	|
+|	General rule	|	5E.1.	|	[9.3.38](/DCRMR/additional-notes/Accompanied-by-manifestation/#9338-general-rule)	|
+|		|	5E1.1.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
+|		|	5E1.2.	|	[9.3.38.4](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.4)	|
+|	Issued in pocket	|	5E2.	|	[9.3.38.7](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.7)	|
 
 ## 6. Series Area
 
@@ -599,7 +599,7 @@ sidebar:
 |		|	7B10.3.	|	[6.225.3.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1) [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)	|
 |		|	7B10.4.	|	[6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)	|
 |		|	7B10.5.	|	[6.32.3.3](/DCRMR/phys-desc/Type-of-binding/#6.32.3.3) [6.32.3.4](/DCRMR/phys-desc/Type-of-binding/#6.32.3.4) [9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)	|
-|	Accompanying material	|	7B11.	|	[9.31.3.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.2)	|
+|	Accompanying material	|	7B11.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
 |	Series	|	7B12.	|	[8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)	|
 |	Dissertations	|	7B13.	|	[9.12.3.1](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1) [9.12.3.2](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2)	|
 |	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)	|
@@ -674,7 +674,7 @@ sidebar:
 |	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
 |	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
-|	Titles of accompanying material (Optional)	|	7B11.	|	[9.31.3.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.31.3.6)	|
+|	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.6)	|
 |	Copy-specific titles (Optional)	|	7B19. 	|	[1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)  [1.27.31.2](/DCRMR/title/Title-of-item/#1.27.31.2)	|
 
 ### Appendix G
