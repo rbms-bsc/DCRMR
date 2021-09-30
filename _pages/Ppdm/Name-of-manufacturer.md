@@ -146,7 +146,7 @@ If transcribing a manufacturer name as part of another element, do not abridge o
 
 ## 5.32.39 Name of manufacturer in more than one language or script 
 
-<a name="5.32.39.1">5.32.39.1</a> If the manufacturer’s name appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of manufacturer. If this criterion does not apply, transcribe the name that appears first as Name of manufacturer. Transcribe the remaining manufacturer name(s) as [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source(see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
+<a name="5.32.39.1">5.32.39.1</a> If the manufacturer’s name appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of manufacturer. If this criterion does not apply, transcribe the name that appears first as Name of manufacturer. Transcribe the remaining manufacturer name(s) as [Parallel name of manufacturer](/DCRMR/ppdm/Parallel-name-of-manufacturer/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)).
 
 >Example:  
 >Name of manufacturer: <CITE>De l'imprimerie de T. Spilsbury, Snow-hill</CITE>  

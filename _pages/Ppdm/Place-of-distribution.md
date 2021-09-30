@@ -170,7 +170,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.26.39.1">5.26.39.1</a> If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
 >Example:   
 >Place of distribution: <CITE>Londini</CITE>  
