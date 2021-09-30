@@ -556,7 +556,7 @@ sidebar:
 |	Nature, scope, or artistic form	|	7B1.	|	[9.25.31.1](/DCRMR/additional-notes/Summarization-of-content/#9.25.31.1)	|
 |	Language and script of publication; translation or adaptation	|	7B2.	|	[9.23.3](/DCRMR/additional-notes/Language-of-expression/#9233-general-rule)	|
 |		|	7B2.1.	|	[9.23.3.1](/DCRMR/additional-notes/Language-of-expression/#9.23.3.1) [9.24.3.1](/DCRMR/additional-notes/Script/#9.24.3.1)	|
-|		|	7B2.2.	|	[9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)	[9.245.3.2x](/DCRMR/additional-notes/Details-of-script/#9.245.3.2x)  |
+|		|	7B2.2.	|	[9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)	[9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)  |
 |	Source of description; source of title proper	|	7B3.	|	[1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper)	|
 |		|	7B3.1.	|	[1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)	|
 |		|	7B3.2.	|	[1.29.31.3](/DCRMR/title/Note-on-title/#1.29.31.3)	|

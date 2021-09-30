@@ -35,7 +35,7 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 
 ## 0.3.2 Romanization
 
-<a name="0.3.2.1">0.3.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Always make a note on [Details of script](/DCRMR/additional-notes/Details-of-script/) to indicate that the romanized text appears in nonroman script (see [9.245.3.2](/DCRMR/additional-notes/Details-of-script/#9.245.3.2)).
+<a name="0.3.2.1">0.3.2.1</a> If it is not feasible to transcribe an element in the script used on the manifestation, romanize the text according to the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets. Always make a note on [Details of script](/DCRMR/additional-notes/Details-of-script/) to indicate that the romanized text appears in nonroman script (see [9.245.3.1](/DCRMR/additional-notes/Details-of-script/#9.245.3.1)).
 
 >Example:  
 >Source: <CITE>ΔΙΟΝΥΣΙΟΥ ΟΙΚΟΥΜΕΝΗΣ περιήγησις</CITE>  
