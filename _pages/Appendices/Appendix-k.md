@@ -589,9 +589,9 @@ sidebar:
 |	Concurrent signatures.	|	7B9.6.	|	[6.215.44.5](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.5)	|
 |	Nonroman signatures (numeric sequence).	|	7B9.7.	|	[6.215.44.6](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.6)	|
 |	Nonroman signatures (alphabetic sequence).	|	7B9.8.	|	[6.215.44.65](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.65)	|
-|	Greek alphabetic signatures	|	7B9.9.	|	[6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)	|
-|	Hebrew alphabetic signatures.	|	7B9.10.	|	[6.215.44.83](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.83)	|
-|	Other nonroman alphabetic signatures	|	7B9.11.	|	[6.215.44.85](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.85)	|
+|	Greek alphabetic signatures	|	7B9.9.	|	[6.215.44.7](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.7)	|
+|	Hebrew alphabetic signatures.	|	7B9.10.	|	[6.215.44.75](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.75)	|
+|	Other nonroman alphabetic signatures	|	7B9.11.	|	[6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)	|
 |	Full collation.	|	7B9.12.	|	[6.215.44.9](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9)	|
 |	Physical description	|	7B10.	|	[n/a]()	|
 |		|	7B10.1.	|	[6.215.423.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.423.1) [6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2) [6.215.421.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.421.1) [6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)	|
