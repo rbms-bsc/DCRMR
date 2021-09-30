@@ -466,7 +466,7 @@ sidebar:
 |		|	5C2.3.	|	[6.22.31.4](/DCRMR/phys-desc/Illustrative-content/#6.22.31.4)	|
 |	Color illustrations	|	5C3.	|	[6.23.3](/DCRMR/phys-desc/Color-content/#6233-general-rule)	|
 |		|	5C3.1.	|	[6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)	|
-|		|	5C3.2.	|	[6.23.32.4](/DCRMR/phys-desc/Color-content/#6.23.32.4)	|
+|		|	5C3.2.	|	[6.23.32.2](/DCRMR/phys-desc/Color-content/#6.23.32.2)	|
 |		|	5C3.3.	|	[6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)	|
 |	Number of illustrations	|	5C4.	|	[6.22.35.1](/DCRMR/phys-desc/Illustrative-content/#6.22.35.1)	|
 |	Publications consisting entirely or chiefly of illustrations	|	5C5.	|	[6.22.37.2](/DCRMR/phys-desc/Illustrative-content/#6.22.37.2) [6.22.37.3](/DCRMR/phys-desc/Illustrative-content/#6.22.37.3)	|
