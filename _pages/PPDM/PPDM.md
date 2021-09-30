@@ -17,7 +17,7 @@ sidebar:
 
 <a name="5.01.1.3">5.01.1.3</a> Make a note about information not transcribed in the statement if considered important (see [Note on publication statement, 5.24.31.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.2); [Note on distribution statement, 5.285.31.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.2); [Note on manufacture statement, 5.34.31.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.2)).
 
-<a name="5.01.1.4">5.01.1.4</a> Make a note on publication, distribution, manufacture, or copyright details that are not included in other elements if they are considered important (see [Note on publication statement, 5.24.37.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.37.1); [Note on distribution statement, 5.285.37.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.37.1); [Note on manufacture statement, 5.34.37.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.37.1); [Note on copyright date, 5.36.3.3](/DCRMR/ppdm/Note-on-copyright-date/#5.36.3.3)).
+<a name="5.01.1.4">5.01.1.4</a> Make a note on publication, distribution, manufacture, or copyright details that are not included in other elements if they are considered important (see [Note on publication statement, 5.24.37.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.37.1); [Note on distribution statement, 5.285.37.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.37.1); [Note on manufacture statement, 5.34.37.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.37.1); [Note on copyright date, 5.36.3.1](/DCRMR/ppdm/Note-on-copyright-date/#5.36.3.1)).
 
 ## 5.01.2 Element order
 
