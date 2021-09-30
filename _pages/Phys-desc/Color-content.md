@@ -49,16 +49,16 @@ For incunabula, make a note on color printing if present (see [Details of color 
 
 <a name="6.23.32.1">6.23.32.1</a> Hand-colored material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
-<a name="6.23.32.4">6.23.32.4</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color as issued in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
+<a name="6.23.32.2">6.23.32.2</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color as issued in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
 
 >Example:  
 >Color content: <CITE>hand colored</CITE>  
 >Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
 >(*Comment*: Title contains statement “embellished with colored engravings”)
 
-<a name="6.23.32.5">6.23.32.5</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as Color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
+<a name="6.23.32.3">6.23.32.3</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as Color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
 
-<a name="6.23.32.2">6.23.32.2</a> Record the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="6.23.32.4">6.23.32.4</a> Record the presence or absence of hand coloring in an item if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 ## 6.23.33 Color of base material
 
