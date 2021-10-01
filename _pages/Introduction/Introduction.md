@@ -6,6 +6,7 @@ permalink: /DCRMR/introduction/
 sidebar:
   nav: "docs"
 ---
+[Google Doc for BSC review](https://docs.google.com/document/d/1QDFr8umA31BybrgH9YawtF_I3XMZtWvEZTt7wMeJiEY/edit?usp=sharing){:target="_blank"}
 
 ## Contents:
 {: .no_toc .text-delta }
