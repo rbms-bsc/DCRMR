@@ -270,7 +270,7 @@ sidebar:
 |		|	2C4.3.	|	[3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3)	|
 |	Statement relating to a named revision of an edition	|	2D.	|	[3.24.3](/DCRMR/edition/Designation-of-named-revision-of-edition/#3243-general-rule)	|
 |		|	2D1.	|	[3.24.3.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.1)	|
-|		|	2D2.	|	[3.24.32.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.31.2)	|
+|		|	2D2.	|	[3.24.32.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.1)	 [3.24.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) | 
 |	Statements of responsibility relating to a named revision of an edition	|	2E.	|	[3.25.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3253-general-rule)	|
 |		|	2E.1.	|	[3.25.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.1)	|
 |		|	2E.2.	|	[3.25.3.2](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.2)	|
