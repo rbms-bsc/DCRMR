@@ -80,21 +80,21 @@ sidebar:
 
 ## 5.285.34 Name of distributor notes
 
-<a name="5.285.34.1">5.285.34.1</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, always record the distributor’s name in the later part(s) in a Note on distribution statement (see [Name of distributor, 5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)).
+<a name="5.285.34.1">5.285.34.1</a> **Names of distributors in multipart monographs**. If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, always record the distributor’s name in the later part(s) in a Note on distribution statement (see [Name of distributor, 5.27.32.1x](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1x)).
 
-<a name="5.285.34.2">5.285.34.2</a> **Fictitious or incorrect names of distributor**. Always make a Note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect (see [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)).
+<a name="5.285.34.2">5.285.34.2</a> **Fictitious or incorrect names of distributor**. Always make a Note on distribution statement if the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) is known to be fictitious or incorrect (see [5.27.34.1x](/DCRMR/ppdm/Name-of-distributor/#5.27.34.1x)).
 
-<a name="5.285.34.3">5.285.34.3</a> **Supplied name for fictitious or incorrect names of distributor**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on distribution statement (see [Name of distributor, 5.27.33.2](/DCRMR/ppdm/Name-of-distributor/#5.27.33.2)).
+<a name="5.285.34.3">5.285.34.3</a> **Supplied name for fictitious or incorrect names of distributor**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on distribution statement (see [Name of distributor, 5.27.34.2x](/DCRMR/ppdm/Name-of-distributor/#5.27.34.2x)).
 
-<a name="5.285.34.4">5.285.34.4</a> **Supplied and conjectured names of distributors**. Always make a Note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a Note on distribution statement (see [Name of distributor, 5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)).
+<a name="5.285.34.4">5.285.34.4</a> **Supplied and conjectured names of distributors**. Always make a Note on distribution statement if no name, address, or device of a distributor appears on the manifestation or if the responsibility of a distributor for a particular manifestation is conjectured. In any case of a supplied distributor, give supporting evidence in a Note on distribution statement (see [Name of distributor, 5.27.35.1x](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1x)).
 
-<a name="5.285.34.5">5.285.34.5</a> **Distributors identified by addresses, signs, or initials**. If only the address, sign, or initials of the distributor appear in lieu of the distributor’s name and the name has not been supplied in [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), give the name in a Note on distribution statement if it is known or can be reasonably surmised (see [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)).
+<a name="5.285.34.5">5.285.34.5</a> **Distributors identified by addresses, signs, or initials**. If only the address, sign, or initials of the distributor appear in lieu of the distributor’s name and the name has not been supplied in [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), give the name in a Note on distribution statement if it is known or can be reasonably surmised (see [5.27.36.1x](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1x)).
 
 >Example:  
 >Name of distributor: <CITE>On les vend au Palais, en la gallerie, par ou on va a la Chancellerie</CITE>  
 >Note on distribution statement: <CITE>Distributor identified as Jean Canivet by the Bibliothèque nationale de France</CITE>  
 
-<a name="5.285.34.6">5.285.34.6</a> **Devices**. If the distributor’s name has been supplied based on device, always make a Note on distribution statement about the basis for the identification (see [Name of distributor, 5.27.32.2](/DCRMR/ppdm/Name-of-distributor/#5.27.32.2)).
+<a name="5.285.34.6">5.285.34.6</a> **Devices**. If the distributor’s name has been supplied based on device, always make a Note on distribution statement about the basis for the identification (see [Name of distributor, 5.27.36.2x](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2x)).
 
 <a name="5.285.34.7">5.285.34.7</a> **Transposition of names of distributor in more than one language or script**. For transposed elements, always make a Note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script to indicate the original position on the source  (see [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
 
