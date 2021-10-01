@@ -69,7 +69,7 @@ sidebar:
 >Example:  
 ><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt</CITE>
 
-<a name="2.21.335.1">2.21.335.1</a> When a single Statement of responsibility relating to title proper names more than one person or corporate body performing the same function or with the same degree of responsibility, transcribe all the names mentioned. 
+<a name="2.21.33.3">2.21.33.3</a> When a single Statement of responsibility relating to title proper names more than one person or corporate body performing the same function or with the same degree of responsibility, transcribe all the names mentioned. 
 
 >Example:  
 ><CITE>sketches written by Beatty Kingston, Robert Hichens, Elizabeth Robins Pennell, Colonel Newnham Davis, Mrs. Humphry (Madge of “Truth”), John Hollingshead, Horace Townsend (of the “Studio”), and others</CITE>  
@@ -77,7 +77,7 @@ sidebar:
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni, L.D. Crespi, M. Dudovich, L. Dudreville, A. Mazza, E. Sacchetti, S. Tofano (Sto), R.C. Ventura</CITE>  
 
-<a name="2.21.335.2">2.21.335.2</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted persons or bodies in the supplied phrase. Do not use the mark of omission.
+<a name="2.21.33.4">2.21.33.4</a> *Optionally*, if the responsible persons or bodies named in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the extent of the omission. Include the number of omitted persons or bodies in the supplied phrase. Do not use the mark of omission.
 
 >Example:  
 ><CITE>disegni di G. Ardy, A. Bonzagni, A. Cagnoni [and 7 others]</CITE>  
