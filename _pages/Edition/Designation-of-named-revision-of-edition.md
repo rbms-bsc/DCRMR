@@ -39,7 +39,7 @@ sidebar:
 >Designation of edition: <CITE>The first American edition</CITE>  
 >Designation of named revision of edition: <CITE>carefully revised and corrected from the fourth British edition</CITE>  
 
-<a name="3.24.31.2">3.24.31.2</a> When transposing, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
+<a name="3.24.3.2">3.24.3.2</a> When transposing, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 
 ## 3.24.32 Statements relating to a substantially unchanged impression or state
 
