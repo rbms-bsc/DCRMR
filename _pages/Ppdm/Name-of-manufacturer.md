@@ -51,7 +51,7 @@ sidebar:
 >Example:  
 ><CITE>Ridge, printer, Mercury-Office, Sheffield</CITE>  
 
-<a name="5.32.3.3">5.32.3.3</a> *Optionally*, omit, using the mark of omission, addresses and insignificant information appearing with the manufacturer’s name, unless the information is grammatically inseparable, aids in identifying or dating the manifestation, or is considered important to the cataloging agency (e.g., for the purpose of capturing book trade data).
+<a name="5.32.3.2">5.32.3.2</a> *Optionally*, omit, using the mark of omission, addresses and insignificant information appearing with the manufacturer’s name, unless the information is grammatically inseparable, aids in identifying or dating the manifestation, or is considered important to the cataloging agency (e.g., for the purpose of capturing book trade data).
 
 >Example:  
 ><CITE>Printed by William Clowes and Sons, Limited …</CITE>  
