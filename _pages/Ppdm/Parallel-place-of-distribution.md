@@ -31,7 +31,7 @@ sidebar:
 >Place of distribution: <CITE>Londini</CITE>  
 >Parallel place of distribution: <CITE>Sold in London</CITE>  
 
-<a name="5.265.31.2">5.265.31.2</a> For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.32.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.7)).
+<a name="5.265.31.2">5.265.31.2</a> For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)).
 
 <a name="5.265.31.3">5.265.31.3</a> If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as [Place of distribution](/DCRMR/ppdm/Place-of-distribution/). If this criterion does not apply, transcribe the place that appears first as [Place of distribution](/DCRMR/ppdm/Place-of-distribution/).
 

@@ -61,7 +61,7 @@ sidebar:
 
 ## 5.27.35 Names of distributors in multipart monographs
 
-<a name="5.27.35.1">5.27.35.1</a> If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, transcribe as Name of distributor the name in the first or earliest part and always record the distributor’s name in the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.5)).
+<a name="5.27.35.1">5.27.35.1</a> If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, transcribe as Name of distributor the name in the first or earliest part and always record the distributor’s name in the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
 
 ## 5.27.31 Names of distributors containing grammatically inseparable place names or dates
 
@@ -77,22 +77,22 @@ sidebar:
 
 ## 5.27.33 Fictitious or incorrect names of distributor
 
-<a name="5.27.33.1">5.27.33.1</a> If the name of the distributor appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.3](/DCRMR/ppdm/Note-on-distribution-statement/#5285.34.3)).
+<a name="5.27.33.1">5.27.33.1</a> If the name of the distributor appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)).
 
-<a name="5.27.33.2">5.27.33.2</a> If the name as transcribed is known to be fictitious or incorrect and the actual name is known or can be reasonably surmised, transcribe it as it appears and supply the actual name, preceded by “that is,” all enclosed within square brackets. Always give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.4)).
+<a name="5.27.33.2">5.27.33.2</a> If the name as transcribed is known to be fictitious or incorrect and the actual name is known or can be reasonably surmised, transcribe it as it appears and supply the actual name, preceded by “that is,” all enclosed within square brackets. Always give the basis for the correction or clarification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.3)).
 
 ## 5.27.36 Supplied and conjectured names of distributors
 
-<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation but the distributor’s name is known or can be reasonably surmised, supply it in square brackets if known. If the supplied Name of distributor is uncertain, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor, provide a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
+<a name="5.27.36.1">5.27.36.1</a> If no name, address, or device of a distributor appears on the manifestation but the distributor’s name is known or can be reasonably surmised, supply it in square brackets if known. If the supplied Name of distributor is uncertain, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor, provide a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.4)).
 
 ## 5.27.32 Names of distributors containing only addresses, signs, initials, or devices
 
-<a name="5.27.32.1">5.27.32.1</a> If only an address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
+<a name="5.27.32.1">5.27.32.1</a> If only an address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.5)).
 
 >Example:  
 ><CITE>To be sold in Ffletestrete [by R. Foster] at the signe of the Croune, nexte vnto the Whyte Fryres gate</CITE>
 
-<a name="5.27.32.2">5.27.32.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) about the basis for the identification (see [5.285.34.2](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.2)).
+<a name="5.27.32.2">5.27.32.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) about the basis for the identification (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
 
 ## 5.27.37 Name of distributor cannot be supplied
 

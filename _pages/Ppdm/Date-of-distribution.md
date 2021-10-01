@@ -63,7 +63,7 @@ sidebar:
 
 <a name="5.28.31.35">5.28.31.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
-<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a  a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)).
+<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a  a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
 
 >Example:  
 >Date of distribution: <CITE>87 [that is, 1687]</CITE>  
@@ -75,7 +75,7 @@ sidebar:
 >Note on distribution statement: <CITE>Actual date of distribution from Wing</CITE>  
 >(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
-<a name="5.28.31.5">5.28.31.5</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [5.285.36.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.5)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
+<a name="5.28.31.5">5.28.31.5</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
 The Julian calendar was gradually abandoned in favor of the Gregorian calendar beginning in 1582, with different countries adopting the calendar in different years. The difficulty in determining dates during this period is further complicated by the fact that January 1 was not universally used to reckon the start of a new year (e.g., before adopting the Gregorian calendar, Great Britain and its colonies long calculated the turn of the year on March 25, the Feast of the Annunciation or “Lady Day”). For assistance in establishing Gregorian dates, consult a bibliographic or reference source such as Adriano Cappelli’s *Cronologia, Cronografia e Calendario Perpetuo* or C.R. Cheney's *Handbook of Dates*.
 
@@ -100,7 +100,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>die visitationis beatae Virginis Mariae [2 July] 1497</CITE>  
 >(*Comment*: Day and month follow ecclesiastical calendar)
 
-<a name="5.28.31.7">5.28.31.7</a> **Multiple adjustments or additions**. If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for source of supplied dates (see [5.285.36.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.6)).
+<a name="5.28.31.7">5.28.31.7</a> **Multiple adjustments or additions**. If the date of distribution requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets.  Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for source of supplied dates (see [5.285.36.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.5)).
 
 >Example:  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
@@ -109,7 +109,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 5.28.32 Date of distribution supplied from reference sources
 
-<a name="5.28.32.1">5.28.32.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliographic or reference source. Always give the source of the supplied date and any needed explanation in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.7)).
+<a name="5.28.32.1">5.28.32.1</a> If the date of distribution does not appear on the manifestation but is known, supply it in square brackets from any source, preferably a reliable bibliographic or reference source. Always give the source of the supplied date and any needed explanation in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.6)).
 
 >Example:  
 >Date of distribution: <CITE>[1774]</CITE>  
@@ -118,7 +118,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 
 ## 5.28.33 Conjectural date of distribution
 
-<a name="5.28.33.1">5.28.33.1</a> Supply in square brackets a conjectural date of distribution based on any information available if considered important. Always indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.73](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.73)).
+<a name="5.28.33.1">5.28.33.1</a> Supply in square brackets a conjectural date of distribution based on any information available if considered important. Always indicate the basis for the conjecture in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.36.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.7)).
 
 >Example:  
 >Date of distribution: <CITE>[1708?]</CITE>  
