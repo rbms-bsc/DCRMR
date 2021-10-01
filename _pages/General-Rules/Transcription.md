@@ -522,7 +522,7 @@ ET ITALIAE)
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
 >(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
 
-<a name="0.4.51.3">0.4.51.3</a> *Exception*: instructions for some elements specify that certain omissions can be indicated by concisely summarizing the omitted text (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher, 5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
+<a name="0.4.51.3">0.4.51.3</a> *Exception*: instructions for some elements specify that certain omissions can be indicated by concisely summarizing the omitted text (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher, 5.22.31.2](/DCRMR/ppdm/Name-of-publisher/#5.22.31.2)).
 
 >Example:  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>

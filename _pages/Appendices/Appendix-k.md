@@ -340,18 +340,18 @@ sidebar:
 |	Name of publisher, distributor, etc.	|	4C.	|	[5.22.3](/DCRMR/ppdm/Name-of-publisher/#5223-general-rule) [5.27.3](/DCRMR/ppdm/Name-of-distributor/#5273-general-rule)	|
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
-|	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.31.1](/DCRMR/ppdm/Name-of-publisher/#5.22.31.1) [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
-|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.32](/DCRMR/ppdm/Name-of-publisher/#52232-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-names-of-distributors-containing-only-addresses-signs-initials-or-devices)	|
-|		|	4C4.1.	|	[5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1) [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)	|
-|		|	4C4.2.	|	[5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2) [5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)	|
-|	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.34.1](/DCRMR/ppdm/Name-of-distributor/#5.27.34.1)	|
-|	Two or more names of publishers, distributors, etc.	|	4C6.	|	[5.22.34](/DCRMR/ppdm/Name-of-publisher/#52234-two-or-more-names-of-publishers) [5.27.31](/DCRMR/ppdm/Name-of-distributor/#52731-two-or-more-names-of-distributors)	|
-|		|	4C6.1.	|	[5.22.34.1](/DCRMR/ppdm/Name-of-publisher/#5.22.34.1) [5.27.31.1](/DCRMR/ppdm/Name-of-distributor/#5.27.31.1)	|
-|		|	4C6.2.	|	[5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2) [5.27.31.2](/DCRMR/ppdm/Name-of-distributor/#5.27.31.2)	|
+|	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
+|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.36](/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-names-of-distributors-containing-only-addresses-signs-initials-or-devices)	|
+|		|	4C4.1.	|	[5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1) [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)	|
+|		|	4C4.2.	|	[5.22.36.2](/DCRMR/ppdm/Name-of-publisher/#5.22.36.2) [5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)	|
+|	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.34.1](/DCRMR/ppdm/Name-of-publisher/#5.22.34.1) [5.27.34.1](/DCRMR/ppdm/Name-of-distributor/#5.27.34.1)	|
+|	Two or more names of publishers, distributors, etc.	|	4C6.	|	[5.22.31](/DCRMR/ppdm/Name-of-publisher/#52231-two-or-more-names-of-publishers) [5.27.31](/DCRMR/ppdm/Name-of-distributor/#52731-two-or-more-names-of-distributors)	|
+|		|	4C6.1.	|	[5.22.31.1](/DCRMR/ppdm/Name-of-publisher/#5.22.31.1) [5.27.31.1](/DCRMR/ppdm/Name-of-distributor/#5.27.31.1)	|
+|		|	4C6.2.	|	[5.22.31.2](/DCRMR/ppdm/Name-of-publisher/#5.22.31.2) [5.27.31.2](/DCRMR/ppdm/Name-of-distributor/#5.27.31.2)	|
 |		|	4C6.3.	|	omitted	|
-|		|	4C6.4.	|	[5.22.34.3](/DCRMR/ppdm/Name-of-publisher/#5.22.34.3) [5.27.31.3](/DCRMR/ppdm/Name-of-distributor/#5.27.31.3)	|
-|	Names of publishers, distributors, etc., in multipart monographs	|	4C7.	|	[5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1) [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)	|
-|	Supplied and conjectured names of publishers, distributors, etc.	|	4C8.	|	[5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1) [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)	|
+|		|	4C6.4.	|	[5.22.31.3](/DCRMR/ppdm/Name-of-publisher/#5.22.31.3) [5.27.31.3](/DCRMR/ppdm/Name-of-distributor/#5.27.31.3)	|
+|	Names of publishers, distributors, etc., in multipart monographs	|	4C7.	|	[5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1) [5.27.32.1](/DCRMR/ppdm/Name-of-distributor/#5.27.32.1)	|
+|	Supplied and conjectured names of publishers, distributors, etc.	|	4C8.	|	[5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1) [5.27.35.1](/DCRMR/ppdm/Name-of-distributor/#5.27.35.1)	|
 |	No supplied name of publisher, distributor, etc.	|	4C9.	|	[5.22.37.1](/DCRMR/ppdm/Name-of-publisher/#5.22.37.1) [5.27.37.1](/DCRMR/ppdm/Name-of-distributor/#5.27.37.1)	|
 |	Publisher, distributor, etc., transcribed as part of another area	|	4C10.	|	[5.22.38.1](/DCRMR/ppdm/Name-of-publisher/#5.22.38.1) [5.27.38.1](/DCRMR/ppdm/Name-of-distributor/#5.27.38.1)	|
 |	Publisher, distributor, etc., statements in more than one language or script	|	4C11.	|	[5.22.39](/DCRMR/ppdm/Name-of-publisher/#52239-name-of-publisher-in-more-than-one-language-or-script) [5.27.39](/DCRMR/ppdm/Name-of-distributor/#52739-name-of-distributor-in-more-than-one-language-or-script)	|

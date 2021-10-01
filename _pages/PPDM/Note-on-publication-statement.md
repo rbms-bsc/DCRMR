@@ -88,11 +88,11 @@ sidebar:
 
 ## 5.24.34 Name of publisher notes
 
-<a name="5.24.34.1">5.24.34.1</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, always record the publisher’s name in the later part(s) in a Note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
+<a name="5.24.34.1">5.24.34.1</a> **Names of publishers in multipart monographs**. If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, always record the publisher’s name in the later part(s) in a Note on publication statement (see [Name of publisher, 5.22.32.1](/DCRMR/ppdm/Name-of-publisher/#5.22.32.1)).
 
-<a name="5.24.34.2">5.24.34.2</a> **Fictitious or incorrect names of publisher**. Always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect (see [5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1)).
+<a name="5.24.34.2">5.24.34.2</a> **Fictitious or incorrect names of publisher**. Always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) is known to be fictitious or incorrect (see [5.22.34.1](/DCRMR/ppdm/Name-of-publisher/#5.22.34.1)).
 
-<a name="5.24.34.3">5.24.34.3</a> **Supplied name for fictitious or incorrect names of publisher**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on publication statement (see [Name of publisher, 5.22.33.2](/DCRMR/ppdm/Name-of-publisher/#5.22.33.2)).
+<a name="5.24.34.3">5.24.34.3</a> **Supplied name for fictitious or incorrect names of publisher**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on publication statement (see [Name of publisher, 5.22.34.2](/DCRMR/ppdm/Name-of-publisher/#5.22.34.2)).
 
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
@@ -104,18 +104,18 @@ sidebar:
 >Note on publication statement: <CITE>The imprint is false; in fact published by Jobst Hermann Flörke in Danzig (now Gdansk) according to Hayn</CITE>  
 >(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
-<a name="5.24.34.4">5.24.34.4</a> **Supplied and conjectured names of publishers**. Always make a Note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied name of publisher, give supporting evidence in a note on publication statement (see [Name of publisher, 5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
+<a name="5.24.34.4">5.24.34.4</a> **Supplied and conjectured names of publishers**. Always make a Note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied name of publisher, give supporting evidence in a note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
 >Example:   
 >Name of publisher: <CITE>[Edmund Curll]</CITE>  
 >Note on publication statement: <CITE>Publisher's name from the preface to the fourth edition, published in 1725, which identifies the publisher of this first edition as Edmund Curll</CITE>  
 
-<a name="5.24.34.5">5.24.34.5</a> **Publisher's identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu of the publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
+<a name="5.24.34.5">5.24.34.5</a> **Publisher's identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu of the publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
 
 >Example:  
 ><CITE>Publisher identified in “The public advertiser,” Oct. 7, 1762 as Mary Darly, in Ryder's Court, near Leicester Square in London</CITE>
 
-<a name="5.24.34.6">5.24.34.6</a> **Devices**. If the publisher's name has been supplied based on a device, always make a Note on publication statement about the basis for the identification (see [Name of publisher, 5.22.32.2](/DCRMR/ppdm/Name-of-publisher/#5.22.32.2)).
+<a name="5.24.34.6">5.24.34.6</a> **Devices**. If the publisher's name has been supplied based on a device, always make a Note on publication statement about the basis for the identification (see [Name of publisher, 5.22.36.2](/DCRMR/ppdm/Name-of-publisher/#5.22.36.2)).
 
 >Example:  
 >Name of publisher: <CITE>[Richt Right Press]</CITE>  
