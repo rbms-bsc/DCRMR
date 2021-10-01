@@ -262,7 +262,7 @@ sidebar:
 
 ## 5.21.39 Place names in more than one language or script
 
-<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of publication. If this criterion does not apply, transcribe the place that appears first as Place of publication. Transcribe remaining place(s) as [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)).
+<a name="5.21.39.1">5.21.39.1</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of publication. If this criterion does not apply, transcribe the place that appears first as Place of publication. Transcribe remaining place(s) as [Parallel place of publication](/DCRMR/ppdm/Parallel-place-of-publication/). For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)).
 
 >Example:  
 >Place of publication: <CITE>London</CITE>  

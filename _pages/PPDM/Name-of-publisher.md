@@ -91,7 +91,7 @@ sidebar:
 
 ## 5.22.35 Names of publishers in multipart monographs 
 
-<a name="5.22.35.1">5.22.35.1</a> If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, transcribe as Name of publisher the name in the first or earliest part and always record the publisher’s name in the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
+<a name="5.22.35.1">5.22.35.1</a> If the manifestation is issued in more than one physical part and the publisher or the publisher’s form of name changes in the course of publication, transcribe as Name of publisher the name in the first or earliest part and always record the publisher’s name in the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.1)).
 
 ## 5.22.31 Names of publishers containing grammatically inseparable place names or dates
 
@@ -107,9 +107,9 @@ sidebar:
 
 ## 5.22.33 Fictitious or incorrect names of publisher
 
-<a name="5.22.33.1">5.22.33.1</a> If the name of the publisher appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.3)). 
+<a name="5.22.33.1">5.22.33.1</a> If the name of the publisher appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)). 
 
-<a name="5.22.33.2">5.22.33.2</a> If the name as transcribed is known to be fictitious  or incorrect and the actual name is known or can be reasonably surmised, transcribe it as it appears and supply the actual name, preceded by “that is," all enclosed within square brackets. Always give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.4)).
+<a name="5.22.33.2">5.22.33.2</a> If the name as transcribed is known to be fictitious  or incorrect and the actual name is known or can be reasonably surmised, transcribe it as it appears and supply the actual name, preceded by “that is," all enclosed within square brackets. Always give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.3)).
 
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
@@ -123,7 +123,7 @@ sidebar:
 
 ## 5.22.36 Supplied and conjectured names of publishers
 
-<a name="5.22.36.1">5.22.36.1</a>  If no name, address, or device of a publisher appears on the manifestation but the publisher’s name is known or can be reasonably surmised, supply it in square brackets. If the supplied Name of publisher is uncertain, either add a question mark to any supplied name or give the information in a Note on publication statement. In any case of a supplied publisher, provide a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.6)).
+<a name="5.22.36.1">5.22.36.1</a>  If no name, address, or device of a publisher appears on the manifestation but the publisher’s name is known or can be reasonably surmised, supply it in square brackets. If the supplied Name of publisher is uncertain, either add a question mark to any supplied name or give the information in a Note on publication statement. In any case of a supplied publisher, provide a justification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.4)).
 
 >Example:  
 >Name of publisher: <CITE>[Stephan Plannck]</CITE>  
@@ -132,7 +132,7 @@ sidebar:
 
 ## 5.22.32 Publishers identified by addresses, signs, initials, or devices 
 
-<a name="5.22.32.1">5.22.32.1</a> If only an address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.1)).
+<a name="5.22.32.1">5.22.32.1</a> If only an address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
 
 >Example:  
 >Name of publisher: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
@@ -147,7 +147,7 @@ sidebar:
 >Note on publication statement: <CITE>Printed by Thomas Harper for John Parker according to Pollard’s Short-title catalogue</CITE>  
 >(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
-<a name="5.22.32.2">5.22.32.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) about the basis for the identification (see [5.24.34.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.2)).
+<a name="5.22.32.2">5.22.32.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) about the basis for the identification (see [5.24.34.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.6)).
 
 >Example:  
 >Name of publisher: <CITE>[Richard Pynson]</CITE>  

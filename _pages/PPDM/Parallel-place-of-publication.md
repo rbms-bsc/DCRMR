@@ -27,7 +27,7 @@ sidebar:
 
 <a name="5.215.31.1">5.215.31.1</a> Take parallel places of publication from the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) on parallel places of publication found elsewhere if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
-<a name="5.215.31.2">5.215.31.2</a> For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.7)).
+<a name="5.215.31.2">5.215.31.2</a> For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)).
 
 <a name="5.215.31.3">5.215.31.3</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as [Place of publication](/DCRMR/ppdm/Place-of-publication/). If this criterion does not apply, transcribe the place that appears first as [Place of publication](/DCRMR/ppdm/Place-of-publication/). 
 
