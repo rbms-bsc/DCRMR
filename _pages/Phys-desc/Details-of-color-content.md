@@ -47,7 +47,7 @@ For incunabula, always record color printing if present (see [Color content, 6.2
 
 ## 6.235.33 Details of hand coloring
 
-<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.32.2x](/DCRMR/phys-desc/Color-content/#6.23.32.2x)). Record the evidence used to determine that the hand coloring was applied before distribution if not evident from the rest of the description.
+<a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.32.2](/DCRMR/phys-desc/Color-content/#6.23.32.2)). Record the evidence used to determine that the hand coloring was applied before distribution if not evident from the rest of the description.
 
 >Example:  
 >Color content: <CITE>hand colored</CITE>  
