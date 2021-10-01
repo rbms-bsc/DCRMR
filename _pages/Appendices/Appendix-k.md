@@ -186,10 +186,10 @@ sidebar:
 |	Single statements of responsibility with two or more names	|	1E4.	|	[2.21.33](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names)	|
 |		|	1E4.1.	|	[2.21.33.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.1)	|
 |		|	1E4.2.	|	[2.21.33.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.2)	|
-|	Omission of names in statements of responsibility	|	1E5.	|	[2.21.335.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.1)	|
+|	Omission of names in statements of responsibility	|	1E5.	|	[2.21.33.3](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.3)	[2.21.33.4](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.4)|
 |	Two or more statements of responsibility	|	1E6.	|	[2.21.34.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.34.1)	|
 |	Terms of address, etc., in statements of responsibility	|	1E7.	|	[2.21.35.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.35.1)	|
-|	Qualifications in statements of responsibility	|	1E8.	|	[2.21.355.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.335.1)	|
+|	Qualifications in statements of responsibility	|	1E8.	|	[2.21.355.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.355.1)	|
 |	Ambiguous statements of responsibility	|	1E9.	|	[2.21.36.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.1)	|
 |	Statements of responsibility following titles in more than one language or script	|	1E10.	|	[2.215.31](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)	|
 |		|	1E10.1.	|	[2.215.31.1](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.1)	|
