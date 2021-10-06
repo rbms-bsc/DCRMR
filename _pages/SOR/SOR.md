@@ -13,7 +13,7 @@ sidebar:
 
 ## 2.01.2 Element order
 
-<a name="2.01.2.1">2.01.2.1</a> Element order for Statement of responsibility elements is integrated with the instructions for title elements (see [Title, 1.01.2](/DCRMR/title/#1012-element-order)).
+<a name="2.01.2.1">2.01.2.1</a> Element order for Statement of responsibility elements is integrated with the instructions for [Title](/DCRMR/title/) elements (see [1.01.2](/DCRMR/title/#1012-element-order)).
 
 ## 2.01.3 Form and order of information
 
