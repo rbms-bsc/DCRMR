@@ -57,7 +57,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series : other title information of series / statement of responsibility relating to series ; numbering within sequence
 
-<a name="8.01.2.9">8.01.2.9</a> If there are parallel series titles and the series numbering also appears in more than one language or script, transcribe each number after the series title to which it relates (following any other title information or any statement of responsibility associated with the title).
+<a name="8.01.2.9">8.01.2.9</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/) and the series numbering also appears in more than one language or script, transcribe each number after the series title to which it relates (following any other title information or any statement of responsibility associated with the title).
 
 > Title of series : other title information of series / statement of responsibility relating to series ; numbering within sequence = Parallel title of series : parallel other title information of series / parallel statement of responsibility relating to series ; numbering within sequence [relating to [Parallel title of series](/DCRMR/series/Parallel-title-of-series/)]
 
