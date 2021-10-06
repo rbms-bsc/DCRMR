@@ -49,7 +49,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series : other title information of series = Parallel title of series : parallel other title information of series / statement of responsibility relating to series.
 
-<a name="8.01.2.7">8.01.2.7</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the [Title of series](/DCRMR/series/Title-of-series/) (or other title information) to which it relates.
+<a name="8.01.2.7">8.01.2.7</a> If the statement of responsibility appears in more than one language or script, transcribe each statement after the title of series (or other title information) to which it relates.
 
 > Title of series : other title information of series / statement of responsibility relating to series = Parallel title of series : parallel other title information of series / parallel statement of responsibility relating to series
 
