@@ -25,7 +25,7 @@ sidebar:
 
 ## 5.26.3 General rule
 
-<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation, together with any associated words or phrases in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](//DCRMR/general-rules/Transcription/#0.4.94.05)). 
+<a name="5.26.3.1">5.26.3.1</a> Transcribe place names associated with the distribution of a published manifestation, together with any associated words or phrases in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). 
 
 <a name="5.26.3.2">5.26.3.2</a> If the place appears together with the name of a larger jurisdiction (e.g., country, state, or similar designation), or multiple such jurisdictions, transcribe this as well.
 
@@ -117,7 +117,7 @@ sidebar:
 >Example:  
 >Place of distribution: <CITE>Londini [that is, Leipzig]</CITE>  
 >Note on distribution statement: <CITE>Actual place of distribution is Leipzip according to the English short title catalogue</CITE>  
->(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.26.37 No place of distribution
 
@@ -145,7 +145,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 
 ## 5.26.385 Place of distribution uncertain or unknown
 
-<a name="5.26.385.1">5.26.385.1</a> If the place of distribution is uncertain and is considered important, supply the name of the probable place of distribution with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
+<a name="5.26.385.1">5.26.385.1</a> If the place of distribution is uncertain, and it is considered important, supply the name of the probable place of distribution with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Cambridge, Mass.? ]</CITE>
@@ -153,7 +153,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 >Example:  
 ><CITE>[Cologne?]</CITE>
 
-<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured and is considered important, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
+<a name="5.26.385.2">5.26.385.2</a>  If no city of distribution can be conjectured, and it is considered important, supply the name of a state, province, country, or other larger geographic entity as the place of distribution with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Canada]</CITE>
@@ -170,7 +170,7 @@ Note on distribution statement: Popes Head Alley and the Exchange are located in
 
 ## 5.26.39 Place names in more than one language or script
 
-<a name="5.26.39.1">5.26.39.1</a> If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
+<a name="5.26.39.1">5.26.39.1</a> If the place of distribution appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of distribution. If this criterion does not apply, transcribe the place that appears first as Place of distribution. Transcribe remaining place(s) as [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) to indicate the original position on the source (see [5.285.32.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.32.6)).
 
 >Example:   
 >Place of distribution: <CITE>Londini</CITE>  

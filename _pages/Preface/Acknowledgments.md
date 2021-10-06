@@ -82,65 +82,7 @@ And by the glossary group:
 + kalan Knudson Davis
 + Sarah Hoover  
 
-Thanks as well to the members of the Bibliographic Standards Committee since work began in 2010:
-
-+ Liz Adams
-+ Emily Baldoni
-+ Marcia Barrett
-+ Erin Blake 
-+ Amy Brown
-+ Katelyn Borbely
-+ Valerie Buck
-+ Brenna Bychowski
-+ Jane Carpenter
-+ Ann Copeland 
-+ Ellen Cordes 
-+ kalan Knudson Davis
-+ Lori Dekydtspotter
-+ Eileen Heeran Dewitya
-+ Christine DeZelar-Tiedman
-+ Tammy Druash
-+ Matthew Ducmanas
-+ Emily Epstein
-+ Todd Fell
-+ Asheleigh Folsom
-+ Alison Greenlee
-+ Jessica Grzegorski
-+ Matthew Haugen
-+ Ryan Hildebrand
-+ Elizabeth Hobart 
-+ Linda Isaac
-+ Jason Kovari 
-+ Francis Lapka
-+ Martha Lawler 
-+ Deborah J. Leslie 
-+ Rafael Antonio Linares Blasini
-+ Nancy Lorimer
-+ Jennifer MacDonald
-+ Nina Mamikunian
-+ Michelle Mascaro
-+ Danijela Matkovic
-+ Melanie McGurr
-+ Honor Moody
-+ Philippe Mongeau
-+ Kate Moriarty
-+ Ann Myers 
-+ Jennifer K. Nelson
-+ Margaret Nichols
-+ Iris O’Brien
-+ Allison Jai O’Dell
-+ Audrey Pearson
-+ Asheleigh Perry 
-+ Lauren Reno
-+ Nina Schneider
-+ Jessie Sherwood
-+ Stephen Skuce
-+ Aislinn Sotelo
-+ Brian Stearns
-+ Amy Tims
-+ Catherine Uecker
-+ Leslie Waggener 
-+ Brittney Washington
+Thanks as well to the members of the [Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio){:target="_blank"} since work began in 2010.
 
 Thanks especially to volunteer reviewers during the BSC review: Liz Adams, Matthew Beacon, Erin Blake, Jennifer Dunlap, Maggie Long, Ann Myers, Jackie Parascandola, Lauren Reno, Jessie Sherwood, and Brittney Washington. 
 

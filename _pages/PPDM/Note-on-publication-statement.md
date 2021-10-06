@@ -45,7 +45,7 @@ sidebar:
 >Example:  
 >Publication statement: <CITE>[Cologne?] : [P. Quentel?], anno M.D.XXIII [1523]</CITE>  
 >Note on publication statement: <CITE>Place of publication and name of publisher from Adams</CITE>  
->(*Comment*: The formal citation for Adams’s bibliography of books printed on the continent of Europe is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#5.32.31.1)). The example is formatted according to ISBD for clarity)
+>(*Comment*: The formal citation for Adams’s bibliography of books printed on the continent of Europe is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)). The example is formatted according to ISBD for clarity)
 
 
 ## 5.24.32 Place of publication notes
@@ -102,7 +102,7 @@ sidebar:
 >Example:  
 >Name of publisher: <CITE>Bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]</CITE>  
 >Note on publication statement: <CITE>The imprint is false; in fact published by Jobst Hermann Flörke in Danzig (now Gdansk) according to Hayn</CITE>  
->(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 <a name="5.24.34.4">5.24.34.4</a> **Supplied and conjectured names of publishers**. Always make a Note on publication statement if no name, address, or device of a publisher appears on the manifestation or if the responsibility of a publisher for a particular manifestation is conjectured. In any case of a supplied name of publisher, give supporting evidence in a note on publication statement (see [Name of publisher, 5.22.35.1](/DCRMR/ppdm/Name-of-publisher/#5.22.35.1)).
 
@@ -110,7 +110,7 @@ sidebar:
 >Name of publisher: <CITE>[Edmund Curll]</CITE>  
 >Note on publication statement: <CITE>Publisher's name from the preface to the fourth edition, published in 1725, which identifies the publisher of this first edition as Edmund Curll</CITE>  
 
-<a name="5.24.34.5">5.24.34.5</a> **Publisher's identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu of the publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
+<a name="5.24.34.5">5.24.34.5</a> **Publishers identified by addresses, signs, or initials**. If only the address, sign, or initials of the publisher appear in lieu of the publisher’s name and the name has not been supplied in [Name of publisher](/DCRMR/ppdm/Name-of-publisher/), give the name in a Note on publication statement if it is known or can be reasonably surmised (see [5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1)).
 
 >Example:  
 ><CITE>Publisher identified in “The public advertiser,” Oct. 7, 1762 as Mary Darly, in Ryder's Court, near Leicester Square in London</CITE>
@@ -150,7 +150,7 @@ sidebar:
 >Example:  
 >Date of publication: <CITE>1785 [that is, 1795]</CITE>  
 >Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
->(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Date of publication: <CITE>1887 [that is, 1899]</CITE>  

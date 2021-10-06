@@ -38,7 +38,7 @@ sidebar:
 
 <a name="5.275.31.4">5.275.31.4</a> Transcribe remaining distributor names appearing on the same source as [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) as Parallel names of distributor. If a parallel name of distributor is from a different source than the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 
-<a name="5.275.31.5">5.275.31.5</a> *Optionally*, if the Parallel names of distributor are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted parallel names of distributor in the supplied phrase. Do not use the mark of omission.
+<a name="5.275.31.5">5.275.31.5</a> *Optionally*, if the parallel distributors' names are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted names in the supplied phrase. Do not use the mark of omission.
 
 ---
 

@@ -108,7 +108,7 @@ sidebar:
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is fictitious; printed in London by Richard Field according to Pollard’s Short-title catalogue</CITE>  
->(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.31.37 No place of manufacture
 
@@ -127,12 +127,12 @@ sidebar:
 
 ## 5.31.385 Place of manufacture uncertain or unknown
 
-<a name="5.31.385.1">5.31.385.1</a> If the place of manufacture is uncertain and is considered important, supply the name of the probable place of manufacture with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
+<a name="5.31.385.1">5.31.385.1</a> If the place of manufacture is uncertain, and it is considered important, supply the name of the probable place of manufacture with a question mark, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 >Example:  
 ><CITE>[Newburyport, Mass.?]</CITE>  
 
-<a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured and is concisidered important, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
+<a name="5.31.385.2">5.31.385.2</a> If no city of manufacture can be conjectured, and it is considered important, supply the name of a state, province, country, or other larger geographic entity as the place of manufacture with a question mark if necessary, using a modern form of the name in the language of the cataloging agency in square brackets.
 
 <a name="5.31.385.3">5.31.385.3</a> If the basis of the supplied place is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.32.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.4)). 
 
@@ -144,7 +144,7 @@ sidebar:
 
 ## 5.31.39 Place names in more than one language or script
 
-<a name="5.31.39.1">5.31.39.1</a> If the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of manufacture. If this criterion does not apply, transcribe the place that appears first as Place of manufacture. Transcribe remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
+<a name="5.31.39.1">5.31.39.1</a> If the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of manufacture. If this criterion does not apply, transcribe the place that appears first as Place of manufacture. Transcribe remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) to indicate the original position on the source (see [5.34.32.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.6)).
 
 >Example:  
 >Place of manufacture: <CITE>Birminghamiae</CITE>  

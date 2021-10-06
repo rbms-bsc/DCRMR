@@ -94,7 +94,7 @@ sidebar:
 
 ## 5.32.33 Fictitious or incorrect names of manufacturer
 
-<a name="5.32.33.1">5.32.33.1</a> If the name of the manufacturer appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
+<a name="5.32.33.1">5.32.33.1</a> If the name of the manufacturer appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.2)).
 
 <a name="5.32.33.2">5.32.33.2</a> If the name as transcribed is known to be fictitious or incorrect and the actual name is known or can be reasonably surmised, transcribe it as it appears and supply the actual name, preceded by “that is,” all enclosed within square brackets. Always give the basis for the correction or clarification in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.34.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.3)).
 

@@ -37,7 +37,7 @@ sidebar:
 
 <a name="5.265.31.4">5.265.31.4</a> Transcribe remaining places appearing on the same source as the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) as Parallel places of distribution. If a parallel place of distribution is from a different source than the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/), make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) if considered important (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
-<a name="5.265.31.5">5.265.31.5</a> *Optionally*, if the Parallel places of distribution are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel places of distribution in the supplied phrase. Do not use the mark of omission.
+<a name="5.265.31.5">5.265.31.5</a> *Optionally*, if the parallel distribution places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
 
 ---
 

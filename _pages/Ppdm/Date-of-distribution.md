@@ -63,7 +63,7 @@ sidebar:
 
 <a name="5.28.31.35">5.28.31.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
-<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a  a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
+<a name="5.28.31.4">5.28.31.4</a> **Fictitious or incorrect dates**. If the date of distribution appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the source of the information (see [5.285.36.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.3)).
 
 >Example:  
 >Date of distribution: <CITE>87 [that is, 1687]</CITE>  
@@ -73,7 +73,7 @@ sidebar:
 >Example:  
 >Date of distribution: <CITE>1593 [that is, 1693]</CITE>  
 >Note on distribution statement: <CITE>Actual date of distribution from Wing</CITE>  
->(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 <a name="5.28.31.5">5.28.31.5</a>  **Julian/Old Style dates**. If the year of distribution is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the basis for the supplied year (see [5.285.36.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.36.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
@@ -105,7 +105,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Example:  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
 >Note on distribution statement: <CITE>Corrected date of distribution from Jesuit series. In Corpus librorum emblematum</CITE>  
->(*Comment*: The formal citation for the Jesuit series. In Corpus librorum emblematum is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for the Jesuit series. In Corpus librorum emblematum is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.28.32 Date of distribution supplied from reference sources
 

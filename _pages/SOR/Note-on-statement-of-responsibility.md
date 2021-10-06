@@ -45,7 +45,7 @@ sidebar:
 
 >Example:  
 ><CITE>By Louis-Antoine Caraccioli; author supplied by Barbier</CITE>  
->(*Comment*: The formal citation for Barbier is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>(*Comment*: The formal citation for Barbier is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known, and if considered important. Give the authority for the information whenever possible.
 

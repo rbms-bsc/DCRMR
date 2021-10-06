@@ -7,31 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1szCKBfb1InUPg-VPDDboOIOm1FOoNHP7IpSefsW7gcY/edit?usp=sharing){:target="_blank"}
-
 ## 1.01.1 Sources of information
 
 <a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
 
 ## 1.01.2 Element order
 
-<a name="1.01.2.1">1.01.2.1</a> In ISBD, title and statement of responsibility are treated as a single area of description. These instructions provide general element order for the title and statement of responsibility elements, punctuated and capitalized according to ISBD:
+<a name="1.01.2.1">1.01.2.1</a> In ISBD, Title and [Statement of responsibility](/DCRMR/sor/) elements are treated as a single area of description. These instructions provide general element order for the Title and [Statement of responsibility](/DCRMR/sor/) elements, punctuated and capitalized according to ISBD:
 
 >Title proper : other title information / statement of responsibility relating to title proper
 
-<a name="1.01.2.2">1.01.2.2</a> Parallel title proper and parallel other title information are transcribed in the order in which they appear on the preferred source of information.
+<a name="1.01.2.2">1.01.2.2</a> [Parallel title proper](/DCRMR/title/Parallel-title-proper/) and [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) are transcribed in the order in which they appear on the preferred source of information.
 
 >Title proper = Parallel title proper : other title information = parallel other title information
 
 >Title proper : other title information = Parallel title proper : parallel other title information
 
-<a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the statement of responsibility after all the title information.
+<a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the [Statement of responsibility relating to title proper](//DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the Title elements.
 
 >Title proper = Parallel title proper : other title information = parallel other title information / statement of responsibility relating to title proper
 
 >Title proper : other title information = Parallel title proper : parallel other title information / statement of responsibility relating to title proper
 
-<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title proper, or other title information to which it relates. 
+<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the [Title proper](/DCRMR/title/Title-proper/), [Parallel title proper](/DCRMR/title/Parallel-title-proper/), or other title information to which it relates. 
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 

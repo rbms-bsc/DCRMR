@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1x_txfJBkTeX1jClpbkr4D79SwjIEQc7tIHg4hIwvhw4/edit?usp=sharing){:target="_blank"}
-
 ## Contents:
 {: .no_toc }
 

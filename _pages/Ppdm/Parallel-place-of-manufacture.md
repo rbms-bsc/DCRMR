@@ -37,7 +37,7 @@ sidebar:
 >Place of manufacture: <CITE>Birminghamiae</CITE>  
 >Parallel place of manufacture: <CITE>Printed at Birmingham</CITE>  
 
-<a name="5.315.31.5">5.315.31.5</a> *Optionally*, if the Parallel places of manufacture are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel places of manufacture in the supplied phrase. Do not use the mark of omission.
+<a name="5.315.31.5">5.315.31.5</a> *Optionally*, if the parallel manufacture places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
 
 ---
 

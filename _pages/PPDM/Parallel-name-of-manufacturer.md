@@ -38,7 +38,7 @@ sidebar:
 
 <a name="5.325.31.4">5.325.31.4</a> Transcribe remaining manufacturer names appearing on the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) as Parallel names of manufacturer. If a parallel name of manufacturer is from a different source than the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement) if considered important (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
-<a name="5.325.31.5">5.325.31.5</a> *Optionally*, if the Parallel names of manufacturer are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel names of manufacturer in the supplied phrase. Do not use the mark of omission.
+<a name="5.325.31.5">5.325.31.5</a> *Optionally*, if the parallel manufacturers' names are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted names in the supplied phrase. Do not use the mark of omission.
 
 ---
 

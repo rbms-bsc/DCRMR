@@ -87,7 +87,7 @@ sidebar:
 
 ## 5.27.36 Names of distributors containing only addresses, signs, initials, or devices
 
-<a name="5.27.36.1">5.27.36.1</a> If only an address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.5)).
+<a name="5.27.36.1">5.27.36.1</a> If only an address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as Name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.5)).
 
 >Example:  
 ><CITE>To be sold in Ffletestrete [by R. Foster] at the signe of the Croune, nexte vnto the Whyte Fryres gate</CITE>

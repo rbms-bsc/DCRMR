@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1GNT6iIodIi-6CqDH4tk8Sbc8WknSdAWUfkqJGzoMois/edit?usp=sharing){:target="_blank"}
-
 ## 8.01.1 Sources of information 
 
 <a name="8.01.1.1">8.01.1.1</a> The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). For multipart monographs, prefer a source in the first volume. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
@@ -33,11 +31,11 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 >Title of series. Title of subseries
 
-<a name="8.01.2.3">8.01.2.3</a> If there are parallel series titles, transcribe each subseries after the series title to which it relates.
+<a name="8.01.2.3">8.01.2.3</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe each subseries after the series title to which it relates.
 
 > Title of series. Title of subseries = Parallel title of series. Parallel title of subseries
 
-<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are parallel series titles, transcribe the other title information after the series title to which it relates.
+<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe the other title information after the series title to which it relates.
 
 >Title of series : other title information of series = Parallel title of series
 
@@ -47,7 +45,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series : other title information of series / statement of responsibility relating to series
 
-<a name="8.01.2.6">8.01.2.6</a> If there are parallel series titles but the [Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) appears in only one language or script, transcribe the statement of responsibility after the last parallel title, following any other title information associated with the title.
+<a name="8.01.2.6">8.01.2.6</a> If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/) but the [Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) appears in only one language or script, transcribe the [Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) after the last parallel title, following any other title information associated with the title.
 
 > Title of series : other title information of series = Parallel title of series : parallel other title information of series / statement of responsibility relating to series.
 

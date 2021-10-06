@@ -33,7 +33,7 @@ sidebar:
 
 <a name="5.215.31.4">5.215.31.4</a> Transcribe remaining places of publication appearing on the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/) as Parallel places of publication.  If a parallel place of publication is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
-<a name="5.215.31.5">5.215.31.5</a> *Optionally*, if the Parallel places of publication are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel places of publication in the supplied phrase. Do not use the mark of omission.
+<a name="5.215.31.5">5.215.31.5</a> *Optionally*, if the parallel publication places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
 
 ---
 

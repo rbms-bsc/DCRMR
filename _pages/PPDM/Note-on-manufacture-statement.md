@@ -35,7 +35,7 @@ sidebar:
 
 <a name="5.34.31.2">5.34.31.2</a> **Omitted information**. Make a Note on manufacture statement giving manufacture-related information not transcribed in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) if considered important (see [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)).
 
-<a name="5.34.31.3">5.34.31.3</a> **Transposition**. Always make a Note on manufacture statement if elements in the [Manufacture statements](/DCRMR/ppdm/Manufacture-statement/) are transposed, indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
+<a name="5.34.31.3">5.34.31.3</a> **Transposition**. Always make a Note on manufacture statement if elements in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) are transposed, indicating the original position of the transposed elements (see [5.01.3.2](/DCRMR/ppdm/#5.01.3.2)).
 
 >Example:  
 >Manufacture statement: <CITE>Mexico : Imprenta de la Escalerillas dirigida por Manuel Ximeno, 1828</CITE>  
@@ -55,12 +55,12 @@ sidebar:
 >Example:  
 >Place of manufacture: <CITE>Oxford [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is false; actually printed in London according to Madan</CITE>  
->(*Comment*: The formal citation for Madan’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Madan’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is fictitious; printed in London by Richard Field according to Pollard’s Short-title catalogue</CITE>  
->(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 <a name="5.34.32.4">5.34.32.4</a> **Supplied name for missing places of manufacture**. Always make a Note on manufacture statement to justify a supplied [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if the reason is not evident from the rest of the description (see [5.31.37.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.37.1)).
 
@@ -75,7 +75,7 @@ sidebar:
 
 <a name="5.34.32.5">5.34.32.5</a> **Place of manufacture supplied based on address or sign**. Make a Note on manufacture statement to justify a supplied [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
-<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.325.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.325.31.2)).
+<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2)).
 
 ## 5.34.33 Parallel place of manufacture notes
 
@@ -125,7 +125,7 @@ sidebar:
 
 ## 5.34.35 Parallel name of manufacturer notes
 
-<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [5.325.31.4](/DCRMR/ppdm/Name-of-manufacturer/#5.325.31.4)).
+<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [5.325.31.4](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.4)).
 
 >Example:  
 ><CITE>Parallel name of manufacturer on cover reads: “Imprimerie de Mme Ve Belin”</CITE>  

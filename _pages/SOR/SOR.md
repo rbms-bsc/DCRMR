@@ -7,15 +7,13 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1QSqBQQf4-Iw3-AvCENNVO4BW_kVmDMYMkMENoHLhzOQ/edit?usp=sharing){:target="_blank"}
-
 ## 2.01.1 Sources of information
 
 <a name="2.01.1.1">2.01.1.1</a> The source of information for the statement of responsibility is the title page(s) ([Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides (see [Data provenance, 0.1](/DCRMR/general-rules/Data-provenance/)).
 
 ## 2.01.2 Element order
 
-<a name="2.01.2.1">2.01.2.1</a> Element order for statement of responsibility elements is integrated with the instructions for title elements (see [Title, 1.01.2](/DCRMR/title/#1012-element-order)).
+<a name="2.01.2.1">2.01.2.1</a> Element order for Statement of responsibility elements is integrated with the instructions for title elements (see [Title, 1.01.2](/DCRMR/title/#1012-element-order)).
 
 ## 2.01.3 Form and order of information
 

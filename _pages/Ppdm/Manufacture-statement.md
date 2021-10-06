@@ -27,7 +27,7 @@ sidebar:
 
 ## 5.29.3 General rule
 
-<a name="5.29.3.1">5.29.3.1</a> Transcribe the manufacture statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/0.4.94.05)).
+<a name="5.29.3.1">5.29.3.1</a> Transcribe the manufacture statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >Example:  
 ><CITE>Carlisle : Printed at the Patriot Office, Arcade, Lowther Street</CITE>  

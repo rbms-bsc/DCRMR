@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-[Google Doc for BSC review](https://docs.google.com/document/d/1HjpHoHpkakSz1sJWe0KRFFmdSgPFZBwGsuCdCFD9G2A/edit?usp=sharing){:target="_blank"}
-
 ## 6.01.1 Sources of information
 
 <a name="6.01.1.1">6.01.1.1</a> The source of information for physical description  elements is the manifestation itself. Take additional information from any source.

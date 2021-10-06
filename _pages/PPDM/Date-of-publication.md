@@ -97,12 +97,12 @@ sidebar:
 >Example:  
 ><CITE>Anno D[omi]ni millesimo quingentesimo decimoquarto die vero vicesima mensis Decembris [20 December 1514]</CITE>
 
-<a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
+<a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
 
 >Example:  
 >Date of publication: <CITE>1785 [that is, 1795]</CITE>  
 >Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
->(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Date of publication: <CITE>anno Dom. 1683 [that is, 1693]</CITE>  

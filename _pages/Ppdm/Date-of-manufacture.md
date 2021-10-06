@@ -33,7 +33,7 @@ sidebar:
 
 ### 5.33.351 Alternative rules for Date of manufacture
 
-<a name="5.33.351.1">5.33.351.1</a> Transcribe dates of manufacture in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/)). Include the day and month, if present.
+<a name="5.33.351.1">5.33.351.1</a> Transcribe dates of manufacture in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Include the day and month, if present.
 
 <a name="5.33.351.2">5.33.351.2</a> Transcribe words and phrases such as “in the year” and “anno”. If both the place and the date of printing appear in conjunction with the phrase “printed in the year,” determine whether “printed” is to be transcribed with the date or elsewhere in the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) according to the punctuation or typography of the source.
 

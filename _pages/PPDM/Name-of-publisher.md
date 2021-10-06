@@ -114,12 +114,12 @@ sidebar:
 >Example:  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement: <CITE>Corrected publisher from Koeman</CITE>  
->(*Comment*: The formal citation for Koeman’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Koeman’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 >Example:  
 >Name of publisher: <CITE>Bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]</CITE>  
 >Note on publication statement: <CITE>The imprint is false; in fact published by Jobst Hermann Flörke in Danzig (now Gdansk) according to Hayn</CITE>  
->(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 5.22.35 Supplied and conjectured names of publishers
 
@@ -132,7 +132,7 @@ sidebar:
 
 ## 5.22.36 Publishers identified by addresses, signs, initials, or devices 
 
-<a name="5.22.36.1">5.22.36.1</a> If only an address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as the Name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
+<a name="5.22.36.1">5.22.36.1</a> If only an address, sign, or initials of the publisher appears in lieu of the name, transcribe the statement containing the address, sign, or initials as Name of publisher. If the publisher's name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.34.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.5)).
 
 >Example:  
 >Name of publisher: <CITE>Pubd in Ryders Court and to be had at the sign of the Pannel Painter in Cheapside, or at the bust of Impudence alias the Brazen Head in Leicester Square</CITE>  
