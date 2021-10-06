@@ -87,11 +87,11 @@ sidebar:
 
 ## 5.34.34 Name of manufacturer notes
 
-<a name="5.34.34.1">5.34.34.1</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, always record the manufacturer’s name in the later part(s) in a Note on manufacture statement (see [Name of manufacturer, 5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
+<a name="5.34.34.1">5.34.34.1</a> **Names of manufacturer in multipart monographs**. If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, always record the manufacturer’s name in the later part(s) in a Note on manufacture statement (see [Name of manufacturer, 5.32.32.1x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1x)).
 
-<a name="5.34.34.2">5.34.34.2</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect (see [5.32.33.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.1)).
+<a name="5.34.34.2">5.34.34.2</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect (see [5.32.34.1x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.34.1x)).
 
-<a name="5.34.34.3">5.34.34.3</a> **Supplied name for fictitious or incorrect names of manufacturer**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on manufacture statement (see [Name of manufacturer, 5.32.33.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.33.2)).
+<a name="5.34.34.3">5.34.34.3</a> **Supplied name for fictitious or incorrect names of manufacturer**. When supplying the actual name after the fictitious or incorrect name, always give the basis for the correction or clarification in a Note on manufacture statement (see [Name of manufacturer, 5.32.34.2x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.34.2x)).
 
 >Example:  
 ><CITE>Actually printed in Venice and attributed to the printer Francesco Andreola by Cambridge University Library</CITE>  
@@ -100,20 +100,20 @@ sidebar:
 ><CITE>“Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, ‘praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly …’” (Tremaine)</CITE>  
 >(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
-<a name="5.34.34.4">5.34.34.4</a> **Supplied and conjectured names of manufacturers**. Always make a Note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note on manufacture statement (see [Name of manufacturer, 5.32.36.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1)).
+<a name="5.34.34.4">5.34.34.4</a> **Supplied and conjectured names of manufacturers**. Always make a Note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note on manufacture statement (see [Name of manufacturer, 5.32.35.1x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1x)).
 
 >Example:  
 >Name of manufacturer: <CITE>[Isaac Collins?]</CITE>  
 >Note on manufacture statement: <CITE>Probably printed in Burlington by Isaac Collins, who did much of the printing for the state of New Jersey at this time</CITE>  
 >(*Comment*: The source of information is a law of the state of New Jersey)
 
-<a name="5.34.34.5">5.34.34.5</a> **Manufacturers identified by addresses, signs, or initials**. If only the address, sign, or initials of the manufacturer appear in lieu of the manufacturer’s name and the name has not been supplied in [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), give the name in a Note on manufacture statement if it is known or can be reasonably surmised (see [5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
+<a name="5.34.34.5">5.34.34.5</a> **Manufacturers identified by addresses, signs, or initials**. If only the address, sign, or initials of the manufacturer appear in lieu of the manufacturer’s name and the name has not been supplied in [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/), give the name in a Note on manufacture statement if it is known or can be reasonably surmised (see [5.32.36.1x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.1x)).
 
 >Example:  
 >Name of manufacturer: <CITE>Printed at the Bible in George-Yard, Lombard-Street</CITE>  
 >Note on manufacture statement: <CITE>The Bible in George-Yard, Lombard Street, was the address of the printer Luke Hind. According to the British Book Trade Index he was active there from 1735-1767</CITE>  
 
-<a name="5.34.34.6">5.34.34.6</a> **Devices**. If the publisher’s name has been supplied based on a device, always make a Note on manufacture statement about the basis for the identification (see [Name of manufacturer, 5.32.32.2](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.2)).
+<a name="5.34.34.6">5.34.34.6</a> **Devices**. If the publisher’s name has been supplied based on a device, always make a Note on manufacture statement about the basis for the identification (see [Name of manufacturer, 5.32.36.2x](/DCRMR/ppdm/Name-of-manufacturer/#5.32.36.2x)).
 
 >Example:  
 ><CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
