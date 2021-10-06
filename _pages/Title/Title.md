@@ -23,7 +23,7 @@ sidebar:
 
 >Title proper : other title information = Parallel title proper : parallel other title information
 
-<a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the [Statement of responsibility relating to title proper](//DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the Title elements.
+<a name="1.01.2.3">1.01.2.3</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the Title elements.
 
 >Title proper = Parallel title proper : other title information = parallel other title information / statement of responsibility relating to title proper
 
