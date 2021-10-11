@@ -71,7 +71,7 @@ For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http
 
 ### 0.4.16 Brevigraphs
 
-<a name="0.4.16.1">0.4.16.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here. (See [0.4.82](/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions) for modern constractions.)
+<a name="0.4.16.1">0.4.16.1</a> If brevigraphs (special marks of contraction in continuance of the manuscript tradition) have been used, expand affected words to their full form and enclose supplied letters in square brackets. The values of many contractions are dependent on context, with the most common values provided here. (See [0.4.82](/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions) for modern contractions.)
 
 |Brevigraphs| | | | | |
 |---|---|---|---|---|
