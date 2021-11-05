@@ -99,7 +99,7 @@ If the statement appears following the [Statement of responsibility relating to 
 <a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
 
 >Example:  
-><CITE>dissertation theologique et historique ...</CITE>  
+>Other title information: <CITE>dissertation theologique et historique ...</CITE>  
 >(*Source of information reads*: dissertation theologique et historique: où l'on montre que: la rubrique des missels, qui ordonne de dire secrètement le canon de la messe, est une continuation de la discipline du secret, & du silence, que l'eglise primitive observoit, sur le mystére de l'Eucharistie: et que cette discipline n'ôte point aux fidèles le moyen d'accompagner le célébrant, & de s'unir à lui, dans toute la suite du sacrifice: en quoi consiste la meilleure maniere d'entendre la messe)
 
 ## 1.23.38 Other title information with grammatically inseparable elements
