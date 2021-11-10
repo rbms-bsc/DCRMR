@@ -7,14 +7,20 @@ sidebar:
   nav: "docs"
 ---
 
+DCRMR is not yet approved for cataloging. At this time, please do not create bibliographic records with the DCRMR descriptive convention source code. When DCRMR is approved, updates will be posted under “Current status” in the [preface](/DCRMR/preface/) and on the [RBMS Bibliographic Standards Committee DCRM and RDA page](https://rbms.info/dcrm/rda/){:target="_blank"}, and will be announced via DCRM-L and other appropriate venues. (DCRMR Editors, November 10, 2021)
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## A1. Introduction
 
-The RBMS RDA Editorial Group
+In MARC 21 bibliographic records, a code may be used in field 040 subfield $e to indicate when specific cataloging conventions have been followed *in addition to* the conventions identified in the descriptive cataloging form (Leader/18). This appendix offers guidance in using “dcrmr,” the description convention source code designating DCRMR, in 040 subfield $e.
+
+DCRMR is intended to be used with the current version of the RDA Toolkit (previously known as the Beta Toolkit). Code field 040 with **$e rda $e dcrmr**, in this order, directly following the language of cataloging (**040 $b**), (e.g., **$b eng $e rda $e dcrmr**). Code LDR/18 (Descriptive cataloging form) **i** (ISBD punctuation) or **c** (ISBD punctuation omitted) in accordance with the cataloger’s institutional practices (see [PCC Guidelines for Minimally Punctuated Records](https://www.loc.gov/aba/pcc/documents/PCC-Guidelines-Minimally-Punctuated-MARC-Data.docx){:target="_blank"} for further guidance).
+
 
 ---
 
