@@ -48,7 +48,7 @@ Apply the codes **rda** followed by **dcrmr** to records for microforms and digi
 
 ## A7 Earlier codes 
 
-If an existing record contains an earlier code in **040 $e**, such as **dcrmb** ([Descriptive Cataloging of Rare Materials (Books)](https://rbms.info/dcrm/dcrmb/){:target="_blank"})), **dcrb** (*Descriptive Cataloging of Rare Books*), or **bdrb** (*Bibliographic Description of Rare Books*), and the description is being re-described to DCRMR standards, delete the earlier code and add the **rda** and **dcrmr** codes.
+If an existing record contains an earlier code in **040 $e**, such as **dcrmb** ([Descriptive Cataloging of Rare Materials (Books)](https://rbms.info/dcrm/dcrmb/){:target="_blank"}), **dcrb** (*Descriptive Cataloging of Rare Books*), or **bdrb** (*Bibliographic Description of Rare Books*), and the description is being re-described to DCRMR standards, delete the earlier code and add the **rda** and **dcrmr** codes.
 
 ---
 
