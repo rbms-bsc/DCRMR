@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.225.1 Element information
 
-<a name="6.225.1.1">6.225.1.1</a> Note: This element has been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. Details of illustrative content has been retained in DCRMR to better clarify the relationship between these instructions and [Illustrative content](/phys-desc/Illustrative-content/) and to mirror the structure throughout the [Physical description](/phys-desc/) chapter. Instructions in Details of illustrative content map to [RDA Toolkit: Illustrative content](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-126a56dc-d07f-34bf-9e42-0bfa48a3e574){:target="_blank"}.
+<a name="6.225.1.1">6.225.1.1</a> Note: This element has been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. Details of illustrative content has been retained in DCRMR to better clarify the relationship between these instructions and [Illustrative content](/DCRMR/phys-desc/Illustrative-content/) and to mirror the structure throughout the [Physical description](/DCRMR/phys-desc/) chapter. Instructions in Details of illustrative content map to [RDA Toolkit: Illustrative content](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-126a56dc-d07f-34bf-9e42-0bfa48a3e574){:target="_blank"}.
 
 <a name="6.225.1.2">6.225.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
