@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.235.1 Element information
 
-<a name="6.235.1.1">6.235.1.1</a> Note: This element has been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. Details of color content has been retained in DCRMR to better clarify the relationship between these instructions and [Color content](/DCRMR/phys-desc/Color-content/){:target="_blank"} and to mirror the structure throughout the [Physical description](/DCRMR/phys-desc/){:target="_blank"} chapter. Instructions in Details of color content map to [RDA Toolkit: Colour content](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-26e5e1f2-b7fb-383b-954a-b2560eb6eb40){:target="_blank"}.
+<a name="6.235.1.1">6.235.1.1</a> Note: This element has been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. Details of color content has been retained in DCRMR to better clarify the relationship between these instructions and [Color content](/DCRMR/phys-desc/Color-content/) and to mirror the structure throughout the [Physical description](/DCRMR/phys-desc/) chapter. Instructions in Details of color content map to [RDA Toolkit: Colour content](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-26e5e1f2-b7fb-383b-954a-b2560eb6eb40){:target="_blank"}.
 
 <a name="6.235.1.2">6.235.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
