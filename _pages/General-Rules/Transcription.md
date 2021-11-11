@@ -39,7 +39,7 @@ Chapter 8: Series
 
 <a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
-Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
