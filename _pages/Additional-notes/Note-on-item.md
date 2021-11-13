@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.4.1 Element information
 
-<a name="9.4.1.1">9.4.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d135d10a-4888-3955-bdb7-30a23c1add97){:target="_blank"}
+<a name="9.4.1.1">9.4.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-d135d10a-4888-3955-bdb7-30a23c1add97){:target="_blank"}
 
 <a name="9.4.1.2">9.4.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 

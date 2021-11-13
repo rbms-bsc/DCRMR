@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.05.1 Element information
 
-<a name="9.05.1.1">9.05.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-1c343ca4-f0a4-3aa8-9918-6bf04e919d96){:target="_blank"}
+<a name="9.05.1.1">9.05.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-1c343ca4-f0a4-3aa8-9918-6bf04e919d96){:target="_blank"}
 
 <a name="9.05.1.2">9.05.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 

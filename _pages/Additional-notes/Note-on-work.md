@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.1.1 Element information
 
-<a name="9.1.1.1">9.1.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-521fa629-f515-3247-9db0-f03e8736bf15){:target="_blank"}
+<a name="9.1.1.1">9.1.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-521fa629-f515-3247-9db0-f03e8736bf15){:target="_blank"}
 
 <a name="9.1.1.2">9.1.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.1.31 Notes on adaptations
 
-<a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation of another work, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of work](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
+<a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation of another work, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
 
 >Example:  
 ><CITE>Adaptation of: Breviarium monasticum</CITE>

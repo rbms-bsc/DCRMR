@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.2.1 Element information
 
-<a name="9.2.1.1">9.2.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-9bcdee0a-0051-3aff-bb30-fdce5aa37216){:target="_blank"}
+<a name="9.2.1.1">9.2.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-9bcdee0a-0051-3aff-bb30-fdce5aa37216){:target="_blank"}
 
 <a name="9.2.1.2">9.2.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.2.31 Note on adaptations
 
-<a name="9.2.31.1">9.2.31.1</a> Make a note if the expression is an adaptation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of expression](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-ad1fcd50-7a30-338a-83cf-a9e27843e99a){:target="_blank"}).
+<a name="9.2.31.1">9.2.31.1</a> Make a note if the expression is an adaptation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-ad1fcd50-7a30-338a-83cf-a9e27843e99a){:target="_blank"}).
 
 >Example:  
 ><CITE>Author's adaptation of his Latin text.</CITE>
@@ -40,7 +40,7 @@ sidebar:
 
 ## 9.2.33 Note on translations
 
-<a name="9.2.33.1">9.2.33.1</a> Make a note if the expression is a translation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Translation of](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4fba5f0f-ee39-3849-9cd0-a4b432e3201b){:target="_blank"}).
+<a name="9.2.33.1">9.2.33.1</a> Make a note if the expression is a translation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Translation of](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-4fba5f0f-ee39-3849-9cd0-a4b432e3201b){:target="_blank"}).
 
 >Example:  
 ><CITE>Translation of: Gulliver's travels</CITE>
@@ -50,7 +50,7 @@ sidebar:
 
 ## 9.2.34 Note on revisions
 
-<a name="9.2.34.1">9.2.34.1</a> Make a note if the expression is a revision, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Revision of](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-d06a170d-e9c7-33cf-831e-a391ea0a8efc){:target="_blank"}).  
+<a name="9.2.34.1">9.2.34.1</a> Make a note if the expression is a revision, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Revision of](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-d06a170d-e9c7-33cf-831e-a391ea0a8efc){:target="_blank"}).  
 
 <a name="9.2.34.2">9.2.34.2</a> In citing another edition of the same work, give enough information to identify the edition cited.
 

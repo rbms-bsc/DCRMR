@@ -15,7 +15,7 @@ sidebar:
 
 ## 9.3.1 Element information
 
-<a name="9.3.1.1">9.3.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-2f069b6a-bc80-3498-ba25-28ec7d8672c2){:target="_blank"}
+<a name="9.3.1.1">9.3.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-2f069b6a-bc80-3498-ba25-28ec7d8672c2){:target="_blank"}
 
 <a name="9.3.1.2">9.3.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
@@ -95,7 +95,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 ## 9.3.34 Note on reissued or reprinted manifestations
 
-<a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Reprinted as manifestation](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
+<a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Reprinted as manifestation](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
 <a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
 

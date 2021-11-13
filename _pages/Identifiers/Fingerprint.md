@@ -15,7 +15,7 @@ sidebar:
 
 ## 10.21.1 Element information
 
-<a name="10.21.1.1">10.21.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-4267b9ea-5015-36eb-b56a-c66f4b104f6f){:target="_blank"}
+<a name="10.21.1.1">10.21.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-4267b9ea-5015-36eb-b56a-c66f4b104f6f){:target="_blank"}
 
 <a name="10.21.1.2">10.21.1.2</a> [Sources of information](/DCRMR/identifiers/#10011-sources-of-information)
 

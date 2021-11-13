@@ -15,7 +15,7 @@ sidebar:
 
 ## 8.27.1 Element information
 
-<a name="8.27.1.1">8.27.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-04e52191-96ac-3870-ac6a-de37540f45f5){:target="_blank"}
+<a name="8.27.1.1">8.27.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/en-US_ala-04e52191-96ac-3870-ac6a-de37540f45f5){:target="_blank"}
 
 <a name="8.27.1.2">8.27.1.2</a> [Sources of information](/DCRMR/series/#8011-sources-of-information)
 

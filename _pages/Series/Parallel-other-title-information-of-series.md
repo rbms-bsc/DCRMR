@@ -15,7 +15,7 @@ sidebar:
 
 ## 8.235.1 Element information
 
-<a name="8.235.1.1">8.235.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-42ab5fdf-4b62-363e-a7e2-80cf40825924){:target="_blank"}
+<a name="8.235.1.1">8.235.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-42ab5fdf-4b62-363e-a7e2-80cf40825924){:target="_blank"}
 
 <a name="8.235.1.2">8.235.1.2</a> [Sources of information](/DCRMR/series/#8011-sources-of-information)
 
