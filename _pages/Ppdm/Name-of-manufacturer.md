@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.32.1 Element information
 
-<a name="5.32.1.1">5.32.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-2a4d1fa1-84b7-32a4-95d3-2ea1cba8642b){:target="_blank"}
+<a name="5.32.1.1">5.32.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-2a4d1fa1-84b7-32a4-95d3-2ea1cba8642b){:target="_blank"}
 
 <a name="5.32.1.2">5.32.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 

@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.36.1 Element information
 
-<a name="5.36.1.1">5.36.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-ecaba0d1-b8ef-3549-9e6e-29685004e392){:target="_blank"}
+<a name="5.36.1.1">5.36.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-ecaba0d1-b8ef-3549-9e6e-29685004e392){:target="_blank"}
 
 <a name="5.36.1.2">5.36.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 

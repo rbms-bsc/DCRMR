@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.22.1 Element information
 
-<a name="5.22.1.1">5.22.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-8fb9e501-1ef9-3b1f-9afa-078737576947){:target="_blank"}
+<a name="5.22.1.1">5.22.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-8fb9e501-1ef9-3b1f-9afa-078737576947){:target="_blank"}
 
 <a name="5.22.1.2">5.22.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
