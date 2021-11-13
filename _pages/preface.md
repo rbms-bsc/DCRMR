@@ -15,7 +15,7 @@ DCRMR is one of several manuals providing specialized cataloging rules for vario
 
 DCRMR is an RDA-compliant manual aligned with the RDA element set. When completed, DCRMR will be an integrated and consolidated manual, which will include instructions for rare materials in multiple formats (e.g., music, serials).  Currently, DCRMR allows for RDA-compliant rare book cataloging.
 
-DCRMR can be downloaded as a PDF: [DCRMR PDF](https://github.com/rbms-bsc/DCRMR/blob/master/assets/pdfs/DCRM%20RDA%20edition.pdf){:target="_blank"}; this copy is for review purposes only.
+DCRMR can be downloaded as a PDF: [DCRMR PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition.pdf){:target="_blank"}; this copy is for review purposes only.
 
 ## RBMS RDA Editorial Group
 
