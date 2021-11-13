@@ -15,7 +15,7 @@ sidebar:
 
 ## 3.225.1 Element information
 
-<a name="3.225.1.1">3.225.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-3e5f17dd-9943-3404-8410-7170fe0e6e89){:target="_blank"}
+<a name="3.225.1.1">3.225.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-3e5f17dd-9943-3404-8410-7170fe0e6e89){:target="_blank"}
 
 <a name="3.225.1.2">3.225.1.2</a> [Sources of information](/DCRMR/edition/#3011-sources-of-information)
 

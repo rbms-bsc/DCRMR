@@ -15,7 +15,7 @@ sidebar:
 
 ## 3.23.1 Element information
 
-<a name="3.23.1.1">3.23.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-dcdb7f9e-3b2f-3819-8c00-1a5e6a1339ed){:target="_blank"}
+<a name="3.23.1.1">3.23.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-dcdb7f9e-3b2f-3819-8c00-1a5e6a1339ed){:target="_blank"}
 
 <a name="3.23.1.2">3.23.1.2</a> [Sources of information](/DCRMR/edition/#3011-sources-of-information)
 

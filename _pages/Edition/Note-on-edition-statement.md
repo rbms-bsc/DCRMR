@@ -15,7 +15,7 @@ sidebar:
 
 ## 3.26.1 Element information
 
-<a name="3.26.1.1">3.26.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-40901a24-c542-32e8-a8a1-da53f0082fdf){:target="_blank"}
+<a name="3.26.1.1">3.26.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-40901a24-c542-32e8-a8a1-da53f0082fdf){:target="_blank"}
 
 <a name="3.26.1.2">3.26.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 
