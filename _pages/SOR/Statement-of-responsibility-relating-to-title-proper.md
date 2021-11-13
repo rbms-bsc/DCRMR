@@ -15,7 +15,7 @@ sidebar:
 
 ## 2.21.1 Element information
 
-<a name="2.21.1.1">2.21.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-93929207-c91d-3970-b325-af8fd9dd2956){:target="_blank"}
+<a name="2.21.1.1">2.21.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-93929207-c91d-3970-b325-af8fd9dd2956){:target="_blank"}
 
 <a name="2.21.1.2">2.21.1.2</a> [Sources of information](/DCRMR/sor/#2011-sources-of-information)
 

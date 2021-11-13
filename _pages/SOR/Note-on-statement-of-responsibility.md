@@ -15,7 +15,7 @@ sidebar:
 
 ## 2.29.1 Element information
 
-<a name="2.29.1.1">2.29.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-ec50e693-78cd-3171-8f30-0d5be6e8a634){:target="_blank"}
+<a name="2.29.1.1">2.29.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-ec50e693-78cd-3171-8f30-0d5be6e8a634){:target="_blank"}
 
 <a name="2.29.1.2">2.29.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 

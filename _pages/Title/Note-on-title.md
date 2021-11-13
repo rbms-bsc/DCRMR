@@ -15,7 +15,7 @@ sidebar:
 
 ## 1.29.1 Element information
 
-<a name="1.29.1.1">1.29.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-612acb20-84fb-3558-86b9-f75430e39843){:target="_blank"}
+<a name="1.29.1.1">1.29.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-612acb20-84fb-3558-86b9-f75430e39843){:target="_blank"}
 
 <a name="1.29.1.2">1.29.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
 

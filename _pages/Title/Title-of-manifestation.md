@@ -15,7 +15,7 @@ sidebar:
 
 ## 1.2.1 Element information
 
-<a name="1.2.1.1">1.2.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-6d73e093-3928-3314-ad35-cc4afb3e3e3b){:target="_blank"}
+<a name="1.2.1.1">1.2.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-6d73e093-3928-3314-ad35-cc4afb3e3e3b)({:target="_blank"}
 
 <a name="1.2.1.2">1.2.1.2</a> [Sources of information](/DCRMR/title/#1011-sources-of-information)
 
