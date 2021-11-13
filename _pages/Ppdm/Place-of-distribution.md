@@ -15,7 +15,7 @@ sidebar:
 
 ## 5.26.1 Element information
 
-<a name="5.26.1.1">5.26.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-5e4b0696-b177-34a4-9671-7cb0cdec37bd){:target="_blank"}
+<a name="5.26.1.1">5.26.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-5e4b0696-b177-34a4-9671-7cb0cdec37bd){:target="_blank"}
 
 <a name="5.26.1.2">5.26.1.2</a> [Sources of information](/DCRMR/ppdm/#5011-sources-of-information)
 
@@ -65,7 +65,7 @@ sidebar:
 
 <a name="5.26.325.1">5.26.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. 
 
-<a name="5.26.325.2">5.26.325.2</a> *Optionally*, use the abbreviations for names in English listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://beta.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
+<a name="5.26.325.2">5.26.325.2</a> *Optionally*, use the abbreviations for names in English listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://access.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}. 
 
 ## 5.26.33 Two or more places of distribution
 
