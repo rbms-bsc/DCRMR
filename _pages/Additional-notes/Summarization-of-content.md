@@ -45,4 +45,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.24 — Script")](/DCRMR/additional-notes/Script/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.3 — Note on manifestation")](/DCRMR/additional-notes/Note-on-manifestation/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.245 — Details of script")](/DCRMR/additional-notes/Details-of-script/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.3 — Note on manifestation")](/DCRMR/additional-notes/Note-on-manifestation/)
