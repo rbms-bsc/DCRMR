@@ -48,4 +48,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.42 — Custodial history of item")](/DCRMR/additional-notes/Custodial-history-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.44 — Note on dimensions of item")](/DCRMR/additional-notes/Note-on-dimensions-of-item/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.425 — Immediate source of acquisition of item")](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.44 — Note on dimensions of item")](/DCRMR/additional-notes/Note-on-dimensions-of-item/)

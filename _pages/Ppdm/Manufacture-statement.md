@@ -75,4 +75,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.285 — Note on distribution statement")](/DCRMR/ppdm/Manufacture-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.31 — Place of manufacture")](/DCRMR/ppdm/Place-of-manufacture/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.285 — Note on distribution statement")](/DCRMR/ppdm/Note-on-distribution-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.31 — Place of manufacture")](/DCRMR/ppdm/Place-of-manufacture/)
