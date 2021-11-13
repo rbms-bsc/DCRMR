@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.33.1 Element information
 
-<a name="6.33.1.1">6.33.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-1a6a5219-2cd5-3762-87e8-6ee28e327b8b){:target="_blank"}
+<a name="6.33.1.1">6.33.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-1a6a5219-2cd5-3762-87e8-6ee28e327b8b){:target="_blank"}
 
 <a name="6.33.1.2">6.33.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 

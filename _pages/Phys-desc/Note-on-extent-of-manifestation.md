@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.215.1 Element information
 
-<a name="6.215.1.1">6.215.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content?externalId=en-US_ala-7b88f11a-e674-3a85-853a-e7ad4e70b063){:target="_blank"}
+<a name="6.215.1.1">6.215.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content?externalId=en-US_ala-7b88f11a-e674-3a85-853a-e7ad4e70b063){:target="_blank"}
 
 <a name="6.215.1.2">6.215.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information) 
 
@@ -276,7 +276,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 ><CITE>Signatures (in Hebrew characters): 2-3⁸</CITE>  
 >(*Comment*: Indicates two gatherings signed with characters that could belong to either an alphabetic or numeric sequence)
 
-<a name="6.215.44.65">6.215.44.65</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://access.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  If considered important for clarity, follow a compressed signature statement by a total count of the gatherings in that sequence in square brackets (see [6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)).
+<a name="6.215.44.65">6.215.44.65</a> **Nonroman signatures (alphabetic sequence)**. If the gatherings are signed with nonroman characters that follow an alphabetic sequence, transcribe in original script if typographical facilities permit, or in romanized form using the ALA-LC Romanization Tables (see [LC-PCC PS 1.4](http://original.rdatoolkit.org/lcpschp1_lcps1-39.html){:target="_blank"}). Use uppercase or lowercase characters according to the usage of the manifestation. If the script is one that does not employ case, or if the case of the characters cannot be determined, use lowercase characters. Indicate the script used in the signatures if recording them in romanized form, or if the signature statement would otherwise be ambiguous.  If considered important for clarity, follow a compressed signature statement by a total count of the gatherings in that sequence in square brackets (see [6.215.44.8](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.8)).
 
 <a name="6.215.44.7">6.215.44.7</a> **Greek alphabetic signatures**. For gatherings signed in Greek alphabetic sequences, use the 24-letter alphabet in the following chart as the basis for compressed signature statements (Greek letters are given in the top row, their romanized equivalents in the bottom row):
 

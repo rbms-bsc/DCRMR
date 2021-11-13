@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.355.1 Element information
 
-<a name="6.355.1.1">6.355.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/Content/Index?externalId=en-US_ala-5887ca96-eae3-34c9-ac6b-5f1f73f3845b){:target="_blank"}
+<a name="6.355.1.1">6.355.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-5887ca96-eae3-34c9-ac6b-5f1f73f3845b){:target="_blank"}
 
 <a name="6.355.1.2">6.355.1.2</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information) 
 

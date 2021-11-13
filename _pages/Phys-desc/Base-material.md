@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.25.1 Element information
 
-<a name="6.25.1.1">6.25.1.1</a> [Link to RDA Toolkit](https://beta.rdatoolkit.org/en-US_ala-f96b31a0-8dd8-324c-a2e7-28f9540f665e){:target="_blank"}
+<a name="6.25.1.1">6.25.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/en-US_ala-f96b31a0-8dd8-324c-a2e7-28f9540f665e){:target="_blank"}
 
 <a name="6.25.1.2">6.25.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 

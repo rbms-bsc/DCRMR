@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.34.1 Element information
 
-<a name="6.34.1.1">6.34.1.1</a> [Link to RDA Toolkit]( https://beta.rdatoolkit.org/en-US_ala-aa1e8ea8-5d01-3ff4-bb86-81f00f916c27){:target="_blank"}
+<a name="6.34.1.1">6.34.1.1</a> [Link to RDA Toolkit]( https://access.rdatoolkit.org/en-US_ala-aa1e8ea8-5d01-3ff4-bb86-81f00f916c27){:target="_blank"}
 
 <a name="6.34.1.2">6.34.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
