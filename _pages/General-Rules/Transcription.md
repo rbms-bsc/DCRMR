@@ -126,7 +126,7 @@ Make an explanatory note.
 
 ### 0.4.21 General rule
 
-<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines for [RDA Toolkit: Capitalization](https://beta.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b ){:target="_blank"}, with the following exceptions. 
+<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines in [RDA Toolkit: Guidelines on normalized transcription – Capitalization](	https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b){:target="_blank"} and [RDA Toolkit: Terms in specific languages](	https://access.rdatoolkit.org/Resource/Index?externalId=en-US_topic_pck_2qt_wlb){:target="_blank"}, with the following exceptions. 
 
 For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and v (0.4.23.1)](/DCRMR/general-rules/Transcription/#0.4.23.1).
 
