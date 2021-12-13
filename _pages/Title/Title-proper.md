@@ -116,7 +116,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ## 1.21.36 Abridgments of the title proper
 
-<a name="1.21.36.1">1.21.36.1</a> **General rule**. *Optionally*, if the title proper is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. Do not omit any of the first five words (or, if the Title proper beings with an article, the first six words).
+<a name="1.21.36.1">1.21.36.1</a> **General rule**. *Optionally*, if the title proper is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. Do not omit any of the first five words (or, if the Title proper begins with an article, the first six words).
 
 <a name="1.21.36.2">1.21.36.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title (or, if the alternative title begins with an article, the first six words).
 
