@@ -29,7 +29,7 @@ sidebar:
 
 >Title proper : other title information = Parallel title proper : parallel other title information / statement of responsibility relating to title proper
 
-<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the [Title proper](/DCRMR/title/Title-proper/), [Parallel title proper](/DCRMR/title/Parallel-title-proper/), [Other title information](/DCRMR/title/Other-title-information/) or [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) to which it relates. 
+<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the [Title proper](/DCRMR/title/Title-proper/), [Parallel title proper](/DCRMR/title/Parallel-title-proper/), [Other title information](/DCRMR/title/Other-title-information/), or [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) to which it relates. 
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
