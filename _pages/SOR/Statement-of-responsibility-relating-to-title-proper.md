@@ -127,10 +127,6 @@ sidebar:
 ><CITE>Telemachus : a mask / by the Rev. George Graham, M.A., fellow of King's-College, Cambridge</CITE>  
 >(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
->Example:  
-><CITE>Italian pictures : drawn with pen and pencil / by the Rev. Samuel Manning, LL.D.</CITE>  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
-
 <a name="2.21.37.2">2.21.37.2</a> If a noun or noun phrase occurring in conjunction with a Statement of responsibility relating to title proper is indicative of the role of the person(s) or body (bodies) named in the Statement of responsibility relating to title proper rather than of the nature of the work, treat it as part of the Statement of responsibility relating to title proper.
 
 >Example:  

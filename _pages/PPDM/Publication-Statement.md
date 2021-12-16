@@ -65,11 +65,11 @@ sidebar:
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>A Londres : imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764</CITE>  
+><CITE>A Londres : Imprimé par Luc Hinde demeurant dans George-yard en Lombard-street, 1764</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>Basileae : in Officina Frobeniana, ann. M.D.XXIII</CITE>  
+><CITE>Basileae : In Officina Frobeniana, ann. M.D.XXIII</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
@@ -81,7 +81,7 @@ sidebar:
 >(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 >Example:  
-><CITE>London : printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657</CITE>  
+><CITE>London : Printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 <a name="5.2.335.2">5.2.335.2</a> If the resource bears only a statement relating to distribution, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 

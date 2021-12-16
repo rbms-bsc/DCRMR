@@ -199,7 +199,7 @@ sidebar:
 
 ### 1.25.3593 Variant and other titles within the manifestation (optional)
 
-<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations composed of more than one physical unit, and significant other title information (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
+<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations composed of more than one physical unit, and significant other title information. Indicate the source of the source of the variant title (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
 
 >Example:  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  

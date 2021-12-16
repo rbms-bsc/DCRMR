@@ -39,7 +39,7 @@ sidebar:
 
 ### i.01.21 RDA, LC-PCC PS, and other cataloging documentation
 
-<a name="i.01.21.1">i.01.21.1</a> DCRMR is a revision of the *Descriptive Cataloging of Rare Materials* suite (DCRM) based on RDA and informed by the Library of Congress/Program for Cooperative Cataloging Policy Statements (LC-PCC PS). DCRMR deviates in substance from RDA and LC-PCC PS  only when required by the particular descriptive needs of rare materials. In matters of style, presentation, wording, and arrangement, DCRMR follows its own conventions. 
+<a name="i.01.21.1">i.01.21.1</a> DCRMR is a revision of the *Descriptive Cataloging of Rare Materials* suite (DCRM) based on RDA. DCRMR deviates in substance from RDA only when required by the particular descriptive needs of rare materials. In matters of style, presentation, wording, and arrangement, DCRMR follows its own conventions. (Note: At this time, the Library of Congress/Program for Cooperative Cataloging Policy Statements (LC-PCC PS) are under development and not yet available for use.)
 
 <a name="i.01.21.2">i.01.21.2</a> DCRMR builds upon RDA data elements and guidelines. Some elements that have been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"} have been retained in DCRMR for clarity. Refer to RDA for guidance and instructions on matters of description not covered in DCRMR. The relevant sections of RDA must be consulted for instructions governing name and title access points. DCRMR is independent of the LC-PCC Policy Statements and does not assume application of LC-PCC PS. 
 
@@ -51,7 +51,7 @@ sidebar:
 
 ## i.01.3 Objectives and principles
 
-<a name="i.01.3.1">i.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by more recent theoretical works, namely the International Federation of Library Associations and Institutions’ (IFLA)  [Functional Requirements for Bibliographic Records (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [Library Reference Model (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [Statement of International Cataloguing Principles](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
+<a name="i.01.3.1">i.01.3.1</a> The instructions contained in DCRMR are formulated according to the objectives and principles set forth below. These objectives and principles seek to articulate the purpose and nature of specialized cataloging instructions for rare materials. They are informed by long-accepted concepts in bibliographic scholarship and cataloging, as well as by theoretical works, namely the International Federation of Library Associations and Institutions’ (IFLA)  [Functional Requirements for Bibliographic Records (FRBR)](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"} and [Library Reference Model (LRM)](https://www.ifla.org/publications/node/11412){:target="_blank"}, and Elaine Svenonius’s *The Intellectual Foundation of Information Organization*. As such, the objectives and principles are also in conformity with the IFLA [Statement of International Cataloguing Principles](https://www.ifla.org/publications/node/11015){:target="_blank"}. They assume familiarity with the LRM entities (work, expression, manifestation, item, etc.) as well as bibliographic terms used to differentiate among textual variants (edition, issue, impression, and state). It is hoped that these objectives and principles will provide catalogers, and administrators of cataloging operations, with a better understanding of the underlying rationale for DCRMR instructions.
 
 ### i.01.31 Functional objectives of DCRMR
 
@@ -126,6 +126,10 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 
 <a name="i.01.55.1">i.01.55.1</a> DCRMR uses [Merriam-Webster Online](https://www.merriam-webster.com){:target="_blank"} as its authority in matters of spelling and the 17th edition of the *Chicago Manual of Style* as its authority in matters of style.
 
+## i.01.557 Citation numbering
+
+<a name="i.01.557.1">i.01.557.1</a> DCRMR uses a decimal numbering system. The first number is a whole number designating the chapter. The remaining three places are decimal numbers to allow for future expansion. For a fuller discussion of the numbering system, see [DCRMR Wiki: Citation numbers](https://github.com/rbms-bsc/DCRMR/wiki/Citation-numbers){:target="_blank"}.
+
 ## i.01.6 Acronyms
 
 |Abbreviation|Used for|
@@ -133,13 +137,13 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 |3R Project	|RDA Toolkit Restructure and Redesign Project|
 |AACR2 	|*Anglo-American Cataloguing Rules*, second edition|
 |BDRB	|[Bibliographic Description of Rare Books](https://catalog.hathitrust.org/Record/007413360){:target="_blank"}|
-|BIBCO	|[Monographic Bibliographic Record Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
+|BIBCO	|[Monographic Bibliographic Record Cooperative Program of the PCC](https://www.loc.gov/aba/pcc/bibco/index.html){:target="_blank"}|
 |BIBFRAME|[Bibliographic Framework Initiative](https://www.loc.gov/bibframe/){:target="_blank"}|
 |BSC	|[Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries, American Library Association](http://rbms.info/committees/bibliographic_standards/){:target="_blank"}|
-|BSR	|[BIBCO Standard Record](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
+|BSR	|[BIBCO Standard Record Metadata Application Profiles](https://www.loc.gov/aba/pcc/bibco/bsr-maps.html){:target="_blank"}|
 |CC:DA	|[Committee on Cataloging: Description and Access, Core: Leadership, Infrastructure, Futures, American Library Association](https://alcts.ala.org/ccdablog/){:target="_blank"}|
-|CONSER	|[Cooperative Online Serials Program](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
-|CSR    |[CONSER Standard Record](https://www.loc.gov/aba/pcc/conser/issues/CSR.html){:target="_blank"}|
+|CONSER	|[Cooperative Online Serials Program of the PCC](https://www.loc.gov/aba/pcc/conser/){:target="_blank"}|
+|CSR    |[CONSER Standard Record Metadata Application Profiles](https://www.loc.gov/aba/pcc/conser/issues/CSR.html){:target="_blank"}|
 |DCRB	|[Descriptive Cataloging of Rare Books](https://catalog.hathitrust.org/Record/002570058){:target="_blank"}|
 |DCRM	|[Descriptive Cataloging of Rare Materials](http://rbms.info/dcrm/){:target="_blank"}|
 |DCRM(B)|[Descriptive Cataloging of Rare Materials (Books)](http://rbms.info/dcrm/dcrmb/){:target="_blank"}|

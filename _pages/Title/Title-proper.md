@@ -153,7 +153,7 @@ d) Devise a collective title for the whole manifestation, preferably in the lang
 
 >Example:  
 >Title proper: <CITE>Isidora</CITE>  
->Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (p. [87]-232) and Lettre d’un paysan de la Vallée-Noir (p. [233]-307)</CITE>  
+>Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
 
 ## 1.21.38 Single-sheet manifestations
 

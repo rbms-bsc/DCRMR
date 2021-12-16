@@ -58,13 +58,13 @@ sidebar:
 
 ## 5.23.31 Transcription involving adjustments or additions
 
-<a name="5.23.31.1">5.23.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [Transcription, 0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets.
+<a name="5.23.31.1">5.23.31.1</a> **Roman numerals**. If the date appears in roman numerals, transcribe the date as it appears. Retain punctuation but omit internal spaces (see [Transcription, 0.4.34](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) and [Transcription, 0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)). Supply the year in arabic numerals in square brackets. Include the day and month, if present, following the pattern: day, month, year.
 
 >Example:  
 ><CITE>anno Domini MDCXIV [1614]</CITE> 
 
 >Example:  
-><CITE>MCCCCLXXXII le XV jour de decembre [1482]</CITE> 
+><CITE>MCCCCLXXXII le XV jour de decembre [15 December 1482]</CITE> 
 
 >Example:  
 ><CITE>M.D.CC.XLIV [1744]</CITE>

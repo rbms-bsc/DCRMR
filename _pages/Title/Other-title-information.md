@@ -27,9 +27,9 @@ sidebar:
 
 <a name="1.23.29.1">1.23.29.1</a> Transcribe other title information appearing on the title page in the order indicated by the sequence on, or layout of, the title page.
 
-<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.02.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.2">1.23.29.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
-<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [1.21.32.1](/DCRMR/title/Title-proper/#1.21.32.1) and [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.29.3">1.23.29.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the other title information unless it is a grammatically inseparable part of the other element. When transposing the other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
   
 ## 1.23.31 Other title information beginning with prepositions, conjunctions, etc.
 
@@ -81,7 +81,8 @@ sidebar:
 If the statement appears following the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility.
 
 >Example:  
->Statement of responsibility relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>
+>Statement of responsibility relating to title proper: <CITE>compiled by Samuel Ayscough, clerk, assistant librarian of the British Museum ; in two volumes</CITE>  
+>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## 1.23.36 Phrases about notes, appendices, etc.
 

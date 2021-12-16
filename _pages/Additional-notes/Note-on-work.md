@@ -27,7 +27,7 @@ sidebar:
 
 <a name="9.1.3.1">9.1.3.1</a> Make a note relating to the work being described if considered important.
 
-## 9.1.31 Note on adaptations
+## 9.1.31 Note on adaptation
 
 <a name="9.1.31.1">9.1.31.1</a> Make a note if the work is an adaptation of another work, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-57699478-384d-3243-b250-b6f08b8379e7){:target="_blank"}).
 

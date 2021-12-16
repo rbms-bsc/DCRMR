@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.26.31 Source and position of edition statement
 
-<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) and [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
+<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), and [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2)).
 
 >Example:  
 ><CITE>Edition statement from half-title</CITE>
@@ -34,7 +34,7 @@ sidebar:
 ><CITE>Number line on title page verso indicates 1st printing: “10 9 8 7 6 5 4 3 2 1”</CITE>  
 >(*Comment*: Example follows alternative rule to create a separate bibliographic description for an individual impression or state)
 
-<a name="3.26.31.2">3.26.31.2</a> When transposing, always note the original position of any element that is transposed to another position in transcription (see [3.21.3.2](/DCRMR/edition/Edition-statement/#3.21.3.2), [3.22.36.1](/DCRMR/edition/Designation-of-edition/#3.22.36.1), [3.255.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.255.3.4), [3.23.32.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.3), [3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3), [3.235.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.4), [3.24.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.2), and [3.25.31.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.31.3)).
+<a name="3.26.31.2">3.26.31.2</a> When transposing, always note the original position of any element that is transposed to another position in transcription (see [3.21.3.2](/DCRMR/edition/Edition-statement/#3.21.3.2), [3.22.36.1](/DCRMR/edition/Designation-of-edition/#3.22.36.1), [3.255.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/#3.255.3.4), [3.23.32.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.3), [3.23.33.3](/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.33.3), [3.235.3.4](/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/#3.235.3.4), [3.24.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.2), [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1), and [3.25.31.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.31.3)).
 
 >Example:  
 > <CITE>Edition statement printed at head of title page</CITE>
@@ -57,7 +57,7 @@ sidebar:
 
 ## 3.26.34 Edition statements relating to issues or parts
 
-<a name="3.26.34.1">3.26.34.1</a> Make a Note on edition statement relating to issues or parts of a multipart monograph if the manifestation consists of multiple issues or parts, and there are edition statements relating to the whole as well as to the parts.  Record the edition statement relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.21.35.2](/DCRMR/edition/Edition-statement/#3.21.35.2)).
+<a name="3.26.34.1">3.26.34.1</a> Make a Note on edition statement relating to issues or parts of a multipart monograph if the manifestation consists of multiple issues or parts, and there are edition statements relating to the whole as well as to the parts (see [Edition statement, 3.21.35.2](/DCRMR/edition/Edition-statement/#3.21.35.2)).  Record the edition statement relating to the whole manifestation as an [Edition statement](/DCRMR/edition/Edition-statement/) (see [3.21.35.1](/DCRMR/edition/Edition-statement/#3.21.35.1)).
 
 ## 3.26.35 Nonce collections
 

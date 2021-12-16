@@ -57,7 +57,7 @@ If a decision has been made to create a separate description for an individual i
 
 >Example:  
 >Note on item: <CITE>Third impression of first edition</CITE>  
->(*Comment*: manifestation is from the machine-press era and requires no Designation of edition statement; record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important)
+>(*Comment*: Manifestation is from the machine-press era and requires no Designation of edition statement; record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important. If following the alternative rule at [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), record instead as Designation of edition statement)
 
 ## 3.22.33 Statements relating to a substantially unchanged impression or state
 

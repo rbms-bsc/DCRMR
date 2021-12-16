@@ -29,11 +29,13 @@ sidebar:
 
 >Title proper : other title information = Parallel title proper : parallel other title information / statement of responsibility relating to title proper
 
-<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the [Title proper](/DCRMR/title/Title-proper/), [Parallel title proper](/DCRMR/title/Parallel-title-proper/), or other title information to which it relates. 
+<a name="1.01.2.4">1.01.2.4</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the [Title proper](/DCRMR/title/Title-proper/), [Parallel title proper](/DCRMR/title/Parallel-title-proper/), [Other title information](/DCRMR/title/Other-title-information/) or [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) to which it relates. 
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
 <a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. If any of these titles lacks a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
+
+*Exception*: For single-sheet resources containing two or more expressions but without a collective title, transcribe as the [Title proper](/DCRMR/title/Title-proper/) the first title or opening words of the text (see [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)).
 
 > Title 1. Title 2. Title 3
 
@@ -41,7 +43,7 @@ sidebar:
 
 ## 1.01.3 Form and order of information
 
-<a name="1.01.3.1">1.01.3.1</a> Transcribe [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
+<a name="1.01.3.1">1.01.3.1</a> Transcribe Title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
 
 <a name="1.01.3.2">1.01.3.2</a> For transposed elements, always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 

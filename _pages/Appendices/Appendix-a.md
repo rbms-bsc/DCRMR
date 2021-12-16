@@ -34,19 +34,15 @@ Apply the code **rda** followed by **dcrmr** to records for resources cataloged 
 
 Guidance for creating collection-level DCRMR records is forthcoming. 
 
-## A4 Core-level DCRMR
-
-Guidance for creating core-level DCRMR records is forthcoming.
-
-## A5 Minimal-level DCRMR 
+## A4 Minimal-level DCRMR 
 
 Guidance for creating minimal-level DCRMR records is forthcoming.
 
-## A6 Microforms and digital reproductions of books 
+## A5 Microforms and digital reproductions of books 
 
 Apply the code **rda** followed by **dcrmr** to records for microforms and digital reproductions of books if the descriptive portion of the record conforms to DCRMR (full, core, or minimal level). If, however, DCRMR (full, core, or minimal level) is not used in all aspects (e.g., if the dimensions of the book are not recorded in the physical description area), do not code **dcrmr**.
 
-## A7 Earlier codes 
+## A6 Earlier codes 
 
 If an existing record contains an earlier code in **040 $e**, such as **dcrmb** ([Descriptive Cataloging of Rare Materials (Books)](https://rbms.info/dcrm/dcrmb/){:target="_blank"}), **dcrb** (*Descriptive Cataloging of Rare Books*), or **bdrb** (*Bibliographic Description of Rare Books*), and the description is being re-described to DCRMR standards, delete the earlier code and add the **rda** and **dcrmr** codes.
 
