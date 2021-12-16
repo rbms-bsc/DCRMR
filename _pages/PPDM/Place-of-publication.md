@@ -98,7 +98,7 @@ sidebar:
 <a name="5.21.325.1">5.21.325.1</a> Supply in square brackets the name of the country, state, province, etc., after the name of the place if it is considered necessary for identification, or if it is considered necessary to distinguish the place from others of the same name. Use a modern form of the name in the language of the cataloging agency. 
 
 >Example:  
-><CITE>Boston [Lincolnshire]</CITE>
+><CITE>Boston [England]</CITE>
 
 <a name="5.21.325.2">5.21.325.2</a> *Optionally*, use the abbreviations for names in English listed in [RDA Toolkit: Abbreviations of terms in English for countries and states](https://access.rdatoolkit.org/Resource/Index?externalId=en-US_ala-d2830026-0cec-3123-ab3c-9214bdada254){:target="_blank"}.  
 

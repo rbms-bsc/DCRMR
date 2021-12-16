@@ -24,7 +24,7 @@ DCRMR is intended to be used with the current version of the [RDA Toolkit](https
 The current iteration of DCRMR includes instructions for cataloging books only and is aligned with the current version of the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. If cataloging a non-book format or if using the [Original Toolkit](https://original.rdatoolkit.org/){:target="_blank"}, please continue to follow the guidance outlined in the [BSC statement on DCRM and RDA](https://rbms.info/dcrm/rda/#BSC-statement-on-DCRM-and-RDA){:target="_blank"} to either: 
 
 + Create records using the rare materials provisions of the [RDA BIBCO Standard Record](http://www.loc.gov/aba/pcc/bibco/documents/PCC-RDA-BSR.pdf){:target="_blank"}. In field 040, use code **$e rda**, with an additional **$e** for the appropriate DCRM manual
-+ Create records using AACR2 with the appropriate format-specific DCRM manual, using RDA to construct access points
++ Create records using AACR2 with the appropriate format-specific DCRM manual, using RDA to construct access points. Add the descriptive convention source code to the 040 as directed in the DCRM manuals (e.g., **$e dcrmb**)
 
 ## A2 Full-level DCRMR 
 

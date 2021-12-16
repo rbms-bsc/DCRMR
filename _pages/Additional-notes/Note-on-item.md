@@ -86,7 +86,7 @@ sidebar:
 
 ## 9.4.35 Completed blanks in transcribed elements
 
-<a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a Note on item if considered important (see [Transcription, 0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)).
+<a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a Note on item if considered important (see [Transcription, 0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)). For title access to item-specific titles, see [1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1).
 
 >Example:  
 ><CITE>Library copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
@@ -98,7 +98,7 @@ sidebar:
 
 ## 9.4.36 Notes relating to bound-with elements
 
-<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
+<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list to exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
 
 >Example:  
 ><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>

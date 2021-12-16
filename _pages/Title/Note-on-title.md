@@ -38,11 +38,11 @@ sidebar:
  
 <a name="1.29.31.2">1.29.31.2</a> For transposed elements, always make a note to indicate the original position (see [1.01.3.2](/DCRMR/title/#1.01.3.2)).
 
-<a name="1.29.31.3">1.29.31.3</a> For multipart monographs, if the description is not based on the first part, identify the part used as the basis of the description.
+<a name="1.29.31.3">1.29.31.3</a> For multipart monographs, if the description is not based on the first part, always identify the part used as the basis of the description.
 
 ## 1.29.32 Title proper with grammatically inseparable designation
 
-<a name="1.29.32.1">1.29.32.1</a> If a manifestation is in more than one volume and the [Title proper](/DCRMR/title/Title-proper/) of each volume includes a grammatically inseparable designation such as numbering that is specific to that volume, supply the final designation in square brackets, after the first designation followed by a hyphen, omitting intermediate designations. Do the same for single-volume manifestations that contain multiple parts. If it is not feasible to do this, transcribe the title proper of the first volume or part without this interpolation and make a note about the later designation(s) (see [Title proper, 1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1)).
+<a name="1.29.32.1">1.29.32.1</a>  If a manifestation is in more than one volume or in a single volume with multiple parts, and the [Title proper](/DCRMR/title/Title-proper/) of each volume or part includes a grammatically inseparable designation such as numbering that is specific to that volume or part, supply the final designation in square brackets, after the first designation followed by a hyphen, omitting intermediate designations. If it is not feasible to do this, transcribe the title of the first volume or part without this interpolation as the [Title proper](/DCRMR/title/Title-proper/) and make a note about the later designation(s) if considered important (see [Title proper, 1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1)).
 
 ## 1.29.33 No title on preferred source of information
 

@@ -9,7 +9,7 @@ sidebar:
 
 This initial release includes only instructions for cataloging books. Additional formats will be added as they are developed.
 
-Due to coordination with other organizations, notably the PCC, certain sections are being skipped for now, including [Precataloging Decisions](/DCRMR/introduction/#i019-precataloging-decisions), [MARC 21 Descriptive Conventions Source Codes](/DCRMR/appendices/Appendix-a/), [Collection-Level Records](/DCRMR/appendices/Appendix-b/), [Core-Level Records](/DCRMR/appendices/Appendix-c/), and [Minimal-Level Records](/DCRMR/appendices/Appendix-d/). The [Glossary](/DCRMR/glossary/) is still in development and will be incorporated in a future release.
+Due to coordination with other organizations, notably the PCC, certain sections are being skipped for now, including [Precataloging Decisions](/DCRMR/introduction/#i019-precataloging-decisions), [Collection-Level Records](/DCRMR/appendices/Appendix-b/), [Core-Level Records](/DCRMR/appendices/Appendix-c/), and [Minimal-Level Records](/DCRMR/appendices/Appendix-d/). The [Glossary](/DCRMR/glossary/) is still in development and will be incorporated in a future release.
 
 ---
 

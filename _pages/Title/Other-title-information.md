@@ -33,7 +33,7 @@ sidebar:
   
 ## 1.23.31 Other title information beginning with prepositions, conjunctions, etc.
 
-<a name="1.23.31.1">1.23.31.1</a> **General rule**. Transcribe other title information that appears following the [Title proper](/DCRMR/title/Title-proper/) as other title information, even if it begins with a preposition, conjunction, prepositional phrase, etc.
+<a name="1.23.31.1">1.23.31.1</a> **General rule**. Transcribe other title information that appears following the [Title proper](/DCRMR/title/Title-proper/) as other title information, even if it begins with a preposition, conjunction, etc.
 
 >Example:  
 >Title proper: <CITE>The English Parliament represented in a vision</CITE>  

@@ -102,7 +102,7 @@ sidebar:
 
 ## 2.21.355 Qualifications in statements of responsibility relating to title proper
 
-<a name="2.21.355.1">2.21.355.1</a> Qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the Statement of responsibility relating to title proper, using the mark of omission, unless the qualifications are necessary grammatically; or the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.); or the Statement of responsibility relating to title proper represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
+<a name="2.21.355.1">2.21.355.1</a> *Optionally*, qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the Statement of responsibility relating to title proper, using the mark of omission, unless the qualifications are necessary grammatically; or the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.); or the Statement of responsibility relating to title proper represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
 
 ## 2.21.36 Ambiguous statements of responsibility relating to title proper
 

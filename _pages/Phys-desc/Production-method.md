@@ -30,10 +30,10 @@ sidebar:
 * etching
 * printing
 
-<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary are appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
+<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
 
 >Example:  
->Production method: <CITE>Intaglio printing</CITE>  
+>Production method: <CITE>intaglio printing</CITE>  
 >Source code of term: <CITE>aat</CITE>  
 >(*Comment*: Example includes the MARC source code of term for clarity)
 

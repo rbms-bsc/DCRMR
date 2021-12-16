@@ -51,6 +51,8 @@ sidebar:
 >Variant title of manifestation (converted graphical): <CITE>Oevvres morales de Plvtarqve</CITE>  
 >(*Source of information reads*: LES OEVVRES MORALES DE PLVTARQVE)
 
+<a name="1.25.3515.3">1.25.3515.3</a> *Optionally*, if the manifestation uses a gothic typeface that does not distinguish between uppercase I and J or between uppercase U and V, record a Variant title of manifestation transcribing as J and U (see [0.4.23.5](/DCRMR/general-rules/Transcription/#0.4.23.5)).
+
 ### 1.25.352 Latin title proper with final capital I representing ii (required)
 
 <a name="1.25.352.1">1.25.352.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) is a Latin word with a final capital **I** that has been retained in the transcription, provide additional title access for the form of title proper with the final capital **I** converted to **ii** (see [0.4.24.2](/DCRMR/general-rules/Transcription/#0.4.24.2)).

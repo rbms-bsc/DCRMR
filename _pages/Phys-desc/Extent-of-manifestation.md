@@ -114,7 +114,7 @@ See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-c
 
 > Example:  
 > Extent of manifestation: <CITE>[2], 46, [2] pages</CITE>  
-> Supplementary content: <CITE>Errata on page [47]</CITE>
+> Supplementary content: <CITE>Errata on page [1] of third pagination sequence</CITE>
 
 #### 6.21.4235 Advertisements
 
@@ -235,7 +235,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.426 Leaves or pages of plates
 
-<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. Count unnumbered leaves or pages of plates as they present themselves, regardless of terms used to describe the rest of the manifestation. For a plate folded and bound at the inner margin, see [6.21.4275](/DCRMR/phys-desc/Extent-of-manifestation/#621427-folded-plates).
+<a name="6.21.426.1">6.21.426.1</a> Record the number of leaves or pages of plates at the end of the sequence(s) of pagination or foliation, whether the plates are found together or distributed throughout the manifestation. Record the number even when there is only one plate. Count unnumbered leaves or pages of plates as they present themselves, regardless of terms used to describe the rest of the manifestation. For a plate folded and bound at the inner margin, see [6.21.427](/DCRMR/phys-desc/Extent-of-manifestation/#621427-folded-plates).
 
 > Example:  
 > <CITE>xii, 277, [11] pages, 48 pages of plates</CITE> 
@@ -270,7 +270,7 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 
 #### 6.21.427 Folded plates
 
-<a name="6.21.427.1">6.21.427.1</a>  Record folded plates as leaves or pages of plates. Count a plate folded and attached at one of its outer margins as one folded leaf of plates. Count a plate folded and attached at its fold as two leaves of plates. Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves of plates if considered important (see [6.215.427.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.427.1)).
+<a name="6.21.427.1">6.21.427.1</a>  Record folded plates as leaves or pages of plates. Count a plate folded and attached at one of its outer margins as one folded leaf of plates. Count a plate folded and bound at the inner margin as two leaves of plates. Make a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) to indicate any folded letterpress leaves of plates if considered important (see [6.215.427.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.427.1)).
 
 >Example:  
 > <CITE>[8], 30, [8], 31-213, [3] pages, [3] folded leaves of plates</CITE>

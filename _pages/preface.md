@@ -17,33 +17,33 @@ DCRMR can be downloaded as a PDF: [DCRMR PDF](https://rbms-bsc.github.io/DCRMR/a
 
 ### Editors
 
-Jessica Grzegorski, Principal Cataloging Librarian, Newberry Library
+Jessica Grzegorski, Newberry Library
 
-Elizabeth Hobart, Special Collections Cataloging Librarian, Pennsylvania State University Libraries
+Elizabeth Hobart, Pennsylvania State University Libraries
 
 ### Editorial Group Members
 
-Liz Adams, Rare Materials Cataloger, David M. Rubenstein Rare Book & Manuscript Library, Duke University
+Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University
 
-Amy Brown, Head of Metadata and Special Collections Technical Services, Boston College
+Amy Brown, Boston College
 
-Tammy Druash, Resource Description Librarian, University of North Florida
+Tammy Druash, University of North Florida
 
-Ryan Hildebrand, Special Collections and Authorities Cataloger, University of Oregon
+Ryan Hildebrand, University of Oregon
 
-Deborah J. Leslie, Senior Cataloger, Folger Shakespeare Library
+Deborah J. Leslie, Folger Shakespeare Library
 
-Matthew J. Murphy, Management Librarian, Cataloging and Metadata, Milwaukee Public Library
+Matthew J. Murphy, Milwaukee Public Library
 
-Iris O’Brien, Early Printed Collections Cataloguing and Processing Manager, British Library
+Iris O’Brien, British Library
 
 Elizabeth O’Keefe, Formerly of the Morgan Library & Museum
 
 ### Keepers of the Text
 
-kalan Knudson Davis, Special Collections Metadata Librarian, University of Minnesota Libraries
+kalan Knudson Davis, University of Minnesota Libraries
 
-Amy Tims, Cataloging Initiatives Librarian, American Antiquarian Society
+Amy Tims, American Antiquarian Society
 
 ## Current Status
 Minimum viable product containing book instructions. For review only.

@@ -85,7 +85,7 @@ sidebar:
 >Example:  
 ><CITE>Anno QVI seqVItVr VICtorIae honores, Castra ferente IVXta DettIngaM Ipso Rege GeorgIo In agro. Ipsis Calendis Januarii [1744]</CITE> 
 
-<a name="5.23.31.3">5.23.31.3</a> **Very long dates**. If the date on the preferred source of information is very long, substitute for it a formalized statement in square brackets. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and form of the statement if considered important (see [5.24.36.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.2)).
+<a name="5.23.31.3">5.23.31.3</a> **Very long dates**. If the date on the preferred source of information is very long, substitute for it a formalized statement in square brackets. If the supplied date includes a day/month, use the pattern: day, month, year. Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) concerning the source and form of the statement if considered important (see [5.24.36.2](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.2)).
 
 >Example:   
 >Date of publication: <CITE>[21 February 1476]</CITE>  
@@ -95,7 +95,8 @@ sidebar:
 <a name="5.23.31.35">5.23.31.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
 >Example:  
-><CITE>Anno D[omi]ni millesimo quingentesimo decimoquarto die vero vicesima mensis Decembris [20 December 1514]</CITE>
+><CITE>anno D[omi]ni millesimo quingentesimo decimoquarto die vero vicesima mensis Decembris [20 December 1514]</CITE>  
+>(*Comment*: Includes expanded brevigraph)
 
 <a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
 

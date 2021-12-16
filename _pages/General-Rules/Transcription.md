@@ -37,17 +37,15 @@ Chapter 8: Series
 
 ## 0.4.05 General guidelines on transcription
 
-<a name="0.4.05.1">0.4.05.1</a> Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
-Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.5](/DCRMR/general-rules/Transcription/#0.4.31.5)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
 ### 0.4.12 Letters and diacritical marks
 
 <a name="0.4.12.1">0.4.12.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [Early letterforms and symbols, 0.4.15.1](/DCRMR/general-rules/Transcription/#0.4.15.1)).
-
-<a name="0.4.12.2">0.4.12.2</a> *Optionally*, when converting uppercase to lowercase, add diacritical marks that are not present on the source of information in accordance with the pattern of usage in the text.
 
 ### 0.4.13 Ligatures
 
@@ -177,7 +175,9 @@ Establish the pattern of usage by examining text in the same typeface or writing
 ><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/And-Iehu-said-Vnto.png" alt="And Iehu sayd: Vnto whiche of al vs?" height="15" >  
 >Transcription:  
 >And Iehu sayd: Vnto whiche of al vs?  
->(*Comment*: Source uses a gothic typeface that does not distinguish between the letters i/j or the letters u/v)
+>(*Comment*: Source uses a gothic typeface that does not distinguish between the uppercase letters I/J or the uppercase letters U/V)
+
+<a name="0.4.23.5">0.4.23.5</a> *Optionally*, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) transcribing as J and U (see [1.25.3515.2](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.3)).
 
 ### 0.4.24 Final capital "I" in Latin
 
@@ -286,7 +286,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 ### 0.4.34 Punctuation within roman numerals
 
-<a name="0.4.34.1">0.4.34.1</a> Retain internal marks of punctuation appearing within roman numerals.
+<a name="0.4.34.1">0.4.34.1</a> Retain internal marks of punctuation appearing within roman numerals. However, omit internal spaces (see [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).
 
 >Example:  
 ><CITE>M.DCC.LXXXIV</CITE>
@@ -393,8 +393,8 @@ Do not supply marks of punctuation to indicate line breaks.
 ><CITE>Graecae grammatices</CITE>  
 >(*Source of information reads*: G R AE C AE GRAMMATICES)
 
->Example:
-><CITE>Leo Belgicus</CITE>
+>Example:  
+><CITE>Leo Belgicus</CITE>  
 >(*Source of information reads*: LE O BELGICV S)
 
 <a name="0.4.42.2">0.4.42.2</a> If a word is divided between the end of one line and the beginning of the next, transcribe it as a single word, ignoring the line break.
@@ -460,7 +460,7 @@ ET ITALIAE)
 ><CITE>KL Ianuarius habet dies xxxi</CITE>
 
 >Example:  
-><CITE>Music sellers to HRH the Prince of Wales</CITE>  
+><CITE>music sellers to HRH the Prince of Wales</CITE>  
 
 >Example:  
 ><CITE>A.B.C. indicateur alphabetique des chemins de fer et de la navigation</CITE>
@@ -641,7 +641,7 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 >Example:  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
-<a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) beings with an article, the first six words), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
+<a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
 <a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).  *Optionally*, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
@@ -754,7 +754,7 @@ See the instructions for specific types of dates as follows:
 * Title and statement of responsibility
 	* Title proper
 	* Other title information
-	* Statement of responsibility 
+	* Statement of responsibility relating to title proper
 * Edition
 	* Designation of edition
 	* Statement of responsibility relating to edition  
@@ -768,7 +768,7 @@ See the instructions for specific types of dates as follows:
 	* Statement of responsibility relating to series
 	* Numbering within sequence
 
-DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the Statement of responsibility element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
+DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
 
 DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction i.01.321.1](/DCRMR/introduction/#i.01.321.1)) and allows catalogers to accurately represent the resource as it describes itself ([Principle of DCRMR construction i.01.322.1](/DCRMR/introduction/#i.01.322.1)).
 

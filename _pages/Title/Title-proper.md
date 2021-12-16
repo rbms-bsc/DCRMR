@@ -102,7 +102,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >Example:  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
 >Note on title: <CITE>Title from Barbosa Machado.</CITE>  
->(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1))
+>(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described in note](/DCRMR/additional-notes/Manifestation-described-in/) (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
 
 ## 1.21.35 Title proper with supplementary or section designation or title
 
@@ -116,7 +116,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 ## 1.21.36 Abridgments of the title proper
 
-<a name="1.21.36.1">1.21.36.1</a> **General rule**. *Optionally*, if the title proper is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. Do not omit any of the first five words (or, if the Title proper beings with an article, the first six words).
+<a name="1.21.36.1">1.21.36.1</a> **General rule**. *Optionally*, if the title proper is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. Do not omit any of the first five words (or, if the Title proper begins with an article, the first six words).
 
 <a name="1.21.36.2">1.21.36.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title (or, if the alternative title begins with an article, the first six words).
 

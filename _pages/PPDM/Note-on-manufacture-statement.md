@@ -128,7 +128,7 @@ sidebar:
 <a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [5.325.31.4](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.4)).
 
 >Example:  
-><CITE>Parallel name of manufacturer on cover reads: “Imprimerie de Mme Ve Belin”</CITE>  
+><CITE>Parallel name of manufacturer on cover reads: Imprimerie de Mme Ve Belin</CITE>  
 >(*Comment*: The [Title proper](/DCRMR/title/Title-proper/) is in Latin. [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) on half-title verso reads: Ex typis Viduae Belin)
 
 ## 5.34.36 Date of manufacture notes

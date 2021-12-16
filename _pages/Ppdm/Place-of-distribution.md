@@ -32,7 +32,9 @@ sidebar:
 >Example:  
 ><CITE>Boston in N. England</CITE>  
 
-<a name="5.26.3.3">5.26.3.3</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the publication statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the distributor’s name, transcribe that information as part of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)).
+<a name="5.26.3.3">5.26.3.3</a> In general, transcribe the full address. Consider the sequence, layout, and typography of words in the distribution statement when determining the most appropriate element in which to transcribe the address. If address information is grammatically inseparable from the distributor’s name, transcribe that information as part of [Name of distributor](/DCRMR/ppdm/Name-of-distributor/) (see [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)).
+
+<a name="5.26.3.4">5.26.3.4</a> *Optionally*, omit, using the mark of omission, addresses and insignificant information appearing in the middle or end of the Place of distribution, unless information is grammatically inseparable, aids in identifying or dating the manifestation, or is considered important to the cataloging agency (e.g., for the purpose of capturing book trade data).
 
 ## 5.26.31 Place of distribution with initial prepositions, etc.
 

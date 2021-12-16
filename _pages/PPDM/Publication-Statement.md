@@ -95,7 +95,7 @@ sidebar:
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
-><CITE>London : sold for the author by J. Cuthell, Middle-Row, Holborn, 1798</CITE>  
+><CITE>London : Sold for the author by J. Cuthell, Middle-Row, Holborn, 1798</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 >Example:  
@@ -107,7 +107,7 @@ sidebar:
 <a name="5.2.335.4">5.2.335.4</a> If a statement relating to both distribution and manufacture is grammatically inseparable, treat them both as the publication statement. 
 
 >Example:  
-><CITE>London : Printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>
+><CITE>London : Printed by G. Paramore, North-Green, Worship-Street, and sold by G. Whitfield, at the Chapel in the City-Road, and at all the Methodist preaching-houses in town and country, 1792</CITE>  
 >(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="5.2.335.5">5.2.335.5</a> If grammatically separable, determine which statement is emphasized in the source, whether typographically (larger font size, uppercase letters, boldface, etc.) or by appearing first in sequence in the source, and treat that statement as a publication statement. Treat the other statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).

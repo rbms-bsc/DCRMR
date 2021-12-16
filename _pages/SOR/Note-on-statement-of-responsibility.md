@@ -78,7 +78,7 @@ sidebar:
 <a name="2.29.36.1">2.29.36.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsibility relating to title proper, 2.21.39.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.39.1)).
 
 >Example:  
-><CITE>“The life and character of Sir William Temple” in the first volume was written by his sister, Lady Martha Giffard</CITE>  
+><CITE>“The life and character of Sir William Temple” in the first volume was written by his sister, Martha, Lady Giffard</CITE>  
 
 ---
 

@@ -42,7 +42,7 @@ sidebar:
 >Parallel title proper: <CITE>Fabulae</CITE>  
 
 >Example:  
->Title proper: <CITE>Tefilot lerosh hashanah or The evening and morning service for the beginning of the year</CITE>
+>Title proper: <CITE>Tefilot lerosh hashanah, or, The evening and morning service for the beginning of the year</CITE>
 
 <a name="1.215.32.2">1.215.32.2</a> Transcribe as [Other title information](/DCRMR/title/Other-title-information) an earlier title in the same language as the [Title proper](/DCRMR/title/Title-proper) that appears on the title page.
 
