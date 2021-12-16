@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please submit any comments and feedback via the [Public Review of DCRMR Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfb8TYouqXXAqHO6mXLqbd33FF2UUKq3sBQFDgqXLAuQbaTkg/viewform){:target="_blank"}.
-
 ## Contents:
 {: .no_toc }
 

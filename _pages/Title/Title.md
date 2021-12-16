@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please submit any comments and feedback via the [Public Review of DCRMR Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfb8TYouqXXAqHO6mXLqbd33FF2UUKq3sBQFDgqXLAuQbaTkg/viewform){:target="_blank"}.
-
 ## 1.01.1 Sources of information
 
 <a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 

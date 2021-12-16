@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-Please submit any comments and feedback via the [Public Review of DCRMR Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfb8TYouqXXAqHO6mXLqbd33FF2UUKq3sBQFDgqXLAuQbaTkg/viewform){:target="_blank"}.
-
 ## 5.01.1 Sources of information
 
 <a name="5.01.1.1">5.01.1.1</a> The sources of information for the production, publication, distribution, and manufacture elements are the title page, colophon, other preliminaries, and dust jacket (see [Integrity of the copy, i.01.8.2](/DCRMR/introduction/#i.01.8.2)), in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). Consider the wording, layout, and typography of the manifestation itself when determining the most appropriate place to transcribe information relating to production,  publication, distribution, and manufacture. If the information for an element is not present in these sources, any source may be used to supply needed information (see [Transcription](/DCRMR/general-rules/Transcription/)). If statements belonging to different elements are found in separate sources, combine them to make a complete statement.  However, do not combine statements belonging to a single element when they appear in different sources within the manifestation.
