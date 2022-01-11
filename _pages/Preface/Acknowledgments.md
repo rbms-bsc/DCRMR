@@ -14,7 +14,7 @@ Writing a standard is intensive work performed by dedicated volunteers. Every me
 + Michelle Mascaro, editor (2017-2020)
 + Liz Adams
 + Amy Brown 
-+ kalan K Davis
++ kalan Knudson Davis
 + Tammy Druash
 + Ryan Hildebrand
 + Francis Lapka 
