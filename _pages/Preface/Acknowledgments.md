@@ -84,7 +84,7 @@ And by the glossary group:
 
 Thanks as well to the members of the [Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio){:target="_blank"} since work began in 2010.
 
-Thanks especially to volunteer reviewers during the BSC review: Liz Adams, Matthew Beacon, Erin Blake, Jennifer Dunlap, Maggie Long, Ann Myers, Jackie Parascandola, Lauren Reno, Jessie Sherwood, and Brittney Washington. 
+Thanks especially to volunteer reviewers during the BSC review: Liz Adams, Matthew Beacom, Erin Blake, Jennifer Dunlap, Maggie Long, Ann Myers, Jackie Parascandola, Lauren Reno, Jessie Sherwood, and Brittney Washington. 
 
 Our heartfelt thanks to the following libraries for generously providing meeting space for editorial group meetings: the Newberry Library (January 2015), the Houghton Library (January 2016), Georgia State University Library (January 2017), and the Folger Shakespeare Library (June 2019). Our deep thanks also to the Lewis Walpole Library for hosting biannual meetings of the Descriptive Cataloging of Rare Materials Task Force from 2014-2017. A special thank you to Ellen Cordes in particular for arranging the Walpole meeting, without which the Descriptive Cataloging of Rare Materials Task Force would not have been able to complete their charge.
 
