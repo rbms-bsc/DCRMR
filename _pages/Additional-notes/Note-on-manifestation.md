@@ -137,7 +137,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 <a name="9.3.38.1">9.3.38.1</a> Always record accompanying material (a manifestation  physically separate from and issued simultaneously (or nearly so) with another manifestation and generally intended to be used together with it) as an unstructured note, beginning with “Accompanied by” followed by a colon. See [Issued with](/DCRMR/additional-notes/Issued-with/) ([9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)) for manifestations issued on the same carrier.
 
-<a name="9.3.38.2">9.3.38.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.3.38.1](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.1).
+<a name="9.3.38.2">9.3.38.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.3.38.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.1).
 
 <a name="9.3.38.3">9.3.38.3</a> Record the name of the material, preceded by the number of physical units if considered important.
 

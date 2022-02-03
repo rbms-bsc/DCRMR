@@ -600,7 +600,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.4.65.1">0.4.65.1</a> If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
 
-Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
+Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
 
 >Example:  
 >Title proper: <CITE>[M]issae familiares</CITE>  

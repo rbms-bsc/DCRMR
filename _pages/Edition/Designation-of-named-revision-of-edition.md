@@ -67,7 +67,7 @@ sidebar:
 >Designation of named revision of edition: <CITE>third printing</CITE>  
 >Note on edition statement: <CITE>“Third printing / December 1983” from title page verso</CITE>
 
-<a name="3.24.32.3">3.24.32.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Always indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)).
+<a name="3.24.32.3">3.24.32.3</a> **Alternative rule**. If identification of the substantially unchanged impression is based on a publisher's code or number line, supply an appropriate statement in square brackets, as needed. Always indicate the basis for the statement in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1) and [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
 
 >Example:   
 >Designation of edition: <CITE>Second edition</CITE>  
