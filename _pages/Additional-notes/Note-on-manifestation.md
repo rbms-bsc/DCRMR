@@ -126,9 +126,9 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 <a name="9.3.36.1">9.3.36.1</a> If the preferred source of information bears a prominent date that does not clearly represent the [Date of publication](/DCRMR/ppdm/Date-of-publication/), [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), or [Date of manufacture](/DCRMR/ppdm/Date-of-manufacture/), either transcribe it as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a note on manifestation if considered important (see [5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2), [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2), [5.33.354.2](/DCRMR/ppdm/Date-of-manufacture/#5.33.354.2)).
 
-## 9.3.37 Note on imperfect exemplars
+## 9.3.37 Note on imperfect copies
 
-<a name="9.3.37.1">9.3.37.1</a> If no information about a perfect exemplar is available, always make a Note on manifestation indicating that the description is based on an imperfect exemplar (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
+<a name="9.3.37.1">9.3.37.1</a> If no information about a perfect copy is available, always make a Note on manifestation indicating that the description is based on an imperfect copy (see [Data provenance, 0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)).
 
 >Example:  
 ><CITE>Description based on an imperfect copy; title page torn with partial loss of text</CITE>
