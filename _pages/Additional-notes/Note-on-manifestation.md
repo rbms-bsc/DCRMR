@@ -171,7 +171,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >Accompanied by manifestation: <CITE>Accompanied by: 2 folded maps</CITE>  
 >Details on illustrative content: <CITE>Maps in pocket on inside back cover</CITE>
 
-For non-illustrative accompanying material issued in a pocket, specify the location in an unstructured note (see [9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)).
+For non-illustrative accompanying material issued in a pocket, specify the location in an unstructured note (see [9.3.38.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.2)).
 
 ---
 
