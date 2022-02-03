@@ -7,8 +7,6 @@ sidebar:
   nav: "docs"
 ---
 
-DCRMR is not yet approved for cataloging. At this time, please do not create bibliographic records with the DCRMR descriptive convention source code. When DCRMR is approved, updates will be posted under “Current status” in the [preface](/DCRMR/preface/) and on the [RBMS Bibliographic Standards Committee DCRM and RDA page](https://rbms.info/dcrm/rda/){:target="_blank"}, and will be announced via DCRM-L and other appropriate venues. (DCRMR Editors, November 10, 2021)
-
 ## Contents:
 {: .no_toc .text-delta }
 
