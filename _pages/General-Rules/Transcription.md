@@ -37,7 +37,7 @@ Chapter 8: Series
 
 ## 0.4.05 General guidelines on transcription
 
-<a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option in [RDA Toolkit: Transcription Guidelines](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-ad9f832e-c5c5-31f0-b928-2e860f8e4937){:target="_blank"} to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
 Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
@@ -233,7 +233,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
 >(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
-<a name="0.4.31.4">0.4.31.4</a> **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions:
+<a name="0.4.31.4">0.4.31.4</a> **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)):
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
 * [Square brackets](/DCRMR/general-rules/Transcription/#04355-square-brackets) (see [0.4.355.1](/DCRMR/general-rules/Transcription/#0.4.355.1))
 * [Virgules](/DCRMR/general-rules/Transcription/#0436-virgules) (see [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1))
@@ -600,7 +600,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.4.65.1">0.4.65.1</a> If a space for an initial letter has been left blank, supply the intended letter in square brackets, regardless of whether the letter has been executed in manuscript.
 
-Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
+Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
 
 >Example:  
 >Title proper: <CITE>[M]issae familiares</CITE>  
@@ -637,7 +637,7 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 
 <a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).  *Optionally*, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
-<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling.
+<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
 
 If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 

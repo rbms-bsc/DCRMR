@@ -9,9 +9,9 @@ sidebar:
 
 DCRMR is one of several manuals providing specialized cataloging rules for various formats of rare materials typically found in rare book, manuscript, and special collections repositories. Together, these manuals form Descriptive Cataloging of Rare Materials (DCRM), an overarching concept rather than a publication in its own right. 
 
-DCRMR is an RDA-compliant manual aligned with the RDA element set. When completed, DCRMR will be an integrated and consolidated manual, which will include instructions for rare materials in multiple formats (e.g., music, serials).  Currently, DCRMR allows for RDA-compliant rare book cataloging. Previous published editions of the [DCRM manuals](https://rbms.info/dcrm/){:target="_blank"} will not be deprecated and may be used when following the instructions in the [Original Toolkit](https://original.rdatoolkit.org/){:target="_blank"} or the *Anglo-American Cataloguing Rules*, second edition (AACR2).
+DCRMR is aligned with the RDA element set. When completed, DCRMR will be an integrated and consolidated manual, which will include instructions for rare materials in multiple formats (e.g., music, serials).  Currently, DCRMR allows for RDA-compliant rare book cataloging. Previous published editions of the [DCRM manuals](https://rbms.info/dcrm/){:target="_blank"} will not be deprecated and may be used when following the instructions in the [Original Toolkit](https://original.rdatoolkit.org/){:target="_blank"} or the *Anglo-American Cataloguing Rules*, second edition (AACR2).
 
-DCRMR can be downloaded as a PDF: [DCRMR PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition.pdf){:target="_blank"}; this copy is for review purposes only. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
+DCRMR can be downloaded as a PDF: [DCRMR PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition.pdf){:target="_blank"}. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
 
 ## RBMS RDA Editorial Group
 
@@ -46,7 +46,7 @@ kalan Knudson Davis, University of Minnesota Libraries
 Amy Tims, American Antiquarian Society
 
 ## Current Status
-Minimum viable product containing book instructions. For review only.
+Minimum viable product containing book instructions. Approved for cataloging, effective February 2, 2022.
 
 ## History of the revision process
 
