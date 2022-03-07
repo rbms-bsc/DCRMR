@@ -312,3 +312,6 @@ docs:
         url: /DCRMR/appendices/Appendix-j/
       - title: "K — Mapping from DCRM to DCRMR"
         url: /DCRMR/appendices/Appendix-k/
+        
+  - title: "Glossary"
+    url: /DCRMR/glossary/

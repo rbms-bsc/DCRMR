@@ -10,56 +10,38 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[Num](/DCRMR/glossary/Num/)
+[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) 
 
-[A](/DCRMR/glossary/A/)
+## Number
 
-[B](/DCRMR/glossary/B/)
+## A
 
-[C](/DCRMR/glossary/C/)
+<a name="Accompanying-material">Accompanying material</a>    
+Material issued with, and intended to be used with, the resource being cataloged.
 
-[D](/DCRMR/glossary/D/)
+<a name="Adaptation">Adaptation</a>   
+A new derivative work created by revision of a previously existing work that substantially changes the nature and content of that work.
 
-[E](/DCRMR/glossary/E/)
+<a name="Added-title-page">Added title page</a>  
+A title page preceding or following the title page chosen as the preferred source of information. An added title page may be more general or equally general. A series title page is an example of a more general title page; a title page in another language is an example of an equally general title page. See also [Title page](/DCRMR/glossary/#Title-page) and [Series title page](/DCRMR/glossary/#Series-title-page).
 
-[F](/DCRMR/glossary/F/)
+<a name="Alternative-title">Alternative title</a>   
+A second or subsequent independent title of manifestation that is joined to a preceding title by a conjunction such as "or" or its equivalent in another language. See also [Title](/DCRMR/glossary/#Title).
 
-[G](/DCRMR/glossary/G/)
+<a name="Area">Area</a>  
+A major section of the bibliographic description, comprising data of a particular category or set of categories. See also [Element](/DCRMR/glossary/#Element).
 
-[H](/DCRMR/glossary/H/)
+## B
 
-[I](/DCRMR/glossary/I/)
+<a name="Bibliographic-description">Bibliographic description</a>  
+A set of bibliographic data recording and identifying a publication, i.e., the description that begins with the title proper and ends with the last note. See also [Description](/DCRMR/glossary/#Description).
 
-[J](/DCRMR/glossary/J/)
+<a name="Broadside">Broadside</a>  
+See [Single-sheet publication](/DCRMR/glossary/#Single-sheet-publication).
 
-[K](/DCRMR/glossary/K/)
+<a name="Broadsheet">Broadsheet</a>  
+See [Single-sheet publication](/DCRMR/glossary/#Single-sheet-publication).
 
-[L](/DCRMR/glossary/L/)
+## C
 
-[M](/DCRMR/glossary/M/)
-
-[N](/DCRMR/glossary/N/)
-
-[O](/DCRMR/glossary/O/)
-
-[P](/DCRMR/glossary/P/)
-
-[Q](/DCRMR/glossary/Q/)
-
-[R](/DCRMR/glossary/R/)
-
-[S](/DCRMR/glossary/S/)
-
-[T](/DCRMR/glossary/T/)
-
-[U](/DCRMR/glossary/U/)
-
-[V](/DCRMR/glossary/V/)
-
-[W](/DCRMR/glossary/W/)
-
-[X](/DCRMR/glossary/X/)
-
-[Y](/DCRMR/glossary/Y/)
-
-[Z](/DCRMR/glossary/Z/)
+## D
