@@ -43,5 +43,7 @@ See [Single-sheet publication](/DCRMR/glossary/#Single-sheet-publication).
 See [Single-sheet publication](/DCRMR/glossary/#Single-sheet-publication).
 
 ## C
+<a name="Chief-title">Chief title</a>  
+The distinguishing word or sequence of words that names a publication, as given on the title page (or substitute). This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. See also [Title proper](/DCRMR/glossary/#title-proper).
 
 ## D
