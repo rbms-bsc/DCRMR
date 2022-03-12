@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) 
+[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) [E] (/DCRMR/glossary/#e)
 
 ## Number
 
@@ -47,3 +47,5 @@ See [Single-sheet publication](/DCRMR/glossary/#Single-sheet-publication).
 The distinguishing word or sequence of words that names a publication, as given on the title page (or substitute). This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. See also [Title proper](/DCRMR/glossary/#title-proper).
 
 ## D
+
+## E
