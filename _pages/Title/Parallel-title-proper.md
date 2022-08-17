@@ -27,7 +27,7 @@ sidebar:
 
 <a name="1.215.31.1">1.215.31.1</a> Transcribe parallel titles proper in the order indicated by their sequence on, or by the layout of, the title page.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Il mercurio italico, o sia, Ragguaglio generale intorno alla letterature, belle arti, utili scoperte, ec. di tutta l'Italia</CITE>  
 >Parallel title proper: <CITE>The Italian mercury, or, A general account concerning the literature, fine arts, useful discoveries, &c. of all Italy</CITE>
 
@@ -37,16 +37,16 @@ sidebar:
 
 <a name="1.215.32.1">1.215.32.1</a> Transcribe an original title in a language different from that of the [Title proper](/DCRMR/title/Title-proper) that appears on the title page as a parallel title proper, unless it is grammatically inseparable from another part of the description.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Fables</CITE>  
 >Parallel title proper: <CITE>Fabulae</CITE>  
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Tefilot lerosh hashanah, or, The evening and morning service for the beginning of the year</CITE>
 
 <a name="1.215.32.2">1.215.32.2</a> Transcribe as [Other title information](/DCRMR/title/Other-title-information) an earlier title in the same language as the [Title proper](/DCRMR/title/Title-proper) that appears on the title page.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>The adventures of Red Riding Hood</CITE>  
 >Other title information: <CITE>Little Red Riding Hood</CITE>
 

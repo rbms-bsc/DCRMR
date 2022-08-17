@@ -51,10 +51,10 @@ For incunabula, make a note on color printing if present (see [Details of color 
 
 <a name="6.23.32.2">6.23.32.2</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color as issued in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
 
->Example:  
+>**Example:**  
 >Color content: <CITE>hand colored</CITE>  
 >Details of color content: <CITE>Illustrations are hand colored, as issued</CITE>  
->(*Comment*: Title contains statement “embellished with colored engravings”)
+>>(*Comment*: Title contains statement “embellished with colored engravings”)
 
 <a name="6.23.32.3">6.23.32.3</a> If there is strong evidence that some exemplars of the manifestation were issued with hand coloring applied before distribution, and some without, record this information as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) instead of as Color content (see [6.235.33.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.2)).
 

@@ -47,7 +47,7 @@ sidebar:
 
 <a name="1.01.3.2">1.01.3.2</a> For transposed elements, always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Sonate à quatre mains pour le forte-piano, oeuvre 48</CITE>  
 >Note on title: <CITE>Work number appears after statement of responsibility on title page</CITE>  
 

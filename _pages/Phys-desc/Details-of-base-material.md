@@ -27,13 +27,13 @@ sidebar:
 
 <a name="6.255.3.1">6.255.3.1</a> Record details of base material if considered important (see [Base material, 6.25.3.3](/DCRMR/phys-desc/Base-material/#6.25.3.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Printed on vellum</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>“Of this edition fifty-eight copies have been printed on paper, and four on vellum”&#8208;&#8208;preliminary leaf</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>“Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper”&#8208;&#8208;unnumbered leaf preceding half title page</CITE>
 
 ---

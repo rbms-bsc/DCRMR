@@ -693,4 +693,5 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/) 
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/)
+[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Glossary")](/DCRMR/glossary/) 

@@ -49,3 +49,8 @@ The distinguishing word or sequence of words that names a publication, as given 
 ## D
 
 ## E
+
+---
+
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "K — Instruction mappings from DCRM to DCRMR")](/DCRMR/appendices/Appendix-k/)
+[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Changelog")](/DCRMR/changelog/)

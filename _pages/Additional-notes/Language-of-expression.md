@@ -27,13 +27,13 @@ sidebar:
 
 <a name="9.23.3.1">9.23.3.1</a> Make a note on the language of the expression if considered important. 
 
->Example:  
+>**Example:**  
 >Parallel Iroquois and English texts
 
->Example:  
+>**Example:**  
 >English text with Latin and French prose translations
 
->Example:  
+>**Example:**  
 >Text in romanized Arabic
 
 ---

@@ -57,9 +57,9 @@ Generally normalize punctuation and capitalization based on current conventions,
 
 For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}. However, do not follow Exception 1 in LC-PCC PS 1.7.5.4 regarding the transcription of birth and death symbols. Insert the symbol if it can be reproduced. Otherwise, describe the character in square brackets. 
 
->Example:  
+>**Example:**  
 ><CITE>A.J. Garnerin, aeronaute, inv. du parachute, né à Paris 1769, [dagger] 1813</CITE>  
->(*Source of information reads*: A.J. GARNERIN, AERONAUTE, Inv. du Parachute, Né à Paris 1769 &#8224; 1813)
+>>(*Source of information reads*: A.J. GARNERIN, AERONAUTE, Inv. du Parachute, Né à Paris 1769 &#8224; 1813)
 
 ### 0.4.15 Early letterforms and symbols
 
@@ -106,9 +106,9 @@ For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http
 
 <a name="0.4.16.3">0.4.16.3</a> If a brevigraph standing for an entire word appears in the source, supply instead the word itself, enclosed in square brackets. However, transcribe an ampersand or a Tironian sign "et" (&#8266;) as an ampersand. Enclose each expansion or supplied word in its own set of square brackets.
 
->Example:  
+>**Example:**  
 ><CITE>Sould by Will. Faithorne att [the] sign of [the] Shipp within Temple Bar</CITE>  
->(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Shipp within Temple Bar)
+>>(*Source of information reads*:  Sould by Will. Faithorne att ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Sign of ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) Shipp within Temple Bar)
 
 <a name="0.4.16.4">0.4.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [Conjectural and indecipherable text](/DCRMR/general-rules/Transcription/#0462-conjectural-and-indecipherable-text) (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
 
@@ -118,7 +118,7 @@ For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http
 
 Make an explanatory note.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
 >Note on title: <CITE>The following words in the title are represented by images: Lord Bute as a boot, city by a panorama of London with a view of St. Paul's Cathedral, bridge by an image of a bridge, hole by a black circle with uneven edges</CITE>
 
@@ -142,11 +142,11 @@ See also [Chronograms (0.4.25.1)](/DCRMR/general-rules/Transcription/#0.4.25.1) 
 
 Establish the pattern of usage by examining text in the same typeface or writing style (i.e., roman, italic, or gothic) in the resource being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface. 
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Les oeuures morales de Plutarque</CITE>  
 >Statement of responsibility relating to title proper: <CITE>translatees de grec en françois, reueues et corrigees en plusieurs passages par le translateur</CITE>  
->(*Source of information reads*: LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le translateur)  
->(*Comment*: In the manifestation, the body of the text in roman type shows consistent use of v for vowels or consonants in initial position and u for vowels or consonants elsewhere, e.g., "ville," "vn," "conuersation," "tout," and "entendu")
+>>(*Source of information reads*: LES OEVVRES MORALES DE PLVTARQVE, TRANSLATEES DE GREC EN FRANÇOIS, REVEVES ET corrigees en plusieurs passages par le translateur)  
+>>(*Comment*: In the manifestation, the body of the text in roman type shows consistent use of v for vowels or consonants in initial position and u for vowels or consonants elsewhere, e.g., "ville," "vn," "conuersation," "tout," and "entendu")
 
 <a name="0.4.23.2">0.4.23.2</a> If the pattern of usage cannot be determined within a reasonable amount of time and the provisions of [0.4.24](/DCRMR/general-rules/Transcription/#0424-final-capital-i-in-latin) and [0.4.25](/DCRMR/general-rules/Transcription/#0425-chronograms) do not apply, use this conversion table as a solution of last resort.
 
@@ -173,11 +173,11 @@ Establish the pattern of usage by examining text in the same typeface or writing
 
 <a name="0.4.23.4">0.4.23.4</a> If the manifestation uses a gothic typeface that does not distinguish between uppercase I and J or between uppercase U and V, and there is no need to convert the letters to lowercase, transcribe them as I and V respectively, even though the actual letterforms will more closely resemble a modern J and modern U.
 
->Example:  
+>**Example:**  
 ><img src="https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/And-Iehu-said-Vnto.png" alt="And Iehu sayd: Vnto whiche of al vs?" height="15" >  
 >Transcription:  
 >And Iehu sayd: Vnto whiche of al vs?  
->(*Comment*: Source uses a gothic typeface that does not distinguish between the uppercase letters I/J or the uppercase letters U/V)
+>>(*Comment*: Source uses a gothic typeface that does not distinguish between the uppercase letters I/J or the uppercase letters U/V)
 
 <a name="0.4.23.5">0.4.23.5</a> *Optionally*, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) transcribing as J and U (see [1.25.3515.2](/DCRMR/title/Variant-title-of-manifestation/#1.25.3515.3)).
 
@@ -185,13 +185,13 @@ Establish the pattern of usage by examining text in the same typeface or writing
 
 <a name="0.4.24.1">0.4.24.1</a> Do not convert to lowercase a final capital I in Latin texts when the final I is uppercase and the immediately preceding letters in the word are lowercase or smaller capital letters. Since this usage is not merely typographic but affects meaning, the capital must be left in that form.
 
->Example:  
+>**Example:**  
 ><CITE>M. AccI Plauti quae supersunt Comoediae</CITE>  
->(*Source of information reads*: <SMALLCAPS>m. accI plavti qvae svpersvnt comoediae</SMALLCAPS>)
+>>(*Source of information reads*: <SMALLCAPS>m. accI plavti qvae svpersvnt comoediae</SMALLCAPS>)
 
->Example:  
+>**Example:**  
 ><CITE>ValerI Andreae DesselI I.C. Bibliotheca Belgica</CITE>  
->(*Source of information reads*: <SMALLCAPS>valerI andreae desselI i.c. bibliotheca belgica</SMALLCAPS>)
+>>(*Source of information reads*: <SMALLCAPS>valerI andreae desselI i.c. bibliotheca belgica</SMALLCAPS>)
 
 <a name="0.4.24.2">0.4.24.2</a> If the letter occurs within the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title with the final capital I converted to ii (see [1.25.352.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.352.1)).
 
@@ -199,7 +199,7 @@ Establish the pattern of usage by examining text in the same typeface or writing
 
 <a name="0.4.25.1">0.4.25.1</a> Capital letters occurring apparently at random or in a particular sequence may represent a chronogram. Where there is good reason to assume that a chronogram is being used, do not convert letters considered part of the chronogram from uppercase to lowercase, or from lowercase to uppercase.
 
->Example:  
+>**Example:**  
 ><CITE>Ipso anno tertIo saeCVLarI typographIae DIVIno aVXILIo a gerManIs InVentae</CITE>
 
 For guidance on recording the chronogram as a date element, see the instructions for specific types of dates as follows:
@@ -213,25 +213,25 @@ For guidance on recording the chronogram as a date element, see the instructions
 
 <a name="0.4.31.1">0.4.31.1</a> Use modern punctuation conventions instead of transcribing punctuation as it appears on the source. 
 
->Example:  
+>**Example:**  
 ><CITE>Perdito & Perdita, or, The man & woman of the people</CITE>  
->(*Source of information reads*: Perdito & Perdita—or—the Man & Woman of the People)
+>>(*Source of information reads*: Perdito & Perdita—or—the Man & Woman of the People)
 
->Example:  
+>**Example:**  
 ><CITE>A musical entertainment perform’d on November XXII, 1683</CITE>  
->(*Source of information reads*: A musical entertainment perform’d on November XXII. 1683)
+>>(*Source of information reads*: A musical entertainment perform’d on November XXII. 1683)
 
 <a name="0.4.31.2">0.4.31.2</a> If the cataloging agency applies ISBD punctuation, omit punctuation present on the source that occurs at the end of an element.
 
->Example:  
+>**Example:**  
 ><CITE>London : Printed for A. Millar, over-against Catharine-Street in the Strand, M,DCC,LI [1751]</CITE>  
->(*Source of information reads*: London: Printed for A. Millar, over-against Catharine-street in the Strand. M,DCC,LI.)
+>>(*Source of information reads*: London: Printed for A. Millar, over-against Catharine-street in the Strand. M,DCC,LI.)
 
 <a name="0.4.31.3">0.4.31.3</a> Omit or add punctuation as needed for clarity.
 
->Example:  
+>**Example:**  
 ><CITE>Libres, libertad de cultos, libertad de palabra, libres de miseria, libres de temor</CITE>  
->(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
+>>(*Comment*: Commas added to represent breaks indicated by poster’s lettering style and word placement)
 
 <a name="0.4.31.4">0.4.31.4</a> **Alternative rule**.  Transcribe all punctuation as it appears on the source, with the exception of those marks covered in the following sub-instructions (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)):
 * [Ellipses](/DCRMR/general-rules/Transcription/#0435-ellipses) (see [0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1))
@@ -239,12 +239,12 @@ For guidance on recording the chronogram as a date element, see the instructions
 * [Virgules](/DCRMR/general-rules/Transcription/#0436-virgules) (see [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1))
 * [Line endings](/DCRMR/general-rules/Transcription/#0437-line-endings) (see [0.4.37.1](/DCRMR/general-rules/Transcription/#0.4.37.1))
 
->Example:  
+>**Example:**  
 ><CITE>Perdito & Perdita—or—The man & woman of the people</CITE>
 
 If a cataloging agency applies ISBD punctuation and the option for transcribing original punctuation is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
 
->Example:  
+>**Example:**  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-Street in the Strand., M,DCC,LI. [1751]</CITE>
 
 <a name="0.4.31.5">0.4.31.5</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., night-club, printers'). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
@@ -258,24 +258,24 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 <a name="0.4.32.1">0.4.32.1</a> Transcribe apostrophes as found. 
 
->Example:  
+>**Example:**  
 ><CITE>Uncle Wiggly's story book</CITE>
 
 <a name="0.4.32.2">0.4.32.2</a> Do not supply apostrophes not present in the source.
 
->Example:  
+>**Example:**  
 ><CITE>Scotlands speech to her sons</CITE>
 
 ### 0.4.33 Hyphens
 
 <a name="0.4.33.1">0.4.33.1</a> Transcribe hyphens used to connect the constituent parts of compound words, normalizing their form as necessary. 
 
->Example:  
+>**Example:**  
 ><CITE>A catalogue of the library of Yale-College in New-Haven</CITE>
 
 <a name="0.4.33.2">0.4.33.2</a> Do not supply hyphens not present in the source.
 
->Example:  
+>**Example:**  
 ><CITE>Report of the Boston Female Anti Slavery Society</CITE>
 
 <a name="0.4.33.3">0.4.33.3</a> For hyphens or other marks of punctuation used to connect a single word divided between two lines, see [Line endings](/DCRMR/general-rules/Transcription/#0437-line-endings) ([0.4.37.1](/DCRMR/general-rules/Transcription/#0.4.37.1)).
@@ -284,20 +284,20 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 <a name="0.4.34.1">0.4.34.1</a> Retain internal marks of punctuation appearing within roman numerals. However, omit internal spaces (see [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).
 
->Example:  
+>**Example:**  
 ><CITE>M.DCC.LXXXIV</CITE>
 
 ### 0.4.35 Ellipses
 
 <a name="0.4.35.1">0.4.35.1</a> Omit ellipses when present in the source.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>America, America, God shed his grace on thee and crown thy good with brotherhood</CITE>  
->(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood ...)
+>>(*Source of information reads*: ... America, America, God shed his grace on thee and crown thy good with brotherhood ...)
 
 <a name="0.4.35.2">0.4.35.2</a> *Optionally*, ellipses present in the source may be retained if considered important for meaning, clarity, or identification. If retained, make an explanatory note. 
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>...it felt like i knew you...</CITE>  
 >Note on title: <CITE>Ellipses in title appear on the source</CITE>
 
@@ -305,16 +305,16 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 <a name="0.4.355.1">0.4.355.1</a> Replace square brackets with parentheses when present in the source. Make an explanatory note if considered important.
 
->Example:  
+>**Example:**  
 >Other title information: <CITE>A treatise wherein this case (how to discerne Gods answers to our prayers) is briefly resolved</CITE>  
 >Note on title: <CITE>The words "how to discerne Gods answers to our prayers" on the title page are in square brackets</CITE>  
->(*Source of information reads*: A Treatise wherein this Case [How to discerne Gods answers to our prayers] is briefly resolved)
+>>(*Source of information reads*: A Treatise wherein this Case [How to discerne Gods answers to our prayers] is briefly resolved)
 
 <a name="0.4.355.2">0.4.355.2</a> *Optionally*, omit the square brackets. Make an explanatory note if considered important.
 
 >Date of publication: <CITE>MDCCLXXV</CITE>  
 >Note on publication statement: <CITE>On title page, the date of publication is enclosed by square brackets</CITE>  
->(*Source of information reads*: [MDCCLXXV])
+>>(*Source of information reads*: [MDCCLXXV])
 
 <a name="0.4.355.3">0.4.355.3</a> *Optionally*, square brackets present in the source may be retained if they indicate interpolation and are important for meaning and clarity. If retained, make an explanatory note.
 
@@ -326,9 +326,9 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 
 <a name="0.4.37.1">0.4.37.1</a> Omit hyphens or other marks of punctuation used to connect a single word divided between two lines or two portions of a line; transcribe as a single word, ignoring the punctuation. If the function of the hyphen is in doubt (e.g., if it might form part of a compound word), transcribe it.
 
->Example:  
+>**Example:**  
 ><CITE>I discorsi di Nicolo Machiauelli, sopra la prima deca di Tito Liuio</CITE>  
->(*Source of information reads (showing line endings)*:  
+>>(*Source of information reads (showing line endings)*:  
 >I DISCORSI DI NICO-  
 >LO MACHIAVELLI, SO-  
 >PRA LA PRIMA DECA DI  
@@ -340,24 +340,24 @@ Do not supply marks of punctuation to indicate line breaks.
 
 <a name="0.4.38.1">0.4.38.1</a> Transcribe as a single hyphen each distinct hyphen, dash, line, or underscore character used in the source, whether used as a substitute for one or more letters in a word or for an entire word.
 
->Example:  
+>**Example:**  
 ><CITE>Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty</CITE>  
->(*Source of information reads*: Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty)
+>>(*Source of information reads*: Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty)
 
 <a name="0.4.38.2">0.4.38.2</a> Transcribe asterisks as asterisks.
 
->Example:  
+>**Example:**  
 ><CITE>par Mr. B**</CITE> 
 
->Example:  
+>**Example:**  
 ><CITE>The conduct of the two B*****rs</CITE>
 
 <a name="0.4.38.3">0.4.38.3</a> If the values of the missing letters are known, and the decoded form is considered important for identification or access then make a note for the decoded form.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Clara H-d</CITE>  
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
->(*Source of information reads*:  Clara H_____d)
+>>(*Source of information reads*:  Clara H_____d)
 
 <a name="0.4.38.4">0.4.38.4</a> If punctuation substituting for letters occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), and the values of the missing letters are known, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
 
@@ -365,15 +365,15 @@ Do not supply marks of punctuation to indicate line breaks.
 
 <a name="0.4.385.1">0.4.385.1</a> Transcribe punctuation indicating an abbreviation, normalizing its form according to modern conventions.
 
->Example:  
+>**Example:**  
 ><CITE>Printed & sold by J. Preston</CITE>  
->(*Source of information reads*: Printed & sold by J: Preston)
+>>(*Source of information reads*: Printed & sold by J: Preston)
 
 <a name="0.4.385.2">0.4.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts, 0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1).)
 
->Example:  
+>**Example:**  
 ><CITE>Ie. recueil nouveaux</CITE>  
->(*Source of information reads*: I.<sup>E</sup> Recueil Nouveaux)
+>>(*Source of information reads*: I.<sup>E</sup> Recueil Nouveaux)
 
 ## 0.4.4 Spacing
 
@@ -381,26 +381,26 @@ Do not supply marks of punctuation to indicate line breaks.
 
 <a name="0.4.42.1">0.4.42.1</a> In general, follow modern spacing conventions when transcribing from the source. Make no attempt to preserve full or irregular spaces between letters within words. 
 
->Example:  
+>**Example:**  
 ><CITE>Graecae grammatices</CITE>  
->(*Source of information reads*: G R AE C AE GRAMMATICES)
+>>(*Source of information reads*: G R AE C AE GRAMMATICES)
 
->Example:  
+>**Example:**  
 ><CITE>Leo Belgicus</CITE>  
->(*Source of information reads*: LE O BELGICV S)
+>>(*Source of information reads*: LE O BELGICV S)
 
 <a name="0.4.42.2">0.4.42.2</a> If a word is divided between the end of one line and the beginning of the next, transcribe it as a single word, ignoring the line break.
 
->Example:  
+>**Example:**  
 ><CITE>De laudibus urbis Etruriae et Italiae</CITE>  
->(*Source of information reads (showing line endings)*:  
+>>(*Source of information reads (showing line endings)*:  
 DE LAVDI  
 BVS VRBIS ETRVRIAE  
 ET ITALIAE) 
 
->Example:  
+>**Example:**  
 ><CITE>Catalogus vniuersalis pro nundinis Francofurtensibus vernalibus de anno ... </CITE>  
->(*Source of information reads (showing line endings)*:  
+>>(*Source of information reads (showing line endings)*:  
 >CATALOGVS VNI-  
 >VERSALIS PRO NVN -  
 >DINIS FRANCOFVRTENSI-  
@@ -408,25 +408,25 @@ ET ITALIAE)
 
 <a name="0.4.42.3">0.4.42.3</a> Omit internal spaces when transcribing numbers (including roman numerals).
 
->Example:  
+>**Example:**  
 ><CITE>M.D.CC.XLIV</CITE>  
->(*Source of information reads*: M.  D.  CC. XLIV)
+>>(*Source of information reads*: M.  D.  CC. XLIV)
 
->Example:  
+>**Example:**  
 ><CITE>1/12000</CITE>  
->(*Source of information reads*: 1/12 000)
+>>(*Source of information reads*: 1/12 000)
 
 ### 0.4.43 Spacing between words
 
 <a name="0.4.43.1">0.4.43.1</a> If spacing between words in the source is ambiguous or lacking, include spaces in the transcription to separate the words as needed.
 
->Example:  
+>**Example:**  
 ><CITE>Founding fathers folly day</CITE>  
->(*Source of information reads*: Foundingfathersfollyday)
+>>(*Source of information reads*: Foundingfathersfollyday)
 
->Example:  
+>**Example:**  
 ><CITE>La morte d'Orfeo</CITE>  
->(*Source of information reads*: LAMORTE D'ORFEO)
+>>(*Source of information reads*: LAMORTE D'ORFEO)
 
 <a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
 
@@ -434,13 +434,13 @@ ET ITALIAE)
 
 <a name="0.4.44.1">0.4.44.1</a> Do not insert or delete spaces within or between words that merely represent variant or archaic spellings.
 
->Example:  
+>**Example:**  
 ><CITE>At the foot of the trail, Yo Semite Valley</CITE>  
->(*Source of information reads*: At the Foot of the Trail,&mdash;Yo Semite Valley)
+>>(*Source of information reads*: At the Foot of the Trail,&mdash;Yo Semite Valley)
 
->Example:  
+>**Example:**  
 ><CITE>Newhampshire & Vermont almanac</CITE>  
->(*Source of information reads*: Newhampshire & Vermont ALMANAC)
+>>(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
 <a name="0.4.44.2">0.4.44.2</a>  If the variant or archaic spellings occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
 
@@ -448,41 +448,41 @@ ET ITALIAE)
 
 <a name="0.4.45.1">0.4.45.1</a> Transcribe letters, initials, initialisms, and acronyms without internal spaces, regardless of how they appear in the source.
 
->Example:  
+>**Example:**  
 ><CITE>KL Ianuarius habet dies xxxi</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>music sellers to HRH the Prince of Wales</CITE>  
 
->Example:  
+>**Example:**  
 ><CITE>A.B.C. indicateur alphabetique des chemins de fer et de la navigation</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>F.S. Chanfrau in the character of "Mose"</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>drawn by M.B. Haynes, C.E.</CITE>
 
 <a name="0.4.45.2">0.4.45.2</a> Treat an abbreviation consisting of more than a single letter as if it were a distinct word, separating it with a space from preceding and succeeding words or initials.
 
->Example:  
+>**Example:**  
 ><CITE>Dn. Abrahami Calovii, SS. Theol. Doct. Prof. Publ.</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>par MM. B. Studer et A. Escher de la Linth</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>first collected by Chr. Ign. La Trobe</CITE>
 
 <a name="0.4.45.3">0.4.45.3</a> If two or more distinct initialisms (or sets of initials), acronyms, or abbreviations appear in juxtaposition, separate them with a space.
 
->Example:  
+>**Example:**  
 ><CITE>M. J.P. Rabaut</CITE>  
->(*Comment*: The first initial stands for Monsieur)
+>>(*Comment*: The first initial stands for Monsieur)
 
->Example:  
+>**Example:**  
 ><CITE>by D.L. M.A.</CITE>  
->(*Comment*: The first two initials stand for the author's forename and surname; the second two initials stand for "Master of Arts.”)
+>>(*Comment*: The first two initials stand for the author's forename and surname; the second two initials stand for "Master of Arts.”)
 
 ## 0.4.5 Omissions
 
@@ -490,25 +490,25 @@ ET ITALIAE)
 
 <a name="0.4.51.1">0.4.51.1</a> Indicate omissions in a quoted note or transcribed element by using the mark of omission. When using the mark of omission, generally give it with a space on either side. 
 
->Example:  
+>**Example:**  
 ><CITE>Printed by Leon. Lichfield ... and are to be sold by the Widow Howell</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Printed for John Melish, John Vallance, and H.S. Tanner ... by G. Palmer</CITE>
 
 <a name="0.4.51.2">0.4.51.2</a> However, give a space on only one side of the mark of omission if it is preceded by an opening parenthesis or opening square bracket; is followed by a closing parenthesis, closing square bracket, or comma; or, if using ISBD punctuation, comes at the end of an element.
 
->Example:  
+>**Example:**  
 ><CITE>Printed for the Widow Swart ..., 1688</CITE>  
->(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
+>>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
 
->Example:  
+>**Example:**  
 ><CITE>Se vend chez Audran aux Deux Piliers d'Or rue St. Jacques ..., [late 17th century]</CITE>
->(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
+>>(*Comment*: The mark of omission has a space on only one side because it is at the end of an element)
 
 <a name="0.4.51.3">0.4.51.3</a> *Exception*: instructions for some elements specify that certain omissions can be indicated by concisely summarizing the omitted text (in square brackets).  In such cases, do not record the mark of omission (for example, see [Name of publisher, 5.22.31.2](/DCRMR/ppdm/Name-of-publisher/#5.22.31.2)).
 
->Example:  
+>**Example:**  
 ><CITE>Printed for J. Round, R Gosling, T. Woodward [and 9 others]</CITE>
 
 ### 0.4.52 Information not considered part of any transcribed element
@@ -525,7 +525,7 @@ If considered important, give the omitted information in a note.
 
 If considered important, give the omitted text in a note.
 
->Example:  
+>**Example:**  
 >Designation of edition: <CITE>The second edition</CITE>  
 >Note on edition statement: <CITE>Edition statement from colophon; full colophon reads: This, the second edition of Le morte Darthur, with Aubrey Beardsley’s designs ... is limited to 1000 copies for the United Kingdom and 500 for America, after printing which the type has been distributed</CITE>
 
@@ -539,17 +539,17 @@ Make an explanatory note if considered important.
 
 For guidance on expanding brevigraphs (special marks of contraction in continuance of the manuscript tradition), see [0.4.16.1](/DCRMR/general-rules/Transcription/#0.4.16.1).
 
->Example:
+>**Example:**
 ><CITE>Multo[rum]</CITE>  
->(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol)
+>>(*Comment*: The word ends with a ![&lsqb;rum&rsqb;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png) symbol)
 
->Example:  
+>**Example:**  
 ><CITE>Spectrographie des rayons [gamma] par diffraction cristalline</CITE>  
->(*Comment*: The Greek symbol for "gamma" is used in the title)
+>>(*Comment*: The Greek symbol for "gamma" is used in the title)
 
->Example:  
+>**Example:**  
 ><CITE>Repertorium nouu[m] cum additionibus ad omnia opera Felini Sandei Farrariensis</CITE>  
->(*Comment*: "Nouum" on title page spelled with symbol similar to cursive "z")
+>>(*Comment*: "Nouum" on title page spelled with symbol similar to cursive "z")
 
 
 ### 0.4.62 Conjectural and indecipherable text
@@ -558,15 +558,15 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 
 Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text if considered important.
 
->Example:  
+>**Example:**  
 ><CITE>Amico[rum?]</CITE>  
->(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png ))
+>>(*Comment*: The word ends with a symbol of contraction that is conjectured to be a ![&#42845;](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/[rum]-1.png ))
 
->Example:  
+>**Example:**  
 ><CITE>Mr. [&#8208;&#8208;ch?], Cornhill</CITE>  
->(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/))
+>>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/))
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
 >Note on title: <CITE>Last word of the title is illegible; the conjecture is based on image content</CITE>
 
@@ -574,12 +574,12 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.4.63.1">0.4.63.1</a> If the description is based on an imperfect copy and the omission cannot be conjectured, then use the mark of omission enclosed in square brackets ([...]) to show lacunae in the resource.
 
->Example:  
+>**Example:**  
 >Place of publication: <CITE>En Barcelona</CITE>  
 >Name of publisher: <CITE>Por Sebastian Mateu[...], acosta de lua[...]</CITE>  
 >Note on publication statement: <CITE>Description based on an imperfect copy; title page torn with partial loss of imprint</CITE>
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>[...] modern minstrels</CITE>  
 >Note on title: <CITE>Description based on an imperfect copy; title torn, removing all lettering above lower portion of “modern”</CITE>  
 
@@ -589,7 +589,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.4.64.2">0.4.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item) if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755</CITE>  
 >Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer</CITE>  
 >Note on item: <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
@@ -602,14 +602,14 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-title/)). Make a note on [Modification of item](/DCRMR/additional-notes/Modification-of-item/) to describe any manuscript additions if considered important. Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to describe the absence of any manuscript additions if considered important. 
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>[M]issae familiares</CITE>  
 >Note on title: <CITE>Space for initial letter of first word of title left blank by printer</CITE>  
 >Modification of item: <CITE>Library's copy: Initial letter executed in red and blue ink</CITE>
 
 <a name="0.4.65.2">0.4.65.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets and make a [Note on title](/DCRMR/title/Note-on-title/) indicating uncertainty.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
 >Note on item: <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
@@ -621,16 +621,16 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 
 <a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “sic” or by “that is,” and the correction, all enclosed within square brackets.
 
->Example:  
+>**Example:**  
 ><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Constitutionalsit [sic]--Extra</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Archivum Eurasiae medii aeivi [that is, aevi]</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
 <a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
@@ -645,7 +645,7 @@ If the misprint or misspelling occurs in the first five words of the [Title prop
 
 <a name="0.4.73.1">0.4.73.1</a> Do not correct deliberately misspelled words. Make an explanatory note if considered important.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>The summer shower, or, Mademoiselle Par, a Pluye</CITE>  
 >Note on title: <CITE>"Par, a Pluye" is meant to be read as "parapluie"</CITE>
 
@@ -655,7 +655,7 @@ If considered important, record a [Variant title of manifestation](/DCRMR/title/
 
 <a name="0.4.74.1">0.4.74.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important.
 
->Example:  
+>**Example:**  
 >Other title information: <CITE>sent express to the Queen</CITE>  
 >Note on title: <CITE>The "u" in "Queen" in the title is turned</CITE>
 
@@ -688,7 +688,7 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 
 Make an explanatory note.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Here comes Santa Claus</CITE>  
 >Note on title: <CITE>Title words alternate vertically and horizontally, intersecting with shared letters, as in a crossword puzzle</CITE>
 
@@ -696,28 +696,28 @@ Make an explanatory note.
 
 <a name="0.4.86.1">0.4.86.1</a> Transcribe superscript and subscript characters on the line unless the sense would be affected (e.g., in a mathematical formula). Always transcribe a period in an abbreviation at the end of the abbreviation.
 
->Example:  
+>**Example:**  
 ><CITE>Mr. Jas. McAdam</CITE>  
->(*Source of information reads*: M.<sup>r</sup> J.<sup>as</sup> M<sup>c</sup>Adam)
+>>(*Source of information reads*: M.<sup>r</sup> J.<sup>as</sup> M<sup>c</sup>Adam)
 
->Example:  
+>**Example:**  
 ><CITE>M. Vdr. Gucht sculp.</CITE>  
->(*Source of information reads*: M. V.<sup>dr</sup> Gucht Sculp.)  
->(*Comment*: Engraver is Michael van der Gucht, also frequently known as Michael Vander Gucht)
+>>(*Source of information reads*: M. V.<sup>dr</sup> Gucht Sculp.)  
+>>(*Comment*: Engraver is Michael van der Gucht, also frequently known as Michael Vander Gucht)
 
->Example:  
+>**Example:**  
 ><CITE>Caroe. Watson</CITE>  
->(*Source of information reads*: Caro.<sup>e</sup> Watson)  
->(*Comment*: Engraver is Caroline Watson)
+>>(*Source of information reads*: Caro.<sup>e</sup> Watson)  
+>>(*Comment*: Engraver is Caroline Watson)
 
 ### 0.4.88 Numbers expressed as numerals or words
 
 <a name="0.4.88.1">0.4.88.1</a> When recording numbers expressed as numerals or as words in a transcribed element, transcribe them in the form in which they appear on the source of information. Apply the general guidelines on transcription as applicable. If the number occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for forms of the title with numbers converted to numerals or words if considered important (see [1.25.3583.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3583.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Fifty two sermons for every Sunday of the year MDCCXXVII</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>LI sermons</CITE>
 
 <a name="0.4.88.2">0.4.88.2</a> For dates of publication, distribution, and manufacture, transcribe the date as it appears. If the date is not in arabic numerals, add the equivalent year in arabic numerals in square brackets.
@@ -733,10 +733,10 @@ See the instructions for specific types of dates as follows:
 
 <a name="0.4.92.1">0.4.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by a case ending, or its transposition or omission would disturb the grammatical construction of information.
 
->Example:  
+>**Example:**  
 ><CITE>The posthumous works of Robert Hooke</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Brown's industrial gazetteer and hand-book of the Atchison, Topeka & Santa Fe R.R.</CITE>
 
 ### 0.4.94 Order and transposition
@@ -776,23 +776,23 @@ The following general rules about order and transposition apply. See also [Gramm
 
 <a name="0.4.94.5">0.4.94.5</a> Make a note to indicate the order in which the transposed information appears in the source.
 
->Example:  
+>**Example:**  
 ><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes</CITE>  
 >Note on statement of responsibility: <CITE>Author’s name transposed from head of title</CITE>  
->(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes)  
->(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
+>>(*Source of information reads*: T. Lucretius Carus Of the nature of things, in six books. Illustrated with proper and useful notes. Adorned with copper-plates, curiously engraved by Guernier and others. In two volumes)  
+>>(*Comment*: Information is transcribed in three elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.6">0.4.94.6</a>
 If information appears in scattered form on the preferred source of information but no transposition is needed and information about the specific placement of the scattered information is considered important, make a note to indicate the placement.
 
->Example:  
+>**Example:**  
 ><CITE>Drinking electricity / Tom Raworth</CITE>  
 >Note on statement of responsibility: <CITE>Type-signed at end of poem: Tom Raworth</CITE>  
->(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
+>>(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). The example is formatted according to ISBD for clarity)
 
 <a name="0.4.94.7">0.4.94.7</a> If the sequence and layout of the information in the source are ambiguous or otherwise insufficient to determine the order, transcribe the information in the order that makes the most sense. Make a note to indicate the ambiguity of the order in the source if considered important for identification or selection.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Our choice, Grover Cleveland, A.G. Thurman. Democratic nominees, for president, for vice president</CITE>  
 >Note on title: <CITE>Title assembled from words scattered on four banners, above and below the image</CITE>   
 

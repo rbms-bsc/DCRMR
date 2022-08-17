@@ -31,7 +31,7 @@ sidebar:
 
 <a name="5.35.31.2">5.35.31.2</a> If a [Date of publication](/DCRMR/ppdm/Date-of-publication/) does not appear on the manifestation and it is likely that the date of copyright or deposit represents the [Date of publication](/DCRMR/ppdm/Date-of-publication/), supply the date in square brackets as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) (see [5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1)). Always indicate the copyright date as the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.7)).
 
->Example:  
+>**Example:**  
 >Date of publication: <CITE>[1866]</CITE>  
 >Note on publication statement: <CITE>Date of publication based on copyright date. Copyright statement on title page verso reads: Entered according to Act of Congress, in the year 1866, by J.R. Jones, in the Clerk's Office of the District Court of the United States, in and for the Eastern District of Pennsylvania</CITE>  
 

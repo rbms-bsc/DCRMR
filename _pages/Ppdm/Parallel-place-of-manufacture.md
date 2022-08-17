@@ -33,7 +33,7 @@ sidebar:
 
 <a name="5.315.31.4">5.315.31.4</a> Transcribe remaining places appearing on the same source as the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) as Parallel places of manufacture. If a parallel place of manufacture is from a different source than the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/), make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 
->Example:  
+>**Example:**  
 >Place of manufacture: <CITE>Birminghamiae</CITE>  
 >Parallel place of manufacture: <CITE>Printed at Birmingham</CITE>  
 

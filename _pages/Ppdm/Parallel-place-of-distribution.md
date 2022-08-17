@@ -27,7 +27,7 @@ sidebar:
 
 <a name="5.265.31.1">5.265.31.1</a> Take parallel places of distribution from the same source as the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) on parallel places of distribution found elsewhere if considered important (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 
->Example:  
+>**Example:**  
 >Place of distribution: <CITE>Londini</CITE>  
 >Parallel place of distribution: <CITE>Sold in London</CITE>  
 

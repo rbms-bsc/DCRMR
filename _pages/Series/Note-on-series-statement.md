@@ -27,21 +27,21 @@ sidebar:
 
 <a name="8.29.31.1">8.29.31.1</a> Always note the source of any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the [Series statement](/DCRMR/series/Series-statement/), note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
 
->Example:    
+>**Example:**    
 ><CITE>Series title from head of title page; subseries title from endpapers</CITE>  
 
->Example:    
+>**Example:**    
 ><CITE>Series statement from page 4 of wrapper</CITE>  
 
->Example:    
+>**Example:**    
 ><CITE>Series number at head of series title</CITE>  
 
->Example:    
+>**Example:**    
 ><CITE>Series statement transposed from between title and imprint statement on title page</CITE>  
 
 <a name="8.29.31.2">8.29.31.2</a> Note any series information not transcribed in the [Series statement](/DCRMR/series/Series-statement/) if considered important.  
 
->Example:    
+>**Example:**    
 ><CITE>First in a series of tales from Sörmland</CITE>  
 
 <a name="8.29.31.3">8.29.31.3</a> If there is series numbering but no series title, always record any numbers or letters that imply a series in a Note on series statement (see [Numbering within sequence, 8.27.31.3](/DCRMR/series/Numbering-within-sequence/#8.27.31.3)).

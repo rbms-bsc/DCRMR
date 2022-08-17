@@ -31,7 +31,7 @@ sidebar:
 
 <a name="1.2.31.1">1.2.31.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
 >Note on title: <CITE>Running title: The womans lawier</CITE>  
 

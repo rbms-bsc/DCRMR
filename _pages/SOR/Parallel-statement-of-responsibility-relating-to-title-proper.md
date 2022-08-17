@@ -29,9 +29,9 @@ sidebar:
 
 <a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
 
->Example:   
+>**Example:**   
 ><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter … = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>  
->(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/); [Parallel title proper](/DCRMR/title/Parallel-title-proper/); Parallel statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
+>>(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/); [Parallel title proper](/DCRMR/title/Parallel-title-proper/); Parallel statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.215.31.3">2.215.31.3</a> For transposed elements, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
 

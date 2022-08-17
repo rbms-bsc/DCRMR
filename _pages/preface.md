@@ -13,6 +13,9 @@ DCRMR is aligned with the RDA element set. When completed, DCRMR will be an inte
 
 DCRMR can be downloaded as a PDF: [DCRMR PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition.pdf){:target="_blank"}. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
 
+Information regarding the RBMS RDA Editorial Group’s preferred fonts is available on the [DCRMR Wiki: Preferred fonts](https://github.com/rbms-bsc/DCRMR/wiki/Preferred-fonts){:target="_blank"}.
+	
+
 ## RBMS RDA Editorial Group
 
 ### Editors

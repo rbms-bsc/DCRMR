@@ -27,7 +27,7 @@ sidebar:
 
 <a name="9.12.3.1">9.12.3.1</a> If the work being described is a dissertation or thesis presented in partial fulfillment of the requirements for an academic degree, record the [Academic degree](/DCRMR/additional-notes/Academic-degree/), [Degree granting institution](/DCRMR/additional-notes/Degree-granting-institution/), and [Year degree granted](/DCRMR/additional-notes/Year-degree-granted/) if known. 
 
->Example:  
+>**Example:**  
 ><CITE>Thesis (doctoral)&#8208;&#8208;Universität Rostock, 1668</CITE>
 
 <a name="9.12.3.2">9.12.3.2</a> If the work is a revision or abridgment of a thesis, state this in a [Note on work](/DCRMR/additional-notes/Note-on-work/) (see [9.1.3.1](/DCRMR/additional-notes/Note-on-work/#9.1.3.1)).

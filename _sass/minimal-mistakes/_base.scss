@@ -111,12 +111,12 @@ blockquote {
   margin: 0em 0em 0em 0;
   margin-bottom: 0em;
   margin-top: 0em;
+  margin-left: 1.5em;
   line-height: 1.3;
   padding-top: 0em;
   padding-right: 1em;
   padding-bottom: 0em;
-  padding-left: 1em;
-  border-left: 1.5em solid $background-color;
+  padding-left: .5em;
   font-size: 17px;
   table{
   border: 0px solid black;
@@ -124,7 +124,7 @@ blockquote {
   cite {
 	font-family: $sans-serif;
     font-style: normal; 
-	 font-weight: normal;  
+	 font-weight: 500;  
     font-size: 17 px;
     &:before {
       padding-right: 0px;

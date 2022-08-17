@@ -41,9 +41,9 @@ sidebar:
 
 <a name="5.25.33.1">5.25.33.1</a> If the resource bears only a statement relating to distribution or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
->Example:  
+>**Example:**  
 >Publication statement: <CITE>Se vend a Paris : Chez Briasson, ruë Saint Jaques à la Science, M.D.CC.XXXIII [1733]</CITE>  
->(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ## 5.25.34 Statements relating to publication and to distribution
 
@@ -53,13 +53,13 @@ sidebar:
 
 <a name="5.25.34.3">5.25.34.3</a>  If grammatically inseparable, transcribe it as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 
->Example:  
+>**Example:**  
 >Publication statement: <CITE>Londini : Sumptibus Guil. Wells & Rob. Scott, apud quos prostant ad insignia Principis in vico Little Britain dicto, MDCLXXII [1672]</CITE>  
->(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
->Example:  
+>**Example:**  
 >Publication statement: <CITE>London : Published and sold by C. Corbett, opposite St. Dunstan's Church in Fleet-Street and at all the pamphlet-shops, MDCCXL [1740]</CITE>  
->(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 <a name="5.25.34.4">5.25.34.4</a> If a statement with grammatically inseparable elements contains information relating both to the distribution of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the distribution statement or as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) (see [2.21.38.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.2)). Often the layout of the source will suggest the appropriate treatment.
 
