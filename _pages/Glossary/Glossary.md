@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) [E] (/DCRMR/glossary/#e)
+[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) [E](/DCRMR/glossary/#e)
 
 ## Number
 
