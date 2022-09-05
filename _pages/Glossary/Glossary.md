@@ -10,7 +10,7 @@ sidebar:
 ## Contents:
 {: .no_toc }
 
-[A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) [E](/DCRMR/glossary/#e) [F](/DCRMR/glossary/#f) [G](/DCRMR/glossary/#g) [H](/DCRMR/glossary/#h) [I](/DCRMR/glossary/#i) [L](/DCRMR/glossary/#l) [M](/DCRMR/glossary/#m) [N](/DCRMR/glossary/#n) [O](/DCRMR/glossary/#o) [P](/DCRMR/glossary/#p) [R](/DCRMR/glossary/#r) [S](/DCRMR/glossary/#s) [T](/DCRMR/glossary/#t) [U](/DCRMR/glossary/#u) [V](/DCRMR/glossary/#v) [W](/DCRMR/glossary/#w)
+[Number](/DCRMR/glossary/#number) [A](/DCRMR/glossary/#a) [B](/DCRMR/glossary/#b) [C](/DCRMR/glossary/#c) [D](/DCRMR/glossary/#d) [E](/DCRMR/glossary/#e) [F](/DCRMR/glossary/#f) [G](/DCRMR/glossary/#g) [H](/DCRMR/glossary/#h) [I](/DCRMR/glossary/#i) [J](/DCRMR/glossary/#j) [K](/DCRMR/glossary/#k) [L](/DCRMR/glossary/#l) [M](/DCRMR/glossary/#m) [N](/DCRMR/glossary/#n) [O](/DCRMR/glossary/#o) [P](/DCRMR/glossary/#p) [Q](/DCRMR/glossary/#q) [R](/DCRMR/glossary/#r) [S](/DCRMR/glossary/#s) [T](/DCRMR/glossary/#t) [U](/DCRMR/glossary/#u) [V](/DCRMR/glossary/#v) [W](/DCRMR/glossary/#w) [X](/DCRMR/glossary/#x) [Y](/DCRMR/glossary/#y) [Z](/DCRMR/glossary/#z)
 
 ## Number
 
@@ -23,7 +23,7 @@ Material issued with, and intended to be used with, the resource being cataloged
 A new derivative work created by revision of a previously existing work that substantially changes the nature and content of that work.
 
 <a name="added-title-page">added title page</a>  
-A title page preceding or following the title page chosen as the preferred source of information. An added title page may be more general or equally general. A series title page is an example of a more general title page; a title page in another language is an example of an equally general title page. *See also* [title page](/DCRMR/glossary/#title-page); [series title page](/DCRMR/glossary/#series-title-page).
+A title page preceding or following the title page chosen as the preferred source of information. An added title page may be more general or equally general. A series title page is an example of a more general title page; a title page in another language is an example of an equally general title page. *See also* [title page](/DCRMR/glossary/#title-page) and [series title page](/DCRMR/glossary/#series-title-page).
 
 <a name="alternative-title">alternative title</a>   
 A second or subsequent independent title of a resource that is joined to a preceding title by a conjunction such as “or” in English  or its equivalent in another language. *See also* [title](/DCRMR/glossary/#title).
@@ -36,7 +36,10 @@ A major section of ISBD bibliographic description, comprising data of a particul
 <a name="bibliographic-description">bibliographic description</a>  
 A set of bibliographic data recording and identifying a resource, i.e., the description that begins with the title proper and ends with the last note. *See also* [description](/DCRMR/glossary/#description).
 
-<a name="broadside-broadsheet">broadside, broadsheet</a>  
+<a name="broadsheet">broadsheet</a>  
+*See* [single-sheet publication](/DCRMR/glossary/#single-sheet-publication).
+
+<a name="broadside">broadside</a>  
 *See* [single-sheet publication](/DCRMR/glossary/#single-sheet-publication).
 
 ## C
@@ -54,7 +57,7 @@ A physical medium in which text, data, sound, images, and other kinds of content
 A word under the last line of text on a page that repeats the first word on the following page.
 
 <a name="chief-source-of-information">chief source of information</a>  
-*See* [preferred source of information](/DCRMR/glossary/#preferred-source-of-information)
+*See* [preferred source of information](/DCRMR/glossary/#preferred-source-of-information).
 
 <a name="chief-title">chief title</a>  
 The distinguishing word or sequence of words that names a resource, as given on the title page (or substitute). This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. *See also* [title proper](/DCRMR/glossary/#title-proper).
@@ -156,8 +159,7 @@ All copies of a textual manifestation produced in the course of one printing eve
 Text hand-lettered on an item prior to acquisition by the repository, especially when for documentation or commemoration.
 
 <a name="integral">integral</a>  
-1. A leaf is integral to a gathering if it is conjugate with another leaf in the gathering. 
-2. A leaf is integral to a publication if it can be assumed to be present in all copies represented by the bibliographic description. Leaves added after publication by an owner (e.g., extra-illustrated copies) or by a binder are not considered integral to the publication and thus must be described in item-specific notes.
+1\. A leaf is integral to a gathering if it is conjugate with another leaf in the gathering. 2. A leaf is integral to a publication if it can be assumed to be present in all copies represented by the bibliographic description. Leaves added after publication by an owner (e.g., extra-illustrated copies) or by a binder are not considered integral to the publication and thus must be described in item-specific notes.
 
 <a name="issue">issue</a>  
 A group of published copies of a textual manifestation which constitutes a consciously planned publishing unit, distinguishable from other groups of published copies by one or more differences designed expressly to identify the group as a discrete unit.
@@ -165,10 +167,14 @@ A group of published copies of a textual manifestation which constitutes a consc
 <a name="item">item</a>  
 A single exemplar or instance of a resource.
 
+## J
+
+## K
+
 ## L
 
 <a name="leaf">leaf</a>  
-A unit of extent that forms a subunit of a volume; each leaf consists of two pages, one on each side, either or both of which may be blank. *See also* [conjugate leaves](/DCRMR/glossary/#conjugate-leaves); [double leaf](/DCRMR/glossary/#double-leaf).
+A unit of extent that forms a subunit of a volume; each leaf consists of two pages, one on each side, either or both of which may be blank. *See also* [conjugate leaves](/DCRMR/glossary/#conjugate-leaves) and [double leaf](/DCRMR/glossary/#double-leaf).
 
 <a name="leaf-of-plates">leaf of plates</a>  
 A plate in a resource that also has one or more leaves or pages of text (whether preliminary text or text proper). Plates may be described in terms of pages of plates if they are numbered as pages or are unnumbered and have illustrative matter on both sides. *See also* [plate](/DCRMR/glossary/#plate).
@@ -235,14 +241,15 @@ The source of bibliographic data to be given preference as the source from which
 <a name="preliminaries">preliminaries</a>  
 The title page(s) of a resource, the verso of the title page(s), any pages preceding the title page(s), and the cover.
 
+## Q
+
 ## R
 
 <a name="RDA-entity">RDA entity</a>  
 An abstract class of key conceptual objects in the universe of human discourse that are a focus of interest to users of RDA metadata in a system for resource discovery. An RDA entity includes an agent, collective agent, corporate body, expression, family, item, manifestation, nomen, person, place, timespan, and work.
 
 <a name="recto">recto</a>  
-1. The page of a resource intended to be read after its facing page (i.e., the right-hand page for left-to-right reading scripts and the left-hand page for right-to-left reading scripts), usually bearing an odd page number if the volume is paginated. 
-2. The side of a printed sheet intended to be read first. *See also* [verso](/DCRMR/glossary/#verso).
+1\. The page of a resource intended to be read after its facing page (i.e., the right-hand page for left-to-right reading scripts and the left-hand page for right-to-left reading scripts), usually bearing an odd page number if the volume is paginated. 2. The side of a printed sheet intended to be read first. *See also* [verso](/DCRMR/glossary/#verso).
 
 <a name="running-title">running title</a>  
 A title, or abbreviated title, that is repeated at the head or foot of each page or leaf. *See also* [title](/DCRMR/glossary/#title).
@@ -253,12 +260,12 @@ A title, or abbreviated title, that is repeated at the head or foot of each page
 A group of separate resources related to one another by the fact that each resource bears, in addition to its own title proper, a collective title applying to the group as a whole. The individual resource may or may not be numbered.
 
 <a name="series-title-page">series title page</a>  
-An added title page bearing a series title proper and usually, though not necessarily, other information about a series such as statement of responsibility, numeric designation, data relating to publication, title of the resource within the series. *See also* [added title page](/DCRMR/glossary/#added-title-page); [title](/DCRMR/glossary/#title).
+An added title page bearing a series title proper and usually, though not necessarily, other information about a series such as statement of responsibility, numeric designation, data relating to publication, title of the resource within the series. *See also* [added title page](/DCRMR/glossary/#added-title-page) and [title](/DCRMR/glossary/#title).
 
 <a name="signature">signature</a>  
-A letter, numeral, symbol, or a group of such characters, printed at the foot of the rectos of the first few leaves of an intended gathering for the purpose of aiding binders in correctly assembling the sections. *See also* [bibliographic format](/DCRMR/glossary/#bibliographic-format); [gathering](/DCRMR/glossary/#gathering).
+A letter, numeral, symbol, or a group of such characters, printed at the foot of the rectos of the first few leaves of an intended gathering for the purpose of aiding binders in correctly assembling the sections. *See also* [bibliographic format](/DCRMR/glossary/#bibliographic-format) and [gathering](/DCRMR/glossary/#gathering).
 
-<a name="single-sheet-publication">single sheet publication</a>  
+<a name="single-sheet-publication">single-sheet publication</a>  
 A publication printed on a single or composite piece of paper or other material; it may be printed on one or both sides and may be bound or unbound. The content of a single-sheet publication, as here defined, is predominantly textual in nature, though it may contain illustrations that are subordinate or coordinate to the text.
 
 <a name="source-of-information">source of information</a>  
@@ -282,7 +289,7 @@ A series within a series, that is, a series that always appears in conjunction w
 A content type consisting of content expressed through a form of notation for language intended to be perceived through touch. Braille text and other tactile forms of language notation are included.
 
 <a name="title">title</a>  
-A word, phrase, character, or group of characters, normally appearing in a resource, that names the resource or the work contained in it. *See also* [alternative title](/DCRMR/glossary/#alternative-title), [chief title](/DCRMR/glossary/#chief-title), [other title information](/DCRMR/glossary/#other-title-information), [parallel title](/DCRMR/glossary/#parallel-title), [title proper](/DCRMR/glossary/#title-proper), [variant title](/DCRMR/glossary/#variant-title).
+A word, phrase, character, or group of characters, normally appearing in a resource, that names the resource or the work contained in it. *See also* [alternative title](/DCRMR/glossary/#alternative-title), [chief title](/DCRMR/glossary/#chief-title), [other title information](/DCRMR/glossary/#other-title-information), [parallel title](/DCRMR/glossary/#parallel-title), [title proper](/DCRMR/glossary/#title-proper), and [variant title](/DCRMR/glossary/#variant-title).
 
 <a name="title-proper">title proper</a>  
 The chief title of a resource, together with any title information preceding the chief title and any alternative title. This definition excludes parallel titles and any other title information following the chief title. *See also* [chief title](/DCRMR/glossary/#chief-title).
@@ -307,8 +314,7 @@ Term loosely used in describing a manifestation of an edition, state, impression
 A title associated with a resource that differs from a title recorded as a title proper, a parallel title proper, other title information, parallel other title information, earlier title proper, later title proper, key title, or abbreviated title.
 
 <a name="verso">verso</a>  
-1. The page of a resource intended to read before its facing page (i.e., the left-hand page for left-to-right reading scripts and the right-hand page for right-to-left reading scripts), usually bearing an even page number if the volume is paginated. 
-2. The side of a printed sheet intended to be read second. *See also* [recto](/DCRMR/glossary/#recto).
+1\. The page of a resource intended to read before its facing page (i.e., the left-hand page for left-to-right reading scripts and the right-hand page for right-to-left reading scripts), usually bearing an even page number if the volume is paginated. 2. The side of a printed sheet intended to be read second. *See also* [recto](/DCRMR/glossary/#recto).
 
 ## W
 
@@ -317,6 +323,12 @@ A distinct intellectual or artistic creation, that is, the intellectual or artis
 
 <a name="wrapper;-wrappers">wrapper; wrappers</a>  
 *See* [cover](/DCRMR/glossary/#cover).
+
+## X
+
+## Y
+
+## Z
 
 ---
 
