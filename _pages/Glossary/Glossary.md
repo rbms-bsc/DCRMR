@@ -63,7 +63,7 @@ A word under the last line of text on a page that repeats the first word on the 
 *See* [preferred source of information](/DCRMR/glossary/#preferred-source-of-information).
 
 <a name="chief-title">chief title</a>  
-The distinguishing word or sequence of words that names a resource, as given on the title page (or substitute). This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. *See also* [title proper](/DCRMR/glossary/#title-proper).
+The distinguishing word or sequence of words that names a resource, as given on the title page (or substitute). This definition excludes alternative titles, parallel titles, other title information, and subsidiary title information preceding the chief title on the title page, such exclusion resulting usually in a short title. *See also* [title](/DCRMR/glossary/#title) *and* [title proper](/DCRMR/glossary/#title-proper).
 
 <a name="chronogram">chronogram</a>  
 A phrase, sentence, or other text in which the numeric values of certain letters (usually distinguished typographically or visually) express a date when added together.
@@ -230,7 +230,8 @@ A title borne by a resource other than the title proper or parallel or series ti
 A rectangular section formed by the creases in a single-sheet resource that has been issued folded but is intended to be used unfolded.
 
 <a name="parallel-title">parallel title</a>  
-A title proper in another language or script. An alternative title in another language or script is treated as part of a parallel title proper.
+A title proper in another language or script. An alternative title in another 
+language or script is treated as part of a parallel title proper. *See also* [title](/DCRMR/glossary/#title).
 
 <a name="perfect-copy">perfect copy</a>  
 A copy of a publication that is physically complete and correctly arranged, as issued.
@@ -260,7 +261,7 @@ A title, or abbreviated title, that is repeated at the head or foot of each page
 ## S
 
 <a name="series">series</a>  
-A group of separate resources related to one another by the fact that each resource bears, in addition to its own title proper, a collective title applying to the group as a whole. The individual resource may or may not be numbered.
+A group of separate resources related to one another by the fact that each resource bears, in addition to its own title proper, a collective title applying to the group as a whole. The individual resource may or may not be numbered. *See also* [subseries](/DCRMR/glossary/#subseries).
 
 <a name="series-title-page">series title page</a>  
 An added title page bearing a series title proper and usually, though not necessarily, other information about a series such as statement of responsibility, numeric designation, data relating to publication, title of the resource within the series. *See also* [added title page](/DCRMR/glossary/#added-title-page) *and* [title page](/DCRMR/glossary/#title-page).
@@ -292,13 +293,13 @@ A series within a series, that is, a series that always appears in conjunction w
 A content type consisting of content expressed through a form of notation for language intended to be perceived through touch. Braille text and other tactile forms of language notation are included.
 
 <a name="title">title</a>  
-A word, phrase, character, or group of characters, normally appearing in a resource, that names the resource or the work contained in it. *See also* [alternative title](/DCRMR/glossary/#alternative-title), [chief title](/DCRMR/glossary/#chief-title), [other title information](/DCRMR/glossary/#other-title-information), [parallel title](/DCRMR/glossary/#parallel-title), [title proper](/DCRMR/glossary/#title-proper), *and* [variant title](/DCRMR/glossary/#variant-title).
+A word, phrase, character, or group of characters, normally appearing in a resource, that names the resource or the work contained in it. *See also* [alternative title](/DCRMR/glossary/#alternative-title), [caption title](/DCRMR/glossary/#caption-title), [chief title](/DCRMR/glossary/#chief-title), [collective title](/DCRMR/glossary/#collective-title), [cover title](/DCRMR/glossary/#cover-title), [half title](/DCRMR/glossary/#half-title), [other title information](/DCRMR/glossary/#other-title-information), [parallel title](/DCRMR/glossary/#parallel-title), [running title](/DCRMR/glossary/#running-title), [title proper](/DCRMR/glossary/#title-proper), *and* [variant title](/DCRMR/glossary/#variant-title).
 
 <a name="title-page">title page</a>  
 A page at the beginning of a resource bearing the title proper and usually, though not necessarily, the statement(s) of responsibility and the data relating to publication, distribution, manufacture, etc. The leaf bearing the title page is commonly called the "title page" although properly called the "title leaf." *See also* [added title page](/DCRMR/glossary/#added-title-page) *and* [series title page](/DCRMR/glossary/#series-title-page).
 
 <a name="title-proper">title proper</a>  
-The chief title of a resource, together with any title information preceding the chief title and any alternative title. This definition excludes parallel titles and any other title information following the chief title. *See also* [chief title](/DCRMR/glossary/#chief-title).
+The chief title of a resource, together with any title information preceding the chief title and any alternative title. This definition excludes parallel titles and any other title information following the chief title. *See also* [chief title](/DCRMR/glossary/#chief-title) *and* [title](/DCRMR/glossary/#title).
 
 <a name="transcription">transcription</a>  
 In a bibliographic description, giving textual information as it appears in the resource being described, but in accordance with rules governing the extent to which the information may be normalized to facilitate consistency, readability, and access.
@@ -317,7 +318,7 @@ A resource that is created by a producer and not offered for sale or public dist
 Term loosely used in describing a manifestation of an edition, state, impression, etc., showing some visually or bibliographically significant difference from one or more other manifestations of the same edition, state, impression, etc.
 
 <a name="variant-title">variant title</a>  
-A title associated with a resource that differs from a title recorded as a title proper, a parallel title proper, other title information, parallel other title information, earlier title proper, later title proper, key title, or abbreviated title.
+A title associated with a resource that differs from a title recorded as a title proper, a parallel title proper, other title information, parallel other title information, earlier title proper, later title proper, key title, or abbreviated title. *See also* [title](/DCRMR/glossary/#title).
 
 <a name="verso">verso</a>  
 1\. The page of a resource intended to read before its facing page (i.e., the left-hand page for left-to-right reading scripts and the right-hand page for right-to-left reading scripts), usually bearing an even page number if the volume is paginated. 2. The side of a printed sheet intended to be read second. *See also* [recto](/DCRMR/glossary/#recto).
