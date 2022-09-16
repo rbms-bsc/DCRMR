@@ -44,13 +44,12 @@ Amy Tims, Keeper of the Text
 
 ### 2020/2021
 
-Amy Brown
+Amy Brown  
 Tammy Druash  
 kalan Knudson Davis, Keeper of the Text  
-Jessica Grzegorski
-Ryan Hildebrand
+Jessica Grzegorski  
+Ryan Hildebrand  
 Elizabeth Hobart, Editor  
-Francis Lapka  
 Deborah J. Leslie  
 Michelle Mascaro, Editor  
 Iris O'Brien  
@@ -60,15 +59,27 @@ Amy Tims, Keeper of the Text
 ### 2019/2020
 
 Amy Brown  
-kalan Knudson Davis 
+kalan Knudson Davis  
+Jessica Grzegorski  
 Elizabeth Hobart, Editor    
 Francis Lapka  
 Deborah J. Leslie  
 Michelle Mascaro, Editor  
 Iris O'Brien  
 Elizabeth O'Keefe  
-Audrey Pearson, Keeper of the Text  
 Amy Tims, Keeper of the Text  
+
+## 2018/2019
+
+Amy Brown  
+kalan Knudson Davis  
+Elizabeth Hobart  
+Francis Lapka  
+Deborah J. Leslie  
+Michelle Mascaro, Editor  
+Iris O’Brien  
+Audrey Pearson, Keeper of the Text  
+Amy Tims
 
 ---
 
