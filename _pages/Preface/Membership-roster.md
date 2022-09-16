@@ -45,8 +45,8 @@ Amy Tims, Keeper of the Text
 ### 2020/2021
 
 Amy Brown  
-Tammy Druash  
 kalan Knudson Davis, Keeper of the Text  
+Tammy Druash  
 Jessica Grzegorski  
 Ryan Hildebrand  
 Elizabeth Hobart, Editor  
