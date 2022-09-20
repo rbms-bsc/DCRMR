@@ -51,7 +51,7 @@ Jessica Grzegorski
 Ryan Hildebrand  
 Elizabeth Hobart, Editor  
 Deborah J. Leslie  
-Michelle Mascaro, Editor  
+Michelle Mascaro
 Iris O'Brien  
 Elizabeth O'Keefe  
 Amy Tims, Keeper of the Text
