@@ -114,12 +114,12 @@ sidebar:
 >**Example:**  
 >Name of publisher: <CITE>Chez Hubert Jaillot aux deux Globes [that is, Pieter Mortier]</CITE>  
 >Note on publication statement: <CITE>Corrected publisher from Koeman</CITE>  
->>(*Comment*: The formal citation for Koeman’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Koeman’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Name of publisher: <CITE>Bey Dodsley und Compagnie [that is, Jobst Hermann Flörke]</CITE>  
 >Note on publication statement: <CITE>The imprint is false; in fact published by Jobst Hermann Flörke in Danzig (now Gdansk) according to Hayn</CITE>  
->>(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Hayn’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.22.35 Supplied and conjectured names of publishers
 
@@ -128,7 +128,7 @@ sidebar:
 >**Example:**  
 >Name of publisher: <CITE>[Stephan Plannck]</CITE>  
 >Note on publication statement: <CITE>Publisher’s name from Goff</CITE>  
->>(*Comment*: The formal citation for Goff’s bibliography of incunabula in American libraries is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Goff’s bibliography of incunabula in American libraries is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.22.36 Publishers identified by addresses, signs, initials, or devices 
 
@@ -145,7 +145,7 @@ sidebar:
 >**Example:**  
 >Name of publisher: <CITE>Printed by T.H. for I.P. and are to be sold by Richard Thrale, dwelling in Pauls Church-yard at the signe of the Crosse-Keyes</CITE>  
 >Note on publication statement: <CITE>Printed by Thomas Harper for John Parker according to Pollard’s Short-title catalogue</CITE>  
->>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
 
 <a name="5.22.36.2">5.22.36.2</a> If the identification of the publisher is based on a device, supply the name of the publisher in square brackets, even if the device includes the publisher’s initials or spelled-out name. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) about the basis for the identification (see [5.24.34.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.34.6)).
 

@@ -117,7 +117,7 @@ sidebar:
 >**Example:**  
 >Statement of responsibility relating to title proper: <CITE>by A- M-l Esq. and other eminent wits</CITE>  
 >Note on statement of responsibility: <CITE>A- M-l is Andrew Marvell. See English short title catalogue</CITE>  
->>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))  
+>>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
 
 ## 2.21.37 Nouns and noun phrases
 

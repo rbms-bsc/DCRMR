@@ -105,7 +105,7 @@ sidebar:
 >**Example:**  
 >Name of manufacturer: <CITE>Printed by James Robertson [that is, William A. Rind]</CITE>
 >Note on manufacture statement: <CITE>“Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, ‘praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly …’” (Tremaine)</CITE>  
->>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.32.35 Supplied and conjectured names of manufacturers
 
@@ -122,7 +122,7 @@ sidebar:
 >**Example:**  
 >Name of manufacturer: <CITE>[Cuchet] rue et Hôtel Serpente</CITE>  
 >Note on manufacture statement: <CITE>Cuchet listed as printer in Quérard, J.M. La France littéraire</CITE>  
->>(*Comment*: The formal citation for Quérard’s dictionary is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Quérard’s dictionary is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Name of manufacturer: <CITE>Printed [by C. Sympson] in Stonecutter-street, Fleet-Market</CITE>  

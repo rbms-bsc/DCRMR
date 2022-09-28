@@ -119,7 +119,7 @@ sidebar:
 >**Example:**  
 >Place of distribution: <CITE>Londini [that is, Leipzig]</CITE>  
 >Note on distribution statement: <CITE>Actual place of distribution is Leipzip according to the English short title catalogue</CITE>  
->>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.26.37 No place of distribution
 

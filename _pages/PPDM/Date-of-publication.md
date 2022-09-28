@@ -103,7 +103,7 @@ sidebar:
 >**Example:**  
 >Date of publication: <CITE>1785 [that is, 1795]</CITE>  
 >Note on publication statement: <CITE>Evans believes the date of publication to be a misprint for 1795, as many dates after 1785, including "Jan. 5th, 1792," are mentioned in the text</CITE>  
->>(*Comment*: The formal citation for Evans is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Evans is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Date of publication: <CITE>anno Dom. 1683 [that is, 1693]</CITE>  
@@ -165,7 +165,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >**Example:**  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
 >Note on publication statement: <CITE>Corrected imprint date from Wing</CITE>
->>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Date of publication: <CITE>anno Domini MCCCCCXXIX [1529, that is, 1539]</CITE>  
@@ -183,7 +183,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >**Example:**  
 >Date of publication: <CITE>[1723]</CITE>  
 >Note on publication statement: <CITE>Date of publication from Sabin</CITE>  
->>(*Comment*: The formal citation for Sabin’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Sabin’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.23.33 Conjectural date of publication
 

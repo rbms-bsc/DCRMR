@@ -141,7 +141,7 @@ sidebar:
 >**Example:**   
 >Publication statement: <CITE>[Passy, France] : [Benjamin Franklin], [1781]</CITE>  
 >Note on publication statement: <CITE>Imprint from Livingston</CITE>  
->>(*Comment*: The formal citation for Livingston’s bibliography of Franklin’s press at Passy is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)). The example is formatted according to ISBD for clarity)
+>>(*Comment*: The formal citation for Livingston’s bibliography of Franklin’s press at Passy is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)). The example is formatted according to ISBD for clarity)
 
 ---
 

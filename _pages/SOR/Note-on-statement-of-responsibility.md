@@ -45,19 +45,19 @@ sidebar:
 
 >**Example:**  
 ><CITE>By Louis-Antoine Caraccioli; author supplied by Barbier</CITE>  
->>(*Comment*: The formal citation for Barbier is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>>(*Comment*: The formal citation for Barbier is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known, and if considered important. Give the authority for the information whenever possible.
 
 >**Example:**  
 ><CITE>By Robert Parsons, S.J., writing under the pseudonym Andreas Philopater. See: Bibliothèque de la Compagnie de Jésus</CITE>  
->>(*Comment*: The formal citation for Bibliothèque de la Compagnie de Jésus is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2))) 
+>>(*Comment*: The formal citation for Bibliothèque de la Compagnie de Jésus is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2))) 
 
 <a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it if considered important.
 
 >**Example:**  
 >Sometimes attributed to Daniel Defoe (see Moore); attribution disputed by P.N. Furbank and W.R. Owens in their “Defoe de-attributions” (London, 1994)  
->>(*Comment*: The formal citation for Moore is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))  
+>>(*Comment*: The formal citation for Moore is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
 
 ## 2.29.34 Ambiguous statements of responsibility
 
@@ -67,7 +67,7 @@ sidebar:
 
 >**Example:**  
 >A- M-l is Andrew Marvell. See English short title catalogue  
->>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
 
 ## 2.29.35 Variant forms of names
 

@@ -602,10 +602,10 @@ sidebar:
 |	Accompanying material	|	7B11.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
 |	Series	|	7B12.	|	[8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)	|
 |	Dissertations	|	7B13.	|	[9.12.3.1](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1) [9.12.3.2](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2)	|
-|	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)	|
-|		|	7B14.1.	|	[9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)	|
-|		|	7B14.2.	|	[9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)	|
-|		|	7B14.3.	|	[9.32.32.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.32.1)	|
+|	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-by/#93231-references-to-published-descriptions)	|
+|		|	7B14.1.	|	[9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)	|
+|		|	7B14.2.	|	[9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)	|
+|		|	7B14.3.	|	[9.32.32.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.32.1)	|
 |	Summary	|	7B15.	|	[9.25.3.1](/DCRMR/additional-notes/Summarization-of-content/#9.25.3.1)	|
 |	Contents	|	7B16.	|	[9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)	|
 |		|	7B16.1.	|	[9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)	|

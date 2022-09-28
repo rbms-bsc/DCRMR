@@ -55,12 +55,12 @@ sidebar:
 >**Example:**  
 >Place of manufacture: <CITE>Oxford [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is false; actually printed in London according to Madan</CITE>  
->>(*Comment*: The formal citation for Madan’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Madan’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is fictitious; printed in London by Richard Field according to Pollard’s Short-title catalogue</CITE>  
->>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="5.34.32.4">5.34.32.4</a> **Supplied name for missing places of manufacture**. Always make a Note on manufacture statement to justify a supplied [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if the reason is not evident from the rest of the description (see [5.31.37.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.37.1)).
 
@@ -98,7 +98,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>“Though it bears the imprint of Robertson, the work on this publication was evidently done by his journeyman and successor, William Alexander Rind. The latter presented a petition to the Council, Apr. 20, 1790, ‘praying for some compensation for his extraordinary trouble in printing the Journal of the Assembly …’” (Tremaine)</CITE>  
->>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Tremaine’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="5.34.34.4">5.34.34.4</a> **Supplied and conjectured names of manufacturers**. Always make a Note on manufacture statement if no name, address, or device of a manufacturer appears on the manifestation or if the responsibility of a manufacturer for a particular manifestation is conjectured. In any case of a supplied manufacturer, give supporting evidence in a note on manufacture statement (see [Name of manufacturer, 5.32.35.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.35.1)).
 

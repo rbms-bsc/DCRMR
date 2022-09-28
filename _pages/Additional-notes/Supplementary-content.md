@@ -74,4 +74,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.32 — Manifestation described in")](/DCRMR/additional-notes/Manifestation-described-in/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.32 — Manifestation described by")](/DCRMR/additional-notes/Manifestation-described-by/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/)

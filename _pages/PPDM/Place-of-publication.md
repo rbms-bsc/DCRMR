@@ -184,12 +184,12 @@ sidebar:
 >**Example:**  
 >Place of publication: <CITE>Philadelphia [that is, Frankfurt]</CITE>  
 >Note on publication statement: <CITE>The imprint is false. According to Weller, E.O. Falsche Druckorte, this was actually published in Frankfurt by Herman</CITE>  
->>(*Comment*: The formal citation for Weller’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Weller’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 >**Example:**  
 >Place of publication: <CITE>A Cantorbery [that is, Amsterdam]</CITE>  
 >Note on publication statement: <CITE>Actually published in Amsterdam according to the Short title catalogue Netherlands</CITE>  
->>(*Comment*: The formal citation for the Short title catalogue Netherlands is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for the Short title catalogue Netherlands is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.21.37 No place of publication
 
@@ -249,7 +249,7 @@ sidebar:
 >**Example:**  
 >Place of publication: <CITE>[Providence?]</CITE>  
 >Note on publication statement: <CITE>Place of publication suggested by Alden</CITE>  
->>(*Comment*: The formal citation for Alden’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))  
+>>(*Comment*: The formal citation for Alden’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))  
 
 >**Example:**  
 >Place of publication: <CITE>[Durham?]</CITE>  

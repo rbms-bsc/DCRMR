@@ -108,7 +108,7 @@ sidebar:
 >**Example:**  
 >Place of manufacture: <CITE>Cosmopoli [that is, London]</CITE>  
 >Note on manufacture statement: <CITE>The place of manufacture is fictitious; printed in London by Richard Field according to Pollard’s Short-title catalogue</CITE>  
->>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Pollard’s Short-title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ## 5.31.37 No place of manufacture
 

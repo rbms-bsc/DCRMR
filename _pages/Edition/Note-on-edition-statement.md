@@ -48,7 +48,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Second edition (E.2A) as described by D. Smith</CITE>  
->>(*Comment*: The formal citation for D. Smith’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)))
+>>(*Comment*: The formal citation for D. Smith’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
 
 <a name="3.26.32.2">3.26.32.2</a> Make a note on statements referring to other editions (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
 

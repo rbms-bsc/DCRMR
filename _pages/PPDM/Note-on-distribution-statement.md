@@ -51,7 +51,7 @@ sidebar:
 >**Example:**  
 >Place of distribution: <CITE>Se vend a Astracan [that is, Paris]</CITE>  
 >Note on distribution statement: <CITE>Actual place of distribution from Weller E.O. Falsche Druckorte</CITE>  
->>(*Comment*: The formal citation for Weller’s bibliography is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Weller’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="5.285.32.4">5.285.32.4</a> **Supplied name for missing places of distribution**. Always make a Note on distribution statement to justify a supplied [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if the reason is not evident from the rest of the description  (see [5.26.37.1](/DCRMR/ppdm/Place-of-distribution/#5.26.37.1)).
 
@@ -122,7 +122,7 @@ sidebar:
 >**Example:**  
 >Date of distribution: <CITE>87 [that is, 1687]</CITE>  
 >Note on distribution statement: <CITE>Corrected date of distribution from Wing</CITE>   
->>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Wing’s Short-title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="5.285.36.4">5.285.36.4</a> **Julian/Old Style dates**. Always make a Note on distribution statement indicating the basis for the supplied year if the transcribed year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been distributed in the following year according to the modern European calendar (see [Date of distribution, 5.28.31.5](/DCRMR/ppdm/Date-of-distribution/#5.28.31.5)).
 
@@ -136,7 +136,7 @@ sidebar:
 >**Example:**  
 >Date of distribution: <CITE>MDLII [1552, that is, 1652]</CITE>  
 >Note on distribution statement: <CITE>Corrected date of distribution from Jesuit series. In Corpus librorum emblematum</CITE>  
->>(*Comment*: The formal citation for the Jesuit series. In Corpus librorum emblematum is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for the Jesuit series. In Corpus librorum emblematum is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="5.285.36.6">5.285.36.6</a> **Date of distribution supplied from reference sources**. If the [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) does not appear on the manifestation but is known, always give the source of the supplied date and any needed explanation in a Note on distribution statement (see [5.28.32.1](/DCRMR/ppdm/Date-of-distribution/#5.28.32.1)).
 
