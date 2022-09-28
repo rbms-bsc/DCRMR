@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.45.25 Related elements
 
-<a name="9.45.25.1">9.45.25.1</a> See [Issued with](/DCRMR/additional-notes/Issued-with/) for manifestations issued together by the publisher on the same carrier.
+<a name="9.45.25.1">9.45.25.1</a> See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) for manifestations issued together by the publisher on the same carrier.
 
 ## 9.45.3 General rule
 

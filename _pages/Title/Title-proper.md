@@ -142,7 +142,7 @@ reciprocatione sui & suus libellus</CITE>
 
 a) Transcribe the title and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) from the preferred source of information, and name the other expressions(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) 
 
-b) Make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1))  
+b) Make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1))  
 
 c) Supply a collective title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1).
 
@@ -188,11 +188,11 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 <a name="1.21.384.1">1.21.384.1</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). 
 
-<a name="1.21.384.2">1.21.384.2</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)).
+<a name="1.21.384.2">1.21.384.2</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)).
 
 ### 1.21.385 Two or more expressions or manifestations with separate publication, distribution, or manufacture statements on a single sheet
 
-<a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, or manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [Issued with, 9.34.3.1](/DCRMR/additional-notes/Issued-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
+<a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, or manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
 
 ---
 

@@ -615,7 +615,7 @@ sidebar:
 |	“With” notes	|	7B18.	|	[9.45.3](/DCRMR/additional-notes/Bound-with/#9453-general-rule)	|
 |		|	7B18.1.	|	[9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)	|
 |		|	7B18.2.	|	[9.45.3.2](/DCRMR/additional-notes/Bound-with/#9.45.3.2)	|
-|		|	7B18.3.	|	[9.34.25.1](/DCRMR/additional-notes/Issued-with/#9.34.25.1)	|
+|		|	7B18.3.	|	[9.34.25.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.25.1)	|
 |	Copy being described and library holdings (Local notes)	|	7B19.	|	[9.4.3](/DCRMR/additional-notes/Note-on-item/#943-general-rule)	|
 |	General rule	|	7B19.1.	|	[9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)	|
 |		|	7B19.1.1.	|	[9.4.3.2](/DCRMR/additional-notes/Note-on-item/#9.4.3.2)	|

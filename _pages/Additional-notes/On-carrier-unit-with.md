@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 9.34 — Issued with
-permalink: /DCRMR/additional-notes/Issued-with/
+title: 9.34 — On carrier unit with
+permalink: /DCRMR/additional-notes/On-carrier-unit-with/
 sidebar:
   nav: "docs"
 ---
