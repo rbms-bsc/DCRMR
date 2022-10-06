@@ -21,7 +21,7 @@ For a fuller discussion of the versioning and version numbering system, includin
 
 ## Current release
 
-DCRMR 2022.2.0.0   
+### DCRMR 2022.2.0.0   
 Release date: 2022-mm-dd  
 
 DCRMR 2022.2.0.0 adds a glossary based, in large part, on the glossaries in previous DCRM manuals, although some definitions have been updated to align with RDA terminology. The glossary covers terms applicable to all rare materials formats and those limited to books; other format-specific terms will be incorporated in future releases.
