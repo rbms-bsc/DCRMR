@@ -7,17 +7,17 @@ sidebar:
   nav: "docs"
 ---
 
+For a comprehensive list of changes, you can view commit details at the [DCRMR repository commit page for the main branch](https://github.com/rbms-bsc/DCRMR/commits/main).  
+
+For a fuller discussion of the versioning and version numbering system, including information about what is considered a major change, a minor change, or a bug fix, see [DCRMR Wiki: Changelog and Version Numbering](https://github.com/rbms-bsc/DCRMR/wiki/Changelog-versioning-system).
+
+---
+
 ## Contents:
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
-
-<hr>
-
-For a comprehensive list of changes, you can view commit details at the [DCRMR repository commit page for the main branch](https://github.com/rbms-bsc/DCRMR/commits/main).  
-
-For a fuller discussion of the versioning and version numbering system, including information about what is considered a major change, a minor change, or a bug fix, see [DCRMR Wiki: Changelog and Version Numbering](https://github.com/rbms-bsc/DCRMR/wiki/Changelog-versioning-system).
 
 ## Current release
 
