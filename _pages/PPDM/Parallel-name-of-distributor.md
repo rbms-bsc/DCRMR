@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.275.2.1">5.275.2.1</a> A nomen that is a name of distributor in another language or script.
 
-## 5.275.31 Distributor names in more than one language or script
+## 5.275.31 General rule
 
 <a name="5.275.31.1">5.275.31.1</a> Take parallel distributors’ names from the same source as the [Name of distributor](/DCRMR/ppdm/Name-of-distributor/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) for  parallel distributors’ names found elsewhere if considered important (see [5.285.35.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.35.1)).
 

@@ -29,7 +29,7 @@ sidebar:
 
 ## 3.24.3 General rule
 
-<a name="3.24.3.1">3.24.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to revision as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="3.24.3.1">3.24.3.1</a> If the manifestation is a named revision of an edition, transcribe the statement relating to revision in the form and order in which it is presented in the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**  
 >Designation of edition: <CITE>Third edition</CITE>  

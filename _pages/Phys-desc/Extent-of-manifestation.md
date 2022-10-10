@@ -23,6 +23,10 @@ sidebar:
 
 <a name="6.21.2.1">6.21.2.1</a> A number and type of unit or subunit of a manifestation.
 
+## 6.21.3.Y.Y General rule
+
+<a name="6.21.3.1.Y.Y">6.21.3.1.Y.Y</a> Record the number of units and the type of unit of which a manifestation is composed.
+
 ## 6.21.4 Extent of manifestations of text
 
 ### 6.21.42 Manifestations in one physical unit

@@ -25,6 +25,10 @@ sidebar:
 
 <a name="1.21.2.2">1.21.2.2</a> An alternative title is treated as part of a title proper.
 
+## 1.21.3.Y.Y General rule
+
+<a name="1.21.3.1.Y.Y">1.21.3.1.Y.Y</a> Transcribe the Title proper in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
+
 ## 1.21.31 Words considered part of the title proper
 
 <a name="1.21.31.1">1.21.31.1</a> The title proper is the first element of the description. Title information preceding the [chief title](/DCRMR/glossary/C/#chief-title) on the preferred source of information is considered part of the title proper if it is grammatically inseparable from the chief title. If the chief title is preceded or followed in the source by other elements of information, transpose these elements to their appropriate elements in the description unless case endings would be affected, the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from the title proper. In the latter cases, transcribe the information as part of the title proper.

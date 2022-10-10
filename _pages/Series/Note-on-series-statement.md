@@ -23,7 +23,9 @@ sidebar:
 
 <a name="8.29.2.1">8.29.2.1</a> A note on manifestation that provides information on a series with which a manifestation is associated.
 
-## 8.29.31 Note on series statement
+## 8.29.31 General rule
+
+<a name="8.29.3.1.Y.Y">8.29.3.1.Y.Y</a> Make a Note on series statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 <a name="8.29.31.1">8.29.31.1</a> Always note the source of any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the [Series statement](/DCRMR/series/Series-statement/), note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
 

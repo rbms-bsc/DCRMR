@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.225.2.1">5.225.2.1</a> A nomen that is a name of publisher in another language or script.
 
-## 5.225.31 Publisher names in more than one language or script
+## 5.225.31 General rule
 
 <a name="5.225.31.1">5.225.31.1</a> Take parallel publishers’ names from the same source as the [Name of publisher](/DCRMR/ppdm/Name-of-publisher). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement) on parallel publishers’ names found elsewhere if considered important (see [5.24.35.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.35.1)).
 

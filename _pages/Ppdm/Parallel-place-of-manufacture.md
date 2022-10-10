@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.315.2.1">5.315.2.1</a> A place of manufacture in another language or script.
 
-## 5.315.31 Manufacture place names in more than one language or script
+## 5.315.31 General rule
 
 <a name="5.315.31.1">5.315.31.1</a> Take parallel places of manufacture from the same source as the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) on parallel places of manufacture found elsewhere if considered important (see [5.34.33.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.33.1)).
 

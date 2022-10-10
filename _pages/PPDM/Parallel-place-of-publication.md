@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.215.2.1">5.215.2.1</a> A place of publication in another language or script.
 
-## 5.215.31 Publication place names in more than one language or script
+## 5.215.31 General rule
 
 <a name="5.215.31.1">5.215.31.1</a> Take parallel places of publication from the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) on parallel places of publication found elsewhere if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 

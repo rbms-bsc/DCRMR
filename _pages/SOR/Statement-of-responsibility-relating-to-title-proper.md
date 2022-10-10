@@ -25,9 +25,9 @@ sidebar:
 
 <a name="2.21.2.2">2.21.2.2</a> A statement of responsibility relating to title proper does not include a statement of responsibility relating to an edition or a series.
 
-## 2.21.31 Statements of responsibility on the preferred source of information
+## 2.21.31 General rule
 
-<a name="2.21.31.1">2.21.31.1</a> Transcribe Statements of responsibility relating to title proper found in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.04](/DCRMR/general-rules/Transcription/#0.4.94.04)).
+<a name="2.21.31.1">2.21.31.1</a> Transcribe Statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**  
 ><CITE>by Charles Fearne, Esq. barrister at law, of the Inner Temple, author of  The legigraphical chart of landed property</CITE>
@@ -44,7 +44,7 @@ sidebar:
 >**Example:**  
 ><CITE>illustrated by D. Maclise, R.A.</CITE>
 
-## 2.21.315 Statements of responsibility relating to title proper on other sources
+## 2.21.315 Statements of responsibility relating to title proper on sources other than the preferred source of information
 
 <a name="2.21.315.1">2.21.315.1</a> If a Statement of responsibility relating to title proper appears elsewhere in the manifestation than on the title page or is taken from outside the manifestation, do not record it in this element. Instead, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
 

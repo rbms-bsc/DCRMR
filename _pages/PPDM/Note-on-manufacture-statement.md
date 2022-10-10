@@ -23,6 +23,10 @@ sidebar:
 
 <a name="5.34.2.1">5.34.2.1</a> A note on manifestation that provides information on the manufacture of a manifestation.
 
+## 5.34.3.Y.Y General rule
+
+<a name="5.34.3.1.Y.Y">5.34.3.1.Y.Y</a> Make a Note on manufacture statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+
 ## 5.34.31 Manufacture statement notes
 
 <a name="5.34.31.1">5.34.31.1</a> **Sources of information**. Always note the source of any element of the [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) when it is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).

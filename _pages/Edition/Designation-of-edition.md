@@ -25,7 +25,7 @@ sidebar:
 
 ## 3.22.3 General rule
 
-<a name="3.22.3.1">3.22.3.1</a> Transcribe a statement relating to an edition or issue of a resource as it appears, as instructed in [Transcription](/DCRMR/general-rules/Transcription/). Include any explanatory words or phrases appearing with the designation of edition.
+<a name="3.22.3.1">3.22.3.1</a> Transcribe a statement relating to an edition or issue of a manifestation in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)). Include any explanatory words or phrases appearing with the designation of edition.
 
 >**Example:**  
 ><CITE>Editio prima Americana</CITE>  

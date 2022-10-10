@@ -23,9 +23,9 @@ sidebar:
 
 <a name="1.215.2.1">1.215.2.1</a> A nomen that is a title proper in another language or script.
 
-## 1.215.31 Order and source of parallel titles proper
+## 1.215.31 General rule
 
-<a name="1.215.31.1">1.215.31.1</a> Transcribe parallel titles proper in the order indicated by their sequence on, or by the layout of, the title page.
+<a name="1.215.31.1">1.215.31.1</a> Transcribe Parallel titles proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)). Transcribe Parallel titles proper according to the instructions for [Title proper](/title/Title-proper/).
 
 >**Example:**  
 >Title proper: <CITE>Il mercurio italico, o sia, Ragguaglio generale intorno alla letterature, belle arti, utili scoperte, ec. di tutta l'Italia</CITE>  

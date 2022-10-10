@@ -23,6 +23,10 @@ sidebar:
 
 <a name="2.29.2.1">2.29.2.1</a> A note on manifestation that provides information on an agent, and their function, who is responsible for a work or its expression that is embodied by a manifestation.
 
+## 2.29.3.Y.Y General rule
+
+<a name="2.29.3.1.Y.Y">2.29.3.1.Y.Y</a> Make a Note on statement of responsibility according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+
 ## 2.29.31 Statement of responsibility in source other than title page 
 
 <a name="2.29.31.1">2.29.31.1</a> If a statement of responsibility appears in a source other than on the title page, always record the statement and its source (see [Statement of responsibility relating to title proper, 2.21.315.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)).

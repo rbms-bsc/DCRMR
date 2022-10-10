@@ -23,9 +23,9 @@ sidebar:
 
 <a name="8.21.2.1">8.21.2.1</a> A nomen that is a title that identifies a series to which a manifestation belongs.
 
-## 8.21.31 Title proper of series
+## 8.21.31 General rule
 
-<a name="8.21.31.1">8.21.31.1</a> Transcribe the title of the series as it appears in the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="8.21.31.1">8.21.31.1</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  

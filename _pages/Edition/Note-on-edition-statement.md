@@ -23,6 +23,10 @@ sidebar:
 
 <a name="3.26.2.1">3.26.2.1</a> A note on manifestation that provides information on an edition of a manifestation.
 
+## 3.26.3.Y.Y General rule
+
+<a name="3.26.3.1.Y.Y">3.26.3.1.Y.Y</a> Make a Note on edition statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+
 ## 3.26.31 Source and position of edition statement
 
 <a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), and [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2)).

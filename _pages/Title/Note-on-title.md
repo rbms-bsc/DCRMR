@@ -23,6 +23,10 @@ sidebar:
 
 <a name="1.29.2.1">1.29.2.1</a> A note on manifestation that provides information on inaccuracies appearing in titles, complex changes in titles, or on other information relating to a title.
 
+## 1.29.3.Y.Y General rule
+
+<a name="1.29.3.1.Y.Y">1.29.3.1.Y.Y</a> Make a Note on title according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+
 ## 1.29.31 Note on the source of the title proper
 
 <a name="1.29.31.1">1.29.31.1</a> Always make a note on the source of the [Title proper](/DCRMR/title/Title-proper/) if it is from a title page substitute (e.g., the caption, docket, etc., see [1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)).

@@ -47,7 +47,7 @@ sidebar:
 
 ### i.01.22 Metadata encoding standards
 
-<a name="i.01.22.1">i.01.22.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards, such Dublin Core or BIBFRAME, or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendices. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
+<a name="i.01.22.1">i.01.22.1</a> At the time of publication, *MARC 21 Format for Bibliographic Data* is still the most commonly used metadata encoding standard for bibliographic cataloging. Use of DCRMR, however, is not restricted to MARC 21 and may be used with other metadata encoding standards, such as Dublin Core or BIBFRAME, or with production of printed or card catalogs. Use of MARC 21 coding appears only in some of the appendices. Catalogers should follow encoding standard documentation for input and be aware of how their local systems generate display. 
 
 ## i.01.3 Objectives and principles
 

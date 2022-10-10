@@ -25,7 +25,7 @@ sidebar:
 
 <a name="8.27.2.2">8.27.2.2</a> Numbering may include dates or other timespans, alphanumeric or other characters, and an accompanying caption.
 
-## 8.27.31 Series numbering
+## 8.27.31 General rule
 
 <a name="8.27.31.1">8.27.31.1</a> Transcribe series numbering as it appears in the manifestation as the last element in the [Series statement](/DCRMR/series/Series-statement/). If the numbering does not appear after the other series elements  in the source, transpose it as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
 

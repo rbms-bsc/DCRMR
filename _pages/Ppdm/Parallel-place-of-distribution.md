@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.265.2.1">5.265.2.1</a> A place of distribution in another language or script.
 
-## 5.265.31 Distribution place names in more than one language or script
+## 5.265.31 General rule
 
 <a name="5.265.31.1">5.265.31.1</a> Take parallel places of distribution from the same source as the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/). Make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) on parallel places of distribution found elsewhere if considered important (see [5.285.33.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.33.1)).
 

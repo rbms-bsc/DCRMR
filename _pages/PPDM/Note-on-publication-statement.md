@@ -23,6 +23,10 @@ sidebar:
 
 <a name="5.24.2.1">5.24.2.1</a> A note on manifestation that provides information on the publication of a manifestation.
 
+## 5.24.3.Y.Y General rule
+
+<a name="5.24.3.1.Y.Y">5.24.3.1.Y.Y</a> Make a Note on publication statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+
 ## 5.24.31 Publication statement notes
 
 <a name="5.24.31.1">5.24.31.1</a> **Sources of information**. Always note the source of any element of the [Publication statement](/DCRMR/ppdm/Publication-statement/) when it is taken from a source other than the preferred source of information (see [5.01.1.2](/DCRMR/ppdm/#5.01.1.2)).

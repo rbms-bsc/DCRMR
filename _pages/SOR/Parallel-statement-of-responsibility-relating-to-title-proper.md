@@ -23,6 +23,10 @@ sidebar:
 
 <a name="2.215.2.1">2.215.2.1</a> A statement of responsibility relating to title proper in another language or script.
 
+## 2.215.3.Y.Y General rule
+
+<a name="2.215.3.1.Y.Y">2.215.3.1.Y.Y</a> Transcribe Parallel statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.95.05](/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Statements of responsibility relating to title proper](/sor/Statement-of-responsibility-relating-to-title-proper/).
+
 ## 2.215.31 Statements of responsibility following titles in more than one language or script 
 
 <a name="2.215.31.1">2.215.31.1</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe it as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the title information.

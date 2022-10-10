@@ -25,6 +25,10 @@ sidebar:
 
 <a name="10.2.2.2">10.2.2.2</a> An identifier for the manifestation includes registered identifiers from internationally recognized schemes, other identifiers assigned by publishers and others following internally devised schemes, identifiers known as fingerprints constructed by combining groups of characters from specified pages of early printed resources, publisher's numbers for notated music, and plate numbers for notated music.
 
+## 10.2.3.Y.Y General rule
+
+<a name="10.2.3.1.Y.Y">10.2.3.1.Y.Y</a> Record identifiers associated with a manifestation if considered important.
+
 ## 10.2.31 Standard number
 
 <a name="10.2.31.1">10.2.31.1</a> Record the International Standard Book Number (ISBN) according to the form specified in relevant encoding standards.
