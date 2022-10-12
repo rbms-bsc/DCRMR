@@ -76,11 +76,11 @@ sidebar:
 >Note on distribution statement: <CITE>La Porterìa de San Martin is in Madrid</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.285.32.6">5.285.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1) and [Parallel place of distribution, 5.265.31.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.2)).
+<a name="5.285.32.6">5.285.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1) and [Parallel place of distribution, 5.265.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.2.Y.Y)).
 
 ## 5.285.33 Parallel place of distribution notes
 
-<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a parallel place of distribution found elsewhere in the resource from the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if considered important (see [Parallel place of distribution, 5.265.31.1](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.1) and [5.265.31.4](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.4)).
+<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a parallel place of distribution found elsewhere in the resource from the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if considered important (see [Parallel place of distribution, 5.265.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.1.Y.Y) and [5.265.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.4.Y.Y)).
 
 ## 5.285.34 Name of distributor notes
 
