@@ -125,14 +125,14 @@ sidebar:
 >Name of publisher: <CITE>[Richt Right Press]</CITE>  
 >Note on publication statement: <CITE>Device of the Richt Right Press on the title page</CITE>
 
-<a name="5.24.34.7">5.24.34.7</a> **Transposition of names of publisher in more than one language or script**. For transposed elements, always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script to indicate the original position on the source (see [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.31.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.2)).
+<a name="5.24.34.7">5.24.34.7</a> **Transposition of names of publisher in more than one language or script**. For transposed elements, always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script to indicate the original position on the source (see [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.2.Y.Y)).
 
 >**Example:**  
 ><CITE>Parallel name of publisher transposed from English title page facing main title page in German</CITE>
 
 ## 5.24.35 Parallel name of publisher notes
 
-<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource from the source of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important (see [Parallel name of publisher, 5.225.31.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.1) and [5.225.31.4](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.4)).
+<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource from the source of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important (see [Parallel name of publisher, 5.225.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.1.Y.Y) and [5.225.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.4.Y.Y)).
 
 ## 5.24.36 Date of publication notes
 
