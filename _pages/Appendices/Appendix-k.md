@@ -165,10 +165,10 @@ sidebar:
 |		|	1C2.1.	|	[1.215.32.1](/DCRMR/title/Parallel-title-proper/#1.215.32.1)	|
 |		|	1C2.2.	|	[1.215.32.2](/DCRMR/title/Parallel-title-proper/#1.215.32.2)	|
 |	Other title information	|	1D.	|	[1.23](/DCRMR/title/Other-title-information/)	|
-|	Order and source of other title information	|	1D1.	|	[1.23.29](/DCRMR/title/Other-title-information/#12329-order-and-source-of-other-title-information)	|
-|		|	1D1.1.	|	[1.23.29.1](/DCRMR/title/Other-title-information/#1.23.29.1)	|
-|		|	1D1.2.	|	[1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)	|
-|		|	1D1.3.	|	[1.23.29.3](/DCRMR/title/Other-title-information/#1.23.29.3)	|
+|	Order and source of other title information	|	1D1.	|	[1.23.3.Y.Y](/DCRMR/title/Other-title-information/#1233YY-general-rule)	|
+|		|	1D1.1.	|	[1.23.3.1.Y.Y](/DCRMR/title/Other-title-information/#1.23.3.1.Y.Y)	|
+|		|	1D1.2.	|	[1.23.3.2.Y.Y](/DCRMR/title/Other-title-information/#1.23.3.2.Y.Y)	|
+|		|	1D1.3.	|	[1.23.3.3.Y.Y](/DCRMR/title/Other-title-information/#1.23.3.3.Y.Y)	|
 |		|	1D1.4.	|	omitted	|
 |	Other title information beginning with prepositions, conjunctions, etc.	|	1D2.	|	[1.23.31](/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc)	|
 |	General rule.	|	1D2.1.	|	[1.23.31.1](/DCRMR/title/Other-title-information/#1.23.31.1)	|
