@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.25.3 General rule
 
-<a name="8.25.3.1">8.25.3.1</a> Transcribe a Statement of responsibility relating to series as it appears on the manifestation. If the statement of responsibility does not appear after the title of series in the source, transpose as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)). However, if the statement of responsibility is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
+<a name="8.25.3.1">8.25.3.1</a> Transcribe a Statement of responsibility relating to series as it appears on the manifestation. If the statement of responsibility does not appear after the title of series in the source, transpose as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). However, if the statement of responsibility is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
 
 >**Example:**    
 >Series statement: <CITE>Serie de libros de lectura / Mantilla</CITE>  

@@ -97,7 +97,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 <a name="9.3.34.1">9.3.34.1</a> Make a note on the fact that the expression is a reissue or reprint, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Reprinted as manifestation](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-0c96bf50-cb2c-32ed-a67e-f05576ab0b3e){:target="_blank"}).
 
-<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.31.4](/DCRMR/series/Note-on-series-statement/#8.29.31.4)).
+<a name="9.3.34.2">9.3.34.2</a> Give information about a series in which the resource has been issued previously if considered important (see [Note on series statement, 8.29.3.5.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.5.Y.Y)).
 
 >**Example:**  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>

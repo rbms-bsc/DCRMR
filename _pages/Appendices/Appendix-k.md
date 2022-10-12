@@ -600,7 +600,7 @@ sidebar:
 |		|	7B10.4.	|	[6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)	|
 |		|	7B10.5.	|	[6.32.3.3](/DCRMR/phys-desc/Type-of-binding/#6.32.3.3) [6.32.3.4](/DCRMR/phys-desc/Type-of-binding/#6.32.3.4) [9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)	|
 |	Accompanying material	|	7B11.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
-|	Series	|	7B12.	|	[8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)	|
+|	Series	|	7B12.	|	[8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)	|
 |	Dissertations	|	7B13.	|	[9.12.3.1](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1) [9.12.3.2](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2)	|
 |	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-by/#93231-references-to-published-descriptions)	|
 |		|	7B14.1.	|	[9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)	|
