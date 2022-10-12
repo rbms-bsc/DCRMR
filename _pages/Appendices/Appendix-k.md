@@ -336,7 +336,7 @@ sidebar:
 |		|	4B12.4.	|	[5.21.385.4](/DCRMR/ppdm/Place-of-publication/#5.21.385.4) [5.26.385.4](/DCRMR/ppdm/Place-of-distribution/#5.26.385.4)	|
 |	Place names in more than one language or script	|	4B13.	|	[5.21.39](/DCRMR/ppdm/Place-of-publication/#52139-place-names-in-more-than-one-language-or-script) [5.26.39](/DCRMR/ppdm/Place-of-distribution/#52639-place-names-in-more-than-one-language-or-script)	|
 |		|	4B13.1.	|	[5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)	|
-|		|	4B13.2.	|	[5.215.31.5](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.5) [5.265.3.5.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.5.Y.Y)	|
+|		|	4B13.2.	|	[5.215.3.5.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.5.Y.Y) [5.265.3.5.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.5.Y.Y)	|
 |	Name of publisher, distributor, etc.	|	4C.	|	[5.22.3](/DCRMR/ppdm/Name-of-publisher/#5223-general-rule) [5.27.3](/DCRMR/ppdm/Name-of-distributor/#5273-general-rule)	|
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|

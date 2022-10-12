@@ -81,14 +81,14 @@ sidebar:
 
 <a name="5.24.32.5">5.24.32.5</a> **Place of publication supplied place based on address or sign**. Make a Note on publication statement to justify a supplied [Place of publication](/DCRMR/ppdm/Place-of-publication/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.21.38.1](/DCRMR/ppdm/Place-of-publication/#5.21.38.1)).
 
-<a name="5.24.32.6">5.24.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script to indicate the original position on the source of any transposed elements (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) and [Parallel place of publication, 5.215.31.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.2)).
+<a name="5.24.32.6">5.24.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script to indicate the original position on the source of any transposed elements (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) and [Parallel place of publication, 5.215.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.2.Y.Y)).
 
 >**Example:**  
 ><CITE>Parallel place of publication transposed from Italian title page facing main title page in English</CITE>  
 
 ## 5.24.33 Parallel place of publication notes
 
-<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a parallel place of publication found elsewhere in the resource from the [Place of publication](/DCRMR/ppdm/Place-of-publication/) if considered important (see [Parallel place of publication, 5.215.31.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.1) and [5.215.31.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.4)).
+<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a parallel place of publication found elsewhere in the resource from the [Place of publication](/DCRMR/ppdm/Place-of-publication/) if considered important (see [Parallel place of publication, 5.215.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.1.Y.Y) and [5.215.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.4.Y.Y)).
 
 ## 5.24.34 Name of publisher notes
 
