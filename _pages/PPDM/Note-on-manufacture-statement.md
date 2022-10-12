@@ -122,14 +122,14 @@ sidebar:
 >**Example:**  
 ><CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
 
-<a name="5.34.34.7">5.34.34.7</a> **Transposition of names of manufacturer in more than one language or script**. For transposed elements, always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script to indicate the original position on the source (see [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.31.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.2)).
+<a name="5.34.34.7">5.34.34.7</a> **Transposition of names of manufacturer in more than one language or script**. For transposed elements, always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script to indicate the original position on the source (see [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.2.Y.Y)).
 
 >**Example:**  
 ><CITE>Parallel name of manufacturer transposed from English title page facing main title page in French</CITE>  
 
 ## 5.34.35 Parallel name of manufacturer notes
 
-<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.31.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.1) and [5.325.31.4](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.31.4)).
+<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.1.Y.Y) and [5.325.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.4.Y.Y)).
 
 >**Example:**  
 ><CITE>Parallel name of manufacturer on cover reads: Imprimerie de Mme Ve Belin</CITE>  
