@@ -356,7 +356,7 @@ sidebar:
 |	Publisher, distributor, etc., transcribed as part of another area	|	4C10.	|	[5.22.38.1](/DCRMR/ppdm/Name-of-publisher/#5.22.38.1) [5.27.38.1](/DCRMR/ppdm/Name-of-distributor/#5.27.38.1)	|
 |	Publisher, distributor, etc., statements in more than one language or script	|	4C11.	|	[5.22.39](/DCRMR/ppdm/Name-of-publisher/#52239-name-of-publisher-in-more-than-one-language-or-script) [5.27.39](/DCRMR/ppdm/Name-of-distributor/#52739-name-of-distributor-in-more-than-one-language-or-script)	|
 |		|	4C11.1.	|	[5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)	|
-|		|	4C11.2.	|	[5.225.31.5](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.5) [5.275.31.5](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.5)	|
+|		|	4C11.2.	|	[5.225.31.5](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.5) [5.275.3.5.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.5.Y.Y)	|
 |	Date of publication, distribution, etc.	|	4D.	|	[5.23](/DCRMR/ppdm/Date-of-publication/) [5.28](/DCRMR/ppdm/Date-of-distribution/)	|
 |	General rule	|	4D1.	|	[5.23.3](/DCRMR/ppdm/Date-of-publication/#5233-general-rule) [5.28.3](/DCRMR/ppdm/Date-of-distribution/#5283-general-rule)	|
 |		|	4D1.1.	|	[5.23.3.1](/DCRMR/ppdm/Date-of-publication/#5.23.3.1) [5.28.3.1](/DCRMR/ppdm/Date-of-distribution/#5.28.3.1)	|

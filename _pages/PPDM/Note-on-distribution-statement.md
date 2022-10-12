@@ -100,11 +100,11 @@ sidebar:
 
 <a name="5.285.34.6">5.285.34.6</a> **Devices**. If the distributor’s name has been supplied based on device, always make a Note on distribution statement about the basis for the identification (see [Name of distributor, 5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)).
 
-<a name="5.285.34.7">5.285.34.7</a> **Transposition of names of distributor in more than one language or script**. For transposed elements, always make a Note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script to indicate the original position on the source  (see [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.31.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.2)).
+<a name="5.285.34.7">5.285.34.7</a> **Transposition of names of distributor in more than one language or script**. For transposed elements, always make a Note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script to indicate the original position on the source  (see [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.2.Y.Y)).
 
 ## 5.285.35 Parallel name of distributor notes
 
-<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) if considered important (see [Parallel name of distributor, 5.275.31.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.1) and [5.275.31.4](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.4)).
+<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) if considered important (see [Parallel name of distributor, 5.275.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.1.Y.Y) and [5.275.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.4.Y.Y)).
 
 ## 5.285.36 Date of distribution notes
 
