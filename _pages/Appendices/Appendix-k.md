@@ -180,7 +180,7 @@ sidebar:
 |	Other title information with grammatically inseparable elements	|	1D5.	|	[1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)	|
 |	Parallel statements containing other title information	|	1D6.	|	[1.235.3.1](/DCRMR/title/Parallel-other-title-information/#1.235.3.1)	|
 |	Statements of responsibility	|	1E.	|	[2](/DCRMR/sor/)	|
-|	Statements of responsibility on the title page	|	1E1.	|	[2.21.31.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.31.1)	|
+|	Statements of responsibility on the title page	|	1E1.	|	[2.21.3.1.Y.Y](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.3.1.Y.Y)	|
 |	Statements of responsibility on other sources	|	1E2.	|	[2.21.315.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)	|
 |	Transposition of statements of responsibility	|	1E3.	|	[2.21.32.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)	|
 |	Single statements of responsibility with two or more names	|	1E4.	|	[2.21.33](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names)	|
@@ -272,8 +272,6 @@ sidebar:
 |		|	2D1.	|	[3.24.3.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.1)	|
 |		|	2D2.	|	[3.24.32.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.1)	 [3.24.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) | 
 |	Statements of responsibility relating to a named revision of an edition	|	2E.	|	[3.25.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3253-general-rule)	|
-|		|	2E.1.	|	[3.25.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.1)	|
-|		|	2E.2.	|	[3.25.3.2](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.2)	|
 
 ## 3. Material (or Type of Publication Specific Details) Area
 
