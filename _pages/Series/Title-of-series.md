@@ -23,9 +23,9 @@ sidebar:
 
 <a name="8.21.2.1">8.21.2.1</a> A nomen that is a title that identifies a series to which a manifestation belongs.
 
-## 8.21.31 General rule
+## 8.21.3.Y.Y General rule
 
-<a name="8.21.31.1">8.21.31.1</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
+<a name="8.21.3.1.Y.Y">8.21.3.1.Y.Y</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  
@@ -39,9 +39,9 @@ sidebar:
 >**Example:**    
 ><CITE>Collection de documents historiques</CITE>  
 
-<a name="8.21.31.2">8.21.31.2</a> If the source bears a series title in more than one language or script, transcribe as Title of series the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)).
+<a name="8.21.3.2.Y.Y">8.21.3.2.Y.Y</a> If the source bears a series title in more than one language or script, transcribe as Title of series the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)).
 
-<a name="8.21.31.3">8.21.31.3</a> If the series title includes a statement of responsibility or numbering that is grammatically inseparable from other words in the title, transcribe it as part of Title of series.
+<a name="8.21.3.3.Y.Y">8.21.3.3.Y.Y</a> If the series title includes a statement of responsibility or numbering that is grammatically inseparable from other words in the title, transcribe it as part of Title of series.
 
 >**Example:**    
 ><CITE>Tract no. I of the American Peace Society</CITE>  
