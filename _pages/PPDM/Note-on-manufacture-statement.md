@@ -79,11 +79,11 @@ sidebar:
 
 <a name="5.34.32.5">5.34.32.5</a> **Place of manufacture supplied based on address or sign**. Make a Note on manufacture statement to justify a supplied [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
-<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.315.31.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.2)).
+<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.315.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.2.Y.Y)).
 
 ## 5.34.33 Parallel place of manufacture notes
 
-<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a parallel place of manufacture found elsewhere in the resource from the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if considered important (see [Parallel place of manufacture, 5.315.31.1](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.1) and [5.315.31.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.31.4)).
+<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a parallel place of manufacture found elsewhere in the resource from the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if considered important (see [Parallel place of manufacture, 5.315.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.1.Y.Y) and [5.315.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.4.Y.Y)).
 
 >**Example:**  
 >Parallel place of manufacture on cover reads: <CITE>Saint-Cloud</CITE>  
