@@ -46,7 +46,7 @@ sidebar:
 >**Example:**    
 ><CITE>First in a series of tales from Sörmland</CITE>  
 
-<a name="8.29.3.4.Y.Y">8.29.3.4.Y.Y</a> If there is series numbering but no series title, always record any numbers or letters that imply a series in a Note on series statement (see [Numbering within sequence, 8.27.31.3](/DCRMR/series/Numbering-within-sequence/#8.27.31.3)).
+<a name="8.29.3.4.Y.Y">8.29.3.4.Y.Y</a> If there is series numbering but no series title, always record any numbers or letters that imply a series in a Note on series statement (see [Numbering within sequence, 8.27.3.3.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.3.Y.Y)).
 
 <a name="8.29.3.5.Y.Y">8.29.3.5.Y.Y</a> Give information about a series in which the resource has been issued previously in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.34.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.34.2)).
 

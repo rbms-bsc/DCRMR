@@ -516,10 +516,10 @@ sidebar:
 |		|	6E2.3.	|	[8.25.3.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.3)	|
 |	ISSN of series	|	6F.	|	n/a	|
 |	Numbering within series	|	6G.	|	[8.27](/DCRMR/series/Numbering-within-sequence/)	|
-|	General rule	|	6G1.	|	[8.27.31](/DCRMR/series/Numbering-within-sequence/#82731-series-numbering)	|
-|		|	6G1.1.	|	[8.27.31.1](/DCRMR/series/Numbering-within-sequence/#8.27.31.1)	|
-|		|	6G1.2.	|	[8.27.31.2](/DCRMR/series/Numbering-within-sequence/#8.27.31.2)	|
-|		|	6G2.	|	[8.27.31.3](/DCRMR/series/Numbering-within-sequence/#8.27.31.3)	|
+|	General rule	|	6G1.	|	[8.27.3.Y.Y](/DCRMR/series/Numbering-within-sequence/#8273YY-series-numbering)	|
+|		|	6G1.1.	|	[8.27.3.1.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.1.Y.Y)	|
+|		|	6G1.2.	|	[8.27.3.2.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.2.Y.Y)	|
+|		|	6G2.	|	[8.27.3.3.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.3.Y.Y)	|
 |	Numbering relating to parallel series titles	|	6G3.	|	[8.27.32](/DCRMR/series/Numbering-within-sequence/#82732-numbering-relating-to-parallel-title-of-series)	|
 |		|	6G3.1.	|	[8.27.32.1](/DCRMR/series/Numbering-within-sequence/#8.27.32.1)	|
 |		|	6G3.2.	|	[8.27.32.2](/DCRMR/series/Numbering-within-sequence/#8.27.32.2)	|

@@ -71,7 +71,7 @@ sidebar:
 >Note on series statement: <CITE>Correct subseries title from final leaf verso</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
   
-<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [ 8.27.31.4](/DCRMR/series/Numbering-within-sequence/#8.27.31.4)).
+<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [8.27.3.4.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.4.Y.Y)).
 
 >**Example:**  
 ><CITE>What every child should know library. The fourth series</CITE>  
