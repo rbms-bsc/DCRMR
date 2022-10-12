@@ -25,11 +25,11 @@ sidebar:
 
 <a name="8.27.2.2">8.27.2.2</a> Numbering may include dates or other timespans, alphanumeric or other characters, and an accompanying caption.
 
-## 8.27.31 General rule
+## 8.27.3.Y.Y General rule
 
-<a name="8.27.31.1">8.27.31.1</a> Transcribe series numbering as it appears in the manifestation as the last element in the [Series statement](/DCRMR/series/Series-statement/). If the numbering does not appear after the other series elements  in the source, transpose it as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
+<a name="8.27.3.1.Y.Y">8.27.3.1.Y.Y</a> Transcribe series numbering as it appears in the manifestation as the last element in the [Series statement](/DCRMR/series/Series-statement/). If the numbering does not appear after the other series elements  in the source, transpose it as needed. Always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). However, if the numbering is grammatically inseparable from the series title, transcribe it as part of [Title of series](/DCRMR/series/Title-of-series/) (see [8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)).
 
-<a name="8.27.31.2">8.27.31.2</a> Transcribe the numbering as it appears in the manifestation (see [Transcription, 0.4.3](/DCRMR/general-rules/Transcription/#043-punctuation)). Do not use abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
+<a name="8.27.3.2.Y.Y">8.27.3.2.Y.Y</a> Transcribe the numbering as it appears in the manifestation (see [Transcription, 0.4.3](/DCRMR/general-rules/Transcription/#043-punctuation)). Do not use abbreviations not present in the source and do not convert roman or spelled-out numerals to arabic.
 
 >**Example:**  
 >Title of series: <CITE>Serie lecturas de economía colimense</CITE>  
@@ -51,7 +51,7 @@ sidebar:
 >Title of series: <CITE>Oeuvres philosophiques de Mr. D. Hume</CITE>  
 >Numbering within sequence: <CITE>tome troisième</CITE> 
 
-<a name="8.27.31.3">8.27.31.3</a> If there is series numbering but no series title, always transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.4.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.4.Y.Y)). 
+<a name="8.27.3.3.Y.Y">8.27.3.3.Y.Y</a> If there is series numbering but no series title, always transcribe the numbering in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.4.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.4.Y.Y)). 
 
 >**Example:**  
 >Note on series statement: <CITE>Number “6” appears at head of title page; issued as part of the American tract series (see Bibliography of American literature)</CITE>  
@@ -59,7 +59,7 @@ sidebar:
 
 In case of doubt as to whether a number appearing in the resource is series numbering, transcribe the numbering in a [Note on identifier for manifestation](/DCRMR/identifiers/Note-on-identifier-for-manifestation/) (see [10.23.3.1](/DCRMR/identifiers/Note-on-identifier-for-manifestation/#10.23.3.1)).
 
-<a name="8.27.31.4">8.27.31.4</a> If a phrase such as “new series,” “second series,” etc., appears with a numbered series, transcribe the phrase as part of Numbering within sequence (see [Title of series, 8.21.32.2](/DCRMR/series/Title-of-series/#8.21.32.2)).
+<a name="8.27.3.4.Y.Y">8.27.3.4.Y.Y</a> If a phrase such as “new series,” “second series,” etc., appears with a numbered series, transcribe the phrase as part of Numbering within sequence (see [Title of series, 8.21.32.2](/DCRMR/series/Title-of-series/#8.21.32.2)).
 
 >**Example:**  
 >Title of series: <CITE>Killaly chapbooks</CITE>  
