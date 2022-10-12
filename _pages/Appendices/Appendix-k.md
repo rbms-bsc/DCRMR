@@ -499,9 +499,9 @@ sidebar:
 |		|	6A2.4.	|	[8.01.1.4](/DCRMR/series/#8.01.1.4)	|
 |		|	6A2.5.	|	[8.01.1.5](/DCRMR/series/#8.01.1.5)	|
 |	Form and order of information	|	6A3.	|	[8.01.3](/DCRMR/series/#8013-form-and-order-of-information)	|
-|	Title proper of series	|	6B.	|	[8.21.31](/DCRMR/series/Title-of-series/#82131-title-proper-of-series)	|
-|		|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
-|		|	6B2.	|	[8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)	|
+|	Title proper of series	|	6B.	|	[8.21.3.Y.Y](/DCRMR/series/Title-of-series/#8213YY-general-rule)	|
+|		|	6B1.	|	[8.21.3.1.Y.Y](/DCRMR/series/Title-of-series/#8.21.3.1.Y.Y)	|
+|		|	6B2.	|	[8.21.3.3.Y.Y](/DCRMR/series/Title-of-series/#8.21.3.3.Y.Y)	|
 |	Parallel titles of series	|	6C.	|	[8.215.3](/DCRMR/series/Parallel-title-of-series/#82153-general-rule)	|
 |		|	6C1.	|	[8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)	|
 |	Note: DCRM3 includes 6C2 with option	|	6C2.	|	[8.215.3.2](/DCRMR/series/Parallel-title-of-series/#8.215.3.2)	|
@@ -510,7 +510,7 @@ sidebar:
 |		|	6D2.	|	[8.235.3.1](/DCRMR/series/Parallel-other-title-information-of-series/#8.235.3.1)	|
 |	Statements of responsibility relating to series	|	6E.	|	[8.25.3](/DCRMR/series/Statement-of-responsibility-relating-to-series/#8253-general-rule)	|
 |		|	6E1.	|	[8.25.3.1](/DCRMR/series/Statement-of-responsibility-relating-to-series/#8.25.3.1)	|
-|	Parallel statements of responsibility relating to series	|	6E2.	|	[8.255.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#82553-parallel-statement-of-responsibility-relating-to-series)	|
+|	Parallel statements of responsibility relating to series	|	6E2.	|	[8.255.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#82553-general-rule)	|
 |		|	6E2.1.	|	[8.25.3.1](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.1)	|
 |		|	6E2.2.	|	[8.25.3.2](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.2)	|
 |		|	6E2.3.	|	[8.25.3.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.3)	|
@@ -672,7 +672,7 @@ sidebar:
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
 |	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
 |	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
-|	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
+|	Title proper of series (Optional) 	|	6B1.	|	[8.21.3.1.Y.Y](/DCRMR/series/Title-of-series/#8.21.3.1.Y.Y)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
 |	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.6)	|
 |	Copy-specific titles (Optional)	|	7B19. 	|	[1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)  [1.27.31.2](/DCRMR/title/Title-of-item/#1.27.31.2)	|
