@@ -25,9 +25,9 @@ sidebar:
 
 <a name="2.21.2.2">2.21.2.2</a> A statement of responsibility relating to title proper does not include a statement of responsibility relating to an edition or a series.
 
-## 2.21.31 General rule
+## 2.21.3.Y.Y General rule
 
-<a name="2.21.31.1">2.21.31.1</a> Transcribe Statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="2.21.3.1.Y.Y">2.21.3.1.Y.Y</a> Transcribe Statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**  
 ><CITE>by Charles Fearne, Esq. barrister at law, of the Inner Temple, author of  The legigraphical chart of landed property</CITE>
