@@ -376,11 +376,11 @@ sidebar:
 |		|	4D4.1.	|	[5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1) [5.28.33.1](/DCRMR/ppdm/Date-of-distribution/#5.28.33.1)	|
 |		|	4D4.2.	|	[5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2) [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2)	|
 |	Patterns for supplying a conjectural date	|	4D5.	|	[5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1) [5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1)	|
-|	Copyright dates and dates of deposit	|	4D6.	|	[5.35.31](/DCRMR/ppdm/Copyright-date/#53531-copyright-dates-and-dates-of-deposit)	|
-|		|	4D6.1.	|	[5.35.31.1](/DCRMR/ppdm/Copyright-date/#5.35.31.1)	|
-|		|	4D6.2.	|	[5.35.31.2](/DCRMR/ppdm/Copyright-date/#5.35.31.2)	|
-|		|	4D6.3.	|	[5.35.31.3](/DCRMR/ppdm/Copyright-date/#5.35.31.3)	|
-|		|	4D6.4.	|	[5.35.31.4](/DCRMR/ppdm/Copyright-date/#5.35.31.4)	|
+|	Copyright dates and dates of deposit	|	4D6.	|	[5.35.3.Y.Y](/DCRMR/ppdm/Copyright-date/#5353YY-general-rule)	|
+|		|	4D6.1.	|	[5.35.3.1.Y.Y](/DCRMR/ppdm/Copyright-date/#5.35.3.1.Y.Y)	|
+|		|	4D6.2.	|	[5.35.3.2.Y.Y](/DCRMR/ppdm/Copyright-date/#5.35.3.2.Y.Y)	|
+|		|	4D6.3.	|	[5.35.3.3.Y.Y](/DCRMR/ppdm/Copyright-date/#5.35.3.3.Y.Y)	|
+|		|	4D6.4.	|	[5.35.3.4.Y.Y](/DCRMR/ppdm/Copyright-date/#5.35.3.4.Y.Y)	|
 |	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multipart-monographs)	|
 |		|	4D7.1.	|	[5.23.35.1](/DCRMR/ppdm/Date-of-publication/#5.23.35.1) [5.28.35.1](/DCRMR/ppdm/Date-of-distribution/#5.28.35.1)	|
 |		|	4D7.2.	|	[5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2) [5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)	|
