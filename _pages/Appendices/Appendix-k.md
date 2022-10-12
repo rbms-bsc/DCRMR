@@ -160,7 +160,7 @@ sidebar:
 |	Alternative title	|	1B7.2.	|	[1.21.36.2](/DCRMR/title/Title-proper/#1.21.36.2)	|
 |	Chief title	|	1B7.3.	|	[1.21.36.3](/DCRMR/title/Title-proper/#1.21.36.3)	|
 |	Parallel titles	|	1C.	|	[1.215](/DCRMR/title/Parallel-title-proper/)	|
-|	Order and source of parallel titles	|	1C1.	|	[1.215.31.1](/DCRMR/title/Parallel-title-proper/#1.215.31.1) [1.215.31.2](/DCRMR/title/Parallel-title-proper/#1.215.31.2)	|
+|	Order and source of parallel titles	|	1C1.	|	[1.215.3.1.Y.Y](/DCRMR/title/Parallel-title-proper/#1.215.3.1.Y.Y) [1.215.3.2.Y.Y](/DCRMR/title/Parallel-title-proper/#1.215.3.2.Y.Y)	|
 |	Language of parallel titles and relationship to title proper	|	1C2.	|	[1.215.32](/DCRMR/title/Parallel-title-proper/#121532-language-of-parallel-titles-and-relationship-to-title-proper)	|
 |		|	1C2.1.	|	[1.215.32.1](/DCRMR/title/Parallel-title-proper/#1.215.32.1)	|
 |		|	1C2.2.	|	[1.215.32.2](/DCRMR/title/Parallel-title-proper/#1.215.32.2)	|

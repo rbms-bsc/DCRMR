@@ -92,7 +92,7 @@ sidebar:
 
 ## 1.29.37 Parallel titles
 
-<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper, 1.215.31.2](/DCRMR/title/Parallel-title-proper/#1.215.31.2)).
+<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper, 1.215.3.2.Y.Y](/DCRMR/title/Parallel-title-proper/#1.215.3.2.Y.Y)).
 
 ## 1.29.38 Other title information
 
