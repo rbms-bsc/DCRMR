@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.215.3.Y.Y General rule
 
-<a name="1.215.3.1.Y.Y">1.215.3.1.Y.Y</a> Transcribe Parallel titles proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)). Transcribe Parallel titles proper according to the instructions for [Title proper](/title/Title-proper/).
+<a name="1.215.3.1.Y.Y">1.215.3.1.Y.Y</a> Transcribe Parallel titles proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe Parallel titles proper according to the instructions for [Title proper](/DCRMR/title/Title-proper/).
 
 >**Example:**  
 >Title proper: <CITE>Il mercurio italico, o sia, Ragguaglio generale intorno alla letterature, belle arti, utili scoperte, ec. di tutta l'Italia</CITE>  

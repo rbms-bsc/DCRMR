@@ -54,7 +54,7 @@ Matthew J. Murphy, Milwaukee Public Library
 
 Amy Tims, American Antiquarian Society
 
-The work of the current RBMS RDA Editorial Group is informed by and indebted to the work of past Editorial Groups. For the complete roster of members, both past and present, see the [Membership roster](/preface/Membership-roster/).
+The work of the current RBMS RDA Editorial Group is informed by and indebted to the work of past Editorial Groups. For the complete roster of members, both past and present, see the [Membership roster](/DCRMR/preface/Membership-roster/).
 
 ## Current Status
 Minimum viable product containing book instructions. Approved for cataloging, effective February 2, 2022.

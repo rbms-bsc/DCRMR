@@ -27,7 +27,7 @@ sidebar:
 
 ## 1.21.3.Y.Y General rule
 
-<a name="1.21.3.1.Y.Y">1.21.3.1.Y.Y</a> Transcribe the Title proper in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
+<a name="1.21.3.1.Y.Y">1.21.3.1.Y.Y</a> Transcribe the Title proper in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 1.21.31 Words considered part of the title proper
 

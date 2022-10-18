@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.23.3.Y.Y General rule
 
-<a name="1.23.3.1.Y.Y">1.23.3.1.Y.Y</a> Transcribe Other title information in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
+<a name="1.23.3.1.Y.Y">1.23.3.1.Y.Y</a> Transcribe Other title information in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 <a name="1.23.3.2.Y.Y">1.23.3.2.Y.Y</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 

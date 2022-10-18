@@ -25,7 +25,7 @@ sidebar:
 
 ## 8.21.3.Y.Y General rule
 
-<a name="8.21.3.1.Y.Y">8.21.3.1.Y.Y</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/general-rules/Transcription/#0.4.94.05)).
+<a name="8.21.3.1.Y.Y">8.21.3.1.Y.Y</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  
