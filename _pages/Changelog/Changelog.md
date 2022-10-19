@@ -26,7 +26,7 @@ Release date: 2022-mm-dd
 
 DCRMR 2022.2.0.0 adds a glossary based, in large part, on the glossaries in previous DCRM manuals, although some definitions have been updated to align with RDA terminology. The glossary covers terms applicable to all rare materials formats and those limited to books; other format-specific terms will be incorporated in future releases.
 
-To remain aligned with changes made in the [March 23, 2022 release of the RDA Toolkit](https://access.rdatoolkit.org/Resource/Index?externalId=en-US_topic_03232022_RN), two elements have been renamed and their definitions changed. Manifestation described in is now [Manifestation described by](//DCRMR/additional-notes/Manifestation-described-by/); Issued with is now [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/). These changes do not affect cataloging outcomes.
+To remain aligned with changes made in the [March 23, 2022 release of the RDA Toolkit](https://access.rdatoolkit.org/Resource/Index?externalId=en-US_topic_03232022_RN), two elements have been renamed and their definitions changed. Manifestation described in is now [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/); Issued with is now [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/). These changes do not affect cataloging outcomes.
 
 This release adds general rules to all elements that previously lacked them, updates the presentation of Editorial Group membership, and introduces a formal changelog versioning system. It also changes the formatting and font of the examples within the text for improved visual clarity.
 
