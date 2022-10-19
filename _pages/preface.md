@@ -18,7 +18,7 @@ Information regarding the RBMS RDA Editorial Group’s preferred fonts is availa
 
 ## RBMS RDA Editorial Group (2022/2023)
 
-### Chief Editors
+### Chief editors
 
 Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University  
 
@@ -44,7 +44,7 @@ Jessie Sherwood, Robbins Research Collection and Research Center, Berkeley Law
 
 Brittney Washington, Harry Ransom Center  
 
-### Keepers of the Text
+### Keepers of the text
 
 kalan Knudson Davis, University of Minnesota  
 
