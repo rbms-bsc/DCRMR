@@ -31,7 +31,7 @@ To remain aligned with changes made in the [March 23, 2022 release of the RDA To
 This release adds general rules to all elements that previously lacked them, updates the presentation of Editorial Group membership, and introduces a formal changelog versioning system. It also changes the formatting and font of the examples within the text for improved visual clarity.
 
 Architectural and code changes:  
-* Added: Changelog; Membership roster; Glossary 
+* Added: Citations asset folder; Changelog; Membership roster; Glossary 
 * Changed: Examples formatting 
 * Removed: Individual glossary pages
 * Renamed: Manifestation described in renamed to Manifestation described by; Issued with renamed to On carrier unit with
