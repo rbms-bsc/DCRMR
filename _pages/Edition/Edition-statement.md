@@ -27,7 +27,7 @@ sidebar:
 
 ## 3.21.3 General rule
 
-<a name="3.21.3.1">3.21.3.1</a> Transcribe a statement relating to an edition or issue of a manifestation in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](DCRMR/general-rules/Transcription/#0.4.94.05)). Include any explanatory words or phrases appearing with the edition statement.
+<a name="3.21.3.1">3.21.3.1</a> Transcribe a statement relating to an edition or issue of a manifestation in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Include any explanatory words or phrases appearing with the edition statement.
 
 >**Example:**       
 ><CITE>Cooke's edition, embellished with superb engravings</CITE>
