@@ -31,7 +31,7 @@ sidebar:
 
 ## 1.21.31 Words considered part of the title proper
 
-<a name="1.21.31.1">1.21.31.1</a> The title proper is the first element of the description. Title information preceding the [chief title](/DCRMR/glossary/C/#chief-title) on the preferred source of information is considered part of the title proper if it is grammatically inseparable from the chief title. If the chief title is preceded or followed in the source by other elements of information, transpose these elements to their appropriate elements in the description unless case endings would be affected, the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from the title proper. In the latter cases, transcribe the information as part of the title proper.
+<a name="1.21.31.1">1.21.31.1</a> The title proper is the first element of the description. Title information preceding the [chief title](/DCRMR/glossary/#chief-title) on the preferred source of information is considered part of the title proper if it is grammatically inseparable from the chief title. If the chief title is preceded or followed in the source by other elements of information, transpose these elements to their appropriate elements in the description unless case endings would be affected, the grammatical construction of the information would be disturbed, or the text is otherwise grammatically inseparable from the title proper. In the latter cases, transcribe the information as part of the title proper.
 
 >**Example:**  
 ><CITE>Monsieur Bossu's treatise of the epicke poem</CITE>  
@@ -124,7 +124,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 <a name="1.21.36.2">1.21.36.2</a> **Alternative title**. If the title proper contains an alternative title, do not omit any of the first five words of the alternative title (or, if the alternative title begins with an article, the first six words).
 
-<a name="1.21.36.3">1.21.36.3</a> Extend the transcription of the title proper through at least the end of the [chief title](/DCRMR/glossary/C/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but never within the first five words of the chief title (or, if the chief title begins with an article, the first six words).
+<a name="1.21.36.3">1.21.36.3</a> Extend the transcription of the title proper through at least the end of the [chief title](/DCRMR/glossary/#chief-title) of the resource. Apply this provision even if other words in the title proper precede the chief title. If the end of the chief title cannot be determined, break off the transcription at the first grammatically acceptable place, but never within the first five words of the chief title (or, if the chief title begins with an article, the first six words).
 
 ## 1.21.37 Manifestations without a collective title 
 
