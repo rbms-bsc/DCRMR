@@ -22,7 +22,7 @@ For a fuller discussion of the versioning and version numbering system, includin
 ## Current release
 
 ### DCRMR 2022.2.0.0   
-Release date: 2022-mm-dd  
+Release date: 2022-11-15  
 
 DCRMR 2022.2.0.0 adds a glossary based, in large part, on the glossaries in previous DCRM manuals, although some definitions have been updated to align with RDA terminology. The glossary covers terms applicable to all rare materials formats and those limited to books; other format-specific terms will be incorporated in future releases.
 
@@ -31,11 +31,11 @@ To remain aligned with changes made in the [March 23, 2022 release of the RDA To
 This release adds general rules to all elements that previously lacked them, updates the presentation of Editorial Group membership, and introduces a formal changelog versioning system. It also changes the formatting and font of the examples within the text for improved visual clarity.
 
 Architectural and code changes:  
-* Added: Citations asset folder; Changelog; Membership roster; Glossary 
-* Changed: Examples formatting 
+* Added: CitationDumper script; Pre-release PDFs asset subfolder; Citations asset folder; Changelog; Membership roster; Glossary 
+* Changed: PDF naming conventions to include release number; Examples formatting 
 * Removed: Individual glossary pages
 * Renamed: Manifestation described in renamed to Manifestation described by; Issued with renamed to On carrier unit with
-* Fixed: Upgrade Gemfile to Ruby3; Updates to script
+* Fixed: Upgrade Gemfile to Ruby3; Updates to DCRMRthebook script
 
 ## Release history
 
