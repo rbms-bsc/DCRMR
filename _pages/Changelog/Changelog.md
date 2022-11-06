@@ -23,6 +23,7 @@ For a fuller discussion of the versioning and version numbering system, includin
 
 ### DCRMR 2022.2.0.0   
 Release date: 2022-11-15  
+Release PDF: [DCRMR RDA edition release 2022.2.0.0 PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%202022%202%200%200.pdf)  
 
 DCRMR 2022.2.0.0 adds a glossary based, in large part, on the glossaries in previous DCRM manuals, although some definitions have been updated to align with RDA terminology. The glossary covers terms applicable to all rare materials formats and those limited to books; other format-specific terms will be incorporated in future releases.
 
@@ -54,6 +55,7 @@ Architectural and code changes:
 
 ### DCRMR 2022.1.0.0 
 Release date: 2022-02-03  
+Release PDF: [DCRMR RDA edition release 2022.1.0.0 PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%202022%201%200%200.pdf)  
 [View DCRMR 2022.1.0.0 release details](https://github.com/rbms-bsc/DCRMR/commit/a157530042291e1cf81b863e33a032d6dde3a811)  
 Release summary: Initial release of DCRMR; minimum viable product containing book instructions.  
 
