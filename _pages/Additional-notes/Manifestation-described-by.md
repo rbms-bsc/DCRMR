@@ -23,9 +23,9 @@ sidebar:
 
 <a name="9.32.2.1">9.32.2.1</a> A work that is a description of a manifestation.
 
-## 9.32.3.Y.Y General rule
+## 9.32.3 General rule
 
-<a name="9.32.3.1.Y.Y">9.32.3.1.Y.Y</a> Make a note on a work that describes a manifestation according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="9.32.3.1">9.32.3.1</a> Make a note on a work that describes a manifestation according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 9.32.31 References to published descriptions
 

@@ -23,9 +23,9 @@ sidebar:
 
 <a name="6.215.2.1">6.215.2.1</a> A note on manifestation that provides information on the extent of a manifestation.
 
-## 6.215.3.Y.Y General rule
+## 6.215.3 General rule
 
-<a name="6.215.3.1.Y.Y">6.215.3.1.Y.Y</a> Make a Note on extent of manifestation according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="6.215.3.1">6.215.3.1</a> Make a Note on extent of manifestation according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 6.215.4 Note on extent of text
 

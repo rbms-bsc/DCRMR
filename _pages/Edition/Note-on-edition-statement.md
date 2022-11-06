@@ -23,9 +23,9 @@ sidebar:
 
 <a name="3.26.2.1">3.26.2.1</a> A note on manifestation that provides information on an edition of a manifestation.
 
-## 3.26.3.Y.Y General rule
+## 3.26.3 General rule
 
-<a name="3.26.3.1.Y.Y">3.26.3.1.Y.Y</a> Make a Note on edition statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="3.26.3.1">3.26.3.1</a> Make a Note on edition statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 3.26.31 Source and position of edition statement
 

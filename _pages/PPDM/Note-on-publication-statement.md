@@ -23,9 +23,9 @@ sidebar:
 
 <a name="5.24.2.1">5.24.2.1</a> A note on manifestation that provides information on the publication of a manifestation.
 
-## 5.24.3.Y.Y General rule
+## 5.24.3 General rule
 
-<a name="5.24.3.1.Y.Y">5.24.3.1.Y.Y</a> Make a Note on publication statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="5.24.3.1">5.24.3.1</a> Make a Note on publication statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 5.24.31 Publication statement notes
 
@@ -81,14 +81,14 @@ sidebar:
 
 <a name="5.24.32.5">5.24.32.5</a> **Place of publication supplied place based on address or sign**. Make a Note on publication statement to justify a supplied [Place of publication](/DCRMR/ppdm/Place-of-publication/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.21.38.1](/DCRMR/ppdm/Place-of-publication/#5.21.38.1)).
 
-<a name="5.24.32.6">5.24.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script to indicate the original position on the source of any transposed elements (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) and [Parallel place of publication, 5.215.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.2.Y.Y)).
+<a name="5.24.32.6">5.24.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on publication statement if the [Place of publication](/DCRMR/ppdm/Place-of-publication/) appears in more than one language or script to indicate the original position on the source of any transposed elements (see [5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) and [Parallel place of publication, 5.215.3.2](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.2)).
 
 >**Example:**  
 ><CITE>Parallel place of publication transposed from Italian title page facing main title page in English</CITE>  
 
 ## 5.24.33 Parallel place of publication notes
 
-<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a parallel place of publication found elsewhere in the resource from the [Place of publication](/DCRMR/ppdm/Place-of-publication/) if considered important (see [Parallel place of publication, 5.215.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.1.Y.Y) and [5.215.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.4.Y.Y)).
+<a name="5.24.33.1">5.24.33.1</a> Make a Note on publication statement of a parallel place of publication found elsewhere in the resource from the [Place of publication](/DCRMR/ppdm/Place-of-publication/) if considered important (see [Parallel place of publication, 5.215.3.1](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.1) and [5.215.3.4](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.4)).
 
 ## 5.24.34 Name of publisher notes
 
@@ -125,14 +125,14 @@ sidebar:
 >Name of publisher: <CITE>[Richt Right Press]</CITE>  
 >Note on publication statement: <CITE>Device of the Richt Right Press on the title page</CITE>
 
-<a name="5.24.34.7">5.24.34.7</a> **Transposition of names of publisher in more than one language or script**. For transposed elements, always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script to indicate the original position on the source (see [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.2.Y.Y)).
+<a name="5.24.34.7">5.24.34.7</a> **Transposition of names of publisher in more than one language or script**. For transposed elements, always make a Note on publication statement if the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) appears in more than one language or script to indicate the original position on the source (see [5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) and [Parallel name of publisher, 5.225.3.2](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.2)).
 
 >**Example:**  
 ><CITE>Parallel name of publisher transposed from English title page facing main title page in German</CITE>
 
 ## 5.24.35 Parallel name of publisher notes
 
-<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource from the source of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important (see [Parallel name of publisher, 5.225.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.1.Y.Y) and [5.225.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.4.Y.Y)).
+<a name="5.24.35.1">5.24.35.1</a> Make a Note on publication statement of parallel publisher names found elsewhere in the resource from the source of [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) if considered important (see [Parallel name of publisher, 5.225.3.1](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.1) and [5.225.3.4](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.4)).
 
 ## 5.24.36 Date of publication notes
 

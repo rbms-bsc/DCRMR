@@ -23,9 +23,9 @@ sidebar:
 
 <a name="5.285.2.1">5.285.2.1</a> A note on manifestation that provides information on the distribution of a manifestation.
 
-## 5.285.3.Y.Y General rule
+## 5.285.3 General rule
 
-<a name="5.285.3.1.Y.Y">5.285.3.1.Y.Y</a> Make a Note on distribution statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="5.285.3.1">5.285.3.1</a> Make a Note on distribution statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 5.285.31 Distribution statement notes
 
@@ -76,11 +76,11 @@ sidebar:
 >Note on distribution statement: <CITE>La Porterìa de San Martin is in Madrid</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-<a name="5.285.32.6">5.285.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1) and [Parallel place of distribution, 5.265.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.2.Y.Y)).
+<a name="5.285.32.6">5.285.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on distribution statement if the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1) and [Parallel place of distribution, 5.265.3.2](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.2)).
 
 ## 5.285.33 Parallel place of distribution notes
 
-<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a parallel place of distribution found elsewhere in the resource from the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if considered important (see [Parallel place of distribution, 5.265.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.1.Y.Y) and [5.265.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.4.Y.Y)).
+<a name="5.285.33.1">5.285.33.1</a> Make a Note on distribution statement of a parallel place of distribution found elsewhere in the resource from the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) if considered important (see [Parallel place of distribution, 5.265.3.1](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.1) and [5.265.3.4](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.4)).
 
 ## 5.285.34 Name of distributor notes
 
@@ -100,11 +100,11 @@ sidebar:
 
 <a name="5.285.34.6">5.285.34.6</a> **Devices**. If the distributor’s name has been supplied based on device, always make a Note on distribution statement about the basis for the identification (see [Name of distributor, 5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)).
 
-<a name="5.285.34.7">5.285.34.7</a> **Transposition of names of distributor in more than one language or script**. For transposed elements, always make a Note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script to indicate the original position on the source  (see [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.2.Y.Y)).
+<a name="5.285.34.7">5.285.34.7</a> **Transposition of names of distributor in more than one language or script**. For transposed elements, always make a Note on distribution statement if the [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) appears in more than one language or script to indicate the original position on the source  (see [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1) and [Parallel name of distributor, 5.275.3.2](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.2)).
 
 ## 5.285.35 Parallel name of distributor notes
 
-<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) if considered important (see [Parallel name of distributor, 5.275.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.1.Y.Y) and [5.275.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.4.Y.Y)).
+<a name="5.285.35.1">5.285.35.1</a> Make a Note on distribution statement of parallel distributor names found elsewhere in the resource from the source of [Name of the distributor](/DCRMR/ppdm/Name-of-distributor/) if considered important (see [Parallel name of distributor, 5.275.3.1](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.1) and [5.275.3.4](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.4)).
 
 ## 5.285.36 Date of distribution notes
 

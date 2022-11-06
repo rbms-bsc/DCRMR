@@ -23,9 +23,9 @@ sidebar:
 
 <a name="8.21.2.1">8.21.2.1</a> A nomen that is a title that identifies a series to which a manifestation belongs.
 
-## 8.21.3.Y.Y General rule
+## 8.21.3 General rule
 
-<a name="8.21.3.1.Y.Y">8.21.3.1.Y.Y</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="8.21.3.1">8.21.3.1</a> Transcribe the Title of series  in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**    
 ><CITE>Stereoscopic gems of Utah scenery</CITE>  
@@ -39,9 +39,9 @@ sidebar:
 >**Example:**    
 ><CITE>Collection de documents historiques</CITE>  
 
-<a name="8.21.3.2.Y.Y">8.21.3.2.Y.Y</a> If the source bears a series title in more than one language or script, transcribe as Title of series the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)).
+<a name="8.21.3.2">8.21.3.2</a> If the source bears a series title in more than one language or script, transcribe as Title of series the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (see [8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)).
 
-<a name="8.21.3.3.Y.Y">8.21.3.3.Y.Y</a> If the series title includes a statement of responsibility or numbering that is grammatically inseparable from other words in the title, transcribe it as part of Title of series.
+<a name="8.21.3.3">8.21.3.3</a> If the series title includes a statement of responsibility or numbering that is grammatically inseparable from other words in the title, transcribe it as part of Title of series.
 
 >**Example:**    
 ><CITE>Tract no. I of the American Peace Society</CITE>  
@@ -60,7 +60,7 @@ sidebar:
 
 ## 8.21.32 Subseries
 
-<a name="8.21.32.1">8.21.32.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.2.Y.Y)). 
+<a name="8.21.32.1">8.21.32.1</a> If both a main series and a subseries appear on the resource, record the title of the main series first, followed by the title of the subseries. If the main series and subseries titles do not appear in this position in the source, transpose them as needed and always provide details of the transposition in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
 
 >**Example:**  
 ><CITE>Parlour library. Shilling series</CITE>  
@@ -71,7 +71,7 @@ sidebar:
 >Note on series statement: <CITE>Correct subseries title from final leaf verso</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
   
-<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [8.27.3.4.Y.Y](/DCRMR/series/Numbering-within-sequence/#8.27.3.4.Y.Y)).
+<a name="8.21.32.2">8.21.32.2</a> If a phrase such as “new series,” “second series,” etc., appears with an unnumbered series, transcribe the phrase as a subseries title. If the phrase appears with a numbered series, transcribe the phrase as part of [Numbering within sequence](/DCRMR/series/Numbering-within-sequence/) (see [8.27.3.4](/DCRMR/series/Numbering-within-sequence/#8.27.3.4)).
 
 >**Example:**  
 ><CITE>What every child should know library. The fourth series</CITE>  

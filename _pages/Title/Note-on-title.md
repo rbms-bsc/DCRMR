@@ -23,9 +23,9 @@ sidebar:
 
 <a name="1.29.2.1">1.29.2.1</a> A note on manifestation that provides information on inaccuracies appearing in titles, complex changes in titles, or on other information relating to a title.
 
-## 1.29.3.Y.Y General rule
+## 1.29.3 General rule
 
-<a name="1.29.3.1.Y.Y">1.29.3.1.Y.Y</a> Make a Note on title according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="1.29.3.1">1.29.3.1</a> Make a Note on title according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 1.29.31 Note on the source of the title proper
 
@@ -92,11 +92,11 @@ sidebar:
 
 ## 1.29.37 Parallel titles
 
-<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper, 1.215.3.2.Y.Y](/DCRMR/title/Parallel-title-proper/#1.215.3.2.Y.Y)).
+<a name="1.29.37.1">1.29.37.1</a> Make a note on a title in the original language appearing in the manifestation elsewhere than on the title page if considered important  (see [Parallel title proper, 1.215.3.2](/DCRMR/title/Parallel-title-proper/#1.215.3.2)).
 
 ## 1.29.38 Other title information
 
-<a name="1.29.38.1">1.29.38.1</a> For transposed elements, make a note indicating the transposition of [Other title information](/DCRMR/title/Other-title-information/) that precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page (see [Other title information, 1.23.3.2.Y.Y](/DCRMR/title/Other-title-information/#1.23.3.2.Y.Y)).
+<a name="1.29.38.1">1.29.38.1</a> For transposed elements, make a note indicating the transposition of [Other title information](/DCRMR/title/Other-title-information/) that precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page (see [Other title information, 1.23.3.2](/DCRMR/title/Other-title-information/#1.23.3.2)).
 
 ## 1.29.39 Other title information not appearing on title page
 

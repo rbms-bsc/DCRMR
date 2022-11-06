@@ -23,9 +23,9 @@ sidebar:
 
 <a name="5.34.2.1">5.34.2.1</a> A note on manifestation that provides information on the manufacture of a manifestation.
 
-## 5.34.3.Y.Y General rule
+## 5.34.3 General rule
 
-<a name="5.34.3.1.Y.Y">5.34.3.1.Y.Y</a> Make a Note on manufacture statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
+<a name="5.34.3.1">5.34.3.1</a> Make a Note on manufacture statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
 ## 5.34.31 Manufacture statement notes
 
@@ -79,11 +79,11 @@ sidebar:
 
 <a name="5.34.32.5">5.34.32.5</a> **Place of manufacture supplied based on address or sign**. Make a Note on manufacture statement to justify a supplied [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see [5.31.38.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.38.1)).
 
-<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.315.3.2.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.2.Y.Y)).
+<a name="5.34.32.6">5.34.32.6</a> **Transposition of place names in more than one language or script**. Always make a Note on manufacture statement if [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) appears in more than one language or script to indicate the original position on the source of any transposed statements (see [5.31.39.1](/DCRMR/ppdm/Place-of-manufacture/#5.31.39.1) and [Parallel place of manufacture, 5.315.3.2](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.2)).
 
 ## 5.34.33 Parallel place of manufacture notes
 
-<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a parallel place of manufacture found elsewhere in the resource from the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if considered important (see [Parallel place of manufacture, 5.315.3.1.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.1.Y.Y) and [5.315.3.4.Y.Y](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.4.Y.Y)).
+<a name="5.34.33.1">5.34.33.1</a> Make a Note on manufacture statement of a parallel place of manufacture found elsewhere in the resource from the [Place of manufacture](/DCRMR/ppdm/Place-of-manufacture/) if considered important (see [Parallel place of manufacture, 5.315.3.1](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.1) and [5.315.3.4](/DCRMR/ppdm/Parallel-place-of-manufacture/#5.315.3.4)).
 
 >**Example:**  
 >Parallel place of manufacture on cover reads: <CITE>Saint-Cloud</CITE>  
@@ -122,14 +122,14 @@ sidebar:
 >**Example:**  
 ><CITE>Woodcut printer’s device of Robert Bryson on the title page (device no. 358b in: McKerrow, R. Printer's & publishers' devices in England & Scotland, 1485-1640)</CITE>  
 
-<a name="5.34.34.7">5.34.34.7</a> **Transposition of names of manufacturer in more than one language or script**. For transposed elements, always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script to indicate the original position on the source (see [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.3.2.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.2.Y.Y)).
+<a name="5.34.34.7">5.34.34.7</a> **Transposition of names of manufacturer in more than one language or script**. For transposed elements, always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) appears in more than one language or script to indicate the original position on the source (see [5.32.39.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.39.1) and [Parallel name of manufacturer, 5.325.3.2](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.2)).
 
 >**Example:**  
 ><CITE>Parallel name of manufacturer transposed from English title page facing main title page in French</CITE>  
 
 ## 5.34.35 Parallel name of manufacturer notes
 
-<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.3.1.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.1.Y.Y) and [5.325.3.4.Y.Y](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.4.Y.Y)).
+<a name="5.34.35.1">5.34.35.1</a> Make a Note on manufacture statement of parallel manufacturer names found elsewhere in the resource from the source of [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) if considered important (see [Parallel name of manufacturer, 5.325.3.1](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.1) and [5.325.3.4](/DCRMR/ppdm/Parallel-name-of-manufacturer/#5.325.3.4)).
 
 >**Example:**  
 ><CITE>Parallel name of manufacturer on cover reads: Imprimerie de Mme Ve Belin</CITE>  
