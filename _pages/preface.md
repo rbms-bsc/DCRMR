@@ -11,7 +11,7 @@ DCRMR is one of several manuals providing specialized cataloging rules for vario
 
 DCRMR is aligned with the RDA element set. When completed, DCRMR will be an integrated and consolidated manual, which will include instructions for rare materials in multiple formats (e.g., music, serials).  Currently, DCRMR allows for RDA-compliant rare book cataloging. Previous published editions of the [DCRM manuals](https://rbms.info/dcrm/){:target="_blank"} will not be deprecated and may be used when following the instructions in the [Original Toolkit](https://original.rdatoolkit.org/){:target="_blank"} or the *Anglo-American Cataloguing Rules*, second edition (AACR2).
 
-DCRMR can be downloaded as a PDF: [DCRMR PDF (release 2022.2.0.0)](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%202022%202%200%200.pdf){:target="_blank"}. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
+DCRMR can be downloaded as a PDF: [DCRMR PDF (release 2022.2.0.0)](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%202022_2_0_0.pdf){:target="_blank"}. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
 
 Information regarding the RBMS RDA Editorial Group’s preferred fonts is available on the [DCRMR Wiki: Preferred fonts](https://github.com/rbms-bsc/DCRMR/wiki/Preferred-fonts){:target="_blank"}.
 	
