@@ -25,11 +25,11 @@ sidebar:
 
 ### 0.1.22 Imperfect exemplars of a manifestation
 
-<a name="0.1.22.1">0.1.22.1</a> **General rule**. If describing an exemplar of a manifestation known to be imperfect (e.g., lacking pages), and details of a perfect (or more perfect) copy can be determined, base the description on the perfect copy. Do not use square brackets to record information present in the perfect copy but absent in the imperfect copy. Details of a perfect (or more perfect) copy may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. Cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described in, 9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)). Make an item-level note describing the imperfection of the item in hand if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
+<a name="0.1.22.1">0.1.22.1</a> **General rule**. If describing an exemplar of a manifestation known to be imperfect (e.g., lacking pages), and details of a perfect (or more perfect) copy can be determined, base the description on the perfect copy. Do not use square brackets to record information present in the perfect copy but absent in the imperfect copy. Details of a perfect (or more perfect) copy may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. Cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described by, 9.32.31](/DCRMR/additional-notes/Manifestation-described-by/#93231-references-to-published-descriptions)). Make an item-level note describing the imperfection of the item in hand if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
 <a name="0.1.22.2">0.1.22.2</a> **Details of a perfect copy cannot be determined**. If no reliable evidence of the details of a perfect copy is available, describe the imperfect item as it is. Use the mark of omission or supply a conjecture enclosed in square brackets to indicate lacunae as needed (see [Transcription, 0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect copy (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>Carta de […] sitio de Puebla</CITE>  
 >Note on manifestation: <CITE>Description based on an imperfect copy; section of map missing at top, affecting text</CITE>
 
@@ -49,11 +49,11 @@ sidebar:
 
 <a name="0.1.31.3">0.1.31.3</a> However, if the manifestation bears a cover or case issued with the resource that contains all the elements typically given on a title page and has more recent information than that provided on the title page, title sheet, or title card (e.g., a later edition statement and publication date), choose the cover as the preferred source of information. Make a note to indicate that the cover has been chosen as the preferred source (see [1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Poetry of animated nature illustrated : a chaste, interesting and instructive present for juveniles. -- Second edition. -- Philadelphia : Published by Robert A. Smith, 1848</CITE>  
 Note on manifestation: <CITE>Title, edition statement, and imprint taken from printed wrapper<CITE>  
 > (Title page reads: Poetry of animated nature illustrated. In a series of numbers. Philadelphia: Published by Robert A. Smith, 1846)  
-> (*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Edition statement](/DCRMR/edition/Edition-statement/); and [Publication statement](/DCRMR/ppdm/Publication-statement/). The example is formatted according to ISBD for clarity)
+>>(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Other title information](/DCRMR/title/Other-title-information/); [Edition statement](/DCRMR/edition/Edition-statement/); and [Publication statement](/DCRMR/ppdm/Publication-statement/). The example is formatted according to ISBD for clarity)
 
 ### 0.1.32 Single-sheet manifestations
 
@@ -132,10 +132,10 @@ For additional guidance on sources of information for individual elements, see i
 
 <a name="0.1.7.2">0.1.7.2</a> When the instructions specify transcription, indicate that the information is supplied from a source outside the manifestation itself by enclosing the information in square brackets. Make a note to indicate the source of information.
 
->Example:  
+>**Example:**  
 >Title proper: <CITE>[The great triumphal chariot of Maximilian I]</CITE>  
 >Note on title: <CITE>Title from Bartsch</CITE>   
->(*Comment*: The formal citation for Bartsch is given in a [Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)))
+>>(*Comment*: The formal citation for Bartsch is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 ---
 

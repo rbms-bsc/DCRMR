@@ -160,15 +160,15 @@ sidebar:
 |	Alternative title	|	1B7.2.	|	[1.21.36.2](/DCRMR/title/Title-proper/#1.21.36.2)	|
 |	Chief title	|	1B7.3.	|	[1.21.36.3](/DCRMR/title/Title-proper/#1.21.36.3)	|
 |	Parallel titles	|	1C.	|	[1.215](/DCRMR/title/Parallel-title-proper/)	|
-|	Order and source of parallel titles	|	1C1.	|	[1.215.31.1](/DCRMR/title/Parallel-title-proper/#1.215.31.1) [1.215.31.2](/DCRMR/title/Parallel-title-proper/#1.215.31.2)	|
+|	Order and source of parallel titles	|	1C1.	|	[1.215.3.1](/DCRMR/title/Parallel-title-proper/#1.215.3.1) [1.215.3.2](/DCRMR/title/Parallel-title-proper/#1.215.3.2)	|
 |	Language of parallel titles and relationship to title proper	|	1C2.	|	[1.215.32](/DCRMR/title/Parallel-title-proper/#121532-language-of-parallel-titles-and-relationship-to-title-proper)	|
 |		|	1C2.1.	|	[1.215.32.1](/DCRMR/title/Parallel-title-proper/#1.215.32.1)	|
 |		|	1C2.2.	|	[1.215.32.2](/DCRMR/title/Parallel-title-proper/#1.215.32.2)	|
 |	Other title information	|	1D.	|	[1.23](/DCRMR/title/Other-title-information/)	|
-|	Order and source of other title information	|	1D1.	|	[1.23.29](/DCRMR/title/Other-title-information/#12329-order-and-source-of-other-title-information)	|
-|		|	1D1.1.	|	[1.23.29.1](/DCRMR/title/Other-title-information/#1.23.29.1)	|
-|		|	1D1.2.	|	[1.23.29.2](/DCRMR/title/Other-title-information/#1.23.29.2)	|
-|		|	1D1.3.	|	[1.23.29.3](/DCRMR/title/Other-title-information/#1.23.29.3)	|
+|	Order and source of other title information	|	1D1.	|	[1.23.3](/DCRMR/title/Other-title-information/#1233-general-rule)	|
+|		|	1D1.1.	|	[1.23.3.1](/DCRMR/title/Other-title-information/#1.23.3.1)	|
+|		|	1D1.2.	|	[1.23.3.2](/DCRMR/title/Other-title-information/#1.23.3.2)	|
+|		|	1D1.3.	|	[1.23.3.3](/DCRMR/title/Other-title-information/#1.23.3.3)	|
 |		|	1D1.4.	|	omitted	|
 |	Other title information beginning with prepositions, conjunctions, etc.	|	1D2.	|	[1.23.31](/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc)	|
 |	General rule.	|	1D2.1.	|	[1.23.31.1](/DCRMR/title/Other-title-information/#1.23.31.1)	|
@@ -180,7 +180,7 @@ sidebar:
 |	Other title information with grammatically inseparable elements	|	1D5.	|	[1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)	|
 |	Parallel statements containing other title information	|	1D6.	|	[1.235.3.1](/DCRMR/title/Parallel-other-title-information/#1.235.3.1)	|
 |	Statements of responsibility	|	1E.	|	[2](/DCRMR/sor/)	|
-|	Statements of responsibility on the title page	|	1E1.	|	[2.21.31.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.31.1)	|
+|	Statements of responsibility on the title page	|	1E1.	|	[2.21.3.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.3.1)	|
 |	Statements of responsibility on other sources	|	1E2.	|	[2.21.315.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)	|
 |	Transposition of statements of responsibility	|	1E3.	|	[2.21.32.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)	|
 |	Single statements of responsibility with two or more names	|	1E4.	|	[2.21.33](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names)	|
@@ -272,8 +272,6 @@ sidebar:
 |		|	2D1.	|	[3.24.3.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.3.1)	|
 |		|	2D2.	|	[3.24.32.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.1)	 [3.24.3.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2) | 
 |	Statements of responsibility relating to a named revision of an edition	|	2E.	|	[3.25.3](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3253-general-rule)	|
-|		|	2E.1.	|	[3.25.3.1](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.1)	|
-|		|	2E.2.	|	[3.25.3.2](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/#3.25.3.2)	|
 
 ## 3. Material (or Type of Publication Specific Details) Area
 
@@ -336,7 +334,7 @@ sidebar:
 |		|	4B12.4.	|	[5.21.385.4](/DCRMR/ppdm/Place-of-publication/#5.21.385.4) [5.26.385.4](/DCRMR/ppdm/Place-of-distribution/#5.26.385.4)	|
 |	Place names in more than one language or script	|	4B13.	|	[5.21.39](/DCRMR/ppdm/Place-of-publication/#52139-place-names-in-more-than-one-language-or-script) [5.26.39](/DCRMR/ppdm/Place-of-distribution/#52639-place-names-in-more-than-one-language-or-script)	|
 |		|	4B13.1.	|	[5.21.39.1](/DCRMR/ppdm/Place-of-publication/#5.21.39.1) [5.26.39.1](/DCRMR/ppdm/Place-of-distribution/#5.26.39.1)	|
-|		|	4B13.2.	|	[5.215.31.5](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.31.5) [5.265.31.5](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.31.5)	|
+|		|	4B13.2.	|	[5.215.3.5](/DCRMR/ppdm/Parallel-place-of-publication/#5.215.3.5) [5.265.3.5](/DCRMR/ppdm/Parallel-place-of-distribution/#5.265.3.5)	|
 |	Name of publisher, distributor, etc.	|	4C.	|	[5.22.3](/DCRMR/ppdm/Name-of-publisher/#5223-general-rule) [5.27.3](/DCRMR/ppdm/Name-of-distributor/#5273-general-rule)	|
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
@@ -356,7 +354,7 @@ sidebar:
 |	Publisher, distributor, etc., transcribed as part of another area	|	4C10.	|	[5.22.38.1](/DCRMR/ppdm/Name-of-publisher/#5.22.38.1) [5.27.38.1](/DCRMR/ppdm/Name-of-distributor/#5.27.38.1)	|
 |	Publisher, distributor, etc., statements in more than one language or script	|	4C11.	|	[5.22.39](/DCRMR/ppdm/Name-of-publisher/#52239-name-of-publisher-in-more-than-one-language-or-script) [5.27.39](/DCRMR/ppdm/Name-of-distributor/#52739-name-of-distributor-in-more-than-one-language-or-script)	|
 |		|	4C11.1.	|	[5.22.39.1](/DCRMR/ppdm/Name-of-publisher/#5.22.39.1) [5.27.39.1](/DCRMR/ppdm/Name-of-distributor/#5.27.39.1)	|
-|		|	4C11.2.	|	[5.225.31.5](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.31.5) [5.275.31.5](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.31.5)	|
+|		|	4C11.2.	|	[5.225.3.5](/DCRMR/ppdm/Parallel-name-of-publisher/#5.225.3.5) [5.275.3.5](/DCRMR/ppdm/Parallel-name-of-distributor/#5.275.3.5)	|
 |	Date of publication, distribution, etc.	|	4D.	|	[5.23](/DCRMR/ppdm/Date-of-publication/) [5.28](/DCRMR/ppdm/Date-of-distribution/)	|
 |	General rule	|	4D1.	|	[5.23.3](/DCRMR/ppdm/Date-of-publication/#5233-general-rule) [5.28.3](/DCRMR/ppdm/Date-of-distribution/#5283-general-rule)	|
 |		|	4D1.1.	|	[5.23.3.1](/DCRMR/ppdm/Date-of-publication/#5.23.3.1) [5.28.3.1](/DCRMR/ppdm/Date-of-distribution/#5.28.3.1)	|
@@ -376,11 +374,11 @@ sidebar:
 |		|	4D4.1.	|	[5.23.33.1](/DCRMR/ppdm/Date-of-publication/#5.23.33.1) [5.28.33.1](/DCRMR/ppdm/Date-of-distribution/#5.28.33.1)	|
 |		|	4D4.2.	|	[5.23.33.2](/DCRMR/ppdm/Date-of-publication/#5.23.33.2) [5.28.33.2](/DCRMR/ppdm/Date-of-distribution/#5.28.33.2)	|
 |	Patterns for supplying a conjectural date	|	4D5.	|	[5.23.34.1](/DCRMR/ppdm/Date-of-publication/#5.23.34.1) [5.28.34.1](/DCRMR/ppdm/Date-of-distribution/#5.28.34.1)	|
-|	Copyright dates and dates of deposit	|	4D6.	|	[5.35.31](/DCRMR/ppdm/Copyright-date/#53531-copyright-dates-and-dates-of-deposit)	|
-|		|	4D6.1.	|	[5.35.31.1](/DCRMR/ppdm/Copyright-date/#5.35.31.1)	|
-|		|	4D6.2.	|	[5.35.31.2](/DCRMR/ppdm/Copyright-date/#5.35.31.2)	|
-|		|	4D6.3.	|	[5.35.31.3](/DCRMR/ppdm/Copyright-date/#5.35.31.3)	|
-|		|	4D6.4.	|	[5.35.31.4](/DCRMR/ppdm/Copyright-date/#5.35.31.4)	|
+|	Copyright dates and dates of deposit	|	4D6.	|	[5.35.3](/DCRMR/ppdm/Copyright-date/#5353-general-rule)	|
+|		|	4D6.1.	|	[5.35.3.1](/DCRMR/ppdm/Copyright-date/#5.35.3.1)	|
+|		|	4D6.2.	|	[5.35.3.2](/DCRMR/ppdm/Copyright-date/#5.35.3.2)	|
+|		|	4D6.3.	|	[5.35.3.3](/DCRMR/ppdm/Copyright-date/#5.35.3.3)	|
+|		|	4D6.4.	|	[5.35.3.4](/DCRMR/ppdm/Copyright-date/#5.35.3.4)	|
 |	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multipart-monographs)	|
 |		|	4D7.1.	|	[5.23.35.1](/DCRMR/ppdm/Date-of-publication/#5.23.35.1) [5.28.35.1](/DCRMR/ppdm/Date-of-distribution/#5.28.35.1)	|
 |		|	4D7.2.	|	[5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2) [5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)	|
@@ -481,10 +479,10 @@ sidebar:
 |		|	5D4.1.	|	[6.24.35.1](/DCRMR/phys-desc/Dimensions/#6.24.35.1) [6.24.35.2](/DCRMR/phys-desc/Dimensions/#6.24.35.2) |
 |		|	5D4.2.	|	[6.24.35.4](/DCRMR/phys-desc/Dimensions/#6.24.35.2)	|
 |	Accompanying material	|	5E.	|	[9.3.38](/DCRMR/additional-notes/Note-on-manifestation/#9338-accompanying-material)	|
-|	General rule	|	5E.1.	|	[9.3.38](/DCRMR/additional-notes/Accompanied-by-manifestation/#9338-general-rule)	|
-|		|	5E1.1.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
-|		|	5E1.2.	|	[9.3.38.4](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.4)	|
-|	Issued in pocket	|	5E2.	|	[9.3.38.7](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.7)	|
+|	General rule	|	5E.1.	|	[9.3.38](/DCRMR/additional-notes/Note-on-manifestation/#9338-general-rule)	|
+|		|	5E1.1.	|	[9.3.38.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.2)	|
+|		|	5E1.2.	|	[9.3.38.4](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.4)	|
+|	Issued in pocket	|	5E2.	|	[9.3.38.7](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.7)	|
 
 ## 6. Series Area
 
@@ -499,9 +497,9 @@ sidebar:
 |		|	6A2.4.	|	[8.01.1.4](/DCRMR/series/#8.01.1.4)	|
 |		|	6A2.5.	|	[8.01.1.5](/DCRMR/series/#8.01.1.5)	|
 |	Form and order of information	|	6A3.	|	[8.01.3](/DCRMR/series/#8013-form-and-order-of-information)	|
-|	Title proper of series	|	6B.	|	[8.21.31](/DCRMR/series/Title-of-series/#82131-title-proper-of-series)	|
-|		|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
-|		|	6B2.	|	[8.21.31.3](/DCRMR/series/Title-of-series/#8.21.31.3)	|
+|	Title proper of series	|	6B.	|	[8.21.3](/DCRMR/series/Title-of-series/#8213-general-rule)	|
+|		|	6B1.	|	[8.21.3.1](/DCRMR/series/Title-of-series/#8.21.3.1)	|
+|		|	6B2.	|	[8.21.3.3](/DCRMR/series/Title-of-series/#8.21.3.3)	|
 |	Parallel titles of series	|	6C.	|	[8.215.3](/DCRMR/series/Parallel-title-of-series/#82153-general-rule)	|
 |		|	6C1.	|	[8.215.3.1](/DCRMR/series/Parallel-title-of-series/#8.215.3.1)	|
 |	Note: DCRM3 includes 6C2 with option	|	6C2.	|	[8.215.3.2](/DCRMR/series/Parallel-title-of-series/#8.215.3.2)	|
@@ -510,16 +508,16 @@ sidebar:
 |		|	6D2.	|	[8.235.3.1](/DCRMR/series/Parallel-other-title-information-of-series/#8.235.3.1)	|
 |	Statements of responsibility relating to series	|	6E.	|	[8.25.3](/DCRMR/series/Statement-of-responsibility-relating-to-series/#8253-general-rule)	|
 |		|	6E1.	|	[8.25.3.1](/DCRMR/series/Statement-of-responsibility-relating-to-series/#8.25.3.1)	|
-|	Parallel statements of responsibility relating to series	|	6E2.	|	[8.255.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#82553-parallel-statement-of-responsibility-relating-to-series)	|
+|	Parallel statements of responsibility relating to series	|	6E2.	|	[8.255.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#82553-general-rule)	|
 |		|	6E2.1.	|	[8.25.3.1](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.1)	|
 |		|	6E2.2.	|	[8.25.3.2](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.2)	|
 |		|	6E2.3.	|	[8.25.3.3](/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/#8.255.3.3)	|
 |	ISSN of series	|	6F.	|	n/a	|
 |	Numbering within series	|	6G.	|	[8.27](/DCRMR/series/Numbering-within-sequence/)	|
-|	General rule	|	6G1.	|	[8.27.31](/DCRMR/series/Numbering-within-sequence/#82731-series-numbering)	|
-|		|	6G1.1.	|	[8.27.31.1](/DCRMR/series/Numbering-within-sequence/#8.27.31.1)	|
-|		|	6G1.2.	|	[8.27.31.2](/DCRMR/series/Numbering-within-sequence/#8.27.31.2)	|
-|		|	6G2.	|	[8.27.31.3](/DCRMR/series/Numbering-within-sequence/#8.27.31.3)	|
+|	General rule	|	6G1.	|	[8.27.3](/DCRMR/series/Numbering-within-sequence/#8273-series-numbering)	|
+|		|	6G1.1.	|	[8.27.3.1](/DCRMR/series/Numbering-within-sequence/#8.27.3.1)	|
+|		|	6G1.2.	|	[8.27.3.2](/DCRMR/series/Numbering-within-sequence/#8.27.3.2)	|
+|		|	6G2.	|	[8.27.3.3](/DCRMR/series/Numbering-within-sequence/#8.27.3.3)	|
 |	Numbering relating to parallel series titles	|	6G3.	|	[8.27.32](/DCRMR/series/Numbering-within-sequence/#82732-numbering-relating-to-parallel-title-of-series)	|
 |		|	6G3.1.	|	[8.27.32.1](/DCRMR/series/Numbering-within-sequence/#8.27.32.1)	|
 |		|	6G3.2.	|	[8.27.32.2](/DCRMR/series/Numbering-within-sequence/#8.27.32.2)	|
@@ -599,13 +597,13 @@ sidebar:
 |		|	7B10.3.	|	[6.225.3.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1) [6.225.3.2](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2)	|
 |		|	7B10.4.	|	[6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)	|
 |		|	7B10.5.	|	[6.32.3.3](/DCRMR/phys-desc/Type-of-binding/#6.32.3.3) [6.32.3.4](/DCRMR/phys-desc/Type-of-binding/#6.32.3.4) [9.41.35.1](/DCRMR/additional-notes/Modification-of-item/#9.41.35.1)	|
-|	Accompanying material	|	7B11.	|	[9.3.38.2](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.2)	|
-|	Series	|	7B12.	|	[8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)	|
+|	Accompanying material	|	7B11.	|	[9.3.38.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.2)	|
+|	Series	|	7B12.	|	[8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)	|
 |	Dissertations	|	7B13.	|	[9.12.3.1](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1) [9.12.3.2](/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2)	|
-|	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-in/#93231-references-to-published-descriptions)	|
-|		|	7B14.1.	|	[9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)	|
-|		|	7B14.2.	|	[9.32.31.2](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.2)	|
-|		|	7B14.3.	|	[9.32.32.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.32.1)	|
+|	References to published descriptions	|	7B14.	|	[9.32.31](/DCRMR/additional-notes/Manifestation-described-by/#93231-references-to-published-descriptions)	|
+|		|	7B14.1.	|	[9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)	|
+|		|	7B14.2.	|	[9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)	|
+|		|	7B14.3.	|	[9.32.32.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.32.1)	|
 |	Summary	|	7B15.	|	[9.25.3.1](/DCRMR/additional-notes/Summarization-of-content/#9.25.3.1)	|
 |	Contents	|	7B16.	|	[9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)	|
 |		|	7B16.1.	|	[9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)	|
@@ -615,7 +613,7 @@ sidebar:
 |	“With” notes	|	7B18.	|	[9.45.3](/DCRMR/additional-notes/Bound-with/#9453-general-rule)	|
 |		|	7B18.1.	|	[9.45.3.1](/DCRMR/additional-notes/Bound-with/#9.45.3.1)	|
 |		|	7B18.2.	|	[9.45.3.2](/DCRMR/additional-notes/Bound-with/#9.45.3.2)	|
-|		|	7B18.3.	|	[9.34.25.1](/DCRMR/additional-notes/Issued-with/#9.34.25.1)	|
+|		|	7B18.3.	|	[9.34.25.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.25.1)	|
 |	Copy being described and library holdings (Local notes)	|	7B19.	|	[9.4.3](/DCRMR/additional-notes/Note-on-item/#943-general-rule)	|
 |	General rule	|	7B19.1.	|	[9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)	|
 |		|	7B19.1.1.	|	[9.4.3.2](/DCRMR/additional-notes/Note-on-item/#9.4.3.2)	|
@@ -672,9 +670,9 @@ sidebar:
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
 |	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
 |	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
-|	Title proper of series (Optional) 	|	6B1.	|	[8.21.31.1](/DCRMR/series/Title-of-series/#8.21.31.1)	|
+|	Title proper of series (Optional) 	|	6B1.	|	[8.21.3.1](/DCRMR/series/Title-of-series/#8.21.3.1)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
-|	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Accompanied-by-manifestation/#9.3.38.6)	|
+|	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.6)	|
 |	Copy-specific titles (Optional)	|	7B19. 	|	[1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)  [1.27.31.2](/DCRMR/title/Title-of-item/#1.27.31.2)	|
 
 ### Appendix G
@@ -693,4 +691,5 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/) 
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/)
+[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Glossary")](/DCRMR/glossary/) 

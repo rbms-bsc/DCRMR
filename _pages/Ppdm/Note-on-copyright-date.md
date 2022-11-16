@@ -27,7 +27,7 @@ sidebar:
 
 <a name="5.36.3.1">5.36.3.1</a> Make a note on copyright details that are not included in other elements if they are considered important (see [5.01.1.4](/DCRMR/ppdm/#5.01.1.4)).
 
->Example:  
+>**Example:**  
 ><CITE>“Entered according to Act of Congress, in the year 1833, by William Pierce, in the Clerk's office of the District Court of the District of Massachusetts"&#8208;&#8208;Title page verso</CITE>
 
 ---

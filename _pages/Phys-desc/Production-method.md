@@ -32,17 +32,17 @@ sidebar:
 
 <a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
 
->Example:  
+>**Example:**  
 >Production method: <CITE>intaglio printing</CITE>  
 >Source code of term: <CITE>aat</CITE>  
->(*Comment*: Example includes the MARC source code of term for clarity)
+>>(*Comment*: Example includes the MARC source code of term for clarity)
 
 <a name="6.27.3.3">6.27.3.3</a> When multiple techniques or processes are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 
->Example:  
+>**Example:**  
 ><CITE>aquatint</CITE>  
 ><CITE>etching</CITE>  
->(*Comment*: Print done in aquatint with some etching)
+>>(*Comment*: Print done in aquatint with some etching)
 
 <a name="6.27.3.4">6.27.3.4</a> Make a note recording more detailed descriptions of the processes or techniques used to produce a manifestation in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) if considered important (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
 

@@ -93,8 +93,9 @@ Thanks also to Francis Lapka and Liz Adams for investigating hosting options for
 Finally, I want to acknowledge our keepers of the text and editors. Audrey Pearson served as keeper of the text from 2014. After Audrey completed her editorial group term in 2019, Amy Tims took over this responsibility, ensuring editorial consistency for the emergent standard. kalan Knudson Davis joined as co-keeper in 2020 and led the migration of the text to GitHub. It is no exaggeration to say that this work could not have been accomplished without kalan’s hard work and dedication. Finally, a huge thank you to Michelle Mascaro, who served as editor from July 2017 until June 2020. The successful completion of this text and final publication could not have happened without her years of tireless work.
 
 Elizabeth Hobart  
-Editor, RBMS RDA Editorial Group  
+Chief editor, RBMS RDA Editorial Group  (2019-2022)  
+February 2022
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Future work")](/DCRMR/preface/Future-work/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Introduction")](/DCRMR/introduction/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Future work")](/DCRMR/preface/Future-work/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Membership roster")](/DCRMR/preface/Membership-roster/)

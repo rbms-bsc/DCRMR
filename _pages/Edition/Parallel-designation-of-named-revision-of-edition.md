@@ -27,7 +27,7 @@ sidebar:
 
 <a name="3.245.3.1">3.245.3.1</a> If a [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) appears on the source of information in more than one language or script, transcribe the statement that is in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as the Designation of named revision of edition. If this criterion does not apply, transcribe the statement that appears first in the manifestation (see [3.24.33.1](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.33.1)).
 
-<a name="3.245.3.2">3.245.3.2</a> Transcribe the remaining statement(s) as parallel designation(s) of a named revision of edition as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="3.245.3.2">3.245.3.2</a> Transcribe the remaining statement(s) as Parallel designation(s) of a named revision of edition. Follow the instructions in [Designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) for the transcription of such statements.
 
 <a name="3.245.3.3">3.245.3.3</a> *Optionally*, if the Parallel designations of a named revision of edition in a single statement are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted Parallel designations of named revision of edition in the supplied phrase. Do not use the mark of omission.
 

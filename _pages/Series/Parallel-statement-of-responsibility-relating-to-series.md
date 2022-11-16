@@ -23,7 +23,7 @@ sidebar:
 
 <a name="8.255.2.1">8.255.2.1</a> A statement of responsibility relating to series in another language or script.
 
-## 8.255.3 Parallel statement of responsibility relating to series
+## 8.255.3 General rule
 
 <a name="8.255.3.1">8.255.3.1</a> If there are parallel titles of series but the [Statement of responsibility relating to series](/DCRMR/series/Statement-of-responsibility-relating-to-series/) appears in only one language or script, transcribe the statement of responsibility after the last [Parallel title of series](/DCRMR/series/Parallel-title-of-series/) (following any other title information associated with the title). 
 

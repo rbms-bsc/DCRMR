@@ -31,23 +31,23 @@ sidebar:
 
 <a name="10.22.3.1">10.22.3.1</a> If the manifestation bears a price or other terms of availability, record the information if considered important. 
 
->Example:  
+>**Example:**  
 ><CITE>At foot of half title, in square brackets: “Price one shilling and six-pence”</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Above imprint on title page, in square brackets: “Price 3d. - or twelve for 2s. 6d.”</CITE>
 
 ## 10.22.31 Qualification
 
 <a name="10.22.31.1">10.22.31.1</a> *Optionally*, add qualifications (including the type of binding) to the terms of availability.
 
->Example:  
+>**Example:**  
 ><CITE>“(Price 6d. in gilt paper.-9d. bound)”&#8208;&#8208;below imprint on title page</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Below imprint on title page, in square brackets: “Price two shillings, sewed”</CITE>
 
->Example:   
+>**Example:**   
 ><CITE>“Presented, gratis, to subscribers; to non-subscribers, price one shilling”&#8208;&#8208;below imprint on title page</CITE>
 
 ---

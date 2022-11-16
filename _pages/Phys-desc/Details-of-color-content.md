@@ -31,39 +31,39 @@ sidebar:
 
 <a name="6.235.31.1">6.235.31.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [Color content, 6.23.31.2](/DCRMR/phys-desc/Color-content/#6.23.31.2)).
 
->Example:  
+>**Example:**  
 ><CITE>Printed in green throughout</CITE>
 
 <a name="6.235.31.2">6.235.31.2</a> Make a note on the color of the ink in textual matter if considered important (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Title and preliminary pages are printed in red and black ink</CITE>
 
 For incunabula, always record color printing if present (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Printed in red and black</CITE>  
->(*Comment*: The manifestation is an incunable)
+>>(*Comment*: The manifestation is an incunable)
 
 ## 6.235.33 Details of hand coloring
 
 <a name="6.235.33.1">6.235.33.1</a> If publisher-issued hand coloring has been recorded as [Color content](/DCRMR/phys-desc/Color-content/), always make a note to indicate that the resource was hand colored before distribution (see [6.23.32.2](/DCRMR/phys-desc/Color-content/#6.23.32.2)). Record the evidence used to determine that the hand coloring was applied before distribution if not evident from the rest of the description.
 
->Example:  
+>**Example:**  
 >Color content: <CITE>hand colored</CITE>  
 >Details of color content: <CITE>With hand colored wood engravings, as issued</CITE>  
->(*Comment*: Title contains statement “with brightly-colored pictures”)
+>>(*Comment*: Title contains statement “with brightly-colored pictures”)
 
->Example:  
+>**Example:**  
 >Color content: <CITE>hand colored</CITE>  
 >Details of color content: <CITE>Lithographs are hand colored, as issued</CITE>  
 
 <a name="6.235.33.2">6.235.33.2</a> If there is strong evidence that some copies of the resource were issued with hand coloring applied before distribution, and some without, record this information as Details of color content (see [Color content, 6.23.32.2](/DCRMR/phys-desc/Color-content/#6.23.32.2)).
 
->Example:  
+>**Example:**  
 ><CITE>“Price 25 cents plain, 37 1/2 cents colored”&#8208;&#8208;Foot of title page</CITE>  
 
->Example:  
+>**Example:**  
 ><CITE>“Price 1s. colored, 6d. uncolored”&#8208;&#8208;Following imprint</CITE> 
 
 <a name="6.235.33.3">6.235.33.3</a> Exercise caution in recording the colors employed in hand coloring. Record such information only if there is strong evidence describing the coloring scheme employed by the publisher. Do not assume that a coloring scheme used in one exemplar of the manifestation is representative of the coloring scheme for all exemplars. 
@@ -74,7 +74,7 @@ For incunabula, always record color printing if present (see [Color content, 6.2
 
 <a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g., paper) if considered important (see [Color content, 6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Printed in gold on dark blue paper</CITE>  
 
 ---

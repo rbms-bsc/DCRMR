@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.45.25 Related elements
 
-<a name="9.45.25.1">9.45.25.1</a> See [Issued with](/DCRMR/additional-notes/Issued-with/) for manifestations issued together by the publisher on the same carrier.
+<a name="9.45.25.1">9.45.25.1</a> See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) for manifestations issued together by the publisher on the same carrier.
 
 ## 9.45.3 General rule
 
@@ -45,10 +45,10 @@ c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor
 
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
->Example:  
+>**Example:**  
 > <CITE>Library copy bound with: Duns Scotus, John. Incipit scriptu[m] sup[er] Primo sente[n]tia[rum] editum a fratre Joanne Duns. [Venice] : [Joannis de Colonia, Nicolai Jenson, Joannes de Selgenstat], [10 November 1481]</CITE>
 
->Example:  
+>**Example:**  
 > <CITE>Library copy bound with: Kiepert, H. Supplementheft zum Atlas von Hellas und den hellenischen Colonien. Berlin : Verlag der Nicolaischen Buchhandlung, 1851</CITE>
 
 <a name="9.45.3.3">9.45.3.3</a> If it is considered that the items are too numerous to be listed exhaustively, make a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.36.1](/DCRMR/additional-notes/Note-on-item/#9.4.36.1)).

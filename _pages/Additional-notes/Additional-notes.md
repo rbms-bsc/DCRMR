@@ -21,7 +21,7 @@ sidebar:
 
 <a name="9.01.4.1">9.01.4.1</a> Notes qualify and amplify the formal description, and are especially important for recording types of information not accounted for in other data elements. Notes can therefore deal with any aspect of the resource and its description.
 
-<a name="9.01.4.2">9.01.4.2</a> If the description in other manifestation elements does not clearly identify the resource being cataloged, make whatever notes are necessary for unambiguous identification. When appropriate, refer to detailed descriptions in standard bibliographic or reference sources. Provide sufficient information to identify the specific source, whether using a general note, a formal “References” note giving the source in prescribed form, or some combination of the two (see [Manifestation described in, 9.32.31.1](/DCRMR/additional-notes/Manifestation-described-in/#9.32.31.1)).
+<a name="9.01.4.2">9.01.4.2</a> If the description in other manifestation elements does not clearly identify the resource being cataloged, make whatever notes are necessary for unambiguous identification. When appropriate, refer to detailed descriptions in standard bibliographic or reference sources. Provide sufficient information to identify the specific source, whether using a general note, a formal “References” note giving the source in prescribed form, or some combination of the two (see [Manifestation described by, 9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)).
 
 <a name="9.01.4.3">9.01.4.3</a> Notes may also be made to justify access points for subjects, personal or corporate names, titles, genres/forms, physical characteristics, provenance, etc. Whenever possible, use terms taken from controlled vocabularies when making such notes and added entries. Prefer the terminology used in [RBMS Controlled Vocabularies](http://rbms.info/vocabularies/index.shtml){:target="_blank"} or [Library of Congress Genre/Form Terms for Library and Archival Materials](https://id.loc.gov/authorities/genreForms.html){:target="_blank"}. Terms from other authorized vocabularies (e.g., [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat){:target="_blank"}) may also be used.
 
@@ -56,11 +56,11 @@ sidebar:
 
 [9.3 — Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/)
 
-[9.32 — Manifestation described in](/DCRMR/additional-notes/Manifestation-described-in/)
+[9.32 — Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/)
 
 [9.33 — Supplementary content](/DCRMR/additional-notes/Supplementary-content/)
 
-[9.34 — Issued with](/DCRMR/additional-notes/Issued-with/)
+[9.34 — On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/)
 
 [9.4 — Note on item](/DCRMR/additional-notes/Note-on-item/)
 

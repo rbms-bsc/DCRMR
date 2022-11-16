@@ -27,22 +27,22 @@ sidebar:
 
 <a name="6.26.3.1">6.26.3.1</a> Record an applied material of the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source.
 
->Example:  
+>**Example:**  
 >Applied material: <CITE>ink</CITE>  
 >Source code of term: <CITE>rdamat</CITE>  
->(*Comment*: Example includes the MARC source code of term for clarity)
+>>(*Comment*: Example includes the MARC source code of term for clarity)
 
->Example:  
+>**Example:**  
 >Applied material: <CITE>watercolor</CITE>  
 >Source code of term: <CITE>rdamat</CITE>  
->(*Comment*: Example includes the MARC source code of term for clarity)
+>>(*Comment*: Example includes the MARC source code of term for clarity)
 
 <a name="6.26.3.2">6.26.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
->Example:  
+>**Example:**  
 >Applied material: <CITE>gold leaf</CITE>  
 >Source code of term: <CITE>aat</CITE>  
->(*Comment*: Example includes the MARC source code of term for clarity)
+>>(*Comment*: Example includes the MARC source code of term for clarity)
 
 <a name="6.26.3.3">6.26.3.3</a> When multiple applied materials are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 

@@ -23,6 +23,8 @@ docs:
         url: /DCRMR/preface/Future-work/
       - title: "Acknowledgments"
         url: /DCRMR/preface/Acknowledgments/
+      - title: "Membership roster"
+        url: /DCRMR/preface/Membership-roster/
 
   - title: "Introduction"
     url: /DCRMR/introduction/
@@ -260,12 +262,12 @@ docs:
         url: /DCRMR/additional-notes/Summarization-of-content/  
       - title: "9.3 — Note on manifestation"
         url: /DCRMR/additional-notes/Note-on-manifestation/      
-      - title: "9.32 — Manifestation described in"
-        url: /DCRMR/additional-notes/Manifestation-described-in/        
+      - title: "9.32 — Manifestation described by"
+        url: /DCRMR/additional-notes/Manifestation-described-by/        
       - title: "9.33 — Supplementary content"
         url: /DCRMR/additional-notes/Supplementary-content/
-      - title: "9.34 — Issued with"
-        url: /DCRMR/additional-notes/Issued-with/
+      - title: "9.34 — On carrier unit with"
+        url: /DCRMR/additional-notes/On-carrier-unit-with/
       - title: "9.4 — Note on item"
         url: /DCRMR/additional-notes/Note-on-item/
       - title: "9.41 — Modification of item"
@@ -312,3 +314,9 @@ docs:
         url: /DCRMR/appendices/Appendix-j/
       - title: "K — Mapping from DCRM to DCRMR"
         url: /DCRMR/appendices/Appendix-k/
+        
+  - title: "Glossary"
+    url: /DCRMR/glossary/
+    
+  - title: "Changelog"
+    url: /DCRMR/changelog/

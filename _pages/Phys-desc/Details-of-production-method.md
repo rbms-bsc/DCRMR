@@ -27,10 +27,10 @@ sidebar:
 
 <a name="6.275.3.1">6.275.3.1</a> Record fuller details of the production method if considered important (see [Production method, 6.27.3.4](/DCRMR/phys-desc/Production-method/#6.27.3.4)).
 
->Example:  
+>**Example:**  
 ><CITE>Woodcut head- and tail-pieces; woodcut factotum</CITE>
 
->Example:  
+>**Example:**  
 >Production method: <CITE>printing</CITE>  
 >Production method: <CITE>engraving</CITE>  
 >Details of production method: <CITE>First quire is in letterpress; rest is engraved</CITE>

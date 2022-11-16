@@ -31,10 +31,10 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the term general “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
 
->Example:  
+>**Example:**  
 ><CITE>illustration</CITE>   
 
->Example:  
+>**Example:**  
 ><CITE>illustrations</CITE>
 
 <a name="6.22.3.2">6.22.3.2</a> *Optionally*, disregard minor illustrations.
@@ -65,22 +65,22 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.31.3">6.22.31.3</a> Replace the general term “illustration” or “illustrations” with terms specifying particular types of illustrative content if the particular types are the only illustrative content in the resource.
 
->Example:    
+>**Example:**    
 ><CITE>map</CITE>  
 
->Example:  
+>**Example:**  
 ><CITE>portraits</CITE>
 
 <a name="6.22.31.4">6.22.31.4</a>  Record the general term “illustrations” in addition to terms specifying particular types of illustrative content if the particular types are not the only illustrative content in the resource.
 
->Example:  
+>**Example:**  
 ><CITE>illustrations, maps, plans</CITE>   
 
 ## 6.22.33 Illustrations in pockets
 
 <a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Note on manifestation, 9.3.38.7](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.7)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
 
->Example:  
+>**Example:**  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Folded map in pocket</CITE>
 
@@ -88,7 +88,7 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.32.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
 
->Example:  
+>**Example:**  
 >Illustrative content: <CITE>map</CITE>  
 >Details of illustrative content: <CITE>Map on endpapers</CITE>
 
@@ -96,16 +96,16 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.35.1">6.22.35.1</a> Record the number of illustrations when their number can be ascertained readily (e.g., when the illustrations are listed and their numbers stated).  
 
->Example:  
+>**Example:**  
 ><CITE>94 illustrations</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>illustrations, 8 facsimiles</CITE> 
 
->Example:  
+>**Example:**  
 ><CITE>3 illustrations, 1 map</CITE>  
 
->Example:  
+>**Example:**  
 ><CITE>6 illustrations, 2 maps, 1 portrait</CITE>
 
 <a name="6.22.35.2">6.22.35.2</a> *Optionally*, record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important.
@@ -116,12 +116,12 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.37.2">6.22.37.2</a> If the resource contains a mixture of text and illustration, with illustration predominating,  and the decision is made to describe the resource as text, use the term "chiefly illustrations". 
 
->Example:  
+>**Example:**  
 > <CITE>chiefly illustrations</CITE>
 
 <a name="6.22.37.3">6.22.37.3</a> *Optionally*, when the illustrations are chiefly of a particular type (see [6.22.31.1](/DCRMR/phys-desc/Illustrative-content/#6.22.31.1)), precede the term specifying the particular type with "chiefly".  
 
->Example:  
+>**Example:**  
 > <CITE>chiefly maps</CITE>  
 
 ---

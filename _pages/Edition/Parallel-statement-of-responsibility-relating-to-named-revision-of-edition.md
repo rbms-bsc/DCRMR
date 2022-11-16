@@ -29,7 +29,7 @@ sidebar:
 
 <a name="3.255.3.2">3.255.3.2</a> If a statement of responsibility relating to named revision of edition appears on the manifestation in more than one language or script, transcribe the statement in the language or script of the title proper as [Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/). If this criterion does not apply, transcribe the statement that appears first. 
 
-<a name="3.255.3.3">3.255.3.3</a> Transcribe the remaining statement(s) as Parallel statements of responsibility relating to named revision of edition as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="3.255.3.3">3.255.3.3</a> Transcribe the remaining statement(s) as Parallel statements of responsibility relating to named revision of edition. Follow the instructions in [Statement of responsibility relating to named revision of edition](/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/) for the transcription of such statements.
 
 <a name="3.255.3.4">3.255.3.4</a> When transposing, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the original position (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
 

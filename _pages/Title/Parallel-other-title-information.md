@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.235.3 General rule
 
-<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the order indicated by their sequence on, or by the layout of, the title page.
+<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Other title information](/DCRMR/title/Other-title-information/).
 
 ---
 

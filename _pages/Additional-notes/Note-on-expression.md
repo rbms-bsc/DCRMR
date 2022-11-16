@@ -31,7 +31,7 @@ sidebar:
 
 <a name="9.2.31.1">9.2.31.1</a> Make a note if the expression is an adaptation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Adaptation of expression](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-ad1fcd50-7a30-338a-83cf-a9e27843e99a){:target="_blank"}).
 
->Example:  
+>**Example:**  
 ><CITE>Author's adaptation of his Latin text.</CITE>
 
 ## 9.2.32 Note on sequential expressions
@@ -42,10 +42,10 @@ sidebar:
 
 <a name="9.2.33.1">9.2.33.1</a> Make a note if the expression is a translation, unless apparent from the rest of the description and if considered important (see also [RDA Toolkit: Translation of](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-4fba5f0f-ee39-3849-9cd0-a4b432e3201b){:target="_blank"}).
 
->Example:  
+>**Example:**  
 ><CITE>Translation of: Gulliver's travels</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>In part a translation of: Le déserteur / M.-J. Sedaine</CITE>
 
 ## 9.2.34 Note on revisions
@@ -54,10 +54,10 @@ sidebar:
 
 <a name="9.2.34.2">9.2.34.2</a> In citing another edition of the same work, give enough information to identify the edition cited.
 
->Example:  
+>**Example:**  
 ><CITE>Revision of: 2nd edition, 1753</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>A revision of the edition in four sheets, dated "twentieth day of April 1639," which was ordered by King Charles to be suppressed in favor of this edition in three sheets, dated "twentie fifth day of April"</CITE>
 
 ---

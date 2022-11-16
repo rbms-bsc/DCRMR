@@ -31,10 +31,10 @@ sidebar:
 
 <a name="9.425.3.1">9.425.3.1</a> Record details of an item’s immediate source of acquisition if considered important. Record method of acquisition (e.g., gift, purchase, deposit, transfer) and the donor or source (i.e., the immediate prior custodian). In addition, the donor’s relationship to the item may be indicated. Include the year or years of acquisition.
 
->Example:  
+>**Example:**  
 ><CITE>Gift from the Franklin D. Roosevelt Library, Jan. 9, 1950</CITE>  
 
->Example:  
+>**Example:**  
 ><CITE>Sold at Christie's, 5 July 2016, Sale 11787, Lot 73, to Andrew Edmunds for The Lewis Walpole Library</CITE>
 
 ---

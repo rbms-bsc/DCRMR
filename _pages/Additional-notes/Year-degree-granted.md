@@ -27,10 +27,10 @@ sidebar:
 
 <a name="9.123.3.1">9.123.3.1</a> Record the year in which the degree was granted.
 
->Example:  
+>**Example:**  
 > <CITE>1786</CITE>
 
->Example:  
+>**Example:**  
 > <CITE>1805</CITE>
 
 ---

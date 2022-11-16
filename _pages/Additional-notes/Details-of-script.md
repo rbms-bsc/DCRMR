@@ -27,10 +27,10 @@ sidebar:
 
 <a name="9.245.3.1">9.245.3.1</a> Always record the presence of nonroman script in the resource if it has been transcribed only in romanized form in the description (see [Language and script of the description, 0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Church Slavic in Church Slavic script</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Title in Greek script</CITE>
 
 <a name="9.245.3.2">9.245.3.2</a> Record other characteristics of the script of the expression in Details of script if considered important.

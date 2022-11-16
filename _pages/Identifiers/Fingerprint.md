@@ -27,11 +27,11 @@ sidebar:
 
 <a name="10.21.3.1">10.21.3.1</a> If considered important, record the fingerprint derived according to a published standard. Identify the scheme used for recording the fingerprint. (For further information on this method of identification and recommended forms of recording it, see *Fingerprints* = *Empreintes* = *Impronte*, supplemented by *Nouvelles des empreintes* = *Fingerprint Newsletter*, or Vriesema, P.C.A. “The STCN Fingerprint.”)
 
->Example:  
+>**Example:**  
 > <CITE>163704 - b1 A2 ,$en : b2 I2 a,$</CITE>  
 > <CITE>Content standard: stcnf</CITE>
 
->Example:  
+>**Example:**  
 > <CITE>p.n, n,re t.n. waOh 7 1651A</CITE>  
 > <CITE>Content standard: fei</CITE>
 

@@ -37,20 +37,20 @@ Note: only the elements related to publication are set out below. The same order
 
 <a name="5.01.3.2">5.01.3.2</a> If statements belonging to different elements appear out of order, or as part of another element, and they are grammatically separable, transpose them as needed. Always make a note indicating the original position of the transposed elements (see [Note on publication statement, 5.24.31.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.3); [Note on distribution statement, 5.285.31.3](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.3); [Note on manufacture statement, 5.34.31.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.3)). 
 
->Example:   
+>**Example:**   
 >Distribution statement: <CITE>London : Sold also by Vernor and Hood, Crosby and Letterman</CITE>  
 >Note on distribution statement: <CITE>Place of distribution, “London,” is printed below distributor’s name on title page</CITE>  
->(*Comment*: Example formatted with ISBD punctuation for clarity)  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 <a name="5.01.3.3">5.01.3.3</a> If the elements are not grammatically separable, or their transposition would result in an ambiguous or otherwise confusing construction, transcribe them in the order found and supply missing elements in square brackets as needed (see [Transcription](/DCRMR/general-rules/Transcription/)).
 
->Example:  
+>**Example:**  
 >Publication statement: <CITE>London : Printed and published by C. Lowndes, no. 66, Drury-Lane and sold by H.D. Symonds, Paternoster Row, 1800</CITE>  
-(*Comment*: The distribution statement is not grammatically separable and therefore it has been transcribed as part of the publication statement. Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: The distribution statement is not grammatically separable and therefore it has been transcribed as part of the publication statement. Example formatted with ISBD punctuation for clarity)
 
->Example:  
+>**Example:**  
 >Distribution statement: <CITE>[London] : Prostant apud Jacobum Knapton, Robert. Knaplock, & Paulum Vaillant, bibliopolas Londinenses</CITE>  
->(*Comment*: The place of distribution is not grammatically separable. Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: The place of distribution is not grammatically separable. Example formatted with ISBD punctuation for clarity)
 
 ## Contents:
 {: .no_toc }

@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 9.34 — Issued with
-permalink: /DCRMR/additional-notes/Issued-with/
+title: 9.34 — On carrier unit with
+permalink: /DCRMR/additional-notes/On-carrier-unit-with/
 sidebar:
   nav: "docs"
 ---
@@ -21,11 +21,11 @@ sidebar:
 
 ## 9.34.2 RDA definition and scope
 
-<a name="9.34.2.1">9.34.2.1</a> A manifestation that is issued on the same carrier as a manifestation being described.
+<a name="9.34.2.1">9.34.2.1</a> A manifestation that is a part of the same carrier unit as another part manifestation.
 
 ## 9.34.21 DCRMR elaboration of scope
 
-<a name="9.34.21.1">9.34.21.1</a> Record an Issued with relationship for a manifestation in which a volume is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record an Issued with relationship  if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
+<a name="9.34.21.1">9.34.21.1</a> Record an "issued with" relationship for a manifestation in which a volume is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record an "issued with" relationship if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
 
 ## 9.34.25 Related element
 
@@ -45,7 +45,7 @@ c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor
 
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
->Example:  
+>**Example:**  
 ><CITE>Issued with: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</CITE>
 
 <a name="9.34.3.3">9.34.3.3</a> *Optionally*, record an RDA Access point for manifestation for the related manifestation(s) in addition to the note (see [RDA Toolkit: Access point for manifestation](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"}).

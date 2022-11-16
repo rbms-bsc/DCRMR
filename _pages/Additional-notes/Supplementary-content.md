@@ -31,47 +31,47 @@ sidebar:
 
 <a name="9.33.3.1">9.33.3.1</a>  List supplementary content, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description or to stress components of particular importance.
 
->Example:  
+>**Example:**  
 ><CITE>Includes bibliographical references (pages 43-58)</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Includes bibliographical references</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Includes index</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>"List of the author's unpublished poems": pages 151-158</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>With a list of subscribers</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Prospectus and bookseller's advertisements on pages 77-[80]</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Publisher's advertisements on [2] pages at end</CITE>  
->(*Comment*: Advertisements integral to manifestation; see [6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1))
+>>(*Comment*: Advertisements integral to manifestation; see [6.21.4235.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4235.1))
 
->Example:  
+>**Example:**  
 ><CITE>Final unnumbered sequence contains: "An abstract of the penal-laws"</CITE>
 
 ## 9.33.31 Errata leaves and slips
 
 <a name="9.33.31.1">9.33.31.1</a> Always note the presence of errata leaves and errata slips. Record errata leaves (but not errata slips) in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/) whether or not they are integral to a gathering (see [6.21.423.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.423.1)). Note the presence of errata listed in other sources in the manifestation if considered important.
 
->Example:  
+>**Example:**  
 ><CITE>Errata on last leaf</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>With an errata slip</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>With an errata slip pasted onto a blank leaf after the title page</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Errata on page [47]</CITE>
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.32 — Manifestation described in")](/DCRMR/additional-notes/Manifestation-described-in/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.34 — Issued with")](/DCRMR/additional-notes/Issued-with/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.32 — Manifestation described by")](/DCRMR/additional-notes/Manifestation-described-by/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/)

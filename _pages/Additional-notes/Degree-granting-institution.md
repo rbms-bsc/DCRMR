@@ -27,10 +27,10 @@ sidebar:
 
 <a name="9.122.3.1">9.122.3.1</a> Record the name of the institution or faculty to which the thesis or dissertation was presented.
 
->Example:  
+>**Example:**  
 ><CITE>Harvard College</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Universität Tübingen</CITE>
 
 ---

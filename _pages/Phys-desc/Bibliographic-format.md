@@ -27,14 +27,14 @@ sidebar:
 
 <a name="6.29.3.1">6.29.3.1</a> For hand-press publications, record the bibliographic format of the manifestation whenever the format can be determined. *Optionally*, give the format for machine-press publications. Record the format using one or more terms from the [RDA Value Vocabularies: RDA Bibliographic Format](http://www.rdaregistry.info/termList/bookFormat/){:target="_blank"}. Use "full-sheet" for manifestations made up of unfolded sheets.
 
->Example:  
+>**Example:**  
 ><CITE>4to</CITE>  
->(*Comment*: A publication in quarto)
+>>(*Comment*: A publication in quarto)
 
->Example:  
+>**Example:**  
 ><CITE>4to</CITE>  
 ><CITE>8vo</CITE>  
->(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
+>>(*Comment*: A publication consisting of a mixture of quarto and octavo sheets)
 
 <a name="6.29.3.2">6.29.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 

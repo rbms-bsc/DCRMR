@@ -25,13 +25,13 @@ sidebar:
 
 ## 8.23.3 General rule
 
-<a name="8.23.3.1">8.23.3.1</a> Transcribe Other title information of series as it appears on the manifestation, as instructed in [Transcription](/DCRMR/general-rules/Transcription/).
+<a name="8.23.3.1">8.23.3.1</a> Transcribe Other title information of series in the form and order in which it is presented on the preferred source of information, unless instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
->Example:  
+>**Example:**  
 >Title of series: <CITE>The mermaid series</CITE>  
 >Other title information of series: <CITE>the best plays of the old dramatists</CITE>
 
->Example:  
+>**Example:**  
 >Title of series: <CITE>Watkins’ new boudoir series</CITE>  
 >Other title information of series: <CITE>Yo Semite and Pacific Coast</CITE>
 

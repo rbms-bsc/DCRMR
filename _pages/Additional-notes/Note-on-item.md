@@ -48,16 +48,16 @@ sidebar:
 
 <a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and if considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: “Ninth printing, December, 1954”-- title page verso</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: “Fifth ten thousand”</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: “51st-100th”-- title page verso</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: Publisher’s code “B-O” on title page verso indicates printed Feb. 1914; see Boutell, H.S. First editions (4th ed., rev. and enl.)</CITE>
 
 ## 9.4.32 Edition statements on nonce collections
@@ -68,47 +68,47 @@ sidebar:
 
 <a name="9.4.33.1">9.4.33.1</a> Record where and when the item has been exhibited if considered important.
 
->Example:  
+>**Example:**  
 ><CITE>Exhibited: "Illustrating the Imagination: Celebrating Children's Illustrators from the Cornish Colony and Today" at the Cornish Museum, Windsor, VT, 2009-2010</CITE>
 
 ## 9.4.34 Copy numbers from limitation statements
 
 <a name="9.4.34.1">9.4.34.1</a> For items with limitation statements which include a unique number of the item being cataloged, record the copy number as a Note on item if considered important. See [Note on manifestation, 9.3.35](/DCRMR/additional-notes/Note-on-manifestation/#9335-limitation-statements) for recording limitation statements.
 
->Example:  
+>**Example:**  
 ><CITE>Library has no. 20</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: Identified as number 97 of 250 copies on recto of final printed leaf</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: Identified as number 141 of a limited edition of 150 copies printed on laid Holland paper</CITE>
 
 ## 9.4.35 Completed blanks in transcribed elements
 
 <a name="9.4.35.1">9.4.35.1</a> If a blank has been completed in the item being described, indicate this in a Note on item if considered important (see [Transcription, 0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2)). For title access to item-specific titles, see [1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
 
 <a name="9.4.35.2">9.4.35.2</a> Make a Note on item to indicate the presence or absence of manuscript execution in the copy if considered important (see [Transcription, 0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
 ## 9.4.36 Notes relating to bound-with elements
 
 <a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list to exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy bound with 13 other titles by, or edited by, Hermann Conring</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy is bound with 12 other titles on American history</CITE>
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.34 — Issued with")](/DCRMR/additional-notes/Issued-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.41 — Modification of item")](/DCRMR/additional-notes/Modification-of-item/)

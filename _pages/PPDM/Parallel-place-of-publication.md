@@ -23,17 +23,17 @@ sidebar:
 
 <a name="5.215.2.1">5.215.2.1</a> A place of publication in another language or script.
 
-## 5.215.31 Publication place names in more than one language or script
+## 5.215.3 General rule
 
-<a name="5.215.31.1">5.215.31.1</a> Take parallel places of publication from the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) on parallel places of publication found elsewhere if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
+<a name="5.215.3.1">5.215.3.1</a> Take parallel places of publication from the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/). Make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) on parallel places of publication found elsewhere if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
-<a name="5.215.31.2">5.215.31.2</a> For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)).
+<a name="5.215.3.2">5.215.3.2</a> For transposed elements, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the original position on the source (see [5.24.32.6](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.6)).
 
-<a name="5.215.31.3">5.215.31.3</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as [Place of publication](/DCRMR/ppdm/Place-of-publication/). If this criterion does not apply, transcribe the place that appears first as [Place of publication](/DCRMR/ppdm/Place-of-publication/). 
+<a name="5.215.3.3">5.215.3.3</a> If the place of publication appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as [Place of publication](/DCRMR/ppdm/Place-of-publication/). If this criterion does not apply, transcribe the place that appears first as [Place of publication](/DCRMR/ppdm/Place-of-publication/). 
 
-<a name="5.215.31.4">5.215.31.4</a> Transcribe remaining places of publication appearing on the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/) as Parallel places of publication.  If a parallel place of publication is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
+<a name="5.215.3.4">5.215.3.4</a> Transcribe remaining places of publication appearing on the same source as the [Place of publication](/DCRMR/ppdm/Place-of-publication/) as Parallel places of publication.  If a parallel place of publication is from a different source than the [Place of publication](/DCRMR/ppdm/Place-of-publication/), make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important (see [5.24.33.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.33.1)).
 
-<a name="5.215.31.5">5.215.31.5</a> *Optionally*, if the parallel publication places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
+<a name="5.215.3.5">5.215.3.5</a> *Optionally*, if the parallel publication places are considered too numerous to list exhaustively and some may be omitted without significant loss of identification, all after the third may be omitted. Supply in square brackets a phrase in the language and script of the cataloging agency to convey the nature of the omitted information. Include the number of omitted places in the supplied phrase. Do not use the mark of omission.
 
 ---
 

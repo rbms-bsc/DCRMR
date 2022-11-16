@@ -25,13 +25,13 @@ sidebar:
 
 ## 8.215.3 General rule
 
-<a name="8.215.3.1">8.215.3.1</a> If the source bears a series title in more than one language or script, transcribe as [Title of series](/DCRMR/series/Title-of-series/) the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as Parallel title of series. Always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [8.29.31.1](/DCRMR/series/Note-on-series-statement/#8.29.31.1)).
+<a name="8.215.3.1">8.215.3.1</a> If the source bears a series title in more than one language or script, transcribe as [Title of series](/DCRMR/series/Title-of-series/) the title that is in the language and script of the [Title proper](/DCRMR/title/Title-proper/). If this criterion does not apply, transcribe the title that appears first in the source. Transcribe the remaining title(s), together with any associated information, as Parallel title of series. Always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the original position on the source of any transposed titles (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
 
->Example:  
+>**Example:**  
 >Title of series: <CITE>Canadian cities, bird’s eye views</CITE>  
 >Parallel title of series: <CITE>Villes du Canada, vues à vol d’oiseau</CITE>
 
->Example:  
+>**Example:**  
 >Title of series: <CITE>Europäische Hochschulschriften</CITE>  
 >Parallel title of series: <CITE>European university papers</CITE>  
 >Parallel title of series: <CITE>Publications universitaires européennes</CITE>

@@ -29,22 +29,22 @@ sidebar:
 
 <a name="9.43.3.2">9.43.3.2</a> Record item-specific imperfections that alter its extent if considered important (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy 1: Imperfect: leaves 12 and 13 (b6 and c1) wanting; without the last blank leaf (S8)</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy imperfect: lacking the first four leaves (title page and index) and final blank leaf; first four leaves replaced with photostat copies</CITE>
 
->Example:  
+>**Example:**  
 ><CITE>Library copy incomplete; all after page 142 wanting</CITE>  
 
 <a name="9.43.3.3">9.43.3.3</a> Record the presence of a case or portfolio not issued with the manifestation in a Note on extent of item if considered important (see [Extent of manifestation, 6.21.4285.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.4285.2)).
 
 <a name="9.43.3.4">9.43.3.4</a> Make a Note on extent of item when the number of physical units in which an item is bound differs from the number in which it was actually issued if considered important (see [Extent of manifestation, 6.21.431.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.431.3)).
 
->Example:  
+>**Example:**  
 ><CITE>Library copy bound in four physical volumes and interleaved with a Latin translation of Plutarch’s Lives</CITE>  
->(*Comment*: The manifestation was issued in one volume)
+>>(*Comment*: The manifestation was issued in one volume)
 
 ---
 
