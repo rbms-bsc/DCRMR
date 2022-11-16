@@ -9,848 +9,723 @@
 
 <url>
   <loc>https://bsc.rbms.info/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/Search/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/preface/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/preface/Background/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/preface/Changes-from-DCRM(B)/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/preface/Future-work/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/preface/Acknowledgments/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bsc.rbms.info/DCRMR/preface/Membership-roster/</loc>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/introduction/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/general-rules/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/general-rules/Data-provenance/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/general-rules/Prescribed-punctuation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/general-rules/Language-and-script-of-the-description/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/general-rules/Transcription/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Title-of-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Title-proper/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Parallel-title-proper/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Other-title-information/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Parallel-other-title-information/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Variant-title-of-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Title-of-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/title/Note-on-title/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/sor/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/sor/Note-on-statement-of-responsibility/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Edition-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Designation-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Parallel-designation-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Statement-of-responsibility-relating-to-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Designation-of-named-revision-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Parallel-designation-of-named-revision-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Statement-of-responsibility-relating-to-named-revision-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Parallel-statement-of-responsibility-relating-to-named-revision-of-edition/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/edition/Note-on-edition-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/mathematical-details/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/mathematical-details/Details-of-cartographic-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Production-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Publication-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Place-of-publication/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-place-of-publication/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Name-of-publisher/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-name-of-publisher/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Date-of-publication/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Note-on-publication-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Distribution-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Place-of-distribution/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-place-of-distribution/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Name-of-distributor/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-name-of-distributor/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Date-of-distribution/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Note-on-distribution-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Manufacture-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Place-of-manufacture/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-place-of-manufacture/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Name-of-manufacturer/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Parallel-name-of-manufacturer/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Date-of-manufacture/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Note-on-manufacture-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Copyright-date/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/ppdm/Note-on-copyright-date/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Extent-of-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Note-on-extent-of-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Illustrative-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-illustrative-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Color-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-color-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Dimensions/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Base-material/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-base-material/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Applied-material/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-applied-material/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Production-method/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-production-method/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Layout/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-layout/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Bibliographic-format/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-bibliographic-format/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Font-size/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Details-of-font-size/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Type-of-binding/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Content-type/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Media-type/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Carrier-type/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/phys-desc/Note-on-carrier/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/numbering-of-serials/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/numbering-of-serials/Numbering-of-sequence/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Series-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Title-of-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Parallel-title-of-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Other-title-information-of-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Parallel-other-title-information-of-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Statement-of-responsibility-relating-to-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Parallel-statement-of-responsibility-relating-to-series/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Numbering-within-sequence/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/series/Note-on-series-statement/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-RDA-entity/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-work/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Dissertation-or-thesis-information/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Academic-degree/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Degree-granting-institution/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Year-degree-granted/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-expression/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Language-of-expression/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Script/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Details-of-script/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Summarization-of-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://bsc.rbms.info/DCRMR/additional-notes/Accompanied-by-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/additional-notes/Manifestation-described-in/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <loc>https://bsc.rbms.info/DCRMR/additional-notes/Manifestation-described-by/</loc>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Supplementary-content/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://bsc.rbms.info/DCRMR/additional-notes/Issued-with/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <loc>https://bsc.rbms.info/DCRMR/additional-notes/On-carrier-unit-with/</loc>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Modification-of-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Custodial-history-of-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bsc.rbms.info/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/</loc>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-extent-of-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Note-on-dimensions-of-item/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/additional-notes/Bound-with/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/identifiers/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/identifiers/Identifier-for-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/identifiers/Fingerprint/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/identifiers/Term-of-availability/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/identifiers/Note-on-identifier-for-manifestation/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-a/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-b/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-c/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-d/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-e/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-h/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-j/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/appendices/Appendix-k/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/glossary/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.51</priority>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://bsc.rbms.info/DCRMR/changelog/</loc>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/C/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://bsc.rbms.info/DCRMR//title/Note-on-title/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
+  <lastmod>2022-11-16T00:19:28+00:00</lastmod>
   <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/Num/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/A/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/B/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/D/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/E/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/F/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/G/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/H/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/I/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/J/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/K/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/L/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/M/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/N/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/O/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/P/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/Q/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/R/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/S/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/T/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/U/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/V/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/W/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/X/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/Y/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://bsc.rbms.info/DCRMR/glossary/Z/</loc>
-  <lastmod>2021-01-29T21:35:07+00:00</lastmod>
-  <priority>0.41</priority>
 </url>
 
 
