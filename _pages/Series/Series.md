@@ -35,7 +35,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 > Title of series. Title of subseries = Parallel title of series. Parallel title of subseries
 
-<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](https://bsc.rbms.info/DCRMR/series/Title-of-series/). If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe the other title information after the series title to which it relates.
+<a name="8.01.2.4">8.01.2.4</a> Transcribe [Other title information of series](/DCRMR/series/Other-title-information-of-series/) following the [Title of series](/DCRMR/series/Title-of-series/). If there are [Parallel titles of series](/DCRMR/series/Parallel-title-of-series/), transcribe the other title information after the series title to which it relates.
 
 >Title of series : other title information of series = Parallel title of series
 

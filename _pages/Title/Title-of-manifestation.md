@@ -29,7 +29,7 @@ sidebar:
 
 ## 1.2.31 Title information not appearing on title page
 
-<a name="1.2.31.1">1.2.31.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
+<a name="1.2.31.1">1.2.31.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
 
 >**Example:**  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
@@ -39,7 +39,7 @@ sidebar:
 
 <a name="1.2.32.1">1.2.32.1</a> Title access plays an important role in enabling users to identify and locate special collections materials. Variant title access enables titles other than the title proper to be indexed. While some title access will be handled by controlled access points, these instructions cover specific situations commonly encountered by rare materials catalogers in which the provision of variant title access is likely to be useful. 
  
-<a name="1.2.32.2">1.2.32.2</a>  Instructions for title access appear in various elements, such as [Parallel title proper](/DCRMR/title/Parallel-title-proper) (see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-title-access-for-parallel-titles-proper)), [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-title-access-for-variant-titles)), and [Title of item](/DCRMR/title/Title-of-item) (see [1.27.31](/DCRMR/title/Title-of-item/#12731-title-access-for-item-specific-titles)). Use judgment in determining which forms of title access will be most useful. Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access is needed.
+<a name="1.2.32.2">1.2.32.2</a>  Instructions for title access appear in various elements, such as [Parallel title proper](/DCRMR/title/Parallel-title-proper/) (see [1.215.33](/DCRMR/title/Parallel-title-proper/#121533-title-access-for-parallel-titles-proper)), [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.35](/DCRMR/title/Variant-title-of-manifestation/#12535-title-access-for-variant-titles)), and [Title of item](/DCRMR/title/Title-of-item/) (see [1.27.31](/DCRMR/title/Title-of-item/#12731-title-access-for-item-specific-titles)). Use judgment in determining which forms of title access will be most useful. Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access is needed.
 
 ---
 
