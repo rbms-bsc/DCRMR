@@ -141,7 +141,7 @@ sidebar:
 |	Prescribed punctuation	|	1A1.	|	[0.2.1.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1) [0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
 |	Sources of information	|	1A2.	|	[1.01.1](/DCRMR/title/#1011-sources-of-information)	|
 |	General rule	|	1A2.1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
-|	Multipart monographs	|	1A2.2.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
+|	Multipart monographs	|	1A2.3.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
 |	Form and order of information	|	1A3.	|	[1.01.3](/DCRMR/title/#1013-form-and-order-of-information)	|
 |	Title proper	|	1B.	|	[1.21](/DCRMR/title/Title-proper/)	|
 |	Words considered part of the title proper	|	1B1.	|	[1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)	|
