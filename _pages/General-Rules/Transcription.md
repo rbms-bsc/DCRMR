@@ -359,7 +359,7 @@ Do not supply marks of punctuation to indicate line breaks.
 >Note on title: <CITE>Clara H-d is Clara Hayward</CITE>  
 >>(*Source of information reads*:  Clara H_____d)
 
-<a name="0.4.38.4">0.4.38.4</a> If punctuation substituting for letters occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), and the values of the missing letters are known, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
+<a name="0.4.38.4">0.4.38.4</a> If punctuation substituting for letters occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), and the values of the missing letters are known, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.3525.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3525.1)). 
 
 ### 0.4.385 Punctuation indicating an abbreviation
 
@@ -428,7 +428,7 @@ ET ITALIAE)
 ><CITE>La morte d'Orfeo</CITE>  
 >>(*Source of information reads*: LAMORTE D'ORFEO)
 
-<a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
+<a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
 
 ### 0.4.44 Variant spellings
 
@@ -442,7 +442,7 @@ ET ITALIAE)
 ><CITE>Newhampshire & Vermont almanac</CITE>  
 >>(*Source of information reads*: Newhampshire & Vermont ALMANAC)
 
-<a name="0.4.44.2">0.4.44.2</a>  If the variant or archaic spellings occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
+<a name="0.4.44.2">0.4.44.2</a>  If the variant or archaic spellings occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of the title with the spacing inserted (see [1.25.3535.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3535.1)).
 
 ### 0.4.45 Initials, etc.
 
@@ -587,14 +587,14 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 <a name="0.4.64.1">0.4.64.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets. Make an explanatory note.
 
-<a name="0.4.64.2">0.4.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item) if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
+<a name="0.4.64.2">0.4.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
 
 >**Example:**  
 >Title proper: <CITE>A catalogue of books, to be sold on [blank] the [blank] day of February, 1755</CITE>  
 >Note on title: <CITE>Spaces in the title for the exact day and date of the auction left blank by printer</CITE>  
 >Note on item: <CITE>Library's copy has date of auction supplied in manuscript: [Wednesday] the [26th] day of February, 1755</CITE>
 
-<a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of the title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
+<a name="0.4.64.3">0.4.64.3</a> If the blank occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of the title without the interpolated word “[blank]” (see [1.25.3545.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3545.1)).
 
 ### 0.4.65 Blank spaces for initial letters
 
@@ -613,7 +613,7 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
 >Note on item: <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
 
-<a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
+<a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
 ## 0.4.7 Inaccuracies, misprints, etc.
 
@@ -639,7 +639,7 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 
 <a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
 
-If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
+If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
 ### 0.4.73 Deliberate misspellings
 
@@ -680,7 +680,7 @@ For punctuation indicating an abbreviation, see [Punctuation indicating an abbre
 
 <a name="0.4.82.1">0.4.82.1</a> When transcribing, do not abbreviate any words not abbreviated in the source.
 
-<a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)). (For early-modern contractions, see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs).)
+<a name="0.4.82.2">0.4.82.2</a> Do not expand abbreviations or modern contractions when transcribing. If the abbreviation occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) if considered important (see [1.25.3565.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3565.1)). (For early-modern contractions, see [0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs).)
 
 ### 0.4.84 Letters or words intended to be read more than once
 

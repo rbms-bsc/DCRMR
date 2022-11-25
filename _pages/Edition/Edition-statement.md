@@ -55,7 +55,7 @@ sidebar:
 
 ## 3.21.33 Edition statements with grammatically inseparable information
 
-<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable (see [0.4.92](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability)) from the [Designation of edition](/DCRMR/edition/Designation-of-edition), transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition), transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
+<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable (see [0.4.92](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability)) from the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
 
 >**Example:**  
 ><CITE>New edition, complete in one volume ; with two hundred wood cuts</CITE>
@@ -78,7 +78,7 @@ sidebar:
 
 <a name="3.21.36.1">3.21.36.1</a> If cataloging a nonce collection (a volume made up of previously published pamphlets reissued by a publisher or bookseller, sometimes with a collective title page), and one or more parts have edition statements, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) giving edition statements relating to the parts (see [3.26.35.1](/DCRMR/edition/Note-on-edition-statement/#3.26.35.1)).
 
-<a name="3.21.36.2">3.21.36.2</a> If edition statements of parts vary between exemplars of a manifestation, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) describing the situation. Record the edition statements of the item in hand relating to individual parts in a [Note on item](/DCRMR/additional-notes/Note-on-item) if considered important (see [9.4.32.1](/DCRMR/additional-notes/Note-on-item/#9.4.32.1)).
+<a name="3.21.36.2">3.21.36.2</a> If edition statements of parts vary between exemplars of a manifestation, always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) describing the situation. Record the edition statements of the item in hand relating to individual parts in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.32.1](/DCRMR/additional-notes/Note-on-item/#9.4.32.1)).
 
 ## 3.21.37 Edition statements on multipart monographs
 
@@ -105,7 +105,7 @@ If the manifestation was issued as such, transcribe all edition statements. Alwa
 
 <a name="3.21.37.3">3.21.37.3</a> If the multipart monograph is known or assumed to be a made-up set, describe the monograph using one of the following methods:
 
-a) Make a separate description for each volume. Make a [Note on item](/DCRMR/additional-notes/Note-on-item) describing the rest of the set if considered important. 
+a) Make a separate description for each volume. Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) describing the rest of the set if considered important. 
  
 >**Example:**  
 >Edition statement: <CITE>Second edition</CITE>  

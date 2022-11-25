@@ -29,7 +29,7 @@ sidebar:
 
 ## 1.27.31 Title access for item-specific titles
 
-<a name="1.27.31.1">1.27.31.1</a> *Optionally*, provide access for item-specific titles, such as a binder’s title or a printed title with a blank that has been completed in manuscript. Identify the item using a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one exemplar of the manifestation) in a [Note on item](/DCRMR/additional-notes/Note-on-item) if considered important (see [9.4.3.4](/DCRMR/additional-notes/Note-on-item/#9.4.3.4)).
+<a name="1.27.31.1">1.27.31.1</a> *Optionally*, provide access for item-specific titles, such as a binder’s title or a printed title with a blank that has been completed in manuscript. Identify the item using a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one exemplar of the manifestation) in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.4](/DCRMR/additional-notes/Note-on-item/#9.4.3.4)).
 
 <a name="1.27.31.2">1.27.31.2</a> Use judgment in determining which forms of title access will be most useful. In general, do not include title access that duplicate normalized forms already appearing in the description (e.g., the title proper, the preferred title, etc.). Take the indexing capabilities of the institution’s local system into consideration when determining whether the additional access is needed.
 

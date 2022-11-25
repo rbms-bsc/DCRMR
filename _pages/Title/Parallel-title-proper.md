@@ -35,7 +35,7 @@ sidebar:
 
 ## 1.215.32 Language of parallel titles and relationship to title proper
 
-<a name="1.215.32.1">1.215.32.1</a> Transcribe an original title in a language different from that of the [Title proper](/DCRMR/title/Title-proper) that appears on the title page as a parallel title proper, unless it is grammatically inseparable from another part of the description.
+<a name="1.215.32.1">1.215.32.1</a> Transcribe an original title in a language different from that of the [Title proper](/DCRMR/title/Title-proper/) that appears on the title page as a parallel title proper, unless it is grammatically inseparable from another part of the description.
 
 >**Example:**  
 >Title proper: <CITE>Fables</CITE>  
@@ -44,7 +44,7 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Tefilot lerosh hashanah, or, The evening and morning service for the beginning of the year</CITE>
 
-<a name="1.215.32.2">1.215.32.2</a> Transcribe as [Other title information](/DCRMR/title/Other-title-information) an earlier title in the same language as the [Title proper](/DCRMR/title/Title-proper) that appears on the title page.
+<a name="1.215.32.2">1.215.32.2</a> Transcribe as [Other title information](/DCRMR/title/Other-title-information/) an earlier title in the same language as the [Title proper](/DCRMR/title/Title-proper/) that appears on the title page.
 
 >**Example:**  
 >Title proper: <CITE>The adventures of Red Riding Hood</CITE>  
