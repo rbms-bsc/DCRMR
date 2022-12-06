@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 5.1 — Production statement
-permalink: /DCRMR/ppdm/Production-statement/
+title: 5.11 — Place of production
+permalink: /DCRMR/ppdm/Place-of-production/
 sidebar:
   nav: "docs"
 ---
@@ -17,4 +17,4 @@ The RBMS RDA Editorial Group
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5 — Production, Publication, Distribution, Manufacture")](/DCRMR/ppdm/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.11 — Place of production")](/DCRMR/ppdm/Place-of-production/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.1 — Production statement")](/DCRMR/ppdm/Production-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.115 — Parallel place of production")](/DCRMR/ppdm/Parallel-place-of-production/)

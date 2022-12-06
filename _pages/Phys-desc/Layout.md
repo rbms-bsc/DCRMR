@@ -31,4 +31,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.285 — Details of layout")](/DCRMR/phys-desc/Details-of-layout/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.275 — Details of polarity")](/DCRMR/phys-desc/Details-of-polarity/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.285 — Details of layout")](/DCRMR/phys-desc/Details-of-layout/)

@@ -106,6 +106,14 @@ docs:
     children:
       - title: "5.1 — Production statement"
         url: /DCRMR/ppdm/Production-statement/
+      - title: "5.11 — Place of production"
+        url: /DCRMR/ppdm/Place-of-production/
+      - title: "5.115 — Parallel place of production"
+        url: /DCRMR/ppdm/Parallel-place-of-production/
+      - title: "5.13 — Date of production"
+        url: /DCRMR/ppdm/Date-of-production/
+      - title: "5.14 — Note on production statement"
+        url: /DCRMR/ppdm/Note-on-production-statement/
       - title: "5.2 — Publication statement"
         url: /DCRMR/ppdm/Publication-statement/
       - title: "5.21 — Place of publication"
@@ -180,10 +188,22 @@ docs:
         url: /DCRMR/phys-desc/Applied-material/
       - title: "6.265 — Details of applied material"
         url: /DCRMR/phys-desc/Details-of-applied-material/
+      - title: "6.266 — Mount"
+        url: /DCRMR/phys-desc/Mount/
+      - title: "6.2665 — Details of mount"
+        url: /DCRMR/phys-desc/Details-of-mount/
       - title: "6.27 — Production method"
         url: /DCRMR/phys-desc/Production-method/
       - title: "6.275 — Details of production method"
         url: /DCRMR/phys-desc/Details-of-production-method/
+      - title: "6.276 — Generation"
+        url: /DCRMR/phys-desc/Generation/
+      - title: "6.2765 — Details of generation"
+        url: /DCRMR/phys-desc/Details-of-generation/
+      - title: "6.277 — Polarity"
+        url: /DCRMR/phys-desc/Polarity/
+      - title: "6.2775 — Details of polarity"
+        url: /DCRMR/phys-desc/Details-of-polarity/
       - title: "6.28 — Layout"
         url: /DCRMR/phys-desc/Layout/
       - title: "6.285 — Details of layout"

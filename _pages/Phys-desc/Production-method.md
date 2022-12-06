@@ -48,4 +48,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.265 — Details of applied material")](/DCRMR/phys-desc/Details-of-applied-material/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.2665 — Details of mount")](/DCRMR/phys-desc/Details-of-mount/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/)

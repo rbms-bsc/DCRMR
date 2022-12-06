@@ -38,9 +38,21 @@ sidebar:
 
 [6.265 — Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/)
 
+[6.266 — Mount](/DCRMR/phys-desc/Mount/)
+
+[6.2665 — Details of mount](/DCRMR/phys-desc/Details-of-mount/)
+
 [6.27 — Production method](/DCRMR/phys-desc/Production-method/)
 
 [6.275 — Details of production method](/DCRMR/phys-desc/Details-of-production-method/)
+
+[6.276 — Generation](/DCRMR/phys-desc/Generation/)
+
+[6.2765 — Details of generation](/DCRMR/Details-of-generation/)
+
+[6.277 — Polarity](/DCRMR/phys-desc/Details-of-polarity/)
+
+[6.2775 — Details of polarity](/DCRMR/phys-desc/Details-of-polarity/)
 
 [6.28 — Layout](/DCRMR/phys-desc/Layout/)
 

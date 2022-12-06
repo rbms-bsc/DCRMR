@@ -145,4 +145,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.1 — Production statement")](/DCRMR/ppdm/Production-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5.14 — Note on production statement")](/DCRMR/ppdm/Note-on-production-statement/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.21 — Place of publication")](/DCRMR/ppdm/Place-of-publication/)

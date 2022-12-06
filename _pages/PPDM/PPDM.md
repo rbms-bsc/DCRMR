@@ -57,6 +57,14 @@ Note: only the elements related to publication are set out below. The same order
 
 [5.1 — Production statement](/DCRMR/ppdm/Production-statement/)
 
+[5.11 — Place of production](/DCRMR/ppdm/Place-of-production/)
+
+[5.115 — Parallel place of production](/DCRMR/ppdm/Parallel-place-of-production/)
+
+[5.13 — Date of production](/DCRMR/ppdm/Date-of-production/)
+
+[5.14 — Note on production statement](/DCRMR/ppdm/Note-on-production-statement)
+
 [5.2 — Publication statement](/DCRMR/ppdm/Publication-statement/)
 
 [5.21 — Place of publication](/DCRMR/ppdm/Place-of-publication/)
