@@ -48,7 +48,7 @@ sidebar:
 
 [6.276 — Generation](/DCRMR/phys-desc/Generation/)
 
-[6.2765 — Details of generation](/DCRMR/Details-of-generation/)
+[6.2765 — Details of generation](/DCRMR/phys-desc/Details-of-generation/)
 
 [6.277 — Polarity](/DCRMR/phys-desc/Details-of-polarity/)
 
