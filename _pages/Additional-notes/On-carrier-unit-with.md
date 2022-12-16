@@ -52,4 +52,4 @@ d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in t
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.4 — Note on item")](/DCRMR/additional-notes/Note-on-item/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.33 — Supplementary content")](/DCRMR/additional-notes/Supplementary-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.35 — Related manifestation of manifestation")](/DCRMR/additional-notes/Related-manifestation-of-manifestation/)

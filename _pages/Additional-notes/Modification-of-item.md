@@ -133,4 +133,4 @@ For summaries of the past ownership of an item, see [Custodial history of item](
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.4 — Note on item")](/DCRMR/additional-notes/Note-on-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.42 — Custodial history of item")](/DCRMR/additional-notes/Custodial-history-of-item/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.407 — Restriction on use of item")](/DCRMR/additional-notes/Restriction-on-use-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.42 — Custodial history of item")](/DCRMR/additional-notes/Custodial-history-of-item/)

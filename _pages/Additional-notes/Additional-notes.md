@@ -62,7 +62,13 @@ sidebar:
 
 [9.34 — On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/)
 
+[9.35 — Related manifestation of manifestation](/DCRMR/additional-notes/Related-manifestation-of-manifestation/)
+
 [9.4 — Note on item](/DCRMR/additional-notes/Note-on-item/)
+
+[9.405 — Restriction on access to item](/DCRMR/additional-notes/Restriction-on-access-to-item/)
+
+[9.407 — Restriction on use of item](/DCRMR/additional-notes/Restriction-on-use-of-item/)
 
 [9.41 — Modification of item](/DCRMR/additional-notes/Modification-of-item/)
 
