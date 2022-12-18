@@ -28,6 +28,8 @@ sidebar:
 
 [6.24 — Dimensions](/DCRMR/phys-desc/Dimensions/)
 
+[6.242 — Dimensions of still image](/DCRMR/phys-desc/Dimensions-of-still-image/)
+
 [6.245 — Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)
 
 [6.25 — Base material](/DCRMR/phys-desc/Base-material/)

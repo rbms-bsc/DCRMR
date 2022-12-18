@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 9.35 — Related manifestation of manifestation
-permalink: /DCRMR/additional-notes/Related-manifestation-of-manifestation/
+title: 6.242 — Dimensions of still image
+permalink: /DCRMR/phys-desc/Dimensions-of-still-image/
 sidebar:
   nav: "docs"
 ---
@@ -17,4 +17,4 @@ The RBMS RDA Editorial Group
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.36 — Preferred citation")](/DCRMR/additional-notes/Preferred-citation/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.24 — Dimensions")](/DCRMR/phys-desc/Dimensions/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.245 — Note on dimensions of manifestation")](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)

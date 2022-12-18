@@ -64,6 +64,8 @@ sidebar:
 
 [9.35 — Related manifestation of manifestation](/DCRMR/additional-notes/Related-manifestation-of-manifestation/)
 
+[9.36 — Preferred citation](/DCRMR/additional-notes/Preferred-citation/)
+
 [9.4 — Note on item](/DCRMR/additional-notes/Note-on-item/)
 
 [9.405 — Restriction on access to item](/DCRMR/additional-notes/Restriction-on-access-to-item/)

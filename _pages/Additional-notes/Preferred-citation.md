@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: 9.35 — Related manifestation of manifestation
-permalink: /DCRMR/additional-notes/Related-manifestation-of-manifestation/
+title: 9.36 — Preferred citation
+permalink: /DCRMR/additional-notes/Preferred-citation/
 sidebar:
   nav: "docs"
 ---
@@ -17,4 +17,4 @@ The RBMS RDA Editorial Group
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.34 — On carrier unit with")](/DCRMR/additional-notes/On-carrier-unit-with/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.36 — Preferred citation")](/DCRMR/additional-notes/Preferred-citation/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.35 — Related manifestation of manifestation")](/DCRMR/additional-notes/Related-manifestation-of-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.4 — Note on item")](/DCRMR/additional-notes/Note-on-item/)

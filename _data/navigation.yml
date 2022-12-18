@@ -178,6 +178,8 @@ docs:
         url: /DCRMR/phys-desc/Details-of-color-content/
       - title: "6.24 — Dimensions"
         url: /DCRMR/phys-desc/Dimensions/
+      - title: "6.242 — Dimensions of still image"
+        url: /DCRMR/phys-desc/Dimensions-of-still-image/
       - title: "6.245 — Note on dimensions of manifestation"
         url: /DCRMR/phys-desc/Note-on-dimensions-of-manifestation/
       - title: "6.25 — Base material"
@@ -290,6 +292,8 @@ docs:
         url: /DCRMR/additional-notes/On-carrier-unit-with/
       - title: "9.35 — Related manifestation of manifestation"
         url: /DCRMR/additional-notes/Related-manifestation-of-manifestation/
+      - title: "9.36 — Preferred citation"
+        url: /DCRMR/additional-notes/Preferred-citation/
       - title: "9.4 — Note on item"
         url: /DCRMR/additional-notes/Note-on-item/
       - title: "9.405 — Restriction on access to item"

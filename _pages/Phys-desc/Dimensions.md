@@ -116,4 +116,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.245 — Note on dimensions of manifestation")](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.242 — Dimensions of still image")](/DCRMR/phys-desc/Dimensions-of-still-image/)
