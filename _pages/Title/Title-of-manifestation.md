@@ -25,11 +25,13 @@ sidebar:
 
 ## 1.2.3 General rule
 
-<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order in which it is presented in the source, unless specifically instructed otherwise.
+<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order indicated by the sequence, layout, or lettering style on the source, unless specifically instructed otherwise.
 
-## 1.2.31 Title information not appearing on title page
+<a name="1.2.3.2.Y.Y">1.2.3.2.Y.Y</a> If the title does not adequately describe the nature and content of the resource, provide additional information in the [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note if considered important.
 
-<a name="1.2.31.1">1.2.31.1</a> Transcribe title information not appearing on the title page in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
+## 1.2.31 Title information appearing outside the preferred source of information
+
+<a name="1.2.31.1">1.2.31.1</a> Transcribe title information appearing outside the preferred source of information in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.39.1](/DCRMR/title/Note-on-title/#1.29.39.1)).
 
 >**Example:**  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  

@@ -25,11 +25,18 @@ sidebar:
 
 ## 1.23.3 General rule
 
-<a name="1.23.3.1">1.23.3.1</a> Transcribe Other title information in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="1.23.3.1">1.23.3.1</a> Transcribe Other title information in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
-<a name="1.23.3.2">1.23.3.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on the title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+>**Example:**  
+>Title proper: <CITE>Brilliant Luna Park at night</CITE>  
+Other title information: Coney Island, New York's great pleasure resort
+>>(*Comment*: Stereograph card with a long dash between the two separable parts of the title)
 
-<a name="1.23.3.3">1.23.3.3</a> If the other title information appears on the title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the Other title information unless it is a grammatically inseparable part of the other element. When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+<a name="1.23.3.2">1.23.3.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on a title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+
+<a name="1.23.3.3">1.23.3.3</a> If the other title information appears on a title page preceding or following text associated with another element of the description (except for [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/); see [2.21.385.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.385.1)), transpose it to the Other title information unless it is a grammatically inseparable part of the other element. When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
+
+<a name="1.23.3.4.Y.Y">1.23.3.4.Y.Y</a> In case of doubt, transcribe as part of the title proper.
   
 ## 1.23.31 Other title information beginning with prepositions, conjunctions, etc.
 
@@ -60,11 +67,15 @@ sidebar:
 
 ## 1.23.34 Persons or bodies not explicitly named in the statement of responsibility
 
-<a name="1.23.34.1">1.23.34.1</a> If no person or body is explicitly named in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc.
+<a name="1.23.34.1">1.23.34.1</a> If no specific person or body is named or implied in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc. (see also [2.21.375.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.2)).
 
 >**Example:**  
 >Title proper: <CITE>The folowing of Christ</CITE>  
 >Other title information: <CITE>translated out of Latin into Englishe</CITE>
+
+>**Example:**  
+>Title proper: <CITE>The Rt. Honble. Edmund Burke</CITE>  
+>Other title information: <CITE>drawn from the life</CITE>  
 
 ## 1.23.35 Statements about illustrations or volumes
 
@@ -86,7 +97,7 @@ If the statement appears following the [Statement of responsibility relating to 
 
 ## 1.23.36 Phrases about notes, appendices, etc.
 
-<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendices, and other supplementary matter in the order indicated by the sequence on the title page. If such information appears before the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as other title information.
+<a name="1.23.36.1">1.23.36.1</a> Transcribe phrases about notes, appendices, and other supplementary matter in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). If such information appears before the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as other title information.
 
 <a name="1.23.36.2">1.23.36.2</a> If such information appears after the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe it as a subsequent statement of responsibility, whether or not it names a person or body.
 
@@ -104,14 +115,21 @@ If the statement appears following the [Statement of responsibility relating to 
 >Other title information: <CITE>dissertation theologique et historique ...</CITE>  
 >>(*Source of information reads*: dissertation theologique et historique: où l'on montre que: la rubrique des missels, qui ordonne de dire secrètement le canon de la messe, est une continuation de la discipline du secret, & du silence, que l'eglise primitive observoit, sur le mystére de l'Eucharistie: et que cette discipline n'ôte point aux fidèles le moyen d'accompagner le célébrant, & de s'unir à lui, dans toute la suite du sacrifice: en quoi consiste la meilleure maniere d'entendre la messe)
 
-## 1.23.38 Other title information with grammatically inseparable elements
+## 1.23.38 Other title information with visually or grammatically inseparable elements
 
-<a name="1.23.38.1">1.23.38.1</a> If the other title information includes a statement of responsibility or another element that is grammatically inseparable from the other title information, transcribe it as other title information.
+<a name="1.23.38.1">1.23.38.1</a> If the other title information includes a statement of responsibility or another element that is visually or grammatically inseparable from the other title information, transcribe it as other title information.
 
 >**Example:**  
 >Title proper: <CITE>Constitutiones legitime seu legatine regionis Anglicane</CITE>  
 >Other title information: <CITE>cu[m] subtilissima interpretatione d[omi]ni Johannis de Athon</CITE>  
 >>(*Comment*: Statement of responsibility relating to title proper transcribed as part of other title information because of genitive case ending)
+
+>**Example:**  
+>Title proper: <CITE>James Barry Esqr., late R.A.</CITE>  
+>Other title information: <CITE>from a picture painted by himself about the year 1783</CITE>  
+>>(*Comment*: Lettering size, style, and layout clearly indicate that "painted by himself..." is part of the title, not part of the statement of responsibility)
+
+<a name="1.23.38.2.Y.Y">1.23.38.2.Y.Y</a> **Dedications**. *Optionally*, for  still images treat a dedication as other title information unless the dedication is visually or grammatically inseparable from information transcribed as part of another element. If the dedication follows the statement of responsibility, transcribe it as a subsequent statement of responsibility.
 
 ---
 

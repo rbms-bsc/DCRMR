@@ -25,7 +25,13 @@ sidebar:
 
 ## 1.235.3 General rule
 
-<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Other title information](/DCRMR/title/Other-title-information/).
+<a name="1.235.3.1">1.235.3.1</a> Transcribe parallel statements containing other title information in the form and order indicated by their sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise  (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Other title information](/DCRMR/title/Other-title-information/).
+
+>**Example:**  
+>Title proper: <CITE>Fort Clark</CITE>  
+>First Parallel other title information: <CITE>on the Missouri (February 1834)</CITE>  
+>Second Parallel other title information: <CITE>am Missouri (Februar 1834)</CITE>  
+>Third Parallel other title information: <CITE>sur la Missouri (février 1834)</CITE>  
 
 ---
 

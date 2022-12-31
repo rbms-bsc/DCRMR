@@ -9,7 +9,9 @@ sidebar:
 
 ## 1.01.1 Sources of information
 
-<a name="1.01.1.1">1.01.1.1</a> The source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multipart monographs is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
+<a name="1.01.1.04.Y.Y">1.01.1.04.Y.Y</a> **Printed text resources**. In most cases, the preferred source of information for the title elements is the title page(s) (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). The preferred source of information for multiple-unit manifestations is the title page of the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. 
+
+<a name="1.01.1.06.Y.Y">1.01.1.06.Y.Y</a> **Still image resources**. In most cases the preferred source of information for the title elements is text provided by the creator or creating body anywhere on or with the manifestation. When such text is not suitable for a transcribed [Title proper](/DCRMR/title/Title-proper/), the cataloger must instead supply or devise one (see [1.21.64.Y.Y](/DCRMR/title/Title-proper/#12164yy-devised-title-proper-for-still-images)). The preferred source of information for still image resources with a title page is the title page, and catalogers should follow the instructions for non-single-sheet printed text resources.
 
 ## 1.01.2 Element order
 
@@ -17,7 +19,7 @@ sidebar:
 
 >Title proper : other title information / statement of responsibility relating to title proper
 
-<a name="1.01.2.2">1.01.2.2</a> [Parallel title proper](/DCRMR/title/Parallel-title-proper/) and [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) are transcribed in the order in which they appear on the preferred source of information.
+<a name="1.01.2.2">1.01.2.2</a> [Parallel title proper](/DCRMR/title/Parallel-title-proper/) and [Parallel other title information](/DCRMR/title/Parallel-other-title-information/) are transcribed in the order indicated by their sequence, layout, or lettering style on the preferred source of information.
 
 >Title proper = Parallel title proper : other title information = parallel other title information
 
@@ -33,17 +35,17 @@ sidebar:
 
 >Title proper : other title information / statement of responsibility relating to title proper = Parallel title proper : parallel other title information / parallel statement of responsibility relating to title proper
 
-<a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order in which they appear on the preferred source of information. If any of these titles lacks a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
-
-*Exception*: For single-sheet resources containing two or more expressions but without a collective title, transcribe as the [Title proper](/DCRMR/title/Title-proper/) the first title or opening words of the text (see [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)).
+<a name="1.01.2.5">1.01.2.5</a> If a resource without a collective title contains two or more expressions (other than supplementary matter), transcribe titles in the order indicated by the sequence, layout, or lettering style on the preferred source of information. If any of these titles lacks a matching statement of responsibility, transcribe the information in the order indicated by the sequence, layout, or lettering style on the preferred source of information.
 
 > Title 1. Title 2. Title 3
 
 > Title 1 : other title information ; Title 2 : other title information / statement of responsibility
 
+*Exception*: For single-sheet printed text resources containing two or more expressions but without a collective title, transcribe as the [Title proper](/DCRMR/title/Title-proper/) the first title or opening words of the text (see [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)).
+
 ## 1.01.3 Form and order of information
 
-<a name="1.01.3.1">1.01.3.1</a> Transcribe Title and [Statement of responsibility](/DCRMR/sor/) information in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
+<a name="1.01.3.1">1.01.3.1</a> Transcribe Title and [Statement of responsibility](/DCRMR/sor/) information in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). The [Title proper](/DCRMR/title/Title-proper/) is the first element of the description.  
 
 <a name="1.01.3.2">1.01.3.2</a> For transposed elements, always make a [Note on title](/DCRMR/title/Note-on-title/) to indicate the original position on the title page (see [1.29.31.2](/DCRMR/title/Note-on-title/#1.29.31.2)).
 
