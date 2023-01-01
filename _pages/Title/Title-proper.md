@@ -277,7 +277,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 <a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, or manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
 
-## 1.21.64.Y.Y Devised Title proper for still images
+## 1.21.64.Y.Y Devised title proper for still images
 
 <a name="1.21.64.1.Y.Y">1.21.64.1.Y.Y</a> If a suitable Title proper cannot be derived from the beginning words of text (see [1.21.34.2](/DCRMR/title/Title-proper/#1.21.34.2)), and cannot be supplied from another source (see [1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)), devise a brief descriptive title, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper. 
 

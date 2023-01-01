@@ -39,6 +39,16 @@ sidebar:
 >Title proper: <CITE>平家 物語</CITE>  
 >Variant title of manifestation: <CITE>Heike monogatari</CITE>
 
+### 1.25.3513.Y.Y Title proper containing a rebus (optional)
+
+<a name="1.25.3513.1.Y.Y">1.25.3513.1.Y.Y</a>  If any of the first five words in the Title proper (or, if the Title proper begins with an article, the first six words) contains a rebus, provide additional title access for the title with the intended word or words unbracketed (see [0.4.17](/DCRMR/general-rules/Transcription/#0417-rebuses)).
+
+>**Example:**  
+>Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
+>Variant title of manifestation: <CITE>The Bute interest in the city, or, The bridge in the hole</CITE>  
+>Variant title of manifestation: <CITE>The book interest in the city, or, The bridge in the hole</CITE>  
+>> (*Comment*: Rebus represents Bute with an image of a boot)
+
 ### 1.25.3515 Title proper with converted letterforms I, V, i, j, u, or v (required)
 
 <a name="1.25.3515.1">1.25.3515.1</a> If any of the first five words in the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words) contains a letterform I, V, i, j, u, or v that has been converted to uppercase or lowercase according to a pattern of usage that follows pre-modern spelling conventions, provide additional title access for the form of the title proper that corresponds to modern orthography (i.e., using i and u for vowels, j and v for consonants, and w for consonantal vv) (see [0.4.23.3](/DCRMR/general-rules/Transcription/#0.4.23.3)).
@@ -87,6 +97,13 @@ sidebar:
 >Title proper: <CITE>Newhampshire & Vermont almanac</CITE>  
 >Variant title of manifestation: <CITE>New Hampshire & Vermont almanac</CITE>  
 >>(*Source of information reads*: Newhampshire & Vermont ALMANAC)
+
+<a name="1.25.3535.2.Y.Y">1.25.3535.2.Y.Y</a> If any intentionally non-standard spacing has been transcribed in the first five words of the [Title proper](/DCRMR/title/Title-proper) (or, if the [Title proper](/DCRMR/title/Title-proper) begins with an article, the first six words), provide additional title access for the form of title with conventional spacing (see [0.4.44.2](/DCRMR/general-rules/Transcription/#0.4.44.2)).
+
+>**Example:**  
+>Title proper: <CITE>Foundingfathersfollyday</CITE>  
+>Variant title of manifestation: <CITE>Founding fathers folly day</CITE>  
+>>(*Source of information reads*: FOUNDINGFATHERSFOLLYDAY)
 
 ### 1.25.354 Title proper with initials, etc. (optional)
 
@@ -199,12 +216,21 @@ sidebar:
 
 ### 1.25.3593 Variant and other titles within the manifestation (optional)
 
-<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations composed of more than one physical unit, and significant other title information. Indicate the source of the source of the variant title (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
+<a name="1.25.3593.1">1.25.3593.1</a> Provide additional access for cover titles, added title page titles, caption titles, half titles, running titles, spine titles, variant titles in manifestations composed of more than one physical unit, and significant other title information. Indicate the source of the variant title (see also [Note on title, 1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)).
 
 >**Example:**  
 >Title proper: <CITE>Scriptorum ecclesiasticorum historia literaria a Christo nato usque ad saeculum XIV facili methodo digesta</CITE>  
 >Variant title of manifestation: <CITE>Scriptorum ecclesiasticorum historia literaria facili & perspicua methodo digesta</CITE>  
 >>(*Comment*: Additional title access provided for title of the second volume, which varies slightly from the [Title proper](/DCRMR/title/Title-proper) recorded from the first volume)
+
+### 1.25.3595.Y.Y Variant titles from external sources (optional)
+
+<a name="1.25.3595.1.Y.Y">1.25.3595.1.Y.Y</a> Provide additional access for variant titles provided by other sources. Indicate the source of the variant title (see also [Note on title, 1.29.36.4](/DCRMR/title/Note-on-title/#1.29.36.4)).
+
+>**Example:**  
+>Title proper: <CITE>Illustris. Domina D[omi]na Maria Stuart, Comitissa Portlandiae, Neylandiae[que], etc.</CITE>  
+>Variant title of manifestation: <CITE>Countess of Portland</CITE>  
+>>(*Comment*: Print is well-known by a title from a standard reference source)
 
 ---
 
