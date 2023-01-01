@@ -27,7 +27,7 @@ sidebar:
 
 <a name="2.29.3.1">2.29.3.1</a> Make a Note on statement of responsibility according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
-## 2.29.31 Statement of responsibility in source other than title page 
+## 2.29.31 Statement of responsibility in source other than preferred source 
 
 <a name="2.29.31.1">2.29.31.1</a> If a statement of responsibility appears in a source other than on the title page, always record the statement and its source (see [Statement of responsibility relating to title proper, 2.21.315.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)).
 
@@ -51,21 +51,39 @@ sidebar:
 ><CITE>By Louis-Antoine Caraccioli; author supplied by Barbier</CITE>  
 >>(*Comment*: The formal citation for Barbier is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
 
-<a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known, and if considered important. Give the authority for the information whenever possible.
+>**Example:**  
+><CITE>Attribution to John L. Magee is based on similarities in draftsmanship and facial characterizations to Magee's 1850 satire "The Clay Statue," and to several Mexican War prints he executed for the publisher Baillie</CITE>  
+>>(**Comment**: Still image)
+
+<a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known. Give the authority for the information if considered important.
 
 >**Example:**  
 ><CITE>By Robert Parsons, S.J., writing under the pseudonym Andreas Philopater. See: Bibliothèque de la Compagnie de Jésus</CITE>  
 >>(*Comment*: The formal citation for Bibliothèque de la Compagnie de Jésus is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2))) 
 
-<a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the bibliographical literature or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it if considered important.
+>**Example:**  
+><CITE>Cornelius Janssen van Ceulen is no longer thought to be the original artist</CITE>  
+>>(*Comment*: Statement of responsibility reads "R. Cooper sculpt. ; from a print by Earlom, engraved from an original painting by Cornelius Jansen")
+
+<a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the reference sources or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
 
 >**Example:**  
 >Sometimes attributed to Daniel Defoe (see Moore); attribution disputed by P.N. Furbank and W.R. Owens in their “Defoe de-attributions” (London, 1994)  
 >>(*Comment*: The formal citation for Moore is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
 
+<a name="2.29.33.4.Y.Y">2.29.33.4.Y.Y</a> If a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) consists of a symbol such as a monogram or device, name the creator in a Note on statement of responsibility, if known. Give the authority for the information if considered important.
+
+>**Example:**  
+><CITE>Signed on plate with Marcantonio's device of an empty tablet</CITE>  
+>>(*Comment*: Such tablets normally show the printmaker's name or initials; Marcantonio symbolically hid himself when reproducing Raphael's art)
+
 ## 2.29.34 Ambiguous statements of responsibility
 
 <a name="2.29.34.1">2.29.34.1</a> If the relationship between the title of a resource and the person(s) or body (bodies) named in the statement of responsibility is not clear,  make a note to clarify the role if considered important (see [Statement of responsibility relating to title proper, 2.21.36.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.1)).
+
+>**Example:**  
+><CITE>Engraved by S.V. Hunt after a painting by Harry Fenn</CITE>  
+>>(*Comment*: Statement of responsibility relating to title proper follows the convention of giving the original artist's name below the left side of the image and the engraver's name below the right side of the image)
 
 <a name="2.29.34.2">2.29.34.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper, 2.21.36.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.2)).
 
@@ -77,12 +95,66 @@ sidebar:
 
 <a name="2.29.35.1">2.29.35.1</a> If considered important, make a note on variant forms of names of persons or bodies named in [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) if the variant forms clarify the names used in access points (see [2.21.365.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.365.1)).
 
+>**Example:**  
+><CITE>Frank Vizetelly is the "special artist"</CITE>  
+>>(*Comment*: Statement of responsibility reads: “from a sketch by our special artist”)
+
+>**Example:**  
+><CITE>Poster by Michel Liebeaux, known as "Mich"</CITE>
+>>(*Comment*: Statement of responsibility reads: “Mich.”)
+
 ## 2.29.36 Other statements
 
 <a name="2.29.36.1">2.29.36.1</a> If considered important, make a note recording the names of persons or bodies connected with an expression of the work, or with previous expressions of it, if they have not already been named in the description. Give the authority for the information, if necessary (see [Statement of responsibility relating to title proper, 2.21.39.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.39.1)).
 
 >**Example:**  
 ><CITE>“The life and character of Sir William Temple” in the first volume was written by his sister, Martha, Lady Giffard</CITE>  
+
+>**Example:**  
+><CITE>After a photograph by Mathew Brady</CITE>  
+>>(*Comment*: Still image)
+
+<a name="2.29.36.2.Y.Y">2.29.36.2.Y.Y</a> If considered important, note the lack of an attribution.
+
+>**Example:**
+><CITE>Artist unknown</CITE>  
+>>(*Comment*: Still image)  
+
+>**Example:**  
+><CITE>Anonymous artist</CITE>  
+>>(*Comment*: Still image)
+
+>**Example:**   
+><CITE>Photographer not identified</CITE>  
+>>(*Comment*: Still image)
+
+>**Example:**   
+><CITE>Unknown Netherlandish engraver</CITE>  
+>>(*Comment*: Still image)
+
+## 2.29.37.Y.Y Location, nature, etc., of the statement of responsibility
+
+<a name="2.29.37.1.Y.Y">2.29.37.1.Y.Y</a> If considered important, make a note about the location, nature, etc., of the statement of responsibility. Distinguish between those in manuscript form and those included in a printed image.
+
+>**Example:**  
+><CITE>Signed and dated in blue pencil</CITE>  
+>>(*Comment*: Still image)
+
+>**Example:**
+><CITE>Signed on back in pencil</CITE>  
+>>(*Comment*: Still image)
+
+## 2.29.38.Y.Y Signatures, marks, monograms, etc., of artists and printmakers
+
+<a name="2.29.38.1.Y.Y">2.29.38.1.Y.Y</a> If considered important, note a signature or mark, monogram, etc., that is not described in the body of the description. If considered important, indicate where it appears. Do not transcribe a signature if it has already been transcribed in the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/). Distinguish between those applied by hand and those included in a printed image.
+
+>**Example:**  
+><CITE>Signed on plate within image: Frank O. Salisbury</CITE>  
+>>(*Comment*: Still image; [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) "painted by Frank O. Salisbury” taken from printed caption below image)
+
+>**Example:**  
+><CITE>With the artist's stamp (Lugt 977) in the lower margin</CITE>
+
 
 ---
 

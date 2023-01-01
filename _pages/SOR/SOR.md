@@ -17,9 +17,12 @@ sidebar:
 
 ## 2.01.3 Form and order of information
 
-<a name="2.01.3.1">2.01.3.1</a> Transcribe [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and Statement of responsibility information in the form and order in which they are presented on the preferred source of information, unless specificially instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="2.01.3.1">2.01.3.1</a> Transcribe [Title of manifestation](/DCRMR/title/Title-of-manifestation/) and Statement of responsibility information in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 <a name="2.01.3.2">2.01.3.2</a> For transposed elements, always make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the title page (see [2.29.32.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.1)).
+
+*Exception*: For still image resources without title pages, do not note transposition.
+
 
 ## Contents:
 {: .no_toc }

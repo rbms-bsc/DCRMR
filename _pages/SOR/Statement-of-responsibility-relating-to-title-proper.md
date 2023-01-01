@@ -27,7 +27,7 @@ sidebar:
 
 ## 2.21.3 General rule
 
-<a name="2.21.3.1">2.21.3.1</a> Transcribe Statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="2.21.3.1">2.21.3.1</a> Transcribe Statements of responsibility relating to title proper in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 >**Example:**  
 ><CITE>by Charles Fearne, Esq. barrister at law, of the Inner Temple, author of  The legigraphical chart of landed property</CITE>
@@ -44,9 +44,15 @@ sidebar:
 >**Example:**  
 ><CITE>illustrated by D. Maclise, R.A.</CITE>
 
+>**Example:**  
+><CITE>Berenice Abbott</CITE>  
+
+>**Example:**  
+><CITE>Wm. Hinks del. et sculp.</CITE>
+
 ## 2.21.315 Statements of responsibility relating to title proper on sources other than the preferred source of information
 
-<a name="2.21.315.1">2.21.315.1</a> If a Statement of responsibility relating to title proper appears elsewhere in the manifestation than on the title page or is taken from outside the manifestation, do not record it in this element. Instead, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
+<a name="2.21.315.1">2.21.315.1</a> If a Statement of responsibility relating to title proper appears elsewhere in the manifestation than on the preferred source of information or is taken from outside the manifestation, do not record it in this element. Instead, always record the statement and its source in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)).
 
 ## 2.21.32 Transposition of statements of responsibility relating to title proper
 
@@ -57,12 +63,17 @@ sidebar:
 ><CITE>Note on statement of responsibility</CITE>: Author’s name printed at head of title on title page  
 >>(*Comment*: Information is transcribed in two elements: [Title proper](/DCRMR/title/Title-proper/) and Statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
+*Exception*: For still image resources without a title page, do not note transposition.
+
 ## 2.21.33 Single statements of responsibility relating to title proper with two or more names
 
 <a name="2.21.33.1">2.21.33.1</a> Transcribe a single Statement of responsibility relating to title proper as such whether the two or more persons or corporate bodies named in it perform the same function or different functions.
 
 >**Example:**  
 ><CITE>by William Whiston, M.A. sometime professor of the mathematicks in the University of Cambridg [sic] and Humphry Ditton, late master of the new mathematick school in Christ's Hospital, London</CITE>  
+
+>**Example:**  
+><CITE>drawn by Schell and Hogan from a sketch by J.W. Hayward</CITE>  
 
 <a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single Statement of responsibility relating to title proper (unless grammatically inseparable from the [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) or [Other title information, 1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)).
 
@@ -84,11 +95,25 @@ sidebar:
 
 ## 2.21.34 Two or more statements of responsibility relating to title proper
 
-<a name="2.21.34.1">2.21.34.1</a> If there are two or more Statements of responsibility relating to title proper, transcribe them in the order indicated by their sequence on, or by the layout of, the title page. If the sequence and layout are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
+<a name="2.21.34.1">2.21.34.1</a> If there are two or more Statements of responsibility relating to title proper, transcribe them in the order indicated by the sequence, layout, or lettering style on the preferred source of information. If the sequence, layout,or lettering style are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
 
 >**Example:**  
 ><CITE>di mons. Paolo Giouio vescouo di Nocera ; tradotte per M. Lodouico Domenichi</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)  
+
+>**Example:**  
+><CITE>C. Ansell delt. ; Francis Jukes aquatint fecit</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+>**Example:**  
+><CITE>Harry Fenn ; S.V. Hunt</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+*Exception*: If there are two or more Statements of responsibility relating to title proper that represent the same person in the same role, and they are not Parallel statements of responsibility (see [2.215.33.Y.Y](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221533yy-statements-of-responsibility-in-more-than-one-language-or-script-following-a-single-title)) transcribe the statement most explicit of the role. In case of doubt, choose the fuller or more prominent form of the name. Record the other statement in a Note on statement of responsibility if considered important.
+
+>**Example:**  
+><CITE>drawn by C. Robinson ; engraved by T. Robinson</CITE>  
+>>(*Comment*: “C.R.” and “T. Robinson sc.” appear respectively in the left and right corners of the image itself)
 
 ## 2.21.35 Terms of address, etc., in statements of responsibility relating to title proper
 
@@ -102,7 +127,11 @@ sidebar:
 
 ## 2.21.355 Qualifications in statements of responsibility relating to title proper
 
-<a name="2.21.355.1">2.21.355.1</a> *Optionally*, qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the Statement of responsibility relating to title proper, using the mark of omission, unless the qualifications are necessary grammatically; or the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.); or the Statement of responsibility relating to title proper represents the author only by a pseudonym, a descriptive phrase, or nonalphabetic symbols.
+<a name="2.21.355.1">2.21.355.1</a> *Optionally*, qualifications such as initials indicating membership in societies, academic degrees, and statements of positions held may be omitted from the Statement of responsibility relating to title proper, using the mark of omission, unless the qualifications are necessary grammatically; or the qualifications are necessary for identifying the person or are useful in establishing a context for the person’s activity (initials of religious orders, phrases, or adjectives denoting place names, etc.).
+
+>**Example:**  
+><CITE>Rigaud, R.A.</CITE>  
+>>(*Comment*: The artist was a Royal Academician)
 
 ## 2.21.36 Ambiguous statements of responsibility relating to title proper
 
@@ -118,6 +147,8 @@ sidebar:
 >Statement of responsibility relating to title proper: <CITE>by A- M-l Esq. and other eminent wits</CITE>  
 >Note on statement of responsibility: <CITE>A- M-l is Andrew Marvell. See English short title catalogue</CITE>  
 >>(*Comment*: The formal citation for the English short title catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
+
+<a name="2.21.365.2.Y.Y">2.21.365.2.Y.Y</a> **Still image resources**. For multiple unit resources, if a name appears in variant forms as the statement of responsibility on different parts of the resource, transcribe the name as it appears most frequently.
 
 ## 2.21.37 Nouns and noun phrases
 
@@ -137,17 +168,44 @@ sidebar:
 
 ## 2.21.375 Persons or bodies not explicitly named
 
-<a name="2.21.375.1">2.21.375.1</a> Transcribe statements indicating responsibility that do not explicitly name a person or body as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.34.1](/DCRMR/title/Other-title-information/#1.23.34.1)).
+<a name="2.21.375.1">2.21.375.1</a> Transcribe statements indicating responsibility that do not imply a specific person or body as [Other title information](/DCRMR/title/Other-title-information/) (see [1.23.34.1](/DCRMR/title/Other-title-information/#1.23.34.1)).
 
 >**Example:**  
 >Title proper: <CITE>The folowing of Christ</CITE>  
 >Other title information: <CITE>translated out of Latin into Englishe</CITE>
 
+## 2.21.376.Y.Y Pseudonyms, monograms, symbols, and descriptive phrases in statements of responsibility relating to title proper
+
+<a name="2.21.376.1.Y.Y">2.21.376.1.Y.Y</a> If the Statement of responsibility relating to title proper represents the creator only by a pseudonym, a descriptive phrase, or a symbol such as a monogram or device, use that information in the statement of responsibility. Indicate the latter by "monogram" or "device" in square brackets. If the actual name is known, give it in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.33](/DCRMR/sor/Note-on-statement-of-responsibility/#22933-attributions)).
+
+>**Example:**  
+><CITE>from a sketch by our special artist</CITE> 
+
+>**Example:**  
+><CITE>PAME [monogram]</CITE>
+
+>**Example:**  
+><CITE>[empty tablet device]</CITE>
+
+## 2.21.377.Y.Y Illegible statements of responsibility relating to title proper
+
+<a name="2.21.377.1.Y.Y">2.21.377.1.Y.Y</a> If portions of a statement of responsibility are illegible, indicate conjectures and unreadable elements in square brackets (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
+
+>**Example:**  
+><CITE>A. [?]</CITE>  
+>(*Comment*: Drawing signed with the initial "A." followed by an illegible surname)
+
+<a name="2.21.377.2.Y.Y">2.21.377.2.Y.Y</a> f the statement of responsibility is completely illegible, record the presence of the illegible words in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/).
+
 ## 2.21.38 Statements of responsibility relating to title proper with grammatically inseparable elements
 
-<a name="2.21.38.1">2.21.38.1</a> If a Statement of responsibility relating to title proper includes information belonging to another element, and the information is grammatically inseparable from the Statement of responsibility relating to title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)), transcribe it as part of the Statement of responsibility relating to title proper.
+<a name="2.21.38.1">2.21.38.1</a> If a Statement of responsibility relating to title proper includes information belonging to another element, and the information is visually or grammatically inseparable from the Statement of responsibility relating to title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)), transcribe it as part of the Statement of responsibility relating to title proper.
 
-<a name="2.21.38.2">2.21.38.2</a> If a statement with grammatically inseparable elements contains information relating both to the publication, distribution, or manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the [Publication statement](/DCRMR/ppdm/Publication-statement/), [Distribution statement](/DCRMR/ppdm/Distribution-statement/), or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) or as a Statement of responsibility relating to title proper (see [5.2.34.4](/DCRMR/ppdm/Publication-statement/#5.2.34.4), [5.25.34.4](/DCRMR/ppdm/Distribution-statement/#5.25.34.4), [5.29.34.4](/DCRMR/ppdm/Manufacture-statement/#5.29.34.4)). Use sequence and layout of the title page as a guide to appropriate treatment.
+<a name="2.21.38.2">2.21.38.2</a> If a statement with visually or grammatically inseparable elements contains information relating both to the publication, distribution, or manufacture of the resource and to the agents who have contributed to its intellectual or artistic content, use judgment in deciding whether to transcribe the statement as part of the [Publication statement](/DCRMR/ppdm/Publication-statement/), [Distribution statement](/DCRMR/ppdm/Distribution-statement/), or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/) or as a Statement of responsibility relating to title proper (see [5.2.34.4](/DCRMR/ppdm/Publication-statement/#5.2.34.4), [5.25.34.4](/DCRMR/ppdm/Distribution-statement/#5.25.34.4), [5.29.34.4](/DCRMR/ppdm/Manufacture-statement/#5.29.34.4)). Use sequence, layout, and lettering style on the preferred source of information as a guide to appropriate treatment.
+
+>**Example:**  
+><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
+>>(*Comment*: Phrase appears immediately below the lower left of the image, above the centered title, as is customary for the statement of responsibility at the time)
 
 ## 2.21.385 Other title information appearing after statements of responsibility relating to title proper
 

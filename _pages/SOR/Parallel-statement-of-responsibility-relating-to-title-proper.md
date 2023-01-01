@@ -25,19 +25,33 @@ sidebar:
 
 ## 2.215.3 General rule
 
-<a name="2.215.3.1">2.215.3.1</a> Transcribe Parallel statements of responsibility relating to title proper in the form and order in which they are presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.95.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/).
+<a name="2.215.3.1">2.215.3.1</a> Transcribe Parallel statements of responsibility relating to title proper in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.95.05](/DCRMR/general-rules/Transcription/#0.4.94.05)). Transcribe such statements according to the instructions for [Statements of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/).
 
 ## 2.215.31 Statements of responsibility following titles in more than one language or script 
 
 <a name="2.215.31.1">2.215.31.1</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe it as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the title information.
 
-<a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence on, or by the layout of, the title page.
+>**Example:**  
+><CITE>Jagd auf Grizzly Bären = Chasse au grizzly bear = Hunting of the grizzly bear / Ch. Bodmer, pinx. ad nat. ; Lucas Weber, sc.</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
+
+<a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence, layout, or lettering style on the preferred source of information.
 
 >**Example:**   
 ><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter … = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>  
 >>(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/); [Parallel title proper](/DCRMR/title/Parallel-title-proper/); Parallel statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.215.31.3">2.215.31.3</a> For transposed elements, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  
+
+*Exception*: For still image resources without a title page, do not note transposition.
+
+## 2.215.33.Y.Y Statements of responsibility in more than one language or script following a single title
+
+<a name="2.215.33.1.Y.Y">2.215.33.1.Y.Y</a> If there are no parallel titles, and a statement of responsibility representing the same person in the same role appears in more than one language or script, transcribe them as Parallel statements of responsibility.
+
+>**Example:**  
+><CITE>G. Krikorian = Կ. Գռիկորիան</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ---
 
