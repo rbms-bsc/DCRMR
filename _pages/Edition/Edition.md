@@ -9,7 +9,9 @@ sidebar:
 
 ## 3.01.1 Sources of information
 
-<a name="3.01.1.1">3.01.1.1</a> The sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)), in that order of preference. If an edition element is transcribed from elsewhere than the title page, always indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)). Do not take an edition statement from a source outside the manifestation itself.
+<a name="3.01.1.4.Y.Y">3.01.1.04.Y.Y</a> **Printed text resources**. The sources of information for the edition elements are the title page, other preliminaries, colophon, and dust jacket (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)), in that order of preference. If an edition element is transcribed from elsewhere than the title page, always indicate its source in a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) (see [3.26.31.1](/DCRMR/edition/Note-on-edition-statement/#3.26.31.1)). Do not take an edition statement from a source outside the manifestation itself.
+
+<a name="3.01.1.06.Y.Y">3.01.1.06.Y.Y</a> **Still image resources**. Take an edition statement (that is, an indication of a print's  "state") from any source. Identification of the state will usually come from a catalogue raisonné or other reference source, or simply by comparison of the item in hand with another exemplar of the manifestation. If taken from a source other than the manifestation itself, indicate that it was taken from outside the manifestation by enclosing it in square brackets. Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) to indicate the source of the information (see 3.SOMETHING.SOMETHING).
 
 ## 3.01.2 Element order
 
@@ -17,7 +19,7 @@ sidebar:
 
 >Designation of edition, designation of named revision of edition  / statement of responsibility relating to edition
 
-<a name="3.01.2.2">3.01.2.2</a> [Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/) and [Parallel designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) are transcribed in the order in which they appear on the preferred source of information.
+<a name="3.01.2.2">3.01.2.2</a> [Parallel designation of edition](/DCRMR/edition/Parallel-designation-of-edition/) and [Parallel designation of named revision of edition](/DCRMR/edition/Designation-of-named-revision-of-edition/) are transcribed in the order indicated by the sequence, layout, or lettering style on the preferred source of information.
 
 >Designation of edition, designation of named revision of edition = Parallel designation of edition, parallel designation of named revision of edition
 
@@ -41,7 +43,7 @@ sidebar:
 
 ## 3.01.3 Form and order of information
 
-<a name="3.01.3.1">3.01.3.1</a> Transcribe Edition information in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
+<a name="3.01.3.1">3.01.3.1</a> Transcribe Edition information in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## Contents:
 {: .no_toc }

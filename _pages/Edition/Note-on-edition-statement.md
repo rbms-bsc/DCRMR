@@ -29,7 +29,7 @@ sidebar:
 
 ## 3.26.31 Source and position of edition statement
 
-<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), and [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2)).
+<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2), and 3.SOMETHING.SOMETHING).
 
 >**Example:**  
 ><CITE>Edition statement from half-title</CITE>
@@ -46,6 +46,8 @@ sidebar:
 >**Example:**  
 > <CITE>Edition statement precedes author’s name on title page</CITE>
 
+*Exception*: For still image resources without title pages, do not note transposition.
+
 ## 3.26.32 No edition statement
 
 <a name="3.26.32.1">3.26.32.1</a> Always record edition information, such as an [Edition statement](/DCRMR/edition/Edition-statement/) that is provided by a bibliographic or reference source for resources not containing an edition statement, but known to contain significant changes from other editions, as a Note on edition statement (see [3.21.31.1](/DCRMR/edition/Edition-statement/#3.21.31.1)).
@@ -53,6 +55,12 @@ sidebar:
 >**Example:**  
 ><CITE>Second edition (E.2A) as described by D. Smith</CITE>  
 >>(*Comment*: The formal citation for D. Smith’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
+
+*Exception*: For still images without title pages, see [3.26.42.Y.Y](/DCRMR/edition/Note-on-edition-statement/#32642yy-supplied-and-devised-edition-statements-for-printed-still-images).
+
+<a name="3.26.32.15.Y.Y">3.26.32.15.Y.Y</a> Record in the edition statement information from any source for resources known to contain significant changes from other editions. Always make a note on the source of the information (see 3.SOMETHING.SOMETHING).
+
+*Exception*: For still images without title pages, see 3.SOMETHING.SOMETHING.
 
 <a name="3.26.32.2">3.26.32.2</a> Make a note on statements referring to other editions (e.g., as part of a preface to an earlier edition or a summary of the work’s publication history) if considered important (see [3.21.31.2](/DCRMR/edition/Edition-statement/#3.21.31.2)).
 
@@ -76,6 +84,32 @@ sidebar:
 
 >**Example:**  
 ><CITE>Volume 2 issued without the edition statement</CITE>
+
+## 3.26.42.Y.Y Supplied and devised edition statements for printed still images 
+
+<a name="3.26.42.1.Y.Y">3.26.42.1.Y.Y</a> Always record the source of a supplied [Edition statement](/DCRMR/edition/Edition-statement/) as a Note on edition statement (see [3.21.42.1.Y.Y](/DCRMR/edition/Edition-statement/#3.21.42.1.Y.Y)).
+
+>**Example:**  
+><CITE>State from Klipstein</CITE>  
+>>(*Comment*: Complete citation for Klipstein is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
+
+<a name="3.26.42.2.Y.Y">3.26.42.2.Y.Y</a> If not readily apparent, record the justification for a devised [Edition statement](/DCRMR/edition/Edition-statement/) as a Note on edition statement (see [3.21.42.1.Y.Y](/DCRMR/edition/Edition-statement/#3.21.42.1.Y.Y)).
+
+>**Example:**  
+><CITE>Between Pennington's states 1 and 2. The original dedication has been removed, but neither the replacement used in state 2 nor the number in lower left are yet present</CITE>  
+>>(*Comment*: Statement devised by cataloger based on catalogue raisonné. Complete citation for Pennington is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))
+
+>**Example:**  
+>[Proof before letters] 
+>>(*Comment*: Statement devised by cataloger is the standard technical phrase for a print made before title or other text had been added to the matrix)
+
+>**Example:**  
+><CITE>[Cancellation proof]</CITE>  
+>(*Comment*: Statement devised by cataloger is the standard technical phrase for a print made from a matrix that was defaced in order to prevent additional saleable prints from being made)
+
+>**Example:**  
+><CITE>[Later state with additional lines in sky and water]</CITE>  
+>>(*Comment*: Statement devised by cataloger based on comparison of examples)
 
 ---
 
