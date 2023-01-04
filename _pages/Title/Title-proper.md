@@ -196,7 +196,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 ><CITE>The illustration of the Siberian War</CITE>  
 >>(*Comment*: This collective title is printed on each print in the set, in addition to an individual title for each print) 
 
-<a name="1.21.365.2.Y.Y">1.21.365.2.Y.Y</a> If the collective title of a multiple unit resource is not consistently used from unit to unit and none is given preference in reference sources, choose the title that identifies the resource most adequately and succinctly as the Title proper. Do not enclose the Title proper in square brackets. Provide additional title access if considered important (see TBD).
+<a name="1.21.365.2.Y.Y">1.21.365.2.Y.Y</a> If the collective title of a multiple unit resource is not consistently used from unit to unit and none is given preference in reference sources, choose the title that identifies the resource most adequately and succinctly as the Title proper. Do not enclose the Title proper in square brackets. Provide additional title access if considered important (see 1.25.SOMETHING.SOMETHING).
 
 ## 1.21.37 Manifestations without a collective title 
 
@@ -212,7 +212,7 @@ reciprocatione sui & suus libellus</CITE>
 >**Example:**  
 ><CITE>The serving-man become a queen. Jockey of the green. The lass of Richmond Hill</CITE>
 
-Additional options for still images:
+*Optionally*, for still images:
 
 a) Make a separate description for each separately titled expression, linking the separate descriptions with "With" notes (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1))
 
@@ -238,11 +238,11 @@ d) Devise a collective title for the whole manifestation, preferably in the lang
 >Title proper: <CITE>Isidora</CITE>  
 >Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
 
-## 1.21.38 Single-sheet printed text manifestations
+## 1.21.42.Y.Y Single-sheet printed text manifestations
 
-### 1.21.381 General rule
+### 1.21.421.Y.Y General rule
 
-<a name="1.21.381.1">1.21.381.1</a> In general, transcribe the information presented beginning with the first line of printing. If the printing is arranged in columns with no information preceding the body of the text, begin the transcription with the top line of the extreme left column (extreme right column in the case of languages that are read right to left). Retain in the transcription dates, addresses, and other information necessary for identification. Use judgment, but in case of doubt, start the transcription with the first words of printed text on the sheet. If the initial text is grammatically independent of the succeeding material and is one of the following, however, begin the transcription after it without using the mark of omission:
+<a name="1.21.421.1.Y.Y">1.21.421.1.Y.Y</a> In general, transcribe the information presented beginning with the first line of printing. If the printing is arranged in columns with no information preceding the body of the text, begin the transcription with the top line of the extreme left column (extreme right column in the case of languages that are read right to left). Retain in the transcription dates, addresses, and other information necessary for identification. Use judgment, but in case of doubt, start the transcription with the first words of printed text on the sheet. If the initial text is grammatically independent of the succeeding material and is one of the following, however, begin the transcription after it without using the mark of omission:
 + caption to an illustration
 + copyright statement
 + device
@@ -257,25 +257,25 @@ d) Devise a collective title for the whole manifestation, preferably in the lang
 
 If the initial text has been omitted, indicate the nature and position of the omitted material in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.1](/DCRMR/title/Note-on-title/#1.29.35.1)).
 
-### 1.21.382 Title proper of a single-sheet printed text manifestation
+### 1.21.422.Y.Y Title proper of a single-sheet printed text manifestation
 
-<a name="1.21.382.1">1.21.382.1</a> If there is a word or phrase obviously intended as the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
+<a name="1.21.422.1.Y.Y">1.21.422.1.Y.Y</a> If there is a word or phrase obviously intended as the [Title of manifestation](/DCRMR/title/Title-of-manifestation/) that is not the first line of printing, transcribe it as the entire title proper, omitting information appearing before it on the page without the mark of omission. In general, apply this instruction only when such a title is not integrated grammatically with the rest of the text, is set off typographically, and has as its sole function the naming of the resource as a whole. When such a title is selected, also give in a [Note on title](/DCRMR/title/Note-on-title/) at least the first five words of the first line of printing (see [1.29.35.2](/DCRMR/title/Note-on-title/#1.29.35.2)). In case of doubt as to the selection of the title proper, start the transcription with the first line as described above.
 
-<a name="1.21.382.2">1.21.382.2</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
+<a name="1.21.422.2.Y.Y">1.21.422.2.Y.Y</a> If there is no word or phrase obviously intended as a title, transcribe the text as found through at least a relatively distinctive word or phrase. If the distinctive word or phrase is not near the beginning of the transcription, less important words or phrases preceding it may be omitted, using the mark of omission. Do not, however, abridge the transcription before the sixth word. If the text is very lengthy, end the transcription at the first grammatically acceptable place after a distinctive word or phrase; the omitted material may be summarized in a [Note on title](/DCRMR/title/Note-on-title/) if considered important (see [1.29.35.3](/DCRMR/title/Note-on-title/#1.29.35.3)).
 
-### 1.21.383 Two or more printed texts expressions with a collective title on a single sheet
+### 1.21.423.Y.Y Two or more printed texts expressions with a collective title on a single sheet
 
-<a name="1.21.383.1">1.21.383.1</a> If a resource printed on a single sheet contains two or more expressions and has a collective title, transcribe only the collective title as the title proper. Make a formal or informal contents note for the expressions (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
+<a name="1.21.423.1.Y.Y">1.21.423.1.Y.Y</a> If a resource printed on a single sheet contains two or more expressions and has a collective title, transcribe only the collective title as the title proper. Make a formal or informal contents note for the expressions (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
 
-### 1.21.384 Two or more printed texts expressions without a collective title on a single sheet
+### 1.21.424.Y.Y Two or more printed texts expressions without a collective title on a single sheet
 
-<a name="1.21.384.1">1.21.384.1</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). 
+<a name="1.21.424.1.Y.Y">1.21.424.1.Y.Y</a> If a resource printed on a single sheet contains two or more expressions but does not have a collective title, transcribe as the title proper the first title or opening words of the text. Make a formal or informal contents note and include in it the titles of the additional works (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)). 
 
-<a name="1.21.384.2">1.21.384.2</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)).
+<a name="1.21.424.2.Y.Y">1.21.424.2.Y.Y</a> If the sheet is printed on both sides and it is impossible to determine which side should be read first, make a separate metadata description for each side of the sheet, and include a formal “With, on other side” note in each record (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)).
 
-### 1.21.385 Two or more printed text expressions or manifestations with separate publication, distribution, or manufacture statements on a single sheet
+### 1.21.425.Y.Y Two or more printed text expressions or manifestations with separate publication, distribution, or manufacture statements on a single sheet
 
-<a name="1.21.385.1">1.21.385.1</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, or manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
+<a name="1.21.425.1.Y.Y">1.21.425.1.Y.Y</a> If there are two or more manifestations printed on a single sheet and each has its own publication, distribution, or manufacture statement, or there is other conclusive evidence that they were intended to be separately issued, make a separate description for each manifestation that was intended to be issued separately. Include a formal “With” note in each record indicating that the manifestations were printed on a single sheet and that they were “intended to be separated” (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)). If there are two or more manifestations printed on a single sheet giving the appearance that they were possibly intended to be separated, but there is no conclusive evidence that this is the case, follow the provisions of [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1), and always make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that they were “possibly intended to be separated” (see [9.3.3.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.3.1)).
 
 ## 1.21.64.Y.Y Devised title proper for still images
 
@@ -320,7 +320,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 >**Example:**  
 ><CITE>[The four seasons]</CITE>  
 
-*Optionally*, include the word “Untitled.”
+*Optionally*, include the word “Untitled”.
 
 >**Example:**  
 ><CITE>[Untitled landscape with trees]</CITE>  

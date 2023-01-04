@@ -29,9 +29,8 @@ sidebar:
 
 >**Example:**  
 >Title proper: <CITE>Fort Clark</CITE>  
->First Parallel other title information: <CITE>on the Missouri (February 1834)</CITE>  
->Second Parallel other title information: <CITE>am Missouri (Februar 1834)</CITE>  
->Third Parallel other title information: <CITE>sur la Missouri (février 1834)</CITE>  
+Parallel other title information: <CITE>on the Missouri (February 1834) = am Missouri (Februar 1834) = sur la Missouri (février 1834)</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
 ---
 
