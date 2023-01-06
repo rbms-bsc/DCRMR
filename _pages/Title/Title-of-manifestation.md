@@ -25,7 +25,7 @@ sidebar:
 
 ## 1.2.3 General rule
 
-<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order indicated by the sequence, layout, or lettering style on the source, unless specifically instructed otherwise.
+<a name="1.2.3.1">1.2.3.1</a> Transcribe the title of manifestation in the form and order indicated by the sequence, layout, or lettering style on the preferred source of information, unless specifically instructed otherwise.
 
 <a name="1.2.3.2.Y.Y">1.2.3.2.Y.Y</a> If the title does not adequately describe the nature and content of the resource, provide additional information in the [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note if considered important.
 

@@ -47,7 +47,7 @@ sidebar:
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
 >Variant title of manifestation: <CITE>The Bute interest in the city, or, The bridge in the hole</CITE>  
 >Variant title of manifestation: <CITE>The book interest in the city, or, The bridge in the hole</CITE>  
->> (*Comment*: Rebus represents Bute with an image of a boot)
+>>(*Comment*: Still image resource. Rebus represents Bute with an image of a boot)
 
 ### 1.25.3515 Title proper with converted letterforms I, V, i, j, u, or v (required)
 
@@ -103,7 +103,8 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Foundingfathersfollyday</CITE>  
 >Variant title of manifestation: <CITE>Founding fathers folly day</CITE>  
->>(*Source of information reads*: FOUNDINGFATHERSFOLLYDAY)
+>>(*Source of information reads*: FOUNDINGFATHERSFOLLYDAY)  
+>>(*Comment*: Still image resource)  
 
 ### 1.25.354 Title proper with initials, etc. (optional)
 
@@ -230,7 +231,7 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Illustris. Domina D[omi]na Maria Stuart, Comitissa Portlandiae, Neylandiae[que], etc.</CITE>  
 >Variant title of manifestation: <CITE>Countess of Portland</CITE>  
->>(*Comment*: Print is well-known by a title from a standard reference source)
+>>(*Comment*: Still image resource. Print is well-known by a title from a standard reference source)
 
 ---
 

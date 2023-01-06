@@ -33,7 +33,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Jagd auf Grizzly Bären = Chasse au grizzly bear = Hunting of the grizzly bear / Ch. Bodmer, pinx. ad nat. ; Lucas Weber, sc.</CITE>  
->>(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)
 
 <a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence, layout, or lettering style on the preferred source of information.
 
@@ -47,11 +47,11 @@ sidebar:
 
 ## 2.215.33.Y.Y Statements of responsibility in more than one language or script following a single title
 
-<a name="2.215.33.1.Y.Y">2.215.33.1.Y.Y</a> If there are no parallel titles, and a statement of responsibility representing the same person in the same role appears in more than one language or script, transcribe them as Parallel statements of responsibility.
+<a name="2.215.33.1.Y.Y">2.215.33.1.Y.Y</a> If there are no parallel titles, and a statement of responsibility representing the same person in the same role appears in more than one language or script, transcribe them as Parallel statements of responsibility relating to title proper.
 
 >**Example:**  
 ><CITE>G. Krikorian = Կ. Գռիկորիան</CITE>  
->>(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)
 
 ---
 

@@ -45,7 +45,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Title from lower margin</CITE>  
->(*Comment*: Resource is an engraving) 
+>(*Comment*: Still image resource. An engraving) 
  
 <a name="1.29.31.2">1.29.31.2</a> For transposed title page elements, always make a note to indicate the original position (see [1.01.3.2](/DCRMR/title/#1.01.3.2)).
 
@@ -102,11 +102,11 @@ sidebar:
 
 >**Example:** 
 ><CITE>Title translated: I in the crowd</CITE>  
->>(*Comment*: Title proper of poster is in Korean braille)
+>>(*Comment*: Still image resource. Title proper of poster is in Korean braille)
 
 >**Example:**  
 ><CITE>Title translates as "Tale of the Heike"</CITE>  
->>(*Comment*: Title proper is 平家 物語)
+>>(*Comment*: Still image resource. Title proper is 平家 物語)
 
 <a name="1.29.36.3">1.29.36.3</a> Make an explanatory note about cataloger-supplied letters or words (e.g., when special marks of contraction have been used by the printer in continuance of the manuscript tradition) if considered important (see [Transcription, 0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs)).
 
@@ -127,7 +127,7 @@ sidebar:
 
 <a name="1.29.39.1">1.29.39.1</a> For resources without title pages, transcribe title and title-like information not appearing on the title page in Note on title if considered important.
 
->**Example (printed text):**  
+>**Example:**  
 >Title proper: <CITE>The lawes resolutions of womens rights, or, The lawes provision for woemen</CITE>  
 >Note on title: <CITE>Running title: The womans lawier</CITE>
 
@@ -136,13 +136,13 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>[Sketches of soldiers wearing the 7th New York Cavalry Regiment uniform]</CITE>  
 >Note on title: <CITE>Text on drawing reads only "7th N.Y."</CITE>  
->(*Comment*: Cataloger judged text on item too minimal to function as [Title proper](/DCRMR/title/Title-proper/))
+>(*Comment*: Still image resource. Cataloger judged text on item too minimal to function as [Title proper](/DCRMR/title/Title-proper/))
 
 >**Example:**  
 >Title proper: <CITE>Illinois Central R.R., freight cars in South Water Street freight terminal, Chicago, Ill.</CITE>  
 >Note on title: <CITE>Title from Farm Security Administration/Office of War Information caption card</CITE>  
 >Summarization of content: <CITE>Photograph features large "Pabst Blue Ribbon Beer" neon sign</CITE>  
->>(*Comment*: Cataloger could have opted to transcribe the only prominent words in the image as the title, but instead transcribed the caption card provided by the issuing agency. The other text in the image is transcribed as part of a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note to aid in identification if the image is seen outside the catalog context)
+>>(*Comment*: Still image resource. Cataloger could have opted to transcribe the only prominent words in the image as the title, but instead transcribed the caption card provided by the issuing agency. The other text in the image is transcribed as part of a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note to aid in identification if the image is seen outside the catalog context)
 
 ## 1.29.393.Y.Y Omitted title information
 
@@ -153,13 +153,11 @@ sidebar:
 
 >**Example:**  
 ><CITE>Poster text continues: ... the smoke of America's factory stacks is a signal of our workers' and employers' loyalty. It means more guns, more ships, more food. Our industries are the third and main supporting line of defense--our base of supplies. Without them the Army and Navy would be helpless. As good patriots let us strive to keep our industries strong</CITE>  
+>>(*Comment*: Still image resource)
 
 ## 1.29.394.Y.Y Picture captions, etc.
 
 <a name="1.29.394.1.Y.Y">1.29.394.1.Y.Y</a> When the pictorial element of a single-sheet resource with text (e.g., a poster, broadside, or news photo) has a distinctive caption independent of the chosen title, give it in a note with an appropriate introductory word or phrase, if considered important. Headings and mottoes may be similarly described with the appropriate label.
-
->**Example:**   
-><CITE>Subtitle: The medicinal, culinary, cosmetic, and economic properties, cultivation, and folklore of herbs, grasses, fungi, shrubs, and trees, with all their modern scientific uses</CITE>  
 
 ## 1.29.395.Y.Y Other title details
 

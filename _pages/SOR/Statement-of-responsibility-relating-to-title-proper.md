@@ -46,9 +46,11 @@ sidebar:
 
 >**Example:**  
 ><CITE>Berenice Abbott</CITE>  
+>>(*Comment*: Still image resource)
 
 >**Example:**  
-><CITE>Wm. Hinks del. et sculp.</CITE>
+><CITE>Wm. Hinks del. et sculp.</CITE>  
+>>(*Comment*: Still image resource)
 
 ## 2.21.315 Statements of responsibility relating to title proper on sources other than the preferred source of information
 
@@ -74,6 +76,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>drawn by Schell and Hogan from a sketch by J.W. Hayward</CITE>  
+>>(*Comment*: Still image resource)
 
 <a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single Statement of responsibility relating to title proper (unless grammatically inseparable from the [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) or [Other title information, 1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)).
 
@@ -103,17 +106,17 @@ sidebar:
 
 >**Example:**  
 ><CITE>C. Ansell delt. ; Francis Jukes aquatint fecit</CITE>  
->>(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)
 
 >**Example:**  
 ><CITE>Harry Fenn ; S.V. Hunt</CITE>  
->>(*Comment*: Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)
 
 *Exception*: If there are two or more Statements of responsibility relating to title proper that represent the same person in the same role, and they are not Parallel statements of responsibility (see [2.215.33.Y.Y](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221533yy-statements-of-responsibility-in-more-than-one-language-or-script-following-a-single-title)) transcribe the statement most explicit of the role. In case of doubt, choose the fuller or more prominent form of the name. Record the other statement in a Note on statement of responsibility if considered important.
 
 >**Example:**  
 ><CITE>drawn by C. Robinson ; engraved by T. Robinson</CITE>  
->>(*Comment*: “C.R.” and “T. Robinson sc.” appear respectively in the left and right corners of the image itself)
+>>(*Comment*: Still image resource. “C.R.” and “T. Robinson sc.” appear respectively in the left and right corners of the image itself)
 
 ## 2.21.35 Terms of address, etc., in statements of responsibility relating to title proper
 
@@ -131,7 +134,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Rigaud, R.A.</CITE>  
->>(*Comment*: The artist was a Royal Academician)
+>>(*Comment*: Still image resource. The artist was a Royal Academician)
 
 ## 2.21.36 Ambiguous statements of responsibility relating to title proper
 
@@ -179,13 +182,16 @@ sidebar:
 <a name="2.21.376.1.Y.Y">2.21.376.1.Y.Y</a> If the Statement of responsibility relating to title proper represents the creator only by a pseudonym, a descriptive phrase, or a symbol such as a monogram or device, use that information in the statement of responsibility. Indicate the latter by "monogram" or "device" in square brackets. If the actual name is known, give it in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) (see [2.29.33](/DCRMR/sor/Note-on-statement-of-responsibility/#22933-attributions)).
 
 >**Example:**  
-><CITE>from a sketch by our special artist</CITE> 
+><CITE>from a sketch by our special artist</CITE>  
+>>(*Comment*: Still image resource)
 
 >**Example:**  
-><CITE>PAME [monogram]</CITE>
+><CITE>PAME [monogram]</CITE>  
+>>(*Comment*: Still image resource)
 
 >**Example:**  
-><CITE>[empty tablet device]</CITE>
+><CITE>[empty tablet device]</CITE>  
+>>(*Comment*: Still image resource)
 
 ## 2.21.377.Y.Y Illegible statements of responsibility relating to title proper
 
@@ -193,7 +199,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>A. [?]</CITE>  
->(*Comment*: Drawing signed with the initial "A." followed by an illegible surname)
+>(*Comment*: Still image resource. Drawing signed with the initial "A." followed by an illegible surname)
 
 <a name="2.21.377.2.Y.Y">2.21.377.2.Y.Y</a> f the statement of responsibility is completely illegible, record the presence of the illegible words in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/).
 
@@ -205,7 +211,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>drawn, engraved & published by W. Birch, Springland near Bristol, Pennsylva.</CITE>  
->>(*Comment*: Phrase appears immediately below the lower left of the image, above the centered title, as is customary for the statement of responsibility at the time)
+>>(*Comment*: Still image resource. Phrase appears immediately below the lower left of the image, above the centered title, as is customary for the statement of responsibility at the time)
 
 ## 2.21.385 Other title information appearing after statements of responsibility relating to title proper
 
