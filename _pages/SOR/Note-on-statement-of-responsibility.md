@@ -53,7 +53,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Attribution to John L. Magee is based on similarities in draftsmanship and facial characterizations to Magee's 1850 satire "The Clay Statue," and to several Mexican War prints he executed for the publisher Baillie</CITE>  
->>(**Comment**: Still image resource)
+>>(*Comment*: Still image resource)
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known. Give the authority for the information if considered important.
 
@@ -83,7 +83,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Engraved by S.V. Hunt after a painting by Harry Fenn</CITE>  
->>(*Comment*: Still image resource. Statement of responsibility relating to title proper follows the convention of giving the original artist's name below the left side of the image and the engraver's name below the right side of the image)
+>>(*Comment*: Still image resource. [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) follows the convention of giving the original artist's name below the left side of the image and the engraver's name below the right side of the image)
 
 <a name="2.29.34.2">2.29.34.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper, 2.21.36.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.2)).
 

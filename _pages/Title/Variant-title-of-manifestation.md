@@ -39,9 +39,9 @@ sidebar:
 >Title proper: <CITE>平家 物語</CITE>  
 >Variant title of manifestation: <CITE>Heike monogatari</CITE>
 
-### 1.25.3513.Y.Y Title proper containing a rebus (optional)
+### 1.25.3513.Y.Y Title proper containing a rebus (required)
 
-<a name="1.25.3513.1.Y.Y">1.25.3513.1.Y.Y</a>  If any of the first five words in the Title proper (or, if the Title proper begins with an article, the first six words) contains a rebus, provide additional title access for the title with the intended word or words unbracketed (see [0.4.17](/DCRMR/general-rules/Transcription/#0417-rebuses)).
+<a name="1.25.3513.1.Y.Y">1.25.3513.1.Y.Y</a>  If any of the first five words in the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words) contains a rebus, provide additional title access for the title with the intended word or words unbracketed (see [0.4.17](/DCRMR/general-rules/Transcription/#0417-rebuses)).
 
 >**Example:**  
 >Title proper: <CITE>The [Bute] interest in the [city], or, The [bridge] in the [hole]</CITE>  
@@ -226,7 +226,7 @@ sidebar:
 
 ### 1.25.3595.Y.Y Variant titles from external sources (optional)
 
-<a name="1.25.3595.1.Y.Y">1.25.3595.1.Y.Y</a> Provide additional access for variant titles provided by other sources. Indicate the source of the variant title (see also [Note on title, 1.29.36.4](/DCRMR/title/Note-on-title/#1.29.36.4)).
+<a name="1.25.3595.1.Y.Y">1.25.3595.1.Y.Y</a> Provide additional access for variant titles provided by other sources. Indicate the source of the variant title (see also [Note on title, 1.29.36.4.Y.Y](/DCRMR/title/Note-on-title/#1.29.36.4.Y.Y)).
 
 >**Example:**  
 >Title proper: <CITE>Illustris. Domina D[omi]na Maria Stuart, Comitissa Portlandiae, Neylandiae[que], etc.</CITE>  

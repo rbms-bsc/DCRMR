@@ -29,7 +29,7 @@ sidebar:
 
 >**Example:**  
 >Title proper: <CITE>Brilliant Luna Park at night</CITE>  
-Other title information: Coney Island, New York's great pleasure resort
+Other title information: <CITE>Coney Island, New York's great pleasure resort</CITE>  
 >>(*Comment*: Still image resource. Stereograph card with a long dash between the two separable parts of the title)
 
 <a name="1.23.3.2">1.23.3.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on a title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
@@ -67,7 +67,7 @@ Other title information: Coney Island, New York's great pleasure resort
 
 ## 1.23.34 Persons or bodies not explicitly named in the statement of responsibility
 
-<a name="1.23.34.1">1.23.34.1</a> If no specific person or body is named or implied in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc. (see also [2.21.375.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.2)).
+<a name="1.23.34.1">1.23.34.1</a> If no specific person or body is named or implied in a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/), transcribe the statement as other title information. Such statements will generally contain words like “translated,” “edited,” “compiled,” etc. (see [2.21.375.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.1)).
 
 >**Example:**  
 >Title proper: <CITE>The folowing of Christ</CITE>  

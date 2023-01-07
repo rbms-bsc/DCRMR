@@ -45,7 +45,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Title from lower margin</CITE>  
->(*Comment*: Still image resource. An engraving) 
+>>(*Comment*: Still image resource. An engraving) 
  
 <a name="1.29.31.2">1.29.31.2</a> For transposed title page elements, always make a note to indicate the original position (see [1.01.3.2](/DCRMR/title/#1.01.3.2)).
 
@@ -80,7 +80,7 @@ sidebar:
 
 <a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet manifestation if considered important (see [Title proper, 1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)).
 
-<a name="1.29.35.4.Y.Y">1.29.35.4.Y.Y</a> Transcribe the initial text in a note if considered important (see [1.29.394.Y.Y](/DCRMR/title/Note-on-title/#129394yy-picture-captions-etc))
+<a name="1.29.35.4.Y.Y">1.29.35.4.Y.Y</a> Transcribe the initial text in a note if considered important (see [1.29.394.Y.Y](/DCRMR/title/Note-on-title/#129394yy-picture-captions-etc)).
 
 ## 1.29.36 Variations in title
 
@@ -92,7 +92,7 @@ sidebar:
 >**Example:**  
 ><CITE>Docket title reads: The case of the proprietors of annual sums of the hereditary excise</CITE>
 
->>**Example:**  
+>**Example:**  
 ><CITE>Letterpress title below image: Shakespeare's seven ages</CITE>  
 >>(*Comment*: Title engraved within image, "Shakespear's beautiful idea on the Seven ages of man," was chosen as Title proper)
 
@@ -100,7 +100,7 @@ sidebar:
 
 <a name="1.29.36.23.Y.Y">1.29.36.23.Y.Y</a> If considered important, give the translation of a title that is not in the language of the cataloging agency.
 
->**Example:** 
+>**Example:**  
 ><CITE>Title translated: I in the crowd</CITE>  
 >>(*Comment*: Still image resource. Title proper of poster is in Korean braille)
 
@@ -113,7 +113,7 @@ sidebar:
 >**Example:**  
 ><CITE>Brevigraphs in title have been expanded</CITE>
 
-<a name="1.29.36.4.Y.Y">1.29.36.4.Y.Y</a> If considered important, make a note on title variations found in otherreference sources.
+<a name="1.29.36.4.Y.Y">1.29.36.4.Y.Y</a> If considered important, make a note on title variations found in other sources.
 
 ## 1.29.37 Parallel titles
 
@@ -157,7 +157,7 @@ sidebar:
 
 ## 1.29.394.Y.Y Picture captions, etc.
 
-<a name="1.29.394.1.Y.Y">1.29.394.1.Y.Y</a> When the pictorial element of a single-sheet resource with text (e.g., a poster, broadside, or news photo) has a distinctive caption independent of the chosen title, give it in a note with an appropriate introductory word or phrase, if considered important. Headings and mottoes may be similarly described with the appropriate label.
+<a name="1.29.394.1.Y.Y">1.29.394.1.Y.Y</a> When the pictorial element of a single-sheet resource with text (e.g., a poster, broadside, or news photo) has a distinctive caption independent of the chosen title, give it in a note with an appropriate introductory word or phrase if considered important. Headings and mottoes may be similarly described with the appropriate label.
 
 ## 1.29.395.Y.Y Other title details
 

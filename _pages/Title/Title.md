@@ -53,6 +53,8 @@ sidebar:
 >Title proper: <CITE>Sonate à quatre mains pour le forte-piano, oeuvre 48</CITE>  
 >Note on title: <CITE>Work number appears after statement of responsibility on title page</CITE>  
 
+*Exception*: For still image resources without a title page, do not note transposition.
+
 ## Contents:
 {: .no_toc }
 

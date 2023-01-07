@@ -98,7 +98,7 @@ sidebar:
 
 ## 2.21.34 Two or more statements of responsibility relating to title proper
 
-<a name="2.21.34.1">2.21.34.1</a> If there are two or more Statements of responsibility relating to title proper, transcribe them in the order indicated by the sequence, layout, or lettering style on the preferred source of information. If the sequence, layout,or lettering style are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
+<a name="2.21.34.1">2.21.34.1</a> If there are two or more Statements of responsibility relating to title proper, transcribe them in the order indicated by the sequence, layout, or lettering style on the preferred source of information. If the sequence, layout, or lettering style are ambiguous or insufficient to determine the order, transcribe the statements in the order that makes the most sense. 
 
 >**Example:**  
 ><CITE>di mons. Paolo Giouio vescouo di Nocera ; tradotte per M. Lodouico Domenichi</CITE>  
@@ -201,7 +201,7 @@ sidebar:
 ><CITE>A. [?]</CITE>  
 >(*Comment*: Still image resource. Drawing signed with the initial "A." followed by an illegible surname)
 
-<a name="2.21.377.2.Y.Y">2.21.377.2.Y.Y</a> f the statement of responsibility is completely illegible, record the presence of the illegible words in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/).
+<a name="2.21.377.2.Y.Y">2.21.377.2.Y.Y</a> If the statement of responsibility is completely illegible, record the presence of the illegible words in a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/).
 
 ## 2.21.38 Statements of responsibility relating to title proper with grammatically inseparable elements
 

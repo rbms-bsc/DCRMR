@@ -181,7 +181,7 @@ c) Make a single description of the set as is. Indicate in a [Note on manifestat
 
 <a name="3.21.42.2.Y.Y">3.21.42.2.Y.Y</a> *Optionally*, even when the description includes sufficient information to disambiguate states, supply an edition statement found in a reference source. If applying the option, always give the source of the information and any needed explanation in a Note on edition statement (see [3.26.42.3.Y.Y](/DCRMR/edition/Note-on-edition-statement/#3.26.42.3.Y.Y)).
 
->**Example:** 
+>**Example:**  
 >Title proper: <CITE>Effigies Paraselci medici celeberrimi</CITE>  
 >Statement of responsibility: <CITE>P.P. Rub pinxit ; R. Gaywood fecit</CITE>  
 >Edition statement: <CITE>[State i]</CITE>  
@@ -194,7 +194,7 @@ c) Make a single description of the set as is. Indicate in a [Note on manifestat
 ><CITE>3e [état]</CITE>  
 >>(*Comment*: Still image resource)
 
->**Example:**
+>**Example:**  
 ><CITE>[State] 1</CITE>  
 >>(*Comment*: Still image resource)
 

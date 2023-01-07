@@ -141,7 +141,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 
 >**Example:**  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
->Note on title: <CITE>Title from Barbosa Machado.</CITE>  
+>Note on title: <CITE>Title from Barbosa Machado</CITE>  
 >>(*Comment*: Still image resource. A full citation to Barbosa Machado is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
 <a name="1.21.34.2.Y.Y">1.21.34.2.Y.Y</a> If no title can be supplied from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1) and the resource bears text, use as the Title proper the opening words of the text if these provide a suitable title (that is, a reasonably distinctive title, or alternatively, in the case of still image resources, a title indicative of the content).
@@ -189,8 +189,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 >**Example:**  
 ><CITE>This view of La Valletta, taken from the Gargur Battery during the siege in 1800, is most humbly inscribed by permission to Brigadier General Thomas Graham ...</CITE>  
->>(*Comment*: The chief title begins "View of La Valletta" but its end point is ambiguous. The full title continues "...then commanding the allied forces in Malta, by his humble servt. Major Jas. Weir, Commandant of the Malta Batallion")
->>(*Comment*: Still image resource)
+>>(*Comment*: Still image resource. The chief title begins "View of La Valletta" but its end point is ambiguous. The full title continues "...then commanding the allied forces in Malta, by his humble servt. Major Jas. Weir, Commandant of the Malta Batallion")  
 
 ## 1.21.365.Y.Y Manifestations with a collective title
 
@@ -231,7 +230,7 @@ a) Transcribe the title and [Statement of responsibility relating to title prope
 
 b) Make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1))  
 
-c) Supply a collective title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1).
+c) Supply a collective title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1)
 
 d) Devise a collective title for the whole manifestation, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper
 
@@ -283,7 +282,7 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 ## 1.21.64.Y.Y Devised title proper for still images
 
-<a name="1.21.64.1.Y.Y">1.21.64.1.Y.Y</a> If a suitable Title proper cannot be derived from the beginning words of text (see [1.21.34.2](/DCRMR/title/Title-proper/#1.21.34.2)), and cannot be supplied from another source (see [1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)), devise a brief descriptive title, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper. 
+<a name="1.21.64.1.Y.Y">1.21.64.1.Y.Y</a> If a suitable Title proper cannot be derived from the beginning words of text (see [1.21.34.2.Y.Y](/DCRMR/title/Title-proper/#1.21.34.2.Y.Y)), and cannot be supplied from another source (see [1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)), devise a brief descriptive title, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper. 
 
 <a name="1.21.64.2.Y.Y">1.21.64.2.Y.Y</a> For untitled images of a documentary nature, give the objective factual content clearly and concisely, enclosed in square brackets. Details of the content, nature, scope, context, purpose, etc., of the material may be fully described in the note area. Include the following kinds of information in the devised title, as appropriate and feasible:
 * The subject type or form of material, e.g., view(s), portrait(s), sketch(es)
