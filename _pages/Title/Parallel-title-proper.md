@@ -34,7 +34,8 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Jagd auf Grizzly Bären</CITE>  
 >Parallel title proper: <CITE>Chasse au grizzly bear = Hunting of the grizzly bear</CITE>  
->>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)
+>>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)  
+>>**(*Ingest comment*: example needs review)**  
 
 <a name="1.215.3.2">1.215.3.2</a> For a translation, if the title in the original language does not appear on the title page but does appear elsewhere in the manifestation, transcribe it in a [Note on title](/DCRMR/title/Note-on-title) if considered important (see [1.29.37.1](/DCRMR/title/Note-on-title/#1.29.37.1)).
 

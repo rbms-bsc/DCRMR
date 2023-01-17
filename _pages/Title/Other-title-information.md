@@ -30,7 +30,8 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Brilliant Luna Park at night</CITE>  
 Other title information: <CITE>Coney Island, New York's great pleasure resort</CITE>  
->>(*Comment*: Still image resource. Stereograph card with a long dash between the two separable parts of the title)
+>>(*Comment*: Still image resource. Stereograph card with a long dash between the two separable parts of the title)  
+>>**(*Ingest comment*: example needs review)**  
 
 <a name="1.23.3.2">1.23.3.2</a> If the other title information precedes the [Title proper](/DCRMR/title/Title-proper/) on a title page, transpose it to its required position unless it is a grammatically inseparable part of the title proper according to one or more of the conditions enumerated in [Words considered part of the title proper](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) (see [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)). When transposing Other title information, do not use the mark of omission. Make a [Note on title](/DCRMR/title/Note-on-title/) indicating the transposition (see [1.01.2](/DCRMR/title/#1012-element-order) and [1.29.38.1](/DCRMR/title/Note-on-title/#1.29.38.1)).
 
@@ -76,7 +77,8 @@ Other title information: <CITE>Coney Island, New York's great pleasure resort</C
 >**Example:**  
 >Title proper: <CITE>The Rt. Honble. Edmund Burke</CITE>  
 >Other title information: <CITE>drawn from the life</CITE>  
->>(*Comment*: Still image resource)
+>>(*Comment*: Still image resource)  
+>>**(*Ingest comment*: example needs review)**  
 
 ## 1.23.35 Statements about illustrations or volumes
 
@@ -128,7 +130,8 @@ If the statement appears following the [Statement of responsibility relating to 
 >**Example:**  
 >Title proper: <CITE>James Barry Esqr., late R.A.</CITE>  
 >Other title information: <CITE>from a picture painted by himself about the year 1783</CITE>  
->>(*Comment*: Still image resource. Lettering size, style, and layout clearly indicate that "painted by himself..." is part of the title, not part of the statement of responsibility)
+>>(*Comment*: Still image resource. Lettering size, style, and layout clearly indicate that "painted by himself..." is part of the title, not part of the statement of responsibility)  
+>>**(*Ingest comment*: example needs review)**  
 
 <a name="1.23.38.2.Y.Y">1.23.38.2.Y.Y</a> **Dedications**. *Optionally*, for  still images treat a dedication as other title information unless the dedication is visually or grammatically inseparable from information transcribed as part of another element. If the dedication follows the statement of responsibility, transcribe it as a subsequent statement of responsibility.
 
