@@ -70,7 +70,7 @@ sidebar:
 
 ## 3.21.33 Edition statements with grammatically inseparable information
 
-<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable (see [0.4.92](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability)) from the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe them as they appear (see also [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
+<a name="3.21.33.1">3.21.33.1</a> If information pertaining to other elements of the description (e.g., an original title or other information concerning the original work) is grammatically inseparable (see [0.4.92](/DCRMR/general-rules/Transcription/#0492-grammatical-inseparability)) from the [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe it as part of the [Designation of edition](/DCRMR/edition/Designation-of-edition/) (see [1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)). If illustration statements or statements such as “in two volumes” appear with a [Designation of edition](/DCRMR/edition/Designation-of-edition/), transcribe them as they appear (see [1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)).
 
 >**Example:**  
 ><CITE>New edition, complete in one volume ; with two hundred wood cuts</CITE>

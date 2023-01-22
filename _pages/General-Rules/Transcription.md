@@ -37,7 +37,7 @@ Chapter 8: Series
 
 ## 0.4.05 General guidelines on transcription
 
-<a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option in [RDA Toolkit: Transcription Guidelines](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-ad9f832e-c5c5-31f0-b928-2e860f8e4937){:target="_blank"} to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see also [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
+<a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option in [RDA Toolkit: Transcription Guidelines](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-ad9f832e-c5c5-31f0-b928-2e860f8e4937){:target="_blank"} to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
 Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
@@ -242,7 +242,7 @@ For guidance on recording the chronogram as a date element, see the instructions
 >**Example:**  
 ><CITE>Perdito & Perdita—or—The man & woman of the people</CITE>
 
-If a cataloging agency applies ISBD punctuation and the option for transcribing original punctuation is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See also [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
+If a cataloging agency applies ISBD punctuation and the option for transcribing original punctuation is applied, then record both transcribed punctuation and prescribed punctuation, even if this results in double punctuation. (See [Prescribed punctuation](/DCRMR/general-rules/Prescribed-punctuation).)
 
 >**Example:**  
 ><CITE>London: : Printed for A. Millar, over-against Catharine-Street in the Strand., M,DCC,LI. [1751]</CITE>
@@ -369,7 +369,7 @@ Do not supply marks of punctuation to indicate line breaks.
 ><CITE>Printed & sold by J. Preston</CITE>  
 >>(*Source of information reads*: Printed & sold by J: Preston)
 
-<a name="0.4.385.2">0.4.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See also [Superscripts and subscripts, 0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1).)
+<a name="0.4.385.2">0.4.385.2</a> When transcribing an abbreviated word that includes superscript or subscript characters, record the punctuation at the end of the word. (See [Superscripts and subscripts, 0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1).)
 
 >**Example:**  
 ><CITE>Ie. recueil nouveaux</CITE>  

@@ -29,7 +29,7 @@ sidebar:
 
 ## 3.26.31 Source and position of edition statement
 
-<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2), and 3.SOMETHING.SOMETHING).
+<a name="3.26.31.1">3.26.31.1</a> Always note the source of any element of the [Edition statement](/DCRMR/edition/Edition-statement/) that is taken from elsewhere than the preferred source of information (see [3.01.1](/DCRMR/edition/#3011-sources-of-information), [3.22.33.2](/DCRMR/edition/Designation-of-edition/#3.22.33.2), [3.22.35.4](/DCRMR/edition/Designation-of-edition/#3.22.35.4), [3.24.32.2](/DCRMR/edition/Designation-of-named-revision-of-edition/#3.24.32.2), and [3.21.42.Y.Y](/DCRMR/edition/Edition-statement/#32142yy-supplied-and-devised-edition-statements-for-still-image-resources)).
 
 >**Example:**  
 ><CITE>Edition statement from half-title</CITE>

@@ -357,7 +357,7 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 
 #### 6.21.431 General rule
 
-<a name="6.21.431.1">6.21.431.1</a> If a manifestation is issued in more than one physical unit, record the number of physical units in arabic numerals followed by the appropriate designation for the unit (e.g., "volumes"). Prefer terminology from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"} (see also [6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
+<a name="6.21.431.1">6.21.431.1</a> If a manifestation is issued in more than one physical unit, record the number of physical units in arabic numerals followed by the appropriate designation for the unit (e.g., "volumes"). Prefer terminology from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"}.
 
 >**Example:**  
 ><CITE>5 volumes</CITE>  

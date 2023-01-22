@@ -111,7 +111,7 @@ If the statement appears following the [Statement of responsibility relating to 
 
 ## 1.23.37 Abridgment of other title information
 
-<a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see also [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
+<a name="1.23.37.1">1.23.37.1</a> *Optionally*, if other title information is very lengthy and can be abridged without loss of essential information, omit less important words or phrases, using the mark of omission. If considered important, transcribe omitted words or phrases in a [Note on title](/DCRMR/title/Note-on-title/) (see [1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)).
 
 >**Example:**  
 >Title proper: <CITE> Du secret des mysteres, ou, L’apologie de la rubrique des missels</CITE>  
