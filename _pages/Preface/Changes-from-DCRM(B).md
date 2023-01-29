@@ -17,6 +17,8 @@ A new introductory section on “[Data Provenance](/DCRMR/general-rules/Data-pro
 
 Some appendices have been removed. Appendix F (Title Access Points) has been integrated with the main text. Appendix G (Early Letterforms and Symbols) has been incorporated in [Transcription](/DCRMR/general-rules/Transcription/). Appendix H (Individual and Special Issues of Serials) will be incorporated in a future iteration. Catalogers should continue to consult Appendix H of DCRM(B) for the time being.
 
+For still images, RDA has not created a "State" element mapping to the ISBD "State" area. Instructions related to state have instead been added to chapter 3 (Edition).
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Background")](/DCRMR/preface/Background/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Future work")](/DCRMR/preface/Future-work/)

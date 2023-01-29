@@ -14,45 +14,6 @@ DCRMR is aligned with the RDA element set. When completed, DCRMR will be an inte
 DCRMR can be downloaded as a PDF: [DCRMR PDF (release 2022.2.0.0)](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%202022_2_0_0.pdf){:target="_blank"}. Previous releases of the DCRMR PDF may be found at [DCRMR GitHub repository: PDF folder](https://github.com/rbms-bsc/DCRMR/tree/master/assets/pdfs){:target="_blank"}.
 
 Information regarding the RBMS RDA Editorial Group’s preferred fonts is available on the [DCRMR Wiki: Preferred fonts](https://github.com/rbms-bsc/DCRMR/wiki/Preferred-fonts){:target="_blank"}.
-	
-
-## RBMS RDA Editorial Group (2022/2023)
-
-### Chief editors
-
-Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University  
-
-Jessica Grzegorski, Newberry Library
-
-### Editors
-
-Erin Blake, Folger Shakespeare Library  
-
-Laura Doublet, University of Victoria, Victoria, B.C.  
-
-Tammy Druash, University of North Florida
-
-Ryan Hildebrand, University of Oregon
-
-Deborah J. Leslie, Folger Shakespeare Library
-
-Iris O’Brien, British Library
-
-Elizabeth O’Keefe, Formerly of the Morgan Library & Museum  
-
-Jessie Sherwood, Robbins Research Collection and Research Center, Berkeley Law  
-
-Brittney Washington, Harry Ransom Center  
-
-### Keepers of the text
-
-kalan Knudson Davis, University of Minnesota  
-
-Yoonha Hwang, Harvard College Library  
-
-Matthew J. Murphy, Milwaukee Public Library  
-
-Amy Tims, American Antiquarian Society
 
 The work of the current RBMS RDA Editorial Group is informed by and indebted to the work of past Editorial Groups. For the complete roster of members, both past and present, see the [Membership roster](/DCRMR/preface/Membership-roster/).
 
