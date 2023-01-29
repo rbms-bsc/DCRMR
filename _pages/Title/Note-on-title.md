@@ -45,7 +45,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Title from lower margin</CITE>  
->>(*Comment*: Still image resource. An engraving)  
+>>(*Comment*: An engraving)  
 >>**(*Ingest comment*: example needs review)**  
  
 <a name="1.29.31.2">1.29.31.2</a> For transposed title page elements, always make a note to indicate the original position (see [1.01.3.2](/DCRMR/title/#1.01.3.2)).
@@ -104,12 +104,12 @@ sidebar:
 
 >**Example:**  
 ><CITE>Title translated: I in the crowd</CITE>  
->>(*Comment*: Still image resource. Title proper of poster is in Korean braille)  
+>>(*Comment*: Title proper of poster is in Korean braille)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>Title translates as "Tale of the Heike"</CITE>  
->>(*Comment*: Still image resource. Title proper is 平家 物語)  
+>>(*Comment*: Title proper is 平家 物語)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.29.36.3">1.29.36.3</a> Make an explanatory note about cataloger-supplied letters or words (e.g., when special marks of contraction have been used by the printer in continuance of the manuscript tradition) if considered important (see [Transcription, 0.4.16](/DCRMR/general-rules/Transcription/#0416-brevigraphs)).
@@ -141,14 +141,14 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>[Sketches of soldiers wearing the 7th New York Cavalry Regiment uniform]</CITE>  
 >Note on title: <CITE>Text on drawing reads only "7th N.Y."</CITE>  
->(*Comment*: Still image resource. Cataloger judged text on item too minimal to function as [Title proper](/DCRMR/title/Title-proper/))  
+>(*Comment*: Cataloger judged text on item too minimal to function as [Title proper](/DCRMR/title/Title-proper/))  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 >Title proper: <CITE>Illinois Central R.R., freight cars in South Water Street freight terminal, Chicago, Ill.</CITE>  
 >Note on title: <CITE>Title from Farm Security Administration/Office of War Information caption card</CITE>  
 >Summarization of content: <CITE>Photograph features large "Pabst Blue Ribbon Beer" neon sign</CITE>  
->>(*Comment*: Still image resource. Cataloger could have opted to transcribe the only prominent words in the image as the title, but instead transcribed the caption card provided by the issuing agency. The other text in the image is transcribed as part of a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note to aid in identification if the image is seen outside the catalog context)  
+>>(*Comment*: Cataloger could have opted to transcribe the only prominent words in the image as the title, but instead transcribed the caption card provided by the issuing agency. The other text in the image is transcribed as part of a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note to aid in identification if the image is seen outside the catalog context)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.29.393.Y.Y Omitted title information
@@ -161,7 +161,6 @@ sidebar:
 
 >**Example:**  
 ><CITE>Poster text continues: ... the smoke of America's factory stacks is a signal of our workers' and employers' loyalty. It means more guns, more ships, more food. Our industries are the third and main supporting line of defense--our base of supplies. Without them the Army and Navy would be helpless. As good patriots let us strive to keep our industries strong</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.29.394.Y.Y Picture captions, etc.

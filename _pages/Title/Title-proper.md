@@ -47,12 +47,12 @@ sidebar:
 
 >**Example:**  
 ><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
->>(*Comment*: Still image resource. Size and location of lettering visually indicate that "drawn from life at Wexford" is part of the satiric title, not a statement of responsibility where no person or body is explicitly named)  
+>>(*Comment*: Size and location of lettering visually indicate that "drawn from life at Wexford" is part of the satiric title, not a statement of responsibility where no person or body is explicitly named)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 ><CITE>Near Sale's house, 23 Oct. 1880, Otago Harbour</CITE>  
->>(Comment: Still image resource. Date is visually integral to the title)  
+>>(*Comment*: Date is visually integral to the title)  
 >>**(*Ingest comment*: example needs review)**  
 
 For transposed elements, provide additional title access for the Title proper if considered important (see [Variant title of manifestation, 1.25.357.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.357.1)).
@@ -66,19 +66,18 @@ For transposed elements, provide additional title access for the Title proper if
 >**Example:**  
 >Title proper: <CITE>Watch tower in a vineyard</CITE>  
 >Note on title: <CITE>Still image resource. Title from news service's logbook of photographers' work</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.31.3.Y.Y">1.21.31.3.Y.Y</a> **Multiple options for Title proper**. If the preferred source of information contains more than one option for Title proper, use judgment in determining which choice of Title proper will be most useful for the resource in hand. Provide variant title access to other titles if considered important.
 
 >**Example:**  
 ><CITE>Tweed suits the smartest for daily spring wear</CITE>  
->>(*Comment*: Still image resource. For this news photograph, the cataloger opted to use the cutline printed above the long caption as the title proper. The slug at the end of the caption, "Washington Fashions, April 22, 1929" could be recorded in a [Note on title](/DCRMR/title/Note-on-title/) or a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/). The long caption that begins "Mrs. Wm. B. Bankhead, wife of Representative Bankhead of Ala. who makes her home at the Carlton …" can be excerpted in a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note)  
+>>(*Comment*: For this news photograph, the cataloger opted to use the cutline printed above the long caption as the title proper. The slug at the end of the caption, "Washington Fashions, April 22, 1929" could be recorded in a [Note on title](/DCRMR/title/Note-on-title/) or a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/). The long caption that begins "Mrs. Wm. B. Bankhead, wife of Representative Bankhead of Ala. who makes her home at the Carlton …" can be excerpted in a [Summarization of content](/DCRMR/additional-notes/Summarization-of-content/) note)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example**:  
 ><CITE>Franciscus Valesius, D.G. Dux Alenson et Brabant, Comes Flandriae, Protect. Belgicae</CITE>   
->>(*Comment*: Still image resource. Cataloger opted to use title engraved within plate as Title proper in order to collocate multiple impressions of the plate. The letterpress title above the engraving, "Francis of Valois, Duke of Aniou, of Brabant, &c., Earle of Flanders, &c., Protector of the Belgicke libertie," has variant title access and is described in a [Note on title](/DCRMR/title/Note-on-title/))  
+>>(*Comment*: Cataloger opted to use title engraved within plate as Title proper in order to collocate multiple impressions of the plate. The letterpress title above the engraving, "Francis of Valois, Duke of Aniou, of Brabant, &c., Earle of Flanders, &c., Protector of the Belgicke libertie," has variant title access and is described in a [Note on title](/DCRMR/title/Note-on-title/))  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.21.32 Forms of the title proper
@@ -103,14 +102,13 @@ For transposed elements, provide additional title access for the Title proper if
 
 >**Example**:  
 ><CITE>Murray Riss</CITE>  
->>(*Comment*: Still image resource. Published portfolio entitled by photographer's name)  
+>>(*Comment*: Published portfolio entitled by photographer's name)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.32.5.Y.Y">1.21.32.5.Y.Y</a> Title proper inclusive of grammatically and visually inseparable dedication.
 
 >**Example**:  
 ><CITE>To the right honble. the Earl of Moira, this plate, taken on the spot in the County of Downe, representing spinning, reeling with the clock reel, and boiling the yarn, is most respectfully dedicated by ... Wm. Hincks</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.21.33 Title proper with grammatically inseparable designation
@@ -140,7 +138,6 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >**Example:**  
 >Title proper: <CITE>Our choice, Grover Cleveland, A.G. Thurman. Democratic nominees, for president, for vice president</CITE>  
 >Note on title: <CITE>Title assembled from words scattered on four banners, above and below the image</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.21.34 No title
@@ -150,7 +147,7 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >**Example:**  
 >Title proper: <CITE>[Sermaõ de Santa Isabel Rainha de Portugal]</CITE>  
 >Note on title: <CITE>Title from Barbosa Machado</CITE>  
->>(*Comment*: Still image resource. A full citation to Barbosa Machado is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))  
+>>(*Comment*: A full citation to Barbosa Machado is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.34.2.Y.Y">1.21.34.2.Y.Y</a> If no title can be supplied from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1) and the resource bears text, use as the Title proper the opening words of the text if these provide a suitable title (that is, a reasonably distinctive title, or alternatively, in the case of still image resources, a title indicative of the content).
@@ -162,13 +159,13 @@ If it is not feasible to do this, transcribe the title proper of the first volum
 >**Example:**  
 >Title proper: <CITE>H.R. Robinson, 52 Courtland St., Caricatures & prints</CITE>  
 >Note on title: <CITE>Title from text surrounding image of wig</CITE>  
->>(*Comment*: Still image resource. Title is distinctive, even though it is not indicative of the content of the image)  
+>>(*Comment*: Title is distinctive, even though it is not indicative of the content of the image)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 >Title proper: <CITE>Benj. Franklin</CITE>    
 >Note on title: <CITE>Title from facsimile signature below engraved portrait</CITE>  
->>(*Comment*: Still image resource. Title is not distinctive, but does provide an indication of the image content)  
+>>(*Comment*: Title is not distinctive, but does provide an indication of the image content)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.34.4.Y.Y">1.21.34.4.Y.Y</a> **Printed text resources**. If the opening words of the text are not suitable, or if the beginning of the text is lacking, devise a brief descriptive title, preferably in the language and script of the cataloging agency, and use this devised title, enclosed in square brackets, as the Title proper. Always make a [Note on title](/DCRMR/title/Note-on-title/) indicating the source of the Title proper (see [1.29.33.1](/DCRMR/title/Note-on-title/#1.29.33.1)).
@@ -201,7 +198,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 >**Example:**  
 ><CITE>This view of La Valletta, taken from the Gargur Battery during the siege in 1800, is most humbly inscribed by permission to Brigadier General Thomas Graham ...</CITE>  
->>(*Comment*: Still image resource. The chief title begins "View of La Valletta" but its end point is ambiguous. The full title continues "...then commanding the allied forces in Malta, by his humble servt. Major Jas. Weir, Commandant of the Malta Batallion")  
+>>(*Comment*: The chief title begins "View of La Valletta" but its end point is ambiguous. The full title continues "...then commanding the allied forces in Malta, by his humble servt. Major Jas. Weir, Commandant of the Malta Batallion")  
 >>**(*Ingest comment*: example needs review)**    
 
 ## 1.21.365.Y.Y Manifestations with a collective title
@@ -210,7 +207,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 
 >**Example:**  
 ><CITE>The illustration of the Siberian War</CITE>  
->>(*Comment*: Still image resource. This collective title is printed on each print in the set, in addition to an individual title for each print)  
+>>(*Comment*: This collective title is printed on each print in the set, in addition to an individual title for each print)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.365.2.Y.Y">1.21.365.2.Y.Y</a> If the collective title of a multiple unit resource is not consistently used from unit to unit and none is given preference in reference sources, choose the title that identifies the resource most adequately and succinctly as the Title proper. Do not enclose the Title proper in square brackets. Provide additional title access if considered important (see 1.25.SOMETHING.SOMETHING).
@@ -306,78 +303,68 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 >**Example:**  
 ><CITE>[President Abraham Lincoln, half-length portrait, facing front]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Exterior view of the market hall in Budapest, 1931]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Sketches of the Signal Corps during the American Civil War]</CITE>  
->>(*Comment*: Still image resource. Resource is a single sheet with several sketches)  
+>>(*Comment*: Resource is a single sheet with several sketches)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**   
 ><CITE>[General view of part of the South Water Street Illinois Central Railroad freight terminal, Chicago, Ill.]</CITE>  
->>(*Comment*: Still image resource. Documentary photograph includes a large sign reading "Pabst Blue Ribbon Beer" but this is merely incidental text)  
+>>(*Comment*: Documentary photograph includes a large sign reading "Pabst Blue Ribbon Beer" but this is merely incidental text)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Sketches of soldiers wearing the 7th New York Cavalry Regiment uniform]</CITE>  
->>(*Comment*: Still image resource. Text on the drawing reads only "7th N.Y.")  
+>>(*Comment*: Text on the drawing reads only "7th N.Y.")  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Unidentified Spanish style house (California). Sketch elevation, first and second floor plan]<CITE>  
->>(*Comment*: Still image resource. Single architectural drawing with text reading "First floor plan, Second floor plan")  
+>>(*Comment*: Single architectural drawing with text reading "First floor plan, Second floor plan")  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.64.3.Y.Y">1.21.64.3.Y.Y</a> For untitled images where the interest is in the aesthetic value of the material, use a succinct descriptive phrasing of the subject, iconographic theme, technique, artistic school or style, etc., when devising a title.
 
 >**Example:**  
 ><CITE>[Madonna and Child, with angel looking on]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Six squares]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[The four seasons]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 *Optionally*, include the word “Untitled”.
 
 >**Example:**  
 ><CITE>[Untitled landscape with trees]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.64.4.Y.Y">1.21.64.4.Y.Y</a> For untitled images where the interest is in the form or genre of the material, use a succinct descriptive phrasing of the form or genre when devising a title. 
 
 >**Example:**  
 ><CITE>[Silhouette profile of a man facing left]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Bookmark depicting Mount Fuji at sunset]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Bookplate of Augustin Daly]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>[Bookplate showing a floral wreath surrounding the initials MH]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## 1.21.68.Y.Y Titles for still images within a series
@@ -390,26 +377,25 @@ If the initial text has been omitted, indicate the nature and position of the om
 
 >**Example:**   
 ><CITE>Ishpiming, residence of Mr. Wm. S. Corby, Chevy Chase, Maryland. Exterior, elevation facing south</CITE>  
->>(*Comment*: Still image resource. "Exterior, elevation facing south" is dependent on the identification of the building, which is given on each drawing)  
+>>(*Comment*: "Exterior, elevation facing south" is dependent on the identification of the building, which is given on each drawing)  
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
 ><CITE>Catalogue général officiel. Tome second. Groupe II, Oeuvres d'art, classes 7 à 10</CITE> 
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**   
 
 <a name="1.21.68.4.Y.Y">1.21.68.4.Y.Y</a> If a manifestation in a series bears both a series title and a grammatically separable unit title that is not dependent on the title of the larger resource for sufficient identification, transcribe the title of the unit being described as the Title proper. Record the collective title for the larger resource as a [Title of series](/DCRMR/series/Title-of-series/).
 
 >**Example:**  
 ><CITE>Orpheus and Euridice</CITE>  
->>(*Comment*: Still image resource. The unit title is not dependent on the collective title, which is "The famous Rahl & Bradley living bronze statues")  
+>>(*Comment*: The unit title is not dependent on the collective title, which is "The famous Rahl & Bradley living bronze statues")  
 >>**(*Ingest comment*: example needs review)**  
 
 <a name="1.21.68.5.Y.Y">1.21.68.5.Y.Y</a> *Optionally*, always transcribe both the collective title and the unit title.
 
 >**Example:**  
 ><CITE>The famous Rahl & Bradley living bronze statues. Orpheus and Euridice</CITE>  
->>(*Comment*: Still image resource. Cataloger opted to transcribe both titles as the Title proper because the unit title is so minimal)  
+>>(*Comment*: Cataloger opted to transcribe both titles as the Title proper because the unit title is so minimal)  
 >>**(*Ingest comment*: example needs review)**  
 
 ---

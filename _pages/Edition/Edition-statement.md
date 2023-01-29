@@ -38,7 +38,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>5. Zust.</CITE>  
->>(*Comment*: Still image resource. German abbreviation for "5th state" transcribed from artist's pencil note)  
+>>(*Comment*: German abbreviation for "5th state" transcribed from artist's pencil note)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="3.21.3.2">3.21.3.2</a> Always make a [Note on edition statement](/DCRMR/edition/Note-on-edition-statement/) if the edition statement is transposed from its position on the source of information (see [3.26.31.2](/DCRMR/edition/Note-on-edition-statement/#3.26.31.2)).
@@ -162,27 +162,27 @@ c) Make a single description of the set as is. Indicate in a [Note on manifestat
 >**Example:**  
 >Edition statement: <CITE>[2nd state]</CITE>  
 >Note on edition statement: <CITE>State from Klipstein</CITE>  
->>(*Comment*: Still image resource. Complete citation for Klipstein is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
+>>(*Comment*: Complete citation for Klipstein is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 >Edition statement: <CITE>[Unrecorded statement between 1 and 2]</CITE>  
 >Note on edition statement: <CITE>Between Pennington's states 1 and 2. The original dedication has been removed, but neither the replacement used in state 2 nor the number in lower left are yet present</CITE>  
->>(*Comment*: Still image resource. Statement devised by cataloger based on catalogue raisonné. Complete citation for Pennington is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
+>>(*Comment*: Statement devised by cataloger based on catalogue raisonné. Complete citation for Pennington is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)))  
 >>**(*Ingest comment*: example needs review)** 
 
 >**Example:**  
 ><CITE>[Proof before letters]</CITE>  
->>(*Comment*: Still image resource. Statement devised by cataloger is the standard technical phrase for a print made before title or other text had been added to the matrix)  
+>>(*Comment*: Statement devised by cataloger is the standard technical phrase for a print made before title or other text had been added to the matrix)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 ><CITE>[Cancellation proof]</CITE>  
->>(*Comment*: Still image resource. Statement devised by cataloger is the standard technical phrase for a print made from a matrix that was defaced in order to prevent additional saleable prints from being made)  
+>>(*Comment*: Statement devised by cataloger is the standard technical phrase for a print made from a matrix that was defaced in order to prevent additional saleable prints from being made)  
 >>**(*Ingest comment*: example needs review)**
 
 ><CITE>[Later state with additional lines in sky and water]</CITE>  
->>(*Comment*: Still image resource. Statement devised by cataloger based on comparison of examples)  
+>>(*Comment*: Statement devised by cataloger based on comparison of examples)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="3.21.42.2.Y.Y">3.21.42.2.Y.Y</a> *Optionally*, even when the description includes sufficient information to disambiguate states, supply an edition statement found in a reference source. If applying the option, always give the source of the information and any needed explanation in a Note on edition statement (see [3.26.42.3.Y.Y](/DCRMR/edition/Note-on-edition-statement/#3.26.42.3.Y.Y)).
@@ -192,26 +192,24 @@ c) Make a single description of the set as is. Indicate in a [Note on manifestat
 >Statement of responsibility: <CITE>P.P. Rub pinxit ; R. Gaywood fecit</CITE>  
 >Edition statement: <CITE>[State i]</CITE>  
 >Note on edition statement: <CITE>Edition statement from Pennington. In state ii, "W. Hollar sculp." replaced "R. Gaywood fecit" in the statement of responsibility</CITE>  
->>(*Comment*: Still image resource. The formal citation for Pennington is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)). Example formatted with ISBD punctuation for clarity)  
+>>(*Comment*: The formal citation for Pennington is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.2](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.2)). Example formatted with ISBD punctuation for clarity)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="3.21.42.3.Y.Y">3.21.42.3.Y.Y</a> If an indication of state consists of one or more letters or numbers without accompanying words, or only words that convey numbers, supply an appropriate word in square brackets. If no appropriate word can be determined, or in cases of doubt, simply transcribe the information as found.
 
 >**Example:**  
 ><CITE>3e [état]</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 ><CITE>[State] 1</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="3.21.42.4.Y.Y">3.21.42.4.Y.Y</a> **Alternative rule.** When local policy recommends that a single bibliographic record describe multiple states of a print, record the state information in [Note on item](/DCRMR/additional-notes/Note-on-item/) instead of Edition statement. 
 
 >**Example:**  
 >Note on item: <CITE>Proof before letters</CITE>  
->>(*Comment*: Still image resource. The existing bibliographic record lacks an indication of state in Edition statement because the presence of a transcribed title shows that it is the finished state, after lettering has been added)  
+>>(*Comment*: The existing bibliographic record lacks an indication of state in Edition statement because the presence of a transcribed title shows that it is the finished state, after lettering has been added)  
 >>**(*Ingest comment*: example needs review)**
 
 ---

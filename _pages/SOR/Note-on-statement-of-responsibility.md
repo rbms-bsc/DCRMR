@@ -53,7 +53,6 @@ sidebar:
 
 >**Example:**  
 ><CITE>Attribution to John L. Magee is based on similarities in draftsmanship and facial characterizations to Magee's 1850 satire "The Clay Statue," and to several Mexican War prints he executed for the publisher Baillie</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="2.29.33.2">2.29.33.2</a> If a statement of responsibility is known to be fictitious or incorrect, always make a Note on statement of responsibility. Give the true or most generally accepted attribution if known. Give the authority for the information if considered important.
@@ -64,7 +63,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Cornelius Janssen van Ceulen is no longer thought to be the original artist</CITE>  
->>(*Comment*: Still image resource. Statement of responsibility reads "R. Cooper sculpt. ; from a print by Earlom, engraved from an original painting by Cornelius Jansen")  
+>>(*Comment*: Statement of responsibility reads "R. Cooper sculpt. ; from a print by Earlom, engraved from an original painting by Cornelius Jansen")  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="2.29.33.3">2.29.33.3</a> False attributions appearing in the reference sources or in library catalogs may also be noted, along with the authority for the false attribution and the authority for questioning it, if considered important.
@@ -77,7 +76,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Signed on plate with Marcantonio's device of an empty tablet</CITE>  
->>(*Comment*: Still image resource. Such tablets normally show the printmaker's name or initials; Marcantonio symbolically hid himself when reproducing Raphael's art)  
+>>(*Comment*: Such tablets normally show the printmaker's name or initials; Marcantonio symbolically hid himself when reproducing Raphael's art)  
 >>**(*Ingest comment*: example needs review)**
 
 ## 2.29.34 Ambiguous statements of responsibility
@@ -86,7 +85,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Engraved by S.V. Hunt after a painting by Harry Fenn</CITE>  
->>(*Comment*: Still image resource. [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) follows the convention of giving the original artist's name below the left side of the image and the engraver's name below the right side of the image)  
+>>(*Comment*: [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) follows the convention of giving the original artist's name below the left side of the image and the engraver's name below the right side of the image)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="2.29.34.2">2.29.34.2</a> Make a note about expansions, explanations, and corrections of statements of responsibility when needed for clarity if considered important (see [Statement of responsibility relating to title proper, 2.21.36.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.2)).
@@ -102,13 +101,11 @@ sidebar:
 >**Example:**  
 >Statement of responsibility relating to title proper: <CITE>from a sketch by our special artist</CITE>  
 >Note on statement of responsibility: <CITE>Frank Vizetelly is the "special artist"</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 >Statement of responsibility relating to title proper: <CITE>Mich.</CITE>  
 >Note on statement of responsibility: <CITE>Poster by Michel Liebeaux, known as "Mich"</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 ## 2.29.36 Other statements
@@ -120,29 +117,24 @@ sidebar:
 
 >**Example:**  
 ><CITE>After a photograph by Mathew Brady</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="2.29.36.2.Y.Y">2.29.36.2.Y.Y</a> If considered important, note the lack of an attribution.
 
 >**Example:**
 ><CITE>Artist unknown</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
 ><CITE>Anonymous artist</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**   
 ><CITE>Photographer not identified</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**   
 ><CITE>Unknown Netherlandish engraver</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 ## 2.29.37.Y.Y Location, nature, etc., of the statement of responsibility
@@ -151,12 +143,10 @@ sidebar:
 
 >**Example:**  
 ><CITE>Signed and dated in blue pencil</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**
 ><CITE>Signed on back in pencil</CITE>  
->>(*Comment*: Still image resource)  
 >>**(*Ingest comment*: example needs review)**
 
 ## 2.29.38.Y.Y Signatures, marks, monograms, etc., of artists and printmakers
@@ -166,7 +156,7 @@ sidebar:
 >**Example:**  
 >Statement of responsibility relating to title proper: <CITE>painted by Frank O. Salisbury</CITE>  
 >Note on statement of responsibility: <CITE>Signed on plate within image: Frank O. Salisbury</CITE>  
->>(*Comment*: Still image resource. [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) taken from printed caption below image)  
+>>(*Comment*: [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) taken from printed caption below image)  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  

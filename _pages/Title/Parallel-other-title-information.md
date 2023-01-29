@@ -30,7 +30,7 @@ sidebar:
 >**Example:**  
 >Title proper: <CITE>Fort Clark</CITE>  
 Parallel other title information: <CITE>on the Missouri (February 1834) = am Missouri (Februar 1834) = sur la Missouri (février 1834)</CITE>  
->>(*Comment*: Still image resource. Example formatted with ISBD punctuation for clarity)  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 >>**(*Ingest comment*: example needs review)**  
 
 ---
