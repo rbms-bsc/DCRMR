@@ -19,4 +19,4 @@ In 2017, editorial work on the RBMS Policy Statements was absorbed by the BSC. A
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Preface")](/DCRMR/preface/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Changes from DCRM(B)")](/DCRMR/preface/Changes-from-DCRM(B)/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Preface")](/DCRMR/preface/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Changes from DCRM")](/DCRMR/preface/Changes-from-DCRM/)

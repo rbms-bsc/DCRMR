@@ -13,4 +13,4 @@ Due to coordination with other organizations, notably the PCC, certain sections 
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Changes from DCRM(B)")](/DCRMR/preface/Changes-from-DCRM(B)/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Acknowledgments")](/DCRMR/preface/Acknowledgments/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "Changes from DCRM")](/DCRMR/preface/Changes-from-DCRM/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Acknowledgments")](/DCRMR/preface/Acknowledgments/)

@@ -1,8 +1,8 @@
 ---
 layout: single
 type: docs
-title: Changes from DCRM(B)
-permalink: /DCRMR/preface/Changes-from-DCRM(B)/
+title: Changes from DCRM
+permalink: /DCRMR/preface/Changes-from-DCRM/
 sidebar:
   nav: "docs"
 ---
