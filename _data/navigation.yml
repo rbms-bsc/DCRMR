@@ -17,7 +17,7 @@ docs:
     children:
       - title: "Background"
         url: /DCRMR/preface/Background/
-      - title: "Changes from DCRM(B)"
+      - title: "Changes from DCRM"
         url: /DCRMR/preface/Changes-from-DCRM/
       - title: "Future work"
         url: /DCRMR/preface/Future-work/
