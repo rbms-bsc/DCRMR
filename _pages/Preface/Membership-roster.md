@@ -18,7 +18,7 @@ Tammy Druash, University of North Florida, *editor*
 Jessica Grzegorski, Newberry Library, *chief editor*  
 Ryan Hildebrand, University of Oregon, *editor*  
 Yoonha Hwang, Harvard College Library, *keeper of the text*  
-Deborah J. Leslie, Folger Shakespeare Library, *editor*
+Deborah J. Leslie, Folger Shakespeare Library, *editor*  
 Matthew J. Murphy, Milwaukee Public Library, *keeper of the text*  
 Iris O’Brien, British Library, *editor*  
 Elizabeth O’Keefe, Formerly of the Morgan Library & Museum, *editor*  
