@@ -45,10 +45,6 @@ sidebar:
 
 <a name="5.13.31.37.Y.Y">5.13.31.37.Y.Y</a> **Unconventional dates**. If the date is unconventionally expressed, generally transcribe the date as it appears. Supply the year in arabic numerals in square brackets.
 
->**Example:**  
-><CITE>Produced … during the plague of the orange pox [2020]</CITE>  
->>**(*Ingest comment*: example needs review)**
-
 <a name="5.13.31.4.Y.Y">5.13.31.4.Y.Y</a> Fictitious or incorrect dates. If the date of production appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by "that is," all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to indicate the source of the information (see 5.14.SOMETHING.SOMETHING).
 
 <a name="5.13.31.45.Y.Y">5.13.31.45.Y.Y</a> If the date supplied as a correction is a differing date, not a correction of an error on the manifestation, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to clarify (see 5.14.SOMETHING.SOMETHING).
@@ -100,11 +96,9 @@ The Julian calendar was gradually abandoned in favor of the Gregorian calendar b
 
 ## 5.13.35.Y.Y Date of production in multiple unit resources
 
-<a name="5.13.35.1.Y.Y">5.13.35.1.Y.Y</a> In describing a manifestation consisting of multiple units published over a number of years, transcribe the date of production of the unit produced first and the date of production of the unit produced last, and connect them with a hyphen.
+<a name="5.13.35.1.Y.Y">5.13.35.1.Y.Y</a> In describing a manifestation consisting of multiple units produced over a number of years, transcribe the date of production of the unit produced first and the date of production of the unit produced last, and connect them with a hyphen.
 
 <a name="5.13.35.2.Y.Y">5.13.35.2.Y.Y</a> Record the date of each unit in a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) if considered important. Such a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) is particularly useful when the order of production does not correspond to the order of the unit numeration (see 5.14.SOMETHING.SOMETHING).
-
-<a name="5.13.35.3.Y.Y">5.13.35.3.Y.Y</a> If the dates of production in a multiple unit resource do not appear on in the resource, but are known or may be surmised, record in square brackets the date of production of the unit produced first and the date of production of the unit produced last, and connect them with a hyphen.
 
 ## 5.13.36.Y.Y Date of production on part pages
 

@@ -41,7 +41,7 @@ sidebar:
 
 ## 5.14.32.Y.Y Place of production notes
 
-<a name="5.14.32.1.Y.Y">5.14.32.1.Y.Y</a> **Places of production in multiple unit resources**. If the manifestation is issued in more than one physical part and the place of production changes, always record the place(s) of production of the later part(s) in a Note on production statement (see Place of production, 5.11.SOMETHING.SOMETHING). 
+<a name="5.14.32.1.Y.Y">5.14.32.1.Y.Y</a> **Places of production in multiple unit resources**. If the manifestation is issued in more than one physical part and the place of production changes, always record the place(s) of production of the later part(s) in a Note on production statement (see 5.11.SOMETHING.SOMETHING). 
 
 <a name="5.14.32.2.Y.Y">5.14.32.2.Y.Y</a> **Fictitious or incorrect places**. Always make a Note on production statement if the Place of production appearing on the manifestation is known to be fictitious or incorrect (see 5.11.SOMETHING.SOMETHING). 
 
@@ -49,7 +49,7 @@ sidebar:
 
 <a name="5.14.32.4.Y.Y">5.14.32.4.Y.Y</a> **Supplied name for missing places of production**. Always make a Note on production statement to justify a supplied [Place of production](/DCRMR/ppdm/Place-of-production/) if the reason is not evident from the rest of the description (see 5.11.SOMETHING.SOMETHING).
 
-<a name="5.14.32.5.Y.Y">5.14.32.5.Y.Y</a> **Place of production supplied place based on address or sign**. Make a Note on production statement to justify a supplied [Place of production](/DCRMR/ppdm/Place-of-production/) based on a sign or address if the reason is not evident from the rest of the description and if considered important (see 5.11.SOMETHING.SOMETHING).
+<a name="5.14.32.5.Y.Y">5.14.32.5.Y.Y</a> **Place of production supplied place based on address**. Make a Note on production statement to justify a supplied [Place of production](/DCRMR/ppdm/Place-of-production/) based on an address if the reason is not evident from the rest of the description and if considered important (see 5.11.SOMETHING.SOMETHING).
 
 <a name="5.14.32.6.Y.Y">5.14.32.6.Y.Y</a> **Transposition of place names in more than one language or script**. Always make a Note on production statement if the [Place of production](/DCRMR/ppdm/Place-of-production/) appears in more than one language or script to indicate the original position on the source of any transposed elements (see 5.11.SOMETHING.SOMETHING and Parallel place of production, 5.115.SOMETHING.SOMETHING).
 

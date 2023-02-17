@@ -57,8 +57,9 @@ Note: only the elements related to publication are set out below. The same order
 >>(*Comment*: The place of distribution is not grammatically separable. Example formatted with ISBD punctuation for clarity)
 
 >**Example:**  
-><CITE>[London] : Engrav'd from the originals printed in Paris & sold in London by H. Overton & J. Hoole at [the] White-horse without Newgate, [approximately 1726]</CITE>  
->>(Comment: The place of publication has not been transposed because it is not a grammatically separable element. Example formatted with ISBD punctuation for clarity)  
+>Manufacture statement: <CITE>[London] : Engrav'd from the originals printed in Paris & sold in London by H. Overton & J. Hoole at [the] White-horse without Newgate, [approximately 1726]</CITE>  
+>>(*Source of information reads*: Engrav'd from the originals printed in Paris & sold in London by H. Overton & J. Hoole at ![ye](https://rbms-bsc.github.io/DCRMR/assets/pictures/transcription/ye.png) White-horse without Newgate)  
+>>(*Comment*: The place of publication has not been transposed because it is not a grammatically separable element. Example formatted with ISBD punctuation for clarity)  
 >>**(*Ingest comment*: example needs review)**  
 
 ## Contents:

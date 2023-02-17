@@ -29,7 +29,7 @@ sidebar:
 
 <a name="5.1.21.1.Y.Y">5.1.21.1.Y.Y</a> Use this element to record [Place of production](/DCRMR/ppdm/Place-of-production/) and [Date of production](/DCRMR/ppdm/Date-of-production/) for unpublished materials. Do not record [RDA Toolkit: Name of producer](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-afdb9990-0d14-33ef-83f0-e514f188e95f){:target="_blank"}.
 
-<a name="5.1.21.6.Y.Y">5.1.21.6.Y.Y</a> **Still image resources**. In some cases, it is difficult or impossible to determine the publication status of a still image. In case of doubt, treat the resource as unpublished, and record information on its inscription, fabrication, construction, etc. as a production statement.
+<a name="5.1.21.6.Y.Y">5.1.21.6.Y.Y</a> **Still image resources**. In some cases, it is difficult or impossible to determine the publication status of a still image. In case of doubt, treat the resource as unpublished, and record information on its inscription, fabrication, construction, etc. in Production statement.
 
 ## 5.1.3.Y.Y General rule
 
