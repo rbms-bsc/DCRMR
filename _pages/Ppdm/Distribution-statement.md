@@ -29,13 +29,13 @@ sidebar:
 
 ## 5.25.31 Information covered by labels, etc.
 
-<a name="5.25.31.1">5.25.31.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, transcribe or give them in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [5.285.31.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.4)).
+<a name="5.25.31.1">5.25.31.1</a> If any of the original details relating to the distribution statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished out, scored out), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement) (see [5.285.31.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.31.4)).
 
 <a name="5.25.31.2">5.25.31.2</a>  For printed materials with manuscript information, use judgment in determining whether or not the manuscript information should be transcribed as the distribution statement or as item-specific information. In case of doubt, consider the manuscript information to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.25.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
-<a name="5.25.32.1">5.25.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+<a name="5.25.32.1">5.25.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers, and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
 ## 5.25.33 Statements relating to distribution only
 
@@ -45,11 +45,13 @@ sidebar:
 >Publication statement: <CITE>Se vend a Paris : Chez Briasson, ruë Saint Jaques à la Science, M.D.CC.XXXIII [1733]</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-## 5.25.34 Statements relating to publication and to distribution
+## 5.25.34 Statements relating to publication and to distribution or manufacture
 
 <a name="5.25.34.1">5.25.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
 <a name="5.25.34.2">5.25.34.2</a> If a distribution statement is grammatically separable, treat the statement as a distribution statement. 
+
+<a name="5.25.34.26">5.25.34.26</a> **Still image resources**. If the statements are visually or grammatically separable, determine which statement is emphasized in the source, whether through lettering (larger size, uppercase letters, boldface, etc.) or by appearing first. Transcribe the statement emphasized in the source as a [Publication statement](/DCRMR/ppdm/Publication-statement/). Transcribe the remaining statement as a Distribution statement or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), as appropriate.
 
 <a name="5.25.34.3">5.25.34.3</a>  If grammatically inseparable, transcribe it as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 

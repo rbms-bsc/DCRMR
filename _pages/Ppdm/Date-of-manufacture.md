@@ -21,11 +21,21 @@ sidebar:
 
 ## 5.33.2 RDA definition and scope
 
-<a name="5.33.2.1">5.33.2.1</a> A timespan during which a published manifestation is printed, duplicated, cast, etc.
+<a name="5.33.2.1">5.33.2.1</a> A timespan during which a published manifestation is printed, duplicated, cast, or otherwise manufactured.
 
 ## 5.33.3 General rule
 
-<a name="5.33.3.1">5.33.3.1</a> Transcribe dates of impression or other manufacture only if it has not been treated as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
+<a name="5.33.3.1">5.33.3.1</a> Transcribe dates of impression or other manufacture only if it has not been treated as the [Date of publication](/DCRMR/ppdm/Date-of-publication/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) and only if it applies, or is likely to apply, to all copies of the edition or issue being cataloged. Such situations will occur only rarely. Dates of impression or other manufacture associated with a substantially unchanged impression of an edition or issue may be transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)). If the date of manufacture appears on the source without an accompanying word or phrase, supply one in square brackets if considered important.
+
+>**Example:**  
+>Date of production: <CITE>1973</CITE>  
+>Date of manufacture: <CITE>[printed] 5/5/95</CITE>  
+>Note on manufacture statement: <CITE> Date of production and date of printing from back, in photographer's hand</CITE>  
+>>**(*Ingest comment*: example needs review)**   
+
+<a name="5.33.3.2">5.33.3.2</a> **Still image resources**. Record the date of a restrike as the Date of manufacture (see 3.21.SOMETHING.SOMETHING).
+
+<a name="5.33.3.3">5.33.3.3</a> **Still image resources**. If no date can be transcribed from the resource, supply a date or estimated date and make an explanatory note if considered important.
 
 ## 5.33.35 Alternative rules
 
@@ -47,11 +57,15 @@ sidebar:
 
 <a name="5.33.352.25">5.33.352.25</a> *Optionally*, transcribe the chronogram as it appears. Include the date in arabic numerals in square brackets.
 
-<a name="5.33.352.3">5.33.352.3</a> **Very long dates**. If the date on the preferred source of information is very long, substitute for it a formalized statement in square brackets. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and form of the statement (see [5.34.36.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.2)).
+<a name="5.33.352.3">5.33.352.3</a> **Very long dates**. If the date on the preferred source of information is very long, substitute for it a formalized statement in square brackets. Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) concerning the source and form of the statement if considered important (see [5.34.36.2](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.2)).
 
 <a name="5.33.352.35">5.33.352.35</a> *Optionally*, transcribe the very long date as it appears. Include a formalized statement in square brackets.
 
+<a name="5.33.352.37.Y.Y">5.33.352.37.Y.Y</a> **Unconventional dates**. If the date is unconventionally expressed, generally transcribe the date as it appears. Supply the year in arabic numerals in square brackets.
+
 <a name="5.33.352.4">5.33.352.4</a> **Fictitious or incorrect dates**. If the date of manufacture appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the source of the information (see [5.34.36.3](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.3)).
+
+<a name="5.33.352.46.Y.Y">5.33.352.46.Y.Y</a> If the date added as a correction is a differing date, not a correction of an error on the resource, always make a [Note on manufacture statement](/ppdm/Note-on-manufacture-statement/) to clarify (see 5.34.SOMETHING.SOMETHING).
 
 <a name="5.33.352.5">5.33.352.5</a> **Julian/Old Style dates**. If the year of manufacture is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets.  Always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the basis for the supplied year (see [5.34.36.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
@@ -94,11 +108,11 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 |[between 1600 and 1700] |century certain|
 |[between 1600 and 1700?] |probable century|
 
-### 5.33.355 Date of manufacture in multipart monographs
+### 5.33.355 Date of manufacture in multiple unit resources
 
-<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of manufacture of the volume, part, or fascicle published first and the date of manufacture of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="5.33.355.1">5.33.355.1</a> In describing a manifestation consisting of multiple units published over a number of years, transcribe the date of manufacture of the unit published first and the date of manufacture of the unit published last, and connect them with a hyphen.
 
-<a name="5.33.355.2">5.33.355.2</a> Record the date of each volume in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the volume numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.8)).
+<a name="5.33.355.2">5.33.355.2</a> Record the date of each unit in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) if considered important. Such a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) is particularly useful when the order of manufacture does not correspond to the order of the unit numeration (see [5.34.36.8](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.36.8)).
 
 ### 5.33.356 Date of manufacture on part pages
 

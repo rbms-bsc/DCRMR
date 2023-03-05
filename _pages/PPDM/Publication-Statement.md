@@ -25,13 +25,17 @@ sidebar:
 
 <a name="5.2.2.2">5.2.2.2</a> A publication statement includes a statement about the publication, release, or issuing of a published manifestation.
 
+## 5.2.21.Y.Y DCRMR elaboration of scope
+
+<a name="5.2.21.1.Y.Y">5.2.21.1.Y.Y</a>  In some cases, it is difficult or impossible to determine the publication status of a still image resource. In case of doubt, treat the material as unpublished, and record information on its inscription, fabrication, construction, etc. as a [Production statement](/DCRMR/ppdm/Production-statement/).
+
 ## 5.2.3 General rule
 
 <a name="5.2.3.1">5.2.3.1</a> Transcribe the Publication statement in the form and order in which it is presented on the preferred source of information, unless specifically instructed otherwise (see [Transcription, 0.4.94.05](/DCRMR/general-rules/Transcription/#0.4.94.05)).
 
 ## 5.2.31 Information covered by labels, etc.
 
-<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
+<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished our, scored through), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
 
 >**Example:**  
 >Publication statement: <CITE>A Amsterdam : Chez Paul Marret, marchand libraire dans le Beurs-straat, à la Renommée, 1699</CITE>  
@@ -42,7 +46,7 @@ sidebar:
 
 ## 5.2.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
-<a name="5.2.32.1">5.2.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers, and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+<a name="5.2.32.1">5.2.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers, and sellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of sellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
 ## 5.2.33 Statements relating to publication only
 
@@ -56,7 +60,7 @@ sidebar:
 ><CITE>London : Published by W. Clarke, no. 38, New Bond Street, and J. Wallis, no. 16, Ludgate Street, 1798</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-## 5.2.335 Statements relating to manufacture or distributor only
+## 5.2.335 Statements relating to manufacture or distribution only
 
 <a name="5.2.335.1">5.2.335.1</a> If the resource bears only a statement relating to manufacture, or multiple such statements, generally assume the manufacturer to also be functioning as publisher. Treat the statement as a publication statement. 
 
@@ -83,6 +87,28 @@ sidebar:
 >**Example:**  
 ><CITE>London : Printed for George Eversden, at the Mayden-head in St. Pauls-Church yard, 1657</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)  
+
+<a name="5.2.335.13.Y.Y">5.2.335.13.Y.Y</a> However, if the manufacturer is known not to be the publisher and the identity of the publisher can be determined or reasonably surmised, supply the name of the publisher in square brackets and transcribe the manufacture statement as such.
+
+>**Example:**  
+>Publication statement: <CITE>[London] : [Japan-British Exhibition], [1910]</CITE>  
+>Manufacture statement: <CITE>Dundee ; London and New York : Printed by Valentine & Sons, Ltd.</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)  
+>>**(*Ingest comment*: Example needs review)**  
+
+>**Example:**  
+>Publication statement: <CITE>[San Francisco] : [Examiner], [1894]</CITE>  
+>Manufacture statement: <CITE>Chicago : The Winters Art Litho. Co.</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)  
+>>**(*Ingest comment*: Example needs review)**
+
+>**Example:**  
+>Publication statement: <CITE>[Chicago?] : [Abbey, Schoeffel & Grau?], [1893?]</CITE>  
+>Manufacture statement: <CITE>Cinti [that is, Cincinnati] ; New York : Strobridge Lith. Co.</CITE>  
+>>(*Comment*: Example formatted with ISBD punctuation for clarity)  
+>>**(*Ingest comment*: Example needs review)**
+
+<a name="5.2.335.15.Y.Y">5.2.335.15.Y.Y</a> If the manufacturer is known not to be the publisher and the identity of the publisher cannot be determined or reasonably surmised, supply the phrase "Publisher not identified" in square brackets and transcribe the manufacture statement as such.
 
 <a name="5.2.335.2">5.2.335.2</a> If the resource bears only a statement relating to distribution, or multiple such statements, generally assume the distributor to also be functioning as publisher. Treat the statement as a publication statement. 
 
@@ -118,6 +144,8 @@ sidebar:
 
 <a name="5.2.34.2">5.2.34.2</a> If a distribution or manufacture statement is grammatically separable, treat the distribution statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or manufacture statement as a [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/).
 
+<a name="5.2.34.26.Y.Y">5.2.34.26.Y.Y</a> **Still image resources**. If the statements are visually or grammatically separable, determine which statement is emphasized in the source, whether through lettering (larger size, uppercase letters, boldface, etc.) or by appearing first. Transcribe the statement emphasized in the source as a Publication statement. Transcribe the remaining statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or [Manufacture statement](/DCRMR/ppdm/Manufacture-statement/), as appropriate.
+
 <a name="5.2.34.3">5.2.34.3</a> If the statements are grammatically inseparable, transcribe them as a Publication statement. 
 
 >**Example:**  
@@ -136,12 +164,12 @@ sidebar:
 
 ## 5.2.35 No publication statement
 
-<a name="5.2.35.1">5.2.35.1</a> If the resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, supply the publication information in square  brackets and make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to justify supplied information (see [5.24.31.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.5)). 
+<a name="5.2.35.1">5.2.35.1</a> If a published resource lacks a statement relating to publication and the identity of the publisher can be determined or reasonably surmised, supply the publication information in square  brackets and make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to justify supplied information (see [5.24.31.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.5)). 
 
 >**Example:**   
 >Publication statement: <CITE>[Passy, France] : [Benjamin Franklin], [1781]</CITE>  
 >Note on publication statement: <CITE>Imprint from Livingston</CITE>  
->>(*Comment*: The formal citation for Livingston’s bibliography of Franklin’s press at Passy is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)). The example is formatted according to ISBD for clarity)
+>>(*Comment*: The formal citation for Livingston’s bibliography of Franklin’s press at Passy is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)). The example is formatted with ISBD for clarity)
 
 ---
 

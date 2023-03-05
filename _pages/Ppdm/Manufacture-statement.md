@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.29.2.1">5.29.2.1</a> A statement that identifies a place of manufacture, a manufacturer, or a date of manufacture of a published manifestation.
 
-<a name="5.29.2.2">5.29.2.2</a> A manufacture statement includes a statement about the printing, duplicating, casting, etc., of a published manifestation.
+<a name="5.29.2.2">5.29.2.2</a> A manufacture statement includes a statement about the printing, duplicating, casting, or other mehtod of manufacturing of a published manifestation.
 
 ## 5.29.3 General rule
 
@@ -35,13 +35,13 @@ sidebar:
 
 ## 5.29.31 Information covered by labels, etc.
 
-<a name="5.29.31.1">5.29.31.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information, transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.31.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.4)).
+<a name="5.29.31.1">5.29.31.1</a> If any of the original details relating to the manufacture statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished out, scored out), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) (see [5.34.31.4](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.31.4)).
 
 <a name="5.29.31.2">5.29.31.2</a> For printed materials with manuscript information, use judgment in determining whether or not the manuscript information should be transcribed as the manufacture statement or as item-specific information. In case of doubt, consider the manuscript information to be item-specific information and record as a [Note on item](/DCRMR/additional-notes/Note-on-item/) (see [9.4.3.1](/DCRMR/additional-notes/Note-on-item/#9.4.3.1)).
 
 ## 5.29.32 Elements relating to publication vs. elements relating to distribution or manufacture
 
-<a name="5.29.32.1">5.29.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
+<a name="5.29.32.1">5.29.32.1</a> Statements relating to distribution or manufacture will sometimes be more appropriately transcribed as elements of publication, and sometimes as elements of distribution or manufacture. The roles of publishers, printers, and booksellers were not clearly delimited in the hand-press period. Statements relating to distribution or manufacture frequently appear prominently on early printed materials, reflecting the tendency of booksellers or printers to function as more than solely distributors or manufacturers. As the book trade industry became increasingly specialized over time, however, the role of the publisher gradually emerged as dominant, while manufacturer and distributor gradually diminished in importance.
 
 ## 5.29.33 Statements relating to manufacture only
 
@@ -51,11 +51,32 @@ sidebar:
 >Publication statement: <CITE>Impressum Lo[n]doniis : Per Wynandum de Worde hac in vrbe in parrochia Sancte Brigide (in the Fletestrete) ad signum solis commorantem, anno D[omi]ni M.CCCCC.xxviij die v[er]o xiij, mensis Maij</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
+<a name="5.29.33.2">5.29.33.2</a> However, if the manufacturer is known not to be the publisher and the identity of the publisher can be determined or reasonably surmised, supply the name of the publisher in square brackets and transcribe the manufacturer statement as such.
+
+>**Example:**  
+>Publication statement: <CITE>[London] : [Japan-British Exhibition], [1910]</CITE>  
+>Manufacture statement: <CITE>Dundee ; London and New York : Printed by Valentine & Sons, Ltd.</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Publication statement: <CITE>[San Francisco] : [Examiner], [1894]</CITE>  
+>Manufacture statement: <ICTE>Chicago : The Winters Art Litho. Co.</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Publication statement: <CITE>[Chicago?] : [Abbey, Schoeffel & Grau?], [1893?]</CITE>  
+>Manufacture statement: <CITE>Cinti [that is, Cincinnati] ; New York : Strobridge Lith. Co.</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="5.29.33.3">5.29.33.3</a>  If the manufacturer is known not to be the publisher and the identity of the publisher cannot be determined or reasonably surmised, supply the phrase "Publisher not identified" in square brackets and transcribe the manufacture statement as such.
+
 ## 5.29.34 Statements relating to publication and to distribution or manufacture
 
 <a name="5.29.34.1">5.29.34.1</a> If the resource bears statements relating both to publication and to distribution or manufacture, determine whether or not the statements are grammatically separable. 
 
 <a name="5.29.34.2">5.29.34.2</a> If a manufacture statement is grammatically separable, treat the statement as a manufacture statement. 
+
+<a name="5.29.34.26.Y.Y">5.29.34.26.Y.Y</a> **Still image resources**. If the statements are visually or grammatically separable, determine which statement is emphasized in the source, whether through lettering (larger size, uppercase letters, boldface, etc.) or by appearing first. Transcribe the statement emphasized in the source as a [Publication statement](/ppdm/Publication-statement/). Transcribe the remaining statement as a [Distribution statement](/DCRMR/ppdm/Distribution-statement/) or Manufacture statement, as appropriate.
 
 <a name="5.29.34.3">5.29.34.3</a> If grammatically inseparable, transcribe it as a [Publication statement](/DCRMR/ppdm/Publication-statement/). 
 

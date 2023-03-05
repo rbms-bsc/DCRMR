@@ -59,13 +59,13 @@ sidebar:
 
 <a name="5.27.31.3">5.27.31.3</a> If both the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor associated with an earlier manifestation appear together with the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) and name of distributor of the manifestation being described, transcribe each distributor with the place to which it corresponds.
 
-## 5.27.32 Names of distributors in multipart monographs
+## 5.27.32 Names of distributors in multiple unit resources
 
 <a name="5.27.32.1">5.27.32.1</a> If the manifestation is issued in more than one physical part and the distributor or the distributor’s form of name changes in the course of publication, transcribe as Name of distributor the name in the first or earliest part and always record the distributor’s name in the later part(s) in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.1](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.1)).
 
-## 5.27.33 Names of distributors containing grammatically inseparable place names or dates
+## 5.27.33 Names of distributors containing visually or grammatically inseparable place names or dates
 
-<a name="5.27.33.1">5.27.33.1</a> If the Name of distributor contains grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the Name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
+<a name="5.27.33.1">5.27.33.1</a> If the Name of distributor contains visually or grammatically inseparable statements relating to [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/), transcribe them as part of the Name of distributor. Supply the [Place of distribution](/DCRMR/ppdm/Place-of-distribution/) or [Date of distribution](/DCRMR/ppdm/Date-of-distribution/) in square brackets in the appropriate element.
 
 >**Example:**  
 >Place of distribution: <CITE>[London]</CITE>  
@@ -83,16 +83,22 @@ sidebar:
 
 ## 5.27.35 Supplied and conjectured names of distributors
 
-<a name="5.27.35.1">5.27.35.1</a> If no name, address, or device of a distributor appears on the manifestation but the distributor’s name is known or can be reasonably surmised, supply it in square brackets if known. If the supplied Name of distributor is uncertain, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor, provide a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.4)).
+<a name="5.27.35.1">5.27.35.1</a> If no name, address, or device of a distributor appears on the manifestation but the distributor’s name is known or can be reasonably surmised, supply it in square brackets if known and if considered important. If the supplied Name of distributor is uncertain, either add a question mark to any supplied name or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/). In any case of a supplied distributor, always provide a justification in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.4](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.4)).
 
-## 5.27.36 Names of distributors containing only addresses, signs, initials, or devices
+## 5.27.36 Distributors identified by addresses, signs, initials, or devices
 
 <a name="5.27.36.1">5.27.36.1</a> If only an address, sign, or initials of the distributor appears in lieu of the name, transcribe the statement containing the address, sign, or initials as Name of distributor. If the distributor’s name can be identified, supply it in square brackets after the initials or before or after the address or sign, as appropriate, or give the information in a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) (see [5.285.34.5](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.5)).
 
 >**Example:**  
 ><CITE>To be sold in Ffletestrete [by R. Foster] at the signe of the Croune, nexte vnto the Whyte Fryres gate</CITE>
 
-<a name="5.27.36.2">5.27.36.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) about the basis for the identification (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
+>**Example:**  
+>Name of distributor: <CITE>To be had at the Golden Acorn facing Hungerford, Strand [that is, Darly & Edwards]</CITE>  
+>Note on distribution statement: <CITE> Address of Darly & Edwards in 1756</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+
+<a name="5.27.36.2">5.27.36.2</a>  If the identification of the distributor is based on a device, supply the name of the distributor in square brackets, even if the device includes the distributor’s initials or spelled-out name. Always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) about the basis for the identification, the source of the information used, the presence of the device, etc. (see [5.285.34.6](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.6)).
 
 ## 5.27.37 Name of distributor cannot be supplied
 

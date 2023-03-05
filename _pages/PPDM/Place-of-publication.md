@@ -154,7 +154,7 @@ sidebar:
 >Publication statement: <CITE>London : Printed and sold by H. Fry, Finsbury-Place ; New-York : Re-published by William Cobbett, no. 141, Hanover-Square, 1800</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-## 5.21.34 Places of publication in multipart monographs
+## 5.21.34 Places of publication in multiple unit resources
 
 <a name="5.21.34.1">5.21.34.1</a> If the manifestation is issued in more than one physical part and the place of publication changes in the course of publication, transcribe as Place of publication the place named in the first or earliest part and always record the place named in the later part(s) in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.1](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.1)).
 
@@ -163,9 +163,9 @@ sidebar:
 >Note on publication statement: <CITE>Place of publication in v. 33-40: Stuttgart ; Augsburg</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)
 
-## 5.21.35 Place names that are grammatically inseparable parts of other elements
+## 5.21.35 Place names that are visually or grammatically inseparable parts of other elements
 
-<a name="5.21.35.1">5.21.35.1</a> If the place name appears only as a grammatically inseparable part of another element and is transcribed there, supply the Place of publication in square brackets (see [5.2.34.3](/DCRMR/ppdm/Publication-statement/#5.2.34.3)). Use a modern form of the name in the language of the cataloging agency.
+<a name="5.21.35.1">5.21.35.1</a> If the place name appears only as a grammatically inseparable part of another element and is transcribed there, or appears only as a visually or grammatically inseparable part of the [Name of publisher](/DCRMR/ppdm/Name-of-publisher/) and is transcribed there, supply the Place of publication in square brackets (see [5.2.34.3](/DCRMR/ppdm/Publication-statement/#5.2.34.3)). Use a modern form of the name in the language of the cataloging agency.
 
 >**Example:**  
 >Place of publication: <CITE>[Simmern]</CITE>  
@@ -179,7 +179,7 @@ sidebar:
 >Place of publication: <CITE>A Londres</CITE>  
 >Note on publication statement: <CITE>The place of publication is false; typographical evidence suggests French printing</CITE>
 
-<a name="5.21.36.2">5.21.36.2</a> If the place name is known to be fictitious and the actual Place of publication is known or can be reasonably surmised, transcribe it as it appears and supply the actual place name, preceded by “that is,” all enclosed within square brackets. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3)). If the supplied place name is uncertain, record it following the instructions at [5.21.385](/DCRMR/ppdm/Place-of-publication/#521385-place-of-publication-uncertain-or-unknown).
+<a name="5.21.36.2">5.21.36.2</a> If the place name is known to be fictitious or incorrect and the actual Place of publication is known or can be reasonably surmised, transcribe it as it appears and supply the actual place name, preceded by “that is,” all enclosed within square brackets. Use a modern form of the name in the language of the cataloging agency, and give the basis for the correction or clarification in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.32.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.32.3)). If the supplied place name is uncertain, record it following the instructions at [5.21.385](/DCRMR/ppdm/Place-of-publication/#521385-place-of-publication-uncertain-or-unknown).
 
 >**Example:**  
 >Place of publication: <CITE>Philadelphia [that is, Frankfurt]</CITE>  

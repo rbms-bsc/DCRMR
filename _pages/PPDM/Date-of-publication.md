@@ -98,6 +98,8 @@ sidebar:
 ><CITE>anno D[omi]ni millesimo quingentesimo decimoquarto die vero vicesima mensis Decembris [20 December 1514]</CITE>  
 >>(*Comment*: Includes expanded brevigraph)
 
+<a name="5.23.31.37.Y.Y">5.23.31.37.Y.Y</a> **Unconventional dates**. If the date is unconventionally expressed, generally transcribe the date as it appears. Supply the year in arabic numerals in square brackets.
+
 <a name="5.23.31.4">5.23.31.4</a> **Fictitious or incorrect dates**. If the date of publication appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by “that is,” all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the source of the information (see [5.24.36.3](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.3)). 
 
 >**Example:**  
@@ -114,6 +116,8 @@ sidebar:
 
 >**Example:**  
 ><CITE>Octr. 42 [that is, 24], 1799</CITE>
+
+<a name="5.23.31.46">5.23.31.46</a> If necessary, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to clarify that the date added as a correction is a differing date, not a correction of an error on the material (see 5.24.SOMETHING.SOMETHING).
 
 <a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 
@@ -160,7 +164,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 ><CITE>publié le 9 thermidor l'an 2e de la Rép. f. [27 July 1794]</CITE>  
 >>(*Comment*: Date follows French Revolutionary calendar)  
 
-<a name="5.23.31.7">5.23.31.7</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) for source of supplied dates (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)).
+<a name="5.23.31.7">5.23.31.7</a> **Multiple adjustments or additions**. If the date of publication requires more than a single adjustment or addition, provide all the supplied information within the same set of square brackets. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) for the source of supplied dates (see [5.24.36.5](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.5)).
 
 >**Example:**  
 >Date of publication: <CITE>MDCXIII [1613, that is, 1693]</CITE>  
@@ -185,6 +189,18 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >Note on publication statement: <CITE>Date of publication from Sabin</CITE>  
 >>(*Comment*: The formal citation for Sabin’s bibliography is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))
 
+>**Example:**  
+>Date of publication: <CITE>[1939]</CITE>  
+>Note on publication statement: <CITE>Publication date based on content</CITE>  
+>>(*Comment*: New York World’s Fair postcard)  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+>Date of publication: <CITE>[26 May 1762]</CITE>  
+>Note on publication statement: <CITE>Publication date from Catalogue of prints and drawings in the British Museum</CITE>  
+>>(*Comment*: The formal citation for the Catalogue is given in a [Manifestation described by](/DCRMR/additional-notes/Manifestation-described-by/) note (see [9.32.31.1](/DCRMR/additional-notes/Manifestation-described-by/#9.32.31.1)))  
+>>**(*Ingest comment*: example needs review)**  
+
 ## 5.23.33 Conjectural date of publication
 
 <a name="5.23.33.1">5.23.33.1</a> Supply in square brackets a conjectural date of publication based on any information available. Always indicate the basis for the conjecture in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.36.7](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.7)).
@@ -192,6 +208,11 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >**Example:**  
 >Date of publication: <CITE>[1785]</CITE>  
 >Note on publication statement: <CITE>Date from advertisements and reviews in the summer of 1785</CITE>  
+
+>**Example:**  
+>Date of publication: <CITE>[approximately 1796]</CITE>  
+>Note on publication statement: <CITE>Approximate date from imprint on a later proof state with lettering: Published June [...]th, 1796, by J. Barlow, No. 5 St. George's Place, Black-friars Road, Surry</CITE>  
+>>**(*Ingest comment*: example needs review)**  
 
 <a name="5.23.33.2">5.23.33.2</a>  If the preferred source of information does not clearly bear a date of publication, but does bear another prominent date, either transcribe that date as part of the [Title](/DCRMR/title/) or the [Statement of responsibility](/DCRMR/sor/) elements or give it in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see [9.3.36.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.36.1)).
 
@@ -228,9 +249,9 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 |[between 1600 and 1700] |century certain|
 |[between 1600 and 1700?] |probable century|
 
-## 5.23.35 Date of publication in multipart monographs
+## 5.23.35 Date of publication in multiple unit resources
 
-<a name="5.23.35.1">5.23.35.1</a> In describing a manifestation consisting of volumes, parts, or fascicles published over a number of years, transcribe the date of publication of the volume, part, or fascicle published first and the date of publication of the volume, part, or fascicle published last, and connect them with a hyphen.
+<a name="5.23.35.1">5.23.35.1</a> In describing a manifestation consisting of multiple units published over a number of years, transcribe the date of publication of the unit published first and the date of publication of the unit published last, and connect them with a hyphen.
 
 >**Example:**  
 ><CITE>M,DCC,LXXXIX-M,DCC,XCII [1789-1792]</CITE>
@@ -238,7 +259,7 @@ If two dates appear on the manifestation, representing both Julian (Old Style) a
 >**Example:**  
 ><CITE>1715-1716</CITE>
 
-<a name="5.23.35.2">5.23.35.2</a> Record the date of each volume in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important. Such a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) is particularly useful when the order of publication does not correspond to the order of the volume numeration (see [5.24.36.8](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.8)).
+<a name="5.23.35.2">5.23.35.2</a> Record the date of each unit in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) if considered important. Such a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) is particularly useful when the order of publication does not correspond to the order of the unit numeration (see [5.24.36.8](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.8)).
 
 >**Example:**  
 >Date of publication: <CITE>M.DC.XCIV-M.DCCI [1694-1701]</CITE>  
