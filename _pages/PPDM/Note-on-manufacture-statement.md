@@ -91,7 +91,7 @@ sidebar:
 
 ## 5.34.34 Name of manufacturer notes
 
-<a name="5.34.34.1">5.34.34.1</a> **Names of manufacturer in multiple unit monographs**. If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, always record the manufacturer’s name in the later part(s) in a Note on manufacture statement (see [Name of manufacturer, 5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
+<a name="5.34.34.1">5.34.34.1</a> **Names of manufacturer in multiple unit resources**. If the manifestation is issued in more than one physical part and the manufacturer or the manufacturer’s form of name changes in the course of publication, always record the manufacturer’s name in the later part(s) in a Note on manufacture statement (see [Name of manufacturer, 5.32.32.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.32.1)).
 
 <a name="5.34.34.2">5.34.34.2</a> **Fictitious or incorrect names of manufacturer**. Always make a Note on manufacture statement if the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/) is known to be fictitious or incorrect (see [5.32.34.1](/DCRMR/ppdm/Name-of-manufacturer/#5.32.34.1)).
 

@@ -59,13 +59,13 @@ sidebar:
 
 ## 5.11.34.Y.Y Places of production in multiple unit resources
 
-<a name="5.11.34.1.Y.Y">5.11.34.1.Y.Y</a> If the manifestation is produced in more than one physical part and the place of production named in the resource changes in the course of production, transcribe as Place of production the place named in the first or earliest part and always record the place named in the later part(s) in a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) (see 5.14.SOMETHING.SOMETHING.
+<a name="5.11.34.1.Y.Y">5.11.34.1.Y.Y</a> If the manifestation is produced in more than one physical part and the place of production named in the resource changes in the course of production, transcribe as Place of production the place named in the first or earliest part and always record the place named in the later part(s) in a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) (see 5.14.SOMETHING.SOMETHING).
 
 ## 5.11.35.Y.Y Place names that are visually or grammatically inseparable parts of other elements
 
 <a name="5.11.35.1.Y.Y">5.11.35.1.Y.Y</a> If the place name appears only as a grammatically inseparable part of another element and is transcribed there, supply the Place of production in square brackets (see 5.1.SOMETHING.SOMETHING). Use a modern form of the name in the language of the cataloging agency.
 
-## 5.11.36.Y.Y 
+## 5.11.36.Y.Y Fictitious or incorrect places of publication
 
 <a name="5.11.36.1.Y.Y">5.11.36.1.Y.Y</a> If the place of production appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and always make an explanatory [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) (see 5.14.SOMETHING.SOMETHING).
 

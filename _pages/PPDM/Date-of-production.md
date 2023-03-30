@@ -45,7 +45,7 @@ sidebar:
 
 <a name="5.13.31.37.Y.Y">5.13.31.37.Y.Y</a> **Unconventional dates**. If the date is unconventionally expressed, generally transcribe the date as it appears. Supply the year in arabic numerals in square brackets.
 
-<a name="5.13.31.4.Y.Y">5.13.31.4.Y.Y</a> Fictitious or incorrect dates. If the date of production appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by "that is," all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to indicate the source of the information (see 5.14.SOMETHING.SOMETHING).
+<a name="5.13.31.4.Y.Y">5.13.31.4.Y.Y</a> **Fictitious or incorrect dates**. If the date of production appearing on the manifestation is known to be fictitious or incorrect, transcribe it nonetheless and supply the actual date, preceded by "that is," all enclosed within square brackets. If the reason for supplying the actual date is not apparent from the rest of the description, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to indicate the source of the information (see 5.14.SOMETHING.SOMETHING).
 
 <a name="5.13.31.45.Y.Y">5.13.31.45.Y.Y</a> If the date supplied as a correction is a differing date, not a correction of an error on the manifestation, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to clarify (see 5.14.SOMETHING.SOMETHING).
 

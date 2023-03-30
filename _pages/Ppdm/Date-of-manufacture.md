@@ -33,9 +33,9 @@ sidebar:
 >Note on manufacture statement: <CITE> Date of production and date of printing from back, in photographer's hand</CITE>  
 >>**(*Ingest comment*: example needs review)**   
 
-<a name="5.33.3.2">5.33.3.2</a> **Still image resources**. Record the date of a restrike as the Date of manufacture (see 3.21.SOMETHING.SOMETHING).
+<a name="5.33.3.2.Y.Y">5.33.3.2.Y.Y</a> **Still image resources**. Record the date of a restrike as the Date of manufacture (see 3.21.SOMETHING.SOMETHING).
 
-<a name="5.33.3.3">5.33.3.3</a> **Still image resources**. If no date can be transcribed from the resource, supply a date or estimated date and make an explanatory note if considered important.
+<a name="5.33.3.3.Y.Y">5.33.3.3.Y.Y</a> **Still image resources**. If no date can be transcribed from the resource, supply a date or estimated date and make an explanatory note if considered important.
 
 ## 5.33.35 Alternative rules
 

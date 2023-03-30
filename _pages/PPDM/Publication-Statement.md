@@ -35,7 +35,7 @@ sidebar:
 
 ## 5.2.31 Information covered by labels, etc.
 
-<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished our, scored through), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
+<a name="5.2.31.1">5.2.31.1</a> If any of the original details relating to the publication statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished out, scored through), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) (see [5.24.31.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.31.4)). 
 
 >**Example:**  
 >Publication statement: <CITE>A Amsterdam : Chez Paul Marret, marchand libraire dans le Beurs-straat, à la Renommée, 1699</CITE>  
