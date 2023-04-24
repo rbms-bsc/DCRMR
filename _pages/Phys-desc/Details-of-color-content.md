@@ -27,6 +27,14 @@ sidebar:
 
 <a name="6.235.3.1">6.235.3.1</a> Make a note on details of color content if considered important (see [Color content, 6.23](/DCRMR/phys-desc/Color-content/)).
 
+>**Example:**  
+><CITE>Lithographs printed in orange and black on blue-green paper</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+<CITE>Banner printed with white and yellow ink on blue silk, with yellow fringe at bottom</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
 ## 6.235.31 Details of printed color
 
 <a name="6.235.31.1">6.235.31.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [Color content, 6.23.31.2](/DCRMR/phys-desc/Color-content/#6.23.31.2)).
@@ -39,11 +47,13 @@ sidebar:
 >**Example:**  
 ><CITE>Title and preliminary pages are printed in red and black ink</CITE>
 
-For incunabula, always record color printing if present (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
+For incunabula, always record color printing of textual matter if present (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
 
 >**Example:**  
 ><CITE>Printed in red and black</CITE>  
 >>(*Comment*: The manifestation is an incunable)
+
+<a name="6.235.31.3.Y.Y">6.235.31.3.Y.Y</a> For color prints  where each color is printed from a separate surface (see 6.23.SOMETHING.SOMETHING), make a note on the number (i.e., the number of plates, stones, or blocks combined to make the finished print )and the names of the colors, if considered important. 
 
 ## 6.235.33 Details of hand coloring
 
@@ -70,12 +80,18 @@ For incunabula, always record color printing if present (see [Color content, 6.2
 
 <a name="6.235.33.4">6.235.33.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
+## 6.235.34.Y.Y Number of color images in multipart resources
+
+<a name="6.235.34.1.Y.Y">6.235.34.1.Y.Y</a> **Still images**. Record the number of color or hand-colored images in a multipart resource, either in a general way (e.g."some", "chiefly"), or by recording the specific number, if considered important.
+
 ## 6.235.35 Base material
 
 <a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g., paper) if considered important (see [Color content, 6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)).
 
 >**Example:**  
 ><CITE>Printed in gold on dark blue paper</CITE>  
+
+<a name="6.235.35.2.Y.Y">6.235.35.2.Y.Y</a> **Still images**. Make a note giving further details of color content of base materials if considered important(see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ---
 

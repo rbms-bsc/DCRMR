@@ -15,7 +15,7 @@ sidebar:
 
 ## 6.255.1 Element information
 
-<a name="6.255.1.1">6.255.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/en-US_ala-f6a3a1a9-9abc-3fe9-882a-f52b0457fb35){:target="_blank"}
+<a name="6.255.1.1">6.255.1.1</a>  Note: This element has been deprecated and removed from the [RDA Toolkit](https://www.rdatoolkit.org/){:target="_blank"}. Details of base material has been retained in DCRMR to better clarify the relationship between these instructions and [Base material](/DCRMR/phys-desc/Base-material/) and to mirror the structure throughout the [Physical description](/DCRMR/phys-desc/) chapter. Instructions in Details of base material map to [RDA Toolkit: Base material](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-f96b31a0-8dd8-324c-a2e7-28f9540f665e){:target="_blank"}.
 
 <a name="6.255.1.2">6.255.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
@@ -35,6 +35,21 @@ sidebar:
 
 >**Example:**  
 ><CITE>“Limited to thirty-two copies on Imperial Japan paper and one hundred and twenty-five copies on Holland paper”&#8208;&#8208;unnumbered leaf preceding half title page</CITE>
+
+>**Example:**  
+><CITE>Printed on paper designed and shaped like an acorn</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>Printed on light card stock die-cut to resemble an 8-point paper snowflake. A color print of roses occupies one quarter, and by folding into a cone or "rose" shape, a decorative three-dimensional object is created</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>Silhouette is hand cut from black paper and mounted on an ink wash drawing of an interior scene which serves as the background</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.255.3.2.Y.Y">6.255.3.2.Y.Y</a> To record free text that combines description of base material, applied material, mount or production method, make a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [6.355.3.2](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.2)).
+
 
 ---
 

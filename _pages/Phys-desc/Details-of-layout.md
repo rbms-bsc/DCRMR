@@ -15,7 +15,9 @@ sidebar:
 
 ## 6.285.1 Element information
 
-<a name="6.285.1.1">6.285.1.1</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/en-US_ala-57a29f2c-5500-3a18-854e-f21c88c184a2){:target="_blank"}
+<a name="6.285.1.1">6.285.1.1</a> Note: This element has been deprecated and removed from the [RDA Toolkit](https://rdatoolkit.org){:target="_blank"}. Details of layout has been retained in DCRMR to better clarify the relationship between these instructions and [Layout](/DCRMR/phys-desc/Layout/) and to mirror the structure throughout the [Physical description](/DCRMR/phys-desc/) chapter. Instructions in Details of layout map to [RDA Toolkit: Layout](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-9f019737-be7b-32e0-b5ca-9604d2bc4255){:target="_blank"}.
+
+[Link to RDA Toolkit](https://access.rdatoolkit.org/en-US_ala-57a29f2c-5500-3a18-854e-f21c88c184a2){:target="_blank"}
 
 <a name="6.285.1.2">6.285.1.2</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
 
@@ -43,6 +45,28 @@ sidebar:
 
 >**Example:**  
 ><CITE>Printed in 2 columns divided by a row of printers' ornaments</CITE>
+
+## 6.285.6.Y.Y Still image resources
+
+<a name="6.285.6.1.Y.Y">6.285.6.1.Y.Y</a> *Optionally*, record orientation (see Dimensions, 6.24.SOMETHING.SOMETHING).
+
+>**Example:**  
+>Dimensions: <CITE>sheet 18 x 14 cm</CITE>  
+>Details of layout: <CITE>vertical orientation</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.285.6.2.Y.Y">6.285.6.2.Y.Y</a> Make a note on the orientation of multipart images if considered important.
+
+>**Example:**  
+>Dimensions: <CITE>heets 16 x 27 cm</CITE>  
+>Details of layout: <CITE>Mostly horizontal orientation</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Dimensions: <CITE>images 38 x 25 cm</CITE>  
+>Details of layout: <CITE>Mostly vertical orientation</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
 
 ---
 

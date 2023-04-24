@@ -27,9 +27,13 @@ sidebar:
 
 Tables containing only words and/or numerical data are excluded.
 
+## 6.22.21.Y.Y DCRMR elaboration of scope
+
+<a name="6.22.21.1.Y.Y">6.22.21.1.Y.Y</a> Use for resources consisting primarily of text. Do not use for resources consisting entirely of graphics (see [6.22.37](/DCRMR/phys-desc/Illustrative-content/#62237-resources-consisting-entirely-or-chiefly-of-illustrations)).
+
 ## 6.22.3 General rule
 
-<a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the term general “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
+<a name="6.22.3.1">6.22.3.1</a> To indicate the presence of illustration, use the general term “illustration” or “illustrations,” as appropriate, from [RDA Value Vocabularies: RDA Illustrative Content](http://www.rdaregistry.info/termList/IllusContent/){:target="_blank"}.
 
 >**Example:**  
 ><CITE>illustration</CITE>   

@@ -46,7 +46,9 @@ sidebar:
 
 <a name="6.26.3.3">6.26.3.3</a> When multiple applied materials are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 
-<a name="6.26.3.4">6.26.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record *mixed materials.*
+<a name="6.26.3.4">6.26.3.4</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record "mixed materials".
+
+<a name="6.26.3.45.Y.Y">6.26.3.45.Y.Y</a> *Optionally*, in addition to "mixed materials", record the materials that can be readily identified as [Details of applied material](/phys-desc/Details-of-applied-material/) (see 6.265.SOMETHING.SOMETHING).
 
 <a name="6.26.3.5">6.26.3.5</a> Record more detailed descriptions of the applied materials used to produce the manifestation as [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) if considered important (see [6.265.3.1](/DCRMR/phys-desc/Details-of-applied-material/#6.265.3.1)).
 

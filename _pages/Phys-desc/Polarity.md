@@ -7,13 +7,27 @@ sidebar:
   nav: "docs"
 ---
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## 6.277.1.Y.Y Element information
 
-The RBMS RDA Editorial Group
+<a name="6.277.1.1.Y.Y">6.277.1.1.Y.Y</a> [Link to RDA Toolkit]( https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-073d441a-8a45-36a9-9619-e40234a3f322){:target="_blank"}
+
+<a name="6.277.1.2.Y.Y">6.277.1.2.Y.Y</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
+
+## 6.277.2.Y.Y RDA definition and scope
+
+<a name="6.277.2.1.Y.Y">6.277.2.1.Y.Y</a> A relationship of the colours and tones in an image of an object to the colours and tones of the object that is reproduced.
+
+## 6.277.3.Y.Y General rule
+
+<a name="6.277.3.1.Y.Y">6.277.3.1.Y.Y</a> Record a term to identify the polarity of a photograph. Use one or more terms from the [RDA Value Vocabularies: RDA Polarity](http://www.rdaregistry.info/termList/RDAPolarity/){:target="_blank"} and indicate the source.
+
+<a name="6.277.3.2.Y.Y">6.277.3.2.Y.Y</a> Make a note recording more detailed descriptions of polarity if considered important (see Details of polarity, 6.2775.SOMETHING.SOMETHING).
 
 ---
 

@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.21.3 General rule
 
-<a name="6.21.3.1">6.21.3.1</a> Record the number of units and the type of unit of which a manifestation is composed.
+<a name="6.21.3.1">6.21.3.1</a> Record extent by giving the number of units and the type of unit. For the type of unit, use a term from the format-specific instructions below or select an appropriate term from the [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"}. Record the term in singular or plural, as applicable.
 
 ## 6.21.4 Extent of manifestations of text
 
@@ -308,9 +308,9 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 >Note on extent of item: <CITE>Library copy incomplete; all after page 142 wanting</CITE>  
 >>(*Comment*: No other known copy found)
 
-#### 6.21.4285 Sheets, rolls, cases, portfolios, etc.
+#### 6.21.4285 Manifestations in one physical unit other than a volume
 
-<a name="6.21.4285.1">6.21.4285.1</a> For a manifestation in a single physical unit other than a volume (e.g., a sheet, a roll, a case, or a portfolio), use an appropriate designation (“sheet,” etc.) preceded by the arabic numeral 1. Prefer terminology from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"}. Record a statement of pagination or foliation in parentheses following the designation.
+<a name="6.21.4285.1">6.21.4285.1</a> For a manifestation in a single physical unit other than a volume (e.g., a sheet, a roll, a case, or a portfolio), use an appropriate designation (“sheet,” etc.) preceded by the arabic numeral 1. Prefer terminology from the [RDA Value Vocabularies: RDA Carrier Type](http://www.rdaregistry.info/termList/RDACarrierType/){:target="_blank"} or [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"}. Record a statement of pagination or foliation in parentheses following the designation.
 
 >**Example:**  
 > <CITE>1 portfolio (34 pages, 25 folded sheets)</CITE>  
@@ -417,6 +417,190 @@ For a normally imposed single-folded (i.e., four-page) sheet see [6.21.422.1](/D
 >Extent of manifestation: <CITE>[8], xl, 507, [1], xxix, [3] pages</CITE>  
 >Note on extent of manifestation: <CITE>No more published</CITE>  
 >>(*Comment*: Title page states “Part the first”)
+
+## 6.21.6.Y.Y Extent of manifestations of still images
+
+### 6.21.62.Y.Y  General rule
+
+<a name="6.21.62.1.Y.Y">6.21.62.1.Y.Y</a> Record extent of a resource consisting of one or more still images by giving the number of units as an arabic numeral, followed by a carrier extent unit term (see 6.21.SOMETHING.SOMETHING)
+
+<a name="6.21.62.2.Y.Y">6.21.62.2.Y.Y</a> *Optionally*, when the exact extent is difficult to determine, record the approximate number of items. Precede the approximate number with "approximately".
+
+### 6.21.63.Y.Y Carrier extent units
+
+<a name="6.21.63.1.Y.Y">6.21.63.1.Y.Y</a> Choose a term from the list below for the carrier extent unit. If considered important, give further description in other elements, such as [Polarity](/DCRMR/phys-desc/Polarity/), [Production method](/DCRMR/phys-desc/Production-method/), [Base material](/DCRMR/phys-desc/Base-material/), [Carrier type](/DCRMR/phys-desc/Carrier-type/), or [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/).
+
+Record the term in singular or plural, as applicable.
+
+* drawing
+* painting
+* photograph
+* print
+
+If none of the terms  above are appropriate, use:
+
+* another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} (but use the term "picture" only as a last resort)
+* another concise term or terms to indicate the type of unit
+
+>**Example:**  
+><CITE>1 drawing</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>4 photographs</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>2 pictures</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>1 collage</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Extent of manifestation: <CITE>1 photograph</CITE>  
+>Polarity: <CITE>negative</CITE>  
+>Base material: <CITE>safety film</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.63.2.Y.Y">6.21.63.2.Y.Y</a> **Stereographs**. Treat the paired images of a stereograph as a single item and use the term "photograph". Record "stereograph card" or "stereograph disc" as the [Carrier type](/DCRMR/phys-desc/Carrier-type/) (see 6.35.SOMETHING.SOMETHING).
+
+>**Example:**  
+><CITE>1 photograph</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.63.3.Y.Y">6.21.63.3.Y.Y</a> **Slides**. Describe a slide as a *photograph*. Record "slide" in [Carrier type](/DCRMR/phys-desc/Carrier-type/) (see 6.35.SOMETHING.SOMETHING). If the slide is a lantern slide, record this in a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see 6.355.SOMETHING.SOMETHING).
+
+<a name="6.21.63.4.Y.Y">6.21.63.4.Y.Y</a> **Photographs printed photomechanically**. If a photographic image has been printed photomechanically (halftone, photogravure, Woodburytype, dye transfer print, ink jet print, etc.), describe it as a *print*. Record the medium or process in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
+
+>**Example:**  
+><CITE>1 print</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.63.5.Y.Y">6.21.63.5.Y.Y</a> **Other photomechanical prints**. If a drawn, painted, computer-generated, or other non-photographic image has been printed photomechanically (halftone, photogravure, etc.), describe it as a *print*. Record the medium or process of production in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
+
+>**Example:**  
+>Extent of manifestation: <CITE>1 print</CITE>  
+>Production method: <CITE>photogravure</CITE>  
+>>(*Comment*: A photomechanical print of a drawing)  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.63.6.Y.Y">6.21.63.6.Y.Y</a> **Technical drawings**. Use the term "drawing" for  technical and architectural drawings, whether produced in ink, pencil, blueprint, diazotype, CAD, or other means.
+
+### 6.21.64.Y.Y Multiple resource types
+
+<a name="6.21.64.1.Y.Y">6.21.64.1.Y.Y</a> When describing a multiple-unit manifestation containing more than one type of resource, record the number of component parts for each type. 
+
+>**Example:**  
+<CITE>7 photographs and 1 print</CITE>  
+>>(*Comment*: Publicity material for a film with seven movie stills and one sheet of potential newspaper advertisements)  
+>>**(*Ingest comment*: example needs review)**
+
+Alternatively, record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
+
+>**Example:**  
+<CITE>7 pictures</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+### 6.21.65.Y.Y Containers and physical carriers for multiple unit manifestations
+
+<a name="6.21.65.1.Y.Y">6.21.65.1.Y.Y</a> Record the number and type of containers or physical carriers immediately following the carrier extent unit when they are original to the material and necessary to accurately communicate its extent. For containers provided by the repository or otherwise not original to the material, make a local note, if considered important (see Note on extent of item, 9.43.SOMETHING.SOMETHING). Keep in mind that the difference between unpublished multiple unit manifestations and groups is very often a matter of cataloger judgment, and makes little difference to the description. In case of doubt, treat unpublished material as a group.
+
+<a name="6.21.65.2.Y.Y">6.21.65.2.Y.Y</a> For manifestations consisting of one or more albums, portfolios, cases, etc., record the extent of manifestation by recording the number of units and an appropriate term for the type of unit. Terms for the type of container include but are not limited to:
+
+* album
+* sketchbook
+* portfolio
+* volume
+* scrapbook
+* box
+* CD-ROM
+* DVD
+
+<a name="6.21.65.3.Y.Y">6.21.65.3.Y.Y</a> Always specify the number of still images, using one or more of the terms from 6.21.63.SOMETHING.SOMETHING. Record this information in parentheses following the term for the container. 
+
+>**Example:**  
+><CITE>1 portfolio (17 prints)</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>1 box (25 photographic prints)</CITE>   
+>>(*Comment*: Material consists of one portfolio and one box, issued as a set by the artist)  
+>>**(*Ingest comment*: example needs review)**
+ 
+>**Example:**  
+><CITE>1 sketchbook (approximately 250 drawings)</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>1 volume (21 drawings)</CITE>  
+>>(*Comment*: Cataloger judged the item to be a multipart resource because the volume is a finished product assembled in imitation of a published book)  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>1 album (55 prints, 2 drawings)</CITE>  
+>>(*Comment*: Cataloger judged the item to be a multipart resource because the album is a finished product assembled in imitation of a published book)  
+>>**(*Ingest comment*: example needs review)**
+
+### 6.21.66.Y.Y Special addition to extent of manifestation and carrier extent units
+
+<a name="6.21.66.1.Y.Y">6.21.66.1.Y.Y</a> **Multiple images on one carrier**. If more than one discrete image is on a single carrrier indicate this immediately following the carrier extent unit.
+
+>**Example:**  
+><CITE>approximately 7 drawings on 1 sheet</CITE>  
+>>(*Comment*: Large sheet with multiple sketches, some of which could be interpreted as one larger composition rather than several separate ones)  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.66.2.Y.Y">6.21.66.2.Y.Y</a> **Alternative rule**. Make a separate bibliographic record for each image. Record only the extent of the part being described. Link the separate records with “Issued with” notes (see [9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/)). 
+
+<a name="6.21.66.3.Y.Y">6.21.66.3.Y.Y</a> **One image spanning more than one carrier**. If the resource consists of one image spanning more than one carrier, record the number and carrier extent unit followed by a phrase descriptive of the image as a whole.
+
+>**Example:**  
+><CITE>3 prints forming 1 image</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>5 photographic prints forming 1 panorama</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+*Optionally*, emphasize the image as a whole instead, recording the extent of image followed by the number and carrier type.
+
+>**Example:**  
+><CITE>1 print on 20 sheets</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+### 6.21.67.Y.Y Incomplete multiple unit manifestations
+
+<a name="6.21.67.1.Y.Y">6.21.67.1.Y.Y</a> **Manifestations issued in multiple units**. Record the number and carrier extent units in extent of manifestation. If the extent can be determined from other exemplars of the manifestation, record the extent of the exemplar as issued. Provide details of missing components in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) if considered important (see [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
+
+>**Example:**  
+>Extent of manifestation: <CITE>10 photographs</CITE>  
+>Note on extent of item: <CITE>Repository lacks numbers 2 and 7</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+ If the number of components issued cannot be determined, record the number and carrier extent units of the item in hand, followed by "(incomplete)". Record in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) that the extent is based on an incomplete exemplar (see [6.215.428.1](/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.428.1)). Record the imperfection in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) (see [9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
+ 
+>**Example:**  
+>Extent of manifestation: <CITE>38 photographs (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Extent based on incomplete set; quantity issued unknown</CITE>  
+>>(*Comment*: Set of published stereographs)  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Extent of manifestation: <CITE>24 cards (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Extent based on incomplete set</CITE>  
+>>(*Comment*: Set of baseball cards with no identifying information)  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.21.67.2.Y.Y">6.21.67.2.Y.Y</a> **Unique materials**. Record the number and type of unit according to the item in hand, followed by "(incomplete)". Record the imperfection, along with information about the original extent of the manifestation, if ascertainable, in a [Note on extent of manifestation](/DCRMR/phys-desc/Note-on-extent-of-manifestation/) (see 6.215.SOMETHING.SOMETHING).
+
+>**Example:**  
+>Extent of manifestation: <CITE>28 drawings in 1 volume (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Originally intended as 29 drawings; leaf with no. 15 now missing</CITE>  
+>>(*Comment*: Volume is a set of numbered drawings with a hand-written title page in the hand of the artist)  
+>>**(*Ingest comment*: example needs review)**
+
 
 ---
 

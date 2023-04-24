@@ -39,7 +39,45 @@ sidebar:
 >Source code of term: <CITE>rbpap</CITE>  
 >>(*Comment*: Example includes the MARC source code of term for clarity)
 
+<a name="6.25.3.23.Y.Y">6.25.3.23.Y.Y</a> If a manifestation is known to have multiple applied materials but not all can be readily identified, record "mixed materials".
+
+<a name="6.25.3.25.Y.Y">6.25.3.25.Y.Y</a> *Optionally*, in addition to "mixed materials", record the materials that can be readily identified as [Details of applied material](/DCRMR/phys-desc/Details-of-applied-material/) (see 6.265.SOMETHING.SOMETHING). 
+
 <a name="6.25.3.3">6.25.3.3</a> Make a note recording more detailed descriptions of base materials if considered important (see [Details of base material, 6.255.3.1](/DCRMR/phys-desc/Details-of-base-material/#6.255.3.1)).
+
+## 6.26.6.Y.Y Still image resources
+
+<a name="6.25.6.1.Y.Y">6.25.6.1.Y.Y</a> Record the base material of still images if considered important, e.g., if the base material is unusual as a support for the image medium (i.e., it cannot reliably be inferred from the carrier type), if it is customary to name the support for that medium (e.g., for oil paintings), or if such features as texture, color, or weight are unusually important in relation to the image.
+
+>**Example:**  
+><CITE>leather</CITE>  
+>>(*Comment*: For a photograph on leather)  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>wood</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>canvas</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.25.6.2.Y.Y">6.25.6.2.Y.Y</a> **Photographic negatives**. Specify the base material if it is other than safety film.
+
+>**Example:**  
+><CITE>nitrate film negative</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+><CITE>glass plate negative<CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.25.6.3.Y.Y">6.25.6.3.Y.Y</a> *Optionally*, always specify the base material.
+
+>**Example:**  
+><CITE>safety film</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
 
 ---
 

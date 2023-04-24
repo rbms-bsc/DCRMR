@@ -7,13 +7,32 @@ sidebar:
   nav: "docs"
 ---
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## 6.2765.1.Y.Y Element information
 
-The RBMS RDA Editorial Group
+<a name="6.2765.1.1.Y.Y">6.2765.1.1.Y.Y</a> [Link to RDA Toolkit]( https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-335ef268-cf48-33a4-a1f8-3bf4cbbb21a1){:target="_blank"}
+
+<a name="6.2765.1.2.Y.Y">6.2765.1.2.Y.Y</a> [Sources of information](/DCRMR/phys-desc/#6011-sources-of-information) 
+
+## 6.276.2.Y.Y RDA definition and scope
+
+<a name="6.2765.2.1.Y.Y">6.2765.2.1.Y.Y</a> Details of a relationship between an original carrier and a carrier of a reproduction made from an original.
+
+## 6.2765.3.Y.Y General rule
+
+<a name="6.2765.3.1.Y.Y">6.2765.3.1.Y.Y</a> Record details of generation, if considered important (see 6.276.SOMETHING.SOMETHING).
+
+<a name="6.2765.3.2.Y.Y">6.2765.3.2.Y.Y</a> **Still image**. Record whether a later photographic print was made from an original negative. 
+
+**Example:**  
+><CITE>Photo re-printed from original glass negative made in 1864</CITE>  
+>>(*Comment*: Photograph taken during the American Civil War published as a mounted albumen print in the 1890s)  
+>>**(*Ingest comment*: example needs review)**
 
 ---
 

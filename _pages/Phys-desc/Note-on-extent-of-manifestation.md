@@ -328,6 +328,32 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >**Example:**  
 > <CITE>Collation: 8vo: A-H⁴; 32 leaves: p. [1-2] 3-62 [63-64]; $3(-H3) signed. H4 blank</CITE>
 
+## 6.215.6.Y.Y Note on extent of still image resources
+
+<a name="6.215.6.1.Y.Y">6.215.6.1.Y.Y</a> **Manifestations issued in multiples**. If the number of components of a manifestation issued in multiple copies cannot be determined (see 6.21.SOMETHING.SOMETHING), record in a Note on extent of manifestation that the extent is based on an incomplete exemplar.
+
+>**Example:**  
+>Extent of manifestation: <CITE>38 photographs (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Extent based on incomplete set; quantity issued unknown</CITE>  
+>>(*Comment*: Set of published stereographs)  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Extent of manifestation: <CITE>24 cards (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Extent based on incomplete set</CITE>  
+>>(*Comment*: Set of baseball cards with no identifying information)
+>>**(*Ingest comment*: example needs review)**
+
+<a name="6.215.6.2.Y.Y">6.215.6.2.Y.Y</a> **Unique materials**. If a unique manifestation is evidently incomplete (see Extent of manifestation, 6.21.SOMETHING.SOMETHING), record the imperfection, along with information about the original extent of the manifestation, if ascertainable, in a Note on extent of manifestation.
+
+>**Example:**  
+>Extent of manifestation: <CITE>28 drawings in 1 volume (incomplete)</CITE>  
+>Note on extent of manifestation: <CITE>Originally intended as 29 drawings; leaf with no. 15 now missing</CITE>  
+>>(*Comment*: Volume is a set of numbered drawings with a hand‐written title page in the hand of the artist)  
+>>**(*Ingest comment*: example needs review)**
+
+
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.21 — Extent of manifestation")](/DCRMR/phys-desc/Extent-of-manifestation/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.22 — Illustrative content")](/DCRMR/phys-desc/Illustrative-content/)
