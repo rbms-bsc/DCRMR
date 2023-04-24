@@ -27,8 +27,11 @@ sidebar:
 
 <a name="6.266.3.1.Y.Y">6.266.3.1.Y.Y</a> Record the material used to mount the resource if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Material](http://www.rdaregistry.info/termList/RDAMaterial/){:target="_blank"} and indicate the source. 
 
-**Example:**  
+>**Example:**  
 ><CITE>cardboard</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
 ><CITE>wood</CITE>  
 >>**(*Ingest comment*: example needs review)**  
 

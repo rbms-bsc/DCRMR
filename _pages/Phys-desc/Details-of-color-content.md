@@ -80,9 +80,9 @@ For incunabula, always record color printing of textual matter if present (see [
 
 <a name="6.235.33.4">6.235.33.4</a> Record details of color for a hand-colored item as [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered important (see [9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
-## 6.235.34.Y.Y Number of color images in multipart resources
+## 6.235.34.Y.Y Number of color images in multiple unit resources
 
-<a name="6.235.34.1.Y.Y">6.235.34.1.Y.Y</a> **Still images**. Record the number of color or hand-colored images in a multipart resource, either in a general way (e.g."some", "chiefly"), or by recording the specific number, if considered important.
+<a name="6.235.34.1.Y.Y">6.235.34.1.Y.Y</a> **Still images**. Record the number of color or hand-colored images in a multiple unit resource, either in a general way (e.g."some", "chiefly"), or by recording the specific number, if considered important.
 
 ## 6.235.35 Base material
 
@@ -90,8 +90,6 @@ For incunabula, always record color printing of textual matter if present (see [
 
 >**Example:**  
 ><CITE>Printed in gold on dark blue paper</CITE>  
-
-<a name="6.235.35.2.Y.Y">6.235.35.2.Y.Y</a> **Still images**. Make a note giving further details of color content of base materials if considered important(see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ---
 

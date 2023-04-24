@@ -497,7 +497,7 @@ If none of the terms  above are appropriate, use:
 >>(*Comment*: Publicity material for a film with seven movie stills and one sheet of potential newspaper advertisements)  
 >>**(*Ingest comment*: example needs review)**
 
-Alternatively, record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
+**Alternative rule**. Record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
 
 >**Example:**  
 <CITE>7 pictures</CITE>  

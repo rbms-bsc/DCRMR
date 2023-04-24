@@ -29,12 +29,6 @@ sidebar:
 
 <a name="6.276.3.2.Y.Y">6.276.3.2.Y.Y</a> Make a note recording more detailed descriptions of generation, if considered important (see Details of generation, 6.2765.SOMETHING.SOMETHING).
 
->**Example:**  
-><CITE>Photo re-printed from original glass negative made in 1864</CITE>  
->>(*Comment*: Photograph taken during the American Civil War published as a mounted albumen print in the 1890s)  
->>**(*Ingest comment*: example needs review)**
-
-
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.275 — Details of production method")](/DCRMR/phys-desc/Details-of-production-method/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.2765 — Details of generation")](/DCRMR/phys-desc/Details-of-generation/)

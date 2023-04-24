@@ -175,7 +175,7 @@ sidebar:
 ><CITE>image and text 37 x 44 cm, on sheet 42 x 48 cm</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.61.7.Y.Y">6.24.61.7.Y.Y</a> *Optionally*, record in [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see 6.24.SOMETHING.SOMETHING) the size of a mount which is substantially larger than the image or carrier, as when a photographic print is affixed to a non-standard mount.
+<a name="6.24.61.7.Y.Y">6.24.61.7.Y.Y</a> *Optionally*, record in [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see 9.3.SOMETHING.SOMETHING) the size of a mount which is substantially larger than the image or carrier, as when a photographic print is affixed to a non-standard mount.
 
 <a name="6.24.61.8.Y.Y">6.24.61.8.Y.Y</a> **Conventions**. Different types of graphic material require different types of measurements. Although the metric system has become the standard for recording dimensions, it may be desirable for some types of still image to give additional information using other systems of measurement (such as the imperial system) or manufacturers’ sizes.  For circular shapes, diameter is recorded instead of height and width,  and depth is added for containers. The areas measured for different graphic types also vary: for example, it is customary to measure plate marks of intaglio prints, papers of twentieth-century photographic prints, and standard mounts of nineteenth-century photographic prints such as cabinet cards. Record measurements according to the general rules (see 6.24.SOMETHING.SOMETHING), supplemented by material-specific instructions (see 6.24.SOMETHING.SOMETHING).
 
