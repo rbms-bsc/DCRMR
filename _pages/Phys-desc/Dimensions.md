@@ -425,4 +425,4 @@ For instructions on recording container dimensions when only part of an image is
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.242 — Dimensions of still image")](/DCRMR/phys-desc/Dimensions-of-still-image/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.235 — Details of color content")](/DCRMR/phys-desc/Details-of-color-content/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.245 — Note on dimensions of manifestation")](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/)

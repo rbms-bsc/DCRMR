@@ -92,4 +92,4 @@ sidebar:
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.242 — Dimensions of still image")](/DCRMR/phys-desc/Dimensions-of-still-image/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.25 — Base material")](/DCRMR/phys-desc/Base-material/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "6.24 — Dimensions")](/DCRMR/phys-desc/Dimensions/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "6.25 — Base material")](/DCRMR/phys-desc/Base-material/)
