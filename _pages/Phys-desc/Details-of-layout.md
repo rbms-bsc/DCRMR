@@ -58,7 +58,7 @@ sidebar:
 <a name="6.285.6.2.Y.Y">6.285.6.2.Y.Y</a> Make a note on the orientation of multiple unit images if considered important.
 
 >**Example:**  
->Dimensions: <CITE>heets 16 x 27 cm</CITE>  
+>Dimensions: <CITE>sheets 16 x 27 cm</CITE>  
 >Details of layout: <CITE>Mostly horizontal orientation</CITE>  
 >>**(*Ingest comment*: example needs review)**
 

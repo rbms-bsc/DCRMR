@@ -81,7 +81,7 @@ For incunabula, make a note on color printing in textual matter if present (see 
 
 ### 6.23.63.Y.Y Original color in still images
 
-<a name="6.23.63.1.Y.Y">6.23.63.1.Y.Y</a> Record color that is applied as part of the original production, if considered important. See 6.23.SOMETHING.SOMETHING 32.X.X for "hand coloring", i.e., color applied in a separate production stage by brush, stencil, or other method.
+<a name="6.23.63.1.Y.Y">6.23.63.1.Y.Y</a> Record color that is applied as part of the original production, if considered important. See 6.23.SOMETHING.SOMETHING for "hand coloring", i.e., color applied in a separate production stage by brush, stencil, or other method.
 
 <a name="6.23.63.2.Y.Y">6.23.63.2.Y.Y</a> For color prints where each color is printed from a separate surface, record the color content as "color". Record the number (i.e., the number of plates, stones, or blocks combined to make the finished print) and the names of the colors as [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see 6.235.SOMETHING.SOMETHING), if considered important.
 

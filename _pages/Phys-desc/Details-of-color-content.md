@@ -32,7 +32,7 @@ sidebar:
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
-<CITE>Banner printed with white and yellow ink on blue silk, with yellow fringe at bottom</CITE>  
+><CITE>Banner printed with white and yellow ink on blue silk, with yellow fringe at bottom</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
 ## 6.235.31 Details of printed color
@@ -53,7 +53,7 @@ For incunabula, always record color printing of textual matter if present (see [
 ><CITE>Printed in red and black</CITE>  
 >>(*Comment*: The manifestation is an incunable)
 
-<a name="6.235.31.3.Y.Y">6.235.31.3.Y.Y</a> For color prints  where each color is printed from a separate surface (see 6.23.SOMETHING.SOMETHING), make a note on the number (i.e., the number of plates, stones, or blocks combined to make the finished print )and the names of the colors, if considered important. 
+<a name="6.235.31.3.Y.Y">6.235.31.3.Y.Y</a> For color prints  where each color is printed from a separate surface (see 6.23.SOMETHING.SOMETHING), make a note on the number (i.e., the number of plates, stones, or blocks combined to make the finished print) and the names of the colors, if considered important. 
 
 ## 6.235.33 Details of hand coloring
 

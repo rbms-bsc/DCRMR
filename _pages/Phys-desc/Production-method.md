@@ -37,10 +37,6 @@ sidebar:
 >Source code of term: <CITE>aat</CITE>  
 >>(*Comment*: Example includes the MARC source code of term for clarity)
 
-<a name="6.27.3.23.Y.Y">6.27.3.23.Y.Y</a> When multiple techniques or processes are known to have been employed in a single graphic item or each item of a multipart resource but are fully or partially unidentified, or too numerous to list, use the terms "multiple processes".
-
-<a name="6.27.3.25.Y.Y">6.27.3.25.Y.Y</a> *Optionally*, in addition to "multiple processes" multiple processes, record the materials that can be readily identified as [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) (see 6.275.SOMETHING.SOMETHING). 
-
 <a name="6.27.3.3">6.27.3.3</a> When multiple techniques or processes are identified in a manifestation, record as many terms as appropriate, with the predominant one, if any, first.
 
 >**Example:**  
@@ -48,9 +44,13 @@ sidebar:
 ><CITE>etching</CITE>  
 >>(*Comment*: Print done in aquatint with some etching)
 
+<a name="6.27.3.33.Y.Y">6.27.3.33.Y.Y</a> When multiple techniques or processes are known to have been employed in a single graphic item or each item of a multiple unit resource but are fully or partially unidentified, or too numerous to list, use the terms "multiple processes".
+
+<a name="6.27.3.35.Y.Y">6.27.3.35.Y.Y</a> *Optionally*, in addition to "multiple processes", record the materials that can be readily identified as [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) (see 6.275.SOMETHING.SOMETHING). 
+
 <a name="6.27.3.4">6.27.3.4</a> Make a note recording more detailed descriptions of the processes or techniques used to produce a manifestation in [Details of production method](/DCRMR/phys-desc/Details-of-production-method/) if considered important (see [6.275.3.1](/DCRMR/phys-desc/Details-of-production-method/#6.275.3.1)).
 
-<a name="6.27.3.5.Y.Y">6.27.3.5.Y.Y</a> **Photographic or photomechanical processes**. If considered important, give the trade name, photographic or photomechanical process, or other technical specification.  Prefer a term from a controlled vocabulary such as [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}).
+<a name="6.27.3.5.Y.Y">6.27.3.5.Y.Y</a> **Photographic or photomechanical processes**. If considered important, give the trade name, photographic or photomechanical process, or other technical specification.  Prefer a term from a controlled vocabulary such as [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}.
 
 >**Example:**  
 ><CITE>calotype</CITE>   

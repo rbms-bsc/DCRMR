@@ -476,6 +476,7 @@ If none of the terms  above are appropriate, use:
 
 >**Example:**  
 ><CITE>1 print</CITE>  
+>>(*Comment*: A photomechanical print of an image originally recorded photographically)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="6.21.63.5.Y.Y">6.21.63.5.Y.Y</a> **Other photomechanical prints**. If a drawn, painted, computer-generated, or other non-photographic image has been printed photomechanically (halftone, photogravure, etc.), describe it as a *print*. Record the medium or process of production in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
@@ -493,14 +494,14 @@ If none of the terms  above are appropriate, use:
 <a name="6.21.64.1.Y.Y">6.21.64.1.Y.Y</a> When describing a multiple-unit manifestation containing more than one type of resource, record the number of component parts for each type. 
 
 >**Example:**  
-<CITE>7 photographs and 1 print</CITE>  
+><CITE>7 photographs and 1 print</CITE>  
 >>(*Comment*: Publicity material for a film with seven movie stills and one sheet of potential newspaper advertisements)  
 >>**(*Ingest comment*: example needs review)**
 
 **Alternative rule**. Record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
 
 >**Example:**  
-<CITE>7 pictures</CITE>  
+><CITE>7 pictures</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
 ### 6.21.65.Y.Y Containers and physical carriers for multiple unit manifestations
