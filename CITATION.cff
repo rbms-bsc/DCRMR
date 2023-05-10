@@ -4,10 +4,11 @@
 cff-version: 1.2.0
 message: “To reference all of the versions of Descriptive Cataloging of Rare Materials (RDA Edition), please cite it as below.  To cite a specific version of DCRMR, please cite the DOI for the particular GitHub release.  Please see https://help.zenodo.org/ to learn more about Zenodo DOIs.”
 title: "Descriptive Cataloging of Rare Materials (RDA Edition)"
-editors:
-  - name: "RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries"
-    email: dcrm.rda@gmail.com
-    affiliation: American Library Association
+authors:
+      - family-names: "RBMS RDA Editorial Group, Bibliographic Standards Committee" 
+      - given-names: "Rare Books and Manuscripts Section, Association of College and Research Libraries" 
+      - email: dcrm.rda@gmail.com
+      - affiliation: American Library Association
 identifiers:
   - description: The concept DOI for the collection containing all versions of DCRMR.
     type: doi
