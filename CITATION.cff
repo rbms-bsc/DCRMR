@@ -41,7 +41,5 @@ references:
   - type: edited-work
         title: "Descriptive Cataloging of Rare Materials (RDA Edition)"
         authors:
-		    - name: "RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries" 
-    
-	
+		  - name: "RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries" 
 license: CC-BY-NC-SA-4.0
