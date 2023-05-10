@@ -1,0 +1,47 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+message: “To reference all of the versions of Descriptive Cataloging of Rare Materials (RDA Edition), please cite it as below.  To cite a specific version of DCRMR, please cite the DOI for the particular GitHub release.  Please see https://help.zenodo.org/ to learn more about Zenodo DOIs.”
+title: "Descriptive Cataloging of Rare Materials (RDA Edition)"
+editors:
+  - name: "RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries"
+    email: dcrm.rda@gmail.com
+    affiliation: American Library Association
+identifiers:
+  - description: The concept DOI for the collection containing all versions of DCRMR.
+    type: doi
+    value: "10.5281/zenodo.7921076"
+repository-code: "https://github.com/rbms-bsc/DCRMR"
+url: "https://bsc.rbms.info/"
+abstract: >-
+  DCRMR is one of several manuals providing specialized
+  cataloging rules for various formats of rare materials
+  typically found in rare book, manuscript, and special
+  collections repositories. Together, these manuals form
+  Descriptive Cataloging of Rare Materials (DCRM), an
+  overarching concept rather than a publication in its own
+  right. DCRMR is aligned with the RDA element set. When completed,
+  DCRMR will be an integrated and consolidated manual, which
+  will include instructions for rare materials in multiple
+  formats (e.g., music, serials). 
+keywords:
+  - rare materials cataloging
+  - special collections cataloging
+  - rare materials metadata
+  - special collections metadata
+  - resource description
+  - Resource Description and Access
+  - Open access standards
+  - metadata
+  - cataloging
+  - RDA
+
+references:
+  - type: edited-work
+	title: "Descriptive Cataloging of Rare Materials (RDA Edition)"
+	authors:
+		- name: "RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries" 
+    
+	
+license: CC-BY-NC-SA-4.0
