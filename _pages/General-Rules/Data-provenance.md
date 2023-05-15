@@ -112,10 +112,10 @@ Make a note indicating the source chosen as the preferred source of information 
 
 | Elements                                               | Sources of Information |
 | ---------------------------                            | ---------------------- |
-| Title                                                  | Title page, whole sheet for single-sheet manifestations |
-| Statement of responsibility                            | Title page, whole sheet for single-sheet manifestations |
-| Edition                                                | Title page, other preliminaries, colophon, dust jacket, whole sheet for single-sheet manifestations |
-| Production, publication, distribution, manufacture | Title page, other preliminaries, colophon, dust jacket, whole sheet for single-sheet manifestations |
+| Title                                                  | Title page; whole sheet for single-sheet manifestations |
+| Statement of responsibility                            | Title page; whole sheet for single-sheet manifestations |
+| Edition                                                | Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations |
+| Production, publication, distribution, manufacture | Title page, other preliminaries, colophon, dust jacket; whole sheet for single-sheet manifestations |
 | Physical description                                   | The whole manifestation |
 | Series                                                 | Series title page, monograph title page, cover, dust jacket, rest of manifestation |
 | Notes                                                  | Any source |
