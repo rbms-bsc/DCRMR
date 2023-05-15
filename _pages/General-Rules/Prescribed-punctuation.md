@@ -31,7 +31,9 @@ The PCC has issued [guidelines for minimally punctuated records](https://www.loc
 
 <a name="0.2.1.1">0.2.1.1</a> Precede the title of a supplement or section by a period. Precede each parallel title by an equals sign. Precede each unit of other title information by a colon.
 
-<a name="0.2.1.2">0.2.1.2</a> For manifestations with no collective title, separate the titles by a space-semicolon-space if the works are all by the same entity, even if the titles are linked by a connecting word or phrase. If the individual works are by different entities or the authorship is in doubt, precede each title other than the first by a period and one space, unless a linking word or phrase is already present. Precede each statement of responsibility by a space-slash-space.
+*Still image exception*: Titles for still images resources will often not lend themselves easily to prescribed punctuation. In case of doubt, treat the entire statement as the [Title proper](/DCRMR/title/Title-proper/).
+
+<a name="0.2.1.2">0.2.1.2</a> For manifestations with no collective title, separate the titles by a space-semicolon-space if the works are all by the same entity, even if the titles are linked by a connecting word or phrase. If the individual works are by different entities or the attribution of all to the same entity is in doubt, precede each title other than the first by a period and one space, unless a linking word or phrase is already present. Precede each statement of responsibility by a space-slash-space.
 
 ## 0.2.2 Statement of responsibility
 

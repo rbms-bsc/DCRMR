@@ -39,13 +39,13 @@ Chapter 8: Series
 
 <a name="0.4.05.1">0.4.05.1</a> DCRMR follows the option in [RDA Toolkit: Transcription Guidelines](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-ad9f832e-c5c5-31f0-b928-2e860f8e4937){:target="_blank"} to provide its own transcription standard. Transcribe information in the form and order in which it is presented in the resource, according to these general rules, unless specifically instructed otherwise. Do not use the mark of omission to indicate transposition (see [Order and transposition](/DCRMR/general-rules/Transcription/#0494-order-and-transposition)).
 
-Generally normalize punctuation and capitalization based on current conventions, with an optional exception in punctuation (see [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
+Generally normalize punctuation and capitalization based on a language's current conventions, with an optional exception in punctuation (see [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)). Optionally, retain original capitalization and punctuation following [RDA Toolkit: RDA Guidelines on basic transcription](https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-fd2213e6-ae72-3e6f-8f0a-be3fc0e8d728){:target="_blank"} and consistently apply it throughout the resource description.
 
 ## 0.4.1 Letters, diacritical marks, ligatures, symbols, and rebuses
 
 ### 0.4.12 Letters and diacritical marks
 
-<a name="0.4.12.1">0.4.12.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [Early letterforms and symbols, 0.4.15.1](/DCRMR/general-rules/Transcription/#0.4.15.1)).
+<a name="0.4.12.1">0.4.12.1</a> In general, transcribe letters and diacritical marks as they appear. Do not add accents and other diacritical marks not present in the manifestation. Convert earlier forms of letters and diacritical marks to their modern form (see [Early letterforms and symbols, 0.4.15.1](/DCRMR/general-rules/Transcription/#0.4.15.1)). If there is any doubt as to the correct conversion of letters and diacritical marks to modern form, transcribe them from the source as exactly as possible.
 
 ### 0.4.13 Ligatures
 
@@ -53,7 +53,7 @@ Generally normalize punctuation and capitalization based on current conventions,
 
 ### 0.4.14 Symbols, etc.
 
-<a name="0.4.14.1">0.4.14.1</a> Replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if considered important.
+<a name="0.4.14.1">0.4.14.1</a> Except for rebuses, replace symbols or other matter that cannot be reproduced using available typographical facilities with a cataloger's description in square brackets. Make a note if considered important.
 
 For additional guidance on recording symbols, see the [LC-PCC PS for 1.7.5](http://access.rdatoolkit.org/document.php?id=lcpschp1&target=lcps1-746#lcps1-746){:target="_blank"}. However, do not follow Exception 1 in LC-PCC PS 1.7.5.4 regarding the transcription of birth and death symbols. Insert the symbol if it can be reproduced. Otherwise, describe the character in square brackets. 
 
@@ -126,9 +126,7 @@ Make an explanatory note.
 
 ### 0.4.21 General rule
 
-<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines in [RDA Toolkit: Guidelines on normalized transcription – Capitalization](	https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b){:target="_blank"} and [RDA Toolkit: Terms in specific languages](	https://access.rdatoolkit.org/Resource/Index?externalId=en-US_topic_pck_2qt_wlb){:target="_blank"}, with the following exceptions. 
-
-For guidelines converting I or V to lowercase, or i, j, u, or v to uppercase, see [Letterforms I, V, i, j, u, and v (0.4.23.1)](/DCRMR/general-rules/Transcription/#0.4.23.1).
+<a name="0.4.21.1">0.4.21.1</a> Convert letters to uppercase or lowercase according to the guidelines in [RDA Toolkit: Guidelines on normalized transcription – Capitalization](	https://access.rdatoolkit.org/Guidance/Index?externalId=en-US_ala-914685cb-0fa2-394d-a0a2-16e537eb586a#division_rdaId_div_thy_dfs_b2b){:target="_blank"} and [RDA Toolkit: Terms in specific languages](	https://access.rdatoolkit.org/Resource/Index?externalId=en-US_topic_pck_2qt_wlb){:target="_blank"}, but see special guidelines for Roman numerals ([0.4.22](/DCRMR/general-rules/Transcription/#0422-roman-numerals)) and Letterforms I, V, i, j, u, and v ([0.4.23](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v)). 
 
 ### 0.4.22 Roman numerals
 
@@ -140,7 +138,7 @@ See also [Chronograms (0.4.25.1)](/DCRMR/general-rules/Transcription/#0.4.25.1) 
 
 <a name="0.4.23.1">0.4.23.1</a> If the rules for capitalization require converting I or V to lowercase, or i, j, u, or v to uppercase, follow the pattern of usage in the text to determine which letterform to use in the transcription. 
 
-Establish the pattern of usage by examining text in the same typeface or writing style (i.e., roman, italic, or gothic) in the resource being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface. 
+Establish the pattern of usage by examining text in the same typeface or writing style (i.e., roman, italic, or gothic) in the resource being described. Look for letters expressed in the opposite case from the letterforms to be converted, but having the same function (vowel or consonant) and same relative position (appearing in initial, medial, or final positions) as the letterforms to be converted. Begin by examining the remainder of the title page and then, if necessary, proceed to examine the body of the text in other parts of the resource in the same typeface or writing style. 
 
 >**Example:**  
 >Title proper: <CITE>Les oeuures morales de Plutarque</CITE>  
@@ -248,7 +246,7 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 ><CITE>London: : Printed for A. Millar, over-against Catharine-Street in the Strand., M,DCC,LI. [1751]</CITE>
 
 <a name="0.4.31.5">0.4.31.5</a> **Punctuation integral to words and compound words**. Generally transcribe integral punctuation as it appears on the source (e.g., night-club, printers'). Do not add or omit punctuation integral to the spelling of words and compound words. Apply the following sub-instructions, as appropriate:
-* [Apostrophes](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
+* [Apostrophes and quotation marks](/DCRMR/general-rules/Transcription/#0432-apostrophes) (see [0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1))
 * [Hyphens](/DCRMR/general-rules/Transcription/#0433-hyphens) (see [0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1))
 * [Punctuation within roman numerals](/DCRMR/general-rules/Transcription/#0434-punctuation-within-roman-numerals) (see [0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1))
 * [Punctuation substituting for letters](/DCRMR/general-rules/Transcription/#0438-punctuation-substituting-for-letters) (see [0.4.38.1](/DCRMR/general-rules/Transcription/#0.4.38.1))
@@ -285,7 +283,9 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 <a name="0.4.34.1">0.4.34.1</a> Retain internal marks of punctuation appearing within roman numerals. However, omit internal spaces (see [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).
 
 >**Example:**  
-><CITE>M.DCC.LXXXIV</CITE>
+><CITE>M.DCC.LXXXIV</CITE>  
+>>(*Source of information reads*: M. DCC. LXXXIV.)  
+>>**(*Ingest comment*: Example needs review)**
 
 ### 0.4.35 Ellipses
 
@@ -344,6 +344,11 @@ Do not supply marks of punctuation to indicate line breaks.
 ><CITE>Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty</CITE>  
 >>(*Source of information reads*: Sec&#8208;&#8208;t&#8208;&#8208;&#8208;&#8208;s of st&#8208;&#8208;te, the L&#8208;&#8208;&#8208;&#8208;ds of the Ad&#8208;&#8208;&#8208;&#8208;&#8208;&#8208;ty)
 
+>**Example:**  
+><CITE>R&#8208;l advice</CITE>  
+>>(*Source of information reads*: R_L ADVICE)  
+>>**(*Ingest comment*: example needs review)**  
+
 <a name="0.4.38.2">0.4.38.2</a> Transcribe asterisks as asterisks.
 
 >**Example:**  
@@ -375,11 +380,21 @@ Do not supply marks of punctuation to indicate line breaks.
 ><CITE>Ie. recueil nouveaux</CITE>  
 >>(*Source of information reads*: I.<sup>E</sup> Recueil Nouveaux)
 
+### 0.4.39.Y.Y Speech balloons
+
+<a name="0.4.39.1.Y.Y">0.4.39.1.Y.Y</a> Use quotation marks to represent speech balloons.
+
+>**Example:**  
+><CITE>Betty Boop. "Yes, sir, everything’s ho-kee-doke, Betty’s voice is normal again!"</CITE>  
+>>(*Comment*: Quoted text is inside a speech balloon in a comic strip)  
+>>**(*Ingest comment*: example needs review)**
+
+
 ## 0.4.4 Spacing
 
 ### 0.4.42 Spacing within words and numbers
 
-<a name="0.4.42.1">0.4.42.1</a> In general, follow modern spacing conventions when transcribing from the source. Make no attempt to preserve full or irregular spaces between letters within words. 
+<a name="0.4.42.1">0.4.42.1</a> In general, follow modern spacing conventions when transcribing from earlier sources. Make no attempt to preserve full or irregular spaces between letters within words. 
 
 >**Example:**  
 ><CITE>Graecae grammatices</CITE>  
@@ -421,12 +436,15 @@ ET ITALIAE)
 <a name="0.4.43.1">0.4.43.1</a> If spacing between words in the source is ambiguous or lacking, include spaces in the transcription to separate the words as needed.
 
 >**Example:**  
-><CITE>Founding fathers folly day</CITE>  
->>(*Source of information reads*: Foundingfathersfollyday)
-
->**Example:**  
 ><CITE>La morte d'Orfeo</CITE>  
 >>(*Source of information reads*: LAMORTE D'ORFEO)
+
+*Exception*: If the unusual spacing is intentional, do not insert or remove spaces in the transcription.
+
+>**Example:**  
+><CITE>Foundingfathersfollyday</CITE>  
+>>(*Source of information reads*: FOUNDINGFATHERSFOLLYDAY)  
+>>(*Comment*: Cartoon published in 1954; spacing is intentional)  
 
 <a name="0.4.43.2">0.4.43.2</a> If the missing spaces occur in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title as it appears in the source, without the spaces (see [1.25.353.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.353.1)).
 
@@ -533,7 +551,7 @@ If considered important, give the omitted text in a note.
 
 ### 0.4.61 General rule
 
-<a name="0.4.61.1">0.4.61.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with missing or obscured letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
+<a name="0.4.61.1">0.4.61.1</a> Indicate an interpolation in a transcribed element or in a quoted note by enclosing it in square brackets. If transcribing text with obscured or unintentionally missing letters or words that can be reconstructed with some certainty, include these in the transcription, enclosing them in square brackets.
 
 Make an explanatory note if considered important.
 
@@ -551,12 +569,16 @@ For guidance on expanding brevigraphs (special marks of contraction in continuan
 ><CITE>Repertorium nouu[m] cum additionibus ad omnia opera Felini Sandei Farrariensis</CITE>  
 >>(*Comment*: "Nouum" on title page spelled with symbol similar to cursive "z")
 
+>**Example:**  
+><CITE>Oz[o]ne</CITE>  
+>>(*Comment*: Poster title omits middle “o” to mimic a hole in the ozone layer)  
+>>**(*Ingest comment*: example needs review)**
 
-### 0.4.62 Conjectural and indecipherable text
+### 0.4.62 Conjectural and illegible text
 
 <a name="0.4.62.1">0.4.62.1</a> Indicate a conjectural interpolation by adding a question mark immediately after the interpolation, within the square brackets. Supply a question mark enclosed in square brackets for each indeterminable word or portion of word.
 
-Make a note to justify the interpolations, provide explanations, or offer tentative readings of indecipherable portions of text if considered important.
+Make a note to justify the interpolations, provide explanations, or offer tentative readings if considered important.
 
 >**Example:**  
 ><CITE>Amico[rum?]</CITE>  
@@ -569,6 +591,8 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >**Example:**  
 >Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
 >Note on title: <CITE>Last word of the title is illegible; the conjecture is based on image content</CITE>
+
+*Exception*: If the entire title is illegible, supply or devise a title according to the instructions at [1.21.34](/DCRMR/title/Title-proper/#12134-no-title).
 
 ### 0.4.63 Lacunae in imperfect copies 
 
@@ -585,7 +609,7 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 
 ### 0.4.64 Blank spaces intended for completion
 
-<a name="0.4.64.1">0.4.64.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, supply the word “blank” enclosed in square brackets. Make an explanatory note.
+<a name="0.4.64.1">0.4.64.1</a> If transcribing text containing a blank space intended to be completed after the resource is issued, as is common in certificates, pictorial letter sheets, performance advertisements, etc., supply the word “blank” enclosed in square brackets. Make an explanatory note.
 
 <a name="0.4.64.2">0.4.64.2</a> If the blank has been completed in the item being described, indicate this in a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.35.1](/DCRMR/additional-notes/Note-on-item/#9.4.35.1)).
 
@@ -609,17 +633,17 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 
 <a name="0.4.65.2">0.4.65.2</a> If a guide letter has been printed, transcribe it without square brackets. In case of doubt about whether a printed guide letter is present, transcribe the letter without square brackets and make a [Note on title](/DCRMR/title/Note-on-title/) indicating uncertainty.
 
+<a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
+
 >**Example:**  
 >Title proper: <CITE>Historiarum libri XXXV</CITE>  
 >Note on item: <CITE>Library’s copy: Printed guide letter “H” at beginning of title not executed in manuscript</CITE>
-
-<a name="0.4.65.3">0.4.65.3</a> Make a [Note on item](/DCRMR/additional-notes/Note-on-item/) to indicate the presence or absence of manuscript execution in the copy if considered important (see [9.4.35.2](/DCRMR/additional-notes/Note-on-item/#9.4.35.2)).
 				
 ## 0.4.7 Inaccuracies, misprints, etc.
 
 ### 0.4.72 Misprints and unintentional inaccuracies
 
-<a name="0.4.72.1">0.4.72.1</a> Transcribe misprints or unintentional misspellings as they appear on the source. Follow such an inaccuracy either by “sic” or by “that is,” and the correction, all enclosed within square brackets.
+<a name="0.4.72.1">0.4.72.1</a> Transcribe unintentional inaccuracies, misspellings, or misprints as they appear on the source. Follow such an inaccuracy either by “sic” or by “that is,” and the correction, all enclosed within square brackets.
 
 >**Example:**  
 ><CITE>Of the knowledeg [sic] whiche maketh a wise man</CITE>
@@ -633,11 +657,16 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 >**Example:**  
 ><CITE>The notted [that is, noted] history of Mother Grim</CITE>
 
+>**Example:**  
+>Title proper: <CITE>Royal Palace, Warsaw [that is, Kremlin Palace, Moscow]</CITE>  
+>Note on title: <CITE>Text on glass plate negative incorrectly identifies the building</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
 <a name="0.4.72.2">0.4.72.2</a> If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record [Variant titles of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title without the interpolation and for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
-<a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (“françoise” for “française,” or “antient” for “ancient”).  *Optionally*, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
+<a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (e.g., "françoise" for "française", or "antient" for "ancient").  *Optionally*, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
-<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
+<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint, unintentional inaccuracy, or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
 
 If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
@@ -651,9 +680,9 @@ If the misprint or misspelling occurs in the first five words of the [Title prop
 
 If considered important, record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) (see [1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
-### 0.4.74 Turned and approximated letters
+### 0.4.74 Reversed, turned, and approximated letters
 
-<a name="0.4.74.1">0.4.74.1</a> Transcribe a turned character, whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important.
+<a name="0.4.74.1">0.4.74.1</a> Transcribe a reversed or turned character (i.e., an upside-down letter), whether inadvertent or deliberate, as the intended character. Make an explanatory note if considered important.
 
 >**Example:**  
 >Other title information: <CITE>sent express to the Queen</CITE>  
@@ -729,7 +758,7 @@ See the instructions for specific types of dates as follows:
 
 ## 0.4.9 Intra- and inter-element rules
 
-### 0.4.92 Grammatical inseparability
+### 0.4.92 Grammatically or visually inseparable text
 
 <a name="0.4.92.1">0.4.92.1</a> Do not omit or transpose grammatically inseparable text, regardless of whether it contains information belonging to other data elements. Consider text to be grammatically inseparable if it is connected by a case ending, or its transposition or omission would disturb the grammatical construction of information.
 
@@ -738,6 +767,20 @@ See the instructions for specific types of dates as follows:
 
 >**Example:**  
 ><CITE>Brown's industrial gazetteer and hand-book of the Atchison, Topeka & Santa Fe R.R.</CITE>
+
+<a name="0.4.92.2.Y.Y">0.4.92.2.Y.Y</a> **Still images**. Also consider layout, color, size, and other graphic factors to determine whether text is visually inseparable.
+
+>**Example:**  
+><CITE>Portrait of an Irish chief, drawn from life at Wexford</CITE>  
+>>(*Comment*: Size and location of lettering on material visually indicate that “drawn from life at Wexford” is part of a satiric title and not a statement of responsibility relating to title proper)  
+>>**(*Ingest comment*: example needs review)**
+
+>**Example:**  
+>Statement of responsibility relating to title proper: <CITE>Drawn, engraved, & published by W. Birch, Springland, near Britstol Pennsyvlania, 1800</CITE>  
+>Publication statement: <CITE>[Springland, Pennsylvania] : [William Russell Birch], [1800]</CITE>  
+>>(*Comment*: Although "Springland, near Britstol Pennsyvlania, 1800" is gramatically separable from the rest of the phrase, the phrase as a whole is clearly intended to be read together as a statement of responsibility)  
+>>**(*Ingest comment*: example needs review)**
+
 
 ### 0.4.94 Order and transposition
 
@@ -760,7 +803,7 @@ See the instructions for specific types of dates as follows:
 	* Statement of responsibility relating to series
 	* Numbering within sequence
 
-DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements.
+In most cases, DCRMR calls for information to be transposed to conform to the order above; for example, a statement of responsibility that precedes the title proper on the title page is considered to be transposed when recorded in the [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) element. To facilitate understanding of the presentation of transcribed information as it appears on the resource, DCRMR calls for a note indicating the original position of any transposed elements. However, noting the position of transposed elements is not required for certain formats, such as still image resources, in which information often does not appear in a standardized order. Format-specific exceptions for indicating transposition are specified in the DCRMR text.
 
 DCRMR is an element-based, display- and encoding-neutral descriptive standard and acknowledges that different displays may present elements in different order. However, the use of ISBD order as an organizing principle for transcription allows users to distinguish between different manifestations of expressions and works ([Principle of DCRMR construction i.01.321.1](/DCRMR/introduction/#i.01.321.1)) and allows catalogers to accurately represent the resource as it describes itself ([Principle of DCRMR construction i.01.322.1](/DCRMR/introduction/#i.01.322.1)).
 
@@ -768,13 +811,13 @@ The following general rules about order and transposition apply. See also [Gramm
 
 <a name="0.4.94.1">0.4.94.1</a> Follow the conventions appropriate to the script of the material when determining the order in which to transcribe information. For materials in Latin script, this will generally mean proceeding from left to right and from top to bottom when transcribing information. 
 
-<a name="0.4.94.2">0.4.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: case endings would be affected, the grammatical construction of the information would be disturbed,  the text is otherwise grammatically inseparable from its surrounding elements, or the data element instructions specify otherwise.
+<a name="0.4.94.2">0.4.94.2</a> If information appears in the source in a different order than that specified by ISBD presentation, transpose the information to its appropriate data element unless: case endings would be affected, the grammatical construction of the information would be disturbed,  the text is otherwise grammatically or visually inseparable from its surrounding elements, or the data element instructions specify otherwise.
 
 <a name="0.4.94.3">0.4.94.3</a> Similarly, if the order of information in the source would result in a transcription that is confusing, awkward, or nonsensical, transpose the information as needed into the data element that makes the most sense. This will typically apply when particular elements of text have been distinguished in the source by their size, typography, or style of letterforms in order to imply an obvious natural reading order. 
 
 <a name="0.4.94.4">0.4.94.4</a> Do not use the mark of omission to indicate transposition. 
 
-<a name="0.4.94.5">0.4.94.5</a> Make a note to indicate the order in which the transposed information appears in the source.
+<a name="0.4.94.5">0.4.94.5</a> Make a note to indicate the order in which the transposed information appears in the source, unless the data element instructions specify otherwise.
 
 >**Example:**  
 ><CITE>Of the nature of things : in six books : illustrated with proper and useful notes / T. Lucretius Carus ; adorned with copper-plates, curiously engraved by Guernier and others ; in two volumes</CITE>  

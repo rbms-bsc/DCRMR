@@ -44,8 +44,14 @@ For additional guidance on transcribing characters that cannot be reproduced usi
 
 >**Example:**  
 >Source: <CITE>Hendecasyllabωn</CITE>  
->Transcription: <CITE><CITE>Hendecasyllabōn</CITE>  
+>Transcription: <CITE>Hendecasyllabōn</CITE>  
 >Note on title: <CITE>The ō in the word "Hendecasyllabōn" is printed in Greek script</CITE>
+
+>**Example:**  
+>Source: <CITE> Родина-мать зовет!</CITE>  
+>Transcription: <CITE>Rodina-mat' zovet!</CITE>  
+>Note on title: <CITE>Title in Cyrillic script</CITE>  
+>>**(*Ingest comment*: example needs review)**
 
 <a name="0.3.2.2">0.3.2.2</a> *Optionally*, if it is feasible to transcribe from the manifestation using a nonroman script, also provide parallel elements with the romanized text using the [ALA-LC Romanization Tables](https://www.loc.gov/catdir/cpso/roman.html){:target="_blank"}. Do not enclose the romanized text within square brackets, but make a note indicating that the romanization does not appear in the preferred source of information.
 
