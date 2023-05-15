@@ -21,15 +21,21 @@ For a fuller discussion of the versioning and version numbering system, includin
 
 ## Current release
 
+### DCRMR 2022.2.1.0
+Release date: 2023-05-15  
+Architectural and code changes:  
+* Added: CITATION.cff  
+* Changed: Config.yml (new analytic property)
+
+## Release history
+
 ### DCRMR 2022.2.0.1
 Release date: 2022-11-25  
 [View DCRMR 2022.2.0.1 release details](https://github.com/rbms-bsc/DCRMR/commit/8ad625ea1a9a7c188afb31b1b8f59a3266b95baa)  
 Architectural and code changes:  
 * Added: img assets for wiki documentation; wiki asset subfolder  
 * Fixed: URLS with redirects or improper canonical tagging  
-* Changed: Changelog; New sitemap  
-
-## Release history
+* Changed: Changelog.md; New sitemap  
 
 ### DCRMR 2022.2.0.0   
 Release date: 2022-11-15  

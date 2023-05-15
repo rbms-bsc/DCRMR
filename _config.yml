@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-176080532-1
+    tracking_id          : G-G92KG2JB2P
     anonymize_ip         : true # true, false (default)
 
 
