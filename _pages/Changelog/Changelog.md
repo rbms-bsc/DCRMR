@@ -22,7 +22,7 @@ For a fuller discussion of the versioning and version numbering system, includin
 ## Current release
 
 ### DCRMR 2022.2.1.0
-Release date: 2023-05-10  
+Release date: 2023-05-15  
 Architectural and code changes:  
 * Added: CITATION.cff  
 * Changed: Config.yml (new analytic property)
