@@ -25,7 +25,7 @@ For a fuller discussion of the versioning and version numbering system, includin
 Release date: 2023-05-10  
 Architectural and code changes:  
 * Added: CITATION.cff  
-* Changed: Changelog.md; config.yml (new analytic property)
+* Changed: Config.yml (new analytic property)
 
 ## Release history
 
