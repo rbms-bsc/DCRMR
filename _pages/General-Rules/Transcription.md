@@ -283,8 +283,8 @@ If a cataloging agency applies ISBD punctuation and the option for transcribing 
 <a name="0.4.34.1">0.4.34.1</a> Retain internal marks of punctuation appearing within roman numerals. However, omit internal spaces (see [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)).
 
 >**Example:**  
-><CITE>M.DCC.LXXXIV</CITE>  
->>(*Source of information reads*: M. DCC. LXXXIV.)  
+><CITE>M.DCC.LXXX</CITE>  
+>>(*Source of information reads*: M. DCC. LXXX.)  
 >>**(*Ingest comment*: Example needs review)**
 
 ### 0.4.35 Ellipses
