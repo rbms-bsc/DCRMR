@@ -19,6 +19,8 @@ authors:
       Rare Books and Manuscripts Section, Association of
       College and Research Libraries
   - email: dcrm.rda@gmail.com
+creators:
+  - name: RBMS RDA Editorial Group, Bibliographic Standards Committee, Rare Books and Manuscripts Section, Association of College and Research Libraries
 identifiers:
   - type: doi
     value: 10.5281/zenodo.7921076
