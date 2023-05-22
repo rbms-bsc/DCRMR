@@ -25,7 +25,7 @@ Series-like statements present on covers not issued by the publisher usually rep
 
 <a name="8.01.1.4">8.01.1.4</a> If any of the original details relating to the series statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished out, scored through), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see 8.29.SOMETHING.SOMETHING).
 
-<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the manifestation was issued as part of a publisher’s series or a multiple unit, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
+<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the manifestation was issued as part of a publisher’s series or as a multiple unit resource, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
 
 >**Example:**   
 ><CITE>Part of a set known as The four seasons</CITE>  
