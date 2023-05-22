@@ -9,17 +9,27 @@ sidebar:
 
 ## 8.01.1 Sources of information 
 
-<a name="8.01.1.1">8.01.1.1</a> The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). For multipart monographs, prefer a source in the first volume. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
+<a name="8.01.1.04.Y.Y">8.01.1.04.Y.Y</a> **Printed text resources**. The sources of information for series elements are the series title page, monograph title page, cover (if issued by the publisher), dust jacket, and the rest of the manifestation, in that order of preference (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). For multipart monographs, prefer a source in the first volume. The preferred source of information for single-sheet manifestations is the whole sheet, including both sides. If the manifestation has both main series and subseries titles, prefer a source containing both titles. 
+
+<a name="8.01.1.06.Y.Y">8.01.1.06.Y.Y</a> **Still image resources**. For still images issued without a title page, title sheet, or title card (that is, the majority of still images), the preferred source of information is text provided by the creator or issuing body anywhere on or with the manifestation (see Data provenance, 0.1.SOMETHING.SOMETHING). For still image resources with a title page, the preferred source of information is the title page, and catalogers should follow the instructions for non-single-sheet printed text resources (see [Data provenance, 0.1.5](/DCRMR/general-rules/Data-provenance/#015-sources-of-information)). If the manifestation has both series and subseries titles, prefer a source containing both titles. 
 
 Series-like statements present on covers not issued by the publisher usually represent binders’ titles and should be treated as item-level information if considered important (see [Title of item, 1.27.31.1](/DCRMR/title/Title-of-item/#1.27.31.1)).
 
-<a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the series title page, always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
+<a name="8.01.1.2">8.01.1.2</a> If the [Series statement](/DCRMR/series/Series-statement/), or any of its elements, is taken from a source other than the preferred source, always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
 
-<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the monograph title page, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). Transcribe the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/) if the two differ. 
+<a name="8.01.1.25.Y.Y">8.01.1.25.Y.Y</a> **Still image resources**. Always make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the source of information for the [Series statement](/DCRMR/series/Series-statement/) (see [8.29.3.23.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.23.Y.Y)).
 
-<a name="8.01.1.4">8.01.1.4</a> If the [Series statement](/DCRMR/series/Series-statement/) appears as a stamp or on a label, transcribe it as found and make a [Note on series statement](/DCRMR/series/Note-on-series-statement/) to indicate the presence of the stamp or label (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)).
+<a name="8.01.1.3">8.01.1.3</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the preferred source of information, indicate this in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.25.Y.Y](/DCRMR/series/Note-on-series-statement/#8.29.3.25.Y.Y)). Transcribe the text of the latter statement as a second [Series statement](/DCRMR/series/Series-statement/) if the two differ. 
 
-<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the book was issued as part of a publisher’s series, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
+<a name="8.01.1.35.Y.Y">8.01.1.35.Y.Y</a> Make a note about series information not transcribed in the [Series statement](/DCRMR/series/Series-statement/) if considered important (see [Note on series statement, 8.29.3.3](/DCRMR/series/Note-on-series-statement/#8.29.3.3)). 
+
+<a name="8.01.1.4">8.01.1.4</a> If any of the original details relating to the series statement are covered by a label, stamp, overprint, or other means showing later information (e.g., burnished out, scored through), transcribe the later information. If the original details are visible or otherwise available, always transcribe or give them in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) (see 8.29.SOMETHING.SOMETHING).
+
+<a name="8.01.1.5">8.01.1.5</a> If a [Series statement](/DCRMR/series/Series-statement/) is not present in the manifestation, but bibliographic or reference sources provide evidence that the manifestation was issued as part of a publisher’s series or a multiple unit, do not supply a [Series statement](/DCRMR/series/Series-statement/). Rather, provide the series information in a [Note on series statement](/DCRMR/series/Note-on-series-statement/) if considered important (see [8.29.3.2](/DCRMR/series/Note-on-series-statement/#8.29.3.2)). 
+
+>**Example:**   
+><CITE>Part of a set known as The four seasons</CITE>  
+>>**(*Ingest comment*: example needs review)**
 
 ## 8.01.2 Element order
 

@@ -27,7 +27,7 @@ sidebar:
 
 <a name="8.29.3.1">8.29.3.1</a> Make a Note on series statement according to the instructions below. In most cases, notes are optional (designated by "if considered important"). Some notes are required (designated by "always").
 
-<a name="8.29.3.2">8.29.3.2</a> Always note the source of any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the [Series statement](/DCRMR/series/Series-statement/), note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
+<a name="8.29.3.2">8.29.3.2</a> Always note the source of information for any element of the [Series statement](/DCRMR/series/Series-statement/) when it is taken from elsewhere than the series title page. If any element has been transposed in the [Series statement](/DCRMR/series/Series-statement/), note its original position in the manifestation (see [Title of series, 8.21.32.1](/DCRMR/series/Title-of-series/#8.21.32.1)).
 
 >**Example:**    
 ><CITE>Series title from head of title page; subseries title from endpapers</CITE>  
@@ -41,12 +41,27 @@ sidebar:
 >**Example:**    
 ><CITE>Series statement transposed from between title and imprint statement on title page</CITE>  
 
-<a name="8.29.3.3">8.29.3.3</a> Note any series information not transcribed in the [Series statement](/DCRMR/series/Series-statement/) if considered important.  
+<a name="8.29.3.23.Y.Y">8.29.3.23.Y.Y</a> **Still image resources**. Always note the source of information for the [Series statement](/DCRMR/series/Series-statement/) (see [Series, 8.01.1.25.Y.Y](/DCRMR/series/#8.01.1.25.Y.Y)).
 
+>**Example:**  
+><CITE>Series title from first plate in series</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Series title from artist's inventory</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Series title from artist’s website</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+<a name="8.29.3.25.Y.Y">8.29.3.25.Y.Y</a> If the [Series statement](/DCRMR/series/Series-statement/) appears on both the series title page and the preferred source of information, indicate this in a Note on series statement if considered important (see [8.01.1.3](/DCRMR/series/#8.01.1.3)).
+
+<a name="8.29.3.3">8.29.3.3</a> Note any series information not transcribed in the [Series statement](/DCRMR/series/Series-statement/) if considered important (see [8.01.1.35.Y.Y](/DCRMR/series/#8.01.1.35.Y.Y)).  
 >**Example:**    
 ><CITE>First in a series of tales from Sörmland</CITE>  
 
-<a name="8.29.3.4">8.29.3.4</a> If there is series numbering but no series title, always record any numbers or letters that imply a series in a Note on series statement (see [Numbering within sequence, 8.27.3.3](/DCRMR/series/Numbering-within-sequence/#8.27.3.3)).
+<a name="8.29.3.4">8.29.3.4</a> If there is series numbering but no series title, always record any numbers or letters that imply a series in a Note on series statement (see [Numbering within sequence, 8.27.3.3](/DCRMR/series/Numbering-within-sequence/#8.27.3.3)). When in doubt about whether the numbers or letters imply a series, record them in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see 9.3.SOMETHING.SOMETHING).
 
 <a name="8.29.3.5">8.29.3.5</a> Give information about a series in which the resource has been issued previously in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.34.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.34.2)).
 
