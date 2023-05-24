@@ -65,6 +65,11 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >**Example:**  
 ><CITE>At head of title: Convention nationale</CITE>
 
+>**Example:**  
+><CITE>"Miss Neilson", "Mrs. Tree", "Tree", and "Miss Freear" in early pencil below the respective figures</CITE>  
+>>(*Comment*: Resource exists in multiples (see 9.01.SOMETHING.SOMETHING))  
+>>**(*Ingest comment*: example needs review)**
+
 ## 9.3.32 Contents notes
 
 <a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content/).

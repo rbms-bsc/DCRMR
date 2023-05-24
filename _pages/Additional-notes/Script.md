@@ -23,6 +23,10 @@ sidebar:
 
 <a name="9.24.2.1">9.24.2.1</a> A set of characters or symbols used to express written language content of an expression.
 
+## 9.24.22.Y.Y DCRMR elaboration of scope
+
+<a name="9.24.22.1.Y.Y">9.24.22.1.Y.Y</a> Use also for the textual content of still image expressions.
+
 ## 9.24.3 General rule
 
 <a name="9.24.3.1">9.24.3.1</a> Record the script used in the expression if considered important.

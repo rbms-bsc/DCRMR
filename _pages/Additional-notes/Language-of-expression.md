@@ -23,6 +23,10 @@ sidebar:
 
 <a name="9.23.2.1">9.23.2.1</a> A language used for the content of an expression.
 
+## 9.23.22.Y.Y DCRMR elaboration of scope
+
+<a name="9.23.22.1.Y.Y">9.23.22.1.Y.Y</a> Use also for the textual content of still image expressions.
+
 ## 9.23.3 General rule
 
 <a name="9.23.3.1">9.23.3.1</a> Make a note on the language of the expression if considered important. 
