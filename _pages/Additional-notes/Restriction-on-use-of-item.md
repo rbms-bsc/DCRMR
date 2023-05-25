@@ -7,13 +7,35 @@ sidebar:
   nav: "docs"
 ---
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## 9.407.1.Y.Y  Element information
 
-The RBMS RDA Editorial Group
+<a name="9.407.1.1.Y.Y">9.407.1.1.Y.Y</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-476bd24c-fc68-347b-b14f-4c1562a76a53){:target="_blank"}
+
+<a name="9.407.1.2.Y.Y">9.407.1.2.Y.Y</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
+
+## 9.407.2.Y.Y RDA definition and scope
+
+<a name="9.407.2.1.Y.Y">9.407.2.1.Y.Y</a> A limitation placed on access to an item.
+
+## 9.407.3.Y.Y General rule 
+
+<a name="9.407.3.1.Y.Y">9.407.3.1.Y.Y</a> When access to material has been granted but its use is restricted, explain the nature and extent of the restrictions if considered important.
+
+>**Example:**  
+><CITE>Library copy: Rights Advisory: Publication restricted by copyright</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
+<a name="9.407.3.2.Y.Y">9.407.3.2.Y.Y</a> Make a note indicating that there are no restrictions on reproduction, publication, exhibition, etc., if considered important.
+
+>**Example:**  
+><CITE>Library copy: No known restrictions on publication</CITE>  
+>>**(*Ingest comment*: example needs review)**
 
 ---
 

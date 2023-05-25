@@ -72,7 +72,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 ## 9.3.32 Contents notes
 
-<a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multipart monograph, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content/).
+<a name="9.3.32.1">9.3.32.1</a> List the contents of a manifestation, either selectively or fully, if it is considered important to show the presence of material not implied by the rest of the description, to stress components of particular importance, to provide the contents of a collection or of a multiple unit resource, or to provide additional titles in a resource without a collective title. For instructions on supplementary content, see [Supplementary content](/DCRMR/additional-notes/Supplementary-content/).
 
 >**Example:**  
 ><CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
@@ -90,9 +90,9 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >**Example:**  
 > <CITE>Contents: Love and peril / the Marquis of Lorne &#8208;&#8208; To be or not to be / Mrs. Alexander &#8208;&#8208; The melancholy hussar / Thomas Hardy</CITE>
 
-## 9.3.33 Note on made-up sets of a multipart monograph
+## 9.3.33 Note on made-up sets of a multiple unit manifestation
 
-<a name="9.3.33.1">9.3.33.1</a> If a multipart monograph is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, always make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement, 3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
+<a name="9.3.33.1">9.3.33.1</a> If a multiple unit manifestation is known or assumed to be a set made up of parts from varying editions and the decision has been made to describe the set with a single description, always make a note on manifestation to indicate that the description is based on a made-up set (see [Edition statement, 3.21.37.3](/DCRMR/edition/Edition-statement/#3.21.37.3)).
 
 >**Example:**  
 >Note on manifestation: <CITE>Description based on a made-up set; v. 3 has "second edition"</CITE>  
@@ -107,12 +107,22 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >**Example:**  
 ><CITE>Originally issued in series: The socialist platform ; no. 2</CITE>
 
+<a name="9.3.34.3.Y.Y">9.3.34.3.Y.Y</a> Make a note on characteristics of the original of a copy, giving the location of the original(s), the dimensions, and other relevant information if it is readily available, if considered important.
+
+>**Example:**  
+><CITE>Original: Art Gallery of Ontario, circa 1784-1790, oil on canvas, 267.3 x 364.5 cm</CITE>  
+>>**(*Ingest comment*: example needs review)
+
 ## 9.3.35 Limitation statements
 
 <a name="9.3.35.1">9.3.35.1</a> If the resource includes a statement as to a limited number of copies of the edition, give this statement of limitation in a note, preferably in quoted form, if considered important.
 
 >**Example:**  
 ><CITE>“250 copies printed”&#8208;&#8208;preface</CITE>
+
+>**Example:**  
+><CITE>"Edition limited to 250"--printed below image, lower left</CITE>  
+>>**(*Ingest comment*: example needs review)
 
 <a name="9.3.35.2">9.3.35.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
@@ -125,7 +135,19 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >**Example:**  
 ><CITE>"Il a été-tiré de cet ouvrage: 10 exemplaires sur papier de Chine, numérotés de 1 à 10 ; 50 exemplaires sur papier du Japon numérotés de 11 à 60 ; 150 exemplaires sur papier de Hollande, numérotés de 61 à 210 ; 300 exemplaires sur papier pur fil Lafuma, numérotés de 211 à 510. L'édition originale a été tirée sur papier d'alfa"&#8208;&#8208;preliminary leaf</CITE>
 
+>**Example:**  
+><CITE>"Four sets are philanthropic gifts. The recipients are: The Shakespeare Theater of New Jersey, the Folger Shakespeare Library, Washington, D.C., the Visual Arts Center of New Jersey, and Rutgers University Library. A fifth set is framed and available for exhibit. The remaining eleven prints will stay in the private collections of the artists involved in the project. The paper is Italian C.M.Fabriano/Tiepolo. The portfolio box is anodized brushed aluminum. All materials are archival quality. The etchings were created using traditional etching techniques and hand printed by each of the artists"--Artists' statement</CITE>  
+>>**(*Ingest comment*: example needs review)**
+
 <a name="9.3.35.3">9.3.35.3</a>  If the statement of limitation includes the unique number of the item being cataloged, give only the statement of limitation as Note on manifestation. Record the copy number as a [Note on item](/DCRMR/additional-notes/Note-on-item/) if considered important (see [9.4.34.1](/DCRMR/additional-notes/Note-on-item/#9.4.34.1)). 
+
+## 9.3.355.Y.Y Note on numbers or letters not representing edition or series numbering
+
+<a name="9.3.355.1.Y.Y">9.3.355.1.Y.Y</a> Make a note on numbers or letters associated with the manifestation not transcribed in another area, if considered important.
+
+>**Example:**  
+><CITE>Prints are numbered 1-25</CITE>  
+>>**(*Ingest comment*: example needs review)**  
 
 ## 9.3.36 Note on dates not representing publication, distribution, or manufacture elements
 
@@ -140,7 +162,9 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 ## 9.3.38 Accompanying material
 
-<a name="9.3.38.1">9.3.38.1</a> Always record accompanying material (a manifestation  physically separate from and issued simultaneously (or nearly so) with another manifestation and generally intended to be used together with it) as an unstructured note, beginning with “Accompanied by” followed by a colon. See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) ([9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)) for manifestations issued on the same carrier.
+<a name="9.3.38.1">9.3.38.1</a> Always record accompanying material (a manifestation  physically separate from and issued simultaneously (or nearly so) with another manifestation and generally intended to be used together with it) as an unstructured note. See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) ([9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1)) for manifestations issued on the same carrier.
+
+*Optionally*, begin the note with "Accompanied by" followed by a colon.
 
 <a name="9.3.38.2">9.3.38.2</a> Record the location of accompanying material if considered important. For accompanying material issued in a pocket, see [9.3.38.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.1).
 
@@ -163,6 +187,14 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >**Example:**  
 ><CITE>Accompanied by: Index to cities and towns, populations, and mileage by automobile highway from Columbus Circle (B'way and 59th St.) New York City (1 sheet ; 42 x 67 cm)</CITE>
 
+>**Example:**  
+><CITE>1 pamphlet of descriptive text (18 pages ; 37 cm)</CITE>  
+>>**(*Ingest comment*: example needs review)**   
+
+>**Example:**  
+><CITE>1 map (color ; 65 x 40 cm)</CITE>  
+>>**(*Ingest comment*: example needs review)**   
+
 <a name="9.3.38.5">9.3.38.5</a> Record additional details if considered important. 
 
 >**Example:**  
@@ -177,6 +209,61 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 >Details on illustrative content: <CITE>Maps in pocket on inside back cover</CITE>
 
 For non-illustrative accompanying material issued in a pocket, specify the location in an unstructured note (see [9.3.38.2](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.2)).
+
+## 9.3.383.Y.Y Notes citing other resources and other states or manifestation of the same resources
+
+<a name="9.3.383.1.Y.Y">9.3.383.1.Y.Y</a> In citing other resources and other states or manifestations of the same resources, give whatever information is appropriate for easy identification. Arrange the information provided in the form that makes most sense in the particular case. Abridge the information as needed without using the mark of omission.
+
+>**Example:**  
+><CITE>Copy of: Chandos portrait of Shakespeare. In National Portrait Gallery, London (NPG 1)</CITE>  
+>>(*Comment*: "NPG 1" is the original painting's accession number)  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Illustration of John Milton's Allegro</CITE>   
+>>(*Comment*: Painting is a stand-alone piece illustrative of the poem, not a book illustration)  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Similar to frontispiece in: Great expectations realized, or, Civilizing mountain men / by Mrs. Ellen H.B. Mason. Philadelphia : American Baptist Publication Society, 1862</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+## 9.3.385.Y.Y Notes on watermarks, trademarks, studio imprints, remarques, etc.
+
+<a name="9.3.385.1.Y.Y">9.3.385.1.Y.Y</a> Describe watermarks, trademarks, studio imprints, remarques, etc. if considered important.
+
+>**Example:**  
+><CITE>Photographer's stamp on back</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Photographer's hallmark embossed on separate piece of board mounted at lower right of mount</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Watermark: Fleur de lis</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Blind stamp: Mushroom (artist's mark)</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Ink stamp of publisher on front
+>>**(*Ingest comment*: example needs review)**  
+
+## 9.3.39.Y.Y Additional physical format
+
+<a name="9.3.385.1.Y.Y">9.3.385.1.Y.Y</a> Record information concerning a different physical format in which the described item is available, if considered important.
+
+>**Example:**  
+><CITE>Also available as a digital reproduction</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Reference copy also available in FOREIGN GEOG FILE - Bahama Islands</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
 
 ---
 

@@ -7,13 +7,25 @@ sidebar:
   nav: "docs"
 ---
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## 9.405.1.Y.Y  Element information
 
-The RBMS RDA Editorial Group
+<a name="9.405.1.1.Y.Y">9.405.1.1.Y.Y</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-f8b543e9-ad2c-35a6-82fb-ec748181fb6a){:target="_blank"}
+
+<a name="9.405.1.2.Y.Y">9.405.1.2.Y.Y</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
+
+## 9.405.2.Y.Y RDA definition and scope
+
+<a name="9.405.2.1.Y.Y">9.405.2.1.Y.Y</a> A limitation placed on reproduction, publication, exhibition, etc., of an item.
+
+## 9.405.3.Y.Y General rule 
+
+<a name="9.405.3.1.Y.Y">9.405.3.1.Y.Y</a> When the item is not generally available to researchers, or when access and handling are restricted, explain the nature and extent of the restrictions if considered important.
 
 ---
 

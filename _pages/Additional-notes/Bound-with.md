@@ -21,19 +21,19 @@ sidebar:
 
 ## 9.45.2 RDA definition and scope
 
-<a name="9.45.2.1">9.45.2.1</a> An item that is physically combined or joined with an item.
+<a name="9.45.2.1">9.45.2.1</a> An item that is physically combined or joined with an item to form a collection manifestation.
 
 ## 9.45.21 DCRMR elaboration of scope
 
-<a name="9.45.21.1">9.45.21.1</a> Use this relationship element to reference the related items bound together subsequent to publication. 
+<a name="9.45.21.1">9.45.21.1</a> Use this relationship element to reference the related items bound or mounted together subsequent to publication or production. 
 
 ## 9.45.25 Related elements
 
-<a name="9.45.25.1">9.45.25.1</a> See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) for manifestations issued together by the publisher on the same carrier.
+<a name="9.45.25.1">9.45.25.1</a> See [On carrier unit with](/DCRMR/additional-notes/On-carrier-unit-with/) for manifestations issued together by the publisher, artist, etc.
 
 ## 9.45.3 General rule
 
-<a name="9.45.3.1">9.45.3.1</a> Record this relationship as a structured note, beginning with the words “bound with” followed by a colon. List the related items, in the order in which they are found. List all related items in the description for the first item and, in general, only the first item in the descriptions for the subsequent items. 
+<a name="9.45.3.1">9.45.3.1</a> Record this relationship as a structured note, beginning with an appropriate phrase, such as "bound with" or "mounted with", followed by a colon. List the related items, in the order in which they are found. List all related items in the description for the first item and, in general, only the first item in the descriptions for the subsequent items. 
 
 <a name="9.45.3.2">9.45.3.2</a> For each item listed, give only the elements listed below:
 

@@ -44,9 +44,9 @@ sidebar:
 
 <a name="9.4.3.4">9.4.3.4</a> Always include in Note on item a designation of the holding institution (e.g., a name, acronym, or code). Provide identification such as a designation of the item's physical location (e.g., a shelfmark) or an indication of the item's copy number (if the institution holds more than one exemplar of the manifestation) if considered important.
 
-## 9.4.31 Statements relating to a substantially unchanged impression or state
+## 9.4.31 Statements relating to a substantially unchanged printing or state
 
-<a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged impression or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and if considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
+<a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged printing or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and if considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
 
 >**Example:**  
 ><CITE>Library copy: “Ninth printing, December, 1954”-- title page verso</CITE>
@@ -98,7 +98,7 @@ sidebar:
 
 ## 9.4.36 Notes relating to bound-with elements
 
-<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with volume are too numerous list to exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
+<a name="9.4.36.1">9.4.36.1</a> If it is considered that the works in a bound-with situation are too numerous to list to exhaustively, make a Note on item to describe the item’s location in the volume if considered important (see [Bound with, 9.45.3.3](/DCRMR/additional-notes/Bound-with/#9.45.3.3)).
 
 >**Example:**  
 ><CITE>Library copy: No. 29 of 31 titles bound together with binder’s title: Scottish chap books</CITE>
@@ -108,6 +108,18 @@ sidebar:
 
 >**Example:**  
 ><CITE>Library copy is bound with 12 other titles on American history</CITE>
+
+## 9.4.37.Y.Y Relationship notes
+
+<a name="9.4.37.1">9.4.37.1</a> When the material being cataloged is related by provenance or hierarchy to a larger unit or collection, make a Note on item giving the title or other designation for the larger unit or collection introduced by a phrase such as "Forms part of".
+
+>**Example:**  
+><CITE>Forms part of the Babette Craven Collection of Theatrical Memorabilia</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
+## 9.4.38.Y.Y Additional physical format
+
+<a name="9.4.38.1">9.4.38.1</a> Record information concerning a different physical format in which the described item is available if considered important.
 
 ---
 

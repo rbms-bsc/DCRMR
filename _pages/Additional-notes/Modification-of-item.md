@@ -48,6 +48,10 @@ sidebar:
 >**Example:**  
 ><CITE>Library copy: Extra-illustrated with 70 added engravings depicting scenes from Shakespeare’s plays, as well as people and places mentioned in the text</CITE>
 
+>**Example:**  
+><CITE>Library of Congress copy has penned note in unknown hand (not the artist's) reading "Du Tahiti lointain ce qu'y vit Gauguin: une idole repue"</CITE>  
+>>**(*Ingest comment*: example needs review)**  
+
 For notes on missing pages or leaves, see [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) ([9.43.3.2](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.2)).
 
 ## 9.41.33 Provenance evidence
@@ -88,7 +92,7 @@ For summaries of the past ownership of an item, see [Custodial history of item](
 
 ## 9.41.35 Bindings
 
-<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue, see [Type of binding](/DCRMR/phys-desc/Type-of-binding/) ([6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
+<a name="9.41.35.1">9.41.35.1</a> Describe item-specific bindings and containers if considered important. For descriptions of publisher-issued bindings common to all copies of an edition or issue, see [Type of binding](/DCRMR/phys-desc/Type-of-binding/) ([6.32.3.1](/DCRMR/phys-desc/Type-of-binding/#6.32.3.1)).
 
 <a name="9.41.35.2">9.41.35.2</a> Indicate any errors in binding if considered important.
 
@@ -110,7 +114,7 @@ For summaries of the past ownership of an item, see [Custodial history of item](
 >**Example:**  
 ><CITE>Library copy: Leaf G1 has been misbound between leaves E4 and F1</CITE>
 
-<a name="9.41.35.3">9.41.35.3</a> Record other details of an item-specific binding if considered important. Less detailed descriptions might include the color and nature of the covering material, a summary of any decoration present (e.g., “gold-tooled,” “blind-tooled”), and (if these can be determined) an approximate date and the name of the binder.
+<a name="9.41.35.3">9.41.35.3</a> Record other details of an item-specific binding or container if considered important. Less detailed descriptions might include the color and nature of the covering material, a summary of any decoration present (e.g., “gold-tooled,” “blind-tooled”), and (if these can be determined) an approximate date and the name of the binder.
 
 >**Example:**  
 ><CITE>Library copy: In a late seventeenth-century English gold-tooled red goatskin binding with the coat of arms of George III added later to the front board</CITE>

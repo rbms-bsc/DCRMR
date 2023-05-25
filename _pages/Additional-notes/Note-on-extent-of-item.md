@@ -46,6 +46,16 @@ sidebar:
 ><CITE>Library copy bound in four physical volumes and interleaved with a Latin translation of Plutarch’s Lives</CITE>  
 >>(*Comment*: The manifestation was issued in one volume)
 
+<a name="9.43.3.5.Y.Y">9.43.3.5.Y.Y</a> For incomplete manifestations issued in multiple units (see 6.21.SOMETHING.SOMETHING.), provide details of units missing from the item in hand in a Note on extent of item if considered important.
+
+>**Example:**  
+>Extent of manifestation: <CITE>10 photographs</CITE>  
+>Note on extent of item: <CITE>Repository lacks numbers 2 and 7</CITE>  
+>>**(*Ingest comment*: example needs review)  
+
+<a name="9.43.3.6.Y.Y">9.43.3.6.Y.Y</a> If the number of units issued cannot be determined, record in the Extent of manifestation the number and carrier extent units  of the item in hand, followed by "(incomplete)". Record the imperfection in a Note on extent of item if considered important (see 6.21.SOMETHING.SOMETHING).  
+
+
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "9.425 — Immediate source of acquisition of item")](/DCRMR/additional-notes/Immediate-source-of-acquisition-of-item/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "9.44 — Note on dimensions of item")](/DCRMR/additional-notes/Note-on-dimensions-of-item/)

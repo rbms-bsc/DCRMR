@@ -29,11 +29,11 @@ sidebar:
 
 ## 9.34.25 Related element
 
-<a name="9.34.25.1">9.34.25.1</a> See [Bound with](/DCRMR/additional-notes/Bound-with/) for manifestations bound together subsequent to publication, rather than issued together by the publisher, distributor, etc.
+<a name="9.34.25.1">9.34.25.1</a> See [Bound with](/DCRMR/additional-notes/Bound-with/) for manifestations bound or mounted together subsequent to publication or production, rather than issued together by the publisher, distributor, artist, etc.
 
 ## 9.34.3 General rule
 
-<a name="9.34.3.1">9.34.3.1</a>  Record this relationship as a structured note beginning with “Issued with” followed by a colon. List the related manifestations, in the order in which they are found. In the case of bound volumes, list all related manifestations in the description for the first manifestation and, in general, only the first manifestations in the descriptions for the subsequent manifestations. 
+<a name="9.34.3.1">9.34.3.1</a>  Record this relationship as a structured note beginning with “With” followed by a colon. List the related manifestations, in the order in which they are found. In the case of bound volumes, list all related manifestations in the description for the first manifestation and, in general, only the first manifestations in the descriptions for the subsequent manifestations. 
 
 <a name="9.34.3.2">9.34.3.2</a> For each manifestation listed, give only the elements listed below:
 
@@ -46,7 +46,7 @@ c) The primary [Statement of responsibility relating to title proper](/DCRMR/sor
 d) The [Publication statement](/DCRMR/ppdm/Publication-statement/) as found in the description for the manifestation, abridged as necessary, without using the mark of omission
 
 >**Example:**  
-><CITE>Issued with: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</CITE>
+><CITE>With: Dunton, John. The merciful assizes, or, A panegyric on the late Lord Jeffreys hanging so many in the West. London : Printed for Eliz. Harris, 1701</CITE>
 
 <a name="9.34.3.3">9.34.3.3</a> *Optionally*, record an RDA Access point for manifestation for the related manifestation(s) in addition to the note (see [RDA Toolkit: Access point for manifestation](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-b110f24e-6bb0-3144-84c5-da69b4016504){:target="_blank"}).
 

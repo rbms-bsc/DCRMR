@@ -7,13 +7,29 @@ sidebar:
   nav: "docs"
 ---
 
-## This page is under construction
+## Contents:
+{: .no_toc .text-delta }
 
-Development of this page is temporarily on hold, pending future developments. We will add this page as soon as we’re able. If you believe you’ve reached this page in error, please consider reporting the broken/bad link by adding a comment to this [GitHub issue](https://github.com/rbms-bsc/DCRMR/issues/26) or email the [DCRMR editor](mailto:dcrm.rda@gmail.com) directly.
+- TOC
+{:toc}
 
-Kind regards,
+## 9.36.1.Y.Y  Element information
 
-The RBMS RDA Editorial Group
+<a name="9.36.1.1.Y.Y">9.36.1.1.Y.Y</a> [Link to RDA Toolkit](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-8c06fc55-39a6-344a-b620-10c6335de7b0){:target="_blank"}
+
+<a name="9.36.1.2.Y.Y">9.36.1.2.Y.Y</a> [Sources of information](/DCRMR/additional-notes/#9011-sources-of-information)
+
+## 9.35.2.Y.Y RDA definition and scope
+
+<a name="9.36.2.1.Y.Y">9.36.2.1.Y.Y</a> A citation for a manifestation in the form preferred by a creator, publisher, custodian, indexing or abstracting service, or other agent.
+
+## 9.36.3.Y.Y General rule
+
+<a name="9.36.3.1.Y.Y">9.36.3.1.Y.Y</a> Provide a specific citation format for citing the resource, if considered important.
+
+>**Example:**   
+><CITE>Cite as: SDN-055385, Chicago Daily News negatives collection, Chicago History Museum</CITE>  
+>>**(*Ingest comment*: example needs review)**  
 
 ---
 

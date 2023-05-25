@@ -29,7 +29,7 @@ sidebar:
 
 ## 9.32.31 References to published descriptions
 
-<a name="9.32.31.1">9.32.31.1</a> Always give references to published descriptions in bibliographic or reference sources if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
+<a name="9.32.31.1">9.32.31.1</a> Always give references to published descriptions in reference sources (e.g., bibliographies, catalogues raisonnés) if these have been used to supply elements of the description. Use the form and punctuation conventions recommended by [Standard Citation Forms for Rare Materials Cataloging](https://rbms.info/scf/){:target="_blank"}.
 
 >**Example:**  
 ><CITE>Bartsch, A. Peintre graveur, VII, no. 139</CITE>
@@ -49,7 +49,7 @@ sidebar:
 >**Example:**  
 ><CITE>Livingston, L.S. Franklin and his press at Passy, 28</CITE>
 
-<a name="9.32.31.2">9.32.31.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition (or variant) from similar editions (or variants), substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
+<a name="9.32.31.2">9.32.31.2</a> Make other references to published descriptions if considered important. Such references are especially useful whenever the cited source would serve to distinguish an edition or state from similar editions or states, substantiate information provided by the cataloger, or provide a more detailed description of the manifestation being cataloged.
 
 >**Example:**   
 ><CITE>English short title catalogue, R202112</CITE>  
@@ -75,6 +75,10 @@ sidebar:
 
 >**Example:**  
 ><CITE>Not in: Bibliothèque nationale (France). Catalogue de l’histoire de la Révolution française</CITE>
+
+>**Example:**  
+><CITE>Not in: Wuerth, L.A. List of original drawings and paintings</CITE>  
+>>**(*Ingest comment*: example needs review)  
 
 ---
 
