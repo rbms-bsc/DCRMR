@@ -21,7 +21,7 @@ sidebar:
 
 ## 9.24.2 RDA definition and scope
 
-<a name="9.24.2.1">9.24.2.1</a> A set of characters or symbols used to express written language content of an expression.
+<a name="9.24.2.1">9.24.2.1</a> A set of characters or symbols used to express written language content of an resource.
 
 ## 9.24.22.Y.Y DCRMR elaboration of scope
 

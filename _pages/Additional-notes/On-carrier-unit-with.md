@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.34.21 DCRMR elaboration of scope
 
-<a name="9.34.21.1">9.34.21.1</a> Record an "issued with" relationship for a manifestation in which a volume is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record an "issued with" relationship if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
+<a name="9.34.21.1">9.34.21.1</a> Record an On carrier unit with relationship for a manifestation in which a volume is made up of two or more separately titled parts that are also separately paginated or foliated and have separate signatures, but which have been issued together by the publisher, distributor, etc. (See also [RDA Toolkit: Part work](https://access.rdatoolkit.org/Content/Index?externalId=en-US_ala-6bc578be-fa3d-3499-a37a-f690b085d23e){:target="_blank"}.) Do not record an On carrier unit with relationship if the pagination, foliation, or signatures of separately titled parts are continuous with the part being described. Instead, record these as a contents note (see [Note on manifestation, 9.3.32.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.32.1)).
 
 ## 9.34.25 Related element
 
