@@ -25,7 +25,7 @@ sidebar:
 
 ## 9.24.22.Y.Y DCRMR elaboration of scope
 
-<a name="9.24.22.1.Y.Y">9.24.22.1.Y.Y</a> Use also for the textual content of still image expressions.
+<a name="9.24.22.1.Y.Y">9.24.22.1.Y.Y</a> Use also for the textual content of still image resource.
 
 ## 9.24.3 General rule
 
