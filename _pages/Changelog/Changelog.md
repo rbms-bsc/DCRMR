@@ -21,6 +21,28 @@ For a fuller discussion of the versioning and version numbering system, includin
 
 ## Current release
 
+### DCRMR 202x.1.0.0
+Release date: 202x-xx-xx  
+Release PDF: [DCRMR RDA edition release 202x.1.0.0 PDF](https://rbms-bsc.github.io/DCRMR/assets/pdfs/DCRM%20RDA%20edition%20release%20202x_1_0_0.pdf) 
+
+SUMMARY FROM CHIEF EDITORS
+
+Architectural and code changes:  
+* Added: preferred citation; related manifestation of manifestation; restriction on access to item; restriciton on use of item; place of production; parallel place of production; date of production; note on production statement; mount; details of mount; generation; details of generation; polarity; details of polarity  
+* Changed: Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions 
+* Removed: 
+* Renamed: Changes from DCRM(B) to Changes from DCRM
+* Fixed: 
+
+## Release history
+
+### DCRMR 2022.2.1.1
+Release date: 2023-05-20  
+[View DCRMR 2022.2.1.1 release details](https://github.com/rbms-bsc/DCRMR/commit/3396df5603778ec96986b5fa5dd2b71d294b7e14)
+Architectural and code changes:  
+* Added: CITATION.cff  
+* Changed: Config.yml (new analytic property); custom.html
+
 ### DCRMR 2022.2.0.1
 Release date: 2022-11-25  
 [View DCRMR 2022.2.0.1 release details](https://github.com/rbms-bsc/DCRMR/commit/8ad625ea1a9a7c188afb31b1b8f59a3266b95baa)  
@@ -28,8 +50,6 @@ Architectural and code changes:
 * Added: img assets for wiki documentation; wiki asset subfolder  
 * Fixed: URLS with redirects or improper canonical tagging  
 * Changed: Changelog; New sitemap  
-
-## Release history
 
 ### DCRMR 2022.2.0.0   
 Release date: 2022-11-15  
