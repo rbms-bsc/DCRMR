@@ -38,7 +38,7 @@ Architectural and code changes:
 
 ### DCRMR 2022.2.1.1
 Release date: 2023-05-20  
-[View DCRMR 2022.2.1.1 release details](https://github.com/rbms-bsc/DCRMR/commit/3396df5603778ec96986b5fa5dd2b71d294b7e14)
+[View DCRMR 2022.2.1.1 release details](https://github.com/rbms-bsc/DCRMR/commit/3396df5603778ec96986b5fa5dd2b71d294b7e14)  
 Architectural and code changes:  
 * Added: CITATION.cff  
 * Changed: Config.yml (new analytic property); custom.html
