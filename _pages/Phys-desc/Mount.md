@@ -35,7 +35,7 @@ sidebar:
 ><CITE>wood</CITE>  
 >>**(*Ingest comment*: example needs review)**  
 
-<a name="6.266.3.2.Y.Y">6.266.3.2.Y.Y</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary and indicate its source. Prefer the [RBMS Controlled vocabularies: Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"} for terms for specific types of paper.
+<a name="6.266.3.2.Y.Y">6.266.3.2.Y.Y</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary and indicate its source. Prefer the [Controlled Vocabulary for Rare Materials Cataloging](https://id.loc.gov/vocabulary/rbmscv.html){:target="_blank"} for terms for specific types of paper.
 
 **Example:**  
 ><CITE>Masonite</CITE>  

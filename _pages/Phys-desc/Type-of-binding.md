@@ -50,7 +50,7 @@ sidebar:
 ><CITE>In yellow wrappers; with illustrations on inside of front and back wrapper, and publisher’s advertisement on outside of back wrapper</CITE>
 
 <a name="6.32.3.2">6.32.3.2</a> *Optionally*, record specific types of bindings using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"},
- the [RBMS Controlled Vocabularies: Binding Terms](http://rbms.info/vocabularies/binding/alphabetical_list.htm){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
+ the [Controlled Vocabulary for Rare Materials Cataloging](https://id.loc.gov/vocabulary/rbmscv.html){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
 
 <a name="6.32.3.3">6.32.3.3</a> Details of a binding recorded here usually apply to all exemplars of a manifestation. Summaries of binding details that apply to particular groups of exemplars within an edition or issue may also be recorded.
 
@@ -94,7 +94,7 @@ sidebar:
 >>(*Comment*: Daguerreotype case)  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.32.3.55.Y.Y">6.32.3.55.Y.Y</a> Optionally, record specific types of bindings  using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"}, the [RBMS Controlled Vocabularies: Binding Terms](https://rbms.info/vocabularies/binding/alphabetical_list.htm){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
+<a name="6.32.3.55.Y.Y">6.32.3.55.Y.Y</a> Optionally, record specific types of bindings  using one or more terms from the [RDA Value Vocabularies: RDA Type of Binding](http://www.rdaregistry.info/termList/RDATypeOfBinding/){:target="_blank"}, the [Controlled Vocabulary for Rare Materials Cataloging](https://id.loc.gov/vocabulary/rbmscv.html){:target="_blank"}, or other controlled vocabularies. Indicate the source of the term.
 
 <a name="6.32.3.6">6.32.3.6</a> Record descriptions of dust jackets issued with the manifestation if considered important. For instructions on dust jackets as sources of information, see [Integrity of the copy, i.01.8.2](/DCRMR/introduction/#i.01.8.2).
 

@@ -32,7 +32,7 @@ sidebar:
 >Source code of term: <CITE>rdamat</CITE>  
 >>(*Comment*: Example includes the MARC source code of term for clarity)
 
-<a name="6.25.3.2">6.25.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary and indicate its source. Prefer the [RBMS Controlled vocabularies: Paper terms](http://rbms.info/vocabularies/paper/alphabetical_list.htm){:target="_blank"} for terms for specific types of paper.
+<a name="6.25.3.2">6.25.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary and indicate its source. Prefer the [Controlled Vocabulary for Rare Materials Cataloging](https://id.loc.gov/vocabulary/rbmscv.html){:target="_blank"} for terms for specific types of paper.
 
 >**Example:**  
 >Base material: <CITE>Japan vellum</CITE>  
