@@ -553,7 +553,7 @@ If none of the terms  above are appropriate, use:
 >>(*Comment*: Large sheet with multiple sketches, some of which could be interpreted as one larger composition rather than several separate ones)  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.21.66.2.Y.Y">6.21.66.2.Y.Y</a> **Alternative rule**. Make a separate bibliographic record for each image. Record only the extent of the part being described. Link the separate records with “Issued with” notes (see [9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/)). 
+<a name="6.21.66.2.Y.Y">6.21.66.2.Y.Y</a> **Alternative rule**. Make a separate bibliographic record for each image. Record only the extent of the part being described. Link the separate records with "On carrier unit with" notes (see [9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/)). 
 
 <a name="6.21.66.3.Y.Y">6.21.66.3.Y.Y</a> **One image spanning more than one carrier**. If the resource consists of one image spanning more than one carrier, record the number and carrier extent unit followed by a phrase descriptive of the image as a whole.
 

@@ -666,7 +666,7 @@ Always make an explanatory note (e.g., [Note on title](/DCRMR/title/Note-on-titl
 
 <a name="0.4.72.3">0.4.72.3</a> Do not correct words spelled according to older or non-standard orthographic conventions (e.g., "françoise" for "française", or "antient" for "ancient").  *Optionally*, if the [Title proper](/DCRMR/title/Title-proper/) contains words spelled according to older or non-standard orthographic conventions, provide additional title access for the title spelled according to modern orthography (see [Variant title of manifestation, 1.25.3555.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3555.1)).
 
-<a name="0.4.72.4">0.4.72.4</a> **Alternative rule.** Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint, unintentional inaccuracy, or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
+<a name="0.4.72.4">0.4.72.4</a> **Alternative rule**. Transcribe the text as it appears on the source without the interpolation. Make a note correcting the misprint, unintentional inaccuracy, or misspelling (see [Options, i.01.4.1](/DCRMR/introduction/#i.01.4.1)).
 
 If the misprint or misspelling occurs in the first five words of the [Title proper](/DCRMR/title/Title-proper/) (or, if the [Title proper](/DCRMR/title/Title-proper/) begins with an article, the first six words), record a [Variant title of manifestation](/DCRMR/title/Variant-title-of-manifestation/) for the form of title as if it had been rendered correctly (see [1.25.355.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.355.1)).
 
