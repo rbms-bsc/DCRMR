@@ -111,7 +111,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 >**Example:**  
 ><CITE>Original: Art Gallery of Ontario, circa 1784-1790, oil on canvas, 267.3 x 364.5 cm</CITE>  
->>**(*Ingest comment*: example needs review)
+>>**(*Ingest comment*: example needs review)**
 
 ## 9.3.35 Limitation statements
 
@@ -122,7 +122,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 
 >**Example:**  
 ><CITE>"Edition limited to 250"--printed below image, lower left</CITE>  
->>**(*Ingest comment*: example needs review)
+>>**(*Ingest comment*: example needs review)**
 
 <a name="9.3.35.2">9.3.35.2</a> If the statement of limitation is accompanied by statements of responsibility or other information relating to the production of the edition, include as much of the additional information in the note as is considered important.
 
@@ -254,7 +254,7 @@ For non-illustrative accompanying material issued in a pocket, specify the locat
 
 ## 9.3.39.Y.Y Additional physical format
 
-<a name="9.3.385.1.Y.Y">9.3.385.1.Y.Y</a> Record information concerning a different physical format in which the described item is available, if considered important.
+<a name="9.3.39.1.Y.Y">9.3.39.1.Y.Y</a> Record information concerning a different physical format in which the described item is available, if considered important.
 
 >**Example:**  
 ><CITE>Also available as a digital reproduction</CITE>  

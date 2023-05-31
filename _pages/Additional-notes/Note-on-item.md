@@ -111,7 +111,7 @@ sidebar:
 
 ## 9.4.37.Y.Y Relationship notes
 
-<a name="9.4.37.1">9.4.37.1</a> When the material being cataloged is related by provenance or hierarchy to a larger unit or collection, make a Note on item giving the title or other designation for the larger unit or collection introduced by a phrase such as "Forms part of".
+<a name="9.4.37.1.Y.Y">9.4.37.1.Y.Y</a> When the material being cataloged is related by provenance or hierarchy to a larger unit or collection, make a Note on item giving the title or other designation for the larger unit or collection introduced by a phrase such as "Forms part of".
 
 >**Example:**  
 ><CITE>Forms part of the Babette Craven Collection of Theatrical Memorabilia</CITE>  
@@ -119,7 +119,7 @@ sidebar:
 
 ## 9.4.38.Y.Y Additional physical format
 
-<a name="9.4.38.1">9.4.38.1</a> Record information concerning a different physical format in which the described item is available if considered important.
+<a name="9.4.38.1.Y.Y">9.4.38.1.Y.Y</a> Record information concerning a different physical format in which the described item is available if considered important.
 
 ---
 

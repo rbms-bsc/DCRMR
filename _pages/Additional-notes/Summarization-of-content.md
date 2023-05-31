@@ -68,7 +68,7 @@ sidebar:
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
-Photograph showing a man sitting on the rocks overlooking the river</CITE>  
+><CITE>Photograph showing a man sitting on the rocks overlooking the river</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
 ---

@@ -78,7 +78,7 @@ sidebar:
 
 >**Example:**  
 ><CITE>Not in: Wuerth, L.A. List of original drawings and paintings</CITE>  
->>**(*Ingest comment*: example needs review)  
+>>**(*Ingest comment*: example needs review)**  
 
 ---
 

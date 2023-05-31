@@ -21,7 +21,7 @@ sidebar:
 
 ## 9.405.2.Y.Y RDA definition and scope
 
-<a name="9.405.2.1.Y.Y">9.405.2.1.Y.Y</a> A limitation placed on reproduction, publication, exhibition, etc., of an item.
+<a name="9.405.2.1.Y.Y">9.405.2.1.Y.Y</a> A limitation placed on access to an item.
 
 ## 9.405.3.Y.Y General rule 
 
