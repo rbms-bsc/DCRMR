@@ -339,7 +339,7 @@ sidebar:
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
-|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.36](/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-names-of-distributors-containing-only-addresses-signs-initials-or-devices)	|
+|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.36](/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-distributors-identified-by-addresses-signs-initials-or-devices)	|
 |		|	4C4.1.	|	[5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1) [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)	|
 |		|	4C4.2.	|	[5.22.36.2](/DCRMR/ppdm/Name-of-publisher/#5.22.36.2) [5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)	|
 |	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.34.1](/DCRMR/ppdm/Name-of-publisher/#5.22.34.1) [5.27.34.1](/DCRMR/ppdm/Name-of-distributor/#5.27.34.1)	|
