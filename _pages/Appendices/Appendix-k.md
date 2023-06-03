@@ -379,7 +379,7 @@ sidebar:
 |		|	4D6.2.	|	[5.35.3.2](/DCRMR/ppdm/Copyright-date/#5.35.3.2)	|
 |		|	4D6.3.	|	[5.35.3.3](/DCRMR/ppdm/Copyright-date/#5.35.3.3)	|
 |		|	4D6.4.	|	[5.35.3.4](/DCRMR/ppdm/Copyright-date/#5.35.3.4)	|
-|	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multipart-monographs)	|
+|	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multiple-unit-resources)	|
 |		|	4D7.1.	|	[5.23.35.1](/DCRMR/ppdm/Date-of-publication/#5.23.35.1) [5.28.35.1](/DCRMR/ppdm/Date-of-distribution/#5.28.35.1)	|
 |		|	4D7.2.	|	[5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2) [5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)	|
 |	Date of publication, distribution, etc., on part pages	|	4D8.	|	[5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1) [5.28.36.1](/DCRMR/ppdm/Date-of-distribution/#5.28.36.1)	|
