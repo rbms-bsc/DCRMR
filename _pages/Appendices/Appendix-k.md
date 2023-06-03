@@ -685,7 +685,7 @@ sidebar:
 |	Letterforms I/J, U/V, i/j, and u/v	|	G4.	|	[0.4.23](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v)
 |	Historical background.	|	G4.1. 	|	[0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)
 |	Transcription. 	|	G4.2. 	|	[0.4.23.2](/DCRMR/general-rules/Transcription/#0.4.23.2) [0.4.23.3](/DCRMR/general-rules/Transcription/#0.4.23.3) [0.4.23.4](/DCRMR/general-rules/Transcription/#0.4.23.4)
-|	Letter w	|	G5.	|	[0.4.74](/DCRMR/general-rules/Transcription/#0474-turned-and-approximated-letters)
+|	Letter w	|	G5.	|	[0.4.74](/DCRMR/general-rules/Transcription/#0474-reversed-turned-and-approximated-letters)
 |	Historical background.	|	G5.1. 	|	[0.4.74.2](/DCRMR/general-rules/Transcription/#0.4.74.2) [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)
 |	Transcription. 	|	G5.2.	|	[0.4.74.1](/DCRMR/general-rules/Transcription/#0.4.74.1)
 
