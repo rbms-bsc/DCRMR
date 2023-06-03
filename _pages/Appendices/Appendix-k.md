@@ -140,8 +140,8 @@ sidebar:
 |	Preliminary rule	|	1A.	|	n/a	|
 |	Prescribed punctuation	|	1A1.	|	[0.2.1.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1) [0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
 |	Sources of information	|	1A2.	|	[1.01.1](/DCRMR/title/#1011-sources-of-information)	|
-|	General rule	|	1A2.1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
-|	Multipart monographs	|	1A2.3.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
+|	General rule	|	1A2.1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
+|	Multipart monographs	|	1A2.3.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
 |	Form and order of information	|	1A3.	|	[1.01.3](/DCRMR/title/#1013-form-and-order-of-information)	|
 |	Title proper	|	1B.	|	[1.21](/DCRMR/title/Title-proper/)	|
 |	Words considered part of the title proper	|	1B1.	|	[1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)	|
@@ -211,7 +211,7 @@ sidebar:
 |	By different persons or bodies.	|	1F1.2.	|	omitted	|
 |	One or more works not named on the title page	|	1F2.	|	[1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)	|
 |	Single-sheet publications	|	1G.	|	[1.21.42.Y.Y](/DCRMR/title/Title-proper/#12142yy-single-sheet-printed-text-manifestations)	|
-|	Chief source of information	|	1G1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
+|	Chief source of information	|	1G1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
 |	General rule	|	1G2.	|	[1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)	|
 |	Chief title	|	1G3.	|	[1.21.422.1.Y.Y](/DCRMR/title/Title-proper/#1.21.422.1.Y.Y)	|
 |	Caption title	|	1G4.	|	[1.21.422.2.Y.Y](/DCRMR/title/Title-proper/#1.21.422.2.Y.Y)	|
