@@ -75,11 +75,11 @@ sidebar:
 
 ## 1.29.35 Initial text of of single-sheet manifestations
 
-<a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet manifestation has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper, 1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
+<a name="1.29.35.1">1.29.35.1</a> If the initial text on a single-sheet manifestation has been omitted, make a note indicating the nature and position of the omitted material if considered important (see [Title proper, 1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)).
 
-<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as a title but not appearing in the first line of printing is selected as the [Title proper](/DCRMR/title/Title-proper/), make a note recording at least the first five words of the first line of printing (see [Title proper, 1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)).
+<a name="1.29.35.2">1.29.35.2</a> When a word or phrase obviously intended as a title but not appearing in the first line of printing is selected as the [Title proper](/DCRMR/title/Title-proper/), make a note recording at least the first five words of the first line of printing (see [Title proper, 1.21.422.1.Y.Y](/DCRMR/title/Title-proper/#1.21.422.1.Y.Y)).
 
-<a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet manifestation if considered important (see [Title proper, 1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)).
+<a name="1.29.35.3">1.29.35.3</a> Make a note summarizing material omitted from a title transcribed from the initial text on a single-sheet manifestation if considered important (see [Title proper, 1.21.422.2.Y.Y](/DCRMR/title/Title-proper/#1.21.422.2.Y.Y)).
 
 <a name="1.29.35.4.Y.Y">1.29.35.4.Y.Y</a> Transcribe the initial text in a note if considered important (see [1.29.394.Y.Y](/DCRMR/title/Note-on-title/#129394yy-picture-captions-etc)).
 

@@ -210,15 +210,15 @@ sidebar:
 |	By same person or body.	|	1F1.1.	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1)	|
 |	By different persons or bodies.	|	1F1.2.	|	omitted	|
 |	One or more works not named on the title page	|	1F2.	|	[1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)	|
-|	Single-sheet publications	|	1G.	|	[1.21.38](/DCRMR/title/Title-proper/#12138-single-sheet-manifestations)	|
+|	Single-sheet publications	|	1G.	|	[1.21.42.Y.Y](/DCRMR/title/Title-proper/#12142yy-single-sheet-printed-text-manifestations)	|
 |	Chief source of information	|	1G1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
-|	General rule	|	1G2.	|	[1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)	|
-|	Chief title	|	1G3.	|	[1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)	|
-|	Caption title	|	1G4.	|	[1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)	|
+|	General rule	|	1G2.	|	[1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)	|
+|	Chief title	|	1G3.	|	[1.21.422.1.Y.Y](/DCRMR/title/Title-proper/#1.21.422.1.Y.Y)	|
+|	Caption title	|	1G4.	|	[1.21.422.2.Y.Y](/DCRMR/title/Title-proper/#1.21.422.2.Y.Y)	|
 |	Prescribed punctuation	|	1G5.	|	[0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
-|	Two or more works with a collective title	|	1G6.	|	[1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1)	|
-|	Two or more works without a collective title	|	1G7.	|	[1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)	|
-|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Two or more works with a collective title	|	1G6.	|	[1.21.423.1.Y.Y](/DCRMR/title/Title-proper/#1.21.423.1.Y.Y)	|
+|	Two or more works without a collective title	|	1G7.	|	[1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y) [1.21.424.2.Y.Y](/DCRMR/title/Title-proper/#1.21.424.2.Y.Y)	|
+|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.425.1.Y.Y ](/DCRMR/title/Title-proper/#1.21.425.1.Y.Y)	|
 
 
 ## 2. Edition Area
@@ -668,8 +668,8 @@ sidebar:
 |	Title proper with supplementary or section title (Optional)	|	1B6. 	|	[1.25.358.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.358.1)	|
 |	Parallel titles (Optional)	|	1C. 	|	[1.215.33.1](/DCRMR/title/Parallel-title-proper/#1.215.33.1)	|
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
-|	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
-|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y)	|
+|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.423.1.Y.Y](/DCRMR/title/Title-proper/#1.21.423.1.Y.Y) [1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y) [1.21.424.2.Y.Y](/DCRMR/title/Title-proper/#1.21.424.2.Y.Y)  [1.21.425.1.Y.Y](/DCRMR/title/Title-proper/#1.21.425.1.Y.Y)	|
 |	Title proper of series (Optional) 	|	6B1.	|	[8.21.3.1](/DCRMR/series/Title-of-series/#8.21.3.1)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
 |	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.6)	|
