@@ -52,19 +52,19 @@ sidebar:
 
 ## 6.23.4.Y.Y Printed text resources
 
-### 6.23.31 Original color in printed textual resources
+### 6.23.43.Y.Y Original color in printed textual resources
 
-<a name="6.23.31.1">6.23.31.1</a> Treat illustrations printed with tint blocks (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
+<a name="6.23.43.1.Y.Y">6.23.43.1.Y.Y</a> Treat illustrations printed with tint blocks (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
 
-<a name="6.23.31.2">6.23.31.2</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
+<a name="6.23.43.2.Y.Y">6.23.43.2.Y.Y</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
 
-<a name="6.23.31.3">6.23.31.3</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
+<a name="6.23.43.3.Y.Y">6.23.43.3.Y.Y</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
 For incunabula, make a note on color printing in textual matter if present (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
-### 6.23.33 Color of base material
+### 6.23.44.Y.Y Color of base material
 
-<a name="6.23.33.1">6.23.33.1</a> Do not record the presence of color in base materials (e.g., paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
+<a name="6.23.44.1.Y.Y">6.23.44.1.Y.Y</a> Do not record the presence of color in base materials (e.g., paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ## 6.23.6.Y.Y Still image resources
 
