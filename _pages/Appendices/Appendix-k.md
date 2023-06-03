@@ -491,7 +491,7 @@ sidebar:
 |	Preliminary rule	|	6A.	|	n/a	|
 |	Prescribed punctuation	|	6A1.	|	[0.2.8](/DCRMR/general-rules/Prescribed-punctuation/#028-series)	|
 |	Sources of information	|	6A2.	|	[8.01.1](/DCRMR/series/#8011-sources-of-information)	|
-|		|	6A2.1.	|	[8.01.1.1 ](/DCRMR/series/#8.01.1.1)	|
+|		|	6A2.1.	|	[8.01.1.04.Y.Y](/DCRMR/series/#8.01.1.04.Y.Y)	|
 |		|	6A2.2.	|	[8.01.1.2](/DCRMR/series/#8.01.1.2)	|
 |		|	6A2.3.	|	[8.01.1.3](/DCRMR/series/#8.01.1.3)	|
 |		|	6A2.4.	|	[8.01.1.4](/DCRMR/series/#8.01.1.4)	|
