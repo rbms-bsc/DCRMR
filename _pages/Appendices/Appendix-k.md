@@ -227,7 +227,7 @@ sidebar:
 | ---|---|---|
 |	Preliminary rule	|	2A.	|	n/a	|
 |	Prescribed punctuation	|	2A1.	|	[0.2.3.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.3.1)	|
-|	Sources of information	|	2A2.	|	[3.01.1.1](/DCRMR/edition/#3.01.1.1)	|
+|	Sources of information	|	2A2.	|	[3.01.1.04.Y.Y](/DCRMR/edition/#3.01.1.04.Y.Y)	|
 |	Form and order of information	|	2A3.	|	[3.01.3.1](/DCRMR/edition/#3.01.3.1)	|
 |	Edition statement	|	2B.	|	[3.21](/DCRMR/edition/Edition-statement/)	|
 |	General rule	|	2B1.	|	[3.21.3.1](/DCRMR/edition/Edition-statement/#3.21.3.1)	|
