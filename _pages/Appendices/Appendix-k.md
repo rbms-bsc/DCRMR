@@ -287,7 +287,7 @@ sidebar:
 |	Preliminary rule	|	4A.	|	n/a	|
 |	Prescribed punctuation	|	4A1.	|	[0.2.5](/DCRMR/general-rules/Prescribed-punctuation/#0.2.5.1) 	|
 |	Sources of information	|	4A2.	|	[5.01.1](/DCRMR/ppdm/#5011-sources-of-information) 	|
-|		|	4A2.1.	|	[5.01.1.1](/DCRMR/ppdm/#5.01.1.1) 	|
+|		|	4A2.1.	|	[5.01.1.04.Y.Y](/DCRMR/ppdm/#5.01.1.04.Y.Y)  [5.01.1.15.Y.Y](/DCRMR/ppdm/#5.01.1.15.Y.Y)	|
 |		|	4A2.2.	|	[5.01.1.2](/DCRMR/ppdm/#5.01.1.2) [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)	|
 |	Form and order of information	|	4A3.	|	[5.01.3](/DCRMR/ppdm/#5013-form-and-order-of-information)	|
 |		|	4A3.1.	|	[5.01.3.1](/DCRMR/ppdm/#5.01.3.1)	|
