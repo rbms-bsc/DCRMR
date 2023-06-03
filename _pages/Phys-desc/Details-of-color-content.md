@@ -37,17 +37,17 @@ sidebar:
 
 ## 6.235.31 Details of printed color
 
-<a name="6.235.31.1">6.235.31.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [Color content, 6.23.31.2](/DCRMR/phys-desc/Color-content/#6.23.31.2)).
+<a name="6.235.31.1">6.235.31.1</a> If both the text and illustrations are printed in a single color, make a note on the color of the ink if considered important (see [Color content, 6.23.43.2.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.43.2.Y.Y)).
 
 >**Example:**  
 ><CITE>Printed in green throughout</CITE>
 
-<a name="6.235.31.2">6.235.31.2</a> Make a note on the color of the ink in textual matter if considered important (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
+<a name="6.235.31.2">6.235.31.2</a> Make a note on the color of the ink in textual matter if considered important (see [Color content, 6.23.43.3.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.43.3.Y.Y)).
 
 >**Example:**  
 ><CITE>Title and preliminary pages are printed in red and black ink</CITE>
 
-For incunabula, always record color printing of textual matter if present (see [Color content, 6.23.31.3](/DCRMR/phys-desc/Color-content/#6.23.31.3)).
+For incunabula, always record color printing of textual matter if present (see [Color content, 6.23.43.3.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.43.3.Y.Y)).
 
 >**Example:**  
 ><CITE>Printed in red and black</CITE>  
@@ -86,7 +86,7 @@ For incunabula, always record color printing of textual matter if present (see [
 
 ## 6.235.35 Base material
 
-<a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g., paper) if considered important (see [Color content, 6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)).
+<a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g., paper) if considered important (see [Color content, 6.23.44.1.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.44.1.Y.Y)).
 
 >**Example:**  
 ><CITE>Printed in gold on dark blue paper</CITE>  
