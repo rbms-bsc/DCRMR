@@ -57,7 +57,7 @@ sidebar:
 
 For transposed elements, provide additional title access for the Title proper if considered important (see [Variant title of manifestation, 1.25.357.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.357.1)).
 
-<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Always make a note on the source of the Title proper unless the source is a title page (for printed text resources, see [Data provenance, 0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1) and [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
+<a name="1.21.31.2">1.21.31.2</a> **Note on the source of the title proper**. Always make a note on the source of the Title proper unless the source is a title page (for printed text resources, see [Data provenance, 0.1.31.4.Y.Y](/DCRMR/general-rules/Data-provenance/#0.1.31.4.Y.Y) and [Note on title, 1.29.31.1](/DCRMR/title/Note-on-title/#1.29.31.1)).
 
 >**Example:**  
 >Title proper: <CITE>A new list of fifty two ships sent to the East-Indies</CITE>  

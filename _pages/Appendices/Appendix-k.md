@@ -77,7 +77,7 @@ sidebar:
 |		|	0C1.1.	|	[0.1.31.1](/DCRMR/general-rules/Data-provenance/#0.1.31.1) [0.1.31.2](/DCRMR/general-rules/Data-provenance/#0.1.31.2)	|
 |		|	0C1.2.	|	[0.1.31.3](/DCRMR/general-rules/Data-provenance/#0.1.31.3)	|
 |	Multiple title pages	|	0C2.	|	[0.1.33.1](/DCRMR/general-rules/Data-provenance/#0.1.33.1)  [0.1.35.1](/DCRMR/general-rules/Data-provenance/#0.1.35.1)	|
-|	No title page	|	0C3.	|	[0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1)	|
+|	No title page	|	0C3.	|	[0.1.31.4.Y.Y](/DCRMR/general-rules/Data-provenance/#0.1.31.4.Y.Y)	|
 |	Prescribed sources of information	|	0D.	|	[0.1.5.1](/DCRMR/general-rules/Data-provenance/#0.1.5.1)   [0.1.5.2](/DCRMR/general-rules/Data-provenance/#0.1.5.2)  [0.1.32.1](/DCRMR/general-rules/Data-provenance/#0.1.32.1)	|
 |	Prescribed punctuation	|	0E.	|	[0.2.01.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.1)  [0.2.01.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)   [0.2.01.3](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.3)  [0.2.01.4](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.4)	|
 |	Language and script of the description	|	0F.	|	[0.3](/DCRMR/general-rules/Language-and-script-of-the-description/)	|
