@@ -41,7 +41,7 @@ sidebar:
 
 > Title 1 : other title information ; Title 2 : other title information / statement of responsibility
 
-*Exception*: For single-sheet printed text resources containing two or more expressions but without a collective title, transcribe as the [Title proper](/DCRMR/title/Title-proper/) the first title or opening words of the text (see [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)).
+*Exception*: For single-sheet printed text resources containing two or more expressions but without a collective title, transcribe as the [Title proper](/DCRMR/title/Title-proper/) the first title or opening words of the text (see [1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y)).
 
 ## 1.01.3 Form and order of information
 

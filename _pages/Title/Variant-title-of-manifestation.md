@@ -214,7 +214,7 @@ sidebar:
 
 ### 1.25.359 First line of printing on single-sheet manifestations (optional)
 
-<a name="1.25.359.1">1.25.359.1</a> Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)).
+<a name="1.25.359.1">1.25.359.1</a> Provide additional access for at least the first five words in the first line of printing on single-sheet manifestations if the words have not been transcribed as part of the [Title proper](/DCRMR/title/Title-proper) (see [1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)).
 
 ### 1.25.3593 Variant and other titles within the manifestation (optional)
 
