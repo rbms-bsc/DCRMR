@@ -562,7 +562,7 @@ sidebar:
 |		|	7B4.1.	|	[1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)	|
 |		|	7B4.2.	|	[1.29.36.2](/DCRMR/title/Note-on-title/#1.29.36.2)	|
 |	Parallel titles and other title information	|	7B5.	|	[1.29.37.1](/DCRMR/title/Note-on-title/#1.29.37.1)	|
-|	Statements of responsibility	|	7B6.	|	[2.29.31](/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-title-page)	|
+|	Statements of responsibility	|	7B6.	|	[2.29.31](/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-preferred-source)	|
 |	Statement of responsibility in source other than title page	|	7B6.1.	|	[2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)	|
 |	Transposed statements of responsibility.	|	7B6.2.	|	[2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)	|
 |	Attributions	|	7B6.3.	|	[2.29.33](/DCRMR/sor/Note-on-statement-of-responsibility/#22933-attributions)	|
