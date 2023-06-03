@@ -297,7 +297,7 @@ sidebar:
 |	Information covered by labels, etc.	|	4A5.	|	[5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1) [5.25.31.1](/DCRMR/ppdm/Distribution-statement/#5.25.31.1)	|
 |	Elements relating to publication, distribution, etc., vs. elements relating to manufacture	|	4A6.	|	[5.2.32.1](/DCRMR/ppdm/Publication-statement/#5.2.32.1) [5.25.32.1](/DCRMR/ppdm/Distribution-statement/#5.25.32.1)	|
 |	Statements relating to publication, distribution, etc., only	|	4A6.1.	|	[5.2.33.1](/DCRMR/ppdm/Publication-statement/#5.2.33.1) [5.25.33.1](/DCRMR/ppdm/Distribution-statement/#5.25.33.1)	|
-|	Statements relating to manufacture only	|	4A6.2.	|	[5.2.335](/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distributor-only)	|
+|	Statements relating to manufacture only	|	4A6.2.	|	[5.2.335](/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distribution-only)	|
 |		|	4A5.2.1.	|	[5.2.335.1](/DCRMR/ppdm/Publication-statement/#5.2.335.1)	|
 |		|	4A5.2.2.	|	[5.2.335.2](/DCRMR/ppdm/Publication-statement/#5.2.335.2)	|
 |	Statements relating both to publication, distribution, etc., and to manufacture	|	4A5.3.	|	[5.2.34.1](/DCRMR/ppdm/Publication-statement/#5.2.34.1) [5.25.34.1](/DCRMR/ppdm/Distribution-statement/#5.25.34.1)	|
