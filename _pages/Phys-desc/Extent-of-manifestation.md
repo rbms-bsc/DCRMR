@@ -74,7 +74,7 @@ sidebar:
 > Extent of manifestation: <CITE>[4] pages</CITE>  
 > Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank</CITE>
 
-See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-cases-portfolios-etc)&ndash;[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
+See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-manifestations-in-one-physical-unit-other-than-a-volume)&ndash;[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
 
 #### 6.21.4225 Unnumbered pages or leaves
 
