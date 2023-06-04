@@ -117,7 +117,7 @@ sidebar:
 >**Example:**  
 ><CITE>Octr. 42 [that is, 24], 1799</CITE>
 
-<a name="5.23.31.46">5.23.31.46</a> If necessary, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to clarify that the date added as a correction is a differing date, not a correction of an error on the material (see 5.24.SOMETHING.SOMETHING).
+<a name="5.23.31.46.Y.Y">5.23.31.46.Y.Y</a> If necessary, make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to clarify that the date added as a correction is a differing date, not a correction of an error on the material (see 5.24.SOMETHING.SOMETHING).
 
 <a name="5.23.31.5">5.23.31.5</a> **Julian/Old Style dates**. If the year of publication is based on the Julian calendar (sometimes called the Old Style calendar) and the manifestation is known to have been published in the following year according to the Gregorian calendar, transcribe the date as it appears and supply the Gregorian year, preceded by “that is,” in square brackets. Always make a [Note on publication statement](/DCRMR/ppdm/Note-on-publication-statement/) to indicate the basis for the supplied year (see [5.24.36.4](/DCRMR/ppdm/Note-on-publication-statement/#5.24.36.4)). Do not amend the month and day, if present, by supplying Gregorian equivalents. In case of doubt, do not adjust the year.
 

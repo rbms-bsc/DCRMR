@@ -23,7 +23,7 @@ sidebar:
 
 <a name="5.1.2.1.Y.Y">5.1.2.1.Y.Y</a> A statement that identifies a place of production, a producer, or a date of production of an unpublished manifestation.
 
-<a name="5.1.2.2.Y.Y">5.1.1.2.2.Y</a> A production statement includes a statement about the inscription, fabrication, construction, etc., of an unpublished manifestation.
+<a name="5.1.2.2.Y.Y">5.1.2.2.Y.Y</a> A production statement includes a statement about the inscription, fabrication, construction, etc., of an unpublished manifestation.
 
 ## 5.1.21.Y.Y DCRMR elaboration of scope
 
