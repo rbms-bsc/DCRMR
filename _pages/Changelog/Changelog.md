@@ -32,7 +32,7 @@ Architectural and code changes:
 * Changed: Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions 
 * Removed: 
 * Renamed: Changes from DCRM(B) to Changes from DCRM
-* Fixed: 
+* Fixed: Updates to DCRMRthebook script
 
 ## Release history
 
