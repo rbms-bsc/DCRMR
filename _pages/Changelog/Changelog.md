@@ -29,7 +29,7 @@ SUMMARY FROM CHIEF EDITORS
 
 Architectural and code changes:  
 * Added: preferred citation; related manifestation of manifestation; restriction on access to item; restriciton on use of item; place of production; parallel place of production; date of production; note on production statement; mount; details of mount; generation; details of generation; polarity; details of polarity  
-* Changed: Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions 
+* Changed: Link to ISBD to the ISBD (2021 update to 2011 consolidated edition); Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions 
 * Removed: 
 * Renamed: Changes from DCRM(B) to Changes from DCRM
 * Fixed: Updates to DCRMRthebook script

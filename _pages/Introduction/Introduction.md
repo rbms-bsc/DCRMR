@@ -160,7 +160,7 @@ Alternative rules may be found at [0.4.31.4](/DCRMR/general-rules/Transcription/
 |DCRMR	|[Descriptive Cataloging of Rare Materials (RDA Edition)](/DCRMR/){:target="_blank"}|
 |DCRM(S)|[Descriptive Cataloging of Rare Materials (Serials)](http://rbms.info/dcrm/dcrms/){:target="_blank"}|
 |IFLA|[International Federation of Library Associations and Institutions](https://www.ifla.org/){:target="_blank"}|
-|ISBD	|[International Standard Bibliographic Description](https://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf){:target="_blank"}|
+|ISBD	|[International Standard Bibliographic Description](https://repository.ifla.org/handle/123456789/1939){:target="_blank"}|
 |FRBR	|[Functional Requirements for Bibliographic Records](https://www.ifla.org/publications/functional-requirements-for-bibliographic-records){:target="_blank"}|
 |LC	|[Library of Congress](https://www.loc.gov/){:target="_blank"}|
 |LC-PCC PS | [Library of Congress and Program for Cooperative Cataloging Policy Statements](http://access.rdatoolkit.org/lcpschp0_lcps0-63.html){:target="_blank"}|
